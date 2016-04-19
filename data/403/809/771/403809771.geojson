@@ -1,0 +1,68 @@
+{
+  "id": 403809771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.346287,42.4592,-96.346287,42.4592",
+    "geom:latitude":42.4592,
+    "geom:longitude":-96.346287,
+    "iso:country":"US",
+    "sg:address":"2830 S Lakeport St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 2117",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jPEGkXMZmwWoaQDYqJ7Dj_42.459200_-96.346287@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c002c8cf5949b437ad62ca4f36f16743",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":403809771
+        }
+    ],
+    "wof:id":403809771,
+    "wof:lastmodified":1449055726,
+    "wof:name":"McKercher Thms P Cstm Hs Bldr",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-96.346287,42.4592,-96.346287,42.4592],
+  "geometry": {"coordinates":[-96.346287,42.4592],"type":"Point"}
+}

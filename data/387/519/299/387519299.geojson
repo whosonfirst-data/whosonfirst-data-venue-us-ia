@@ -1,0 +1,68 @@
+{
+  "id": 387519299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.377485,42.490456,-96.377485,42.490456",
+    "geom:latitude":42.490456,
+    "geom:longitude":-96.377485,
+    "iso:country":"US",
+    "sg:address":"2423 Correctionville Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1230",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oaAohHJKXVKfOX6ydDbdk_42.490456_-96.377485@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"456260c6cd9c887d2fa9632d08f4737a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":387519299
+        }
+    ],
+    "wof:id":387519299,
+    "wof:lastmodified":1449059666,
+    "wof:name":"Freeman TV Svc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [-96.377485,42.490456,-96.377485,42.490456],
+  "geometry": {"coordinates":[-96.377485,42.490456],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 387676451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.348377,42.470537,-96.348377,42.470537",
+    "geom:latitude":42.470537,
+    "geom:longitude":-96.348377,
+    "iso:country":"US",
+    "sg:address":"4523 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 3004",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38vabqUO87NbJTK1T3jwOn_42.470537_-96.348377@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cb960665f6dbad093614249c3909303",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387676451
+        }
+    ],
+    "wof:id":387676451,
+    "wof:lastmodified":1449058551,
+    "wof:name":"Tobacco Hut",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [-96.348377,42.470537,-96.348377,42.470537],
+  "geometry": {"coordinates":[-96.348377,42.470537],"type":"Point"}
+}

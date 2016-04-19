@@ -1,0 +1,73 @@
+{
+  "id": 219586371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.598089,41.497838,-90.598089,41.497838",
+    "geom:latitude":41.497838,
+    "geom:longitude":-90.598089,
+    "iso:country":"US",
+    "sg:address":"1706 Mill St",
+    "sg:city":"Rock Island",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 309 786 9264",
+    "sg:postcode":"61201",
+    "sg:province":"IL",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hjOYjkgFKZ0J9em6CksfE_41.497838_-90.598089@1294102059"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32968cdee0b1d8238994dbec00f02396",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":219586371
+        }
+    ],
+    "wof:id":219586371,
+    "wof:lastmodified":1449073514,
+    "wof:name":"Rock Island Boat Club Inc",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [-90.598089,41.497838,-90.598089,41.497838],
+  "geometry": {"coordinates":[-90.598089,41.497838],"type":"Point"}
+}

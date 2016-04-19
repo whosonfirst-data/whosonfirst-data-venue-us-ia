@@ -1,0 +1,68 @@
+{
+  "id": 387644543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.347256,42.435311,-96.347256,42.435311",
+    "geom:latitude":42.435311,
+    "geom:longitude":-96.347256,
+    "iso:country":"US",
+    "sg:address":"4300 S Lakeport St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 266 0707",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hDdhzgaGctea4Z7LX9UV9_42.435311_-96.347256@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc796cd70d9d21ee7843f63f2853116a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387644543
+        }
+    ],
+    "wof:id":387644543,
+    "wof:lastmodified":1449058281,
+    "wof:name":"Sioux City Physical Therapy",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-96.347256,42.435311,-96.347256,42.435311],
+  "geometry": {"coordinates":[-96.347256,42.435311],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387236481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.371402,42.483085,-96.371402,42.483085",
+    "geom:latitude":42.483085,
+    "geom:longitude":-96.371402,
+    "iso:country":"US",
+    "sg:address":"814 S Rustin St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 3990",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HqxmEJtvYLvApDfV8m8ER_42.483085_-96.371402@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"525903d027131e3c49f7d74a5442d8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387236481
+        }
+    ],
+    "wof:id":387236481,
+    "wof:lastmodified":1449056515,
+    "wof:name":"Roffman & Assoc Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [-96.371402,42.483085,-96.371402,42.483085],
+  "geometry": {"coordinates":[-96.371402,42.483085],"type":"Point"}
+}

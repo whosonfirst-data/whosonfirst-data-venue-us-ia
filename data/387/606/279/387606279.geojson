@@ -1,0 +1,68 @@
+{
+  "id": 387606279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.376106,42.490317,-96.376106,42.490317",
+    "geom:latitude":42.490317,
+    "geom:longitude":-96.376106,
+    "iso:country":"US",
+    "sg:address":"2519 Correctionville Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0684",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72j5KnNbDvRqKOUR0ILgqT_42.490317_-96.376106@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08564e2c153289aa2010687eced18755",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":387606279
+        }
+    ],
+    "wof:id":387606279,
+    "wof:lastmodified":1449056689,
+    "wof:name":"Rocket Auto Wash & Detail Ctr",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-96.376106,42.490317,-96.376106,42.490317],
+  "geometry": {"coordinates":[-96.376106,42.490317],"type":"Point"}
+}

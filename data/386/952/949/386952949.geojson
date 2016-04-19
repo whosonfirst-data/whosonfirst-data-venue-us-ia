@@ -1,0 +1,68 @@
+{
+  "id": 386952949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36685,42.425425,-96.36685,42.425425",
+    "geom:latitude":42.425425,
+    "geom:longitude":-96.36685,
+    "iso:country":"US",
+    "sg:address":"4720 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 3773",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zPlyXBXiM2Ir2wlrDuBAB_42.425425_-96.366850@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f7f542cf7de5330a2f447e0d117a0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":386952949
+        }
+    ],
+    "wof:id":386952949,
+    "wof:lastmodified":1449028858,
+    "wof:name":"Green Light Truck Wash & Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [-96.36685,42.425425,-96.36685,42.425425],
+  "geometry": {"coordinates":[-96.36685,42.425425],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 203112101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.166639,41.86889,-90.166639,41.86889",
+    "geom:latitude":41.86889,
+    "geom:longitude":-90.166639,
+    "iso:country":"US",
+    "sg:address":"303 8th Ave",
+    "sg:city":"Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 815 589 3211",
+    "sg:postcode":"61252",
+    "sg:province":"IL",
+    "sg:website":"www.fultoncorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85942947,
+        102086301,
+        85831815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BL3CiG83rX7Z6my1L0kN1_41.868890_-90.166639@1294102059"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"085a917b1fe1293df538fc8f40c158a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086301,
+            "locality_id":85942947,
+            "neighbourhood_id":85831815,
+            "region_id":85688713,
+            "venue_id":203112101
+        }
+    ],
+    "wof:id":203112101,
+    "wof:lastmodified":1449025785,
+    "wof:name":"Fulton Corp",
+    "wof:parent_id":85831815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.166639,41.86889,-90.166639,41.86889],
+  "geometry": {"coordinates":[-90.166639,41.86889],"type":"Point"}
+}

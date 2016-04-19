@@ -1,0 +1,68 @@
+{
+  "id": 387900563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36733,42.427099,-96.36733,42.427099",
+    "geom:latitude":42.427099,
+    "geom:longitude":-96.36733,
+    "iso:country":"US",
+    "sg:address":"4623 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 1856",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sr39awdUyX0GjckaLmVfF_42.427099_-96.367330@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbf7db17d56d327b51f408b03645f365",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387900563
+        }
+    ],
+    "wof:id":387900563,
+    "wof:lastmodified":1449057746,
+    "wof:name":"Transportation Dept-Mechanic",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [-96.36733,42.427099,-96.36733,42.427099],
+  "geometry": {"coordinates":[-96.36733,42.427099],"type":"Point"}
+}

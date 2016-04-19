@@ -1,0 +1,68 @@
+{
+  "id": 387383461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.367337,42.427134,-96.367337,42.427134",
+    "geom:latitude":42.427134,
+    "geom:longitude":-96.367337,
+    "iso:country":"US",
+    "sg:address":"4621 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 2723",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2To1PJyazeKa4sIyZN9zfJ_42.427134_-96.367337@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbc4497e56004584f329ec6c1612cb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387383461
+        }
+    ],
+    "wof:id":387383461,
+    "wof:lastmodified":1449057718,
+    "wof:name":"Transportation Dept-Materials",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [-96.367337,42.427134,-96.367337,42.427134],
+  "geometry": {"coordinates":[-96.367337,42.427134],"type":"Point"}
+}

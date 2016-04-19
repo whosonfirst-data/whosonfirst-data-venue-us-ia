@@ -1,0 +1,68 @@
+{
+  "id": 236823977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.595864,41.493808,-90.595864,41.493808",
+    "geom:latitude":41.493808,
+    "geom:longitude":-90.595864,
+    "iso:country":"US",
+    "sg:address":"100 18th Ave",
+    "sg:city":"Rock Island",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 309 786 5620",
+    "sg:postcode":"61201",
+    "sg:province":"IL",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DG2eITrn85IXVSEjabCkf_41.493808_-90.595864@1294102059"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96d4ede765a660735a875b887b118837",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":236823977
+        }
+    ],
+    "wof:id":236823977,
+    "wof:lastmodified":1449005217,
+    "wof:name":"Bennett Motor Express",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [-90.595864,41.493808,-90.595864,41.493808],
+  "geometry": {"coordinates":[-90.595864,41.493808],"type":"Point"}
+}

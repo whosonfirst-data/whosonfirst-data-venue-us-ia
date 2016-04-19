@@ -1,0 +1,66 @@
+{
+  "id": 387534727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.371754,42.46283,-96.371754,42.46283",
+    "geom:latitude":42.46283,
+    "geom:longitude":-96.371754,
+    "iso:country":"US",
+    "sg:address":"2624 S Rustin St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 2152",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SrUM5f1jpXx8sCFTFLRva_42.462830_-96.371754@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60a4b3a6350551e9d2befd8f5a48de45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387534727
+        }
+    ],
+    "wof:id":387534727,
+    "wof:lastmodified":1449057088,
+    "wof:name":"Custom Cleaning Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-96.371754,42.46283,-96.371754,42.46283],
+  "geometry": {"coordinates":[-96.371754,42.46283],"type":"Point"}
+}

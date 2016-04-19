@@ -1,0 +1,68 @@
+{
+  "id": 387533185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.347101,42.471544,-96.347101,42.471544",
+    "geom:latitude":42.471544,
+    "geom:longitude":-96.347101,
+    "iso:country":"US",
+    "sg:address":"1819 S Lakeport St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 0520",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "rehab",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u3GU6DOYtZQErrEm94MnN_42.471544_-96.347101@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3072064f54c97f13705526e9f122a9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387533185
+        }
+    ],
+    "wof:id":387533185,
+    "wof:lastmodified":1449056066,
+    "wof:name":"Jeff Sisson",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "treatment"
+    ]
+},
+  "bbox": [-96.347101,42.471544,-96.347101,42.471544],
+  "geometry": {"coordinates":[-96.347101,42.471544],"type":"Point"}
+}

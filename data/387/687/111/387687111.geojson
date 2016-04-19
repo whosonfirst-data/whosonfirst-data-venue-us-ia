@@ -1,0 +1,66 @@
+{
+  "id": 387687111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.350827,42.472636,-96.350827,42.472636",
+    "geom:latitude":42.472636,
+    "geom:longitude":-96.350827,
+    "iso:country":"US",
+    "sg:address":"1700 S Nicollet St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 253 3281",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RejxM5K7cqZc8j2WRSyGo_42.472636_-96.350827@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f67de7f05df1190c76dba2bed9e19d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387687111
+        }
+    ],
+    "wof:id":387687111,
+    "wof:lastmodified":1449057167,
+    "wof:name":"Go-Fer Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-96.350827,42.472636,-96.350827,42.472636],
+  "geometry": {"coordinates":[-96.350827,42.472636],"type":"Point"}
+}

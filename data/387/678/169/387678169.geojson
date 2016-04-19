@@ -1,0 +1,66 @@
+{
+  "id": 387678169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.354957,42.47063,-96.354957,42.47063",
+    "geom:latitude":42.47063,
+    "geom:longitude":-96.354957,
+    "iso:country":"US",
+    "sg:address":"4016 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 2206",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zaRtVi7twNCO23dQD4ZGP_42.470630_-96.354957@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f64bc3b12ec0e80e785895915a8ac04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":387678169
+        }
+    ],
+    "wof:id":387678169,
+    "wof:lastmodified":1449057939,
+    "wof:name":"Morningside Dental Clinic",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-96.354957,42.47063,-96.354957,42.47063],
+  "geometry": {"coordinates":[-96.354957,42.47063],"type":"Point"}
+}

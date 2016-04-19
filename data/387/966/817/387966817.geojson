@@ -1,0 +1,67 @@
+{
+  "id": 387966817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.485184,43.009721,-96.485184,43.009721",
+    "geom:latitude":43.009721,
+    "geom:longitude":-96.485184,
+    "iso:country":"US",
+    "sg:address":"2021 Central Ave",
+    "sg:city":"Hawarden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 551 1479",
+    "sg:postcode":"51023",
+    "sg:province":"SD",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944773,
+        102086579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JHxfd5SKjZdCxntrbImpA_43.009721_-96.485184@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c6a4f49fd0b8f62cdef49bd0b13311e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086579,
+            "locality_id":85944773,
+            "neighbourhood_id":-1,
+            "region_id":85688713,
+            "venue_id":387966817
+        }
+    ],
+    "wof:id":387966817,
+    "wof:lastmodified":1449056140,
+    "wof:name":"Jack's Car Wash Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-96.485184,43.009721,-96.485184,43.009721],
+  "geometry": {"coordinates":[-96.485184,43.009721],"type":"Point"}
+}

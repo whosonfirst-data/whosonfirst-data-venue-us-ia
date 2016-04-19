@@ -1,0 +1,66 @@
+{
+  "id": 403740311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.387389,42.488839,-96.387389,42.488839",
+    "geom:latitude":42.488839,
+    "geom:longitude":-96.387389,
+    "iso:country":"US",
+    "sg:address":"1711 Dace Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1298",
+    "sg:postcode":"51106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jzzipfu1IZDv2vVdWSazA_42.488839_-96.387389@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40142f06a5dbfa97fae1117d76d37e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":403740311
+        }
+    ],
+    "wof:id":403740311,
+    "wof:lastmodified":1449055242,
+    "wof:name":"Dean's Fleet Svc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-96.387389,42.488839,-96.387389,42.488839],
+  "geometry": {"coordinates":[-96.387389,42.488839],"type":"Point"}
+}
