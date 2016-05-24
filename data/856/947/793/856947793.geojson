@@ -1,0 +1,73 @@
+{
+  "id": 856947793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.261757,42.481101,-96.261757,42.481101",
+    "geom:latitude":42.481101,
+    "geom:longitude":-96.261757,
+    "iso:country":"US",
+    "sg:address":"7559 Correctionville Rd",
+    "sg:city":"Lawton",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 5793",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YWbUBVgRq2nAAVytkSkj5_42.481101_-96.261757@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109988,
+    "wof:geomhash":"2c6785138e7dcf029b59fa81539bb329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856947793
+        }
+    ],
+    "wof:id":856947793,
+    "wof:lastmodified":1464109988,
+    "wof:name":"KSEZ",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -96.261757,
+    42.481101,
+    -96.261757,
+    42.481101
+],
+  "geometry": {"coordinates":[-96.261757,42.481101],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856927153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.774495,41.655231,-93.774495,41.655231",
+    "geom:latitude":41.655231,
+    "geom:longitude":-93.774495,
+    "iso:country":"US",
+    "sg:address":"11290 NW 52nd Ave",
+    "sg:city":"Grimes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 986 0240",
+    "sg:postcode":"50111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944147,
+        102086603,
+        85896483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gJbmV9P0C3SLwUZaNVJNa_41.655231_-93.774495@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109132,
+    "wof:geomhash":"c1f818ea7b48a6e956def579d36521e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944147,
+            "neighbourhood_id":85896483,
+            "region_id":85688713,
+            "venue_id":856927153
+        }
+    ],
+    "wof:id":856927153,
+    "wof:lastmodified":1464109132,
+    "wof:name":"Tony's Collision Ctr Inc",
+    "wof:parent_id":85896483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.774495,
+    41.655231,
+    -93.774495,
+    41.655231
+],
+  "geometry": {"coordinates":[-93.774495,41.655231],"type":"Point"}
+}

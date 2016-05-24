@@ -1,0 +1,76 @@
+{
+  "id": 857062663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8946,41.2621,-95.8946,41.2621",
+    "geom:latitude":41.2621,
+    "geom:longitude":-95.8946,
+    "iso:country":"US",
+    "sg:address":"3112 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0693",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vipsqn39CYeBMHkGtvVPS_41.262100_-95.894600@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115011,
+    "wof:geomhash":"abc034f7ffc78a261b80148e7106072a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062663
+        }
+    ],
+    "wof:id":857062663,
+    "wof:lastmodified":1464115011,
+    "wof:name":"Timothy Luth Church Mo Synod",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.8946,
+    41.2621,
+    -95.8946,
+    41.2621
+],
+  "geometry": {"coordinates":[-95.8946,41.2621],"type":"Point"}
+}

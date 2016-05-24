@@ -1,0 +1,73 @@
+{
+  "id": 856924323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559649,41.362411,-93.559649,41.362411",
+    "geom:latitude":41.362411,
+    "geom:longitude":-93.559649,
+    "iso:country":"US",
+    "sg:address":"108 E Boston Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2838",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ItQ4EcrYEA1sR7RVGtxHm_41.362411_-93.559649@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109014,
+    "wof:geomhash":"f99849a21bb3ac52226ceb0f426eb16d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856924323
+        }
+    ],
+    "wof:id":856924323,
+    "wof:lastmodified":1464109014,
+    "wof:name":"Indianola Body Shop",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.559649,
+    41.362411,
+    -93.559649,
+    41.362411
+],
+  "geometry": {"coordinates":[-93.55964899999999,41.362411],"type":"Point"}
+}

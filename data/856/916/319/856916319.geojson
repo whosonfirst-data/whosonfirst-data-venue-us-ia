@@ -1,0 +1,66 @@
+{
+  "id": 856916319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.853233,41.219442,-95.853233,41.219442",
+    "geom:latitude":41.219442,
+    "geom:longitude":-95.853233,
+    "iso:country":"US",
+    "sg:address":"429 W South Omaha Bridge Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 1032",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G5WSx8mUwlPRoMMgYBAbR_41.219442_-95.853233@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108669,
+    "wof:geomhash":"8f4f99f14b1f41bb59c9596fc5ed0a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856916319
+        }
+    ],
+    "wof:id":856916319,
+    "wof:lastmodified":1464108669,
+    "wof:name":"Cal's Food & Gas Mart",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.853233,
+    41.219442,
+    -95.853233,
+    41.219442
+],
+  "geometry": {"coordinates":[-95.853233,41.219442],"type":"Point"}
+}

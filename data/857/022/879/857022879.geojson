@@ -1,0 +1,71 @@
+{
+  "id": 857022879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.921974,41.856638,-93.921974,41.856638",
+    "geom:latitude":41.856638,
+    "geom:longitude":-93.921974,
+    "iso:country":"US",
+    "sg:address":"105 E 2nd St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2184",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EKiRCXlhOwlvVVgodK6EI_41.856638_-93.921974@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113311,
+    "wof:geomhash":"80db3f5a57bede3bc9854494a6601f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857022879
+        }
+    ],
+    "wof:id":857022879,
+    "wof:lastmodified":1464113311,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -93.921974,
+    41.856638,
+    -93.921974,
+    41.856638
+],
+  "geometry": {"coordinates":[-93.92197400000001,41.856638],"type":"Point"}
+}

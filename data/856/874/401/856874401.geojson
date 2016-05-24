@@ -1,0 +1,73 @@
+{
+  "id": 856874401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.519679,42.227937,-91.519679,42.227937",
+    "geom:latitude":42.227937,
+    "geom:longitude":-91.519679,
+    "iso:country":"US",
+    "sg:address":"5086 Red School Rd",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6500",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xZ7F8aQD8YjP0NhUSgvQf_42.227937_-91.519679@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106905,
+    "wof:geomhash":"dd150479b5f277b68232cd32afbfee10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856874401
+        }
+    ],
+    "wof:id":856874401,
+    "wof:lastmodified":1464106905,
+    "wof:name":"Soukup Construction Corp",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.519679,
+    42.227937,
+    -91.519679,
+    42.227937
+],
+  "geometry": {"coordinates":[-91.519679,42.227937],"type":"Point"}
+}

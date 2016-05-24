@@ -1,0 +1,71 @@
+{
+  "id": 857063365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.824699,41.2505,-95.824699,41.2505",
+    "geom:latitude":41.2505,
+    "geom:longitude":-95.824699,
+    "iso:country":"US",
+    "sg:address":"227 Wendy Heights Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 6441",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SRXCylchQ0vDo9mvAUXnR_41.250500_-95.824699@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115034,
+    "wof:geomhash":"0d519374af36cf08810b1b28933a70b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063365
+        }
+    ],
+    "wof:id":857063365,
+    "wof:lastmodified":1464115034,
+    "wof:name":"Christensen Chris",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.824699,
+    41.2505,
+    -95.824699,
+    41.2505
+],
+  "geometry": {"coordinates":[-95.824699,41.2505],"type":"Point"}
+}

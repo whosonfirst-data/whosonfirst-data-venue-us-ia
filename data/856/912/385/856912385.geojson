@@ -1,0 +1,75 @@
+{
+  "id": 856912385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.607283,41.624054,-93.607283,41.624054",
+    "geom:latitude":41.624054,
+    "geom:longitude":-93.607283,
+    "iso:country":"US",
+    "sg:address":"3004 Wright St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 971 0830",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GiKvGaQIMvgN9TtwldUJ5_41.624054_-93.607283@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108518,
+    "wof:geomhash":"195bf49b4142951cd5c7acbc78d1b10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856912385
+        }
+    ],
+    "wof:id":856912385,
+    "wof:lastmodified":1464108518,
+    "wof:name":"SRC Services",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.607283,
+    41.624054,
+    -93.607283,
+    41.624054
+],
+  "geometry": {"coordinates":[-93.607283,41.624054],"type":"Point"}
+}

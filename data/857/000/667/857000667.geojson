@@ -1,0 +1,71 @@
+{
+  "id": 857000667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619808,41.644102,-93.619808,41.644102",
+    "geom:latitude":41.644102,
+    "geom:longitude":-93.619808,
+    "iso:country":"US",
+    "sg:address":"4675 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 283 2227",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6alwxF1qneCMBElohoyOnD_41.644102_-93.619808@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112389,
+    "wof:geomhash":"a00d7fb7a01b8883d77aa87d1cd4a4b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":857000667
+        }
+    ],
+    "wof:id":857000667,
+    "wof:lastmodified":1464112389,
+    "wof:name":"Auto Credit Store",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.619808,
+    41.644102,
+    -93.619808,
+    41.644102
+],
+  "geometry": {"coordinates":[-93.61980800000001,41.644102],"type":"Point"}
+}

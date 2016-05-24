@@ -1,0 +1,71 @@
+{
+  "id": 856913713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.915689,41.293604,-95.915689,41.293604",
+    "geom:latitude":41.293604,
+    "geom:longitude":-95.915689,
+    "iso:country":"US",
+    "sg:address":"905 Silver Ln",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 5527",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YH3zF4xR4byQKerG4unU6_41.293604_-95.915689@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108569,
+    "wof:geomhash":"3e29a4878ab883ded95cd1893fdd1bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856913713
+        }
+    ],
+    "wof:id":856913713,
+    "wof:lastmodified":1464108569,
+    "wof:name":"Jones Motorsports",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.915689,
+    41.293604,
+    -95.915689,
+    41.293604
+],
+  "geometry": {"coordinates":[-95.915689,41.293604],"type":"Point"}
+}

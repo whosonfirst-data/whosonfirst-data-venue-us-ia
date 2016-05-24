@@ -1,0 +1,71 @@
+{
+  "id": 857062779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.885201,41.2621,-95.885201,41.2621",
+    "geom:latitude":41.2621,
+    "geom:longitude":-95.885201,
+    "iso:country":"US",
+    "sg:address":"2612 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1782",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n2RgVkVzwQWhPhcvwYyr3_41.262100_-95.885201@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115014,
+    "wof:geomhash":"a05518c4bc4287429a45e2fcd82e72de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062779
+        }
+    ],
+    "wof:id":857062779,
+    "wof:lastmodified":1464115014,
+    "wof:name":"Szechwan Chinese Restaurant",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -95.885201,
+    41.2621,
+    -95.885201,
+    41.2621
+],
+  "geometry": {"coordinates":[-95.885201,41.2621],"type":"Point"}
+}

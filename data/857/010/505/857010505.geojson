@@ -1,0 +1,75 @@
+{
+  "id": 857010505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683413,41.94329,-91.683413,41.94329",
+    "geom:latitude":41.94329,
+    "geom:longitude":-91.683413,
+    "iso:country":"US",
+    "sg:address":"1120 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 6809",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "guidance",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23vDFwoywOg4keTAcpZYDO_41.943290_-91.683413@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112802,
+    "wof:geomhash":"7ab260ef9153510d4a154259af645a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857010505
+        }
+    ],
+    "wof:id":857010505,
+    "wof:lastmodified":1464112802,
+    "wof:name":"Parent Education Consortium",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guidance",
+        "child"
+    ]
+},
+  "bbox": [
+    -91.683413,
+    41.94329,
+    -91.683413,
+    41.94329
+],
+  "geometry": {"coordinates":[-91.683413,41.94329],"type":"Point"}
+}

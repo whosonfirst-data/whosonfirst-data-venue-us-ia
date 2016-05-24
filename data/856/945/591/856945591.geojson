@@ -1,0 +1,73 @@
+{
+  "id": 856945591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.357392,42.403261,-92.357392,42.403261",
+    "geom:latitude":42.403261,
+    "geom:longitude":-92.357392,
+    "iso:country":"US",
+    "sg:address":"7100 Kimball Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 296 1484",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CI8bIpj69KVgAqNWETGnA_42.403261_-92.357392@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109907,
+    "wof:geomhash":"47f99248a2793a1b920e9d4073198f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856945591
+        }
+    ],
+    "wof:id":856945591,
+    "wof:lastmodified":1464109907,
+    "wof:name":"Blaine Miller",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -92.357392,
+    42.403261,
+    -92.357392,
+    42.403261
+],
+  "geometry": {"coordinates":[-92.357392,42.403261],"type":"Point"}
+}

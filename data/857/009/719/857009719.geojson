@@ -1,0 +1,71 @@
+{
+  "id": 857009719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673606,42.038686,-91.673606,42.038686",
+    "geom:latitude":42.038686,
+    "geom:longitude":-91.673606,
+    "iso:country":"US",
+    "sg:address":"81 Emmons St",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 832 2366",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_765zQ7SkfjG9skddtZzkia_42.038686_-91.673606@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112776,
+    "wof:geomhash":"2e3b3c483130216455e8ce507212958c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857009719
+        }
+    ],
+    "wof:id":857009719,
+    "wof:lastmodified":1464112776,
+    "wof:name":"Hiawatha City Office",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.673606,
+    42.038686,
+    -91.673606,
+    42.038686
+],
+  "geometry": {"coordinates":[-91.67360600000001,42.038686],"type":"Point"}
+}

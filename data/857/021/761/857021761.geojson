@@ -1,0 +1,71 @@
+{
+  "id": 857021761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867406,42.389278,-95.867406,42.389278",
+    "geom:latitude":42.389278,
+    "geom:longitude":-95.867406,
+    "iso:country":"US",
+    "sg:address":"107 E Bridge St",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 5617",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nXCJ5Fh7QFrP6COhCchoc_42.389278_-95.867406@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113264,
+    "wof:geomhash":"afe408a1cb861c1e3aa3b6cfb9321ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857021761
+        }
+    ],
+    "wof:id":857021761,
+    "wof:lastmodified":1464113264,
+    "wof:name":"Anthon Fire Dept",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.867406,
+    42.389278,
+    -95.867406,
+    42.389278
+],
+  "geometry": {"coordinates":[-95.867406,42.389278],"type":"Point"}
+}

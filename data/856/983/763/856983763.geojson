@@ -1,0 +1,73 @@
+{
+  "id": 856983763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.961252,41.684296,-93.961252,41.684296",
+    "geom:latitude":41.684296,
+    "geom:longitude":-93.961252,
+    "iso:country":"US",
+    "sg:address":"507 14th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3711",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10CWx3ctWpRWRusTsCuKgn_41.684296_-93.961252@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111670,
+    "wof:geomhash":"0dde7dbb3d2dada132cebf51338d5c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856983763
+        }
+    ],
+    "wof:id":856983763,
+    "wof:lastmodified":1464111670,
+    "wof:name":"Dallas Center Medical Assoc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.961252,
+    41.684296,
+    -93.961252,
+    41.684296
+],
+  "geometry": {"coordinates":[-93.961252,41.684296],"type":"Point"}
+}

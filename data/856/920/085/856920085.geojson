@@ -1,0 +1,71 @@
+{
+  "id": 856920085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.125482,41.76802,-94.125482,41.76802",
+    "geom:latitude":41.76802,
+    "geom:longitude":-94.125482,
+    "iso:country":"US",
+    "sg:address":"1869 I Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5483",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BlbEK41MABd9Kfn0UJrRF_41.768020_-94.125482@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108814,
+    "wof:geomhash":"97109dd1912859e65b51d5346c3ff054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856920085
+        }
+    ],
+    "wof:id":856920085,
+    "wof:lastmodified":1464108814,
+    "wof:name":"Liston Welding Shop",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.125482,
+    41.76802,
+    -94.125482,
+    41.76802
+],
+  "geometry": {"coordinates":[-94.12548200000001,41.76802],"type":"Point"}
+}

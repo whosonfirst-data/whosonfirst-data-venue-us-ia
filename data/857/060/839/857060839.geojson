@@ -1,0 +1,74 @@
+{
+  "id": 857060839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.582069,42.033238,-91.582069,42.033238",
+    "geom:latitude":42.033238,
+    "geom:longitude":-91.582069,
+    "iso:country":"US",
+    "sg:address":"2840 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/marion/80662-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7722",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FzgroDGE8iqPM4qM9uyqg_42.033307_-91.581737@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114929,
+    "wof:geomhash":"7c9f3d9c6fdccd6794acd7b680e1593f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857060839
+        }
+    ],
+    "wof:id":857060839,
+    "wof:lastmodified":1464114929,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.582069,
+    42.033238,
+    -91.582069,
+    42.033238
+],
+  "geometry": {"coordinates":[-91.582069,42.033238],"type":"Point"}
+}

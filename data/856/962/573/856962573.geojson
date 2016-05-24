@@ -1,0 +1,71 @@
+{
+  "id": 856962573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.574584,41.6489,-91.574584,41.6489",
+    "geom:latitude":41.6489,
+    "geom:longitude":-91.574584,
+    "iso:country":"US",
+    "sg:address":"2423 Walden Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 9340",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57wIWmxm52RAeE5lVntLof_41.648900_-91.574584@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110652,
+    "wof:geomhash":"fc115d97d21811d3562946e1ee104d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":856962573
+        }
+    ],
+    "wof:id":856962573,
+    "wof:lastmodified":1464110652,
+    "wof:name":"Lois Massey",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.574584,
+    41.6489,
+    -91.574584,
+    41.6489
+],
+  "geometry": {"coordinates":[-91.574584,41.6489],"type":"Point"}
+}

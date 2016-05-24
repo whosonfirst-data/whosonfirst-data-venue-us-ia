@@ -1,0 +1,65 @@
+{
+  "id": 856803237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.43842,41.287306,-93.43842,41.287306",
+    "geom:latitude":41.287306,
+    "geom:longitude":-93.43842,
+    "iso:country":"US",
+    "sg:address":"123 Main St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6557",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:website":"www.cityofmilo.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WJnlSQj9t44lo6hb51DBu_41.287306_-93.438420@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103331,
+    "wof:geomhash":"a9cf9b1ab85ec5b5d21325e2a105c822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856803237
+        }
+    ],
+    "wof:id":856803237,
+    "wof:lastmodified":1464103331,
+    "wof:name":"Milo Public Library",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.43842,
+    41.287306,
+    -93.43842,
+    41.287306
+],
+  "geometry": {"coordinates":[-93.43841999999999,41.287306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856889267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.279917,41.637116,-94.279917,41.637116",
+    "geom:latitude":41.637116,
+    "geom:longitude":-94.279917,
+    "iso:country":"US",
+    "sg:address":"2551 A Ave",
+    "sg:city":"Linden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 744 2025",
+    "sg:postcode":"50216",
+    "sg:province":"IA",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49HMQ3BYCKdiE91L3qNOnr_41.637116_-94.279917@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107657,
+    "wof:geomhash":"5c1c944f0c071468106bb5dd0d420d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856889267
+        }
+    ],
+    "wof:id":856889267,
+    "wof:lastmodified":1464107657,
+    "wof:name":"Educational Seminars For Profe",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -94.279917,
+    41.637116,
+    -94.279917,
+    41.637116
+],
+  "geometry": {"coordinates":[-94.279917,41.637116],"type":"Point"}
+}

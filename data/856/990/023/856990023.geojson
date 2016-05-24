@@ -1,0 +1,73 @@
+{
+  "id": 856990023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683302,41.981033,-91.683302,41.981033",
+    "geom:latitude":41.981033,
+    "geom:longitude":-91.683302,
+    "iso:country":"US",
+    "sg:address":"715 H Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 2133",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sMBzpPuGoGU4z9ajMxtt8_41.981033_-91.683302@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111976,
+    "wof:geomhash":"c4a7b57cff2d24a8428a4958f6616a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856990023
+        }
+    ],
+    "wof:id":856990023,
+    "wof:lastmodified":1464111976,
+    "wof:name":"Lyon Construction",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.683302,
+    41.981033,
+    -91.683302,
+    41.981033
+],
+  "geometry": {"coordinates":[-91.683302,41.981033],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856799909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.717085,41.58023,-93.717085,41.58023",
+    "geom:latitude":41.58023,
+    "geom:longitude":-93.717085,
+    "iso:country":"US",
+    "sg:address":"641 11th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 1080",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U2X8XUopLJu8LDb0D6zwY_41.580230_-93.717085@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103193,
+    "wof:geomhash":"3460cc76cce3949f5469769269ff45cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856799909
+        }
+    ],
+    "wof:id":856799909,
+    "wof:lastmodified":1464103193,
+    "wof:name":"Mitton Construction",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.717085,
+    41.58023,
+    -93.717085,
+    41.58023
+],
+  "geometry": {"coordinates":[-93.717085,41.58023],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856849911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783305,42.190331,-91.783305,42.190331",
+    "geom:latitude":42.190331,
+    "geom:longitude":-91.783305,
+    "iso:country":"US",
+    "sg:address":"608 Water St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 1738",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NJuG1gAte7XTRP1Fs9Wt4_42.190331_-91.783305@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105518,
+    "wof:geomhash":"8b938001b18eeff510d3d44ce666b45f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856849911
+        }
+    ],
+    "wof:id":856849911,
+    "wof:lastmodified":1464105518,
+    "wof:name":"Performance Gains Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -91.783305,
+    42.190331,
+    -91.783305,
+    42.190331
+],
+  "geometry": {"coordinates":[-91.783305,42.190331],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856840349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858967,41.253415,-95.858967,41.253415",
+    "geom:latitude":41.253415,
+    "geom:longitude":-95.858967,
+    "iso:country":"US",
+    "sg:address":"900 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 0285",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11HpAYfdOtuYTf2UVchndD_41.253415_-95.858967@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105018,
+    "wof:geomhash":"45d9d0839a18787967c700f49e173b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856840349
+        }
+    ],
+    "wof:id":856840349,
+    "wof:lastmodified":1464105018,
+    "wof:name":"Residential Correctional Fclty",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -95.858967,
+    41.253415,
+    -95.858967,
+    41.253415
+],
+  "geometry": {"coordinates":[-95.85896700000001,41.253415],"type":"Point"}
+}

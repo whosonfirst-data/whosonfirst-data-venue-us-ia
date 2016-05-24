@@ -1,0 +1,73 @@
+{
+  "id": 856841001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.59201,42.031568,-91.59201,42.031568",
+    "geom:latitude":42.031568,
+    "geom:longitude":-91.59201,
+    "iso:country":"US",
+    "sg:address":"1616 5th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 3874",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mRLtWmvyB2ct6DXYp4tRq_42.031568_-91.592010@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105040,
+    "wof:geomhash":"4e969e10c7b8afe4cb8cf0beba808be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856841001
+        }
+    ],
+    "wof:id":856841001,
+    "wof:lastmodified":1464105040,
+    "wof:name":"Curtis Painting Staining",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.59201,
+    42.031568,
+    -91.59201,
+    42.031568
+],
+  "geometry": {"coordinates":[-91.59201,42.031568],"type":"Point"}
+}

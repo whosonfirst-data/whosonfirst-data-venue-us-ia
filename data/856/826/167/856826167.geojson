@@ -1,0 +1,73 @@
+{
+  "id": 856826167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912214,41.28131,-95.912214,41.28131",
+    "geom:latitude":41.28131,
+    "geom:longitude":-95.912214,
+    "iso:country":"US",
+    "sg:address":"900 Ave H",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6222",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vi56Kmj6Mar3PEo3sL1Wx_41.281310_-95.912214@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104353,
+    "wof:geomhash":"728c4d0ab412cb343b350b9e0e339c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856826167
+        }
+    ],
+    "wof:id":856826167,
+    "wof:lastmodified":1464104353,
+    "wof:name":"Pilot Air Freight Corp",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -95.912214,
+    41.28131,
+    -95.912214,
+    41.28131
+],
+  "geometry": {"coordinates":[-95.91221400000001,41.28131],"type":"Point"}
+}

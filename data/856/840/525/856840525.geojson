@@ -1,0 +1,71 @@
+{
+  "id": 856840525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.486361,41.203746,-95.486361,41.203746",
+    "geom:latitude":41.203746,
+    "geom:longitude":-95.486361,
+    "iso:country":"US",
+    "sg:address":"36488 Beechnut Rd",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 486 2361",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8cSELNXJ9Av7EfuNwGxo_41.203746_-95.486361@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105024,
+    "wof:geomhash":"b6ed99438ec2b67dafd538c6d972208d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856840525
+        }
+    ],
+    "wof:id":856840525,
+    "wof:lastmodified":1464105024,
+    "wof:name":"Blue Spruce Feedlots",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -95.486361,
+    41.203746,
+    -95.486361,
+    41.203746
+],
+  "geometry": {"coordinates":[-95.486361,41.203746],"type":"Point"}
+}

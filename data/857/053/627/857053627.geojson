@@ -1,0 +1,73 @@
+{
+  "id": 857053627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.669701,41.971001,-91.669701,41.971001",
+    "geom:latitude":41.971001,
+    "geom:longitude":-91.669701,
+    "iso:country":"US",
+    "sg:address":"610 1st St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4220",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6me1OkY0z422Lzpf9BWkaZ_41.971374_-91.669839@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114644,
+    "wof:geomhash":"72f6f4991a296b109e4ee86be692b432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857053627
+        }
+    ],
+    "wof:id":857053627,
+    "wof:lastmodified":1464114644,
+    "wof:name":"Daryl's Hair Design Studio",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barber"
+    ]
+},
+  "bbox": [
+    -91.669701,
+    41.971001,
+    -91.669701,
+    41.971001
+],
+  "geometry": {"coordinates":[-91.669701,41.971001],"type":"Point"}
+}

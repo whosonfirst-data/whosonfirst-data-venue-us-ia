@@ -1,0 +1,66 @@
+{
+  "id": 857065569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783798,41.914902,-91.783798,41.914902",
+    "geom:latitude":41.914902,
+    "geom:longitude":-91.783798,
+    "iso:country":"US",
+    "sg:address":"530 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2742",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dfvfgbm0zZp7cedeSxt9R_41.914902_-91.783798@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115118,
+    "wof:geomhash":"33b4c73801572fa1e0539ae3239d8dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065569
+        }
+    ],
+    "wof:id":857065569,
+    "wof:lastmodified":1464115118,
+    "wof:name":"Sankot Garage",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.783798,
+    41.914902,
+    -91.783798,
+    41.914902
+],
+  "geometry": {"coordinates":[-91.783798,41.914902],"type":"Point"}
+}

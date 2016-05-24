@@ -1,0 +1,71 @@
+{
+  "id": 856790699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.82876,41.411585,-95.82876,41.411585",
+    "geom:latitude":41.411585,
+    "geom:longitude":-95.82876,
+    "iso:country":"US",
+    "sg:address":"27323 Coldwater Ave",
+    "sg:city":"Honey Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3036",
+    "sg:postcode":"51542",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RmAmSgJBHE8K2r1pV1dDN_41.411585_-95.828760@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102808,
+    "wof:geomhash":"2ce25757585f602f13d527bccbcf852c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856790699
+        }
+    ],
+    "wof:id":856790699,
+    "wof:lastmodified":1464102808,
+    "wof:name":"Muell Refrigeration",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tractor"
+    ]
+},
+  "bbox": [
+    -95.82876,
+    41.411585,
+    -95.82876,
+    41.411585
+],
+  "geometry": {"coordinates":[-95.82876,41.411585],"type":"Point"}
+}

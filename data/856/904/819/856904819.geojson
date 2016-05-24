@@ -1,0 +1,75 @@
+{
+  "id": 856904819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.618435,41.608879,-93.618435,41.608879",
+    "geom:latitude":41.608879,
+    "geom:longitude":-93.618435,
+    "iso:country":"US",
+    "sg:address":"1533 Maine St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 8484",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AZ2AXq6Ixh6WDzOuwciIG_41.608879_-93.618435@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108226,
+    "wof:geomhash":"ddb718bc1b4ae6a5da06fd6f02504688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856904819
+        }
+    ],
+    "wof:id":856904819,
+    "wof:lastmodified":1464108226,
+    "wof:name":"Des Moines Sheet Metal",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.618435,
+    41.608879,
+    -93.618435,
+    41.608879
+],
+  "geometry": {"coordinates":[-93.61843500000001,41.608879],"type":"Point"}
+}

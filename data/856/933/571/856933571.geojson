@@ -1,0 +1,73 @@
+{
+  "id": 856933571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.875014,41.250996,-95.875014,41.250996",
+    "geom:latitude":41.250996,
+    "geom:longitude":-95.875014,
+    "iso:country":"US",
+    "sg:address":"1101 S 21st St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 2353",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14t35NlHKoG3kC38X0qlFm_41.250996_-95.875014@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109379,
+    "wof:geomhash":"2e344f976c4d4f092ca56cc29ca2c2c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856933571
+        }
+    ],
+    "wof:id":856933571,
+    "wof:lastmodified":1464109379,
+    "wof:name":"Millennium Rail Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "railroad"
+    ]
+},
+  "bbox": [
+    -95.875014,
+    41.250996,
+    -95.875014,
+    41.250996
+],
+  "geometry": {"coordinates":[-95.87501399999999,41.250996],"type":"Point"}
+}

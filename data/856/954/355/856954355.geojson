@@ -1,0 +1,71 @@
+{
+  "id": 856954355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.848551,41.256811,-95.848551,41.256811",
+    "geom:latitude":41.256811,
+    "geom:longitude":-95.848551,
+    "iso:country":"US",
+    "sg:address":"310 5th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 2848",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16A0QgcfIT96nxJ6MB4Cr4_41.256811_-95.848551@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110297,
+    "wof:geomhash":"d3a383c018bd8e9de9449cc86e1deec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856954355
+        }
+    ],
+    "wof:id":856954355,
+    "wof:lastmodified":1464110297,
+    "wof:name":"Enr Services Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -95.848551,
+    41.256811,
+    -95.848551,
+    41.256811
+],
+  "geometry": {"coordinates":[-95.848551,41.256811],"type":"Point"}
+}

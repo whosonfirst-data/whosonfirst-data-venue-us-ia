@@ -1,0 +1,71 @@
+{
+  "id": 856947909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.85384,41.221036,-95.85384,41.221036",
+    "geom:latitude":41.221036,
+    "geom:longitude":-95.85384,
+    "iso:country":"US",
+    "sg:address":"3908 Richland Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 4146",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72Cdn3K0TnNwAzhZ8rIzrq_41.221036_-95.853840@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109997,
+    "wof:geomhash":"431beb987c3d6c7a33ba675281e1d9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856947909
+        }
+    ],
+    "wof:id":856947909,
+    "wof:lastmodified":1464109997,
+    "wof:name":"Triple A Trucking Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.85384,
+    41.221036,
+    -95.85384,
+    41.221036
+],
+  "geometry": {"coordinates":[-95.85384000000001,41.221036],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856890575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716052,41.977312,-91.716052,41.977312",
+    "geom:latitude":41.977312,
+    "geom:longitude":-91.716052,
+    "iso:country":"US",
+    "sg:address":"408 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4705",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_458AVkBD2Z93Gk7qJCiXwC_41.977312_-91.716052@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107712,
+    "wof:geomhash":"1c0cadc8c6a10df892a8ade7851a5322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856890575
+        }
+    ],
+    "wof:id":856890575,
+    "wof:lastmodified":1464107712,
+    "wof:name":"Saber Surgical Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.716052,
+    41.977312,
+    -91.716052,
+    41.977312
+],
+  "geometry": {"coordinates":[-91.716052,41.977312],"type":"Point"}
+}

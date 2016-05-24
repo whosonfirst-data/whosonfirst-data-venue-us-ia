@@ -1,0 +1,69 @@
+{
+  "id": 856878761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534861,41.717656,-91.534861,41.717656",
+    "geom:latitude":41.717656,
+    "geom:longitude":-91.534861,
+    "iso:country":"US",
+    "sg:address":"1 Oak Park Ln NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 7707",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896479,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mHCNR2irW2RgydcvIR2xz_41.717656_-91.534861@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107108,
+    "wof:geomhash":"96daff9ebf8fa18c031ea3de0134117f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896479,
+            "region_id":85688713,
+            "venue_id":856878761
+        }
+    ],
+    "wof:id":856878761,
+    "wof:lastmodified":1464107108,
+    "wof:name":"Gary Werle Const Inc",
+    "wof:parent_id":85896479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.534861,
+    41.717656,
+    -91.534861,
+    41.717656
+],
+  "geometry": {"coordinates":[-91.53486100000001,41.717656],"type":"Point"}
+}

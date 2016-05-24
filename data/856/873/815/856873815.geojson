@@ -1,0 +1,75 @@
+{
+  "id": 856873815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.817591,41.387657,-95.817591,41.387657",
+    "geom:latitude":41.387657,
+    "geom:longitude":-95.817591,
+    "iso:country":"US",
+    "sg:address":"25839 195th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3717",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jwrmXalFQhKwaavbFEQ0P_41.387657_-95.817591@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106878,
+    "wof:geomhash":"64a3093b7457dd19fcbdb4252fd67741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856873815
+        }
+    ],
+    "wof:id":856873815,
+    "wof:lastmodified":1464106878,
+    "wof:name":"Marion Moss",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -95.817591,
+    41.387657,
+    -95.817591,
+    41.387657
+],
+  "geometry": {"coordinates":[-95.81759099999999,41.387657],"type":"Point"}
+}

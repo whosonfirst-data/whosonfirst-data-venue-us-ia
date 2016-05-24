@@ -1,0 +1,73 @@
+{
+  "id": 856816063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668328,42.034657,-91.668328,42.034657",
+    "geom:latitude":42.034657,
+    "geom:longitude":-91.668328,
+    "iso:country":"US",
+    "sg:address":"5431 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1860",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tool",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oNgNgb97ba7D7iAX0JlyC_42.034657_-91.668328@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103874,
+    "wof:geomhash":"85a7b55d9bc5fec5021d1a91c0665c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856816063
+        }
+    ],
+    "wof:id":856816063,
+    "wof:lastmodified":1464103874,
+    "wof:name":"American Tool Co",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -91.668328,
+    42.034657,
+    -91.668328,
+    42.034657
+],
+  "geometry": {"coordinates":[-91.668328,42.034657],"type":"Point"}
+}

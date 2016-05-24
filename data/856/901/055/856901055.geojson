@@ -1,0 +1,68 @@
+{
+  "id": 856901055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651534,41.974223,-91.651534,41.974223",
+    "geom:latitude":41.974223,
+    "geom:longitude":-91.651534,
+    "iso:country":"US",
+    "sg:address":"1136 9th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4462",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14oELbm76OYDF19jJDqr8T_41.974223_-91.651534@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108092,
+    "wof:geomhash":"39438e15383b590e2bfa848d6d14510c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856901055
+        }
+    ],
+    "wof:id":856901055,
+    "wof:lastmodified":1464108092,
+    "wof:name":"House Of Beauty",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.651534,
+    41.974223,
+    -91.651534,
+    41.974223
+],
+  "geometry": {"coordinates":[-91.651534,41.974223],"type":"Point"}
+}

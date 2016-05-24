@@ -1,0 +1,75 @@
+{
+  "id": 856945411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.4366,42.494027,-96.4366,42.494027",
+    "geom:latitude":42.494027,
+    "geom:longitude":-96.4366,
+    "iso:country":"US",
+    "sg:address":"314 S Collins St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 234 0212",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L2eWyPhqORN1YAOmolyOr_42.494027_-96.436600@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109900,
+    "wof:geomhash":"ff0276a2678d81aa8f4f6312341743fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856945411
+        }
+    ],
+    "wof:id":856945411,
+    "wof:lastmodified":1464109900,
+    "wof:name":"Dryco Roofing",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.4366,
+    42.494027,
+    -96.4366,
+    42.494027
+],
+  "geometry": {"coordinates":[-96.4366,42.494027],"type":"Point"}
+}

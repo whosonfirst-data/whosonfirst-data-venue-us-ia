@@ -1,0 +1,69 @@
+{
+  "id": 856965405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439541,41.286303,-93.439541,41.286303",
+    "geom:latitude":41.286303,
+    "geom:longitude":-93.439541,
+    "iso:country":"US",
+    "sg:address":"200 Pine St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6585",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lktJbAjnWUi0ytXWYzO2R_41.286303_-93.439541@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110765,
+    "wof:geomhash":"48431453fc12af17516d01d01e6fd18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856965405
+        }
+    ],
+    "wof:id":856965405,
+    "wof:lastmodified":1464110765,
+    "wof:name":"Melody's Barber Shop",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.439541,
+    41.286303,
+    -93.439541,
+    41.286303
+],
+  "geometry": {"coordinates":[-93.43954100000001,41.286303],"type":"Point"}
+}

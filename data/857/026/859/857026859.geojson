@@ -1,0 +1,71 @@
+{
+  "id": 857026859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.602842,42.035127,-91.602842,42.035127",
+    "geom:latitude":42.035127,
+    "geom:longitude":-91.602842,
+    "iso:country":"US",
+    "sg:address":"610 9th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 5175",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZIB2sgeS8HViQMpGkXorn_42.035127_-91.602842@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113498,
+    "wof:geomhash":"9f2d36fe033e614d4f455b8b5c489930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857026859
+        }
+    ],
+    "wof:id":857026859,
+    "wof:lastmodified":1464113498,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.602842,
+    42.035127,
+    -91.602842,
+    42.035127
+],
+  "geometry": {"coordinates":[-91.602842,42.035127],"type":"Point"}
+}

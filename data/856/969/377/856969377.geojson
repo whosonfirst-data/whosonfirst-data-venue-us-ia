@@ -1,0 +1,75 @@
+{
+  "id": 856969377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.60637,41.700295,-91.60637,41.700295",
+    "geom:latitude":41.700295,
+    "geom:longitude":-91.60637,
+    "iso:country":"US",
+    "sg:address":"2550 Holiday Rd",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 341 2229",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zYFAzp2ivZgjr6YXwAWgr_41.700295_-91.606370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110940,
+    "wof:geomhash":"81737acc13c502c3c9181a3ed1e861bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":856969377
+        }
+    ],
+    "wof:id":856969377,
+    "wof:lastmodified":1464110940,
+    "wof:name":"Iowa Gym Nest",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -91.60637,
+    41.700295,
+    -91.60637,
+    41.700295
+],
+  "geometry": {"coordinates":[-91.60637,41.700295],"type":"Point"}
+}

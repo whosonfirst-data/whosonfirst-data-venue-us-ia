@@ -1,0 +1,75 @@
+{
+  "id": 856908241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.778165,42.197744,-91.778165,42.197744",
+    "geom:latitude":42.197744,
+    "geom:longitude":-91.778165,
+    "iso:country":"US",
+    "sg:address":"1305 Park Ave",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 2589",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j9LVgXqn04424u2NUginZ_42.197744_-91.778165@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108352,
+    "wof:geomhash":"d9f55e3adf5043504fadf59062c82256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856908241
+        }
+    ],
+    "wof:id":856908241,
+    "wof:lastmodified":1464108352,
+    "wof:name":"Apple Creek Carpet Care",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -91.778165,
+    42.197744,
+    -91.778165,
+    42.197744
+],
+  "geometry": {"coordinates":[-91.778165,42.197744],"type":"Point"}
+}

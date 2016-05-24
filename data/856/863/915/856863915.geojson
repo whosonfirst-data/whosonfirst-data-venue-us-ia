@@ -1,0 +1,66 @@
+{
+  "id": 856863915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.784059,41.914509,-91.784059,41.914509",
+    "geom:latitude":41.914509,
+    "geom:longitude":-91.784059,
+    "iso:country":"US",
+    "sg:address":"511 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2853",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BpYWyOXqIx0257W8FKTCl_41.914509_-91.784059@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106153,
+    "wof:geomhash":"7b9486b03641b17d0ed56777deeb8882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856863915
+        }
+    ],
+    "wof:id":856863915,
+    "wof:lastmodified":1464106153,
+    "wof:name":"Fairfax Meat Company",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.784059,
+    41.914509,
+    -91.784059,
+    41.914509
+],
+  "geometry": {"coordinates":[-91.784059,41.914509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856910639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633149,42.016955,-91.633149,42.016955",
+    "geom:latitude":42.016955,
+    "geom:longitude":-91.633149,
+    "iso:country":"US",
+    "sg:address":"243 38th Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 6584",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43fIhK2tY1zeOPOHgU2FhH_42.016955_-91.633149@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108450,
+    "wof:geomhash":"1f6dbfa054cb8417c665259cf3a01ef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856910639
+        }
+    ],
+    "wof:id":856910639,
+    "wof:lastmodified":1464108450,
+    "wof:name":"Fellowship Missionary Baptist",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.633149,
+    42.016955,
+    -91.633149,
+    42.016955
+],
+  "geometry": {"coordinates":[-91.633149,42.016955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857070305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652702,41.927399,-91.652702,41.927399",
+    "geom:latitude":41.927399,
+    "geom:longitude":-91.652702,
+    "iso:country":"US",
+    "sg:address":"370 50th Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0428",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tPIlXMVIuIGPkGvS3Ss7i_41.927399_-91.652702@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115347,
+    "wof:geomhash":"c169970dbc4278cb34832c83b3ae8c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070305
+        }
+    ],
+    "wof:id":857070305,
+    "wof:lastmodified":1464115347,
+    "wof:name":"Advanced Moving Services",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -91.652702,
+    41.927399,
+    -91.652702,
+    41.927399
+],
+  "geometry": {"coordinates":[-91.65270200000001,41.927399],"type":"Point"}
+}

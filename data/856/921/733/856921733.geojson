@@ -1,0 +1,71 @@
+{
+  "id": 856921733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634454,42.016838,-91.634454,42.016838",
+    "geom:latitude":42.016838,
+    "geom:longitude":-91.634454,
+    "iso:country":"US",
+    "sg:address":"3717 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 862 2882",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VBWogGtYiFqtrrrlEFccp_42.016838_-91.634454@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108903,
+    "wof:geomhash":"25ac5a179b42fd9e34092cb836bdd7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856921733
+        }
+    ],
+    "wof:id":856921733,
+    "wof:lastmodified":1464108903,
+    "wof:name":"Aarons Sales & Lease Ownership",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -91.634454,
+    42.016838,
+    -91.634454,
+    42.016838
+],
+  "geometry": {"coordinates":[-91.63445400000001,42.016838],"type":"Point"}
+}

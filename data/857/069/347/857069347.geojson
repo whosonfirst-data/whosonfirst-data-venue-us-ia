@@ -1,0 +1,72 @@
+{
+  "id": 857069347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663067,42.027836,-91.663067,42.027836",
+    "geom:latitude":42.027836,
+    "geom:longitude":-91.663067,
+    "iso:country":"US",
+    "sg:address":"1800 Dodge Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 2200",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28KCZ3e0rE0Kzfvqm7bnUV_42.027836_-91.663067@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115300,
+    "wof:geomhash":"a54f733e35be1bcfb9fb85305ed2426d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069347
+        }
+    ],
+    "wof:id":857069347,
+    "wof:lastmodified":1464115300,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -91.663067,
+    42.027836,
+    -91.663067,
+    42.027836
+],
+  "geometry": {"coordinates":[-91.663067,42.027836],"type":"Point"}
+}

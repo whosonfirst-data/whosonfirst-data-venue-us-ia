@@ -1,0 +1,69 @@
+{
+  "id": 856929829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.586086,41.731794,-93.586086,41.731794",
+    "geom:latitude":41.731794,
+    "geom:longitude":-93.586086,
+    "iso:country":"US",
+    "sg:address":"825 E 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 5623",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:website":"www.bikecountry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YWgDN6vFeidYHjZGPt4gy_41.731794_-93.586086@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109239,
+    "wof:geomhash":"8af60b6c71f6f9b0441a0aac295f8995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":856929829
+        }
+    ],
+    "wof:id":856929829,
+    "wof:lastmodified":1464109239,
+    "wof:name":"Bike Country",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.586086,
+    41.731794,
+    -93.586086,
+    41.731794
+],
+  "geometry": {"coordinates":[-93.58608599999999,41.731794],"type":"Point"}
+}

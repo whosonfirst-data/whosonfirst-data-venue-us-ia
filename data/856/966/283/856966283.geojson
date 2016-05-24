@@ -1,0 +1,68 @@
+{
+  "id": 856966283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682059,41.978954,-91.682059,41.978954",
+    "geom:latitude":41.978954,
+    "geom:longitude":-91.682059,
+    "iso:country":"US",
+    "sg:address":"604 Ellis Blvd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 1100",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c2J1yFMaVq3fVW0HkmF7y_41.978954_-91.682059@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110802,
+    "wof:geomhash":"b6d90683cf0d7aa0ae588665651eee4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856966283
+        }
+    ],
+    "wof:id":856966283,
+    "wof:lastmodified":1464110802,
+    "wof:name":"Pizza Daddy",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.682059,
+    41.978954,
+    -91.682059,
+    41.978954
+],
+  "geometry": {"coordinates":[-91.682059,41.978954],"type":"Point"}
+}

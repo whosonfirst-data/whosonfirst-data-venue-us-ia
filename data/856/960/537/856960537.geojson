@@ -1,0 +1,73 @@
+{
+  "id": 856960537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.76534,42.011087,-91.76534,42.011087",
+    "geom:latitude":42.011087,
+    "geom:longitude":-91.76534,
+    "iso:country":"US",
+    "sg:address":"2001 Covington Rd",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3911",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cartage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gzl4pO8oOREIh1YTa7aK9_42.011087_-91.765340@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110562,
+    "wof:geomhash":"c1315b015cad961b71ac15ee0dfaf0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856960537
+        }
+    ],
+    "wof:id":856960537,
+    "wof:lastmodified":1464110562,
+    "wof:name":"Terry's Transfer & Delivery",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cartage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.76534,
+    42.011087,
+    -91.76534,
+    42.011087
+],
+  "geometry": {"coordinates":[-91.76533999999999,42.011087],"type":"Point"}
+}

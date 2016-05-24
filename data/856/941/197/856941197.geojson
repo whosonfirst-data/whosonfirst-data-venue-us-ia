@@ -1,0 +1,71 @@
+{
+  "id": 856941197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.008005,41.529477,-94.008005,41.529477",
+    "geom:latitude":41.529477,
+    "geom:longitude":-94.008005,
+    "iso:country":"US",
+    "sg:address":"324 Walnut St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2177",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iglHEg2ROXXDM7WSF1Clp_41.529477_-94.008005@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109731,
+    "wof:geomhash":"f46337136853ab0abbaa607a2d502bbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856941197
+        }
+    ],
+    "wof:id":856941197,
+    "wof:lastmodified":1464109731,
+    "wof:name":"Papa Bears Sandwich Shop",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.008005,
+    41.529477,
+    -94.008005,
+    41.529477
+],
+  "geometry": {"coordinates":[-94.008005,41.529477],"type":"Point"}
+}

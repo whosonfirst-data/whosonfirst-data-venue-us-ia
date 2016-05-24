@@ -1,0 +1,71 @@
+{
+  "id": 856914557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.561182,41.374155,-93.561182,41.374155",
+    "geom:latitude":41.374155,
+    "geom:longitude":-93.561182,
+    "iso:country":"US",
+    "sg:address":"1500 N Apple Dr",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 2607",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z6aT8fKhGkkR7oCW6zAyb_41.374155_-93.561182@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108606,
+    "wof:geomhash":"eed7be58d2f896817d054f1402a8c5e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856914557
+        }
+    ],
+    "wof:id":856914557,
+    "wof:lastmodified":1464108606,
+    "wof:name":"Richard Schafer",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.561182,
+    41.374155,
+    -93.561182,
+    41.374155
+],
+  "geometry": {"coordinates":[-93.561182,41.374155],"type":"Point"}
+}

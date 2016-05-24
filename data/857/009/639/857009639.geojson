@@ -1,0 +1,72 @@
+{
+  "id": 857009639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.727869,41.960129,-91.727869,41.960129",
+    "geom:latitude":41.960129,
+    "geom:longitude":-91.727869,
+    "iso:country":"US",
+    "sg:address":"4515 20th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 8900",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "telemarketing"
+    ],
+    "sg:website":"www.accdir.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aE7QZabiIZ7fyu9KAeTgU_41.960129_-91.727869@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112768,
+    "wof:geomhash":"754ee3f42f8a301e4341912f29ed2989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857009639
+        }
+    ],
+    "wof:id":857009639,
+    "wof:lastmodified":1464112768,
+    "wof:name":"Access Direct Telemarketing",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telemarketing"
+    ]
+},
+  "bbox": [
+    -91.727869,
+    41.960129,
+    -91.727869,
+    41.960129
+],
+  "geometry": {"coordinates":[-91.727869,41.960129],"type":"Point"}
+}

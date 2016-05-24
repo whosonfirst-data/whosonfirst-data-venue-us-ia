@@ -1,0 +1,78 @@
+{
+  "id": 856916205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.751085,41.640582,-93.751085,41.640582",
+    "geom:latitude":41.640582,
+    "geom:longitude":-93.751085,
+    "iso:country":"US",
+    "sg:address":"9608 Tanglewood Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 2356",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PhAKOykjMdedc2Gdq5VHv_41.640582_-93.751085@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108665,
+    "wof:geomhash":"a5e37b3064eb7c2a501d5290a6372e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896507,
+            "region_id":85688713,
+            "venue_id":856916205
+        }
+    ],
+    "wof:id":856916205,
+    "wof:lastmodified":1464108665,
+    "wof:name":"A-1 Home Inspections",
+    "wof:parent_id":85896507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -93.751085,
+    41.640582,
+    -93.751085,
+    41.640582
+],
+  "geometry": {"coordinates":[-93.751085,41.640582],"type":"Point"}
+}

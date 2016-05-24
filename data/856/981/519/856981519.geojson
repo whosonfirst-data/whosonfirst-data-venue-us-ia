@@ -1,0 +1,73 @@
+{
+  "id": 856981519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560126,41.684241,-91.560126,41.684241",
+    "geom:latitude":41.684241,
+    "geom:longitude":-91.560126,
+    "iso:country":"US",
+    "sg:address":"211 E 10th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 887 1206",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sibtsc1czv0NmmKqwS8QQ_41.684241_-91.560126@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111529,
+    "wof:geomhash":"dbbc2825509a8f52559737b438c9addc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":856981519
+        }
+    ],
+    "wof:id":856981519,
+    "wof:lastmodified":1464111529,
+    "wof:name":"Presidential Limousine",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -91.560126,
+    41.684241,
+    -91.560126,
+    41.684241
+],
+  "geometry": {"coordinates":[-91.560126,41.684241],"type":"Point"}
+}

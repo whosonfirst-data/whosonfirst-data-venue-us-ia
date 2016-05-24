@@ -1,0 +1,73 @@
+{
+  "id": 856882561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.532987,41.663347,-91.532987,41.663347",
+    "geom:latitude":41.663347,
+    "geom:longitude":-91.532987,
+    "iso:country":"US",
+    "sg:address":"120 N Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 1179",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b8YJCcwoOGKC5GH3gBWUu_41.663347_-91.532987@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107314,
+    "wof:geomhash":"f3c9470c491aca181d96bedb65341009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856882561
+        }
+    ],
+    "wof:id":856882561,
+    "wof:lastmodified":1464107314,
+    "wof:name":"Wesley Foundation",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.532987,
+    41.663347,
+    -91.532987,
+    41.663347
+],
+  "geometry": {"coordinates":[-91.53298700000001,41.663347],"type":"Point"}
+}

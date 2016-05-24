@@ -1,0 +1,75 @@
+{
+  "id": 856797307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660243,41.963325,-91.660243,41.963325",
+    "geom:latitude":41.963325,
+    "geom:longitude":-91.660243,
+    "iso:country":"US",
+    "sg:address":"1718 C St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0307",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71pPFyUaN04voo2ORjLOIM_41.963325_-91.660243@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103078,
+    "wof:geomhash":"96f259458608396b2c65a12da1d12773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856797307
+        }
+    ],
+    "wof:id":856797307,
+    "wof:lastmodified":1464103078,
+    "wof:name":"Debners",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.660243,
+    41.963325,
+    -91.660243,
+    41.963325
+],
+  "geometry": {"coordinates":[-91.66024299999999,41.963325],"type":"Point"}
+}

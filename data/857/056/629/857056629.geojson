@@ -1,0 +1,73 @@
+{
+  "id": 857056629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659599,41.9744,-91.659599,41.9744",
+    "geom:latitude":41.9744,
+    "geom:longitude":-91.659599,
+    "iso:country":"US",
+    "sg:address":"426 8th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9447",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tcf2e7YG5AMZjvsS5hh67_41.974652_-91.659552@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114767,
+    "wof:geomhash":"95a6d4a7dba8f4a15ff5b1221cca31a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857056629
+        }
+    ],
+    "wof:id":857056629,
+    "wof:lastmodified":1464114767,
+    "wof:name":"Cedar Rapids Transmissions",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.659599,
+    41.9744,
+    -91.659599,
+    41.9744
+],
+  "geometry": {"coordinates":[-91.659599,41.9744],"type":"Point"}
+}

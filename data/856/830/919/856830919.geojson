@@ -1,0 +1,71 @@
+{
+  "id": 856830919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.717347,41.963545,-91.717347,41.963545",
+    "geom:latitude":41.963545,
+    "geom:longitude":-91.717347,
+    "iso:country":"US",
+    "sg:address":"3701 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0309",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QwvcrMZmrKf6M5IsufIPr_41.963545_-91.717347@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104548,
+    "wof:geomhash":"0bcdc5c9518de4e69e5ff94e8389c0a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856830919
+        }
+    ],
+    "wof:id":856830919,
+    "wof:lastmodified":1464104548,
+    "wof:name":"Mr Fix-It Repair",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.717347,
+    41.963545,
+    -91.717347,
+    41.963545
+],
+  "geometry": {"coordinates":[-91.717347,41.963545],"type":"Point"}
+}

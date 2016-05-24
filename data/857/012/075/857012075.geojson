@@ -1,0 +1,71 @@
+{
+  "id": 857012075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.542936,41.466467,-95.542936,41.466467",
+    "geom:latitude":41.466467,
+    "geom:longitude":-95.542936,
+    "iso:country":"US",
+    "sg:address":"207 Main St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2991",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wk1G0EElsiLYwccTtTVGG_41.466467_-95.542936@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112861,
+    "wof:geomhash":"cc48e31afb360ad66253e41ded9f49c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857012075
+        }
+    ],
+    "wof:id":857012075,
+    "wof:lastmodified":1464112861,
+    "wof:name":"Minden City Hall",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.542936,
+    41.466467,
+    -95.542936,
+    41.466467
+],
+  "geometry": {"coordinates":[-95.542936,41.466467],"type":"Point"}
+}

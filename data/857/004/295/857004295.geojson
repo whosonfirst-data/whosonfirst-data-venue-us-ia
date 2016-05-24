@@ -1,0 +1,73 @@
+{
+  "id": 857004295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.754396,42.097416,-91.754396,42.097416",
+    "geom:latitude":42.097416,
+    "geom:longitude":-91.754396,
+    "iso:country":"US",
+    "sg:address":"3985 Wickiup Hill Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5693",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "archery",
+        "range"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BkXHvTftQ07X0GCIMamgP_42.097416_-91.754396@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112537,
+    "wof:geomhash":"df76a3b24bb9873213803a24e17816b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857004295
+        }
+    ],
+    "wof:id":857004295,
+    "wof:lastmodified":1464112537,
+    "wof:name":"Waltonian Archers",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archery",
+        "range"
+    ]
+},
+  "bbox": [
+    -91.754396,
+    42.097416,
+    -91.754396,
+    42.097416
+],
+  "geometry": {"coordinates":[-91.754396,42.097416],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857059437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716383,41.959143,-91.716383,41.959143",
+    "geom:latitude":41.959143,
+    "geom:longitude":-91.716383,
+    "iso:country":"US",
+    "sg:address":"2210 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/184718-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0717",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TmglW1BF7m5mXOAjfrQPN_41.959143_-91.716383@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114877,
+    "wof:geomhash":"44534f64fd2defc1f327dfb1e60ed95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857059437
+        }
+    ],
+    "wof:id":857059437,
+    "wof:lastmodified":1464114877,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.716383,
+    41.959143,
+    -91.716383,
+    41.959143
+],
+  "geometry": {"coordinates":[-91.71638299999999,41.959143],"type":"Point"}
+}

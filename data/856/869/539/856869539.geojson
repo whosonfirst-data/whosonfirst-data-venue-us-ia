@@ -1,0 +1,75 @@
+{
+  "id": 856869539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736374,41.660203,-93.736374,41.660203",
+    "geom:latitude":41.660203,
+    "geom:longitude":-93.736374,
+    "iso:country":"US",
+    "sg:address":"5623 NW 86th St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 0303",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dY3X3TSXLe8HSeBkCYHBZ_41.660203_-93.736374@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106488,
+    "wof:geomhash":"a1afdcc164684403715eeb9aab6dd7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896489,
+            "region_id":85688713,
+            "venue_id":856869539
+        }
+    ],
+    "wof:id":856869539,
+    "wof:lastmodified":1464106488,
+    "wof:name":"Johnston Physical Therapy",
+    "wof:parent_id":85896489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -93.736374,
+    41.660203,
+    -93.736374,
+    41.660203
+],
+  "geometry": {"coordinates":[-93.736374,41.660203],"type":"Point"}
+}

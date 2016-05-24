@@ -1,0 +1,73 @@
+{
+  "id": 857045581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.816101,41.260899,-95.816101,41.260899",
+    "geom:latitude":41.260899,
+    "geom:longitude":-95.816101,
+    "iso:country":"US",
+    "sg:address":"55 Gleason Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2025",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist",
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nwseuOF9LNtlBYnr8T3ED_41.260884_-95.816774@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114293,
+    "wof:geomhash":"53d182bb6739650d0b0070d28db2cf76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857045581
+        }
+    ],
+    "wof:id":857045581,
+    "wof:lastmodified":1464114293,
+    "wof:name":"Ziegler Peter A DDS",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -95.816101,
+    41.260899,
+    -95.816101,
+    41.260899
+],
+  "geometry": {"coordinates":[-95.816101,41.260899],"type":"Point"}
+}

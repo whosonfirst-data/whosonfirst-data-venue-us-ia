@@ -1,0 +1,76 @@
+{
+  "id": 857059467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657818,41.924486,-91.657818,41.924486",
+    "geom:latitude":41.924486,
+    "geom:longitude":-91.657818,
+    "iso:country":"US",
+    "sg:address":"20 Miller Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/127082-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 297 7325",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34s9CXb4eW6hv9PoClEGnl_41.924486_-91.657818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114879,
+    "wof:geomhash":"ebdd5862610bb3544b4bcd340b5dbc5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857059467
+        }
+    ],
+    "wof:id":857059467,
+    "wof:lastmodified":1464114879,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.657818,
+    41.924486,
+    -91.657818,
+    41.924486
+],
+  "geometry": {"coordinates":[-91.65781800000001,41.924486],"type":"Point"}
+}

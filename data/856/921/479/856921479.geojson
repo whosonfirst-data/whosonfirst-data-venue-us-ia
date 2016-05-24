@@ -1,0 +1,64 @@
+{
+  "id": 856921479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.486947,41.498525,-93.486947,41.498525",
+    "geom:latitude":41.498525,
+    "geom:longitude":-93.486947,
+    "iso:country":"US",
+    "sg:address":"135 School St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0909",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dE6XnJgrvqXx3khnE90c5_41.498525_-93.486947@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108892,
+    "wof:geomhash":"f85a5eaa927d9097da565b9d057e5551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856921479
+        }
+    ],
+    "wof:id":856921479,
+    "wof:lastmodified":1464108892,
+    "wof:name":"Carlisle Public Library",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.486947,
+    41.498525,
+    -93.486947,
+    41.498525
+],
+  "geometry": {"coordinates":[-93.486947,41.498525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856925445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.154844,42.559779,-96.154844,42.559779",
+    "geom:latitude":42.559779,
+    "geom:longitude":-96.154844,
+    "iso:country":"US",
+    "sg:address":"1031 Fayette Ave",
+    "sg:city":"Kingsley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 5349",
+    "sg:postcode":"51028",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JkuztREBXoDemUURkjdCz_42.559779_-96.154844@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109060,
+    "wof:geomhash":"4af6bfa25a3399bc08d38e60990b695e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856925445
+        }
+    ],
+    "wof:id":856925445,
+    "wof:lastmodified":1464109060,
+    "wof:name":"Harold Karrer",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -96.154844,
+    42.559779,
+    -96.154844,
+    42.559779
+],
+  "geometry": {"coordinates":[-96.154844,42.559779],"type":"Point"}
+}

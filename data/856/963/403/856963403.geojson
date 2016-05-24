@@ -1,0 +1,71 @@
+{
+  "id": 856963403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659763,42.004331,-91.659763,42.004331",
+    "geom:latitude":42.004331,
+    "geom:longitude":-91.659763,
+    "iso:country":"US",
+    "sg:address":"1101 Oakland Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5675",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j96QGOwDwcZy8rmbTzYTe_42.004331_-91.659763@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110681,
+    "wof:geomhash":"cae15b022f9d1adb22e0abd950f1a069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856963403
+        }
+    ],
+    "wof:id":856963403,
+    "wof:lastmodified":1464110681,
+    "wof:name":"Daniel Park Church Of God",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.659763,
+    42.004331,
+    -91.659763,
+    42.004331
+],
+  "geometry": {"coordinates":[-91.659763,42.004331],"type":"Point"}
+}

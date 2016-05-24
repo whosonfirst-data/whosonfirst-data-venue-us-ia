@@ -1,0 +1,73 @@
+{
+  "id": 856859331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.158183,41.539264,-94.158183,41.539264",
+    "geom:latitude":41.539264,
+    "geom:longitude":-94.158183,
+    "iso:country":"US",
+    "sg:address":"1648 Bear Creek Rd",
+    "sg:city":"Earlham",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 758 2537",
+    "sg:postcode":"50072",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NpXEBXwOI31xniwPktP8W_41.539264_-94.158183@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105966,
+    "wof:geomhash":"85d100d2065c7a78b23bb9de791d63a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856859331
+        }
+    ],
+    "wof:id":856859331,
+    "wof:lastmodified":1464105966,
+    "wof:name":"Jeff Boston",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -94.158183,
+    41.539264,
+    -94.158183,
+    41.539264
+],
+  "geometry": {"coordinates":[-94.15818299999999,41.539264],"type":"Point"}
+}

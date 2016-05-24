@@ -1,0 +1,71 @@
+{
+  "id": 856797653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683496,42.037367,-91.683496,42.037367",
+    "geom:latitude":42.037367,
+    "geom:longitude":-91.683496,
+    "iso:country":"US",
+    "sg:address":"1086 Rainbow Blvd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8194",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47RPuSifDtMj1ftxeWfobO_42.037367_-91.683496@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103090,
+    "wof:geomhash":"427b201ca92013b1bdf2bdf9ebdb79e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856797653
+        }
+    ],
+    "wof:id":856797653,
+    "wof:lastmodified":1464103090,
+    "wof:name":"D & B Property Services",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.683496,
+    42.037367,
+    -91.683496,
+    42.037367
+],
+  "geometry": {"coordinates":[-91.68349600000001,42.037367],"type":"Point"}
+}

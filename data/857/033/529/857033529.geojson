@@ -1,0 +1,71 @@
+{
+  "id": 857033529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.370561,42.397158,-96.370561,42.397158",
+    "geom:latitude":42.397158,
+    "geom:longitude":-96.370561,
+    "iso:country":"US",
+    "sg:address":"6201 Macarthur St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 8484",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRgVuSocXBvdC3Ms5B4Ha_42.397158_-96.370561@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113804,
+    "wof:geomhash":"a980a5cc6f2175e14fe8e97bee522ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857033529
+        }
+    ],
+    "wof:id":857033529,
+    "wof:lastmodified":1464113804,
+    "wof:name":"Tur-Pak Foods",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -96.370561,
+    42.397158,
+    -96.370561,
+    42.397158
+],
+  "geometry": {"coordinates":[-96.370561,42.397158],"type":"Point"}
+}

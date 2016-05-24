@@ -1,0 +1,71 @@
+{
+  "id": 856851149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.696984,42.133672,-91.696984,42.133672",
+    "geom:latitude":42.133672,
+    "geom:longitude":-91.696984,
+    "iso:country":"US",
+    "sg:address":"3720 Alice Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9164",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EiVzzptPlLHVapELCd7HC_42.133672_-91.696984@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105586,
+    "wof:geomhash":"c37f4c5f85eada57bdb5449528f247fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856851149
+        }
+    ],
+    "wof:id":856851149,
+    "wof:lastmodified":1464105586,
+    "wof:name":"Herbalooks",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -91.696984,
+    42.133672,
+    -91.696984,
+    42.133672
+],
+  "geometry": {"coordinates":[-91.696984,42.133672],"type":"Point"}
+}

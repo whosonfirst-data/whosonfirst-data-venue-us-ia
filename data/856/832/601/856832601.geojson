@@ -1,0 +1,75 @@
+{
+  "id": 856832601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867545,41.260655,-95.867545,41.260655",
+    "geom:latitude":41.260655,
+    "geom:longitude":-95.867545,
+    "iso:country":"US",
+    "sg:address":"1 S 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3650",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engine",
+        "internal",
+        "combustion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HVNiGEkfNss3asYC3mm4Z_41.260655_-95.867545@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104639,
+    "wof:geomhash":"1c691ee565ca9e3e5dbdecdc1d92a9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856832601
+        }
+    ],
+    "wof:id":856832601,
+    "wof:lastmodified":1464104639,
+    "wof:name":"B & J Machine Shop",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "internal",
+        "combustion"
+    ]
+},
+  "bbox": [
+    -95.867545,
+    41.260655,
+    -95.867545,
+    41.260655
+],
+  "geometry": {"coordinates":[-95.86754500000001,41.260655],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856994831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.557369,41.365631,-93.557369,41.365631",
+    "geom:latitude":41.365631,
+    "geom:longitude":-93.557369,
+    "iso:country":"US",
+    "sg:address":"506 E Euclid Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6796",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tolFnrMZBN5osawu09UWv_41.365631_-93.557369@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112172,
+    "wof:geomhash":"6ca856e87588a960311d1d5b0f81815e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856994831
+        }
+    ],
+    "wof:id":856994831,
+    "wof:lastmodified":1464112172,
+    "wof:name":"Vanderpool Plumbing Heating",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.557369,
+    41.365631,
+    -93.557369,
+    41.365631
+],
+  "geometry": {"coordinates":[-93.55736899999999,41.365631],"type":"Point"}
+}

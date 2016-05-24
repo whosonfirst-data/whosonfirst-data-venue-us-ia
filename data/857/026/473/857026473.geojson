@@ -1,0 +1,71 @@
+{
+  "id": 857026473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.38555,41.896564,-91.38555,41.896564",
+    "geom:latitude":41.896564,
+    "geom:longitude":-91.38555,
+    "iso:country":"US",
+    "sg:address":"531 Sutliff Rd",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2206",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74zOO94VgSSzZE4qpFyFYW_41.896564_-91.385550@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113484,
+    "wof:geomhash":"348930f445ff677b980fe6606699951d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857026473
+        }
+    ],
+    "wof:id":857026473,
+    "wof:lastmodified":1464113484,
+    "wof:name":"Reilly Engineering Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -91.38555,
+    41.896564,
+    -91.38555,
+    41.896564
+],
+  "geometry": {"coordinates":[-91.38554999999999,41.896564],"type":"Point"}
+}

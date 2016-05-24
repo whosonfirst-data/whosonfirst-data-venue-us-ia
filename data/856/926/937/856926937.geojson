@@ -1,0 +1,71 @@
+{
+  "id": 856926937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849769,41.256923,-95.849769,41.256923",
+    "geom:latitude":41.256923,
+    "geom:longitude":-95.849769,
+    "iso:country":"US",
+    "sg:address":"201 S 4th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 1907",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65cBtoXSqpcNvUhFgqYL74_41.256923_-95.849769@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109123,
+    "wof:geomhash":"2e9576842776cf4ac71e503cd450b30f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856926937
+        }
+    ],
+    "wof:id":856926937,
+    "wof:lastmodified":1464109123,
+    "wof:name":"Koestner Mc Givern & Assoc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -95.849769,
+    41.256923,
+    -95.849769,
+    41.256923
+],
+  "geometry": {"coordinates":[-95.84976899999999,41.256923],"type":"Point"}
+}

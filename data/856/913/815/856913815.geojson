@@ -1,0 +1,73 @@
+{
+  "id": 856913815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560814,42.03571,-91.560814,42.03571",
+    "geom:latitude":42.03571,
+    "geom:longitude":-91.560814,
+    "iso:country":"US",
+    "sg:address":"4835 10th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 8564",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uj8SZOjFWEZoDgAZGUNVB_42.035710_-91.560814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108583,
+    "wof:geomhash":"28791499c8b55ba14eb800b9bf624348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856913815
+        }
+    ],
+    "wof:id":856913815,
+    "wof:lastmodified":1464108583,
+    "wof:name":"Hawkeye Auto",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.560814,
+    42.03571,
+    -91.560814,
+    42.03571
+],
+  "geometry": {"coordinates":[-91.56081399999999,42.03571],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 856968469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.606374,41.634129,-93.606374,41.634129",
+    "geom:latitude":41.634129,
+    "geom:longitude":-93.606374,
+    "iso:country":"US",
+    "sg:address":"900 Jerlynn Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 3344",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feedlot",
+        "corn",
+        "soybean",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V3l1kkz134prQ6XsgRAUN_41.634129_-93.606374@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110889,
+    "wof:geomhash":"eea03471b692c892845b44fd3ee942a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856968469
+        }
+    ],
+    "wof:id":856968469,
+    "wof:lastmodified":1464110889,
+    "wof:name":"Bernard Crall",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "corn",
+        "soybean",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -93.606374,
+    41.634129,
+    -93.606374,
+    41.634129
+],
+  "geometry": {"coordinates":[-93.606374,41.634129],"type":"Point"}
+}

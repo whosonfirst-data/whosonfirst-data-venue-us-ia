@@ -1,0 +1,73 @@
+{
+  "id": 856787857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614351,42.029573,-91.614351,42.029573",
+    "geom:latitude":42.029573,
+    "geom:longitude":-91.614351,
+    "iso:country":"US",
+    "sg:address":"365 Marion Blvd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 9808",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hjo8BtlLLmqxKnt5ilewj_42.029573_-91.614351@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102697,
+    "wof:geomhash":"4112d620d1438d48adc28e7289c78b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856787857
+        }
+    ],
+    "wof:id":856787857,
+    "wof:lastmodified":1464102697,
+    "wof:name":"Village Ridge",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.614351,
+    42.029573,
+    -91.614351,
+    42.029573
+],
+  "geometry": {"coordinates":[-91.614351,42.029573],"type":"Point"}
+}

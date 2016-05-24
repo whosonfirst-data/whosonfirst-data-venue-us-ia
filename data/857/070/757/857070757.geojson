@@ -1,0 +1,71 @@
+{
+  "id": 857070757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656872,41.939186,-91.656872,41.939186",
+    "geom:latitude":41.939186,
+    "geom:longitude":-91.656872,
+    "iso:country":"US",
+    "sg:address":"3939 Bowling St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 981 3557",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yxjHwTCn8DHR3CqA9v5yK_41.939186_-91.656872@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115367,
+    "wof:geomhash":"d95bce0917e2f31623e40f33ea4fc71a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070757
+        }
+    ],
+    "wof:id":857070757,
+    "wof:lastmodified":1464115367,
+    "wof:name":"DO Service Better Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.656872,
+    41.939186,
+    -91.656872,
+    41.939186
+],
+  "geometry": {"coordinates":[-91.65687200000001,41.939186],"type":"Point"}
+}

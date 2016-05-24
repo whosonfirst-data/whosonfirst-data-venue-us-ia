@@ -1,0 +1,80 @@
+{
+  "id": 857043219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.692398,41.9561,-91.692398,41.9561",
+    "geom:latitude":41.9561,
+    "geom:longitude":-91.692398,
+    "iso:country":"US",
+    "sg:address":"1403 Wilson Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1054",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding",
+        "pet",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.hilltopkennelsiowa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s4eTtHyijKUB6BvS3E7Ff_41.956240_-91.691685@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114207,
+    "wof:geomhash":"69870232548818993cb68376f49bbcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857043219
+        }
+    ],
+    "wof:id":857043219,
+    "wof:lastmodified":1464114207,
+    "wof:name":"Hilltop Kennels",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding",
+        "pet",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.692398,
+    41.9561,
+    -91.692398,
+    41.9561
+],
+  "geometry": {"coordinates":[-91.692398,41.9561],"type":"Point"}
+}

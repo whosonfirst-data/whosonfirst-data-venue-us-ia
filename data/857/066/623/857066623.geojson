@@ -1,0 +1,68 @@
+{
+  "id": 857066623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6689,41.9772,-91.6689,41.9772",
+    "geom:latitude":41.9772,
+    "geom:longitude":-91.6689,
+    "iso:country":"US",
+    "sg:address":"200 1st St SE Ste 111",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3008",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AmEXZLaeb8Vtifhdbu6p5_41.977200_-91.668900@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115162,
+    "wof:geomhash":"5591963700e1bc5a72bb300b6192d086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066623
+        }
+    ],
+    "wof:id":857066623,
+    "wof:lastmodified":1464115162,
+    "wof:name":"Alliant Credit Union",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6689,
+    41.9772,
+    -91.6689,
+    41.9772
+],
+  "geometry": {"coordinates":[-91.66889999999999,41.9772],"type":"Point"}
+}

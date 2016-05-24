@@ -1,0 +1,73 @@
+{
+  "id": 857055615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.864813,41.256033,-95.864813,41.256033",
+    "geom:latitude":41.256033,
+    "geom:longitude":-95.864813,
+    "iso:country":"US",
+    "sg:address":"1405 6th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8226",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EV3XTpqscg6PWsupPRQEW_41.256103_-95.864778@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114734,
+    "wof:geomhash":"40424b7e7ad8412269f2f69ecf01119b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857055615
+        }
+    ],
+    "wof:id":857055615,
+    "wof:lastmodified":1464114734,
+    "wof:name":"Arrow Towing",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.864813,
+    41.256033,
+    -95.864813,
+    41.256033
+],
+  "geometry": {"coordinates":[-95.864813,41.256033],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857012161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658655,41.981747,-91.658655,41.981747",
+    "geom:latitude":41.981747,
+    "geom:longitude":-91.658655,
+    "iso:country":"US",
+    "sg:address":"866 3rd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5588",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ULaMxTkNvgQtdjbfu37Vw_41.981747_-91.658655@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112863,
+    "wof:geomhash":"87572bb9c79d4477dd9f266daa17387a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857012161
+        }
+    ],
+    "wof:id":857012161,
+    "wof:lastmodified":1464112863,
+    "wof:name":"Bob's Wholesale Cars",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.658655,
+    41.981747,
+    -91.658655,
+    41.981747
+],
+  "geometry": {"coordinates":[-91.658655,41.981747],"type":"Point"}
+}

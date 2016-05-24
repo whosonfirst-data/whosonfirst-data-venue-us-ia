@@ -1,0 +1,73 @@
+{
+  "id": 856914361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.604329,42.033373,-91.604329,42.033373",
+    "geom:latitude":42.033373,
+    "geom:longitude":-91.604329,
+    "iso:country":"US",
+    "sg:address":"340 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 1196",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jljN1dl4vqXCm0JQ4JVJy_42.033373_-91.604329@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108600,
+    "wof:geomhash":"7f9b1fbe8de385b2a57de3a932d0a0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856914361
+        }
+    ],
+    "wof:id":856914361,
+    "wof:lastmodified":1464108600,
+    "wof:name":"Wells Fargo Private Client Svc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -91.604329,
+    42.033373,
+    -91.604329,
+    42.033373
+],
+  "geometry": {"coordinates":[-91.60432900000001,42.033373],"type":"Point"}
+}

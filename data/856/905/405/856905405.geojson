@@ -1,0 +1,71 @@
+{
+  "id": 856905405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.80301,42.066062,-91.80301,42.066062",
+    "geom:latitude":42.066062,
+    "geom:longitude":-91.80301,
+    "iso:country":"US",
+    "sg:address":"505 Vinton St",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 851 4831",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kK3ft5SbmVizDQPgGpsse_42.066062_-91.803010@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108245,
+    "wof:geomhash":"9b1056a8f736a289153cff140ae36b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856905405
+        }
+    ],
+    "wof:id":856905405,
+    "wof:lastmodified":1464108245,
+    "wof:name":"Palo Fire Dept",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.80301,
+    42.066062,
+    -91.80301,
+    42.066062
+],
+  "geometry": {"coordinates":[-91.80301,42.066062],"type":"Point"}
+}

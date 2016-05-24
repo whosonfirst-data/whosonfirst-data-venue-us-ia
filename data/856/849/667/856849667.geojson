@@ -1,0 +1,73 @@
+{
+  "id": 856849667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.598694,41.569817,-93.598694,41.569817",
+    "geom:latitude":41.569817,
+    "geom:longitude":-93.598694,
+    "iso:country":"US",
+    "sg:address":"1204 Hartford Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 284 0011",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I74Eq0flSdmueYLu45TTo_41.569817_-93.598694@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105502,
+    "wof:geomhash":"672e37c7fb2aab8d4f6e0713cc117cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856849667
+        }
+    ],
+    "wof:id":856849667,
+    "wof:lastmodified":1464105502,
+    "wof:name":"Pioneer Estates",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.598694,
+    41.569817,
+    -93.598694,
+    41.569817
+],
+  "geometry": {"coordinates":[-93.59869399999999,41.569817],"type":"Point"}
+}

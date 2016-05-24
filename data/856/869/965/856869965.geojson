@@ -1,0 +1,71 @@
+{
+  "id": 856869965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.56739,41.359251,-93.56739,41.359251",
+    "geom:latitude":41.359251,
+    "geom:longitude":-93.56739,
+    "iso:country":"US",
+    "sg:address":"605 W 1st Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6530",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pD8N1Vc4UXDokBVNIw5Sr_41.359251_-93.567390@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106511,
+    "wof:geomhash":"c74acc024396c610cbe6e2cf5bd41bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856869965
+        }
+    ],
+    "wof:id":856869965,
+    "wof:lastmodified":1464106511,
+    "wof:name":"R Olive Gary",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.56739,
+    41.359251,
+    -93.56739,
+    41.359251
+],
+  "geometry": {"coordinates":[-93.56739,41.359251],"type":"Point"}
+}

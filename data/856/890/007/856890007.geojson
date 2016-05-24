@@ -1,0 +1,66 @@
+{
+  "id": 856890007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397422,41.309146,-95.397422,41.309146",
+    "geom:latitude":41.309146,
+    "geom:longitude":-95.397422,
+    "iso:country":"US",
+    "sg:address":"124 S Main St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3114",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E8IeM8dOcEPY6LRili7hV_41.309146_-95.397422@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107685,
+    "wof:geomhash":"d01680f28866abc1d723da688f5a35e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856890007
+        }
+    ],
+    "wof:id":856890007,
+    "wof:lastmodified":1464107685,
+    "wof:name":"Service Barber Shop",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.397422,
+    41.309146,
+    -95.397422,
+    41.309146
+],
+  "geometry": {"coordinates":[-95.39742200000001,41.309146],"type":"Point"}
+}

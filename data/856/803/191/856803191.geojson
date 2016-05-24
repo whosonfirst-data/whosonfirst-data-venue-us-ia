@@ -1,0 +1,75 @@
+{
+  "id": 856803191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.375967,42.490991,-96.375967,42.490991",
+    "geom:latitude":42.490991,
+    "geom:longitude":-96.375967,
+    "iso:country":"US",
+    "sg:address":"2506 1st St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0328",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43kXrRqJancrGkplCZk5rk_42.490991_-96.375967@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103329,
+    "wof:geomhash":"acf25dc65fdca007da11b30de392719e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856803191
+        }
+    ],
+    "wof:id":856803191,
+    "wof:lastmodified":1464103329,
+    "wof:name":"R H Mullen Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.375967,
+    42.490991,
+    -96.375967,
+    42.490991
+],
+  "geometry": {"coordinates":[-96.375967,42.490991],"type":"Point"}
+}

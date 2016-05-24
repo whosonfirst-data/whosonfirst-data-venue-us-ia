@@ -1,0 +1,72 @@
+{
+  "id": 857055541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664597,42.017899,-91.664597,42.017899",
+    "geom:latitude":42.017899,
+    "geom:longitude":-91.664597,
+    "iso:country":"US",
+    "sg:address":"3825 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 7770",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.acehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dxQnUpfHx4VOHpcVLW9Ai_42.017683_-91.664375@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114732,
+    "wof:geomhash":"c7574a25f3521fc264b64796c103fef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857055541
+        }
+    ],
+    "wof:id":857055541,
+    "wof:lastmodified":1464114732,
+    "wof:name":"Carver Ace Hardware",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.664597,
+    42.017899,
+    -91.664597,
+    42.017899
+],
+  "geometry": {"coordinates":[-91.664597,42.017899],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 856833541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.522784,41.652733,-91.522784,41.652733",
+    "geom:latitude":41.652733,
+    "geom:longitude":-91.522784,
+    "iso:country":"US",
+    "sg:address":"638 S Governor St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 1247",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EkoR0ehOZCwpqvNUZ7JtW_41.652733_-91.522784@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104680,
+    "wof:geomhash":"794aab2e43e5a6047f80086e3f329310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896467,
+            "region_id":85688713,
+            "venue_id":856833541
+        }
+    ],
+    "wof:id":856833541,
+    "wof:lastmodified":1464104680,
+    "wof:name":"William Blackwell & Associates",
+    "wof:parent_id":85896467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.522784,
+    41.652733,
+    -91.522784,
+    41.652733
+],
+  "geometry": {"coordinates":[-91.522784,41.652733],"type":"Point"}
+}

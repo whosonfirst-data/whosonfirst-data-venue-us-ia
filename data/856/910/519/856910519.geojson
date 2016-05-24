@@ -1,0 +1,71 @@
+{
+  "id": 856910519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.224983,41.475959,-95.224983,41.475959",
+    "geom:latitude":41.475959,
+    "geom:longitude":-95.224983,
+    "iso:country":"US",
+    "sg:address":"405 Pearl St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3887",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ssPdl9kfdHsHpX53bXpr6_41.475959_-95.224983@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108439,
+    "wof:geomhash":"b4187633394cf5fa136f151cfe374283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856910519
+        }
+    ],
+    "wof:id":856910519,
+    "wof:lastmodified":1464108439,
+    "wof:name":"Walnut Creek Fertilizer Inc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -95.224983,
+    41.475959,
+    -95.224983,
+    41.475959
+],
+  "geometry": {"coordinates":[-95.22498299999999,41.475959],"type":"Point"}
+}

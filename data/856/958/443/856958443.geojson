@@ -1,0 +1,71 @@
+{
+  "id": 856958443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.283966,42.53318,-96.283966,42.53318",
+    "geom:latitude":42.53318,
+    "geom:longitude":-96.283966,
+    "iso:country":"US",
+    "sg:address":"1647 120th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 4661",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zSb2HTIyWQH51HiYG7bee_42.533180_-96.283966@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110487,
+    "wof:geomhash":"ad323a2951a7beb11271bc526fdee31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856958443
+        }
+    ],
+    "wof:id":856958443,
+    "wof:lastmodified":1464110487,
+    "wof:name":"Pottorff Realty Inc",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -96.283966,
+    42.53318,
+    -96.283966,
+    42.53318
+],
+  "geometry": {"coordinates":[-96.28396600000001,42.53318],"type":"Point"}
+}

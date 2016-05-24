@@ -1,0 +1,69 @@
+{
+  "id": 856910923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.754381,41.594536,-93.754381,41.594536",
+    "geom:latitude":41.594536,
+    "geom:longitude":-93.754381,
+    "iso:country":"US",
+    "sg:address":"3738 Westown Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 224 4323",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rZ2vW1QkBTDIOaVrWH86F_41.594536_-93.754381@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108464,
+    "wof:geomhash":"f93d1f09393ed652d5cc8bf1a881fcad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896523,
+            "region_id":85688713,
+            "venue_id":856910923
+        }
+    ],
+    "wof:id":856910923,
+    "wof:lastmodified":1464108464,
+    "wof:name":"Us Bank",
+    "wof:parent_id":85896523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.754381,
+    41.594536,
+    -93.754381,
+    41.594536
+],
+  "geometry": {"coordinates":[-93.754381,41.594536],"type":"Point"}
+}

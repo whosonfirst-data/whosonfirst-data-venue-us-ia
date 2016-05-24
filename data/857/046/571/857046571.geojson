@@ -1,0 +1,72 @@
+{
+  "id": 857046571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860397,41.229099,-95.860397,41.229099",
+    "geom:latitude":41.229099,
+    "geom:longitude":-95.860397,
+    "iso:country":"US",
+    "sg:address":"3125 S 11th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2255",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.andersenconst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YKaCpYhKZvjty4zV9Or52_41.228904_-95.860445@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114349,
+    "wof:geomhash":"8851e7ab2b3830d90a272b3ee507da32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857046571
+        }
+    ],
+    "wof:id":857046571,
+    "wof:lastmodified":1464114349,
+    "wof:name":"Andersen Construction Co",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.860397,
+    41.229099,
+    -95.860397,
+    41.229099
+],
+  "geometry": {"coordinates":[-95.86039700000001,41.229099],"type":"Point"}
+}

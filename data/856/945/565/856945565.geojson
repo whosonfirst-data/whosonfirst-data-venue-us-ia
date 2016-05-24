@@ -1,0 +1,71 @@
+{
+  "id": 856945565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.577921,42.049727,-91.577921,42.049727",
+    "geom:latitude":42.049727,
+    "geom:longitude":-91.577921,
+    "iso:country":"US",
+    "sg:address":"3460 28th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6195",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BNdNzxUPKgqptZa8Fc3jL_42.049727_-91.577921@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109906,
+    "wof:geomhash":"f5c7574355f99240290c370789232dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856945565
+        }
+    ],
+    "wof:id":856945565,
+    "wof:lastmodified":1464109906,
+    "wof:name":"Waynes Homes Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.577921,
+    42.049727,
+    -91.577921,
+    42.049727
+],
+  "geometry": {"coordinates":[-91.577921,42.049727],"type":"Point"}
+}

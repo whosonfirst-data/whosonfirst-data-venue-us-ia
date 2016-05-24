@@ -1,0 +1,71 @@
+{
+  "id": 856796191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.338901,41.487514,-95.338901,41.487514",
+    "geom:latitude":41.487514,
+    "geom:longitude":-95.338901,
+    "iso:country":"US",
+    "sg:address":"216 W Wood St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 3300",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z0LCYwYrx0qQcyQxY50YO_41.487514_-95.338901@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103027,
+    "wof:geomhash":"0d482e4252d60cab4dc5549a63619314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856796191
+        }
+    ],
+    "wof:id":856796191,
+    "wof:lastmodified":1464103027,
+    "wof:name":"Avoca Autowash",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -95.338901,
+    41.487514,
+    -95.338901,
+    41.487514
+],
+  "geometry": {"coordinates":[-95.33890100000001,41.487514],"type":"Point"}
+}

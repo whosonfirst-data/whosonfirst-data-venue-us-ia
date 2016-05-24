@@ -1,0 +1,71 @@
+{
+  "id": 856812677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865229,41.351683,-95.865229,41.351683",
+    "geom:latitude":41.351683,
+    "geom:longitude":-95.865229,
+    "iso:country":"US",
+    "sg:address":"23274 Pokamoke Ln",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3369",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_016im79b7yiUT0VR85LtJa_41.351683_-95.865229@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103738,
+    "wof:geomhash":"d14ebf179cb6d573ea663083f421567b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856812677
+        }
+    ],
+    "wof:id":856812677,
+    "wof:lastmodified":1464103738,
+    "wof:name":"Camp Pokamoke",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -95.865229,
+    41.351683,
+    -95.865229,
+    41.351683
+],
+  "geometry": {"coordinates":[-95.865229,41.351683],"type":"Point"}
+}

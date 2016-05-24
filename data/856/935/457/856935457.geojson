@@ -1,0 +1,73 @@
+{
+  "id": 856935457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716169,41.961054,-91.716169,41.961054",
+    "geom:latitude":41.961054,
+    "geom:longitude":-91.716169,
+    "iso:country":"US",
+    "sg:address":"1848 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7011",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20rgn2w0ti6Z6hK9LQialj_41.961054_-91.716169@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109452,
+    "wof:geomhash":"7f417cb39fa7911dc056fadd405a494a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856935457
+        }
+    ],
+    "wof:id":856935457,
+    "wof:lastmodified":1464109452,
+    "wof:name":"Schillig's Auto Svc Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.716169,
+    41.961054,
+    -91.716169,
+    41.961054
+],
+  "geometry": {"coordinates":[-91.71616899999999,41.961054],"type":"Point"}
+}

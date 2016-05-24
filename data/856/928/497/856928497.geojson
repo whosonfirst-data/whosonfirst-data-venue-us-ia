@@ -1,0 +1,71 @@
+{
+  "id": 856928497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.421819,41.23651,-95.421819,41.23651",
+    "geom:latitude":41.23651,
+    "geom:longitude":-95.421819,
+    "iso:country":"US",
+    "sg:address":"102 Broadway Blvd",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 3660",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LbXQRFAcjP7fkAhKPKw6T_41.236510_-95.421819@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109185,
+    "wof:geomhash":"952f118e0e27fead0c24d970aabbc97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856928497
+        }
+    ],
+    "wof:id":856928497,
+    "wof:lastmodified":1464109185,
+    "wof:name":"Brumley Trucking",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.421819,
+    41.23651,
+    -95.421819,
+    41.23651
+],
+  "geometry": {"coordinates":[-95.421819,41.23651],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856961525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.106499,41.839337,-94.106499,41.839337",
+    "geom:latitude":41.839337,
+    "geom:longitude":-94.106499,
+    "iso:country":"US",
+    "sg:address":"1120 1st Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4697",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VxuRMvQFL1EP5fYOuu3EK_41.839337_-94.106499@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110611,
+    "wof:geomhash":"c0c6d80f77f4aa6db13e621acddec172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856961525
+        }
+    ],
+    "wof:id":856961525,
+    "wof:lastmodified":1464110611,
+    "wof:name":"WIL-Do Dry Cleaners & Coin",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -94.106499,
+    41.839337,
+    -94.106499,
+    41.839337
+],
+  "geometry": {"coordinates":[-94.106499,41.839337],"type":"Point"}
+}

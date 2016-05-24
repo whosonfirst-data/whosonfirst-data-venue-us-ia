@@ -1,0 +1,73 @@
+{
+  "id": 856885589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.739016,41.629332,-93.739016,41.629332",
+    "geom:latitude":41.629332,
+    "geom:longitude":-93.739016,
+    "iso:country":"US",
+    "sg:address":"8601 Douglas Ave",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 2572",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04amv76vs8JC6HE661MFBz_41.629332_-93.739016@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107496,
+    "wof:geomhash":"127678fdf1a05e169a4bfe38cbd74650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896509,
+            "region_id":85688713,
+            "venue_id":856885589
+        }
+    ],
+    "wof:id":856885589,
+    "wof:lastmodified":1464107496,
+    "wof:name":"Hy-Vee Food Stores",
+    "wof:parent_id":85896509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.739016,
+    41.629332,
+    -93.739016,
+    41.629332
+],
+  "geometry": {"coordinates":[-93.73901600000001,41.629332],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856967975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.731273,41.956585,-91.731273,41.956585",
+    "geom:latitude":41.956585,
+    "geom:longitude":-91.731273,
+    "iso:country":"US",
+    "sg:address":"100 Hames St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1164",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qu1tzMmq4KnWi5HpwNiRf_41.956585_-91.731273@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110865,
+    "wof:geomhash":"c2fb89f311fa39626b792127326e85a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856967975
+        }
+    ],
+    "wof:id":856967975,
+    "wof:lastmodified":1464110865,
+    "wof:name":"Summit View Mobile Home Park",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -91.731273,
+    41.956585,
+    -91.731273,
+    41.956585
+],
+  "geometry": {"coordinates":[-91.731273,41.956585],"type":"Point"}
+}

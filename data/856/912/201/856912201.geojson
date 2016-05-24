@@ -1,0 +1,66 @@
+{
+  "id": 856912201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677242,42.024881,-91.677242,42.024881",
+    "geom:latitude":42.024881,
+    "geom:longitude":-91.677242,
+    "iso:country":"US",
+    "sg:address":"2341 Aspen Ln NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 6736",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ouRUt8rCcDUVSZ9DWzyMM_42.024881_-91.677242@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108512,
+    "wof:geomhash":"7c8c6d3928b499dbea7f15140aa677aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856912201
+        }
+    ],
+    "wof:id":856912201,
+    "wof:lastmodified":1464108512,
+    "wof:name":"Cedar Rapids Candle Company",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.677242,
+    42.024881,
+    -91.677242,
+    42.024881
+],
+  "geometry": {"coordinates":[-91.67724200000001,42.024881],"type":"Point"}
+}

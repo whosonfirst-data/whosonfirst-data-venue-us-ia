@@ -1,0 +1,71 @@
+{
+  "id": 856862905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105513,41.836338,-94.105513,41.836338",
+    "geom:latitude":41.836338,
+    "geom:longitude":-94.105513,
+    "iso:country":"US",
+    "sg:address":"908 Cornwall St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4679",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JWWkpVPziUjk6q2OXp8Kr_41.836338_-94.105513@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106113,
+    "wof:geomhash":"752186bc2b2e79fa718c41ce67bdb51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856862905
+        }
+    ],
+    "wof:id":856862905,
+    "wof:lastmodified":1464106113,
+    "wof:name":"American Concrete",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    -94.105513,
+    41.836338,
+    -94.105513,
+    41.836338
+],
+  "geometry": {"coordinates":[-94.105513,41.836338],"type":"Point"}
+}

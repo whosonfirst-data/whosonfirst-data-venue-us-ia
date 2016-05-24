@@ -1,0 +1,68 @@
+{
+  "id": 856975899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.376626,42.519061,-96.376626,42.519061",
+    "geom:latitude":42.519061,
+    "geom:longitude":-96.376626,
+    "iso:country":"US",
+    "sg:address":"2620 28th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 279 6651",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NLuUaTyThANgfZbDM122s_42.519061_-96.376626@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111262,
+    "wof:geomhash":"8a0ef85cd5765136de03e97608068ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856975899
+        }
+    ],
+    "wof:id":856975899,
+    "wof:lastmodified":1464111262,
+    "wof:name":"Public Schools Physical Opertn",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.376626,
+    42.519061,
+    -96.376626,
+    42.519061
+],
+  "geometry": {"coordinates":[-96.376626,42.519061],"type":"Point"}
+}

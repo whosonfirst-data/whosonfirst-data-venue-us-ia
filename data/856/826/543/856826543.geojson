@@ -1,0 +1,69 @@
+{
+  "id": 856826543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.646892,41.366347,-93.646892,41.366347",
+    "geom:latitude":41.366347,
+    "geom:longitude":-93.646892,
+    "iso:country":"US",
+    "sg:address":"778 Jesup St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 2236",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TiJhrZzpYYBICflJR3yKR_41.366347_-93.646892@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104368,
+    "wof:geomhash":"bbf2499f3ba5201b644dca9e34c21d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856826543
+        }
+    ],
+    "wof:id":856826543,
+    "wof:lastmodified":1464104368,
+    "wof:name":"LA Vida Loca Winery",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [
+    -93.646892,
+    41.366347,
+    -93.646892,
+    41.366347
+],
+  "geometry": {"coordinates":[-93.64689199999999,41.366347],"type":"Point"}
+}

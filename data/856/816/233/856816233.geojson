@@ -1,0 +1,71 @@
+{
+  "id": 856816233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072751,42.488733,-96.072751,42.488733",
+    "geom:latitude":42.488733,
+    "geom:longitude":-96.072751,
+    "iso:country":"US",
+    "sg:address":"232 Main St",
+    "sg:city":"Moville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 873 3210",
+    "sg:postcode":"51039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ddAKMO0MEZeTYKgA0LGWe_42.488733_-96.072751@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103880,
+    "wof:geomhash":"9116e13288816d8c84774db87b0d0338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856816233
+        }
+    ],
+    "wof:id":856816233,
+    "wof:lastmodified":1464103880,
+    "wof:name":"Metcalf Thompson & Phipps",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -96.072751,
+    42.488733,
+    -96.072751,
+    42.488733
+],
+  "geometry": {"coordinates":[-96.072751,42.488733],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857063747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8367,41.256699,-95.8367,41.256699",
+    "geom:latitude":41.256699,
+    "geom:longitude":-95.8367,
+    "iso:country":"US",
+    "sg:address":"765 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1306",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27nTWresaS6NOJ6kGQOKVE_41.256699_-95.836700@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115053,
+    "wof:geomhash":"8b7841ec807482e53213bb43a0642163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063747
+        }
+    ],
+    "wof:id":857063747,
+    "wof:lastmodified":1464115053,
+    "wof:name":"Headstart Council Bluffs One & Two",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.8367,
+    41.256699,
+    -95.8367,
+    41.256699
+],
+  "geometry": {"coordinates":[-95.83669999999999,41.256699],"type":"Point"}
+}

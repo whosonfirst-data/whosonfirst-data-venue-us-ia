@@ -1,0 +1,77 @@
+{
+  "id": 856890395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.650355,41.490551,-90.650355,41.490551",
+    "geom:latitude":41.490551,
+    "geom:longitude":-90.650355,
+    "iso:country":"US",
+    "sg:address":"5600 Rockingham Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 3207",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JkHrEPAMSCIZIWLSm5FnS_41.490551_-90.650355@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107705,
+    "wof:geomhash":"8f1bb2bc7897e22c2638bfc52f5408ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856890395
+        }
+    ],
+    "wof:id":856890395,
+    "wof:lastmodified":1464107705,
+    "wof:name":"Brown National Lease",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.650355,
+    41.490551,
+    -90.650355,
+    41.490551
+],
+  "geometry": {"coordinates":[-90.650355,41.490551],"type":"Point"}
+}

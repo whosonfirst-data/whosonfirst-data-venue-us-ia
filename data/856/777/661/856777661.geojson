@@ -1,0 +1,71 @@
+{
+  "id": 856777661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.611124,42.043616,-91.611124,42.043616",
+    "geom:latitude":42.043616,
+    "geom:longitude":-91.611124,
+    "iso:country":"US",
+    "sg:address":"155 Boyson Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 9700",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VzSsTPimUeAZmk3Q3MGxA_42.043616_-91.611124@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102381,
+    "wof:geomhash":"79078acdf208aaa6db09c04f43793877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856777661
+        }
+    ],
+    "wof:id":856777661,
+    "wof:lastmodified":1464102381,
+    "wof:name":"Faith Lutheran Church",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.611124,
+    42.043616,
+    -91.611124,
+    42.043616
+],
+  "geometry": {"coordinates":[-91.611124,42.043616],"type":"Point"}
+}

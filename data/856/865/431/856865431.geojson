@@ -1,0 +1,71 @@
+{
+  "id": 856865431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524472,42.203637,-91.524472,42.203637",
+    "geom:latitude":42.203637,
+    "geom:longitude":-91.524472,
+    "iso:country":"US",
+    "sg:address":"38 S 4th St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 1313",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iyDCAsc2SglDQDsOHIFmB_42.203637_-91.524472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106229,
+    "wof:geomhash":"1421784b0a7c94b963b47591b4cefafb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856865431
+        }
+    ],
+    "wof:id":856865431,
+    "wof:lastmodified":1464106229,
+    "wof:name":"News-Letter",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -91.524472,
+    42.203637,
+    -91.524472,
+    42.203637
+],
+  "geometry": {"coordinates":[-91.524472,42.203637],"type":"Point"}
+}

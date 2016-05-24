@@ -1,0 +1,77 @@
+{
+  "id": 856784999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039966,42.249866,-96.039966,42.249866",
+    "geom:latitude":42.249866,
+    "geom:longitude":-96.039966,
+    "iso:country":"US",
+    "sg:address":"3146 Hancock Ave",
+    "sg:city":"Hornick",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 874 3779",
+    "sg:postcode":"51026",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "producer",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oBncxSsrNIUaHqqIT8xdi_42.249866_-96.039966@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102569,
+    "wof:geomhash":"956000f512dbb15ac643c77d0a62a93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856784999
+        }
+    ],
+    "wof:id":856784999,
+    "wof:lastmodified":1464102569,
+    "wof:name":"Washburn Cow Barn",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "producer",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -96.039966,
+    42.249866,
+    -96.039966,
+    42.249866
+],
+  "geometry": {"coordinates":[-96.03996600000001,42.249866],"type":"Point"}
+}

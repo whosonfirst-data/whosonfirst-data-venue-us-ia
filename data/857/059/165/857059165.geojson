@@ -1,0 +1,76 @@
+{
+  "id": 857059165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.563948,41.668317,-91.563948,41.668317",
+    "geom:latitude":41.668317,
+    "geom:longitude":-91.563948,
+    "iso:country":"US",
+    "sg:address":"75 2nd St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/west-lucas/71478-old-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 248 1220",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T7oeHV7mzwcmgxZPaPEiM_41.668317_-91.563948@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114868,
+    "wof:geomhash":"5653e34e57694b808938f3ed6239a998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":857059165
+        }
+    ],
+    "wof:id":857059165,
+    "wof:lastmodified":1464114868,
+    "wof:name":"Old Chicago",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.563948,
+    41.668317,
+    -91.563948,
+    41.668317
+],
+  "geometry": {"coordinates":[-91.563948,41.668317],"type":"Point"}
+}

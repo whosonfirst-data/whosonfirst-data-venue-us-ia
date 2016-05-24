@@ -1,0 +1,66 @@
+{
+  "id": 857022953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.380475,42.48317,-96.380475,42.48317",
+    "geom:latitude":42.48317,
+    "geom:longitude":-96.380475,
+    "iso:country":"US",
+    "sg:address":"411 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 224 2525",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qp9cKRbIKIajGh6tYGpki_42.483170_-96.380475@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113313,
+    "wof:geomhash":"0ebac8bdef9f5c33620cde4da20efade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857022953
+        }
+    ],
+    "wof:id":857022953,
+    "wof:lastmodified":1464113313,
+    "wof:name":"Lots To Do of Siouxland",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.380475,
+    42.48317,
+    -96.380475,
+    42.48317
+],
+  "geometry": {"coordinates":[-96.380475,42.48317],"type":"Point"}
+}

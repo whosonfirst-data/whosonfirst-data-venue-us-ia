@@ -1,0 +1,71 @@
+{
+  "id": 857016205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.921929,41.859456,-93.921929,41.859456",
+    "geom:latitude":41.859456,
+    "geom:longitude":-93.921929,
+    "iso:country":"US",
+    "sg:address":"116 N Main St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2227",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M8hZ1HL1piBRwOWGsHfFh_41.859456_-93.921929@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113045,
+    "wof:geomhash":"98187e9a87efbce017762968e42ace81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857016205
+        }
+    ],
+    "wof:id":857016205,
+    "wof:lastmodified":1464113045,
+    "wof:name":"Flinns Service",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.921929,
+    41.859456,
+    -93.921929,
+    41.859456
+],
+  "geometry": {"coordinates":[-93.92192900000001,41.859456],"type":"Point"}
+}

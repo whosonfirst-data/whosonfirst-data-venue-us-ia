@@ -1,0 +1,71 @@
+{
+  "id": 856905833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.017459,41.612463,-94.017459,41.612463",
+    "geom:latitude":41.612463,
+    "geom:longitude":-94.017459,
+    "iso:country":"US",
+    "sg:address":"601 Nile Kinnick Dr S",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3334",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PacEGsoKvC81wnNksF8K2_41.612463_-94.017459@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108260,
+    "wof:geomhash":"e89e530e26583a34c21b5b521e875f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856905833
+        }
+    ],
+    "wof:id":856905833,
+    "wof:lastmodified":1464108260,
+    "wof:name":"Adel Auto Sales",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -94.017459,
+    41.612463,
+    -94.017459,
+    41.612463
+],
+  "geometry": {"coordinates":[-94.017459,41.612463],"type":"Point"}
+}

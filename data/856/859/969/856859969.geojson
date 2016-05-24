@@ -1,0 +1,73 @@
+{
+  "id": 856859969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.573114,42.296279,-91.573114,42.296279",
+    "geom:latitude":42.296279,
+    "geom:longitude":-91.573114,
+    "iso:country":"US",
+    "sg:address":"5994 Pering Ridge Rd",
+    "sg:city":"Coggon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 435 2315",
+    "sg:postcode":"52218",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eMm1JEpvW8yNFMMXRtQ9V_42.296279_-91.573114@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105991,
+    "wof:geomhash":"36486ce9bc7195e0a5f32ef9e63e946f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856859969
+        }
+    ],
+    "wof:id":856859969,
+    "wof:lastmodified":1464105991,
+    "wof:name":"Quality Ridge Electric",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.573114,
+    42.296279,
+    -91.573114,
+    42.296279
+],
+  "geometry": {"coordinates":[-91.573114,42.296279],"type":"Point"}
+}

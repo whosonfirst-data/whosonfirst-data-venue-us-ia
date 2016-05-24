@@ -1,0 +1,75 @@
+{
+  "id": 856936957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.566102,41.676105,-91.566102,41.676105",
+    "geom:latitude":41.676105,
+    "geom:longitude":-91.566102,
+    "iso:country":"US",
+    "sg:address":"570 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 4858",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dT0pBwN9l3V87YYAkDEI7_41.676105_-91.566102@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109515,
+    "wof:geomhash":"40d4570a076d0aca5468aceb7e5e3870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856936957
+        }
+    ],
+    "wof:id":856936957,
+    "wof:lastmodified":1464109515,
+    "wof:name":"Four Seasons Laser Wash Plus",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.566102,
+    41.676105,
+    -91.566102,
+    41.676105
+],
+  "geometry": {"coordinates":[-91.566102,41.676105],"type":"Point"}
+}

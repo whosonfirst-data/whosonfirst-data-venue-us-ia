@@ -1,0 +1,71 @@
+{
+  "id": 856909381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.723702,42.235371,-95.723702,42.235371",
+    "geom:latitude":42.235371,
+    "geom:longitude":-95.723702,
+    "iso:country":"US",
+    "sg:address":"209 Thomas St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 883 2001",
+    "sg:postcode":"51019",
+    "sg:province":"IA",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wcXktUtv2AjPwdJgq6xyH_42.235371_-95.723702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108401,
+    "wof:geomhash":"b696f2b9570901f1b8ac2b8a0f91acbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856909381
+        }
+    ],
+    "wof:id":856909381,
+    "wof:lastmodified":1464108401,
+    "wof:name":"Danbury Review",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -95.723702,
+    42.235371,
+    -95.723702,
+    42.235371
+],
+  "geometry": {"coordinates":[-95.723702,42.235371],"type":"Point"}
+}

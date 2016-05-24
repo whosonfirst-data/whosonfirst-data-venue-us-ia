@@ -1,0 +1,75 @@
+{
+  "id": 856923641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528692,41.655414,-91.528692,41.655414",
+    "geom:latitude":41.655414,
+    "geom:longitude":-91.528692,
+    "iso:country":"US",
+    "sg:address":"404 S Van Buren St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 9200",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26PScakPFLJc3iKk7fYdiP_41.655414_-91.528692@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108988,
+    "wof:geomhash":"7ed3ae7a5af1842c6138ad7dd809219d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856923641
+        }
+    ],
+    "wof:id":856923641,
+    "wof:lastmodified":1464108988,
+    "wof:name":"Ed Harney Auto Svc",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.528692,
+    41.655414,
+    -91.528692,
+    41.655414
+],
+  "geometry": {"coordinates":[-91.52869200000001,41.655414],"type":"Point"}
+}

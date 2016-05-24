@@ -1,0 +1,72 @@
+{
+  "id": 857026259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.839773,41.266141,-95.839773,41.266141",
+    "geom:latitude":41.266141,
+    "geom:longitude":-95.839773,
+    "iso:country":"US",
+    "sg:address":"508 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1751",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hospice"
+    ],
+    "sg:website":"www.beverlycares.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iaIHtEALDH7tHUvdc9E3J_41.266141_-95.839773@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113467,
+    "wof:geomhash":"2a3879d5887e2d1dffbd7c321cb96dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857026259
+        }
+    ],
+    "wof:id":857026259,
+    "wof:lastmodified":1464113467,
+    "wof:name":"Hospice Preferred Choice",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -95.839773,
+    41.266141,
+    -95.839773,
+    41.266141
+],
+  "geometry": {"coordinates":[-95.83977299999999,41.266141],"type":"Point"}
+}

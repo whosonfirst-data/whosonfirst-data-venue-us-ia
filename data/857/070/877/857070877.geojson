@@ -1,0 +1,68 @@
+{
+  "id": 857070877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.674202,41.8909,-91.674202,41.8909",
+    "geom:latitude":41.8909,
+    "geom:longitude":-91.674202,
+    "iso:country":"US",
+    "sg:address":"9200 Earhart Ln SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 4700",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5duukFOrpxfRUdTL7ypHLN_41.890900_-91.674202@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115371,
+    "wof:geomhash":"343cd52c5e4db9654c52e343b6aeb3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070877
+        }
+    ],
+    "wof:id":857070877,
+    "wof:lastmodified":1464115371,
+    "wof:name":"Pearson Education Measurement",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.674202,
+    41.8909,
+    -91.674202,
+    41.8909
+],
+  "geometry": {"coordinates":[-91.67420199999999,41.8909],"type":"Point"}
+}

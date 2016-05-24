@@ -1,0 +1,75 @@
+{
+  "id": 856881619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.63278,41.986607,-91.63278,41.986607",
+    "geom:latitude":41.986607,
+    "geom:longitude":-91.63278,
+    "iso:country":"US",
+    "sg:address":"2325 Grande Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5389",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28C63ahyxttBPzwy5gjFI3_41.986607_-91.632780@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107238,
+    "wof:geomhash":"74149b31ce7b11028480a34e2eda02a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856881619
+        }
+    ],
+    "wof:id":856881619,
+    "wof:lastmodified":1464107238,
+    "wof:name":"Homestay",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -91.63278,
+    41.986607,
+    -91.63278,
+    41.986607
+],
+  "geometry": {"coordinates":[-91.63278,41.986607],"type":"Point"}
+}

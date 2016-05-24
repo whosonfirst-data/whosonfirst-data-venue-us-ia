@@ -1,0 +1,68 @@
+{
+  "id": 857071047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.695353,41.975112,-91.695353,41.975112",
+    "geom:latitude":41.975112,
+    "geom:longitude":-91.695353,
+    "iso:country":"US",
+    "sg:address":"1738 B Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5018",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VU2cQUcoIVfogx5VDQtO2_41.975112_-91.695353@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115377,
+    "wof:geomhash":"abc99558ebe28ea6ee64c3dc371314e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071047
+        }
+    ],
+    "wof:id":857071047,
+    "wof:lastmodified":1464115377,
+    "wof:name":"Hair Mechanix",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.695353,
+    41.975112,
+    -91.695353,
+    41.975112
+],
+  "geometry": {"coordinates":[-91.695353,41.975112],"type":"Point"}
+}

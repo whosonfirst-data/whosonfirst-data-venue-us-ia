@@ -1,0 +1,73 @@
+{
+  "id": 856879093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.793351,42.295237,-91.793351,42.295237",
+    "geom:latitude":42.295237,
+    "geom:longitude":-91.793351,
+    "iso:country":"US",
+    "sg:address":"5973 Herb Rd",
+    "sg:city":"Walker",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 448 4337",
+    "sg:postcode":"52352",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FfEZ1UxnQ4MbJFQHsdSAT_42.295237_-91.793351@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107119,
+    "wof:geomhash":"7f87461efa1c1c2a4bbda69958da042a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856879093
+        }
+    ],
+    "wof:id":856879093,
+    "wof:lastmodified":1464107119,
+    "wof:name":"Herb Schade",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.793351,
+    42.295237,
+    -91.793351,
+    42.295237
+],
+  "geometry": {"coordinates":[-91.793351,42.295237],"type":"Point"}
+}

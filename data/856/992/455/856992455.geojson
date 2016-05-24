@@ -1,0 +1,66 @@
+{
+  "id": 856992455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.349481,42.540468,-96.349481,42.540468",
+    "geom:latitude":42.540468,
+    "geom:longitude":-96.349481,
+    "iso:country":"US",
+    "sg:address":"4700 41st St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 2772",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qAYUc3hzRrF9PpsEGTz6A_42.540468_-96.349481@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112068,
+    "wof:geomhash":"a078924ae72840d4c0330ffc7f58d1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856992455
+        }
+    ],
+    "wof:id":856992455,
+    "wof:lastmodified":1464112068,
+    "wof:name":"Ickey Nickel Bar & Grill",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.349481,
+    42.540468,
+    -96.349481,
+    42.540468
+],
+  "geometry": {"coordinates":[-96.349481,42.540468],"type":"Point"}
+}

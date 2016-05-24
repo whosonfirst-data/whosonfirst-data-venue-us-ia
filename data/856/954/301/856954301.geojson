@@ -1,0 +1,73 @@
+{
+  "id": 856954301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627964,42.02079,-91.627964,42.02079",
+    "geom:latitude":42.02079,
+    "geom:longitude":-91.627964,
+    "iso:country":"US",
+    "sg:address":"11 Glenbrook Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 4671",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yf9fhclJ8ZwkTnI9ijfPa_42.020790_-91.627964@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110296,
+    "wof:geomhash":"faa0fead143fec6d8bfb5e22e2d85900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856954301
+        }
+    ],
+    "wof:id":856954301,
+    "wof:lastmodified":1464110296,
+    "wof:name":"Ray Construction Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.627964,
+    42.02079,
+    -91.627964,
+    42.02079
+],
+  "geometry": {"coordinates":[-91.62796400000001,42.02079],"type":"Point"}
+}

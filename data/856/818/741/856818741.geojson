@@ -1,0 +1,73 @@
+{
+  "id": 856818741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.548458,41.670899,-91.548458,41.670899",
+    "geom:latitude":41.670899,
+    "geom:longitude":-91.548458,
+    "iso:country":"US",
+    "sg:address":"425 Lexington Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8446",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Kn4QEXsJqW66FGz4zaRv_41.670899_-91.548458@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103992,
+    "wof:geomhash":"1644d4d155e13549c68cacd780bedaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896465,
+            "region_id":85688713,
+            "venue_id":856818741
+        }
+    ],
+    "wof:id":856818741,
+    "wof:lastmodified":1464103992,
+    "wof:name":"Richard Kerer Dr",
+    "wof:parent_id":85896465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.548458,
+    41.670899,
+    -91.548458,
+    41.670899
+],
+  "geometry": {"coordinates":[-91.548458,41.670899],"type":"Point"}
+}

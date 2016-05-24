@@ -1,0 +1,74 @@
+{
+  "id": 857058827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.400274,41.304967,-95.400274,41.304967",
+    "geom:latitude":41.304967,
+    "geom:longitude":-95.400274,
+    "iso:country":"US",
+    "sg:address":"205 Brown St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/belknap/226030-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3048",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42kerGv4Kxsgy7LU6BTyrX_41.304967_-95.400274@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114857,
+    "wof:geomhash":"d21f8b841287a92b188bae53e60d8b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857058827
+        }
+    ],
+    "wof:id":857058827,
+    "wof:lastmodified":1464114857,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.400274,
+    41.304967,
+    -95.400274,
+    41.304967
+],
+  "geometry": {"coordinates":[-95.400274,41.304967],"type":"Point"}
+}

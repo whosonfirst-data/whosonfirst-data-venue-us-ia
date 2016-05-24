@@ -1,0 +1,68 @@
+{
+  "id": 856833267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528685,41.663626,-91.528685,41.663626",
+    "geom:latitude":41.663626,
+    "geom:longitude":-91.528685,
+    "iso:country":"US",
+    "sg:address":"402 E Market St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 9824",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LmxkFDZOgb3c50EzPExLE_41.663626_-91.528685@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104669,
+    "wof:geomhash":"20648db784ac7a55fd131990b6a251d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856833267
+        }
+    ],
+    "wof:id":856833267,
+    "wof:lastmodified":1464104669,
+    "wof:name":"Dave's Fox Head Tavern",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.528685,
+    41.663626,
+    -91.528685,
+    41.663626
+],
+  "geometry": {"coordinates":[-91.528685,41.663626],"type":"Point"}
+}

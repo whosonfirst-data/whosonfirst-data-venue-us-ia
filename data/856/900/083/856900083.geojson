@@ -1,0 +1,71 @@
+{
+  "id": 856900083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.555376,41.369308,-93.555376,41.369308",
+    "geom:latitude":41.369308,
+    "geom:longitude":-93.555376,
+    "iso:country":"US",
+    "sg:address":"400 E Iowa Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8483",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "heat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CfsvG74W7OSRSJ2Bc307A_41.369308_-93.555376@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108053,
+    "wof:geomhash":"65b0a8d351da4f607dc052047e83422e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856900083
+        }
+    ],
+    "wof:id":856900083,
+    "wof:lastmodified":1464108053,
+    "wof:name":"Iowa EPS Products",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat"
+    ]
+},
+  "bbox": [
+    -93.555376,
+    41.369308,
+    -93.555376,
+    41.369308
+],
+  "geometry": {"coordinates":[-93.555376,41.369308],"type":"Point"}
+}

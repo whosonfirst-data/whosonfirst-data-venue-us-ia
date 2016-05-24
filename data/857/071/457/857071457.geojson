@@ -1,0 +1,72 @@
+{
+  "id": 857071457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.701019,42.032866,-91.701019,42.032866",
+    "geom:latitude":42.032866,
+    "geom:longitude":-91.701019,
+    "iso:country":"US",
+    "sg:address":"5300 Edgewood Rd NE Ste 300",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 892 0518",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.pro-cuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TGYJC8cN2exsyIGMQpl4M_42.032866_-91.701019@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115395,
+    "wof:geomhash":"bab81b856991377c5896536118611d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857071457
+        }
+    ],
+    "wof:id":857071457,
+    "wof:lastmodified":1464115395,
+    "wof:name":"Pro-Cuts",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -91.701019,
+    42.032866,
+    -91.701019,
+    42.032866
+],
+  "geometry": {"coordinates":[-91.701019,42.032866],"type":"Point"}
+}

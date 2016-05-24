@@ -1,0 +1,73 @@
+{
+  "id": 856933933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.474173,42.513446,-96.474173,42.513446",
+    "geom:latitude":42.513446,
+    "geom:longitude":-96.474173,
+    "iso:country":"US",
+    "sg:address":"1940 Riverside Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1321",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_005Baq1CY2EC4YK6q692QS_42.513446_-96.474173@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109390,
+    "wof:geomhash":"af5fd16de80c4928a9bffcad482dc2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856933933
+        }
+    ],
+    "wof:id":856933933,
+    "wof:lastmodified":1464109390,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.474173,
+    42.513446,
+    -96.474173,
+    42.513446
+],
+  "geometry": {"coordinates":[-96.47417299999999,42.513446],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856858499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.557993,42.033516,-91.557993,42.033516",
+    "geom:latitude":42.033516,
+    "geom:longitude":-91.557993,
+    "iso:country":"US",
+    "sg:address":"600 49th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7926",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YilJj6H0u8Y879zoxbmk1_42.033516_-91.557993@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105907,
+    "wof:geomhash":"3c789aba4f8cfa65c814c62248566445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856858499
+        }
+    ],
+    "wof:id":856858499,
+    "wof:lastmodified":1464105907,
+    "wof:name":"Croell Redi-Mix Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    -91.557993,
+    42.033516,
+    -91.557993,
+    42.033516
+],
+  "geometry": {"coordinates":[-91.557993,42.033516],"type":"Point"}
+}

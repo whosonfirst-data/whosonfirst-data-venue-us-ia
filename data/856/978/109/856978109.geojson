@@ -1,0 +1,73 @@
+{
+  "id": 856978109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634782,42.006938,-91.634782,42.006938",
+    "geom:latitude":42.006938,
+    "geom:longitude":-91.634782,
+    "iso:country":"US",
+    "sg:address":"2933 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 7891",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GPwcm4pJx75CD2ToHjnqP_42.006938_-91.634782@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111371,
+    "wof:geomhash":"3423c0ba6ce13f753e8869912673ac62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856978109
+        }
+    ],
+    "wof:id":856978109,
+    "wof:lastmodified":1464111371,
+    "wof:name":"Autoland",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.634782,
+    42.006938,
+    -91.634782,
+    42.006938
+],
+  "geometry": {"coordinates":[-91.634782,42.006938],"type":"Point"}
+}

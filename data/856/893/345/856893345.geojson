@@ -1,0 +1,75 @@
+{
+  "id": 856893345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619841,41.60427,-93.619841,41.60427",
+    "geom:latitude":41.60427,
+    "geom:longitude":-93.619841,
+    "iso:country":"US",
+    "sg:address":"1440 2nd Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 3110",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VoGP9R5Pk9e5BALObsYhN_41.604270_-93.619841@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107804,
+    "wof:geomhash":"4a1341582c8c7d8495ab2c3817d49269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856893345
+        }
+    ],
+    "wof:id":856893345,
+    "wof:lastmodified":1464107804,
+    "wof:name":"Budget Brake & Chassis",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.619841,
+    41.60427,
+    -93.619841,
+    41.60427
+],
+  "geometry": {"coordinates":[-93.61984099999999,41.60427],"type":"Point"}
+}

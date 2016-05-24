@@ -1,0 +1,72 @@
+{
+  "id": 856893121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.542045,41.370098,-93.542045,41.370098",
+    "geom:latitude":41.370098,
+    "geom:longitude":-93.542045,
+    "iso:country":"US",
+    "sg:address":"1100 N 14th St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4682",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "sg:website":"www.vpoolconst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EXeRvVGyIQHOAZ95AR3Jf_41.370098_-93.542045@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107797,
+    "wof:geomhash":"2f51b97953084090426592237de778cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856893121
+        }
+    ],
+    "wof:id":856893121,
+    "wof:lastmodified":1464107797,
+    "wof:name":"Vanderpool Construction Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.542045,
+    41.370098,
+    -93.542045,
+    41.370098
+],
+  "geometry": {"coordinates":[-93.542045,41.370098],"type":"Point"}
+}

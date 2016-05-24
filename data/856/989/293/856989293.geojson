@@ -1,0 +1,67 @@
+{
+  "id": 856989293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.337543,42.413917,-92.337543,42.413917",
+    "geom:latitude":42.413917,
+    "geom:longitude":-92.337543,
+    "iso:country":"US",
+    "sg:address":"7502 Hammond Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 296 2255",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:website":"www.lanehaven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06NYP7RRME8OdOnrb5SopP_42.413917_-92.337543@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111933,
+    "wof:geomhash":"392afe28283d7f9eaaa15feee5c62137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856989293
+        }
+    ],
+    "wof:id":856989293,
+    "wof:lastmodified":1464111933,
+    "wof:name":"Lane Haven Farms",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.337543,
+    42.413917,
+    -92.337543,
+    42.413917
+],
+  "geometry": {"coordinates":[-92.337543,42.413917],"type":"Point"}
+}

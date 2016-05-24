@@ -1,0 +1,71 @@
+{
+  "id": 857069551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.611603,41.977001,-91.611603,41.977001",
+    "geom:latitude":41.977001,
+    "geom:longitude":-91.611603,
+    "iso:country":"US",
+    "sg:address":"3405 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 247 1243",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03gLUpBM9RAIqo5KtpAvt1_41.977001_-91.611603@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115307,
+    "wof:geomhash":"1501daeea006816652df86b4c6573256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069551
+        }
+    ],
+    "wof:id":857069551,
+    "wof:lastmodified":1464115307,
+    "wof:name":"Green Angels Herbs & Healing Arts",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -91.611603,
+    41.977001,
+    -91.611603,
+    41.977001
+],
+  "geometry": {"coordinates":[-91.611603,41.977001],"type":"Point"}
+}

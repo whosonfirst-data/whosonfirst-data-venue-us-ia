@@ -1,0 +1,75 @@
+{
+  "id": 856944267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.559029,41.652826,-91.559029,41.652826",
+    "geom:latitude":41.652826,
+    "geom:longitude":-91.559029,
+    "iso:country":"US",
+    "sg:address":"207 Grandview Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 3221",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mzPV977WtvN67JSmtEWPb_41.652826_-91.559029@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109862,
+    "wof:geomhash":"f016fc3175f54e8de51ed98cc18d3ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":856944267
+        }
+    ],
+    "wof:id":856944267,
+    "wof:lastmodified":1464109862,
+    "wof:name":"Grand View LLC",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.559029,
+    41.652826,
+    -91.559029,
+    41.652826
+],
+  "geometry": {"coordinates":[-91.559029,41.652826],"type":"Point"}
+}

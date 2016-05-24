@@ -1,0 +1,79 @@
+{
+  "id": 856818843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.610176,41.600373,-93.610176,41.600373",
+    "geom:latitude":41.600373,
+    "geom:longitude":-93.610176,
+    "iso:country":"US",
+    "sg:address":"700 E University Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 263 5214",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical",
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M3sw4ZLRddzdDeV3wNiJy_41.600373_-93.610176@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103996,
+    "wof:geomhash":"07509bcfbbc30e97082548bead009463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896409,
+            "region_id":85688713,
+            "venue_id":856818843
+        }
+    ],
+    "wof:id":856818843,
+    "wof:lastmodified":1464103996,
+    "wof:name":"Kidney Care East",
+    "wof:parent_id":85896409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -93.610176,
+    41.600373,
+    -93.610176,
+    41.600373
+],
+  "geometry": {"coordinates":[-93.610176,41.600373],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856798943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.438313,42.497967,-96.438313,42.497967",
+    "geom:latitude":42.497967,
+    "geom:longitude":-96.438313,
+    "iso:country":"US",
+    "sg:address":"2215 W 2nd St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 3572",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2da0nFab4idMndcjSh5duu_42.497967_-96.438313@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103153,
+    "wof:geomhash":"d06591a7aaebca49661694c1e8aca9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856798943
+        }
+    ],
+    "wof:id":856798943,
+    "wof:lastmodified":1464103153,
+    "wof:name":"Girard Racing",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -96.438313,
+    42.497967,
+    -96.438313,
+    42.497967
+],
+  "geometry": {"coordinates":[-96.43831299999999,42.497967],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857067601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.637901,41.996812,-91.637901,41.996812",
+    "geom:latitude":41.996812,
+    "geom:longitude":-91.637901,
+    "iso:country":"US",
+    "sg:address":"1305 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0696",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2og4kEBM8i23mdX5QOHfTF_41.996812_-91.637901@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115207,
+    "wof:geomhash":"f0a5e594eb295fec82d16dad2e213b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857067601
+        }
+    ],
+    "wof:id":857067601,
+    "wof:lastmodified":1464115207,
+    "wof:name":"Metro Auto Repair",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.637901,
+    41.996812,
+    -91.637901,
+    41.996812
+],
+  "geometry": {"coordinates":[-91.637901,41.996812],"type":"Point"}
+}

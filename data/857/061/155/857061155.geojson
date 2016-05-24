@@ -1,0 +1,87 @@
+{
+  "id": 857061155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.502028,41.644043,-93.502028,41.644043",
+    "geom:latitude":41.644043,
+    "geom:longitude":-93.502028,
+    "iso:country":"US",
+    "sg:address":"3160 8th St SW Ste P",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 957 9790",
+    "sg:postcode":"50009",
+    "sg:province":"IA",
+    "sg:tags":[
+        "brew",
+        "grill",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944133,
+        102086603,
+        85896311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mXzIcCqeGkgJaCPUsVD39_41.644043_-93.502028@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114946,
+    "wof:geomhash":"dc0398ef1be2aebd353080edac59c9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944133,
+            "neighbourhood_id":85896311,
+            "region_id":85688713,
+            "venue_id":857061155
+        }
+    ],
+    "wof:id":857061155,
+    "wof:lastmodified":1464114946,
+    "wof:name":"Rich's Sports Bar & Grill",
+    "wof:parent_id":85896311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "grill",
+        "take"
+    ]
+},
+  "bbox": [
+    -93.502028,
+    41.644043,
+    -93.502028,
+    41.644043
+],
+  "geometry": {"coordinates":[-93.502028,41.644043],"type":"Point"}
+}

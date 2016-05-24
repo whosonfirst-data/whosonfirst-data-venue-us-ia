@@ -1,0 +1,74 @@
+{
+  "id": 856850875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621151,41.913569,-91.621151,41.913569",
+    "geom:latitude":41.913569,
+    "geom:longitude":-91.621151,
+    "iso:country":"US",
+    "sg:address":"6801 Ely Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 7424",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "agricultural",
+        "consultant"
+    ],
+    "sg:website":"www.crop-tech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jRt44IZWePfhYK6peGBf7_41.913569_-91.621151@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105575,
+    "wof:geomhash":"346cea025fedd8ba0ad8c54aabf6b290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856850875
+        }
+    ],
+    "wof:id":856850875,
+    "wof:lastmodified":1464105575,
+    "wof:name":"Crop Tech Svc Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -91.621151,
+    41.913569,
+    -91.621151,
+    41.913569
+],
+  "geometry": {"coordinates":[-91.621151,41.913569],"type":"Point"}
+}

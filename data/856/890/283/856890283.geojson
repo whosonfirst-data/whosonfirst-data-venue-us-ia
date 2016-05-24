@@ -1,0 +1,73 @@
+{
+  "id": 856890283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.688094,41.971183,-91.688094,41.971183",
+    "geom:latitude":41.971183,
+    "geom:longitude":-91.688094,
+    "iso:country":"US",
+    "sg:address":"1221 1st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1135",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CkPWvlo18N7e6gWREl0mx_41.971183_-91.688094@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107695,
+    "wof:geomhash":"b82a3d1eab8addfb9ddcee4a594d630d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856890283
+        }
+    ],
+    "wof:id":856890283,
+    "wof:lastmodified":1464107695,
+    "wof:name":"Turner West Funeral Homes",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -91.688094,
+    41.971183,
+    -91.688094,
+    41.971183
+],
+  "geometry": {"coordinates":[-91.68809400000001,41.971183],"type":"Point"}
+}

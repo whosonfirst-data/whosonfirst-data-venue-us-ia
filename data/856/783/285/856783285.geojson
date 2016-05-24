@@ -1,0 +1,73 @@
+{
+  "id": 856783285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.542856,41.467863,-95.542856,41.467863",
+    "geom:latitude":41.467863,
+    "geom:longitude":-95.542856,
+    "iso:country":"US",
+    "sg:address":"401 Broadway St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2077",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kRDvgp9PUIK3UWyyPLnOp_41.467863_-95.542856@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102504,
+    "wof:geomhash":"4858f283971eac414715aa9941663f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856783285
+        }
+    ],
+    "wof:id":856783285,
+    "wof:lastmodified":1464102504,
+    "wof:name":"Minden Clinic",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.542856,
+    41.467863,
+    -95.542856,
+    41.467863
+],
+  "geometry": {"coordinates":[-95.542856,41.467863],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856868785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.498097,41.643984,-93.498097,41.643984",
+    "geom:latitude":41.643984,
+    "geom:longitude":-93.498097,
+    "iso:country":"US",
+    "sg:address":"3280 8th St SW",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 957 9274",
+    "sg:postcode":"50009",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944133,
+        102086603,
+        85896311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UmgMYsswB0ncU4LUaErd6_41.643984_-93.498097@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106441,
+    "wof:geomhash":"1f373f5ada23c14f5c27625f25017da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944133,
+            "neighbourhood_id":85896311,
+            "region_id":85688713,
+            "venue_id":856868785
+        }
+    ],
+    "wof:id":856868785,
+    "wof:lastmodified":1464106441,
+    "wof:name":"Laundry Room LLC",
+    "wof:parent_id":85896311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.498097,
+    41.643984,
+    -93.498097,
+    41.643984
+],
+  "geometry": {"coordinates":[-93.498097,41.643984],"type":"Point"}
+}

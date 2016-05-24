@@ -1,0 +1,71 @@
+{
+  "id": 857064293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9179,41.2976,-95.9179,41.2976",
+    "geom:latitude":41.2976,
+    "geom:longitude":-95.9179,
+    "iso:country":"US",
+    "sg:address":"4328 N 9th St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6796",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10rhs2GNB8ETNvd859IcGj_41.297600_-95.917900@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115072,
+    "wof:geomhash":"31ca446180858c1d7d0b044016dc6801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064293
+        }
+    ],
+    "wof:id":857064293,
+    "wof:lastmodified":1464115072,
+    "wof:name":"Carter Lake Improvement Club",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -95.9179,
+    41.2976,
+    -95.9179,
+    41.2976
+],
+  "geometry": {"coordinates":[-95.9179,41.2976],"type":"Point"}
+}

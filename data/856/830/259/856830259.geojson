@@ -1,0 +1,72 @@
+{
+  "id": 856830259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.803302,41.583336,-93.803302,41.583336",
+    "geom:latitude":41.583336,
+    "geom:longitude":-93.803302,
+    "iso:country":"US",
+    "sg:address":"7075 Ashworth Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 4577",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.saintfrancischurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IDcy21wRRrKYM7VVtO1Gt_41.583336_-93.803302@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104521,
+    "wof:geomhash":"afe02021a3f33b4d54b82135c9f55c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856830259
+        }
+    ],
+    "wof:id":856830259,
+    "wof:lastmodified":1464104521,
+    "wof:name":"St Francis Of Assisi",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.803302,
+    41.583336,
+    -93.803302,
+    41.583336
+],
+  "geometry": {"coordinates":[-93.803302,41.583336],"type":"Point"}
+}

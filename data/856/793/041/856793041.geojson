@@ -1,0 +1,77 @@
+{
+  "id": 856793041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.442696,42.502636,-96.442696,42.502636",
+    "geom:latitude":42.502636,
+    "geom:longitude":-96.442696,
+    "iso:country":"US",
+    "sg:address":"2527 W 6th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 1438",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jA3O5AqOwcEieS5iTo7vo_42.502636_-96.442696@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102898,
+    "wof:geomhash":"fb4c91f6a8597df894dc61b88f4b5433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856793041
+        }
+    ],
+    "wof:id":856793041,
+    "wof:lastmodified":1464102898,
+    "wof:name":"A Dog's Life",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.442696,
+    42.502636,
+    -96.442696,
+    42.502636
+],
+  "geometry": {"coordinates":[-96.442696,42.502636],"type":"Point"}
+}

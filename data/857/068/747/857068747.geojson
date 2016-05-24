@@ -1,0 +1,75 @@
+{
+  "id": 857068747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.66047,41.984863,-91.66047,41.984863",
+    "geom:latitude":41.984863,
+    "geom:longitude":-91.66047,
+    "iso:country":"US",
+    "sg:address":"1026 A Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3850",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jmcL0nOpzNCZGygSXC84N_41.984863_-91.660470@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115279,
+    "wof:geomhash":"d01dc54fd4925de38b226200c56c3170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857068747
+        }
+    ],
+    "wof:id":857068747,
+    "wof:lastmodified":1464115279,
+    "wof:name":"Juvenile Diabetes Research Foundation",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -91.66047,
+    41.984863,
+    -91.66047,
+    41.984863
+],
+  "geometry": {"coordinates":[-91.66047,41.984863],"type":"Point"}
+}

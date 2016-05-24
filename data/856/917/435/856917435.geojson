@@ -1,0 +1,71 @@
+{
+  "id": 856917435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629908,41.98556,-91.629908,41.98556",
+    "geom:latitude":41.98556,
+    "geom:longitude":-91.629908,
+    "iso:country":"US",
+    "sg:address":"359 Park Ter SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 462 6080",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jEO0Ihly9oiLz0xXISWFD_41.985560_-91.629908@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108711,
+    "wof:geomhash":"30790a32f3eabb1f6f716908c688fef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856917435
+        }
+    ],
+    "wof:id":856917435,
+    "wof:lastmodified":1464108711,
+    "wof:name":"Midwest Group",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.629908,
+    41.98556,
+    -91.629908,
+    41.98556
+],
+  "geometry": {"coordinates":[-91.629908,41.98556],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856857919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.008809,41.609094,-94.008809,41.609094",
+    "geom:latitude":41.609094,
+    "geom:longitude":-94.008809,
+    "iso:country":"US",
+    "sg:address":"8 River Vista Dr",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5027",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JRTVGRikwtPxZLrH1JWpl_41.609094_-94.008809@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105877,
+    "wof:geomhash":"49e9b7ab7c6727e43538d4cb5910f45e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856857919
+        }
+    ],
+    "wof:id":856857919,
+    "wof:lastmodified":1464105877,
+    "wof:name":"Kentyko Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -94.008809,
+    41.609094,
+    -94.008809,
+    41.609094
+],
+  "geometry": {"coordinates":[-94.008809,41.609094],"type":"Point"}
+}

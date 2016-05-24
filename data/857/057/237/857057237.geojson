@@ -1,0 +1,72 @@
+{
+  "id": 857057237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.574181,41.357905,-93.574181,41.357905",
+    "geom:latitude":41.357905,
+    "geom:longitude":-93.574181,
+    "iso:country":"US",
+    "sg:address":"1006 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/225946-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 0615",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B46QOe7eHcbZ664dsj6tN_41.357905_-93.574181@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114797,
+    "wof:geomhash":"c80efc446f1dd5efbbe799b09965ae2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857057237
+        }
+    ],
+    "wof:id":857057237,
+    "wof:lastmodified":1464114797,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.574181,
+    41.357905,
+    -93.574181,
+    41.357905
+],
+  "geometry": {"coordinates":[-93.574181,41.357905],"type":"Point"}
+}

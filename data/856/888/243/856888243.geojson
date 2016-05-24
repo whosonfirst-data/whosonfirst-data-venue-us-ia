@@ -1,0 +1,75 @@
+{
+  "id": 856888243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.455691,42.507887,-96.455691,42.507887",
+    "geom:latitude":42.507887,
+    "geom:longitude":-96.455691,
+    "iso:country":"US",
+    "sg:address":"3401 W 19th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 294 9494",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00KeNuTpNoC27maUjE0jAE_42.507887_-96.455691@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107613,
+    "wof:geomhash":"7de6d04f61e71f4bc5ea618e8f96bb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856888243
+        }
+    ],
+    "wof:id":856888243,
+    "wof:lastmodified":1464107613,
+    "wof:name":"Tri State Contracting Inc",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.455691,
+    42.507887,
+    -96.455691,
+    42.507887
+],
+  "geometry": {"coordinates":[-96.455691,42.507887],"type":"Point"}
+}

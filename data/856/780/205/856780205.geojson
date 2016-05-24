@@ -1,0 +1,71 @@
+{
+  "id": 856780205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.84674,41.200296,-95.84674,41.200296",
+    "geom:latitude":41.200296,
+    "geom:longitude":-95.84674,
+    "iso:country":"US",
+    "sg:address":"27 Lakewood Villa St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 0010",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tzs0hV6mC3H7m1h5ZQakJ_41.200296_-95.846740@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102446,
+    "wof:geomhash":"49e74990b2068f00e23c344282cdab34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856780205
+        }
+    ],
+    "wof:id":856780205,
+    "wof:lastmodified":1464102446,
+    "wof:name":"Gift Gallery",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.84674,
+    41.200296,
+    -95.84674,
+    41.200296
+],
+  "geometry": {"coordinates":[-95.84674,41.200296],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856917093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.779933,41.21388,-95.779933,41.21388",
+    "geom:latitude":41.21388,
+    "geom:longitude":-95.779933,
+    "iso:country":"US",
+    "sg:address":"13434 Berryhill Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 9290",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gDw5zkDCw3RzL0T8t7h7C_41.213880_-95.779933@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108694,
+    "wof:geomhash":"29331d16448ebf027d637eac5139d362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856917093
+        }
+    ],
+    "wof:id":856917093,
+    "wof:lastmodified":1464108694,
+    "wof:name":"Circle C Livestock",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -95.779933,
+    41.21388,
+    -95.779933,
+    41.21388
+],
+  "geometry": {"coordinates":[-95.779933,41.21388],"type":"Point"}
+}

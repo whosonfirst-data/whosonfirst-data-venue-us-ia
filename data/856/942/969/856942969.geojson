@@ -1,0 +1,71 @@
+{
+  "id": 856942969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.522539,42.00337,-91.522539,42.00337",
+    "geom:latitude":42.00337,
+    "geom:longitude":-91.522539,
+    "iso:country":"US",
+    "sg:address":"1973 Quiet Ln",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7500",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zgNpZpP3nL8labv6WdkVt_42.003370_-91.522539@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109804,
+    "wof:geomhash":"0871065b69142d8d3ec98e7a463a2a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856942969
+        }
+    ],
+    "wof:id":856942969,
+    "wof:lastmodified":1464109804,
+    "wof:name":"Jerry Eccles",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -91.522539,
+    42.00337,
+    -91.522539,
+    42.00337
+],
+  "geometry": {"coordinates":[-91.52253899999999,42.00337],"type":"Point"}
+}

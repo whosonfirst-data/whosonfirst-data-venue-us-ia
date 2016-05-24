@@ -1,0 +1,73 @@
+{
+  "id": 856864243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.866124,42.545398,-95.866124,42.545398",
+    "geom:latitude":42.545398,
+    "geom:longitude":-95.866124,
+    "iso:country":"US",
+    "sg:address":"201 Summit St",
+    "sg:city":"Pierson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 375 5402",
+    "sg:postcode":"51048",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50quxVHNsHGfXXIYgPWbJx_42.545398_-95.866124@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106166,
+    "wof:geomhash":"5b0f8ca665fc0837c246c324c3a53382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856864243
+        }
+    ],
+    "wof:id":856864243,
+    "wof:lastmodified":1464106166,
+    "wof:name":"Mahoney Auto & Detailing",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.866124,
+    42.545398,
+    -95.866124,
+    42.545398
+],
+  "geometry": {"coordinates":[-95.866124,42.545398],"type":"Point"}
+}

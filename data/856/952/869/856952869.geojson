@@ -1,0 +1,73 @@
+{
+  "id": 856952869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.596982,42.02052,-91.596982,42.02052",
+    "geom:latitude":42.02052,
+    "geom:longitude":-91.596982,
+    "iso:country":"US",
+    "sg:address":"1183 Grand Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 3515",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16gPNmP5DykRO1E9dmqcwS_42.020520_-91.596982@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110203,
+    "wof:geomhash":"55e90c81b883b7e9b3bd179b56aa0cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856952869
+        }
+    ],
+    "wof:id":856952869,
+    "wof:lastmodified":1464110203,
+    "wof:name":"Ceramic Concepts",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -91.596982,
+    42.02052,
+    -91.596982,
+    42.02052
+],
+  "geometry": {"coordinates":[-91.596982,42.02052],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856952801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.714133,41.957244,-91.714133,41.957244",
+    "geom:latitude":41.957244,
+    "geom:longitude":-91.714133,
+    "iso:country":"US",
+    "sg:address":"3211 Kenrich Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5782",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q0rd9UZDLrCRi1VtL2f9b_41.957244_-91.714133@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110201,
+    "wof:geomhash":"e6cf769814f517882e944ed1f7cc18cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856952801
+        }
+    ],
+    "wof:id":856952801,
+    "wof:lastmodified":1464110201,
+    "wof:name":"Link Transportation",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -91.714133,
+    41.957244,
+    -91.714133,
+    41.957244
+],
+  "geometry": {"coordinates":[-91.714133,41.957244],"type":"Point"}
+}

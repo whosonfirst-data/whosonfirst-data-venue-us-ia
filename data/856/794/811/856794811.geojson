@@ -1,0 +1,75 @@
+{
+  "id": 856794811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.609074,41.976775,-91.609074,41.976775",
+    "geom:latitude":41.976775,
+    "geom:longitude":-91.609074,
+    "iso:country":"US",
+    "sg:address":"4035 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 1041",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "recycling",
+        "cartridge",
+        "toner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oEmhjiIa9suM3fpEdFTyG_41.976775_-91.609074@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102968,
+    "wof:geomhash":"d45df5659a50b9d13edab11e8556d611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856794811
+        }
+    ],
+    "wof:id":856794811,
+    "wof:lastmodified":1464102968,
+    "wof:name":"M T Cartridge",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "cartridge",
+        "toner"
+    ]
+},
+  "bbox": [
+    -91.609074,
+    41.976775,
+    -91.609074,
+    41.976775
+],
+  "geometry": {"coordinates":[-91.60907400000001,41.976775],"type":"Point"}
+}

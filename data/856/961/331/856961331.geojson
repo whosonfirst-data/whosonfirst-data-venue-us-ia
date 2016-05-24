@@ -1,0 +1,73 @@
+{
+  "id": 856961331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.418005,42.521185,-96.418005,42.521185",
+    "geom:latitude":42.521185,
+    "geom:longitude":-96.418005,
+    "iso:country":"US",
+    "sg:address":"2831 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 3535",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c0VqMa2iIT4g1UXgCLQb1_42.521185_-96.418005@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110598,
+    "wof:geomhash":"4bad1c0313e6c81dc9d4b7e5fa63f95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856961331
+        }
+    ],
+    "wof:id":856961331,
+    "wof:lastmodified":1464110598,
+    "wof:name":"Schumacher Elevator Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -96.418005,
+    42.521185,
+    -96.418005,
+    42.521185
+],
+  "geometry": {"coordinates":[-96.41800499999999,42.521185],"type":"Point"}
+}

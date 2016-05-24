@@ -1,0 +1,70 @@
+{
+  "id": 856931365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559679,41.367445,-93.559679,41.367445",
+    "geom:latitude":41.367445,
+    "geom:longitude":-93.559679,
+    "iso:country":"US",
+    "sg:address":"805 N 1st St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4321",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.mtcalvary.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mm9pfZvsnOlBu7HNZ4tJ1_41.367445_-93.559679@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109296,
+    "wof:geomhash":"63d5f398756d260a4b170ef685c34802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856931365
+        }
+    ],
+    "wof:id":856931365,
+    "wof:lastmodified":1464109296,
+    "wof:name":"Mt Calvary Lutheran Church",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.559679,
+    41.367445,
+    -93.559679,
+    41.367445
+],
+  "geometry": {"coordinates":[-93.559679,41.367445],"type":"Point"}
+}

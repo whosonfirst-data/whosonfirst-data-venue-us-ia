@@ -1,0 +1,71 @@
+{
+  "id": 856796971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.487301,41.493652,-93.487301,41.493652",
+    "geom:latitude":41.493652,
+    "geom:longitude":-93.487301,
+    "iso:country":"US",
+    "sg:address":"100 Ash St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0202",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t10bbwMqqONzVOwK3Vn66_41.493652_-93.487301@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103065,
+    "wof:geomhash":"dc8e72af3f1132c63039f1807efcac4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856796971
+        }
+    ],
+    "wof:id":856796971,
+    "wof:lastmodified":1464103065,
+    "wof:name":"Western Acres Mobile Home Park",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -93.487301,
+    41.493652,
+    -93.487301,
+    41.493652
+],
+  "geometry": {"coordinates":[-93.487301,41.493652],"type":"Point"}
+}

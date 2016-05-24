@@ -1,0 +1,84 @@
+{
+  "id": 856783217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673702,41.972955,-91.673702,41.972955",
+    "geom:latitude":41.972955,
+    "geom:longitude":-91.673702,
+    "iso:country":"US",
+    "sg:address":"218 4th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 6371",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "label"
+    ],
+    "sg:website":"www.luecklabel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RJytbFJ8sluJObSnuHyJ9_41.972955_-91.673702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102502,
+    "wof:geomhash":"601a57ac51e970449f963a8ad8aa5812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856783217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856783217
+        }
+    ],
+    "wof:id":856783217,
+    "wof:lastmodified":1464102502,
+    "wof:name":"Lueck Label Mfg Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "label"
+    ]
+},
+  "bbox": [
+    -91.673702,
+    41.972955,
+    -91.673702,
+    41.972955
+],
+  "geometry": {"coordinates":[-91.67370200000001,41.972955],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857060699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.898081,41.261935,-95.898081,41.261935",
+    "geom:latitude":41.261935,
+    "geom:longitude":-95.898081,
+    "iso:country":"US",
+    "sg:address":"3313 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/158467-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1637",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhOih3hqJTAvC8u1Yu9Ai_41.261865_-95.897988@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114923,
+    "wof:geomhash":"1188938822b6668f63824ce589de7f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857060699
+        }
+    ],
+    "wof:id":857060699,
+    "wof:lastmodified":1464114923,
+    "wof:name":"Arby's",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.898081,
+    41.261935,
+    -95.898081,
+    41.261935
+],
+  "geometry": {"coordinates":[-95.898081,41.261935],"type":"Point"}
+}

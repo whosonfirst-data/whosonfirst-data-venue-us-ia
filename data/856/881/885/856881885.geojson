@@ -1,0 +1,71 @@
+{
+  "id": 856881885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.541096,41.772583,-91.541096,41.772583",
+    "geom:latitude":41.772583,
+    "geom:longitude":-91.541096,
+    "iso:country":"US",
+    "sg:address":"2213 Sugar Bottom Rd NE",
+    "sg:city":"Solon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 631 1719",
+    "sg:postcode":"52333",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896499,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gepigqCUgDHzjO9i0t46d_41.772583_-91.541096@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107266,
+    "wof:geomhash":"4673bfda1c6ee3531c22412b7f27789d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896499,
+            "region_id":85688713,
+            "venue_id":856881885
+        }
+    ],
+    "wof:id":856881885,
+    "wof:lastmodified":1464107266,
+    "wof:name":"Land Plumbing Inc",
+    "wof:parent_id":85896499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.541096,
+    41.772583,
+    -91.541096,
+    41.772583
+],
+  "geometry": {"coordinates":[-91.541096,41.772583],"type":"Point"}
+}

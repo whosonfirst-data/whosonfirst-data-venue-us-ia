@@ -1,0 +1,71 @@
+{
+  "id": 856957795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.396274,41.30894,-95.396274,41.30894",
+    "geom:latitude":41.30894,
+    "geom:longitude":-95.396274,
+    "iso:country":"US",
+    "sg:address":"108 S Kearney St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6240",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PgBHpBI4M4Q5a3duozvwr_41.308940_-95.396274@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110460,
+    "wof:geomhash":"d51b7d0fddad1c8284cfc4c88d9966f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856957795
+        }
+    ],
+    "wof:id":856957795,
+    "wof:lastmodified":1464110460,
+    "wof:name":"Oakland Christian Church",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.396274,
+    41.30894,
+    -95.396274,
+    41.30894
+],
+  "geometry": {"coordinates":[-95.39627400000001,41.30894],"type":"Point"}
+}

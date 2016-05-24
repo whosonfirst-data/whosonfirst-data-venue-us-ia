@@ -1,0 +1,73 @@
+{
+  "id": 856843373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.817139,41.442093,-95.817139,41.442093",
+    "geom:latitude":41.442093,
+    "geom:longitude":-95.817139,
+    "iso:country":"US",
+    "sg:address":"19156 Shadow Ave",
+    "sg:city":"Honey Creek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3335",
+    "sg:postcode":"51542",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n8hzR2mbx3c3xOFP17Dcb_41.442093_-95.817139@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105147,
+    "wof:geomhash":"b3d29346b1dff138b75fb95b4a434505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856843373
+        }
+    ],
+    "wof:id":856843373,
+    "wof:lastmodified":1464105147,
+    "wof:name":"Larson Backhoe Svc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.817139,
+    41.442093,
+    -95.817139,
+    41.442093
+],
+  "geometry": {"coordinates":[-95.817139,41.442093],"type":"Point"}
+}

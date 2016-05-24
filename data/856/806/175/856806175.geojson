@@ -1,0 +1,71 @@
+{
+  "id": 856806175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.596035,42.02558,-91.596035,42.02558",
+    "geom:latitude":42.02558,
+    "geom:longitude":-91.596035,
+    "iso:country":"US",
+    "sg:address":"1375 B Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7137",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Eio0u9JFSNk5Ix6Sevugs_42.025580_-91.596035@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103462,
+    "wof:geomhash":"233a5b6501ebae253b375c7017b66dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856806175
+        }
+    ],
+    "wof:id":856806175,
+    "wof:lastmodified":1464103462,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -91.596035,
+    42.02558,
+    -91.596035,
+    42.02558
+],
+  "geometry": {"coordinates":[-91.596035,42.02558],"type":"Point"}
+}

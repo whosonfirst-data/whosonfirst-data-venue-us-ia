@@ -1,0 +1,73 @@
+{
+  "id": 857025251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.561125,42.037011,-91.561125,42.037011",
+    "geom:latitude":42.037011,
+    "geom:longitude":-91.561125,
+    "iso:country":"US",
+    "sg:address":"4455 Commercial Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0894",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WiZooBDqFiMpJqfe2bSfR_42.037011_-91.561125@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113428,
+    "wof:geomhash":"7b8fb9db93d7b199e119c6f3b3f572d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857025251
+        }
+    ],
+    "wof:id":857025251,
+    "wof:lastmodified":1464113428,
+    "wof:name":"Four Seasons Car Wash",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.561125,
+    42.037011,
+    -91.561125,
+    42.037011
+],
+  "geometry": {"coordinates":[-91.561125,42.037011],"type":"Point"}
+}

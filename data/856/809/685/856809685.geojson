@@ -1,0 +1,73 @@
+{
+  "id": 856809685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666708,41.978582,-91.666708,41.978582",
+    "geom:latitude":41.978582,
+    "geom:longitude":-91.666708,
+    "iso:country":"US",
+    "sg:address":"104 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8942",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "magazine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7icrtVVwMJh6JoPeDpcI0J_41.978582_-91.666708@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103618,
+    "wof:geomhash":"2931b7a61247e1f9bb1ef12ebeb75c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856809685
+        }
+    ],
+    "wof:id":856809685,
+    "wof:lastmodified":1464103618,
+    "wof:name":"City News & Books",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine"
+    ]
+},
+  "bbox": [
+    -91.666708,
+    41.978582,
+    -91.666708,
+    41.978582
+],
+  "geometry": {"coordinates":[-91.666708,41.978582],"type":"Point"}
+}

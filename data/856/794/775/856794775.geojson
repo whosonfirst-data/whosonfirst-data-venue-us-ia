@@ -1,0 +1,71 @@
+{
+  "id": 856794775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.345729,42.473693,-96.345729,42.473693",
+    "geom:latitude":42.473693,
+    "geom:longitude":-96.345729,
+    "iso:country":"US",
+    "sg:address":"1600 S Palmetto St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 0485",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SGNeFxYcZ7HEbSyk6KQzs_42.473693_-96.345729@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102967,
+    "wof:geomhash":"b4d68b572b8689d46d1e1d78986a0b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856794775
+        }
+    ],
+    "wof:id":856794775,
+    "wof:lastmodified":1464102967,
+    "wof:name":"Glen Ranchuy",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -96.345729,
+    42.473693,
+    -96.345729,
+    42.473693
+],
+  "geometry": {"coordinates":[-96.34572900000001,42.473693],"type":"Point"}
+}

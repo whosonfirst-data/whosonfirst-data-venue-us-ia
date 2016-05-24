@@ -1,0 +1,73 @@
+{
+  "id": 856767075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.566361,41.673668,-91.566361,41.673668",
+    "geom:latitude":41.673668,
+    "geom:longitude":-91.566361,
+    "iso:country":"US",
+    "sg:address":"107 5th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 2340",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DL4TPGlUHM5jXd5TjE9dd_41.673668_-91.566361@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102124,
+    "wof:geomhash":"11c81d3a16380c608f42c3ae583ff6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856767075
+        }
+    ],
+    "wof:id":856767075,
+    "wof:lastmodified":1464102124,
+    "wof:name":"Home Instead Senior Care",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.566361,
+    41.673668,
+    -91.566361,
+    41.673668
+],
+  "geometry": {"coordinates":[-91.566361,41.673668],"type":"Point"}
+}

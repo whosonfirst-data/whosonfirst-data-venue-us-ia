@@ -1,0 +1,71 @@
+{
+  "id": 857070433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.713097,41.9604,-91.713097,41.9604",
+    "geom:latitude":41.9604,
+    "geom:longitude":-91.713097,
+    "iso:country":"US",
+    "sg:address":"3200 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7596",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lMdob7VKo9KpFnIUwuwwp_41.960400_-91.713097@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115356,
+    "wof:geomhash":"8577b58d2b6989ec3c688c59d2d65d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070433
+        }
+    ],
+    "wof:id":857070433,
+    "wof:lastmodified":1464115356,
+    "wof:name":"Westside Tire Co",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.713097,
+    41.9604,
+    -91.713097,
+    41.9604
+],
+  "geometry": {"coordinates":[-91.713097,41.9604],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856905557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661871,42.021492,-91.661871,42.021492",
+    "geom:latitude":42.021492,
+    "geom:longitude":-91.661871,
+    "iso:country":"US",
+    "sg:address":"1622 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4606",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7khabLI7N9YlD4F5sU2zCj_42.021492_-91.661871@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108252,
+    "wof:geomhash":"d9d33c4b100db33e275ccec5ecae3285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856905557
+        }
+    ],
+    "wof:id":856905557,
+    "wof:lastmodified":1464108252,
+    "wof:name":"Alliance Church",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.661871,
+    42.021492,
+    -91.661871,
+    42.021492
+],
+  "geometry": {"coordinates":[-91.661871,42.021492],"type":"Point"}
+}

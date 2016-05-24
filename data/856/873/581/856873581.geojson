@@ -1,0 +1,71 @@
+{
+  "id": 856873581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.351418,42.448347,-96.351418,42.448347",
+    "geom:latitude":42.448347,
+    "geom:longitude":-96.351418,
+    "iso:country":"US",
+    "sg:address":"4299 Sergeant Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 2151",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RmRCG3TWoe6FFs92BLLEB_42.448347_-96.351418@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106843,
+    "wof:geomhash":"0dec5160ef5a0e14db1cfd61a0fc4a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856873581
+        }
+    ],
+    "wof:id":856873581,
+    "wof:lastmodified":1464106843,
+    "wof:name":"Citi Financial",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -96.351418,
+    42.448347,
+    -96.351418,
+    42.448347
+],
+  "geometry": {"coordinates":[-96.351418,42.448347],"type":"Point"}
+}

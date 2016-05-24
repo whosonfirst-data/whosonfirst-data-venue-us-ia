@@ -1,0 +1,76 @@
+{
+  "id": 857060605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.416865,42.512599,-96.416865,42.512599",
+    "geom:latitude":42.512599,
+    "geom:longitude":-96.416865,
+    "iso:country":"US",
+    "sg:address":"2121 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/87352-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 2222",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HTaVFlxugl0jsysOaM9yh_42.513164_-96.416884@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114920,
+    "wof:geomhash":"2cf995279302919bf97d72484cdfcc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857060605
+        }
+    ],
+    "wof:id":857060605,
+    "wof:lastmodified":1464114920,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.416865,
+    42.512599,
+    -96.416865,
+    42.512599
+],
+  "geometry": {"coordinates":[-96.416865,42.512599],"type":"Point"}
+}

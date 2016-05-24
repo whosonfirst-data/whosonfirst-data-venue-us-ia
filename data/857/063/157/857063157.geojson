@@ -1,0 +1,75 @@
+{
+  "id": 857063157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.87723,41.258947,-95.87723,41.258947",
+    "geom:latitude":41.258947,
+    "geom:longitude":-95.87723,
+    "iso:country":"US",
+    "sg:address":"2218 3rd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 6516",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nmAXWWNJvXi9JIX5Cn87f_41.258947_-95.877230@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115027,
+    "wof:geomhash":"c6a22cd1f14fbd12a427fd4a5484fcbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063157
+        }
+    ],
+    "wof:id":857063157,
+    "wof:lastmodified":1464115027,
+    "wof:name":"Council Bluffs Public Schools",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.87723,
+    41.258947,
+    -95.87723,
+    41.258947
+],
+  "geometry": {"coordinates":[-95.87723,41.258947],"type":"Point"}
+}

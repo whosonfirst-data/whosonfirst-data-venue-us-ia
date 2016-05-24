@@ -1,0 +1,72 @@
+{
+  "id": 857070835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716103,41.960701,-91.716103,41.960701",
+    "geom:latitude":41.960701,
+    "geom:longitude":-91.716103,
+    "iso:country":"US",
+    "sg:address":"2040 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7998",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.sallybeauty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11693IDfFpmHk6p7Wbinkj_41.960701_-91.716103@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115370,
+    "wof:geomhash":"ffdc146a41b23b75f4d17fdc11c6bcc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070835
+        }
+    ],
+    "wof:id":857070835,
+    "wof:lastmodified":1464115370,
+    "wof:name":"Sally Beauty Supply",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.716103,
+    41.960701,
+    -91.716103,
+    41.960701
+],
+  "geometry": {"coordinates":[-91.716103,41.960701],"type":"Point"}
+}

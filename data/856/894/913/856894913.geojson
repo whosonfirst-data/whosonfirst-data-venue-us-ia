@@ -1,0 +1,73 @@
+{
+  "id": 856894913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.393253,42.521726,-96.393253,42.521726",
+    "geom:latitude":42.521726,
+    "geom:longitude":-96.393253,
+    "iso:country":"US",
+    "sg:address":"2951 Park Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1987",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70fGRtVLQBuWVnYBhMzA3F_42.521726_-96.393253@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107862,
+    "wof:geomhash":"951a9e928fd991e3a4fde5710de72450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856894913
+        }
+    ],
+    "wof:id":856894913,
+    "wof:lastmodified":1464107862,
+    "wof:name":"Valley Park Apartments",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.393253,
+    42.521726,
+    -96.393253,
+    42.521726
+],
+  "geometry": {"coordinates":[-96.393253,42.521726],"type":"Point"}
+}

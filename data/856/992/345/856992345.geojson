@@ -1,0 +1,71 @@
+{
+  "id": 856992345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.820929,41.189084,-95.820929,41.189084",
+    "geom:latitude":41.189084,
+    "geom:longitude":-95.820929,
+    "iso:country":"US",
+    "sg:address":"19091 Basswood Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 0942",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77I2oNG8c03TNGGxeRoNip_41.189084_-95.820929@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112064,
+    "wof:geomhash":"4b8c7840366fb786263d6997604babb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856992345
+        }
+    ],
+    "wof:id":856992345,
+    "wof:lastmodified":1464112064,
+    "wof:name":"Craig Construction Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.820929,
+    41.189084,
+    -95.820929,
+    41.189084
+],
+  "geometry": {"coordinates":[-95.82092900000001,41.189084],"type":"Point"}
+}

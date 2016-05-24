@@ -1,0 +1,68 @@
+{
+  "id": 856851555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662024,41.96376,-91.662024,41.96376",
+    "geom:latitude":41.96376,
+    "geom:longitude":-91.662024,
+    "iso:country":"US",
+    "sg:address":"117 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1164",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V3VZXEbHsSMHieQ97ri5S_41.963760_-91.662024@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105604,
+    "wof:geomhash":"ceea8a5169021aeb2a721bdccc53db4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856851555
+        }
+    ],
+    "wof:id":856851555,
+    "wof:lastmodified":1464105604,
+    "wof:name":"Berger's House Of Style",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.662024,
+    41.96376,
+    -91.662024,
+    41.96376
+],
+  "geometry": {"coordinates":[-91.662024,41.96376],"type":"Point"}
+}

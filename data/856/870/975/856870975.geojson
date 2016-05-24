@@ -1,0 +1,70 @@
+{
+  "id": 856870975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.560943,41.358314,-93.560943,41.358314",
+    "geom:latitude":41.358314,
+    "geom:longitude":-93.560943,
+    "iso:country":"US",
+    "sg:address":"200 S Howard St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6231",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.trinityupc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NYF5LtT5mlo3jjKlv7qKx_41.358314_-93.560943@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106653,
+    "wof:geomhash":"b1d123b647ec53f28168d7612b09e87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856870975
+        }
+    ],
+    "wof:id":856870975,
+    "wof:lastmodified":1464106653,
+    "wof:name":"Trinity-United Presbyterian",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.560943,
+    41.358314,
+    -93.560943,
+    41.358314
+],
+  "geometry": {"coordinates":[-93.56094299999999,41.358314],"type":"Point"}
+}

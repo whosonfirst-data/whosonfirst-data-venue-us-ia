@@ -1,0 +1,73 @@
+{
+  "id": 856883303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.709609,42.045615,-91.709609,42.045615",
+    "geom:latitude":42.045615,
+    "geom:longitude":-91.709609,
+    "iso:country":"US",
+    "sg:address":"2325 Creekside Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 9212",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JQTxo7f8qiDevLgyHcZ9H_42.045615_-91.709609@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107374,
+    "wof:geomhash":"d61d79d180721ce6cc142021dca74ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856883303
+        }
+    ],
+    "wof:id":856883303,
+    "wof:lastmodified":1464107374,
+    "wof:name":"MD Concrete Co",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.709609,
+    42.045615,
+    -91.709609,
+    42.045615
+],
+  "geometry": {"coordinates":[-91.709609,42.045615],"type":"Point"}
+}

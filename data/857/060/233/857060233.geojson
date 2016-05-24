@@ -1,0 +1,74 @@
+{
+  "id": 857060233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.07929,41.838519,-94.07929,41.838519",
+    "geom:latitude":41.838519,
+    "geom:longitude":-94.07929,
+    "iso:country":"US",
+    "sg:address":"2812 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/spring-valley/66989-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5666",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nRCF6WzTpmZ0ZBergnRGK_41.838559_-94.078982@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114907,
+    "wof:geomhash":"8b8952407a3a01bed96b980fa11d169f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857060233
+        }
+    ],
+    "wof:id":857060233,
+    "wof:lastmodified":1464114907,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.07929,
+    41.838519,
+    -94.07929,
+    41.838519
+],
+  "geometry": {"coordinates":[-94.07929,41.838519],"type":"Point"}
+}

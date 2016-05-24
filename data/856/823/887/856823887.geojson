@@ -1,0 +1,73 @@
+{
+  "id": 856823887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.391469,42.488675,-96.391469,42.488675",
+    "geom:latitude":42.488675,
+    "geom:longitude":-96.391469,
+    "iso:country":"US",
+    "sg:address":"1510 Dace Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 293 0274",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3beUnFlzpQBxLbqbnRNlZV_42.488675_-96.391469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104256,
+    "wof:geomhash":"04e4cfd7e762c47b614d6b893a969ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856823887
+        }
+    ],
+    "wof:id":856823887,
+    "wof:lastmodified":1464104256,
+    "wof:name":"Tool Depot",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -96.391469,
+    42.488675,
+    -96.391469,
+    42.488675
+],
+  "geometry": {"coordinates":[-96.391469,42.488675],"type":"Point"}
+}

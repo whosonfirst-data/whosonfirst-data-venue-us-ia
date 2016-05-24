@@ -1,0 +1,71 @@
+{
+  "id": 856904351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.386825,41.921152,-91.386825,41.921152",
+    "geom:latitude":41.921152,
+    "geom:longitude":-91.386825,
+    "iso:country":"US",
+    "sg:address":"115 S Walnut St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2436",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AaRyay4cg9jPusj1NFpIC_41.921152_-91.386825@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108209,
+    "wof:geomhash":"b3114b4f2c28b51f2fc3c5d3193e2ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856904351
+        }
+    ],
+    "wof:id":856904351,
+    "wof:lastmodified":1464108209,
+    "wof:name":"First Federated Church",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.386825,
+    41.921152,
+    -91.386825,
+    41.921152
+],
+  "geometry": {"coordinates":[-91.386825,41.921152],"type":"Point"}
+}

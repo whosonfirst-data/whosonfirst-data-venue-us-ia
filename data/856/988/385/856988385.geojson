@@ -1,0 +1,73 @@
+{
+  "id": 856988385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530383,41.659971,-91.530383,41.659971",
+    "geom:latitude":41.659971,
+    "geom:longitude":-91.530383,
+    "iso:country":"US",
+    "sg:address":"319 E Washington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 9442",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GS4QP045xSx61vWFRVKLk_41.659971_-91.530383@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111888,
+    "wof:geomhash":"beee2a05ddb74bc086300e7b38f340c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856988385
+        }
+    ],
+    "wof:id":856988385,
+    "wof:lastmodified":1464111888,
+    "wof:name":"Citizen Building Apartments",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.530383,
+    41.659971,
+    -91.530383,
+    41.659971
+],
+  "geometry": {"coordinates":[-91.530383,41.659971],"type":"Point"}
+}

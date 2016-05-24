@@ -1,0 +1,73 @@
+{
+  "id": 856998041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659695,41.936054,-91.659695,41.936054",
+    "geom:latitude":41.936054,
+    "geom:longitude":-91.659695,
+    "iso:country":"US",
+    "sg:address":"4120 Booth St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5801",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YpAyInhQqHsMQ9KDzutt5_41.936054_-91.659695@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112295,
+    "wof:geomhash":"d3dcbca757577dd535793e7734143c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856998041
+        }
+    ],
+    "wof:id":856998041,
+    "wof:lastmodified":1464112295,
+    "wof:name":"BFC Gas",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -91.659695,
+    41.936054,
+    -91.659695,
+    41.936054
+],
+  "geometry": {"coordinates":[-91.659695,41.936054],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857063635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858398,41.277802,-95.858398,41.277802",
+    "geom:latitude":41.277802,
+    "geom:longitude":-95.858398,
+    "iso:country":"US",
+    "sg:address":"649 Parkwild Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5363",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qDb45wtPwIBkYtKWiH0DU_41.277802_-95.858398@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115044,
+    "wof:geomhash":"eeaa5751ac131ea7c2ad234128a4952e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063635
+        }
+    ],
+    "wof:id":857063635,
+    "wof:lastmodified":1464115044,
+    "wof:name":"Heights Apartments the",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.858398,
+    41.277802,
+    -95.858398,
+    41.277802
+],
+  "geometry": {"coordinates":[-95.85839799999999,41.277802],"type":"Point"}
+}

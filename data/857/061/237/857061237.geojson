@@ -1,0 +1,71 @@
+{
+  "id": 857061237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.658633,41.700204,-93.658633,41.700204",
+    "geom:latitude":41.700204,
+    "geom:longitude":-93.658633,
+    "iso:country":"US",
+    "sg:address":"2969 NW 76th Ave",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 710 8900",
+    "sg:postcode":"50023",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896325,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bQn8SikiHxEcK04NDSS5l_41.700204_-93.658633@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114953,
+    "wof:geomhash":"e2482722590611bd403bd872d83e1b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896325,
+            "region_id":85688713,
+            "venue_id":857061237
+        }
+    ],
+    "wof:id":857061237,
+    "wof:lastmodified":1464114953,
+    "wof:name":"The Harbor Grille",
+    "wof:parent_id":85896325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -93.658633,
+    41.700204,
+    -93.658633,
+    41.700204
+],
+  "geometry": {"coordinates":[-93.65863299999999,41.700204],"type":"Point"}
+}

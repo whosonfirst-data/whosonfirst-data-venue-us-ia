@@ -1,0 +1,73 @@
+{
+  "id": 856864399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.626594,41.972975,-91.626594,41.972975",
+    "geom:latitude":41.972975,
+    "geom:longitude":-91.626594,
+    "iso:country":"US",
+    "sg:address":"2724 14th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 5573",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_612IlwQkZwJOwLHzkztiFV_41.972975_-91.626594@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106173,
+    "wof:geomhash":"e6b1fdb4d081bf60ea99d2b5d001b0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856864399
+        }
+    ],
+    "wof:id":856864399,
+    "wof:lastmodified":1464106173,
+    "wof:name":"Kent Mahurin Construction Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.626594,
+    41.972975,
+    -91.626594,
+    41.972975
+],
+  "geometry": {"coordinates":[-91.626594,41.972975],"type":"Point"}
+}

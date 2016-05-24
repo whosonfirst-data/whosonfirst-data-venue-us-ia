@@ -1,0 +1,74 @@
+{
+  "id": 857062939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906263,41.237238,-95.906263,41.237238",
+    "geom:latitude":41.237238,
+    "geom:longitude":-95.906263,
+    "iso:country":"US",
+    "sg:address":"2200 River Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8888",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "traditional",
+        "american"
+    ],
+    "sg:website":"www.ameristar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ezSYLux8rssP04GguZiER_41.237238_-95.906263@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115020,
+    "wof:geomhash":"aeeee4b8384b3ee36066892c904db664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062939
+        }
+    ],
+    "wof:id":857062939,
+    "wof:lastmodified":1464115020,
+    "wof:name":"Bella's Bakery & Cafe",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.906263,
+    41.237238,
+    -95.906263,
+    41.237238
+],
+  "geometry": {"coordinates":[-95.906263,41.237238],"type":"Point"}
+}

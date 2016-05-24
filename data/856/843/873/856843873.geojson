@@ -1,0 +1,71 @@
+{
+  "id": 856843873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.41775,41.921396,-91.41775,41.921396",
+    "geom:latitude":41.921396,
+    "geom:longitude":-91.41775,
+    "iso:country":"US",
+    "sg:address":"208 1st Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6880",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RDWluDcVv2qWUWBdqzmya_41.921396_-91.417750@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105166,
+    "wof:geomhash":"e2e1ca393c557a8ec7175194834bf6ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856843873
+        }
+    ],
+    "wof:id":856843873,
+    "wof:lastmodified":1464105166,
+    "wof:name":"Whitehawk Veterinary Clinic",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.41775,
+    41.921396,
+    -91.41775,
+    41.921396
+],
+  "geometry": {"coordinates":[-91.41775,41.921396],"type":"Point"}
+}

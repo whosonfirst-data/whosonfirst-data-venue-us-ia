@@ -1,0 +1,71 @@
+{
+  "id": 856883523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.54535,41.968806,-91.54535,41.968806",
+    "geom:latitude":41.968806,
+    "geom:longitude":-91.54535,
+    "iso:country":"US",
+    "sg:address":"1881 E Berry Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5020",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fnKcdMpCBykv0JrytZ8F0_41.968806_-91.545350@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107402,
+    "wof:geomhash":"acabc5d4789ff9c6e3dd161c5cc64ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856883523
+        }
+    ],
+    "wof:id":856883523,
+    "wof:lastmodified":1464107402,
+    "wof:name":"National Janitorial Svc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.54535,
+    41.968806,
+    -91.54535,
+    41.968806
+],
+  "geometry": {"coordinates":[-91.54535,41.968806],"type":"Point"}
+}

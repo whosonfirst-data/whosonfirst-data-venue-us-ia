@@ -1,0 +1,71 @@
+{
+  "id": 857068629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.700294,42.016609,-91.700294,42.016609",
+    "geom:latitude":42.016609,
+    "geom:longitude":-91.700294,
+    "iso:country":"US",
+    "sg:address":"4207 Glass Rd NE Ste 2",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 8181",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1twnHzPBWM0SVmh9HlzKRy_42.016609_-91.700294@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115273,
+    "wof:geomhash":"29593b5f6727826273bc2cdea0f57ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857068629
+        }
+    ],
+    "wof:id":857068629,
+    "wof:lastmodified":1464115273,
+    "wof:name":"Balster Pediatric Dentistry",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -91.700294,
+    42.016609,
+    -91.700294,
+    42.016609
+],
+  "geometry": {"coordinates":[-91.700294,42.016609],"type":"Point"}
+}

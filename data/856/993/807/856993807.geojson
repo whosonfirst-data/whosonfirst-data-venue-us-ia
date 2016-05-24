@@ -1,0 +1,73 @@
+{
+  "id": 856993807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.538465,41.633956,-91.538465,41.633956",
+    "geom:latitude":41.633956,
+    "geom:longitude":-91.538465,
+    "iso:country":"US",
+    "sg:address":"2254 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 6205",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DYwCEHtasgi4CvN1SQNbI_41.633956_-91.538465@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112135,
+    "wof:geomhash":"4a03f35e7bb700a812202ace3d85479d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896453,
+            "region_id":85688713,
+            "venue_id":856993807
+        }
+    ],
+    "wof:id":856993807,
+    "wof:lastmodified":1464112135,
+    "wof:name":"Dave Irvin Construction",
+    "wof:parent_id":85896453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.538465,
+    41.633956,
+    -91.538465,
+    41.633956
+],
+  "geometry": {"coordinates":[-91.538465,41.633956],"type":"Point"}
+}

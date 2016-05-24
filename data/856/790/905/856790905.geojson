@@ -1,0 +1,71 @@
+{
+  "id": 856790905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.489592,41.954117,-91.489592,41.954117",
+    "geom:latitude":41.954117,
+    "geom:longitude":-91.489592,
+    "iso:country":"US",
+    "sg:address":"1246 Holmans Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6996",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O2kgNqfXaJ6yo2hPnu5su_41.954117_-91.489592@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102815,
+    "wof:geomhash":"299c5ff99d7d6f564d1fd6be956b42cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856790905
+        }
+    ],
+    "wof:id":856790905,
+    "wof:lastmodified":1464102815,
+    "wof:name":"Comes A Time Custom Pallet",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -91.489592,
+    41.954117,
+    -91.489592,
+    41.954117
+],
+  "geometry": {"coordinates":[-91.489592,41.954117],"type":"Point"}
+}

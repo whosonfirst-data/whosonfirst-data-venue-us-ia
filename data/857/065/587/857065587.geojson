@@ -1,0 +1,73 @@
+{
+  "id": 857065587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783401,41.9263,-91.783401,41.9263",
+    "geom:latitude":41.9263,
+    "geom:longitude":-91.783401,
+    "iso:country":"US",
+    "sg:address":"76 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2507",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eEe8t9DTfShcoDwh8c6i6_41.926300_-91.783401@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115119,
+    "wof:geomhash":"8dfa774d1fc62627251fd018699f6731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065587
+        }
+    ],
+    "wof:id":857065587,
+    "wof:lastmodified":1464115119,
+    "wof:name":"Ornamental Concrete",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [
+    -91.783401,
+    41.9263,
+    -91.783401,
+    41.9263
+],
+  "geometry": {"coordinates":[-91.783401,41.9263],"type":"Point"}
+}

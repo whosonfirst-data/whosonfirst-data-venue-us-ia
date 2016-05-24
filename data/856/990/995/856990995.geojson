@@ -1,0 +1,79 @@
+{
+  "id": 856990995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678206,41.977868,-91.678206,41.977868",
+    "geom:latitude":41.977868,
+    "geom:longitude":-91.678206,
+    "iso:country":"US",
+    "sg:address":"331 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 896 4306",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:website":"www.pinnacle-eng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RC1kjxLBmgh8zeExK5tQr_41.977868_-91.678206@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112016,
+    "wof:geomhash":"bcfa1ec50da1e79aaffd9ff16a8576dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856990995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856990995
+        }
+    ],
+    "wof:id":856990995,
+    "wof:lastmodified":1464112016,
+    "wof:name":"Pinnacle Engineering Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.678206,
+    41.977868,
+    -91.678206,
+    41.977868
+],
+  "geometry": {"coordinates":[-91.678206,41.977868],"type":"Point"}
+}

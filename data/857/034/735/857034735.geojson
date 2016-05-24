@@ -1,0 +1,72 @@
+{
+  "id": 857034735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.356558,42.448704,-92.356558,42.448704",
+    "geom:latitude":42.448704,
+    "geom:longitude":-92.356558,
+    "iso:country":"US",
+    "sg:address":"4535 Kimball Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 232 4714",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.waterlootrinity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aTjA3y5PsAbIe38RddO2j_42.448704_-92.356558@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113864,
+    "wof:geomhash":"6a6b01e5d61e70429d186f5b428d5d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":857034735
+        }
+    ],
+    "wof:id":857034735,
+    "wof:lastmodified":1464113864,
+    "wof:name":"Trinity Episcopal Parish",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -92.356558,
+    42.448704,
+    -92.356558,
+    42.448704
+],
+  "geometry": {"coordinates":[-92.35655800000001,42.448704],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856829499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908598,41.40109,-95.908598,41.40109",
+    "geom:latitude":41.40109,
+    "geom:longitude":-95.908598,
+    "iso:country":"US",
+    "sg:address":"27233 145th St",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3524",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45VMRiWXNTzzLOoMRvg5OK_41.401090_-95.908598@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104495,
+    "wof:geomhash":"06a8b0025640a062f33c95c44e36ea27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872517,
+            "region_id":85688563,
+            "venue_id":856829499
+        }
+    ],
+    "wof:id":856829499,
+    "wof:lastmodified":1464104495,
+    "wof:name":"Williams Trucking",
+    "wof:parent_id":85872517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.908598,
+    41.40109,
+    -95.908598,
+    41.40109
+],
+  "geometry": {"coordinates":[-95.908598,41.40109],"type":"Point"}
+}

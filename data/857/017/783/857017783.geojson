@@ -1,0 +1,75 @@
+{
+  "id": 857017783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.827542,41.24442,-95.827542,41.24442",
+    "geom:latitude":41.24442,
+    "geom:longitude":-95.827542,
+    "iso:country":"US",
+    "sg:address":"1730 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3642",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "mortgage",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J82vgu1g3IPCrQ17DQqU0_41.244420_-95.827542@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113111,
+    "wof:geomhash":"d36219388321fce9ed5da3dba0d192a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857017783
+        }
+    ],
+    "wof:id":857017783,
+    "wof:lastmodified":1464113111,
+    "wof:name":"Mortgage Group",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -95.827542,
+    41.24442,
+    -95.827542,
+    41.24442
+],
+  "geometry": {"coordinates":[-95.82754199999999,41.24442],"type":"Point"}
+}

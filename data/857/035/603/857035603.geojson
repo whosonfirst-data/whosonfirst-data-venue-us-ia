@@ -1,0 +1,71 @@
+{
+  "id": 857035603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.640959,41.988631,-91.640959,41.988631",
+    "geom:latitude":41.988631,
+    "geom:longitude":-91.640959,
+    "iso:country":"US",
+    "sg:address":"1935 Blake Blvd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0156",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1omED1f8jQzm93nqfdAsFW_41.988631_-91.640959@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113915,
+    "wof:geomhash":"30b765d1de678f9aa72b4318dd34b4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857035603
+        }
+    ],
+    "wof:id":857035603,
+    "wof:lastmodified":1464113915,
+    "wof:name":"Wsiinter.Net Consulting",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -91.640959,
+    41.988631,
+    -91.640959,
+    41.988631
+],
+  "geometry": {"coordinates":[-91.640959,41.988631],"type":"Point"}
+}

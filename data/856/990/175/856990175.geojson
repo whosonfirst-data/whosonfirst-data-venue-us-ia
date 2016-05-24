@@ -1,0 +1,68 @@
+{
+  "id": 856990175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530426,41.663487,-91.530426,41.663487",
+    "geom:latitude":41.663487,
+    "geom:longitude":-91.530426,
+    "iso:country":"US",
+    "sg:address":"327 E Market St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 688 9177",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29hljn1WjWpJt2E2sttQxR_41.663487_-91.530426@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111982,
+    "wof:geomhash":"02e6ccd1cda40aa0442a89832ebe1664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856990175
+        }
+    ],
+    "wof:id":856990175,
+    "wof:lastmodified":1464111982,
+    "wof:name":"Motley Cow Cafe",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.530426,
+    41.663487,
+    -91.530426,
+    41.663487
+],
+  "geometry": {"coordinates":[-91.53042600000001,41.663487],"type":"Point"}
+}

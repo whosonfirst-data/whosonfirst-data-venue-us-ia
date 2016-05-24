@@ -1,0 +1,81 @@
+{
+  "id": 857006367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.670084,41.314053,-95.670084,41.314053",
+    "geom:latitude":41.314053,
+    "geom:longitude":-95.670084,
+    "iso:country":"US",
+    "sg:address":"20716 270th St",
+    "sg:city":"Mc Clelland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2991",
+    "sg:postcode":"51548",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "corn",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BWE9rqNsBFNbVKkRoguAT_41.314053_-95.670084@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112619,
+    "wof:geomhash":"436e82355068da8df24bb27cae8d6b66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857006367
+        }
+    ],
+    "wof:id":857006367,
+    "wof:lastmodified":1464112619,
+    "wof:name":"Farm",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "corn",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -95.670084,
+    41.314053,
+    -95.670084,
+    41.314053
+],
+  "geometry": {"coordinates":[-95.670084,41.314053],"type":"Point"}
+}

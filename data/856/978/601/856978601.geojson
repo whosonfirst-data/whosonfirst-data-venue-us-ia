@@ -1,0 +1,71 @@
+{
+  "id": 856978601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.79418,41.968633,-91.79418,41.968633",
+    "geom:latitude":41.968633,
+    "geom:longitude":-91.79418,
+    "iso:country":"US",
+    "sg:address":"1108 Morgan Bridge Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 446 7147",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V9XdC4TUgq8KOoQIbIIgI_41.968633_-91.794180@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111399,
+    "wof:geomhash":"47313f018de09aa1d78898ae4d61ed76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856978601
+        }
+    ],
+    "wof:id":856978601,
+    "wof:lastmodified":1464111399,
+    "wof:name":"Goodells Const",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.79418,
+    41.968633,
+    -91.79418,
+    41.968633
+],
+  "geometry": {"coordinates":[-91.79418,41.968633],"type":"Point"}
+}

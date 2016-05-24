@@ -1,0 +1,71 @@
+{
+  "id": 856941125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.828212,41.614782,-93.828212,41.614782",
+    "geom:latitude":41.614782,
+    "geom:longitude":-93.828212,
+    "iso:country":"US",
+    "sg:address":"15305 Hickman Rd",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4552",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tv2Va5ydgZDIL9pR6jSFS_41.614782_-93.828212@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109728,
+    "wof:geomhash":"57301a695b9011e1df6b5b16da4cff08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856941125
+        }
+    ],
+    "wof:id":856941125,
+    "wof:lastmodified":1464109728,
+    "wof:name":"Waukee Veterinary Clinic",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.828212,
+    41.614782,
+    -93.828212,
+    41.614782
+],
+  "geometry": {"coordinates":[-93.82821199999999,41.614782],"type":"Point"}
+}

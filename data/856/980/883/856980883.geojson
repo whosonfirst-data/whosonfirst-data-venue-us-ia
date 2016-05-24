@@ -1,0 +1,75 @@
+{
+  "id": 856980883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.53758,41.663279,-91.53758,41.663279",
+    "geom:latitude":41.663279,
+    "geom:longitude":-91.53758,
+    "iso:country":"US",
+    "sg:address":"130 N Madison St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 335 1486",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zAvBveXDFyWu814eY9b7x_41.663279_-91.537580@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111498,
+    "wof:geomhash":"d0372e940ee121453a8eeace874193d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856980883
+        }
+    ],
+    "wof:id":856980883,
+    "wof:lastmodified":1464111498,
+    "wof:name":"Sojourner Truth Library",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -91.53758,
+    41.663279,
+    -91.53758,
+    41.663279
+],
+  "geometry": {"coordinates":[-91.53758000000001,41.663279],"type":"Point"}
+}

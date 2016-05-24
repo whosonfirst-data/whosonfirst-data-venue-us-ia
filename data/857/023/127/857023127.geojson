@@ -1,0 +1,66 @@
+{
+  "id": 857023127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.526866,42.035289,-91.526866,42.035289",
+    "geom:latitude":42.035289,
+    "geom:longitude":-91.526866,
+    "iso:country":"US",
+    "sg:address":"1710 Marion Airport Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 9437",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03BMoQb3bxwzeqWgqWKuzA_42.035289_-91.526866@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113319,
+    "wof:geomhash":"f85a02a93d71611d828a41a098d46563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857023127
+        }
+    ],
+    "wof:id":857023127,
+    "wof:lastmodified":1464113319,
+    "wof:name":"Marion Airport",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.526866,
+    42.035289,
+    -91.526866,
+    42.035289
+],
+  "geometry": {"coordinates":[-91.526866,42.035289],"type":"Point"}
+}

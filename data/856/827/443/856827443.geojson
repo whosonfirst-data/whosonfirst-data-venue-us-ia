@@ -1,0 +1,73 @@
+{
+  "id": 856827443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.920565,41.285018,-95.920565,41.285018",
+    "geom:latitude":41.285018,
+    "geom:longitude":-95.920565,
+    "iso:country":"US",
+    "sg:address":"516 E Locust St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6535",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IlsMaB3ulYiXsyAZ1HS9t_41.285018_-95.920565@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104410,
+    "wof:geomhash":"dffef2318cb666fe2752fa343164f2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856827443
+        }
+    ],
+    "wof:id":856827443,
+    "wof:lastmodified":1464104410,
+    "wof:name":"D & R Auto Sales",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.920565,
+    41.285018,
+    -95.920565,
+    41.285018
+],
+  "geometry": {"coordinates":[-95.920565,41.285018],"type":"Point"}
+}

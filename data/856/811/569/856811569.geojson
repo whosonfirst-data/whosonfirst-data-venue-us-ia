@@ -1,0 +1,73 @@
+{
+  "id": 856811569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.538145,41.468727,-95.538145,41.468727",
+    "geom:latitude":41.468727,
+    "geom:longitude":-95.538145,
+    "iso:country":"US",
+    "sg:address":"503 Main St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2094",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ll9rJykHHirgIERllBl6k_41.468727_-95.538145@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103700,
+    "wof:geomhash":"e72825eeaa7285770c67aab460372b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856811569
+        }
+    ],
+    "wof:id":856811569,
+    "wof:lastmodified":1464103700,
+    "wof:name":"Jensen Service LTD",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.538145,
+    41.468727,
+    -95.538145,
+    41.468727
+],
+  "geometry": {"coordinates":[-95.538145,41.468727],"type":"Point"}
+}

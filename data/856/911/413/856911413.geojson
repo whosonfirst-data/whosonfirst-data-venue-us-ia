@@ -1,0 +1,75 @@
+{
+  "id": 856911413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658099,42.053793,-91.658099,42.053793",
+    "geom:latitude":42.053793,
+    "geom:longitude":-91.658099,
+    "iso:country":"US",
+    "sg:address":"7814 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 866 6394",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31BnEklwplLJwciXLLUEip_42.053793_-91.658099@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108478,
+    "wof:geomhash":"5bcf9240b6cbd91b7def971dca4d8d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856911413
+        }
+    ],
+    "wof:id":856911413,
+    "wof:lastmodified":1464108478,
+    "wof:name":"Classic Home Remodeling",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.658099,
+    42.053793,
+    -91.658099,
+    42.053793
+],
+  "geometry": {"coordinates":[-91.65809900000001,42.053793],"type":"Point"}
+}

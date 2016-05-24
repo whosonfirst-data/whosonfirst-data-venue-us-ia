@@ -1,0 +1,68 @@
+{
+  "id": 857069943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.686699,41.950298,-91.686699,41.950298",
+    "geom:latitude":41.950298,
+    "geom:longitude":-91.686699,
+    "iso:country":"US",
+    "sg:address":"2739 12th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 241 1971",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NMW2s8Ix3xUG6t1Uaafjn_41.950298_-91.686699@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115329,
+    "wof:geomhash":"1d3314e628e4dcbd15069e9b0933fef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857069943
+        }
+    ],
+    "wof:id":857069943,
+    "wof:lastmodified":1464115329,
+    "wof:name":"Plasa Auto Repair",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.686699,
+    41.950298,
+    -91.686699,
+    41.950298
+],
+  "geometry": {"coordinates":[-91.686699,41.950298],"type":"Point"}
+}

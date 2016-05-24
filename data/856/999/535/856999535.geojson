@@ -1,0 +1,73 @@
+{
+  "id": 856999535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.414574,42.501396,-96.414574,42.501396",
+    "geom:latitude":42.501396,
+    "geom:longitude":-96.414574,
+    "iso:country":"US",
+    "sg:address":"515 W 7th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 2194",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rjpxKVgBHIX36u8YacqRe_42.501396_-96.414574@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112348,
+    "wof:geomhash":"131b4da59d6c8f274b029923718e5425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856999535
+        }
+    ],
+    "wof:id":856999535,
+    "wof:lastmodified":1464112348,
+    "wof:name":"Tan Thao Cafe",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -96.414574,
+    42.501396,
+    -96.414574,
+    42.501396
+],
+  "geometry": {"coordinates":[-96.414574,42.501396],"type":"Point"}
+}

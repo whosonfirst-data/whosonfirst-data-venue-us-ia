@@ -1,0 +1,73 @@
+{
+  "id": 857059493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.701356,42.032305,-91.701356,42.032305",
+    "geom:latitude":42.032305,
+    "geom:longitude":-91.701356,
+    "iso:country":"US",
+    "sg:address":"5200 Edgewood Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/202645-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1br6xMJydZba8Yjxh3vZPl_42.032305_-91.701356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114879,
+    "wof:geomhash":"8bc7ac52dbc56a79bbfb95e018d7b5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857059493
+        }
+    ],
+    "wof:id":857059493,
+    "wof:lastmodified":1464114879,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.701356,
+    42.032305,
+    -91.701356,
+    42.032305
+],
+  "geometry": {"coordinates":[-91.701356,42.032305],"type":"Point"}
+}

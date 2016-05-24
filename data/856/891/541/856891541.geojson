@@ -1,0 +1,72 @@
+{
+  "id": 856891541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560867,41.720099,-91.560867,41.720099",
+    "geom:latitude":41.720099,
+    "geom:longitude":-91.560867,
+    "iso:country":"US",
+    "sg:address":"2942 Rustic Ridge Rd NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 4188",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.saylor-construction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896473,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G8tq5f7C1lK4AFniHxSAv_41.720099_-91.560867@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107746,
+    "wof:geomhash":"19eccee18f55ddc22493f41218b82100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896473,
+            "region_id":85688713,
+            "venue_id":856891541
+        }
+    ],
+    "wof:id":856891541,
+    "wof:lastmodified":1464107746,
+    "wof:name":"Saylor Construction",
+    "wof:parent_id":85896473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.560867,
+    41.720099,
+    -91.560867,
+    41.720099
+],
+  "geometry": {"coordinates":[-91.560867,41.720099],"type":"Point"}
+}

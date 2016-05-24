@@ -1,0 +1,73 @@
+{
+  "id": 856908399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.10378,41.571014,-94.10378,41.571014",
+    "geom:latitude":41.571014,
+    "geom:longitude":-94.10378,
+    "iso:country":"US",
+    "sg:address":"3214 Panther Creek Rd",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4321",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IZHPRnQMMdS10mdezeI22_41.571014_-94.103780@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108362,
+    "wof:geomhash":"6261f022b342803deae8daa9c5c17e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856908399
+        }
+    ],
+    "wof:id":856908399,
+    "wof:lastmodified":1464108362,
+    "wof:name":"Travel & Transport Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -94.10378,
+    41.571014,
+    -94.10378,
+    41.571014
+],
+  "geometry": {"coordinates":[-94.10378,41.571014],"type":"Point"}
+}

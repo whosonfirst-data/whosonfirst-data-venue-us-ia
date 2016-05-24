@@ -1,0 +1,73 @@
+{
+  "id": 856798193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.396777,41.302717,-95.396777,41.302717",
+    "geom:latitude":41.302717,
+    "geom:longitude":-95.396777,
+    "iso:country":"US",
+    "sg:address":"408 Park St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6907",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zXbyfERmpYI7h2Qvsb6Hq_41.302717_-95.396777@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103117,
+    "wof:geomhash":"f5ac92496c8ce29d43f558e9cabc324e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856798193
+        }
+    ],
+    "wof:id":856798193,
+    "wof:lastmodified":1464103117,
+    "wof:name":"Eckert Plumbing & Sewer Svc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.396777,
+    41.302717,
+    -95.396777,
+    41.302717
+],
+  "geometry": {"coordinates":[-95.396777,41.302717],"type":"Point"}
+}

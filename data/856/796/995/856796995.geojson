@@ -1,0 +1,67 @@
+{
+  "id": 856796995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.00844,41.5357,-94.00844,41.5357",
+    "geom:latitude":41.5357,
+    "geom:longitude":-94.00844,
+    "iso:country":"US",
+    "sg:address":"317 Spruce St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2424",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:website":"www.adel.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7duzfXrZ2MKc80YmOs7D7w_41.535700_-94.008440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103067,
+    "wof:geomhash":"a6c935cf9c079698001278ba5cab99f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856796995
+        }
+    ],
+    "wof:id":856796995,
+    "wof:lastmodified":1464103067,
+    "wof:name":"De Soto Intermediate School",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.00844,
+    41.5357,
+    -94.00844,
+    41.5357
+],
+  "geometry": {"coordinates":[-94.00843999999999,41.5357],"type":"Point"}
+}

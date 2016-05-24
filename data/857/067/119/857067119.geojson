@@ -1,0 +1,74 @@
+{
+  "id": 857067119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667605,41.97938,-91.667605,41.97938",
+    "geom:latitude":41.97938,
+    "geom:longitude":-91.667605,
+    "iso:country":"US",
+    "sg:address":"102 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8591",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.theatrecr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IISrDijHIBxoRxgoNTnf3_41.979380_-91.667605@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115183,
+    "wof:geomhash":"6ddd562b383b01390a07396bddf35c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857067119
+        }
+    ],
+    "wof:id":857067119,
+    "wof:lastmodified":1464115183,
+    "wof:name":"Theatre Cedar Rapids",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -91.667605,
+    41.97938,
+    -91.667605,
+    41.97938
+],
+  "geometry": {"coordinates":[-91.66760499999999,41.97938],"type":"Point"}
+}

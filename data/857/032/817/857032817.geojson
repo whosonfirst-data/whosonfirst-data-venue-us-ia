@@ -1,0 +1,71 @@
+{
+  "id": 857032817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.822751,41.267198,-95.822751,41.267198",
+    "geom:latitude":41.267198,
+    "geom:longitude":-95.822751,
+    "iso:country":"US",
+    "sg:address":"1600 McPherson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4820",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dE8PDTxGZpkhL5zgrnWld_41.267198_-95.822751@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113772,
+    "wof:geomhash":"accd9e45091284508bac304d2e895116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857032817
+        }
+    ],
+    "wof:id":857032817,
+    "wof:lastmodified":1464113772,
+    "wof:name":"Woodlands Rehabilitation Ctr",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -95.822751,
+    41.267198,
+    -95.822751,
+    41.267198
+],
+  "geometry": {"coordinates":[-95.822751,41.267198],"type":"Point"}
+}

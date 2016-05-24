@@ -1,0 +1,73 @@
+{
+  "id": 856978079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678166,42.048946,-91.678166,42.048946",
+    "geom:latitude":42.048946,
+    "geom:longitude":-91.678166,
+    "iso:country":"US",
+    "sg:address":"1340 Hawkeye Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 7029",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oTbGF4h6bqd6ogdUZuMg7_42.048946_-91.678166@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111369,
+    "wof:geomhash":"d1b98200d1385e2594e718b5df1c8c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856978079
+        }
+    ],
+    "wof:id":856978079,
+    "wof:lastmodified":1464111369,
+    "wof:name":"Hawkeye Ready Mix",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -91.678166,
+    42.048946,
+    -91.678166,
+    42.048946
+],
+  "geometry": {"coordinates":[-91.678166,42.048946],"type":"Point"}
+}

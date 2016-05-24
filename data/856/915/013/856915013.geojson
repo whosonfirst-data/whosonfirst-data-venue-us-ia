@@ -1,0 +1,68 @@
+{
+  "id": 856915013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608332,41.691461,-91.608332,41.691461",
+    "geom:latitude":41.691461,
+    "geom:longitude":-91.608332,
+    "iso:country":"US",
+    "sg:address":"1415 Coral Ridge Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 625 2100",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FqCetHQzMiTXeiVLFuhIC_41.691461_-91.608332@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108620,
+    "wof:geomhash":"d6a0a424f61096c596af4b52e111410d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":856915013
+        }
+    ],
+    "wof:id":856915013,
+    "wof:lastmodified":1464108620,
+    "wof:name":"Coral Ridge 10 Theatres",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.608332,
+    41.691461,
+    -91.608332,
+    41.691461
+],
+  "geometry": {"coordinates":[-91.608332,41.691461],"type":"Point"}
+}

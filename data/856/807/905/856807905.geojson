@@ -1,0 +1,75 @@
+{
+  "id": 856807905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661177,41.98156,-91.661177,41.98156",
+    "geom:latitude":41.98156,
+    "geom:longitude":-91.661177,
+    "iso:country":"US",
+    "sg:address":"709 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8048",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qp0lCxcFcxStvxfCbfZ2f_41.981560_-91.661177@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103528,
+    "wof:geomhash":"9ae1fd70737d895a01b32f0b0d2c1d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856807905
+        }
+    ],
+    "wof:id":856807905,
+    "wof:lastmodified":1464103528,
+    "wof:name":"Idlewild Dance",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -91.661177,
+    41.98156,
+    -91.661177,
+    41.98156
+],
+  "geometry": {"coordinates":[-91.661177,41.98156],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856889867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.885697,41.613748,-93.885697,41.613748",
+    "geom:latitude":41.613748,
+    "geom:longitude":-93.885697,
+    "iso:country":"US",
+    "sg:address":"100 6th St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4575",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hB67fsG8YOZrTCuoKWEyU_41.613748_-93.885697@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107679,
+    "wof:geomhash":"520d7ba4bc714e620b01c3fe48e43374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856889867
+        }
+    ],
+    "wof:id":856889867,
+    "wof:lastmodified":1464107679,
+    "wof:name":"Northway Well & Pump Co",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -93.885697,
+    41.613748,
+    -93.885697,
+    41.613748
+],
+  "geometry": {"coordinates":[-93.88569699999999,41.613748],"type":"Point"}
+}

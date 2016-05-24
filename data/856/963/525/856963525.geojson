@@ -1,0 +1,69 @@
+{
+  "id": 856963525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.613578,41.669429,-93.613578,41.669429",
+    "geom:latitude":41.669429,
+    "geom:longitude":-93.613578,
+    "iso:country":"US",
+    "sg:address":"317 NE 60th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 6366",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65y7VJAPskd3gDVzsTMiGB_41.669429_-93.613578@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110685,
+    "wof:geomhash":"db4955e3507069001dbf7bdef4dd378c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856963525
+        }
+    ],
+    "wof:id":856963525,
+    "wof:lastmodified":1464110685,
+    "wof:name":"RB Auto Sales",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -93.613578,
+    41.669429,
+    -93.613578,
+    41.669429
+],
+  "geometry": {"coordinates":[-93.613578,41.669429],"type":"Point"}
+}

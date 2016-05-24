@@ -1,0 +1,71 @@
+{
+  "id": 857000575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.29507,41.318029,-95.29507,41.318029",
+    "geom:latitude":41.318029,
+    "geom:longitude":-95.29507,
+    "iso:country":"US",
+    "sg:address":"46299 US Hwy 6",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6444",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Rkz2iM1HUce7p4RO7pFu_41.318029_-95.295070@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112385,
+    "wof:geomhash":"006863a0b359231e33d9a0c648b26f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857000575
+        }
+    ],
+    "wof:id":857000575,
+    "wof:lastmodified":1464112385,
+    "wof:name":"Northern Natural Gas Co",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -95.29507,
+    41.318029,
+    -95.29507,
+    41.318029
+],
+  "geometry": {"coordinates":[-95.29507,41.318029],"type":"Point"}
+}

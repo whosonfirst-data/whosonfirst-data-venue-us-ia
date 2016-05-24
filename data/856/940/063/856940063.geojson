@@ -1,0 +1,73 @@
+{
+  "id": 856940063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.692191,42.062436,-91.692191,42.062436",
+    "geom:latitude":42.062436,
+    "geom:longitude":-91.692191,
+    "iso:country":"US",
+    "sg:address":"2762 N Center Point Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0144",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U2HocCWRXSd6K6MeSqb2s_42.062436_-91.692191@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109675,
+    "wof:geomhash":"dfc2ccbb4da9b54402ef220b7d3cbded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856940063
+        }
+    ],
+    "wof:id":856940063,
+    "wof:lastmodified":1464109675,
+    "wof:name":"Ever-Green Landscape Nursery",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.692191,
+    42.062436,
+    -91.692191,
+    42.062436
+],
+  "geometry": {"coordinates":[-91.69219099999999,42.062436],"type":"Point"}
+}

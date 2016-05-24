@@ -1,0 +1,66 @@
+{
+  "id": 856855303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.340567,41.486705,-95.340567,41.486705",
+    "geom:latitude":41.486705,
+    "geom:longitude":-95.340567,
+    "iso:country":"US",
+    "sg:address":"907 N Frost Ave",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2191",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JHID5j3dNn9e5RKFROHyY_41.486705_-95.340567@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105771,
+    "wof:geomhash":"66e8d568c9b7d19a5b35d6ac99a4f63d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856855303
+        }
+    ],
+    "wof:id":856855303,
+    "wof:lastmodified":1464105771,
+    "wof:name":"Charlie's Barber Shop",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.340567,
+    41.486705,
+    -95.340567,
+    41.486705
+],
+  "geometry": {"coordinates":[-95.34056699999999,41.486705],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856813127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620408,41.658713,-93.620408,41.658713",
+    "geom:latitude":41.658713,
+    "geom:longitude":-93.620408,
+    "iso:country":"US",
+    "sg:address":"5912 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 281 3175",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s1cqmzhm5IsyhCoRpeQvU_41.658713_-93.620408@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103759,
+    "wof:geomhash":"9889d1cb0094061ec5bb3273454246a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856813127
+        }
+    ],
+    "wof:id":856813127,
+    "wof:lastmodified":1464103759,
+    "wof:name":"State Patrol Div Maintenance",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -93.620408,
+    41.658713,
+    -93.620408,
+    41.658713
+],
+  "geometry": {"coordinates":[-93.620408,41.658713],"type":"Point"}
+}

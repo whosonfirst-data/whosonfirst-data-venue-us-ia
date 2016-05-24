@@ -1,0 +1,71 @@
+{
+  "id": 857065733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.597603,42.033298,-91.597603,42.033298",
+    "geom:latitude":42.033298,
+    "geom:longitude":-91.597603,
+    "iso:country":"US",
+    "sg:address":"1115 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 2086",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "performing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uasf4W6WhLkDjAEq1NJBD_42.033298_-91.597603@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115124,
+    "wof:geomhash":"8c9deec25c1e4371e9b64017b285bb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065733
+        }
+    ],
+    "wof:id":857065733,
+    "wof:lastmodified":1464115124,
+    "wof:name":"Dance Company",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -91.597603,
+    42.033298,
+    -91.597603,
+    42.033298
+],
+  "geometry": {"coordinates":[-91.59760300000001,42.033298],"type":"Point"}
+}

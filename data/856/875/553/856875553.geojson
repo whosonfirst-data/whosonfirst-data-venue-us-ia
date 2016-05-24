@@ -1,0 +1,71 @@
+{
+  "id": 856875553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.108069,41.838568,-94.108069,41.838568",
+    "geom:latitude":41.838568,
+    "geom:longitude":-94.108069,
+    "iso:country":"US",
+    "sg:address":"908 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2319",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iMHWSBf3hPe4Rj8ZRbbRG_41.838568_-94.108069@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106965,
+    "wof:geomhash":"5e7166b12d487040827e3bed161d60ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856875553
+        }
+    ],
+    "wof:id":856875553,
+    "wof:lastmodified":1464106965,
+    "wof:name":"Magistrate Court",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -94.108069,
+    41.838568,
+    -94.108069,
+    41.838568
+],
+  "geometry": {"coordinates":[-94.108069,41.838568],"type":"Point"}
+}

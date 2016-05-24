@@ -1,0 +1,73 @@
+{
+  "id": 856888341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.55155,41.605546,-93.55155,41.605546",
+    "geom:latitude":41.605546,
+    "geom:longitude":-93.55155,
+    "iso:country":"US",
+    "sg:address":"1450 E 33rd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 266 3222",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K2EHMK4uE7NwOj9vUzl2Z_41.605546_-93.551550@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107616,
+    "wof:geomhash":"b7dfbadeb177755c4303437e37799ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896393,
+            "region_id":85688713,
+            "venue_id":856888341
+        }
+    ],
+    "wof:id":856888341,
+    "wof:lastmodified":1464107616,
+    "wof:name":"Unity Lutheran Church",
+    "wof:parent_id":85896393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.55155,
+    41.605546,
+    -93.55155,
+    41.605546
+],
+  "geometry": {"coordinates":[-93.55155000000001,41.605546],"type":"Point"}
+}

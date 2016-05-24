@@ -1,0 +1,75 @@
+{
+  "id": 857017525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724676,41.96756,-91.724676,41.96756",
+    "geom:latitude":41.96756,
+    "geom:longitude":-91.724676,
+    "iso:country":"US",
+    "sg:address":"3926 1st Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 350 9976",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6euYaUJkd0raOLro9zRYLT_41.967560_-91.724676@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113097,
+    "wof:geomhash":"582883f2805808d0c97ea6bdc1cc68f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857017525
+        }
+    ],
+    "wof:id":857017525,
+    "wof:lastmodified":1464113097,
+    "wof:name":"Robson Brothers Sweeping",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -91.724676,
+    41.96756,
+    -91.724676,
+    41.96756
+],
+  "geometry": {"coordinates":[-91.724676,41.96756],"type":"Point"}
+}

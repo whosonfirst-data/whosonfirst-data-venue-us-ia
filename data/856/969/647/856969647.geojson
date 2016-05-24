@@ -1,0 +1,68 @@
+{
+  "id": 856969647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736125,41.559345,-93.736125,41.559345",
+    "geom:latitude":41.559345,
+    "geom:longitude":-93.736125,
+    "iso:country":"US",
+    "sg:address":"2251 Fuller Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 7249",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FITVBAOsbgA18QILaZ42j_41.559345_-93.736125@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110953,
+    "wof:geomhash":"b0b517b4fd1a6131d748ce173dc74279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896521,
+            "region_id":85688713,
+            "venue_id":856969647
+        }
+    ],
+    "wof:id":856969647,
+    "wof:lastmodified":1464110953,
+    "wof:name":"Nazarene Camp Ground",
+    "wof:parent_id":85896521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.736125,
+    41.559345,
+    -93.736125,
+    41.559345
+],
+  "geometry": {"coordinates":[-93.736125,41.559345],"type":"Point"}
+}

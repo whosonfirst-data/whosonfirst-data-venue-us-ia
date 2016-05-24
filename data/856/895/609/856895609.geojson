@@ -1,0 +1,71 @@
+{
+  "id": 856895609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.587976,42.0467,-91.587976,42.0467",
+    "geom:latitude":42.0467,
+    "geom:longitude":-91.587976,
+    "iso:country":"US",
+    "sg:address":"2320 24th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 2845",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "flue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w8W6EAALXhDpcteBTyVfW_42.046700_-91.587976@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107886,
+    "wof:geomhash":"d2424cf85d0013fa40d6ea824161da8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856895609
+        }
+    ],
+    "wof:id":856895609,
+    "wof:lastmodified":1464107886,
+    "wof:name":"B & B Vent & Hood Cleaning",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flue"
+    ]
+},
+  "bbox": [
+    -91.587976,
+    42.0467,
+    -91.587976,
+    42.0467
+],
+  "geometry": {"coordinates":[-91.587976,42.0467],"type":"Point"}
+}

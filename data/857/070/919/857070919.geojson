@@ -1,0 +1,72 @@
+{
+  "id": 857070919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718115,41.961972,-91.718115,41.961972",
+    "geom:latitude":41.961972,
+    "geom:longitude":-91.718115,
+    "iso:country":"US",
+    "sg:address":"3524 18th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5052",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpet"
+    ],
+    "sg:website":"locations.stanleysteemer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvrB0h0NZIrBwamo5KetJ_41.961972_-91.718115@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115372,
+    "wof:geomhash":"294274e3c0951762d9699bf8cabb69a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070919
+        }
+    ],
+    "wof:id":857070919,
+    "wof:lastmodified":1464115372,
+    "wof:name":"Stanley Steemer",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -91.718115,
+    41.961972,
+    -91.718115,
+    41.961972
+],
+  "geometry": {"coordinates":[-91.718115,41.961972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856799535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662694,42.020172,-91.662694,42.020172",
+    "geom:latitude":42.020172,
+    "geom:longitude":-91.662694,
+    "iso:country":"US",
+    "sg:address":"1615 Park Towne Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 981 2674",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pbU3jfQA5jjvuCdi0u3u6_42.020172_-91.662694@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103179,
+    "wof:geomhash":"517def8f8bb608e7386337c00ed3a8a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856799535
+        }
+    ],
+    "wof:id":856799535,
+    "wof:lastmodified":1464103179,
+    "wof:name":"Dean Rasmussen Photography",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -91.662694,
+    42.020172,
+    -91.662694,
+    42.020172
+],
+  "geometry": {"coordinates":[-91.662694,42.020172],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856952993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.736489,41.963758,-91.736489,41.963758",
+    "geom:latitude":41.963758,
+    "geom:longitude":-91.736489,
+    "iso:country":"US",
+    "sg:address":"5141 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 2222",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NMKadbrfZbbg6Z8gV2x8y_41.963758_-91.736489@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110208,
+    "wof:geomhash":"ed64f089ade13c4bcf869f7cd079cdc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856952993
+        }
+    ],
+    "wof:id":856952993,
+    "wof:lastmodified":1464110208,
+    "wof:name":"Affordable Self Storage",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -91.736489,
+    41.963758,
+    -91.736489,
+    41.963758
+],
+  "geometry": {"coordinates":[-91.73648900000001,41.963758],"type":"Point"}
+}

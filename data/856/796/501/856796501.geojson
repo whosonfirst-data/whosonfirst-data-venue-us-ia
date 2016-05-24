@@ -1,0 +1,71 @@
+{
+  "id": 856796501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668811,42.052666,-91.668811,42.052666",
+    "geom:latitude":42.052666,
+    "geom:longitude":-91.668811,
+    "iso:country":"US",
+    "sg:address":"311 Pebble Ln",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6762",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HmchWDaMdCOVv0jsdY9AL_42.052666_-91.668811@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103043,
+    "wof:geomhash":"053227801b654d6b6b41c59dffd1ff88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856796501
+        }
+    ],
+    "wof:id":856796501,
+    "wof:lastmodified":1464103043,
+    "wof:name":"Ad Tech Land Surveying",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -91.668811,
+    42.052666,
+    -91.668811,
+    42.052666
+],
+  "geometry": {"coordinates":[-91.66881100000001,42.052666],"type":"Point"}
+}

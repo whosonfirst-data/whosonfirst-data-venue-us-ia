@@ -1,0 +1,73 @@
+{
+  "id": 856805783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.385416,41.921187,-91.385416,41.921187",
+    "geom:latitude":41.921187,
+    "geom:longitude":-91.385416,
+    "iso:country":"US",
+    "sg:address":"108 S Washington St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2844",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sqFoDmodplfyJOqhohN72_41.921187_-91.385416@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103448,
+    "wof:geomhash":"563d457e55f9dc877cb2daae35df5821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856805783
+        }
+    ],
+    "wof:id":856805783,
+    "wof:lastmodified":1464103448,
+    "wof:name":"South East Linn Community Ctr",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -91.385416,
+    41.921187,
+    -91.385416,
+    41.921187
+],
+  "geometry": {"coordinates":[-91.38541600000001,41.921187],"type":"Point"}
+}

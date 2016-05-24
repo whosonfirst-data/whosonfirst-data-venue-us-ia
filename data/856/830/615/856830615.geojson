@@ -1,0 +1,71 @@
+{
+  "id": 856830615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860484,41.240485,-95.860484,41.240485",
+    "geom:latitude":41.240485,
+    "geom:longitude":-95.860484,
+    "iso:country":"US",
+    "sg:address":"2100 S 11th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6445",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_445hkbghg4cwUxbtHWpgcC_41.240485_-95.860484@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104535,
+    "wof:geomhash":"0c4677062edd2dece959ea2be4e85560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856830615
+        }
+    ],
+    "wof:id":856830615,
+    "wof:lastmodified":1464104535,
+    "wof:name":"Faith Lutheran Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.860484,
+    41.240485,
+    -95.860484,
+    41.240485
+],
+  "geometry": {"coordinates":[-95.860484,41.240485],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857062847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854897,41.256802,-95.854897,41.256802",
+    "geom:latitude":41.256802,
+    "geom:longitude":-95.854897,
+    "iso:country":"US",
+    "sg:address":"502 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7600",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "personal",
+        "injury"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qxBLAkMPQhhvMdHDp5Qnt_41.256802_-95.854897@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115016,
+    "wof:geomhash":"742b665e34b019f046ce81ae8d4e7ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062847
+        }
+    ],
+    "wof:id":857062847,
+    "wof:lastmodified":1464115016,
+    "wof:name":"Cullan Daniel B Dr MD",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "injury"
+    ]
+},
+  "bbox": [
+    -95.854897,
+    41.256802,
+    -95.854897,
+    41.256802
+],
+  "geometry": {"coordinates":[-95.85489699999999,41.256802],"type":"Point"}
+}

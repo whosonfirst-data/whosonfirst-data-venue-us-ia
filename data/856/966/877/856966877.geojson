@@ -1,0 +1,73 @@
+{
+  "id": 856966877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.636036,42.042586,-91.636036,42.042586",
+    "geom:latitude":42.042586,
+    "geom:longitude":-91.636036,
+    "iso:country":"US",
+    "sg:address":"350 Hampden Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 8477",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ObA6Gyt8oREPr2kQ8pfN_42.042586_-91.636036@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110821,
+    "wof:geomhash":"56b860099270dc7de092661d1a9a5473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856966877
+        }
+    ],
+    "wof:id":856966877,
+    "wof:lastmodified":1464110821,
+    "wof:name":"Crown Crafters",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -91.636036,
+    42.042586,
+    -91.636036,
+    42.042586
+],
+  "geometry": {"coordinates":[-91.636036,42.042586],"type":"Point"}
+}

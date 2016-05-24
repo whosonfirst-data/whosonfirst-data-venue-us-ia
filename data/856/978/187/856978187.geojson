@@ -1,0 +1,77 @@
+{
+  "id": 856978187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.60833,41.691571,-91.60833,41.691571",
+    "geom:latitude":41.691571,
+    "geom:longitude":-91.60833,
+    "iso:country":"US",
+    "sg:address":"1431 Coral Ridge Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 625 2900",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QLQNts2hDulKcbwqLvz5W_41.691571_-91.608330@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111379,
+    "wof:geomhash":"f23d06e46936455de747c543c336ed61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":856978187
+        }
+    ],
+    "wof:id":856978187,
+    "wof:lastmodified":1464111379,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.60833,
+    41.691571,
+    -91.60833,
+    41.691571
+],
+  "geometry": {"coordinates":[-91.60833,41.691571],"type":"Point"}
+}

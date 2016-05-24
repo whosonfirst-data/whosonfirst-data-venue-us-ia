@@ -1,0 +1,76 @@
+{
+  "id": 856805965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.649164,41.565939,-93.649164,41.565939",
+    "geom:latitude":41.565939,
+    "geom:longitude":-93.649164,
+    "iso:country":"US",
+    "sg:address":"2130 Sunset Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 2195",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "sg:website":"www.gordonfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tPuz3DQEQfP2qbdl94Bxm_41.565939_-93.649164@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103455,
+    "wof:geomhash":"665f727dafc3343df34c4476efc99529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896379,
+            "region_id":85688713,
+            "venue_id":856805965
+        }
+    ],
+    "wof:id":856805965,
+    "wof:lastmodified":1464103455,
+    "wof:name":"Gordon Food Products",
+    "wof:parent_id":85896379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -93.649164,
+    41.565939,
+    -93.649164,
+    41.565939
+],
+  "geometry": {"coordinates":[-93.649164,41.565939],"type":"Point"}
+}

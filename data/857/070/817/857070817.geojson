@@ -1,0 +1,71 @@
+{
+  "id": 857070817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.745796,41.963799,-91.745796,41.963799",
+    "geom:latitude":41.963799,
+    "geom:longitude":-91.745796,
+    "iso:country":"US",
+    "sg:address":"5801 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 6348",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mim1zjfY34DC80c44eMvv_41.963799_-91.745796@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115369,
+    "wof:geomhash":"256ebf07763fd33fc02de104c8b1c6c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070817
+        }
+    ],
+    "wof:id":857070817,
+    "wof:lastmodified":1464115369,
+    "wof:name":"Pharmacy Care Associates",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -91.745796,
+    41.963799,
+    -91.745796,
+    41.963799
+],
+  "geometry": {"coordinates":[-91.745796,41.963799],"type":"Point"}
+}

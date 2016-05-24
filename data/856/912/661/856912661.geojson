@@ -1,0 +1,73 @@
+{
+  "id": 856912661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.617088,41.448504,-95.617088,41.448504",
+    "geom:latitude":41.448504,
+    "geom:longitude":-95.617088,
+    "iso:country":"US",
+    "sg:address":"110 4th St",
+    "sg:city":"Neola",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 485 2489",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hhBOu2KD6REKAb8ZbCNyk_41.448504_-95.617088@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108528,
+    "wof:geomhash":"09492a7d56aa2e938a45c83c61c8ea26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856912661
+        }
+    ],
+    "wof:id":856912661,
+    "wof:lastmodified":1464108528,
+    "wof:name":"Neola Area Community Ctr",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -95.617088,
+    41.448504,
+    -95.617088,
+    41.448504
+],
+  "geometry": {"coordinates":[-95.617088,41.448504],"type":"Point"}
+}

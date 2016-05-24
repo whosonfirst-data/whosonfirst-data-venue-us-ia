@@ -1,0 +1,72 @@
+{
+  "id": 856979923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.861374,41.259751,-95.861374,41.259751",
+    "geom:latitude":41.259751,
+    "geom:longitude":-95.861374,
+    "iso:country":"US",
+    "sg:address":"1104 2nd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 9995",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.deckerplastics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SXDO6ouygno5mZVeEx8JG_41.259751_-95.861374@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111456,
+    "wof:geomhash":"ea33becd9b6e3bc80a79b2fd15553f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856979923
+        }
+    ],
+    "wof:id":856979923,
+    "wof:lastmodified":1464111456,
+    "wof:name":"Decker Plastics Corp",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -95.861374,
+    41.259751,
+    -95.861374,
+    41.259751
+],
+  "geometry": {"coordinates":[-95.861374,41.259751],"type":"Point"}
+}

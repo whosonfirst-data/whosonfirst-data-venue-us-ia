@@ -1,0 +1,71 @@
+{
+  "id": 856819789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.602795,42.036314,-91.602795,42.036314",
+    "geom:latitude":42.036314,
+    "geom:longitude":-91.602795,
+    "iso:country":"US",
+    "sg:address":"600 10th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 3221",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dRaq8vDgcq8oiKWFOxeJr_42.036314_-91.602795@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104061,
+    "wof:geomhash":"27aa5014a3f245e983b6badee418f2ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856819789
+        }
+    ],
+    "wof:id":856819789,
+    "wof:lastmodified":1464104061,
+    "wof:name":"Marion Senior Dining",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -91.602795,
+    42.036314,
+    -91.602795,
+    42.036314
+],
+  "geometry": {"coordinates":[-91.602795,42.036314],"type":"Point"}
+}

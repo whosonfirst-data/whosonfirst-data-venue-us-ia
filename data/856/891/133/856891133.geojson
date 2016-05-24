@@ -1,0 +1,73 @@
+{
+  "id": 856891133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648511,42.040766,-91.648511,42.040766",
+    "geom:latitude":42.040766,
+    "geom:longitude":-91.648511,
+    "iso:country":"US",
+    "sg:address":"6325 Rockwell Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9500",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3QEaa3luD17aBsQxexZ0_42.040766_-91.648511@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107730,
+    "wof:geomhash":"55b938729ca1283f4997f9f95b2f2589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856891133
+        }
+    ],
+    "wof:id":856891133,
+    "wof:lastmodified":1464107730,
+    "wof:name":"Keystone Cedars Assisted",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.648511,
+    42.040766,
+    -91.648511,
+    42.040766
+],
+  "geometry": {"coordinates":[-91.648511,42.040766],"type":"Point"}
+}

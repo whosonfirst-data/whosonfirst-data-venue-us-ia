@@ -1,0 +1,73 @@
+{
+  "id": 857069843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624199,41.977001,-91.624199,41.977001",
+    "geom:latitude":41.977001,
+    "geom:longitude":-91.624199,
+    "iso:country":"US",
+    "sg:address":"2663 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7817",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "greek",
+        "mediterranean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40DfRVMl1n6MtyQnc7B1PK_41.977001_-91.624199@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115326,
+    "wof:geomhash":"255d4f3a9d0e8b93501e84233bb06441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069843
+        }
+    ],
+    "wof:id":857069843,
+    "wof:lastmodified":1464115326,
+    "wof:name":"Greek Place-the Vernon Inn Restaurant",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greek",
+        "mediterranean"
+    ]
+},
+  "bbox": [
+    -91.624199,
+    41.977001,
+    -91.624199,
+    41.977001
+],
+  "geometry": {"coordinates":[-91.624199,41.977001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857023609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.222194,41.478193,-95.222194,41.478193",
+    "geom:latitude":41.478193,
+    "geom:longitude":-95.222194,
+    "iso:country":"US",
+    "sg:address":"310 Antique City Dr",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 2277",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ra3yNPp2RYT93kXjALS0d_41.478193_-95.222194@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113338,
+    "wof:geomhash":"6b98a14ee4a08aea805812719644abbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857023609
+        }
+    ],
+    "wof:id":857023609,
+    "wof:lastmodified":1464113338,
+    "wof:name":"Don's Antiques",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -95.222194,
+    41.478193,
+    -95.222194,
+    41.478193
+],
+  "geometry": {"coordinates":[-95.222194,41.478193],"type":"Point"}
+}

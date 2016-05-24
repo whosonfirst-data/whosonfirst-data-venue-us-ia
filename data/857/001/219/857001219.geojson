@@ -1,0 +1,71 @@
+{
+  "id": 857001219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.337867,41.477592,-95.337867,41.477592",
+    "geom:latitude":41.477592,
+    "geom:longitude":-95.337867,
+    "iso:country":"US",
+    "sg:address":"203 N Walnut St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2455",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XiNZyz7i0F4KcEFlU6Y8Q_41.477592_-95.337867@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112410,
+    "wof:geomhash":"08ee518dc2f462e6c8365caed559d25d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857001219
+        }
+    ],
+    "wof:id":857001219,
+    "wof:lastmodified":1464112410,
+    "wof:name":"Knutson Funeral Home",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -95.337867,
+    41.477592,
+    -95.337867,
+    41.477592
+],
+  "geometry": {"coordinates":[-95.337867,41.477592],"type":"Point"}
+}

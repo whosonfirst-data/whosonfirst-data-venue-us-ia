@@ -1,0 +1,71 @@
+{
+  "id": 856873405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890737,41.245696,-95.890737,41.245696",
+    "geom:latitude":41.245696,
+    "geom:longitude":-95.890737,
+    "iso:country":"US",
+    "sg:address":"3319 Nebraska Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 2540",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DsFpWTLuVWMWI8xeIjXyU_41.245696_-95.890737@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106834,
+    "wof:geomhash":"11566aa88a21b8a8fd5f286c88459163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856873405
+        }
+    ],
+    "wof:id":856873405,
+    "wof:lastmodified":1464106834,
+    "wof:name":"Kanesville Heights Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -95.890737,
+    41.245696,
+    -95.890737,
+    41.245696
+],
+  "geometry": {"coordinates":[-95.890737,41.245696],"type":"Point"}
+}

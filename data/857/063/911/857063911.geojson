@@ -1,0 +1,71 @@
+{
+  "id": 857063911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.846703,41.253201,-95.846703,41.253201",
+    "geom:latitude":41.253201,
+    "geom:longitude":-95.846703,
+    "iso:country":"US",
+    "sg:address":"902 High St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 9776",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bpEr7fKGpIQDAJX6Inxo0_41.253201_-95.846703@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115059,
+    "wof:geomhash":"36364f0a0974db4cec655520de11c555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063911
+        }
+    ],
+    "wof:id":857063911,
+    "wof:lastmodified":1464115059,
+    "wof:name":"Dobbs Construction Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.846703,
+    41.253201,
+    -95.846703,
+    41.253201
+],
+  "geometry": {"coordinates":[-95.84670300000001,41.253201],"type":"Point"}
+}

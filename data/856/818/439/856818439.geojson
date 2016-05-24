@@ -1,0 +1,75 @@
+{
+  "id": 856818439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.771238,41.652822,-93.771238,41.652822",
+    "geom:latitude":41.652822,
+    "geom:longitude":-93.771238,
+    "iso:country":"US",
+    "sg:address":"11075 NW 51st Pl",
+    "sg:city":"Grimes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 986 3545",
+    "sg:postcode":"50111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944147,
+        102086603,
+        85896483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_492fJ6IGsPxRjspkMgnOtz_41.652822_-93.771238@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103981,
+    "wof:geomhash":"36fcded38f7a407b7eb4dad96ad2a53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944147,
+            "neighbourhood_id":85896483,
+            "region_id":85688713,
+            "venue_id":856818439
+        }
+    ],
+    "wof:id":856818439,
+    "wof:lastmodified":1464103981,
+    "wof:name":"Midwest Construction/Supply",
+    "wof:parent_id":85896483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.771238,
+    41.652822,
+    -93.771238,
+    41.652822
+],
+  "geometry": {"coordinates":[-93.771238,41.652822],"type":"Point"}
+}

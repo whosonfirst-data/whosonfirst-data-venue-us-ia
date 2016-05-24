@@ -1,0 +1,71 @@
+{
+  "id": 856783613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.598958,41.511771,-93.598958,41.511771",
+    "geom:latitude":41.511771,
+    "geom:longitude":-93.598958,
+    "iso:country":"US",
+    "sg:address":"1088 E County Line Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 8500",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "sg:tags":[
+        "amusement",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lCb0GWYrH2AIYZwUazTaT_41.511771_-93.598958@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102512,
+    "wof:geomhash":"a84523bffa3764086ab0c2de491258b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856783613
+        }
+    ],
+    "wof:id":856783613,
+    "wof:lastmodified":1464102512,
+    "wof:name":"Jack Wood's Melodee Music Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "devices"
+    ]
+},
+  "bbox": [
+    -93.598958,
+    41.511771,
+    -93.598958,
+    41.511771
+],
+  "geometry": {"coordinates":[-93.598958,41.511771],"type":"Point"}
+}

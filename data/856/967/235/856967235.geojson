@@ -1,0 +1,68 @@
+{
+  "id": 856967235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524992,41.640886,-91.524992,41.640886",
+    "geom:latitude":41.640886,
+    "geom:longitude":-91.524992,
+    "iso:country":"US",
+    "sg:address":"1929 Keokuk St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 1001",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VwoolNH2uNZ5ux1mD21fn_41.640886_-91.524992@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110833,
+    "wof:geomhash":"2611bde19e290dacb5e234b043684f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856967235
+        }
+    ],
+    "wof:id":856967235,
+    "wof:lastmodified":1464110833,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.524992,
+    41.640886,
+    -91.524992,
+    41.640886
+],
+  "geometry": {"coordinates":[-91.524992,41.640886],"type":"Point"}
+}

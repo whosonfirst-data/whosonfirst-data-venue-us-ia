@@ -1,0 +1,75 @@
+{
+  "id": 856941303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659007,41.971154,-91.659007,41.971154",
+    "geom:latitude":41.971154,
+    "geom:longitude":-91.659007,
+    "iso:country":"US",
+    "sg:address":"1010 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 2564",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vt9UK8ianfA6XnykVG1nx_41.971154_-91.659007@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109734,
+    "wof:geomhash":"696c8a41d0a3d517d2b2dc46a35fa33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856941303
+        }
+    ],
+    "wof:id":856941303,
+    "wof:lastmodified":1464109734,
+    "wof:name":"White Elephant Shop",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -91.659007,
+    41.971154,
+    -91.659007,
+    41.971154
+],
+  "geometry": {"coordinates":[-91.659007,41.971154],"type":"Point"}
+}

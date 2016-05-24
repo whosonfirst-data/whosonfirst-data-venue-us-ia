@@ -1,0 +1,71 @@
+{
+  "id": 856967867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.400197,41.304664,-95.400197,41.304664",
+    "geom:latitude":41.304664,
+    "geom:longitude":-95.400197,
+    "iso:country":"US",
+    "sg:address":"405 Chautauqua Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3697",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zBj6wdHGEtAv6ey2B7dVS_41.304664_-95.400197@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110862,
+    "wof:geomhash":"97fdaf9f8b91a90213628d302f705507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856967867
+        }
+    ],
+    "wof:id":856967867,
+    "wof:lastmodified":1464110862,
+    "wof:name":"Oakland Apartments",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.400197,
+    41.304664,
+    -95.400197,
+    41.304664
+],
+  "geometry": {"coordinates":[-95.40019700000001,41.304664],"type":"Point"}
+}

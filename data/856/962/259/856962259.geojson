@@ -1,0 +1,68 @@
+{
+  "id": 856962259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.752619,41.596337,-93.752619,41.596337",
+    "geom:latitude":41.596337,
+    "geom:longitude":-93.752619,
+    "iso:country":"US",
+    "sg:address":"3535 Westown Pl",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 4644",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ffl0pCzdjPSZCb8Vsv32f_41.596337_-93.752619@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110642,
+    "wof:geomhash":"f284a62e4ec786f65f188c39acaf9b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896539,
+            "region_id":85688713,
+            "venue_id":856962259
+        }
+    ],
+    "wof:id":856962259,
+    "wof:lastmodified":1464110642,
+    "wof:name":"GK Properties",
+    "wof:parent_id":85896539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.752619,
+    41.596337,
+    -93.752619,
+    41.596337
+],
+  "geometry": {"coordinates":[-93.752619,41.596337],"type":"Point"}
+}

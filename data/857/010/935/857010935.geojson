@@ -1,0 +1,71 @@
+{
+  "id": 857010935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.60641,41.994414,-91.60641,41.994414",
+    "geom:latitude":41.994414,
+    "geom:longitude":-91.60641,
+    "iso:country":"US",
+    "sg:address":"4262 Fox Meadow Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1212",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42lfccph9wKMeEGEGbqVlo_41.994414_-91.606410@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112816,
+    "wof:geomhash":"f02e49f6d051acdc8ae568b849f1cd68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857010935
+        }
+    ],
+    "wof:id":857010935,
+    "wof:lastmodified":1464112816,
+    "wof:name":"Special Products Co",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control"
+    ]
+},
+  "bbox": [
+    -91.60641,
+    41.994414,
+    -91.60641,
+    41.994414
+],
+  "geometry": {"coordinates":[-91.60641,41.994414],"type":"Point"}
+}

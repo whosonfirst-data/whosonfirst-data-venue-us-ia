@@ -1,0 +1,71 @@
+{
+  "id": 857061335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.486227,41.496947,-93.486227,41.496947",
+    "geom:latitude":41.496947,
+    "geom:longitude":-93.486227,
+    "iso:country":"US",
+    "sg:address":"210 S 1st St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0525",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N6L9nU9DfIzXqdg1wCzPQ_41.496947_-93.486227@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114956,
+    "wof:geomhash":"a84e36e27a5e3cc9c6945c3ef579d89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061335
+        }
+    ],
+    "wof:id":857061335,
+    "wof:lastmodified":1464114956,
+    "wof:name":"Carlisle Citizen",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -93.486227,
+    41.496947,
+    -93.486227,
+    41.496947
+],
+  "geometry": {"coordinates":[-93.486227,41.496947],"type":"Point"}
+}

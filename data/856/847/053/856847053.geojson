@@ -1,0 +1,75 @@
+{
+  "id": 856847053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534555,41.659017,-91.534555,41.659017",
+    "geom:latitude":41.659017,
+    "geom:longitude":-91.534555,
+    "iso:country":"US",
+    "sg:address":"114 S Clinton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 4453",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dp8qlfJWVnWiEQFI4rqGd_41.659017_-91.534555@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105340,
+    "wof:geomhash":"d7aade3b82789f6c787feec8357f5e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856847053
+        }
+    ],
+    "wof:id":856847053,
+    "wof:lastmodified":1464105340,
+    "wof:name":"Pet Central Station",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.534555,
+    41.659017,
+    -91.534555,
+    41.659017
+],
+  "geometry": {"coordinates":[-91.534555,41.659017],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857059295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598172,42.020806,-91.598172,42.020806",
+    "geom:latitude":42.020806,
+    "geom:longitude":-91.598172,
+    "iso:country":"US",
+    "sg:address":"975 S 11th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/marion/225984-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bxh6wg7kK9Gdn5r871fyg_42.020806_-91.598172@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114873,
+    "wof:geomhash":"c1f8a5cd2e06eb2fb847ee7e451be3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059295
+        }
+    ],
+    "wof:id":857059295,
+    "wof:lastmodified":1464114873,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.598172,
+    42.020806,
+    -91.598172,
+    42.020806
+],
+  "geometry": {"coordinates":[-91.59817200000001,42.020806],"type":"Point"}
+}

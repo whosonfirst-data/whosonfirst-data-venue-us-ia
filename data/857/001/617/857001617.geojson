@@ -1,0 +1,78 @@
+{
+  "id": 857001617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.719472,42.101104,-91.719472,42.101104",
+    "geom:latitude":42.101104,
+    "geom:longitude":-91.719472,
+    "iso:country":"US",
+    "sg:address":"3278 Rising Ln",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 2448",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27lvgpPXWAtd44mC8xtTjn_42.101104_-91.719472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112428,
+    "wof:geomhash":"80c3146d82ad7f65f2db1d017ae3932e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857001617
+        }
+    ],
+    "wof:id":857001617,
+    "wof:lastmodified":1464112428,
+    "wof:name":"Cal's Welding & Repair",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.719472,
+    42.101104,
+    -91.719472,
+    42.101104
+],
+  "geometry": {"coordinates":[-91.719472,42.101104],"type":"Point"}
+}

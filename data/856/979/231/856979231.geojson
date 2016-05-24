@@ -1,0 +1,70 @@
+{
+  "id": 856979231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.562383,41.35939,-93.562383,41.35939",
+    "geom:latitude":41.35939,
+    "geom:longitude":-93.562383,
+    "iso:country":"US",
+    "sg:address":"111 S Buxton St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9442",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.i-m-u.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68jxijTg0TX49UsjuBQZLl_41.359390_-93.562383@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111422,
+    "wof:geomhash":"a36367d27f64f2c2226598862822e86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856979231
+        }
+    ],
+    "wof:id":856979231,
+    "wof:lastmodified":1464111422,
+    "wof:name":"Indianola Light Plant",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -93.562383,
+    41.35939,
+    -93.562383,
+    41.35939
+],
+  "geometry": {"coordinates":[-93.562383,41.35939],"type":"Point"}
+}

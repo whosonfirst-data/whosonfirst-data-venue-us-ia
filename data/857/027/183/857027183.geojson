@@ -1,0 +1,73 @@
+{
+  "id": 857027183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658142,41.982097,-91.658142,41.982097",
+    "geom:latitude":41.982097,
+    "geom:longitude":-91.658142,
+    "iso:country":"US",
+    "sg:address":"205 10th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9175",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lv2douCQsrdHe9sPhlhCb_41.982097_-91.658142@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113509,
+    "wof:geomhash":"10e28d2bfdddf9fea77698cb7f47ce24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857027183
+        }
+    ],
+    "wof:id":857027183,
+    "wof:lastmodified":1464113509,
+    "wof:name":"Firestone Tire & Auto Ctr",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.658142,
+    41.982097,
+    -91.658142,
+    41.982097
+],
+  "geometry": {"coordinates":[-91.658142,41.982097],"type":"Point"}
+}

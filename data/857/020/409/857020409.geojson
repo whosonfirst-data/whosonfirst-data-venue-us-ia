@@ -1,0 +1,75 @@
+{
+  "id": 857020409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666505,41.933917,-91.666505,41.933917",
+    "geom:latitude":41.933917,
+    "geom:longitude":-91.666505,
+    "iso:country":"US",
+    "sg:address":"4870 J St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7123",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XUaVtPMD5DmxjLQVMvD6U_41.933917_-91.666505@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113207,
+    "wof:geomhash":"aef989a4ebd3db86785830218dd84caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857020409
+        }
+    ],
+    "wof:id":857020409,
+    "wof:lastmodified":1464113207,
+    "wof:name":"Commercial Towel Svc Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.666505,
+    41.933917,
+    -91.666505,
+    41.933917
+],
+  "geometry": {"coordinates":[-91.666505,41.933917],"type":"Point"}
+}

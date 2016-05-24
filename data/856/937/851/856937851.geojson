@@ -1,0 +1,73 @@
+{
+  "id": 856937851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.796617,42.062337,-91.796617,42.062337",
+    "geom:latitude":42.062337,
+    "geom:longitude":-91.796617,
+    "iso:country":"US",
+    "sg:address":"103 Dry Creek Ct",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 851 3041",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mlaw01auUlMp35sLvMWiT_42.062337_-91.796617@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109554,
+    "wof:geomhash":"3802f5a59c4ff8686d71db398b625eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856937851
+        }
+    ],
+    "wof:id":856937851,
+    "wof:lastmodified":1464109554,
+    "wof:name":"Freese Well Drilling",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -91.796617,
+    42.062337,
+    -91.796617,
+    42.062337
+],
+  "geometry": {"coordinates":[-91.796617,42.062337],"type":"Point"}
+}

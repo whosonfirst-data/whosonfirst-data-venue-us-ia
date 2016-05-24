@@ -1,0 +1,75 @@
+{
+  "id": 857000669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.676661,41.475091,-93.676661,41.475091",
+    "geom:latitude":41.475091,
+    "geom:longitude":-93.676661,
+    "iso:country":"US",
+    "sg:address":"715 Center St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 5031",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "floral",
+        "shop",
+        "design",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vvmrw0nk7QRtHKQ12RGBB_41.475091_-93.676661@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112389,
+    "wof:geomhash":"af2b07ebc70f98692a27db9fddbaeca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857000669
+        }
+    ],
+    "wof:id":857000669,
+    "wof:lastmodified":1464112389,
+    "wof:name":"Foxfire Florist",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floral",
+        "shop",
+        "design",
+        "studio"
+    ]
+},
+  "bbox": [
+    -93.676661,
+    41.475091,
+    -93.676661,
+    41.475091
+],
+  "geometry": {"coordinates":[-93.676661,41.475091],"type":"Point"}
+}

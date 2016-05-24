@@ -1,0 +1,73 @@
+{
+  "id": 856799317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.631569,41.98367,-91.631569,41.98367",
+    "geom:latitude":41.98367,
+    "geom:longitude":-91.631569,
+    "iso:country":"US",
+    "sg:address":"390 25th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5044",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hfLLkCqzDkSk9Ukr3kPdf_41.983670_-91.631569@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103171,
+    "wof:geomhash":"4ff61f3f1634b524ac6d97410d4af8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856799317
+        }
+    ],
+    "wof:id":856799317,
+    "wof:lastmodified":1464103171,
+    "wof:name":"Langan Plumbing & Heating Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.631569,
+    41.98367,
+    -91.631569,
+    41.98367
+],
+  "geometry": {"coordinates":[-91.631569,41.98367],"type":"Point"}
+}

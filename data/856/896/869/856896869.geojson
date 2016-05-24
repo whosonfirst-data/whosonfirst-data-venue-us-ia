@@ -1,0 +1,69 @@
+{
+  "id": 856896869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.782198,41.771227,-93.782198,41.771227",
+    "geom:latitude":41.771227,
+    "geom:longitude":-93.782198,
+    "iso:country":"US",
+    "sg:address":"11889 NW 115th Ave",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 334 5024",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7caBPK4gRFobxR1tr0Jih7_41.771227_-93.782198@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107936,
+    "wof:geomhash":"5ae81ae18e8e1bf902c2cbd5b3363912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":856896869
+        }
+    ],
+    "wof:id":856896869,
+    "wof:lastmodified":1464107936,
+    "wof:name":"Newell Construction",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.782198,
+    41.771227,
+    -93.782198,
+    41.771227
+],
+  "geometry": {"coordinates":[-93.78219799999999,41.771227],"type":"Point"}
+}

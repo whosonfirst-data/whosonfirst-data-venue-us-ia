@@ -1,0 +1,73 @@
+{
+  "id": 856993935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849238,41.27711,-95.849238,41.27711",
+    "geom:latitude":41.27711,
+    "geom:longitude":-95.849238,
+    "iso:country":"US",
+    "sg:address":"111 Millard St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0444",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MIvXY6F166FcW4PcWu1Le_41.277110_-95.849238@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112139,
+    "wof:geomhash":"60590cb8b45766d18135dc8d775e5ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856993935
+        }
+    ],
+    "wof:id":856993935,
+    "wof:lastmodified":1464112139,
+    "wof:name":"Sound Property Maintenance",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -95.849238,
+    41.27711,
+    -95.849238,
+    41.27711
+],
+  "geometry": {"coordinates":[-95.849238,41.27711],"type":"Point"}
+}

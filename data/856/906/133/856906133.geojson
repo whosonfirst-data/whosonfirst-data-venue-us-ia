@@ -1,0 +1,71 @@
+{
+  "id": 856906133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.493846,41.954238,-91.493846,41.954238",
+    "geom:latitude":41.954238,
+    "geom:longitude":-91.493846,
+    "iso:country":"US",
+    "sg:address":"1401 Holmans Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8776",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PINnJdd0526Q1q6zWEvaQ_41.954238_-91.493846@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108272,
+    "wof:geomhash":"3ac32eb26def22148aaafec51b891989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856906133
+        }
+    ],
+    "wof:id":856906133,
+    "wof:lastmodified":1464108272,
+    "wof:name":"Rubicon Photo",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography"
+    ]
+},
+  "bbox": [
+    -91.493846,
+    41.954238,
+    -91.493846,
+    41.954238
+],
+  "geometry": {"coordinates":[-91.493846,41.954238],"type":"Point"}
+}

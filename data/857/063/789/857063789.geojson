@@ -1,0 +1,72 @@
+{
+  "id": 857063789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.826922,41.244133,-95.826922,41.244133",
+    "geom:latitude":41.244133,
+    "geom:longitude":-95.826922,
+    "iso:country":"US",
+    "sg:address":"1751 Madison Ave Ste 434",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 6773",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.tacojohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67ptomr0EGxLms0blhkv2h_41.244133_-95.826922@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115055,
+    "wof:geomhash":"64cbbed9e1b3815f111e8c2a787c1c96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063789
+        }
+    ],
+    "wof:id":857063789,
+    "wof:lastmodified":1464115055,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.826922,
+    41.244133,
+    -95.826922,
+    41.244133
+],
+  "geometry": {"coordinates":[-95.826922,41.244133],"type":"Point"}
+}

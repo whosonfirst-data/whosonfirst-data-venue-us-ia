@@ -1,0 +1,75 @@
+{
+  "id": 856895889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.843765,41.763866,-93.843765,41.763866",
+    "geom:latitude":41.763866,
+    "geom:longitude":-93.843765,
+    "iso:country":"US",
+    "sg:address":"1882 Wendover Ave",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2845",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential",
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52AMeUXAJpqRKemiv1dIx9_41.763866_-93.843765@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107898,
+    "wof:geomhash":"dd9514cde061063d356d0550b1caeaab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856895889
+        }
+    ],
+    "wof:id":856895889,
+    "wof:lastmodified":1464107898,
+    "wof:name":"Finestead Enterprises Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.843765,
+    41.763866,
+    -93.843765,
+    41.763866
+],
+  "geometry": {"coordinates":[-93.843765,41.763866],"type":"Point"}
+}

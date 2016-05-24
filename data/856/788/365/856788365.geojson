@@ -1,0 +1,71 @@
+{
+  "id": 856788365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.728751,42.233412,-95.728751,42.233412",
+    "geom:latitude":42.233412,
+    "geom:longitude":-95.728751,
+    "iso:country":"US",
+    "sg:address":"104 1st St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 882 2566",
+    "sg:postcode":"51019",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nq13Wk0mGRxGzVGEWiNNW_42.233412_-95.728751@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102721,
+    "wof:geomhash":"9255f104995f7fdf3539a969ca7c6262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856788365
+        }
+    ],
+    "wof:id":856788365,
+    "wof:lastmodified":1464102721,
+    "wof:name":"Armstrong Funeral Homes",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -95.728751,
+    42.233412,
+    -95.728751,
+    42.233412
+],
+  "geometry": {"coordinates":[-95.728751,42.233412],"type":"Point"}
+}

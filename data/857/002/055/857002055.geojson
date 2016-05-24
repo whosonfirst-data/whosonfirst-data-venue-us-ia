@@ -1,0 +1,68 @@
+{
+  "id": 857002055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.625955,41.560395,-90.625955,41.560395",
+    "geom:latitude":41.560395,
+    "geom:longitude":-90.625955,
+    "iso:country":"US",
+    "sg:address":"3502 W Kimberly Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 359 7839",
+    "sg:postcode":"52806",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85822739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mc800WsAJUfxm6UgFCs37_41.560395_-90.625955@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112452,
+    "wof:geomhash":"696515209498f73f4b8809b383dccc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85822739,
+            "region_id":85688713,
+            "venue_id":857002055
+        }
+    ],
+    "wof:id":857002055,
+    "wof:lastmodified":1464112452,
+    "wof:name":"Rudy's Tacos",
+    "wof:parent_id":85822739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.625955,
+    41.560395,
+    -90.625955,
+    41.560395
+],
+  "geometry": {"coordinates":[-90.625955,41.560395],"type":"Point"}
+}

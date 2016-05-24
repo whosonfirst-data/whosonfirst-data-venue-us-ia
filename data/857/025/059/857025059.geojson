@@ -1,0 +1,71 @@
+{
+  "id": 857025059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.680105,41.47768,-93.680105,41.47768",
+    "geom:latitude":41.47768,
+    "geom:longitude":-93.680105,
+    "iso:country":"US",
+    "sg:address":"1010 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 4522",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65W1Kzxt2oNikUwk6fCou4_41.477680_-93.680105@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113418,
+    "wof:geomhash":"9773ab9742ad1778dfe7a05c5551c0c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857025059
+        }
+    ],
+    "wof:id":857025059,
+    "wof:lastmodified":1464113418,
+    "wof:name":"Veryls Auto Repair Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.680105,
+    41.47768,
+    -93.680105,
+    41.47768
+],
+  "geometry": {"coordinates":[-93.680105,41.47768],"type":"Point"}
+}

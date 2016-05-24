@@ -1,0 +1,73 @@
+{
+  "id": 857070723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.699608,41.892931,-91.699608,41.892931",
+    "geom:latitude":41.892931,
+    "geom:longitude":-91.699608,
+    "iso:country":"US",
+    "sg:address":"The Eastern Iowa Airport 2121 Wright Brothers Blvd. West",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9408",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zzjZ5fxvPmTNMd5Apz7KM_41.892931_-91.699608@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115366,
+    "wof:geomhash":"5af7b408ecadf3b16a4c0547d01600d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070723
+        }
+    ],
+    "wof:id":857070723,
+    "wof:lastmodified":1464115366,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -91.699608,
+    41.892931,
+    -91.699608,
+    41.892931
+],
+  "geometry": {"coordinates":[-91.699608,41.892931],"type":"Point"}
+}

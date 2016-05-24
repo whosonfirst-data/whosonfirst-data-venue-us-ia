@@ -1,0 +1,73 @@
+{
+  "id": 856855983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659743,41.94852,-91.659743,41.94852",
+    "geom:latitude":41.94852,
+    "geom:longitude":-91.659743,
+    "iso:country":"US",
+    "sg:address":"45 29th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5684",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BpA2VFgm7Q5l0VPIB2fjN_41.948520_-91.659743@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105797,
+    "wof:geomhash":"682d647ec93b395611721df4a5993df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856855983
+        }
+    ],
+    "wof:id":856855983,
+    "wof:lastmodified":1464105797,
+    "wof:name":"Brechts Catering",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.659743,
+    41.94852,
+    -91.659743,
+    41.94852
+],
+  "geometry": {"coordinates":[-91.65974300000001,41.94852],"type":"Point"}
+}

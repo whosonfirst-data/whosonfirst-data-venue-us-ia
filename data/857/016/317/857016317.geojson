@@ -1,0 +1,74 @@
+{
+  "id": 857016317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.786575,42.190986,-91.786575,42.190986",
+    "geom:latitude":42.190986,
+    "geom:longitude":-91.786575,
+    "iso:country":"US",
+    "sg:address":"826 Summit St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 2298",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "sg:website":"www.comsoftdev.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028d2KcA8L5zUxAPtLHnfO_42.190986_-91.786575@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113049,
+    "wof:geomhash":"dc440ede9fcea741aeda33198bb4ae9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857016317
+        }
+    ],
+    "wof:id":857016317,
+    "wof:lastmodified":1464113049,
+    "wof:name":"Computer Software Development",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -91.786575,
+    42.190986,
+    -91.786575,
+    42.190986
+],
+  "geometry": {"coordinates":[-91.786575,42.190986],"type":"Point"}
+}

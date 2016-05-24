@@ -1,0 +1,73 @@
+{
+  "id": 857064055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.826208,41.238825,-95.826208,41.238825",
+    "geom:latitude":41.238825,
+    "geom:longitude":-95.826208,
+    "iso:country":"US",
+    "sg:address":"900 Woodbury Ave Ste 9",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8301",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20OLqZ2bKujVnoBT62nZFk_41.238825_-95.826208@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115064,
+    "wof:geomhash":"d34b8e0c93e735621dedf929e028dd0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857064055
+        }
+    ],
+    "wof:id":857064055,
+    "wof:lastmodified":1464115064,
+    "wof:name":"Jennie Edmundson Hospital",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -95.826208,
+    41.238825,
+    -95.826208,
+    41.238825
+],
+  "geometry": {"coordinates":[-95.82620799999999,41.238825],"type":"Point"}
+}

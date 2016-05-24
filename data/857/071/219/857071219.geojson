@@ -1,0 +1,72 @@
+{
+  "id": 857071219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715079,41.974671,-91.715079,41.974671",
+    "geom:latitude":41.974671,
+    "geom:longitude":-91.715079,
+    "iso:country":"US",
+    "sg:address":"3300 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1181",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"elsuperburritocedarrapids.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PzIVUgAWEqpY2Gl0kWPHk_41.974671_-91.715079@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115383,
+    "wof:geomhash":"735615bd72ff7f491e455a683eb03a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071219
+        }
+    ],
+    "wof:id":857071219,
+    "wof:lastmodified":1464115383,
+    "wof:name":"El Super Burrito",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.715079,
+    41.974671,
+    -91.715079,
+    41.974671
+],
+  "geometry": {"coordinates":[-91.715079,41.974671],"type":"Point"}
+}

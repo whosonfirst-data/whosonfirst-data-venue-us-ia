@@ -1,0 +1,66 @@
+{
+  "id": 857071141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.733163,41.968568,-91.733163,41.968568",
+    "geom:latitude":41.968568,
+    "geom:longitude":-91.733163,
+    "iso:country":"US",
+    "sg:address":"4830 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3465",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QXpjI5xRIVxmOpNGmFQeE_41.968568_-91.733163@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115380,
+    "wof:geomhash":"39dab0cf4e1d4c676b95f19a7c5ad1e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071141
+        }
+    ],
+    "wof:id":857071141,
+    "wof:lastmodified":1464115380,
+    "wof:name":"Hawkeye Convenience Stores",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.733163,
+    41.968568,
+    -91.733163,
+    41.968568
+],
+  "geometry": {"coordinates":[-91.733163,41.968568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857068273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.635498,42.003502,-91.635498,42.003502",
+    "geom:latitude":42.003502,
+    "geom:longitude":-91.635498,
+    "iso:country":"US",
+    "sg:address":"116 27th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0622",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q7CLSTmJD81htwz7abwse_42.003502_-91.635498@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115252,
+    "wof:geomhash":"b22ea9fc33884a4b9174f57804d51ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068273
+        }
+    ],
+    "wof:id":857068273,
+    "wof:lastmodified":1464115252,
+    "wof:name":"Barb's Computer Sales & Service",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -91.635498,
+    42.003502,
+    -91.635498,
+    42.003502
+],
+  "geometry": {"coordinates":[-91.635498,42.003502],"type":"Point"}
+}

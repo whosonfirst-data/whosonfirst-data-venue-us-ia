@@ -1,0 +1,71 @@
+{
+  "id": 856988597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.812088,41.23435,-95.812088,41.23435",
+    "geom:latitude":41.23435,
+    "geom:longitude":-95.812088,
+    "iso:country":"US",
+    "sg:address":"70 Caribou Cir",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1459",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71d3QmJJ2rc4iNVMqxHgrf_41.234350_-95.812088@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111895,
+    "wof:geomhash":"dacc6a11c610b2ff769346fa96e0dc07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856988597
+        }
+    ],
+    "wof:id":856988597,
+    "wof:lastmodified":1464111895,
+    "wof:name":"River City Painting",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.812088,
+    41.23435,
+    -95.812088,
+    41.23435
+],
+  "geometry": {"coordinates":[-95.812088,41.23435],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857052491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.875397,41.256699,-95.875397,41.256699",
+    "geom:latitude":41.256699,
+    "geom:longitude":-95.875397,
+    "iso:country":"US",
+    "sg:address":"506 S 21st St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2206",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Agf7doT8BmWBs1Y6qXagc_41.256291_-95.875388@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114596,
+    "wof:geomhash":"8b3cac8b53b8280a3122ec5d4bbbfba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857052491
+        }
+    ],
+    "wof:id":857052491,
+    "wof:lastmodified":1464114596,
+    "wof:name":"Paul's Shoe Shop",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -95.875397,
+    41.256699,
+    -95.875397,
+    41.256699
+],
+  "geometry": {"coordinates":[-95.87539700000001,41.256699],"type":"Point"}
+}

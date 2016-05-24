@@ -1,0 +1,73 @@
+{
+  "id": 856936759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.696534,42.164308,-91.696534,42.164308",
+    "geom:latitude":42.164308,
+    "geom:longitude":-91.696534,
+    "iso:country":"US",
+    "sg:address":"4197 Alice Rd",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 350 3521",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q6ghOu3zWdkc3EMFLOfKF_42.164308_-91.696534@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109504,
+    "wof:geomhash":"62505fe2bb4c6e2e8297c328fe83a170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856936759
+        }
+    ],
+    "wof:id":856936759,
+    "wof:lastmodified":1464109504,
+    "wof:name":"Sarazin Landscapes",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.696534,
+    42.164308,
+    -91.696534,
+    42.164308
+],
+  "geometry": {"coordinates":[-91.696534,42.164308],"type":"Point"}
+}

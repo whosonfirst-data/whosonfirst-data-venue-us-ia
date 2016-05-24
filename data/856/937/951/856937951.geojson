@@ -1,0 +1,69 @@
+{
+  "id": 856937951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.79162,41.842764,-93.79162,41.842764",
+    "geom:latitude":41.842764,
+    "geom:longitude":-93.79162,
+    "iso:country":"US",
+    "sg:address":"15152 NW Madrid Dr",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 795 2777",
+    "sg:postcode":"50156",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vSPCXZaeVr67x4TwNHb8V_41.842764_-93.791620@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109557,
+    "wof:geomhash":"84104453bcfb850ad0f0f938f19a4453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":856937951
+        }
+    ],
+    "wof:id":856937951,
+    "wof:lastmodified":1464109557,
+    "wof:name":"Brians Repair",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.79162,
+    41.842764,
+    -93.79162,
+    41.842764
+],
+  "geometry": {"coordinates":[-93.79161999999999,41.842764],"type":"Point"}
+}

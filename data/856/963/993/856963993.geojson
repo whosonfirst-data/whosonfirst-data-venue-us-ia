@@ -1,0 +1,76 @@
+{
+  "id": 856963993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6161,41.976747,-91.6161,41.976747",
+    "geom:latitude":41.976747,
+    "geom:longitude":-91.6161,
+    "iso:country":"US",
+    "sg:address":"3605 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1772",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5213nVH8nNOrzZjTnSpeop_41.976747_-91.616100@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110706,
+    "wof:geomhash":"3a3c91a22c45f979bf6545b160136b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856963993
+        }
+    ],
+    "wof:id":856963993,
+    "wof:lastmodified":1464110706,
+    "wof:name":"Cedar Rapids Woman S Club",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -91.6161,
+    41.976747,
+    -91.6161,
+    41.976747
+],
+  "geometry": {"coordinates":[-91.6161,41.976747],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856863725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.641867,41.528273,-93.641867,41.528273",
+    "geom:latitude":41.528273,
+    "geom:longitude":-93.641867,
+    "iso:country":"US",
+    "sg:address":"1808 Leland Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 287 0044",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QchzVlDY7rQZeoVvNk0rX_41.528273_-93.641867@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106146,
+    "wof:geomhash":"6b876a3a896c66a87cc866f8e734fbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896397,
+            "region_id":85688713,
+            "venue_id":856863725
+        }
+    ],
+    "wof:id":856863725,
+    "wof:lastmodified":1464106146,
+    "wof:name":"Walton Car Svc",
+    "wof:parent_id":85896397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.641867,
+    41.528273,
+    -93.641867,
+    41.528273
+],
+  "geometry": {"coordinates":[-93.641867,41.528273],"type":"Point"}
+}

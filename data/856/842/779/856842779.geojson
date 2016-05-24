@@ -1,0 +1,71 @@
+{
+  "id": 856842779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.575784,42.035736,-91.575784,42.035736",
+    "geom:latitude":42.035736,
+    "geom:longitude":-91.575784,
+    "iso:country":"US",
+    "sg:address":"3200 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 2168",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ajRahAY3HBpGCgiALWvpF_42.035736_-91.575784@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105124,
+    "wof:geomhash":"b784de975bbc7471c28fea9a16ac7067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856842779
+        }
+    ],
+    "wof:id":856842779,
+    "wof:lastmodified":1464105124,
+    "wof:name":"Econofoods",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.575784,
+    42.035736,
+    -91.575784,
+    42.035736
+],
+  "geometry": {"coordinates":[-91.575784,42.035736],"type":"Point"}
+}

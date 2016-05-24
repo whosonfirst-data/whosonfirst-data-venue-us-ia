@@ -1,0 +1,71 @@
+{
+  "id": 857067463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659698,41.9958,-91.659698,41.9958",
+    "geom:latitude":41.9958,
+    "geom:longitude":-91.659698,
+    "iso:country":"US",
+    "sg:address":"901 Oakland Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 6447",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aeCNipECJiTwzprHwjfxr_41.995800_-91.659698@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115203,
+    "wof:geomhash":"1dfb209b536ffe741960902499f338c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067463
+        }
+    ],
+    "wof:id":857067463,
+    "wof:lastmodified":1464115203,
+    "wof:name":"Cedar Valley Sports Ltd",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -91.659698,
+    41.9958,
+    -91.659698,
+    41.9958
+],
+  "geometry": {"coordinates":[-91.65969800000001,41.9958],"type":"Point"}
+}

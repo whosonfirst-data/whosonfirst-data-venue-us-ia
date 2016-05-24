@@ -1,0 +1,79 @@
+{
+  "id": 856919707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.340632,41.188022,-95.340632,41.188022",
+    "geom:latitude":41.188022,
+    "geom:longitude":-95.340632,
+    "iso:country":"US",
+    "sg:address":"44551 Pioneer Trl",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 486 2461",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feedlot",
+        "corn",
+        "soybean",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kuZ3LOE17DTMeU3GGwmeJ_41.188022_-95.340632@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108799,
+    "wof:geomhash":"9dfef4dd5e7e3ace756ea18127dd48e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856919707
+        }
+    ],
+    "wof:id":856919707,
+    "wof:lastmodified":1464108799,
+    "wof:name":"Houser Farms",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "corn",
+        "soybean",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -95.340632,
+    41.188022,
+    -95.340632,
+    41.188022
+],
+  "geometry": {"coordinates":[-95.340632,41.188022],"type":"Point"}
+}

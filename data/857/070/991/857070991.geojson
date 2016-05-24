@@ -1,0 +1,83 @@
+{
+  "id": 857070991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67419,41.928766,-91.67419,41.928766",
+    "geom:latitude":41.928766,
+    "geom:longitude":-91.67419,
+    "iso:country":"US",
+    "sg:address":"5042 4th St SW Ste D",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 731 0199",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil",
+        "change",
+        "tire"
+    ],
+    "sg:website":"www.atsautomotivesolutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rl56uLYhR7m7PqBkZKLNb_41.928766_-91.674190@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115375,
+    "wof:geomhash":"65f6ad6028aa3c4e502148ea5c13e467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070991
+        }
+    ],
+    "wof:id":857070991,
+    "wof:lastmodified":1464115375,
+    "wof:name":"ATS Automotive",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "change",
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.67419,
+    41.928766,
+    -91.67419,
+    41.928766
+],
+  "geometry": {"coordinates":[-91.67419,41.928766],"type":"Point"}
+}

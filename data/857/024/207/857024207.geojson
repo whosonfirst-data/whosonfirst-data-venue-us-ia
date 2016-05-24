@@ -1,0 +1,73 @@
+{
+  "id": 857024207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.338752,41.475532,-95.338752,41.475532",
+    "geom:latitude":41.475532,
+    "geom:longitude":-95.338752,
+    "iso:country":"US",
+    "sg:address":"309 W Lyon St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2294",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_084SeHLG0mKzKBqslG33pq_41.475532_-95.338752@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113371,
+    "wof:geomhash":"baca42ac6f06c213eb969ed3a95622ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857024207
+        }
+    ],
+    "wof:id":857024207,
+    "wof:lastmodified":1464113371,
+    "wof:name":"Sievers Plumbing Corp",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.338752,
+    41.475532,
+    -95.338752,
+    41.475532
+],
+  "geometry": {"coordinates":[-95.338752,41.475532],"type":"Point"}
+}

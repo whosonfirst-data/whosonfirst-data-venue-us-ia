@@ -1,0 +1,73 @@
+{
+  "id": 856880733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659498,41.982628,-91.659498,41.982628",
+    "geom:latitude":41.982628,
+    "geom:longitude":-91.659498,
+    "iso:country":"US",
+    "sg:address":"860 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 8782",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xok7anUkXDwVc8TVlhrzT_41.982628_-91.659498@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107184,
+    "wof:geomhash":"efa625e18cf9668d1d64f8414fdf77e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856880733
+        }
+    ],
+    "wof:id":856880733,
+    "wof:lastmodified":1464107184,
+    "wof:name":"Cedar Rapids Hearing Ctr",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -91.659498,
+    41.982628,
+    -91.659498,
+    41.982628
+],
+  "geometry": {"coordinates":[-91.659498,41.982628],"type":"Point"}
+}

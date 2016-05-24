@@ -1,0 +1,71 @@
+{
+  "id": 857013197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.704036,42.021774,-91.704036,42.021774",
+    "geom:latitude":42.021774,
+    "geom:longitude":-91.704036,
+    "iso:country":"US",
+    "sg:address":"4401 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6127",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qpFOFKJepq57kFbTMt9LC_42.021774_-91.704036@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112917,
+    "wof:geomhash":"2308d2b4c20017b6489a37371b633c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857013197
+        }
+    ],
+    "wof:id":857013197,
+    "wof:lastmodified":1464112917,
+    "wof:name":"Seventh-Day Adventist Church",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.704036,
+    42.021774,
+    -91.704036,
+    42.021774
+],
+  "geometry": {"coordinates":[-91.704036,42.021774],"type":"Point"}
+}

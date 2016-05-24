@@ -1,0 +1,71 @@
+{
+  "id": 856786631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664379,42.012826,-91.664379,42.012826",
+    "geom:latitude":42.012826,
+    "geom:longitude":-91.664379,
+    "iso:country":"US",
+    "sg:address":"1870 McCloud Pl NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4333",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mb9qVvL46faZAhsW6B3az_42.012826_-91.664379@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102641,
+    "wof:geomhash":"c446f66b46fd186f4768adb97748854a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856786631
+        }
+    ],
+    "wof:id":856786631,
+    "wof:lastmodified":1464102641,
+    "wof:name":"Adams Door Co",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -91.664379,
+    42.012826,
+    -91.664379,
+    42.012826
+],
+  "geometry": {"coordinates":[-91.664379,42.012826],"type":"Point"}
+}

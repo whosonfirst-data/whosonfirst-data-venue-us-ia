@@ -1,0 +1,71 @@
+{
+  "id": 857049751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.856796,41.2617,-95.856796,41.2617",
+    "geom:latitude":41.2617,
+    "geom:longitude":-95.856796,
+    "iso:country":"US",
+    "sg:address":"825 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 1441",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58Ykk2OCkgrhjwoYXcwavO_41.261732_-95.857207@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114478,
+    "wof:geomhash":"aef793d61f92ad1773b567c74a6fd6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857049751
+        }
+    ],
+    "wof:id":857049751,
+    "wof:lastmodified":1464114478,
+    "wof:name":"Kelly's Furniture",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -95.856796,
+    41.2617,
+    -95.856796,
+    41.2617
+],
+  "geometry": {"coordinates":[-95.856796,41.2617],"type":"Point"}
+}

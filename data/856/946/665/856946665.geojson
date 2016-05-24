@@ -1,0 +1,71 @@
+{
+  "id": 856946665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.838144,41.267593,-95.838144,41.267593",
+    "geom:latitude":41.267593,
+    "geom:longitude":-95.838144,
+    "iso:country":"US",
+    "sg:address":"701 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7333",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zoVvhFeIm5yXtl4toSrCo_41.267593_-95.838144@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109942,
+    "wof:geomhash":"2e5ce74d01110a553e8493222bd5afc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856946665
+        }
+    ],
+    "wof:id":856946665,
+    "wof:lastmodified":1464109942,
+    "wof:name":"Fine Line Salon",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.838144,
+    41.267593,
+    -95.838144,
+    41.267593
+],
+  "geometry": {"coordinates":[-95.838144,41.267593],"type":"Point"}
+}

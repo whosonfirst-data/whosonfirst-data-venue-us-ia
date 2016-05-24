@@ -1,0 +1,73 @@
+{
+  "id": 856871493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.37622,42.404924,-96.37622,42.404924",
+    "geom:latitude":42.404924,
+    "geom:longitude":-96.37622,
+    "iso:country":"US",
+    "sg:address":"5815 Mitchell St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 8181",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A15ZJySi4Aqj0y38B3CTD_42.404924_-96.376220@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106707,
+    "wof:geomhash":"bdc7d43f6234f506ed2226d000788874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856871493
+        }
+    ],
+    "wof:id":856871493,
+    "wof:lastmodified":1464106707,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.37622,
+    42.404924,
+    -96.37622,
+    42.404924
+],
+  "geometry": {"coordinates":[-96.37622,42.404924],"type":"Point"}
+}

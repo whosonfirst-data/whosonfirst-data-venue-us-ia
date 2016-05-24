@@ -1,0 +1,73 @@
+{
+  "id": 856788627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.228189,41.518029,-94.228189,41.518029",
+    "geom:latitude":41.518029,
+    "geom:longitude":-94.228189,
+    "iso:country":"US",
+    "sg:address":"806 Marshall St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4478",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74mdPSYjmsSOvMFmsQjA4F_41.518029_-94.228189@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102731,
+    "wof:geomhash":"f9cc50e704cf83a4008a58b04432ec68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856788627
+        }
+    ],
+    "wof:id":856788627,
+    "wof:lastmodified":1464102731,
+    "wof:name":"Apple Plumbing & Electric",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.228189,
+    41.518029,
+    -94.228189,
+    41.518029
+],
+  "geometry": {"coordinates":[-94.228189,41.518029],"type":"Point"}
+}

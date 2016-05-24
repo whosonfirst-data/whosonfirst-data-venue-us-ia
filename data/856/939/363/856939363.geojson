@@ -1,0 +1,73 @@
+{
+  "id": 856939363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.542568,41.908777,-91.542568,41.908777",
+    "geom:latitude":41.908777,
+    "geom:longitude":-91.542568,
+    "iso:country":"US",
+    "sg:address":"652 Old School Rd",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 8061",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rvzSNbE28yNfbkiEAYted_41.908777_-91.542568@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109641,
+    "wof:geomhash":"5d2aacc2705649e42dac794076597fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856939363
+        }
+    ],
+    "wof:id":856939363,
+    "wof:lastmodified":1464109641,
+    "wof:name":"Davison Homes",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.542568,
+    41.908777,
+    -91.542568,
+    41.908777
+],
+  "geometry": {"coordinates":[-91.542568,41.908777],"type":"Point"}
+}

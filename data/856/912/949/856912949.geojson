@@ -1,0 +1,71 @@
+{
+  "id": 856912949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620719,41.667834,-93.620719,41.667834",
+    "geom:latitude":41.667834,
+    "geom:longitude":-93.620719,
+    "iso:country":"US",
+    "sg:address":"5950 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 1541",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "outboard",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g7MHpfEkXH5bouhGhxFut_41.667834_-93.620719@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108540,
+    "wof:geomhash":"9fb674317b2beff48625fdc7b1a559f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856912949
+        }
+    ],
+    "wof:id":856912949,
+    "wof:lastmodified":1464108540,
+    "wof:name":"Dave's Marine & Sports",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outboard",
+        "motor"
+    ]
+},
+  "bbox": [
+    -93.620719,
+    41.667834,
+    -93.620719,
+    41.667834
+],
+  "geometry": {"coordinates":[-93.62071899999999,41.667834],"type":"Point"}
+}

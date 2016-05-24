@@ -1,0 +1,77 @@
+{
+  "id": 856844175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.687024,41.555469,-93.687024,41.555469",
+    "geom:latitude":41.555469,
+    "geom:longitude":-93.687024,
+    "iso:country":"US",
+    "sg:address":"5110 Park Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 1650",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C7GgNRmsfcIaz8sNZjQci_41.555469_-93.687024@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105184,
+    "wof:geomhash":"2c2b3c63d93fd03e16a8c07e87b94694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877107,
+            "region_id":85688713,
+            "venue_id":856844175
+        }
+    ],
+    "wof:id":856844175,
+    "wof:lastmodified":1464105184,
+    "wof:name":"UJC Electronics",
+    "wof:parent_id":85877107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ]
+},
+  "bbox": [
+    -93.687024,
+    41.555469,
+    -93.687024,
+    41.555469
+],
+  "geometry": {"coordinates":[-93.68702399999999,41.555469],"type":"Point"}
+}

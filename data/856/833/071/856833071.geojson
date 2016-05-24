@@ -1,0 +1,73 @@
+{
+  "id": 856833071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.706463,42.013108,-91.706463,42.013108",
+    "geom:latitude":42.013108,
+    "geom:longitude":-91.706463,
+    "iso:country":"US",
+    "sg:address":"4726 Riverside Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 2400",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h0nhAvVNqopA8UO51B7PP_42.013108_-91.706463@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104662,
+    "wof:geomhash":"5e46014c0e4ee8a596499b22fa32ede4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856833071
+        }
+    ],
+    "wof:id":856833071,
+    "wof:lastmodified":1464104662,
+    "wof:name":"Home Medical Equipment",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.706463,
+    42.013108,
+    -91.706463,
+    42.013108
+],
+  "geometry": {"coordinates":[-91.706463,42.013108],"type":"Point"}
+}

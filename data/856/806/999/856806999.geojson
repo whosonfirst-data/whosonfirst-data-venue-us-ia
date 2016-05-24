@@ -1,0 +1,71 @@
+{
+  "id": 856806999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648062,41.95571,-91.648062,41.95571",
+    "geom:latitude":41.95571,
+    "geom:longitude":-91.648062,
+    "iso:country":"US",
+    "sg:address":"713 Wilson Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4849",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DWZpmaUaeJNjVwPoRDlXx_41.955710_-91.648062@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103494,
+    "wof:geomhash":"0b85e1538e777f7fc093ab0aac0adf90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856806999
+        }
+    ],
+    "wof:id":856806999,
+    "wof:lastmodified":1464103494,
+    "wof:name":"Reyhons Construction",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.648062,
+    41.95571,
+    -91.648062,
+    41.95571
+],
+  "geometry": {"coordinates":[-91.648062,41.95571],"type":"Point"}
+}

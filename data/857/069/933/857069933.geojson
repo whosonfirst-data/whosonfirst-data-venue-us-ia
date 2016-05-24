@@ -1,0 +1,86 @@
+{
+  "id": 857069933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673137,41.976601,-91.673137,41.976601",
+    "geom:latitude":41.976601,
+    "geom:longitude":-91.673137,
+    "iso:country":"US",
+    "sg:address":"100 1st St SW Ste 111",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3122",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.mortgageforall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YAUyu3mEaZQKIDpkPUgu3_41.976601_-91.673137@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115329,
+    "wof:geomhash":"28ac37c13ac47797ba279b60a09862f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857069933
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857069933
+        }
+    ],
+    "wof:id":857069933,
+    "wof:lastmodified":1464115329,
+    "wof:name":"Residential Mortgage Network Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -91.673137,
+    41.976601,
+    -91.673137,
+    41.976601
+],
+  "geometry": {"coordinates":[-91.673137,41.976601],"type":"Point"}
+}

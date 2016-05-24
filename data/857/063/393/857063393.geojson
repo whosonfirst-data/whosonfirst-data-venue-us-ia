@@ -1,0 +1,72 @@
+{
+  "id": 857063393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.844916,41.262802,-95.844916,41.262802",
+    "geom:latitude":41.262802,
+    "geom:longitude":-95.844916,
+    "iso:country":"US",
+    "sg:address":"146 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 5471",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.christyleshairstudio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zD84bbNAX4kXfvaSP9hQH_41.262802_-95.844916@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115035,
+    "wof:geomhash":"40c4035945f9308d7cf1420e68b67a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063393
+        }
+    ],
+    "wof:id":857063393,
+    "wof:lastmodified":1464115035,
+    "wof:name":"Christyles Hair Studio",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -95.844916,
+    41.262802,
+    -95.844916,
+    41.262802
+],
+  "geometry": {"coordinates":[-95.844916,41.262802],"type":"Point"}
+}

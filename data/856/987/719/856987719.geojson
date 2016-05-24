@@ -1,0 +1,66 @@
+{
+  "id": 856987719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.961102,41.684317,-93.961102,41.684317",
+    "geom:latitude":41.684317,
+    "geom:longitude":-93.961102,
+    "iso:country":"US",
+    "sg:address":"504 14th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3784",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26WFSJqG4VNWGRDdQIdyn3_41.684317_-93.961102@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111861,
+    "wof:geomhash":"7de5af87898b1ff9f5b8e4ba5075ef5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856987719
+        }
+    ],
+    "wof:id":856987719,
+    "wof:lastmodified":1464111861,
+    "wof:name":"Medicap Pharmacy",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.961102,
+    41.684317,
+    -93.961102,
+    41.684317
+],
+  "geometry": {"coordinates":[-93.961102,41.684317],"type":"Point"}
+}

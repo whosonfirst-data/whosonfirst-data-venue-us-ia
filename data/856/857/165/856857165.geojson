@@ -1,0 +1,77 @@
+{
+  "id": 856857165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.611604,41.582565,-93.611604,41.582565",
+    "geom:latitude":41.582565,
+    "geom:longitude":-93.611604,
+    "iso:country":"US",
+    "sg:address":"209 Raccoon St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 4834",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yio1xFdwGCWU5PeYxc1r4_41.582565_-93.611604@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105849,
+    "wof:geomhash":"eb586ae710b2b6a2fb1a5dabe13d626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856857165
+        }
+    ],
+    "wof:id":856857165,
+    "wof:lastmodified":1464105849,
+    "wof:name":"TMC Auto Body",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.611604,
+    41.582565,
+    -93.611604,
+    41.582565
+],
+  "geometry": {"coordinates":[-93.611604,41.582565],"type":"Point"}
+}

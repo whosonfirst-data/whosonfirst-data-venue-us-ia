@@ -1,0 +1,77 @@
+{
+  "id": 857018671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.594442,41.58185,-93.594442,41.58185",
+    "geom:latitude":41.58185,
+    "geom:longitude":-93.594442,
+    "iso:country":"US",
+    "sg:address":"722 SE 15th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 8050",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EdYNaACCwSgepVlWjdxS9_41.581850_-93.594442@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113140,
+    "wof:geomhash":"19ba85dcce8055af81eed2ac9fd5ea4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":857018671
+        }
+    ],
+    "wof:id":857018671,
+    "wof:lastmodified":1464113140,
+    "wof:name":"Storm Auto LTD",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.594442,
+    41.58185,
+    -93.594442,
+    41.58185
+],
+  "geometry": {"coordinates":[-93.594442,41.58185],"type":"Point"}
+}

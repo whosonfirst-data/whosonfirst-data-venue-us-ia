@@ -1,0 +1,71 @@
+{
+  "id": 856872341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.361286,42.472393,-96.361286,42.472393",
+    "geom:latitude":42.472393,
+    "geom:longitude":-96.361286,
+    "iso:country":"US",
+    "sg:address":"1700 Sioux Trl",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 5119",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Se2d6Tp78l3XeE3vSzld3_42.472393_-96.361286@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106775,
+    "wof:geomhash":"3a4c87e35537151d50d77af7f640af8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856872341
+        }
+    ],
+    "wof:id":856872341,
+    "wof:lastmodified":1464106775,
+    "wof:name":"Girls Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -96.361286,
+    42.472393,
+    -96.361286,
+    42.472393
+],
+  "geometry": {"coordinates":[-96.36128600000001,42.472393],"type":"Point"}
+}

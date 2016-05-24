@@ -1,0 +1,66 @@
+{
+  "id": 856885245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.82039,41.760902,-93.82039,41.760902",
+    "geom:latitude":41.760902,
+    "geom:longitude":-93.82039,
+    "iso:country":"US",
+    "sg:address":"1902 Main St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2513",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00MdQGX04xcPZa5KkluRbs_41.760902_-93.820390@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107480,
+    "wof:geomhash":"2f53136e88f076dc178bac9a5f14aa06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856885245
+        }
+    ],
+    "wof:id":856885245,
+    "wof:lastmodified":1464107480,
+    "wof:name":"Neon Moon",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.82039,
+    41.760902,
+    -93.82039,
+    41.760902
+],
+  "geometry": {"coordinates":[-93.82039,41.760902],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856880605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.609606,41.985564,-91.609606,41.985564",
+    "geom:latitude":41.985564,
+    "geom:longitude":-91.609606,
+    "iso:country":"US",
+    "sg:address":"395 Red Fox Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8567",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pt7Wq4zwZM6IVCRwdoJnN_41.985564_-91.609606@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107180,
+    "wof:geomhash":"cc7285918cce183312a0d81a11a6a8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856880605
+        }
+    ],
+    "wof:id":856880605,
+    "wof:lastmodified":1464107180,
+    "wof:name":"Wayne Mead Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -91.609606,
+    41.985564,
+    -91.609606,
+    41.985564
+],
+  "geometry": {"coordinates":[-91.609606,41.985564],"type":"Point"}
+}

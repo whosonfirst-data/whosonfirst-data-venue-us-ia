@@ -1,0 +1,73 @@
+{
+  "id": 856806571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523752,42.003761,-91.523752,42.003761",
+    "geom:latitude":42.003761,
+    "geom:longitude":-91.523752,
+    "iso:country":"US",
+    "sg:address":"1625 Fox Hollow Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 5333",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YmB3lHZ6U5m1wyNOKLMqx_42.003761_-91.523752@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103477,
+    "wof:geomhash":"d0705444896baac2feac9133e2891b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856806571
+        }
+    ],
+    "wof:id":856806571,
+    "wof:lastmodified":1464103477,
+    "wof:name":"Richard Emig",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.523752,
+    42.003761,
+    -91.523752,
+    42.003761
+],
+  "geometry": {"coordinates":[-91.523752,42.003761],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856852669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.47601,42.521203,-96.47601,42.521203",
+    "geom:latitude":42.521203,
+    "geom:longitude":-96.47601,
+    "iso:country":"US",
+    "sg:address":"5129 Military Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 8851",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GxgGLgfa81nE1GtMqgqez_42.521203_-96.476010@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105666,
+    "wof:geomhash":"5e09613eb5da67d934ceb41d09bbb6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856852669
+        }
+    ],
+    "wof:id":856852669,
+    "wof:lastmodified":1464105666,
+    "wof:name":"Disabled American Veterans",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -96.47601,
+    42.521203,
+    -96.47601,
+    42.521203
+],
+  "geometry": {"coordinates":[-96.47601,42.521203],"type":"Point"}
+}

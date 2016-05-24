@@ -1,0 +1,76 @@
+{
+  "id": 857069877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632896,42.007198,-91.632896,42.007198",
+    "geom:latitude":42.007198,
+    "geom:longitude":-91.632896,
+    "iso:country":"US",
+    "sg:address":"3030 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2346",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gDh1RZaWOPRo9DPEqRGXn_42.007198_-91.632896@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115327,
+    "wof:geomhash":"8e8c9a46a29d0f347c754067593e3892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069877
+        }
+    ],
+    "wof:id":857069877,
+    "wof:lastmodified":1464115327,
+    "wof:name":"MacLean Management Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -91.632896,
+    42.007198,
+    -91.632896,
+    42.007198
+],
+  "geometry": {"coordinates":[-91.632896,42.007198],"type":"Point"}
+}

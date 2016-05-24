@@ -1,0 +1,68 @@
+{
+  "id": 856866761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665048,41.97708,-91.665048,41.97708",
+    "geom:latitude":41.97708,
+    "geom:longitude":-91.665048,
+    "iso:country":"US",
+    "sg:address":"324 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 6983",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WKK604h81CyWaskpC8geZ_41.977080_-91.665048@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106302,
+    "wof:geomhash":"719f21a2fcabab3b9382d64daa63fcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856866761
+        }
+    ],
+    "wof:id":856866761,
+    "wof:lastmodified":1464106302,
+    "wof:name":"Axa Advisors",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.665048,
+    41.97708,
+    -91.665048,
+    41.97708
+],
+  "geometry": {"coordinates":[-91.665048,41.97708],"type":"Point"}
+}

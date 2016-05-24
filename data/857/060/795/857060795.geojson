@@ -1,0 +1,74 @@
+{
+  "id": 857060795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.786243,42.19168,-91.786243,42.19168",
+    "geom:latitude":42.19168,
+    "geom:longitude":-91.786243,
+    "iso:country":"US",
+    "sg:address":"905 Main St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/washington/237511-paul-reveres-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 1033",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rlw4bbr05toxvYxOFFksx_42.192124_-91.786740@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114928,
+    "wof:geomhash":"00466f61e9ccd6c6cdabc2556fa26235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857060795
+        }
+    ],
+    "wof:id":857060795,
+    "wof:lastmodified":1464114928,
+    "wof:name":"Paul Revere's Pizza",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.786243,
+    42.19168,
+    -91.786243,
+    42.19168
+],
+  "geometry": {"coordinates":[-91.786243,42.19168],"type":"Point"}
+}

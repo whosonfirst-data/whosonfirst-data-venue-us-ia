@@ -1,0 +1,73 @@
+{
+  "id": 856946615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633297,42.05164,-91.633297,42.05164",
+    "geom:latitude":42.05164,
+    "geom:longitude":-91.633297,
+    "iso:country":"US",
+    "sg:address":"7500 Hampshire Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 5869",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OzcRaJCIRLAidyoH6tBdD_42.051640_-91.633297@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109940,
+    "wof:geomhash":"9f8448db8d29f7e1fa98ca5cf956af95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856946615
+        }
+    ],
+    "wof:id":856946615,
+    "wof:lastmodified":1464109940,
+    "wof:name":"TSS Group",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -91.633297,
+    42.05164,
+    -91.633297,
+    42.05164
+],
+  "geometry": {"coordinates":[-91.633297,42.05164],"type":"Point"}
+}

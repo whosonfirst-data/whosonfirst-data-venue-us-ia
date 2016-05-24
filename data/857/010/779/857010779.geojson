@@ -1,0 +1,71 @@
+{
+  "id": 857010779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.250826,41.715749,-94.250826,41.715749",
+    "geom:latitude":41.715749,
+    "geom:longitude":-94.250826,
+    "iso:country":"US",
+    "sg:address":"2215 Beaumont Ave",
+    "sg:city":"Linden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 439 2477",
+    "sg:postcode":"50146",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59zjlND3MppCtU0tfelZXY_41.715749_-94.250826@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112811,
+    "wof:geomhash":"99dd9f7cc090a942eb95a5130ef0ab7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857010779
+        }
+    ],
+    "wof:id":857010779,
+    "wof:lastmodified":1464112811,
+    "wof:name":"Trim Line Construction Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.250826,
+    41.715749,
+    -94.250826,
+    41.715749
+],
+  "geometry": {"coordinates":[-94.250826,41.715749],"type":"Point"}
+}

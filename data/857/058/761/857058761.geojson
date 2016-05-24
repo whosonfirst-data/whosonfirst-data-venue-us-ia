@@ -1,0 +1,76 @@
+{
+  "id": 857058761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902516,41.261919,-95.902516,41.261919",
+    "geom:latitude":41.261919,
+    "geom:longitude":-95.902516,
+    "iso:country":"US",
+    "sg:address":"3524 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/180880-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3392",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09PW6mJLnWbAKmJciMlsur_41.261919_-95.902516@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114855,
+    "wof:geomhash":"5e33a8924099d2fb22823e000e26e21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857058761
+        }
+    ],
+    "wof:id":857058761,
+    "wof:lastmodified":1464114855,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -95.902516,
+    41.261919,
+    -95.902516,
+    41.261919
+],
+  "geometry": {"coordinates":[-95.90251600000001,41.261919],"type":"Point"}
+}

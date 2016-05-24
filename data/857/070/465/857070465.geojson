@@ -1,0 +1,68 @@
+{
+  "id": 857070465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679398,41.892399,-91.679398,41.892399",
+    "geom:latitude":41.892399,
+    "geom:longitude":-91.679398,
+    "iso:country":"US",
+    "sg:address":"9125 Atlantic Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 632 4646",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52DDewX4qsV2uLY2ji3Uuc_41.892399_-91.679398@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115357,
+    "wof:geomhash":"680c10c47d1e333ee057d9df77b8edfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070465
+        }
+    ],
+    "wof:id":857070465,
+    "wof:lastmodified":1464115357,
+    "wof:name":"Break Zone Convenience Store",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.679398,
+    41.892399,
+    -91.679398,
+    41.892399
+],
+  "geometry": {"coordinates":[-91.67939800000001,41.892399],"type":"Point"}
+}

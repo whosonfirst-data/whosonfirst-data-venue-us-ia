@@ -1,0 +1,73 @@
+{
+  "id": 856831237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.508699,41.637939,-91.508699,41.637939",
+    "geom:latitude":41.637939,
+    "geom:longitude":-91.508699,
+    "iso:country":"US",
+    "sg:address":"1806 Flatiron Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 3827",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V5B03769YS4H92P3l0F6G_41.637939_-91.508699@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104562,
+    "wof:geomhash":"2996cc49a64f4c7e92a14de3f4b5d6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896445,
+            "region_id":85688713,
+            "venue_id":856831237
+        }
+    ],
+    "wof:id":856831237,
+    "wof:lastmodified":1464104562,
+    "wof:name":"Acumen Home Inspections",
+    "wof:parent_id":85896445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -91.508699,
+    41.637939,
+    -91.508699,
+    41.637939
+],
+  "geometry": {"coordinates":[-91.50869899999999,41.637939],"type":"Point"}
+}

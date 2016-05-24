@@ -1,0 +1,73 @@
+{
+  "id": 856963281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.898687,42.535378,-95.898687,42.535378",
+    "geom:latitude":42.535378,
+    "geom:longitude":-95.898687,
+    "iso:country":"US",
+    "sg:address":"1110 Lucas Ave",
+    "sg:city":"Pierson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 375 5016",
+    "sg:postcode":"51048",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18odOZY1pGP4FJQsCnOw9F_42.535378_-95.898687@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110677,
+    "wof:geomhash":"4f749e671c145e6eadc4c3ac0f4be9be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856963281
+        }
+    ],
+    "wof:id":856963281,
+    "wof:lastmodified":1464110677,
+    "wof:name":"Todd's Plumbing Heating & Elec",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.898687,
+    42.535378,
+    -95.898687,
+    42.535378
+],
+  "geometry": {"coordinates":[-95.898687,42.535378],"type":"Point"}
+}

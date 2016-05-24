@@ -1,0 +1,71 @@
+{
+  "id": 856813693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.418921,41.923361,-91.418921,41.923361",
+    "geom:latitude":41.923361,
+    "geom:longitude":-91.418921,
+    "iso:country":"US",
+    "sg:address":"213 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8742",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hLzN3BNcGD9tiQcZOYzgO_41.923361_-91.418921@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103778,
+    "wof:geomhash":"e3007c64cbe320e22d70f07cd11f1e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856813693
+        }
+    ],
+    "wof:id":856813693,
+    "wof:lastmodified":1464103778,
+    "wof:name":"Mount Vernon City Hall",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.418921,
+    41.923361,
+    -91.418921,
+    41.923361
+],
+  "geometry": {"coordinates":[-91.418921,41.923361],"type":"Point"}
+}

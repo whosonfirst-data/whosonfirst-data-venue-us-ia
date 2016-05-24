@@ -1,0 +1,71 @@
+{
+  "id": 857000861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.868953,41.269746,-95.868953,41.269746",
+    "geom:latitude":41.269746,
+    "geom:longitude":-95.868953,
+    "iso:country":"US",
+    "sg:address":"1607 Ave I",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7217",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DpjGEHaNFEpgNrKkgZ4nU_41.269746_-95.868953@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112396,
+    "wof:geomhash":"9efd6062f7306b2a3cb8372a01651cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857000861
+        }
+    ],
+    "wof:id":857000861,
+    "wof:lastmodified":1464112396,
+    "wof:name":"D & R Automotive Paint Supls",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -95.868953,
+    41.269746,
+    -95.868953,
+    41.269746
+],
+  "geometry": {"coordinates":[-95.868953,41.269746],"type":"Point"}
+}

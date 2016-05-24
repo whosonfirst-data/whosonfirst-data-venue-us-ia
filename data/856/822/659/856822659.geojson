@@ -1,0 +1,73 @@
+{
+  "id": 856822659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36549,42.488274,-96.36549,42.488274",
+    "geom:latitude":42.488274,
+    "geom:longitude":-96.36549,
+    "iso:country":"US",
+    "sg:address":"3253 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 3303",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zHvGcNUgC5Fb37LpmS6BH_42.488274_-96.365490@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104213,
+    "wof:geomhash":"c6d2b04b71cec433a84f4e831b12e5e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856822659
+        }
+    ],
+    "wof:id":856822659,
+    "wof:lastmodified":1464104213,
+    "wof:name":"Aarons Sales & Lease Ownership",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -96.36549,
+    42.488274,
+    -96.36549,
+    42.488274
+],
+  "geometry": {"coordinates":[-96.36548999999999,42.488274],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856926975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.070144,41.571239,-94.070144,41.571239",
+    "geom:latitude":41.571239,
+    "geom:longitude":-94.070144,
+    "iso:country":"US",
+    "sg:address":"3230 L Ave",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3073",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c05dzyuLZhK1sIv2LMqEP_41.571239_-94.070144@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109124,
+    "wof:geomhash":"82700d2e7be8f9a06735d1f6af761a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856926975
+        }
+    ],
+    "wof:id":856926975,
+    "wof:lastmodified":1464109124,
+    "wof:name":"Bob Chance",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.070144,
+    41.571239,
+    -94.070144,
+    41.571239
+],
+  "geometry": {"coordinates":[-94.070144,41.571239],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856911235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.41723,41.232844,-95.41723,41.232844",
+    "geom:latitude":41.232844,
+    "geom:longitude":-95.41723,
+    "iso:country":"US",
+    "sg:address":"402 Highway St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6708",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6taxffQanKo69lzzGKJbiz_41.232844_-95.417230@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108473,
+    "wof:geomhash":"cfbed90f982a4c077c44a16ef37e0e17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856911235
+        }
+    ],
+    "wof:id":856911235,
+    "wof:lastmodified":1464108473,
+    "wof:name":"Baines Automotive",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.41723,
+    41.232844,
+    -95.41723,
+    41.232844
+],
+  "geometry": {"coordinates":[-95.41723,41.232844],"type":"Point"}
+}

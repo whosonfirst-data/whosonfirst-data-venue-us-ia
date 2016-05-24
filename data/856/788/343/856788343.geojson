@@ -1,0 +1,71 @@
+{
+  "id": 856788343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659791,41.57089,-91.659791,41.57089",
+    "geom:latitude":41.57089,
+    "geom:longitude":-91.659791,
+    "iso:country":"US",
+    "sg:address":"4975 Sharon Center Rd SW",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 683 2288",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AzmnSwvEZko2Z9cLKF5rA_41.570890_-91.659791@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102720,
+    "wof:geomhash":"4b0c112b70567b62815a51eef190708b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856788343
+        }
+    ],
+    "wof:id":856788343,
+    "wof:lastmodified":1464102720,
+    "wof:name":"Miller Electric Co",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.659791,
+    41.57089,
+    -91.659791,
+    41.57089
+],
+  "geometry": {"coordinates":[-91.659791,41.57089],"type":"Point"}
+}

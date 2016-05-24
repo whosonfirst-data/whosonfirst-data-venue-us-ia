@@ -1,0 +1,66 @@
+{
+  "id": 856915451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.828082,41.761064,-93.828082,41.761064",
+    "geom:latitude":41.761064,
+    "geom:longitude":-93.828082,
+    "iso:country":"US",
+    "sg:address":"1800 State St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2279",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sNTLOtVlTbRFGF3W7YXl5_41.761064_-93.828082@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108636,
+    "wof:geomhash":"c8df11df250364cecd5e30dfc2477460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856915451
+        }
+    ],
+    "wof:id":856915451,
+    "wof:lastmodified":1464108636,
+    "wof:name":"Des Moines Disc Golf Club",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.828082,
+    41.761064,
+    -93.828082,
+    41.761064
+],
+  "geometry": {"coordinates":[-93.82808199999999,41.761064],"type":"Point"}
+}

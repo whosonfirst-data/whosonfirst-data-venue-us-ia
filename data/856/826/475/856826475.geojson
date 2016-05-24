@@ -1,0 +1,71 @@
+{
+  "id": 856826475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535684,41.634113,-91.535684,41.634113",
+    "geom:latitude":41.634113,
+    "geom:longitude":-91.535684,
+    "iso:country":"US",
+    "sg:address":"50 Commercial Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 4040",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b2okrnAUM0AbCb7qElQzD_41.634113_-91.535684@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104364,
+    "wof:geomhash":"a853b85eaab6527d0a1104af539a3485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856826475
+        }
+    ],
+    "wof:id":856826475,
+    "wof:lastmodified":1464104364,
+    "wof:name":"Electric Motors Of Iowa City",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -91.535684,
+    41.634113,
+    -91.535684,
+    41.634113
+],
+  "geometry": {"coordinates":[-91.535684,41.634113],"type":"Point"}
+}

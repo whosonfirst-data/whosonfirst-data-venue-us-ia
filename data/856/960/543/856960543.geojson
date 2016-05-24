@@ -1,0 +1,71 @@
+{
+  "id": 856960543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.602084,42.034975,-91.602084,42.034975",
+    "geom:latitude":42.034975,
+    "geom:longitude":-91.602084,
+    "iso:country":"US",
+    "sg:address":"755 9th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7440",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gB0eGqZOfTk7b47FxoAEI_42.034975_-91.602084@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110563,
+    "wof:geomhash":"c2c6c89646456e764ac43e3ae5d52f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856960543
+        }
+    ],
+    "wof:id":856960543,
+    "wof:lastmodified":1464110563,
+    "wof:name":"Jenny's Hair Way",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.602084,
+    42.034975,
+    -91.602084,
+    42.034975
+],
+  "geometry": {"coordinates":[-91.602084,42.034975],"type":"Point"}
+}

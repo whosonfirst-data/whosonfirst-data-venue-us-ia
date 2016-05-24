@@ -1,0 +1,73 @@
+{
+  "id": 856952435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.584321,41.731949,-93.584321,41.731949",
+    "geom:latitude":41.731949,
+    "geom:longitude":-93.584321,
+    "iso:country":"US",
+    "sg:address":"710 E 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 4247",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BsverFmot15xvldEFUah0_41.731949_-93.584321@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110183,
+    "wof:geomhash":"c2cc9d9e5150056faca524c97d6e729e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":856952435
+        }
+    ],
+    "wof:id":856952435,
+    "wof:lastmodified":1464110183,
+    "wof:name":"Restoration Dental",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.584321,
+    41.731949,
+    -93.584321,
+    41.731949
+],
+  "geometry": {"coordinates":[-93.584321,41.731949],"type":"Point"}
+}

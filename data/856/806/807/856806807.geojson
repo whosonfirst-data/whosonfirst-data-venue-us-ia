@@ -1,0 +1,73 @@
+{
+  "id": 856806807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860305,41.261885,-95.860305,41.261885",
+    "geom:latitude":41.261885,
+    "geom:longitude":-95.860305,
+    "iso:country":"US",
+    "sg:address":"1001 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 8408",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_145BZ8BSZEFucl7N4tT4hL_41.261885_-95.860305@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103486,
+    "wof:geomhash":"1c89aafb5c3b801add9f5389c5fb8b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856806807
+        }
+    ],
+    "wof:id":856806807,
+    "wof:lastmodified":1464103486,
+    "wof:name":"ETS Direct",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -95.860305,
+    41.261885,
+    -95.860305,
+    41.261885
+],
+  "geometry": {"coordinates":[-95.860305,41.261885],"type":"Point"}
+}

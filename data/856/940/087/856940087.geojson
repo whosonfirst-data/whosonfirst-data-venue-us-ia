@@ -1,0 +1,75 @@
+{
+  "id": 856940087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.525855,41.664543,-91.525855,41.664543",
+    "geom:latitude":41.664543,
+    "geom:longitude":-91.525855,
+    "iso:country":"US",
+    "sg:address":"613 E Bloomington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 3917",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bvl8UV9mXTmH9MQXkL2pj_41.664543_-91.525855@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109676,
+    "wof:geomhash":"0d854eb8e73c36b72396c2fd66c1a580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896463,
+            "region_id":85688713,
+            "venue_id":856940087
+        }
+    ],
+    "wof:id":856940087,
+    "wof:lastmodified":1464109676,
+    "wof:name":"Cancer Care Of Iowa City",
+    "wof:parent_id":85896463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.525855,
+    41.664543,
+    -91.525855,
+    41.664543
+],
+  "geometry": {"coordinates":[-91.52585500000001,41.664543],"type":"Point"}
+}

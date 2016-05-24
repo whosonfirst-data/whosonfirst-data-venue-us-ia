@@ -1,0 +1,73 @@
+{
+  "id": 856785857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.56276,41.37434,-93.56276,41.37434",
+    "geom:latitude":41.37434,
+    "geom:longitude":-93.56276,
+    "iso:country":"US",
+    "sg:address":"1409 Lundahl Ct",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8043",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DKSMVkHEecLbki6KbFm3r_41.374340_-93.562760@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102607,
+    "wof:geomhash":"ec77784ee1720288aa44912fe92416dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856785857
+        }
+    ],
+    "wof:id":856785857,
+    "wof:lastmodified":1464102607,
+    "wof:name":"Dave Bunch Piano Svc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -93.56276,
+    41.37434,
+    -93.56276,
+    41.37434
+],
+  "geometry": {"coordinates":[-93.56276,41.37434],"type":"Point"}
+}

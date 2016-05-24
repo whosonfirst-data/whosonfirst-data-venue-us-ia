@@ -1,0 +1,67 @@
+{
+  "id": 857062363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849078,41.230519,-95.849078,41.230519",
+    "geom:latitude":41.230519,
+    "geom:longitude":-95.849078,
+    "iso:country":"US",
+    "sg:address":"531 30th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 918 7350",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:website":"www.bankofthewest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mPMKgGkcGKsyftS4ExQMa_41.230519_-95.849078@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115001,
+    "wof:geomhash":"9bd23fe392346842c49b40291e484e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062363
+        }
+    ],
+    "wof:id":857062363,
+    "wof:lastmodified":1464115001,
+    "wof:name":"Bank of the West",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.849078,
+    41.230519,
+    -95.849078,
+    41.230519
+],
+  "geometry": {"coordinates":[-95.84907800000001,41.230519],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856923321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.017516,41.626292,-94.017516,41.626292",
+    "geom:latitude":41.626292,
+    "geom:longitude":-94.017516,
+    "iso:country":"US",
+    "sg:address":"2794 N Ave",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3175",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G84OQDkAZjb99dRm7sui2_41.626292_-94.017516@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108976,
+    "wof:geomhash":"7cb946e73125e7deb8f6a5557f6aa99d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856923321
+        }
+    ],
+    "wof:id":856923321,
+    "wof:lastmodified":1464108976,
+    "wof:name":"Modern Motors Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.017516,
+    41.626292,
+    -94.017516,
+    41.626292
+],
+  "geometry": {"coordinates":[-94.017516,41.626292],"type":"Point"}
+}

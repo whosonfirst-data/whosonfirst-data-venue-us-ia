@@ -1,0 +1,71 @@
+{
+  "id": 856980699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.410965,41.925121,-91.410965,41.925121",
+    "geom:latitude":41.925121,
+    "geom:longitude":-91.410965,
+    "iso:country":"US",
+    "sg:address":"104 6th St NE",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8672",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63TZJmxwNmTe0vdnIamjJr_41.925121_-91.410965@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111490,
+    "wof:geomhash":"9dc3e778caf3bd8df3890040b7312290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856980699
+        }
+    ],
+    "wof:id":856980699,
+    "wof:lastmodified":1464111490,
+    "wof:name":"Schwan's Ice Cream & Fine Food",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen"
+    ]
+},
+  "bbox": [
+    -91.410965,
+    41.925121,
+    -91.410965,
+    41.925121
+],
+  "geometry": {"coordinates":[-91.410965,41.925121],"type":"Point"}
+}

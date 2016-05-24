@@ -1,0 +1,72 @@
+{
+  "id": 857071105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.712416,41.98943,-91.712416,41.98943",
+    "geom:latitude":41.98943,
+    "geom:longitude":-91.712416,
+    "iso:country":"US",
+    "sg:address":"1603 Hillside Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 261 0895",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.classactcleaning.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZL1HnscyxT2sgwOywDS6X_41.989430_-91.712416@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115379,
+    "wof:geomhash":"4e1cc37c4d6669acb167022406c06b89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071105
+        }
+    ],
+    "wof:id":857071105,
+    "wof:lastmodified":1464115379,
+    "wof:name":"Class Act Cleaning Service",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.712416,
+    41.98943,
+    -91.712416,
+    41.98943
+],
+  "geometry": {"coordinates":[-91.712416,41.98943],"type":"Point"}
+}

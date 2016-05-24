@@ -1,0 +1,73 @@
+{
+  "id": 856859727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901965,41.265395,-95.901965,41.265395",
+    "geom:latitude":41.265395,
+    "geom:longitude":-95.901965,
+    "iso:country":"US",
+    "sg:address":"3405 Ave D",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 2807",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wd3T3UssoWySIhqXBdUq2_41.265395_-95.901965@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105982,
+    "wof:geomhash":"1ecf0e5e7f5f5c408f062e982e5649fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856859727
+        }
+    ],
+    "wof:id":856859727,
+    "wof:lastmodified":1464105982,
+    "wof:name":"Marshalls Quality Painting",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.901965,
+    41.265395,
+    -95.901965,
+    41.265395
+],
+  "geometry": {"coordinates":[-95.901965,41.265395],"type":"Point"}
+}

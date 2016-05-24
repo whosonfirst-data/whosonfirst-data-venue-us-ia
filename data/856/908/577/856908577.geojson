@@ -1,0 +1,71 @@
+{
+  "id": 856908577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.339264,41.480501,-95.339264,41.480501",
+    "geom:latitude":41.480501,
+    "geom:longitude":-95.339264,
+    "iso:country":"US",
+    "sg:address":"510 N Elm St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6455",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z9O0ikRFBBW0uU92Ff2KK_41.480501_-95.339264@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108369,
+    "wof:geomhash":"52a1b5e9d7db90400812aeb20689b845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856908577
+        }
+    ],
+    "wof:id":856908577,
+    "wof:lastmodified":1464108369,
+    "wof:name":"Avoca Physicians Clinic",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -95.339264,
+    41.480501,
+    -95.339264,
+    41.480501
+],
+  "geometry": {"coordinates":[-95.339264,41.480501],"type":"Point"}
+}

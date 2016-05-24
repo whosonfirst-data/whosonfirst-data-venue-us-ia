@@ -1,0 +1,77 @@
+{
+  "id": 857026045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.410799,42.499596,-96.410799,42.499596",
+    "geom:latitude":42.499596,
+    "geom:longitude":-96.410799,
+    "iso:country":"US",
+    "sg:address":"219 W 7th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 8360",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mfaf6OuyJ6mkvQbo8QpW8_42.499596_-96.410799@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113460,
+    "wof:geomhash":"be8a7f22b17ee4b394df85911f54746e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857026045
+        }
+    ],
+    "wof:id":857026045,
+    "wof:lastmodified":1464113460,
+    "wof:name":"Glass House Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -96.410799,
+    42.499596,
+    -96.410799,
+    42.499596
+],
+  "geometry": {"coordinates":[-96.410799,42.499596],"type":"Point"}
+}

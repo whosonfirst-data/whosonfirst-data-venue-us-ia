@@ -1,0 +1,71 @@
+{
+  "id": 856999513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.409782,41.91477,-91.409782,41.91477",
+    "geom:latitude":41.91477,
+    "geom:longitude":-91.409782,
+    "iso:country":"US",
+    "sg:address":"203 Country Club Dr",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8193",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YM9eiBvcmNzB1J2blTEaQ_41.914770_-91.409782@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112347,
+    "wof:geomhash":"762476f0bd6f8d393e463050476c83f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856999513
+        }
+    ],
+    "wof:id":856999513,
+    "wof:lastmodified":1464112347,
+    "wof:name":"Hillcrest Country Club",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -91.409782,
+    41.91477,
+    -91.409782,
+    41.91477
+],
+  "geometry": {"coordinates":[-91.40978200000001,41.91477],"type":"Point"}
+}

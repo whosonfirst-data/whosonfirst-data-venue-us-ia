@@ -1,0 +1,73 @@
+{
+  "id": 856975313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.53249,41.930422,-91.53249,41.930422",
+    "geom:latitude":41.930422,
+    "geom:longitude":-91.53249,
+    "iso:country":"US",
+    "sg:address":"981 Cedar Crest Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 0733",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bXDjYWTRvOO9xnSUgusjB_41.930422_-91.532490@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111222,
+    "wof:geomhash":"f77c4c4c1c045f2af58e783e1f33a882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856975313
+        }
+    ],
+    "wof:id":856975313,
+    "wof:lastmodified":1464111222,
+    "wof:name":"Olinger Construction & Design",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.53249,
+    41.930422,
+    -91.53249,
+    41.930422
+],
+  "geometry": {"coordinates":[-91.53249,41.930422],"type":"Point"}
+}

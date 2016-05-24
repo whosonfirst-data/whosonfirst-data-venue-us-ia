@@ -1,0 +1,77 @@
+{
+  "id": 856767227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672457,41.999473,-91.672457,41.999473",
+    "geom:latitude":41.999473,
+    "geom:longitude":-91.672457,
+    "iso:country":"US",
+    "sg:address":"1100 Shaver Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 6251",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "brass",
+        "foundry",
+        "bronze"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RJnKBF6xqJuuqFlrV80he_41.999473_-91.672457@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102130,
+    "wof:geomhash":"0e17bf43cc65f319a98f457b35bee277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856767227
+        }
+    ],
+    "wof:id":856767227,
+    "wof:lastmodified":1464102130,
+    "wof:name":"Vincent Metals",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brass",
+        "foundry",
+        "bronze"
+    ]
+},
+  "bbox": [
+    -91.672457,
+    41.999473,
+    -91.672457,
+    41.999473
+],
+  "geometry": {"coordinates":[-91.67245699999999,41.999473],"type":"Point"}
+}

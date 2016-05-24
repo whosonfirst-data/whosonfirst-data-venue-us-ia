@@ -1,0 +1,68 @@
+{
+  "id": 856915145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.520553,41.640695,-91.520553,41.640695",
+    "geom:latitude":41.640695,
+    "geom:longitude":-91.520553,
+    "iso:country":"US",
+    "sg:address":"1901 Broadway St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 688 9300",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qmviniyrIlzC3dG5sraLi_41.640695_-91.520553@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108626,
+    "wof:geomhash":"cbfc2eb3ef3c37613ecbc896391ed503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856915145
+        }
+    ],
+    "wof:id":856915145,
+    "wof:lastmodified":1464108626,
+    "wof:name":"First American Bank",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.520553,
+    41.640695,
+    -91.520553,
+    41.640695
+],
+  "geometry": {"coordinates":[-91.52055300000001,41.640695],"type":"Point"}
+}

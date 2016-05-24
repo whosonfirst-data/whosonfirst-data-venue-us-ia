@@ -1,0 +1,75 @@
+{
+  "id": 856774421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.606743,41.585615,-93.606743,41.585615",
+    "geom:latitude":41.585615,
+    "geom:longitude":-93.606743,
+    "iso:country":"US",
+    "sg:address":"110 SE 7th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 0822",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "restoration",
+        "preservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LtDXjBZBq3V6snfazkUZo_41.585615_-93.606743@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102315,
+    "wof:geomhash":"c88139e3d3c72c5354257013611ccc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856774421
+        }
+    ],
+    "wof:id":856774421,
+    "wof:lastmodified":1464102315,
+    "wof:name":"Quality Restoration",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "preservation"
+    ]
+},
+  "bbox": [
+    -93.606743,
+    41.585615,
+    -93.606743,
+    41.585615
+],
+  "geometry": {"coordinates":[-93.60674299999999,41.585615],"type":"Point"}
+}

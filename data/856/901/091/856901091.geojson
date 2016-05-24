@@ -1,0 +1,73 @@
+{
+  "id": 856901091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618483,42.148026,-91.618483,42.148026",
+    "geom:latitude":42.148026,
+    "geom:longitude":-91.618483,
+    "iso:country":"US",
+    "sg:address":"125 S Main Ave",
+    "sg:city":"Alburnett",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 842 2488",
+    "sg:postcode":"52202",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R4KBBM2xPoeh6mL7BmY4Z_42.148026_-91.618483@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108093,
+    "wof:geomhash":"2f0b498efe23e9f49712e1ae24b51f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856901091
+        }
+    ],
+    "wof:id":856901091,
+    "wof:lastmodified":1464108093,
+    "wof:name":"Alburnett Bus Garage",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -91.618483,
+    42.148026,
+    -91.618483,
+    42.148026
+],
+  "geometry": {"coordinates":[-91.618483,42.148026],"type":"Point"}
+}

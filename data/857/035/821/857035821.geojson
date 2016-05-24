@@ -1,0 +1,72 @@
+{
+  "id": 857035821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718049,42.098205,-91.718049,42.098205",
+    "geom:latitude":42.098205,
+    "geom:longitude":-91.718049,
+    "iso:country":"US",
+    "sg:address":"309 Johnson Dr",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1490",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.tfmc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wDhFo2O8cxlwzS9xXJuTM_42.098205_-91.718049@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113927,
+    "wof:geomhash":"8c57b9b1e20b77550160e1d27312db66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857035821
+        }
+    ],
+    "wof:id":857035821,
+    "wof:lastmodified":1464113927,
+    "wof:name":"Free Methodist Church",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.718049,
+    42.098205,
+    -91.718049,
+    42.098205
+],
+  "geometry": {"coordinates":[-91.71804899999999,42.098205],"type":"Point"}
+}

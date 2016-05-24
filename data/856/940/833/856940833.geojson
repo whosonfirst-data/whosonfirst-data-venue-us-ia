@@ -1,0 +1,73 @@
+{
+  "id": 856940833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.650652,41.987408,-91.650652,41.987408",
+    "geom:latitude":41.987408,
+    "geom:longitude":-91.650652,
+    "iso:country":"US",
+    "sg:address":"1535 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8160",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19ZjYFGxQ7qgHv7CDltOaC_41.987408_-91.650652@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109717,
+    "wof:geomhash":"52518c57417177369680facba604e2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856940833
+        }
+    ],
+    "wof:id":856940833,
+    "wof:lastmodified":1464109717,
+    "wof:name":"House & Home Inspection Svc",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -91.650652,
+    41.987408,
+    -91.650652,
+    41.987408
+],
+  "geometry": {"coordinates":[-91.65065199999999,41.987408],"type":"Point"}
+}

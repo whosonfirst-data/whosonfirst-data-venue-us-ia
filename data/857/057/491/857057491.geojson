@@ -1,0 +1,76 @@
+{
+  "id": 857057491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.756518,41.594856,-93.756518,41.594856",
+    "geom:latitude":41.594856,
+    "geom:longitude":-93.756518,
+    "iso:country":"US",
+    "sg:address":"3838 Westown Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/128301-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 226 2150",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ENRJj0gbSwk3ekUfrhth_41.594856_-93.756518@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114806,
+    "wof:geomhash":"f13c5333bc2db0c3f560fb9cf15128c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896523,
+            "region_id":85688713,
+            "venue_id":857057491
+        }
+    ],
+    "wof:id":857057491,
+    "wof:lastmodified":1464114806,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85896523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.756518,
+    41.594856,
+    -93.756518,
+    41.594856
+],
+  "geometry": {"coordinates":[-93.756518,41.594856],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856886017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.59561,41.581219,-93.59561,41.581219",
+    "geom:latitude":41.581219,
+    "geom:longitude":-93.59561,
+    "iso:country":"US",
+    "sg:address":"805 SE 14th Ct",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 9296",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jN5TWYeZ21fKH8U69u9N0_41.581219_-93.595610@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107522,
+    "wof:geomhash":"52cdb01e5723f218e952691bdcf93f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856886017
+        }
+    ],
+    "wof:id":856886017,
+    "wof:lastmodified":1464107522,
+    "wof:name":"Home Recycling Exchange Inc",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -93.59561,
+    41.581219,
+    -93.59561,
+    41.581219
+],
+  "geometry": {"coordinates":[-93.59560999999999,41.581219],"type":"Point"}
+}

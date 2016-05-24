@@ -1,0 +1,73 @@
+{
+  "id": 856949825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.829805,41.302889,-95.829805,41.302889",
+    "geom:latitude":41.302889,
+    "geom:longitude":-95.829805,
+    "iso:country":"US",
+    "sg:address":"19842 Memory Ln",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1007",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bbT04v1rufk6NUeV7j6Pt_41.302889_-95.829805@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110063,
+    "wof:geomhash":"47967518777dfadf785cfd81067f57f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856949825
+        }
+    ],
+    "wof:id":856949825,
+    "wof:lastmodified":1464110063,
+    "wof:name":"D & D Construction",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.829805,
+    41.302889,
+    -95.829805,
+    41.302889
+],
+  "geometry": {"coordinates":[-95.82980499999999,41.302889],"type":"Point"}
+}

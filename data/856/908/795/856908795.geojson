@@ -1,0 +1,71 @@
+{
+  "id": 856908795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598662,42.03338,-91.598662,42.03338",
+    "geom:latitude":42.03338,
+    "geom:longitude":-91.598662,
+    "iso:country":"US",
+    "sg:address":"1060 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 2736",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44RxenprejfzzhpnePlQek_42.033380_-91.598662@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108376,
+    "wof:geomhash":"182b819370184b4064db3e6b1e47d38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856908795
+        }
+    ],
+    "wof:id":856908795,
+    "wof:lastmodified":1464108376,
+    "wof:name":"Weeping Willow",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.598662,
+    42.03338,
+    -91.598662,
+    42.03338
+],
+  "geometry": {"coordinates":[-91.598662,42.03338],"type":"Point"}
+}

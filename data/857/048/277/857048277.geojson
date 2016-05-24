@@ -1,0 +1,77 @@
+{
+  "id": 857048277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.888901,41.262699,-95.888901,41.262699",
+    "geom:latitude":41.262699,
+    "geom:longitude":-95.888901,
+    "iso:country":"US",
+    "sg:address":"20 N 28th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0725",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N8Y0QwtUIJzworRf0DVuX_41.262706_-95.889118@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114419,
+    "wof:geomhash":"60dec2b4b41db935d8affbaabc7091de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857048277
+        }
+    ],
+    "wof:id":857048277,
+    "wof:lastmodified":1464114419,
+    "wof:name":"Hatcher Body Shop Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.888901,
+    41.262699,
+    -95.888901,
+    41.262699
+],
+  "geometry": {"coordinates":[-95.888901,41.262699],"type":"Point"}
+}

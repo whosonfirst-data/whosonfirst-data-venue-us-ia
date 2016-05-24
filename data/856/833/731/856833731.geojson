@@ -1,0 +1,75 @@
+{
+  "id": 856833731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71913,41.963581,-91.71913,41.963581",
+    "geom:latitude":41.963581,
+    "geom:longitude":-91.71913,
+    "iso:country":"US",
+    "sg:address":"3511 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5599",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QHNyP6pG0av4xFsseET5Q_41.963581_-91.719130@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104691,
+    "wof:geomhash":"8a1947e54bce9263645d037ac0592f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856833731
+        }
+    ],
+    "wof:id":856833731,
+    "wof:lastmodified":1464104691,
+    "wof:name":"Jamie Wolfe Trucking",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.71913,
+    41.963581,
+    -91.71913,
+    41.963581
+],
+  "geometry": {"coordinates":[-91.71913000000001,41.963581],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857061285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.486848,41.498769,-93.486848,41.498769",
+    "geom:latitude":41.498769,
+    "geom:longitude":-93.486848,
+    "iso:country":"US",
+    "sg:address":"115 N 1st St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 2025",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trainer"
+    ],
+    "sg:website":"www.snapfitness.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Z7ew6LqBAB1hWVkNXXjP_41.498769_-93.486848@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114954,
+    "wof:geomhash":"7e3c395e7566d138241b5292efe7bd0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061285
+        }
+    ],
+    "wof:id":857061285,
+    "wof:lastmodified":1464114954,
+    "wof:name":"Snap Fitness",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer"
+    ]
+},
+  "bbox": [
+    -93.486848,
+    41.498769,
+    -93.486848,
+    41.498769
+],
+  "geometry": {"coordinates":[-93.48684799999999,41.498769],"type":"Point"}
+}

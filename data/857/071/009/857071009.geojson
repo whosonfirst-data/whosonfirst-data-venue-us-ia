@@ -1,0 +1,72 @@
+{
+  "id": 857071009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.720041,41.962857,-91.720041,41.962857",
+    "geom:latitude":41.962857,
+    "geom:longitude":-91.720041,
+    "iso:country":"US",
+    "sg:address":"3701 16th Ave",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 811 8203",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.tushyclean.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XJiipsoptspyjmJiG9Dgb_41.962857_-91.720041@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115375,
+    "wof:geomhash":"f4ec4f315b7aed092fb78764339e0c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071009
+        }
+    ],
+    "wof:id":857071009,
+    "wof:lastmodified":1464115375,
+    "wof:name":"Tushy Clean",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.720041,
+    41.962857,
+    -91.720041,
+    41.962857
+],
+  "geometry": {"coordinates":[-91.72004099999999,41.962857],"type":"Point"}
+}

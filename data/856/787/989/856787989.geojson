@@ -1,0 +1,69 @@
+{
+  "id": 856787989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.561186,41.361417,-93.561186,41.361417",
+    "geom:latitude":41.361417,
+    "geom:longitude":-93.561186,
+    "iso:country":"US",
+    "sg:address":"124 W Ashland Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2886",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53ord9S5q5wiXm6mh2dyHn_41.361417_-93.561186@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102707,
+    "wof:geomhash":"c5e73b5207952fd65784353ce9b7a126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856787989
+        }
+    ],
+    "wof:id":856787989,
+    "wof:lastmodified":1464102707,
+    "wof:name":"ARK",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.561186,
+    41.361417,
+    -93.561186,
+    41.361417
+],
+  "geometry": {"coordinates":[-93.56118600000001,41.361417],"type":"Point"}
+}

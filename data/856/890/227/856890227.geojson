@@ -1,0 +1,73 @@
+{
+  "id": 856890227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633301,41.982639,-91.633301,41.982639",
+    "geom:latitude":41.982639,
+    "geom:longitude":-91.633301,
+    "iso:country":"US",
+    "sg:address":"2307 Meadowbrook Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 2681",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qAwiGhzEQYIui9hHOzCLg_41.982639_-91.633301@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107693,
+    "wof:geomhash":"b223145d8caeb6185994e2345b1c35b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856890227
+        }
+    ],
+    "wof:id":856890227,
+    "wof:lastmodified":1464107693,
+    "wof:name":"Murphy IM & R",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -91.633301,
+    41.982639,
+    -91.633301,
+    41.982639
+],
+  "geometry": {"coordinates":[-91.633301,41.982639],"type":"Point"}
+}

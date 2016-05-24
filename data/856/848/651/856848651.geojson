@@ -1,0 +1,73 @@
+{
+  "id": 856848651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.771906,41.160191,-95.771906,41.160191",
+    "geom:latitude":41.160191,
+    "geom:longitude":-95.771906,
+    "iso:country":"US",
+    "sg:address":"22184 Applewood Rd",
+    "sg:city":"Glenwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 526 2214",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30wdJDIh17CLmUJu2qnuMU_41.160191_-95.771906@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105435,
+    "wof:geomhash":"4e33641019da289494b52caaf8a3aada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856848651
+        }
+    ],
+    "wof:id":856848651,
+    "wof:lastmodified":1464105435,
+    "wof:name":"Wallace Hansen",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.771906,
+    41.160191,
+    -95.771906,
+    41.160191
+],
+  "geometry": {"coordinates":[-95.771906,41.160191],"type":"Point"}
+}

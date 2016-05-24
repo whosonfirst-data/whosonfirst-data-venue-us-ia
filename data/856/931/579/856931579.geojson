@@ -1,0 +1,73 @@
+{
+  "id": 856931579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.516603,41.653975,-91.516603,41.653975",
+    "geom:latitude":41.653975,
+    "geom:longitude":-91.516603,
+    "iso:country":"US",
+    "sg:address":"509 Oakland Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 4100",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJCitrattfxHVLLt9Ic56_41.653975_-91.516603@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109304,
+    "wof:geomhash":"9f790706199321954da471cd1152de4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896467,
+            "region_id":85688713,
+            "venue_id":856931579
+        }
+    ],
+    "wof:id":856931579,
+    "wof:lastmodified":1464109304,
+    "wof:name":"Bill Lynch Painting Constr",
+    "wof:parent_id":85896467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.516603,
+    41.653975,
+    -91.516603,
+    41.653975
+],
+  "geometry": {"coordinates":[-91.516603,41.653975],"type":"Point"}
+}

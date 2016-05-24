@@ -1,0 +1,71 @@
+{
+  "id": 856896035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.838366,41.263376,-95.838366,41.263376",
+    "geom:latitude":41.263376,
+    "geom:longitude":-95.838366,
+    "iso:country":"US",
+    "sg:address":"301 Union St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CwKUGPltIhQdMJyjoDa1d_41.263376_-95.838366@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107903,
+    "wof:geomhash":"046429eb2e8893a0fa12f9bede1fce2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856896035
+        }
+    ],
+    "wof:id":856896035,
+    "wof:lastmodified":1464107903,
+    "wof:name":"Bluff Summit Enterprises Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -95.838366,
+    41.263376,
+    -95.838366,
+    41.263376
+],
+  "geometry": {"coordinates":[-95.83836599999999,41.263376],"type":"Point"}
+}

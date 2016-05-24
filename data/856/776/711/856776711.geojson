@@ -1,0 +1,73 @@
+{
+  "id": 856776711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658268,41.970252,-91.658268,41.970252",
+    "geom:latitude":41.970252,
+    "geom:longitude":-91.658268,
+    "iso:country":"US",
+    "sg:address":"1107 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 862 1348",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "collectible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z8vhmKlL9ibhtJ15AUdyq_41.970252_-91.658268@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102360,
+    "wof:geomhash":"c4d6c6f5725b92e3c5c42de49a4e5806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856776711
+        }
+    ],
+    "wof:id":856776711,
+    "wof:lastmodified":1464102360,
+    "wof:name":"3rd Street Resale",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collectible"
+    ]
+},
+  "bbox": [
+    -91.658268,
+    41.970252,
+    -91.658268,
+    41.970252
+],
+  "geometry": {"coordinates":[-91.65826800000001,41.970252],"type":"Point"}
+}

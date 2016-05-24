@@ -1,0 +1,77 @@
+{
+  "id": 857071101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679802,41.975601,-91.679802,41.975601",
+    "geom:latitude":41.975601,
+    "geom:longitude":-91.679802,
+    "iso:country":"US",
+    "sg:address":"516 A Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2517",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gG6MjWd1IylRJ8Kik5ob1_41.975601_-91.679802@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115379,
+    "wof:geomhash":"0ea975534223369330101be37eff6ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857071101
+        }
+    ],
+    "wof:id":857071101,
+    "wof:lastmodified":1464115379,
+    "wof:name":"Catholic Education Center",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.679802,
+    41.975601,
+    -91.679802,
+    41.975601
+],
+  "geometry": {"coordinates":[-91.679802,41.975601],"type":"Point"}
+}

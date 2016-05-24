@@ -1,0 +1,72 @@
+{
+  "id": 856962865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.351545,42.448507,-96.351545,42.448507",
+    "geom:latitude":42.448507,
+    "geom:longitude":-96.351545,
+    "iso:country":"US",
+    "sg:address":"4224 Sergeant Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 2766",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.drkaler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OSofY8bO8vnm3kivFUH1F_42.448507_-96.351545@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110661,
+    "wof:geomhash":"e099c30b3f67a05e25083743cf549ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856962865
+        }
+    ],
+    "wof:id":856962865,
+    "wof:lastmodified":1464110661,
+    "wof:name":"Daniel L Kaler Office",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.351545,
+    42.448507,
+    -96.351545,
+    42.448507
+],
+  "geometry": {"coordinates":[-96.351545,42.448507],"type":"Point"}
+}

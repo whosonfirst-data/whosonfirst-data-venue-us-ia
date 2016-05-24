@@ -1,0 +1,73 @@
+{
+  "id": 856782445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530178,41.660039,-91.530178,41.660039",
+    "geom:latitude":41.660039,
+    "geom:longitude":-91.530178,
+    "iso:country":"US",
+    "sg:address":"1 S Gilbert St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 5561",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OQmp1K9hPLNdx6U1cEhKs_41.660039_-91.530178@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102488,
+    "wof:geomhash":"f1251259e65eb25d8b677aa0a43334d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856782445
+        }
+    ],
+    "wof:id":856782445,
+    "wof:lastmodified":1464102488,
+    "wof:name":"Paul D Burns",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.530178,
+    41.660039,
+    -91.530178,
+    41.660039
+],
+  "geometry": {"coordinates":[-91.53017800000001,41.660039],"type":"Point"}
+}

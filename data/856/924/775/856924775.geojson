@@ -1,0 +1,69 @@
+{
+  "id": 856924775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.695192,41.515033,-91.695192,41.515033",
+    "geom:latitude":41.515033,
+    "geom:longitude":-91.695192,
+    "iso:country":"US",
+    "sg:address":"5745 Hazelwood Ave SW",
+    "sg:city":"Kalona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 656 3638",
+    "sg:postcode":"52247",
+    "sg:province":"IA",
+    "sg:tags":[
+        "starter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25cIDrxeBL68lMNVZzUbSR_41.515033_-91.695192@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109030,
+    "wof:geomhash":"8e3ae2a64e1d17ab0b59ec50d896d5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856924775
+        }
+    ],
+    "wof:id":856924775,
+    "wof:lastmodified":1464109030,
+    "wof:name":"Eberly Starter Repair",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "starter"
+    ]
+},
+  "bbox": [
+    -91.695192,
+    41.515033,
+    -91.695192,
+    41.515033
+],
+  "geometry": {"coordinates":[-91.69519200000001,41.515033],"type":"Point"}
+}

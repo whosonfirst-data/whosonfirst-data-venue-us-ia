@@ -1,0 +1,73 @@
+{
+  "id": 856885967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.52485,41.640384,-91.52485,41.640384",
+    "geom:latitude":41.640384,
+    "geom:longitude":-91.52485,
+    "iso:country":"US",
+    "sg:address":"2040 Keokuk St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 466 1054",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mqgVb9AcQ7wFGQOYpqULp_41.640384_-91.524850@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107520,
+    "wof:geomhash":"8c84a8c6d50163bd19c3cc6d28592225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856885967
+        }
+    ],
+    "wof:id":856885967,
+    "wof:lastmodified":1464107520,
+    "wof:name":"Church In Iowa City",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.52485,
+    41.640384,
+    -91.52485,
+    41.640384
+],
+  "geometry": {"coordinates":[-91.52485,41.640384],"type":"Point"}
+}

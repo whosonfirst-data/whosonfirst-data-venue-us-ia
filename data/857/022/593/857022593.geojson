@@ -1,0 +1,71 @@
+{
+  "id": 857022593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.098208,41.836169,-94.098208,41.836169",
+    "geom:latitude":41.836169,
+    "geom:longitude":-94.098208,
+    "iso:country":"US",
+    "sg:address":"814 7th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4950",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SNbfT4Ufs6etdxVig886X_41.836169_-94.098208@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113302,
+    "wof:geomhash":"f3aa2b32a8efafdf8a4f2c6e87d273d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857022593
+        }
+    ],
+    "wof:id":857022593,
+    "wof:lastmodified":1464113302,
+    "wof:name":"Glass Construction Co",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.098208,
+    41.836169,
+    -94.098208,
+    41.836169
+],
+  "geometry": {"coordinates":[-94.098208,41.836169],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856920021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.351226,42.448226,-96.351226,42.448226",
+    "geom:latitude":42.448226,
+    "geom:longitude":-96.351226,
+    "iso:country":"US",
+    "sg:address":"4291 Sergeant Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 1297",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IEAxDtWHwfCVAlolzrx96_42.448226_-96.351226@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108811,
+    "wof:geomhash":"20e1631c8c4fcaa16fe0a3090e10f890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856920021
+        }
+    ],
+    "wof:id":856920021,
+    "wof:lastmodified":1464108811,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.351226,
+    42.448226,
+    -96.351226,
+    42.448226
+],
+  "geometry": {"coordinates":[-96.351226,42.448226],"type":"Point"}
+}

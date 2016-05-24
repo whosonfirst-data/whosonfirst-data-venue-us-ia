@@ -1,0 +1,74 @@
+{
+  "id": 856998385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715859,41.958485,-91.715859,41.958485",
+    "geom:latitude":41.958485,
+    "geom:longitude":-91.715859,
+    "iso:country":"US",
+    "sg:address":"3250 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 0908",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.progressivehomesiowa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Op5i9lmfvXDAT16yG2Myz_41.958485_-91.715859@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112306,
+    "wof:geomhash":"755a2829a25e4b1fe5fc5a602f9ee828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856998385
+        }
+    ],
+    "wof:id":856998385,
+    "wof:lastmodified":1464112306,
+    "wof:name":"Progressive Homes",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.715859,
+    41.958485,
+    -91.715859,
+    41.958485
+],
+  "geometry": {"coordinates":[-91.71585899999999,41.958485],"type":"Point"}
+}

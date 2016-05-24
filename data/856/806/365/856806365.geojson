@@ -1,0 +1,73 @@
+{
+  "id": 856806365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.622697,41.597065,-93.622697,41.597065",
+    "geom:latitude":41.597065,
+    "geom:longitude":-93.622697,
+    "iso:country":"US",
+    "sg:address":"1052 4th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 0973",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nrNpJFLE3X18UwyAle7oq_41.597065_-93.622697@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103469,
+    "wof:geomhash":"170c1845046517862b86ae84c214882d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896427,
+            "region_id":85688713,
+            "venue_id":856806365
+        }
+    ],
+    "wof:id":856806365,
+    "wof:lastmodified":1464103469,
+    "wof:name":"De Marco Dental Practice",
+    "wof:parent_id":85896427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.622697,
+    41.597065,
+    -93.622697,
+    41.597065
+],
+  "geometry": {"coordinates":[-93.622697,41.597065],"type":"Point"}
+}

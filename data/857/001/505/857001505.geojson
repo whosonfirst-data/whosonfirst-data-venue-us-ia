@@ -1,0 +1,71 @@
+{
+  "id": 857001505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.443029,42.061549,-91.443029,42.061549",
+    "geom:latitude":42.061549,
+    "geom:longitude":-91.443029,
+    "iso:country":"US",
+    "sg:address":"205 5th Ave",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7388",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I8ImO1VeqfKxGRPZMyYdo_42.061549_-91.443029@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112425,
+    "wof:geomhash":"682fa703315ee7a7021332a11539f19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857001505
+        }
+    ],
+    "wof:id":857001505,
+    "wof:lastmodified":1464112425,
+    "wof:name":"Bill Reed Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -91.443029,
+    42.061549,
+    -91.443029,
+    42.061549
+],
+  "geometry": {"coordinates":[-91.443029,42.061549],"type":"Point"}
+}

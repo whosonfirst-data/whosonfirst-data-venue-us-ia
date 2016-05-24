@@ -1,0 +1,68 @@
+{
+  "id": 856858531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.450677,42.408904,-92.450677,42.408904",
+    "geom:latitude":42.408904,
+    "geom:longitude":-92.450677,
+    "iso:country":"US",
+    "sg:address":"230 Waterloo Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 988 4419",
+    "sg:postcode":"50643",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w8Z69FVhf46cVlb7gyY75_42.408904_-92.450677@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105909,
+    "wof:geomhash":"a466cbbecb73ce3b86a7e154b64b2298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856858531
+        }
+    ],
+    "wof:id":856858531,
+    "wof:lastmodified":1464105909,
+    "wof:name":"Pronto Market",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.450677,
+    42.408904,
+    -92.450677,
+    42.408904
+],
+  "geometry": {"coordinates":[-92.450677,42.408904],"type":"Point"}
+}

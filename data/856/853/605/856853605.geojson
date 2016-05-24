@@ -1,0 +1,73 @@
+{
+  "id": 856853605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.411027,41.361316,-95.411027,41.361316",
+    "geom:latitude":41.361316,
+    "geom:longitude":-95.411027,
+    "iso:country":"US",
+    "sg:address":"40394 Lombardy Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6681",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6idLnBOImhvCnL3HcXxvL6_41.361316_-95.411027@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105706,
+    "wof:geomhash":"e84f13d4ed479fd40877dbf132ff3097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856853605
+        }
+    ],
+    "wof:id":856853605,
+    "wof:lastmodified":1464105706,
+    "wof:name":"Gene Fritz",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.411027,
+    41.361316,
+    -95.411027,
+    41.361316
+],
+  "geometry": {"coordinates":[-95.411027,41.361316],"type":"Point"}
+}

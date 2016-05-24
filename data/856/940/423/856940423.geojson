@@ -1,0 +1,73 @@
+{
+  "id": 856940423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.780695,41.918306,-91.780695,41.918306",
+    "geom:latitude":41.918306,
+    "geom:longitude":-91.780695,
+    "iso:country":"US",
+    "sg:address":"324 Church St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2772",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wkitf9aY0omfdVJyEmZI6_41.918306_-91.780695@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109692,
+    "wof:geomhash":"57c831261465fb911f254c248f478693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856940423
+        }
+    ],
+    "wof:id":856940423,
+    "wof:lastmodified":1464109692,
+    "wof:name":"St Patrick's Auditorium",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -91.780695,
+    41.918306,
+    -91.780695,
+    41.918306
+],
+  "geometry": {"coordinates":[-91.78069499999999,41.918306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857012495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535147,42.205289,-91.535147,42.205289",
+    "geom:latitude":42.205289,
+    "geom:longitude":-91.535147,
+    "iso:country":"US",
+    "sg:address":"4729 Horseshoe Falls Rd",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6616",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I30FMSZPRMMU3uVn6XabH_42.205289_-91.535147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112885,
+    "wof:geomhash":"ae609df7cda112ffd98f58f40388c681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857012495
+        }
+    ],
+    "wof:id":857012495,
+    "wof:lastmodified":1464112885,
+    "wof:name":"Pinicon Ridge Park",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -91.535147,
+    42.205289,
+    -91.535147,
+    42.205289
+],
+  "geometry": {"coordinates":[-91.53514699999999,42.205289],"type":"Point"}
+}

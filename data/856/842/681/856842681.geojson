@@ -1,0 +1,71 @@
+{
+  "id": 856842681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.30452,41.174269,-95.30452,41.174269",
+    "geom:latitude":41.174269,
+    "geom:longitude":-95.30452,
+    "iso:country":"US",
+    "sg:address":"46928 Pioneer Trl",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 767 2736",
+    "sg:postcode":"51541",
+    "sg:province":"IA",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hNlP06UIhCqB4HWBL5XZc_41.174269_-95.304520@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105121,
+    "wof:geomhash":"48bc28e560807194ec0db16d8dd592a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856842681
+        }
+    ],
+    "wof:id":856842681,
+    "wof:lastmodified":1464105121,
+    "wof:name":"Mother Earth Greenhouse",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -95.30452,
+    41.174269,
+    -95.30452,
+    41.174269
+],
+  "geometry": {"coordinates":[-95.30452,41.174269],"type":"Point"}
+}

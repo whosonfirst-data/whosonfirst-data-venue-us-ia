@@ -1,0 +1,74 @@
+{
+  "id": 857064273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929497,41.285198,-95.929497,41.285198",
+    "geom:latitude":41.285198,
+    "geom:longitude":-95.929497,
+    "iso:country":"US",
+    "sg:address":"111 Locust St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6800",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21eFDhdGJJnRajY3lcwYH1_41.285198_-95.929497@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115071,
+    "wof:geomhash":"d450a574b70c5b57672dbc0fa3aca654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064273
+        }
+    ],
+    "wof:id":857064273,
+    "wof:lastmodified":1464115071,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -95.929497,
+    41.285198,
+    -95.929497,
+    41.285198
+],
+  "geometry": {"coordinates":[-95.929497,41.285198],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856826357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.421063,42.509762,-96.421063,42.509762",
+    "geom:latitude":42.509762,
+    "geom:longitude":-96.421063,
+    "iso:country":"US",
+    "sg:address":"1820 Center St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 6848",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60bWTJJjrZz6H7lo3zoAJx_42.509762_-96.421063@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104360,
+    "wof:geomhash":"d44c69217e7338d8fa4213581a1a0cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856826357
+        }
+    ],
+    "wof:id":856826357,
+    "wof:lastmodified":1464104360,
+    "wof:name":"Wonder Hostess Thrift Shop",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.421063,
+    42.509762,
+    -96.421063,
+    42.509762
+],
+  "geometry": {"coordinates":[-96.421063,42.509762],"type":"Point"}
+}

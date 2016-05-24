@@ -1,0 +1,66 @@
+{
+  "id": 856814179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854888,41.241563,-95.854888,41.241563",
+    "geom:latitude":41.241563,
+    "geom:longitude":-95.854888,
+    "iso:country":"US",
+    "sg:address":"2001 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3838",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XdPt0yBof8irQleKs9vBA_41.241563_-95.854888@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103796,
+    "wof:geomhash":"23b6cdca7d8fee5b7f1449195db43381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856814179
+        }
+    ],
+    "wof:id":856814179,
+    "wof:lastmodified":1464103796,
+    "wof:name":"Cleanest Laundry In Town",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.854888,
+    41.241563,
+    -95.854888,
+    41.241563
+],
+  "geometry": {"coordinates":[-95.854888,41.241563],"type":"Point"}
+}

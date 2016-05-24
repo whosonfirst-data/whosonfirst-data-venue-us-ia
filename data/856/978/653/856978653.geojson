@@ -1,0 +1,71 @@
+{
+  "id": 856978653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.398977,41.465616,-93.398977,41.465616",
+    "geom:latitude":41.465616,
+    "geom:longitude":-93.398977,
+    "iso:country":"US",
+    "sg:address":"305 State Hwy 5",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0881",
+    "sg:postcode":"50118",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E3iTsBxjgI4PxbJH3RgA2_41.465616_-93.398977@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111401,
+    "wof:geomhash":"147389695b23d0d4f0f77eb91b7f8141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856978653
+        }
+    ],
+    "wof:id":856978653,
+    "wof:lastmodified":1464111401,
+    "wof:name":"Hartford Automotive",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.398977,
+    41.465616,
+    -93.398977,
+    41.465616
+],
+  "geometry": {"coordinates":[-93.398977,41.465616],"type":"Point"}
+}

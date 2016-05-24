@@ -1,0 +1,73 @@
+{
+  "id": 856949435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.887067,41.702903,-93.887067,41.702903",
+    "geom:latitude":41.702903,
+    "geom:longitude":-93.887067,
+    "iso:country":"US",
+    "sg:address":"3033 230th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3590",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HjeRKdQakCBe7qIYAZ8uH_41.702903_-93.887067@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110049,
+    "wof:geomhash":"a1ae66157d478b666c61cd8ba26bb47a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856949435
+        }
+    ],
+    "wof:id":856949435,
+    "wof:lastmodified":1464110049,
+    "wof:name":"Jack Schlueter",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.887067,
+    41.702903,
+    -93.887067,
+    41.702903
+],
+  "geometry": {"coordinates":[-93.887067,41.702903],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856972303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.846212,41.281653,-95.846212,41.281653",
+    "geom:latitude":41.281653,
+    "geom:longitude":-95.846212,
+    "iso:country":"US",
+    "sg:address":"334 Warren St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3121",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20NlrRJdjjCrI9LSTUB45c_41.281653_-95.846212@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111075,
+    "wof:geomhash":"d4805a93384a41eab408b09126cd17a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856972303
+        }
+    ],
+    "wof:id":856972303,
+    "wof:lastmodified":1464111075,
+    "wof:name":"Joe Ranney & Co",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.846212,
+    41.281653,
+    -95.846212,
+    41.281653
+],
+  "geometry": {"coordinates":[-95.84621199999999,41.281653],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857030825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625725,41.608657,-93.625725,41.608657",
+    "geom:latitude":41.608657,
+    "geom:longitude":-93.625725,
+    "iso:country":"US",
+    "sg:address":"1623 6th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 7667",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oriental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JBcu9eGhgdZ8wsq4tv19x_41.608657_-93.625725@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113692,
+    "wof:geomhash":"cfc98eb312d501771faa4cdf1c71bded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":857030825
+        }
+    ],
+    "wof:id":857030825,
+    "wof:lastmodified":1464113692,
+    "wof:name":"Des Moines Asian Food Store",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oriental"
+    ]
+},
+  "bbox": [
+    -93.625725,
+    41.608657,
+    -93.625725,
+    41.608657
+],
+  "geometry": {"coordinates":[-93.625725,41.608657],"type":"Point"}
+}

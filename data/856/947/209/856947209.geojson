@@ -1,0 +1,71 @@
+{
+  "id": 856947209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.721554,41.956456,-91.721554,41.956456",
+    "geom:latitude":41.956456,
+    "geom:longitude":-91.721554,
+    "iso:country":"US",
+    "sg:address":"3800 Wilson Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3182",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ns75ZKC3nh7yauqmFk5oW_41.956456_-91.721554@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109966,
+    "wof:geomhash":"909ec3d234d5926c0d0212db34c0da46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856947209
+        }
+    ],
+    "wof:id":856947209,
+    "wof:lastmodified":1464109966,
+    "wof:name":"Decision One",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -91.721554,
+    41.956456,
+    -91.721554,
+    41.956456
+],
+  "geometry": {"coordinates":[-91.721554,41.956456],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857060141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.55836,41.362345,-93.55836,41.362345",
+    "geom:latitude":41.362345,
+    "geom:longitude":-93.55836,
+    "iso:country":"US",
+    "sg:address":"300 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/172732-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4725",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1syiVoHxkfkSsP4rQtSC3x_41.362331_-93.558327@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114899,
+    "wof:geomhash":"2f90e3308247b4c48745967b4e8fe0b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857060141
+        }
+    ],
+    "wof:id":857060141,
+    "wof:lastmodified":1464114899,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -93.55836,
+    41.362345,
+    -93.55836,
+    41.362345
+],
+  "geometry": {"coordinates":[-93.55835999999999,41.362345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856901895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.012714,41.539,-94.012714,41.539",
+    "geom:latitude":41.539,
+    "geom:longitude":-94.012714,
+    "iso:country":"US",
+    "sg:address":"1200 Guthrie St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 1144",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WrScGYFin3Ulm9vQxuH9I_41.539000_-94.012714@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108121,
+    "wof:geomhash":"a856bccc0143d5f2037c8dadd7f9a256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856901895
+        }
+    ],
+    "wof:id":856901895,
+    "wof:lastmodified":1464108121,
+    "wof:name":"Motor KARS",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.012714,
+    41.539,
+    -94.012714,
+    41.539
+],
+  "geometry": {"coordinates":[-94.012714,41.539],"type":"Point"}
+}

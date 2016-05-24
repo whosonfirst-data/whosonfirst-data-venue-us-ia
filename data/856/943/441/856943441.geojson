@@ -1,0 +1,80 @@
+{
+  "id": 856943441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.384258,41.305133,-95.384258,41.305133",
+    "geom:latitude":41.305133,
+    "geom:longitude":-95.384258,
+    "iso:country":"US",
+    "sg:address":"914 Oakland Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3006",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Aq11FUFGNM4IhsjYnarIq_41.305133_-95.384258@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109826,
+    "wof:geomhash":"2ad6163d3a5ca33df1b772ef1c0125a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856943441
+        }
+    ],
+    "wof:id":856943441,
+    "wof:lastmodified":1464109826,
+    "wof:name":"Clarks Electric",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.384258,
+    41.305133,
+    -95.384258,
+    41.305133
+],
+  "geometry": {"coordinates":[-95.384258,41.305133],"type":"Point"}
+}

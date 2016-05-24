@@ -1,0 +1,73 @@
+{
+  "id": 856865419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.61022,41.59076,-93.61022,41.59076",
+    "geom:latitude":41.59076,
+    "geom:longitude":-93.61022,
+    "iso:country":"US",
+    "sg:address":"414 E 6th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 3388",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_616mv8GgLVurMEp0Wcrm2q_41.590760_-93.610220@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106228,
+    "wof:geomhash":"f48c88a1cf28f68884569ae6e6aad822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896391,
+            "region_id":85688713,
+            "venue_id":856865419
+        }
+    ],
+    "wof:id":856865419,
+    "wof:lastmodified":1464106228,
+    "wof:name":"Gong Fu Tea",
+    "wof:parent_id":85896391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea"
+    ]
+},
+  "bbox": [
+    -93.61022,
+    41.59076,
+    -93.61022,
+    41.59076
+],
+  "geometry": {"coordinates":[-93.61022,41.59076],"type":"Point"}
+}

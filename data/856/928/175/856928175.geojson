@@ -1,0 +1,71 @@
+{
+  "id": 856928175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.418143,41.236558,-95.418143,41.236558",
+    "geom:latitude":41.236558,
+    "geom:longitude":-95.418143,
+    "iso:country":"US",
+    "sg:address":"304 Broadway Blvd",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 2208",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y1MLEwv9uS1XkbllmTvf4_41.236558_-95.418143@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109173,
+    "wof:geomhash":"fbaa83c9d571bffc9b90a05a567fc54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856928175
+        }
+    ],
+    "wof:id":856928175,
+    "wof:lastmodified":1464109173,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.418143,
+    41.236558,
+    -95.418143,
+    41.236558
+],
+  "geometry": {"coordinates":[-95.418143,41.236558],"type":"Point"}
+}

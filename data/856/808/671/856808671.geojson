@@ -1,0 +1,73 @@
+{
+  "id": 856808671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.795003,41.298049,-95.795003,41.298049",
+    "geom:latitude":41.298049,
+    "geom:longitude":-95.795003,
+    "iso:country":"US",
+    "sg:address":"19544 Garner Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3657",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TkOXvSVu9MR3RjSafGXOx_41.298049_-95.795003@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103572,
+    "wof:geomhash":"d3016c716a288ca618b701c0098a8e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856808671
+        }
+    ],
+    "wof:id":856808671,
+    "wof:lastmodified":1464103572,
+    "wof:name":"H & M Concrete Inc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.795003,
+    41.298049,
+    -95.795003,
+    41.298049
+],
+  "geometry": {"coordinates":[-95.79500299999999,41.298049],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856907727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.824349,41.615588,-93.824349,41.615588",
+    "geom:latitude":41.615588,
+    "geom:longitude":-93.824349,
+    "iso:country":"US",
+    "sg:address":"2311 NW 150th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 5254",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consulting",
+        "administration",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3thC5y1HaPzhtAfCYvbttZ_41.615588_-93.824349@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108333,
+    "wof:geomhash":"428d728c00528f765b291e92ec103805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856907727
+        }
+    ],
+    "wof:id":856907727,
+    "wof:lastmodified":1464108333,
+    "wof:name":"Terry A Walter Consulting",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "administration",
+        "public"
+    ]
+},
+  "bbox": [
+    -93.824349,
+    41.615588,
+    -93.824349,
+    41.615588
+],
+  "geometry": {"coordinates":[-93.824349,41.615588],"type":"Point"}
+}

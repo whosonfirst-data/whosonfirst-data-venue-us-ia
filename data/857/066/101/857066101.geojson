@@ -1,0 +1,68 @@
+{
+  "id": 857066101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660068,41.975421,-91.660068,41.975421",
+    "geom:latitude":41.975421,
+    "geom:longitude":-91.660068,
+    "iso:country":"US",
+    "sg:address":"501 7th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Winery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 2778",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JzGhHaQuKrlwHPbz6bQju_41.975421_-91.660068@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115139,
+    "wof:geomhash":"6898cb0ce9b8da7329259750c2c7d11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066101
+        }
+    ],
+    "wof:id":857066101,
+    "wof:lastmodified":1464115139,
+    "wof:name":"Cedar Ridge Vinyards",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.660068,
+    41.975421,
+    -91.660068,
+    41.975421
+],
+  "geometry": {"coordinates":[-91.660068,41.975421],"type":"Point"}
+}

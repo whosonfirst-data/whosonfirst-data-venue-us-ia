@@ -1,0 +1,74 @@
+{
+  "id": 857052527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6549,41.9939,-91.6549,41.9939",
+    "geom:latitude":41.9939,
+    "geom:longitude":-91.6549,
+    "iso:country":"US",
+    "sg:address":"601 16th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9161",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocery",
+        "cereal"
+    ],
+    "sg:website":"www.ralcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aOG9V6zlHuf8MNFGgMLYA_41.994080_-91.655217@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114598,
+    "wof:geomhash":"d148a26dde339b5660ec713de1fc4965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857052527
+        }
+    ],
+    "wof:id":857052527,
+    "wof:lastmodified":1464114598,
+    "wof:name":"Ralston Foods",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "cereal"
+    ]
+},
+  "bbox": [
+    -91.6549,
+    41.9939,
+    -91.6549,
+    41.9939
+],
+  "geometry": {"coordinates":[-91.6549,41.9939],"type":"Point"}
+}

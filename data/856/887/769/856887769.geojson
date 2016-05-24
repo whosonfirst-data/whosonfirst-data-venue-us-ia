@@ -1,0 +1,75 @@
+{
+  "id": 856887769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.864084,41.253443,-95.864084,41.253443",
+    "geom:latitude":41.253443,
+    "geom:longitude":-95.864084,
+    "iso:country":"US",
+    "sg:address":"1300 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 1692",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zAXn8La2wuT4PE8sQqPxj_41.253443_-95.864084@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107592,
+    "wof:geomhash":"3391d5ec9470e524c3c0a1cd299828b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856887769
+        }
+    ],
+    "wof:id":856887769,
+    "wof:lastmodified":1464107592,
+    "wof:name":"Larry Molgaard Body Shop",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.864084,
+    41.253443,
+    -95.864084,
+    41.253443
+],
+  "geometry": {"coordinates":[-95.86408400000001,41.253443],"type":"Point"}
+}

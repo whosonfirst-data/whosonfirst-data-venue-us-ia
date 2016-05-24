@@ -1,0 +1,71 @@
+{
+  "id": 857022587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.560958,41.361413,-93.560958,41.361413",
+    "geom:latitude":41.361413,
+    "geom:longitude":-93.560958,
+    "iso:country":"US",
+    "sg:address":"102 W Ashland Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8731",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S8M5qJI2CfJWpiQWEPca3_41.361413_-93.560958@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113301,
+    "wof:geomhash":"37321c20b8a2566b6e7ed2c35caa0e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857022587
+        }
+    ],
+    "wof:id":857022587,
+    "wof:lastmodified":1464113301,
+    "wof:name":"Zoo",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -93.560958,
+    41.361413,
+    -93.560958,
+    41.361413
+],
+  "geometry": {"coordinates":[-93.560958,41.361413],"type":"Point"}
+}

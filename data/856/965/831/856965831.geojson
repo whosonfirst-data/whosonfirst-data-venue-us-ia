@@ -1,0 +1,73 @@
+{
+  "id": 856965831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614088,41.984409,-91.614088,41.984409",
+    "geom:latitude":41.984409,
+    "geom:longitude":-91.614088,
+    "iso:country":"US",
+    "sg:address":"305 Trailridge Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2450",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g0gZtikwCQzaptb6Tcc0W_41.984409_-91.614088@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110783,
+    "wof:geomhash":"45df8aaefe7e4a3afb8222ed5c80b28f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856965831
+        }
+    ],
+    "wof:id":856965831,
+    "wof:lastmodified":1464110783,
+    "wof:name":"Herbalife Dist",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -91.614088,
+    41.984409,
+    -91.614088,
+    41.984409
+],
+  "geometry": {"coordinates":[-91.614088,41.984409],"type":"Point"}
+}

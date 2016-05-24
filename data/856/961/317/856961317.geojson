@@ -1,0 +1,73 @@
+{
+  "id": 856961317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.928211,41.688312,-93.928211,41.688312",
+    "geom:latitude":41.688312,
+    "geom:longitude":-93.928211,
+    "iso:country":"US",
+    "sg:address":"2819 240th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3888",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PRezFWlss1tnn1l2i71v2_41.688312_-93.928211@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110597,
+    "wof:geomhash":"017a87ec3916e3cb02a5d045b77e7ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856961317
+        }
+    ],
+    "wof:id":856961317,
+    "wof:lastmodified":1464110597,
+    "wof:name":"Rhinehart Excavating Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.928211,
+    41.688312,
+    -93.928211,
+    41.688312
+],
+  "geometry": {"coordinates":[-93.928211,41.688312],"type":"Point"}
+}

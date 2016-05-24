@@ -1,0 +1,75 @@
+{
+  "id": 857010083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.513125,41.707733,-91.513125,41.707733",
+    "geom:latitude":41.707733,
+    "geom:longitude":-91.513125,
+    "iso:country":"US",
+    "sg:address":"3084 Newport Rd NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8347",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ni3czsPRbgoIs3tE8navP_41.707733_-91.513125@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112787,
+    "wof:geomhash":"01b18b886ae3764b780ff3bd5e08affc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896449,
+            "region_id":85688713,
+            "venue_id":857010083
+        }
+    ],
+    "wof:id":857010083,
+    "wof:lastmodified":1464112787,
+    "wof:name":"Betty Sedlacek & Sons",
+    "wof:parent_id":85896449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -91.513125,
+    41.707733,
+    -91.513125,
+    41.707733
+],
+  "geometry": {"coordinates":[-91.513125,41.707733],"type":"Point"}
+}

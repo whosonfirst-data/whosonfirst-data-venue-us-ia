@@ -1,0 +1,73 @@
+{
+  "id": 856999241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677173,41.9677,-91.677173,41.9677",
+    "geom:latitude":41.9677,
+    "geom:longitude":-91.677173,
+    "iso:country":"US",
+    "sg:address":"822 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1181",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4El09cKFudjvrfaaVHbfzI_41.967700_-91.677173@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112333,
+    "wof:geomhash":"cd6ceb67cc54de9a8c4c0f4301668058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856999241
+        }
+    ],
+    "wof:id":856999241,
+    "wof:lastmodified":1464112333,
+    "wof:name":"Lupida",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -91.677173,
+    41.9677,
+    -91.677173,
+    41.9677
+],
+  "geometry": {"coordinates":[-91.677173,41.9677],"type":"Point"}
+}

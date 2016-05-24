@@ -1,0 +1,73 @@
+{
+  "id": 857033723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.374199,42.473678,-96.374199,42.473678",
+    "geom:latitude":42.473678,
+    "geom:longitude":-96.374199,
+    "iso:country":"US",
+    "sg:address":"1617 S Fairmount St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 4381",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BafGRijI6TyGiJYixmAiA_42.473678_-96.374199@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113811,
+    "wof:geomhash":"66d4830a490efb091b24f99efcf499d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857033723
+        }
+    ],
+    "wof:id":857033723,
+    "wof:lastmodified":1464113811,
+    "wof:name":"Quality Concrete Of Siouxland",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.374199,
+    42.473678,
+    -96.374199,
+    42.473678
+],
+  "geometry": {"coordinates":[-96.374199,42.473678],"type":"Point"}
+}

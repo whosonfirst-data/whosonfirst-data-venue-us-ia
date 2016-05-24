@@ -1,0 +1,73 @@
+{
+  "id": 856971679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.403287,41.360676,-95.403287,41.360676",
+    "geom:latitude":41.360676,
+    "geom:longitude":-95.403287,
+    "iso:country":"US",
+    "sg:address":"23963 410th St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3528",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YGFM25v4eZeWoawNslZ8O_41.360676_-95.403287@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111048,
+    "wof:geomhash":"142b76f541137177b7ec49480abd438b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856971679
+        }
+    ],
+    "wof:id":856971679,
+    "wof:lastmodified":1464111048,
+    "wof:name":"Donald Kearney",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.403287,
+    41.360676,
+    -95.403287,
+    41.360676
+],
+  "geometry": {"coordinates":[-95.40328700000001,41.360676],"type":"Point"}
+}

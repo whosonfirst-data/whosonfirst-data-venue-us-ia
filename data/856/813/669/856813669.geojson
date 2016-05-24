@@ -1,0 +1,71 @@
+{
+  "id": 856813669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.567378,41.360431,-93.567378,41.360431",
+    "geom:latitude":41.360431,
+    "geom:longitude":-93.567378,
+    "iso:country":"US",
+    "sg:address":"602 W Salem Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 7746",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hp0Cd5DAeuz80JpUlCtow_41.360431_-93.567378@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103777,
+    "wof:geomhash":"ece9f7853c69832593ed6d4494e497d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856813669
+        }
+    ],
+    "wof:id":856813669,
+    "wof:lastmodified":1464103777,
+    "wof:name":"May Construction Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.567378,
+    41.360431,
+    -93.567378,
+    41.360431
+],
+  "geometry": {"coordinates":[-93.56737800000001,41.360431],"type":"Point"}
+}

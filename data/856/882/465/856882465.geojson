@@ -1,0 +1,73 @@
+{
+  "id": 856882465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.653128,41.540906,-93.653128,41.540906",
+    "geom:latitude":41.540906,
+    "geom:longitude":-93.653128,
+    "iso:country":"US",
+    "sg:address":"3000 McKinley Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 287 4620",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31FfAQaqjgj2RB7Lo6oDs6_41.540906_-93.653128@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107310,
+    "wof:geomhash":"f1660584ac6ef8fc8dc83e3d87b91904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896397,
+            "region_id":85688713,
+            "venue_id":856882465
+        }
+    ],
+    "wof:id":856882465,
+    "wof:lastmodified":1464107310,
+    "wof:name":"US Air Traffic Control",
+    "wof:parent_id":85896397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -93.653128,
+    41.540906,
+    -93.653128,
+    41.540906
+],
+  "geometry": {"coordinates":[-93.653128,41.540906],"type":"Point"}
+}

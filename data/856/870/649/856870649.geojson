@@ -1,0 +1,73 @@
+{
+  "id": 856870649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.984071,41.632714,-93.984071,41.632714",
+    "geom:latitude":41.632714,
+    "geom:longitude":-93.984071,
+    "iso:country":"US",
+    "sg:address":"2765 Prospect Ave",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5411",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qBcf0mt1bn1reVoyQP0b4_41.632714_-93.984071@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106620,
+    "wof:geomhash":"28da3f75f0b1e4e8124765f9e57d96ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856870649
+        }
+    ],
+    "wof:id":856870649,
+    "wof:lastmodified":1464106620,
+    "wof:name":"Jerry L Ray Siding",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.984071,
+    41.632714,
+    -93.984071,
+    41.632714
+],
+  "geometry": {"coordinates":[-93.984071,41.632714],"type":"Point"}
+}

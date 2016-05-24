@@ -1,0 +1,71 @@
+{
+  "id": 856824969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.39546,41.302678,-95.39546,41.302678",
+    "geom:latitude":41.302678,
+    "geom:longitude":-95.39546,
+    "iso:country":"US",
+    "sg:address":"405 Hill St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 5550",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IGGdrD15T3MN62lPiM8vw_41.302678_-95.395460@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104301,
+    "wof:geomhash":"37fa8f971c9d68d38a5053c949dfd264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856824969
+        }
+    ],
+    "wof:id":856824969,
+    "wof:lastmodified":1464104301,
+    "wof:name":"V P Publishing",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -95.39546,
+    41.302678,
+    -95.39546,
+    41.302678
+],
+  "geometry": {"coordinates":[-95.39546,41.302678],"type":"Point"}
+}

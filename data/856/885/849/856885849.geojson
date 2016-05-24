@@ -1,0 +1,71 @@
+{
+  "id": 856885849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633491,41.95387,-91.633491,41.95387",
+    "geom:latitude":41.95387,
+    "geom:longitude":-91.633491,
+    "iso:country":"US",
+    "sg:address":"2356 Blakely Blvd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2730",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ABfImW1axs4MAozF1ff4s_41.953870_-91.633491@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107516,
+    "wof:geomhash":"14048baef10ca4259066d1c0661fc618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856885849
+        }
+    ],
+    "wof:id":856885849,
+    "wof:lastmodified":1464107516,
+    "wof:name":"Coppess Distributing",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -91.633491,
+    41.95387,
+    -91.633491,
+    41.95387
+],
+  "geometry": {"coordinates":[-91.63349100000001,41.95387],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856862403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.826012,41.945442,-91.826012,41.945442",
+    "geom:latitude":41.945442,
+    "geom:longitude":-91.826012,
+    "iso:country":"US",
+    "sg:address":"12211 Morgan Valley Rd SW",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2251",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01yols68GdacL2Em7FZTgL_41.945442_-91.826012@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106092,
+    "wof:geomhash":"089cbb5d8316b1acbade78c4ecd3252d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856862403
+        }
+    ],
+    "wof:id":856862403,
+    "wof:lastmodified":1464106092,
+    "wof:name":"Gerald Stallman",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.826012,
+    41.945442,
+    -91.826012,
+    41.945442
+],
+  "geometry": {"coordinates":[-91.82601200000001,41.945442],"type":"Point"}
+}

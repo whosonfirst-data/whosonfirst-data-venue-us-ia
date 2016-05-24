@@ -1,0 +1,68 @@
+{
+  "id": 856996711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533123,41.653531,-91.533123,41.653531",
+    "geom:latitude":41.653531,
+    "geom:longitude":-91.533123,
+    "iso:country":"US",
+    "sg:address":"602 S Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 8900",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qSfhuG18LZS8AwKFYVJOu_41.653531_-91.533123@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112248,
+    "wof:geomhash":"2799db69c3e6204fca0aa2cfe9b1e326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856996711
+        }
+    ],
+    "wof:id":856996711,
+    "wof:lastmodified":1464112248,
+    "wof:name":"Broken Spoke",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.533123,
+    41.653531,
+    -91.533123,
+    41.653531
+],
+  "geometry": {"coordinates":[-91.533123,41.653531],"type":"Point"}
+}

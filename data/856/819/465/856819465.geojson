@@ -1,0 +1,71 @@
+{
+  "id": 856819465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89399,42.28717,-95.89399,42.28717",
+    "geom:latitude":42.28717,
+    "geom:longitude":-95.89399,
+    "iso:country":"US",
+    "sg:address":"27 Washington St",
+    "sg:city":"Oto",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 827 4522",
+    "sg:postcode":"51044",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52D6ECojMmZIr7TY9CLxaK_42.287170_-95.893990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104034,
+    "wof:geomhash":"9d7a1d92e9d6acfc611724adfac953a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856819465
+        }
+    ],
+    "wof:id":856819465,
+    "wof:lastmodified":1464104034,
+    "wof:name":"Oto City Hall",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.89399,
+    42.28717,
+    -95.89399,
+    42.28717
+],
+  "geometry": {"coordinates":[-95.89399,42.28717],"type":"Point"}
+}

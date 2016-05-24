@@ -1,0 +1,75 @@
+{
+  "id": 857063083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.878909,41.238312,-95.878909,41.238312",
+    "geom:latitude":41.238312,
+    "geom:longitude":-95.878909,
+    "iso:country":"US",
+    "sg:address":"2411 S 24th St Ste 1",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1807",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oEJv29Hp0HBJKZ8ijSuWM_41.238312_-95.878909@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115025,
+    "wof:geomhash":"2b868f9cb9a679636ccebe1939a37fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063083
+        }
+    ],
+    "wof:id":857063083,
+    "wof:lastmodified":1464115025,
+    "wof:name":"I-80 Liquor & Tobacco",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -95.878909,
+    41.238312,
+    -95.878909,
+    41.238312
+],
+  "geometry": {"coordinates":[-95.87890899999999,41.238312],"type":"Point"}
+}

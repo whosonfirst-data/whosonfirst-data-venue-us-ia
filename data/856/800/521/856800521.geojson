@@ -1,0 +1,68 @@
+{
+  "id": 856800521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.644833,41.587969,-93.644833,41.587969",
+    "geom:latitude":41.587969,
+    "geom:longitude":-93.644833,
+    "iso:country":"US",
+    "sg:address":"2002 Woodland Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 237 3600",
+    "sg:postcode":"50312",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40kp1GyndRLcj5u9s2MiIa_41.587969_-93.644833@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103216,
+    "wof:geomhash":"a9fe6694546aa7b6868ba78732357805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856800521
+        }
+    ],
+    "wof:id":856800521,
+    "wof:lastmodified":1464103216,
+    "wof:name":"Lunch Box Deli",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.644833,
+    41.587969,
+    -93.644833,
+    41.587969
+],
+  "geometry": {"coordinates":[-93.64483300000001,41.587969],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856885965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.572774,41.358437,-93.572774,41.358437",
+    "geom:latitude":41.358437,
+    "geom:longitude":-93.572774,
+    "iso:country":"US",
+    "sg:address":"902 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2523",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gJnyQ3h6Qy39ci3afDyWa_41.358437_-93.572774@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107520,
+    "wof:geomhash":"fbff05e8df921f383331fc6c2371c0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856885965
+        }
+    ],
+    "wof:id":856885965,
+    "wof:lastmodified":1464107520,
+    "wof:name":"Jack L Anderson Auto Body-Sale",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.572774,
+    41.358437,
+    -93.572774,
+    41.358437
+],
+  "geometry": {"coordinates":[-93.572774,41.358437],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856867751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.550051,42.046442,-91.550051,42.046442",
+    "geom:latitude":42.046442,
+    "geom:longitude":-91.550051,
+    "iso:country":"US",
+    "sg:address":"2501 State Hwy 13",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 8302",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57cUgEs2yQIK4YNwDSYzat_42.046442_-91.550051@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106374,
+    "wof:geomhash":"27d08d8d959445eaa55b2144d789dff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856867751
+        }
+    ],
+    "wof:id":856867751,
+    "wof:lastmodified":1464106374,
+    "wof:name":"Moundview Manor",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.550051,
+    42.046442,
+    -91.550051,
+    42.046442
+],
+  "geometry": {"coordinates":[-91.550051,42.046442],"type":"Point"}
+}

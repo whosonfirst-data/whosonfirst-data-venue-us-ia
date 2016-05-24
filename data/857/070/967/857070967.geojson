@@ -1,0 +1,74 @@
+{
+  "id": 857070967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724436,41.954318,-91.724436,41.954318",
+    "geom:latitude":41.954318,
+    "geom:longitude":-91.724436,
+    "iso:country":"US",
+    "sg:address":"2425 Wiley Blvd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0445",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "sg:website":"www.toysrus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qWQMQMnssFOx0hI5jB3AS_41.954318_-91.724436@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115374,
+    "wof:geomhash":"ca8d909050276f42394926b4c81e7bac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070967
+        }
+    ],
+    "wof:id":857070967,
+    "wof:lastmodified":1464115374,
+    "wof:name":"Toys R Us",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.724436,
+    41.954318,
+    -91.724436,
+    41.954318
+],
+  "geometry": {"coordinates":[-91.724436,41.954318],"type":"Point"}
+}

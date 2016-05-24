@@ -1,0 +1,71 @@
+{
+  "id": 856785515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.922074,41.856673,-93.922074,41.856673",
+    "geom:latitude":41.856673,
+    "geom:longitude":-93.922074,
+    "iso:country":"US",
+    "sg:address":"204 S Main St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2820",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XNQ8mdMKoC7ptU6g83Uu8_41.856673_-93.922074@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102595,
+    "wof:geomhash":"a0a5eb3a919ec4cf584dd97d6bfc10e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856785515
+        }
+    ],
+    "wof:id":856785515,
+    "wof:lastmodified":1464102595,
+    "wof:name":"Casey's Carry Out Pizza",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.922074,
+    41.856673,
+    -93.922074,
+    41.856673
+],
+  "geometry": {"coordinates":[-93.92207399999999,41.856673],"type":"Point"}
+}

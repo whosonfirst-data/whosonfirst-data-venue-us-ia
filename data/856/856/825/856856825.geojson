@@ -1,0 +1,73 @@
+{
+  "id": 856856825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.705516,41.281911,-95.705516,41.281911",
+    "geom:latitude":41.281911,
+    "geom:longitude":-95.705516,
+    "iso:country":"US",
+    "sg:address":"25078 McPherson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2225",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58MIXHNlG2KNlbM3r075y0_41.281911_-95.705516@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105831,
+    "wof:geomhash":"173584d3a74d2e725696b6796488b9e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856856825
+        }
+    ],
+    "wof:id":856856825,
+    "wof:lastmodified":1464105831,
+    "wof:name":"Asphalt Striping & Seal",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.705516,
+    41.281911,
+    -95.705516,
+    41.281911
+],
+  "geometry": {"coordinates":[-95.705516,41.281911],"type":"Point"}
+}

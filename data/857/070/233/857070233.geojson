@@ -1,0 +1,74 @@
+{
+  "id": 857070233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.680526,41.91443,-91.680526,41.91443",
+    "geom:latitude":41.91443,
+    "geom:longitude":-91.680526,
+    "iso:country":"US",
+    "sg:address":"900 66th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8327",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.halalfoodprocessors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QVTyfpk8HZWMvVyBsyVZ3_41.914430_-91.680526@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115344,
+    "wof:geomhash":"fb15d845f7fc5f7cbec71fad8bb6a5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070233
+        }
+    ],
+    "wof:id":857070233,
+    "wof:lastmodified":1464115344,
+    "wof:name":"Halal Food Processors",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.680526,
+    41.91443,
+    -91.680526,
+    41.91443
+],
+  "geometry": {"coordinates":[-91.680526,41.91443],"type":"Point"}
+}

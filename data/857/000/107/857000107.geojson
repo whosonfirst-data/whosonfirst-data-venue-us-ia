@@ -1,0 +1,75 @@
+{
+  "id": 857000107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654544,42.068104,-91.654544,42.068104",
+    "geom:latitude":42.068104,
+    "geom:longitude":-91.654544,
+    "iso:country":"US",
+    "sg:address":"1040 E Main St",
+    "sg:city":"Robins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7230",
+    "sg:postcode":"52328",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57JEXyHSRUAcjHKZvAO5fS_42.068104_-91.654544@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112372,
+    "wof:geomhash":"1571740c0ee26c5cba4928c5d499c0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857000107
+        }
+    ],
+    "wof:id":857000107,
+    "wof:lastmodified":1464112372,
+    "wof:name":"Dennis Oberbroeckling General",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.654544,
+    42.068104,
+    -91.654544,
+    42.068104
+],
+  "geometry": {"coordinates":[-91.654544,42.068104],"type":"Point"}
+}

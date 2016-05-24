@@ -1,0 +1,73 @@
+{
+  "id": 857066933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661797,41.981098,-91.661797,41.981098",
+    "geom:latitude":41.981098,
+    "geom:longitude":-91.661797,
+    "iso:country":"US",
+    "sg:address":"706 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8150",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55SKZRLPaq9ITYOkkeMKz1_41.981098_-91.661797@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115176,
+    "wof:geomhash":"2dcd37a7e343fe8f4ee15807b19b7b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066933
+        }
+    ],
+    "wof:id":857066933,
+    "wof:lastmodified":1464115176,
+    "wof:name":"Home Appliance Center",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -91.661797,
+    41.981098,
+    -91.661797,
+    41.981098
+],
+  "geometry": {"coordinates":[-91.66179700000001,41.981098],"type":"Point"}
+}

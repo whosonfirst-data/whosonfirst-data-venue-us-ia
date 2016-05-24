@@ -1,0 +1,71 @@
+{
+  "id": 856809971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.885692,41.613536,-93.885692,41.613536",
+    "geom:latitude":41.613536,
+    "geom:longitude":-93.885692,
+    "iso:country":"US",
+    "sg:address":"120 6th St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 1309",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n0JB4O1hRqAscY6RorV5V_41.613536_-93.885692@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103637,
+    "wof:geomhash":"8494c305f4f18cb7dfaa972fc1b009dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856809971
+        }
+    ],
+    "wof:id":856809971,
+    "wof:lastmodified":1464103637,
+    "wof:name":"Sixth Street Salon",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.885692,
+    41.613536,
+    -93.885692,
+    41.613536
+],
+  "geometry": {"coordinates":[-93.88569200000001,41.613536],"type":"Point"}
+}

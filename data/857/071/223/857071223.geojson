@@ -1,0 +1,73 @@
+{
+  "id": 857071223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716202,41.975201,-91.716202,41.975201",
+    "geom:latitude":41.975201,
+    "geom:longitude":-91.716202,
+    "iso:country":"US",
+    "sg:address":"365 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8891",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qkQVvj5ia2emdxEjqZSKv_41.975201_-91.716202@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115383,
+    "wof:geomhash":"76eb7d68242267770eb3a741c2087b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071223
+        }
+    ],
+    "wof:id":857071223,
+    "wof:lastmodified":1464115383,
+    "wof:name":"Mr Movies",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -91.716202,
+    41.975201,
+    -91.716202,
+    41.975201
+],
+  "geometry": {"coordinates":[-91.716202,41.975201],"type":"Point"}
+}

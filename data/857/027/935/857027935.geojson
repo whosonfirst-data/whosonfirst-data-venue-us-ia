@@ -1,0 +1,68 @@
+{
+  "id": 857027935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.708469,41.66492,-93.708469,41.66492",
+    "geom:latitude":41.66492,
+    "geom:longitude":-93.708469,
+    "iso:country":"US",
+    "sg:address":"6500 Corporate Dr",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 9030",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2adptKRAgsHz1JmVvE6KeM_41.664920_-93.708469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113544,
+    "wof:geomhash":"c8351c83836bf569719c6e77945c558a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896487,
+            "region_id":85688713,
+            "venue_id":857027935
+        }
+    ],
+    "wof:id":857027935,
+    "wof:lastmodified":1464113544,
+    "wof:name":"Area Education Agency 11",
+    "wof:parent_id":85896487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.708469,
+    41.66492,
+    -93.708469,
+    41.66492
+],
+  "geometry": {"coordinates":[-93.70846899999999,41.66492],"type":"Point"}
+}

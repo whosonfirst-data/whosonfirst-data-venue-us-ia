@@ -1,0 +1,75 @@
+{
+  "id": 856980217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881669,41.263802,-95.881669,41.263802",
+    "geom:latitude":41.263802,
+    "geom:longitude":-95.881669,
+    "iso:country":"US",
+    "sg:address":"2410 Ave B",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7003",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q70cEGr9N8Zpc0r4WoU6j_41.263802_-95.881669@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111467,
+    "wof:geomhash":"c6ee66bd77983cc6ccb5a12f1889fe69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856980217
+        }
+    ],
+    "wof:id":856980217,
+    "wof:lastmodified":1464111467,
+    "wof:name":"A-1 Insulation",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.881669,
+    41.263802,
+    -95.881669,
+    41.263802
+],
+  "geometry": {"coordinates":[-95.881669,41.263802],"type":"Point"}
+}

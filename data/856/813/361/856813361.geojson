@@ -1,0 +1,73 @@
+{
+  "id": 856813361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.595577,41.976883,-91.595577,41.976883",
+    "geom:latitude":41.976883,
+    "geom:longitude":-91.595577,
+    "iso:country":"US",
+    "sg:address":"4600 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1771",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qsdUBVJBr7uTWXmqMThp3_41.976883_-91.595577@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103767,
+    "wof:geomhash":"bd76e8c1878a668c61c42319b9813512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856813361
+        }
+    ],
+    "wof:id":856813361,
+    "wof:lastmodified":1464103767,
+    "wof:name":"Vernon Heights Auto",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.595577,
+    41.976883,
+    -91.595577,
+    41.976883
+],
+  "geometry": {"coordinates":[-91.59557700000001,41.976883],"type":"Point"}
+}

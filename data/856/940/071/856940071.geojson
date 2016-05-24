@@ -1,0 +1,71 @@
+{
+  "id": 856940071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.576767,42.035384,-91.576767,42.035384",
+    "geom:latitude":42.035384,
+    "geom:longitude":-91.576767,
+    "iso:country":"US",
+    "sg:address":"3270 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 4888",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38TEQKxMesifet09vVvlIG_42.035384_-91.576767@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109675,
+    "wof:geomhash":"b19ff71266b8bb21226296aacb7f23ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856940071
+        }
+    ],
+    "wof:id":856940071,
+    "wof:lastmodified":1464109675,
+    "wof:name":"Marion Tire Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.576767,
+    42.035384,
+    -91.576767,
+    42.035384
+],
+  "geometry": {"coordinates":[-91.576767,42.035384],"type":"Point"}
+}

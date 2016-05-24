@@ -1,0 +1,79 @@
+{
+  "id": 857063873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850866,41.259735,-95.850866,41.259735",
+    "geom:latitude":41.259735,
+    "geom:longitude":-95.850866,
+    "iso:country":"US",
+    "sg:address":"510 1st Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5865",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trainer",
+        "performing"
+    ],
+    "sg:website":"www.deedeesdancestudio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DLymyW5sL68qS5TYgGgj0_41.259735_-95.850866@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115058,
+    "wof:geomhash":"1904f75bfea70d4b2affef44d8d24aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063873
+        }
+    ],
+    "wof:id":857063873,
+    "wof:lastmodified":1464115058,
+    "wof:name":"Dee Dee's Dance Studio",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer",
+        "performing"
+    ]
+},
+  "bbox": [
+    -95.850866,
+    41.259735,
+    -95.850866,
+    41.259735
+],
+  "geometry": {"coordinates":[-95.850866,41.259735],"type":"Point"}
+}

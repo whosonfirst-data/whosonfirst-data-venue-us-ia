@@ -1,0 +1,71 @@
+{
+  "id": 856782411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.617521,41.571647,-91.617521,41.571647",
+    "geom:latitude":41.571647,
+    "geom:longitude":-91.617521,
+    "iso:country":"US",
+    "sg:address":"4959 Lackender Ave SW",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 679 2340",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40aHrcMbdLHaXhrCnw2eW8_41.571647_-91.617521@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102488,
+    "wof:geomhash":"c6a8f13699ae4ec67bd77cd0e7b35eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856782411
+        }
+    ],
+    "wof:id":856782411,
+    "wof:lastmodified":1464102488,
+    "wof:name":"Douglas Lackender",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.617521,
+    41.571647,
+    -91.617521,
+    41.571647
+],
+  "geometry": {"coordinates":[-91.617521,41.571647],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856904033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851777,41.249857,-95.851777,41.249857",
+    "geom:latitude":41.249857,
+    "geom:longitude":-95.851777,
+    "iso:country":"US",
+    "sg:address":"1228 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 9306",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59WNnNn2Jg2DOrhuLfCWYg_41.249857_-95.851777@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108193,
+    "wof:geomhash":"321b65588afaeab7935ca2804b38e9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856904033
+        }
+    ],
+    "wof:id":856904033,
+    "wof:lastmodified":1464108193,
+    "wof:name":"CCH Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -95.851777,
+    41.249857,
+    -95.851777,
+    41.249857
+],
+  "geometry": {"coordinates":[-95.851777,41.249857],"type":"Point"}
+}

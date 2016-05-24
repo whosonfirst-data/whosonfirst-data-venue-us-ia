@@ -1,0 +1,71 @@
+{
+  "id": 857013101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.681213,42.045156,-91.681213,42.045156",
+    "geom:latitude":42.045156,
+    "geom:longitude":-91.681213,
+    "iso:country":"US",
+    "sg:address":"760 N Center Point Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5768",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c5ZXrXvT0GuNye0y7uQsR_42.045156_-91.681213@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112914,
+    "wof:geomhash":"284510cebf89cf6979aceb651394f2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857013101
+        }
+    ],
+    "wof:id":857013101,
+    "wof:lastmodified":1464112914,
+    "wof:name":"Pella Window Store",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -91.681213,
+    42.045156,
+    -91.681213,
+    42.045156
+],
+  "geometry": {"coordinates":[-91.681213,42.045156],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856886437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.131835,41.521575,-94.131835,41.521575",
+    "geom:latitude":41.521575,
+    "geom:longitude":-94.131835,
+    "iso:country":"US",
+    "sg:address":"1798 358th Pl",
+    "sg:city":"Earlham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 758 2792",
+    "sg:postcode":"50072",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wI0tsSNrCZnQJgiMbfOMM_41.521575_-94.131835@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107535,
+    "wof:geomhash":"2456711cc323ea632b69b01e6bd8befa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856886437
+        }
+    ],
+    "wof:id":856886437,
+    "wof:lastmodified":1464107535,
+    "wof:name":"Deborah's School Of Dance",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -94.131835,
+    41.521575,
+    -94.131835,
+    41.521575
+],
+  "geometry": {"coordinates":[-94.131835,41.521575],"type":"Point"}
+}

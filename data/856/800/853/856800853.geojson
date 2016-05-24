@@ -1,0 +1,71 @@
+{
+  "id": 856800853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.760927,41.971982,-91.760927,41.971982",
+    "geom:latitude":41.971982,
+    "geom:longitude":-91.760927,
+    "iso:country":"US",
+    "sg:address":"6918 1st Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4293",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65xMr3d3ogl9rpt6fpLz9I_41.971982_-91.760927@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103230,
+    "wof:geomhash":"981e640b269b632aafe21c8de18ca3c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856800853
+        }
+    ],
+    "wof:id":856800853,
+    "wof:lastmodified":1464103230,
+    "wof:name":"Professional Coatings Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating"
+    ]
+},
+  "bbox": [
+    -91.760927,
+    41.971982,
+    -91.760927,
+    41.971982
+],
+  "geometry": {"coordinates":[-91.760927,41.971982],"type":"Point"}
+}

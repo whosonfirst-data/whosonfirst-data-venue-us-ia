@@ -1,0 +1,73 @@
+{
+  "id": 856784113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.418264,42.509222,-96.418264,42.509222",
+    "geom:latitude":42.509222,
+    "geom:longitude":-96.418264,
+    "iso:country":"US",
+    "sg:address":"1723 Geneva St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0505",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nhRJvk3f1Yf0sxSVkqFM2_42.509222_-96.418264@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102529,
+    "wof:geomhash":"62b447962cdc681d0d107683821b3f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856784113
+        }
+    ],
+    "wof:id":856784113,
+    "wof:lastmodified":1464102529,
+    "wof:name":"Kreisers Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -96.418264,
+    42.509222,
+    -96.418264,
+    42.509222
+],
+  "geometry": {"coordinates":[-96.41826399999999,42.509222],"type":"Point"}
+}

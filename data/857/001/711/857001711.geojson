@@ -1,0 +1,80 @@
+{
+  "id": 857001711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.81197,41.352482,-95.81197,41.352482",
+    "geom:latitude":41.352482,
+    "geom:longitude":-95.81197,
+    "iso:country":"US",
+    "sg:address":"19555 Badger Ave",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3271",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engine",
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y9ee1g4RL9UfumTPABptJ_41.352482_-95.811970@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112431,
+    "wof:geomhash":"b60089673a5dbf401924d92182e74e64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857001711
+        }
+    ],
+    "wof:id":857001711,
+    "wof:lastmodified":1464112431,
+    "wof:name":"Seaton Repair & Construction",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -95.81197,
+    41.352482,
+    -95.81197,
+    41.352482
+],
+  "geometry": {"coordinates":[-95.81197,41.352482],"type":"Point"}
+}

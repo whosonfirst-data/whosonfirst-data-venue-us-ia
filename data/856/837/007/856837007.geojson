@@ -1,0 +1,68 @@
+{
+  "id": 856837007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533302,41.661355,-91.533302,41.661355",
+    "geom:latitude":41.661355,
+    "geom:longitude":-91.533302,
+    "iso:country":"US",
+    "sg:address":"120 Iowa Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 335 3083",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tOjdKZdjKnr580SX3IkYp_41.661355_-91.533302@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104867,
+    "wof:geomhash":"efc91a37bcccdb0b4a23fdcdcce91351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856837007
+        }
+    ],
+    "wof:id":856837007,
+    "wof:lastmodified":1464104867,
+    "wof:name":"University-Iowa Biology Libr",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.533302,
+    41.661355,
+    -91.533302,
+    41.661355
+],
+  "geometry": {"coordinates":[-91.53330200000001,41.661355],"type":"Point"}
+}

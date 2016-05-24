@@ -1,0 +1,68 @@
+{
+  "id": 856932133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.395965,42.512007,-96.395965,42.512007",
+    "geom:latitude":42.512007,
+    "geom:longitude":-96.395965,
+    "iso:country":"US",
+    "sg:address":"1902 Court St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 2672",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bgcj3RFsA1aWnoeVvGViO_42.512007_-96.395965@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109324,
+    "wof:geomhash":"89b28858eb02d6667a9ea0ba3543909d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856932133
+        }
+    ],
+    "wof:id":856932133,
+    "wof:lastmodified":1464109324,
+    "wof:name":"Steven's Chinese Fast Food",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.395965,
+    42.512007,
+    -96.395965,
+    42.512007
+],
+  "geometry": {"coordinates":[-96.395965,42.512007],"type":"Point"}
+}

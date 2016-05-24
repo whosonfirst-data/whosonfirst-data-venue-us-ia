@@ -1,0 +1,75 @@
+{
+  "id": 857006045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.62578,42.023334,-91.62578,42.023334",
+    "geom:latitude":42.023334,
+    "geom:longitude":-91.62578,
+    "iso:country":"US",
+    "sg:address":"4701 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7900",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48aCg5aiJF9FFSJZGd5OCv_42.023334_-91.625780@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112609,
+    "wof:geomhash":"8b46fa4746496497992465592793e078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857006045
+        }
+    ],
+    "wof:id":857006045,
+    "wof:lastmodified":1464112609,
+    "wof:name":"Ultimate Electronics",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.62578,
+    42.023334,
+    -91.62578,
+    42.023334
+],
+  "geometry": {"coordinates":[-91.62578000000001,42.023334],"type":"Point"}
+}

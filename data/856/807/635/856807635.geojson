@@ -1,0 +1,71 @@
+{
+  "id": 856807635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.538856,41.468075,-95.538856,41.468075",
+    "geom:latitude":41.468075,
+    "geom:longitude":-95.538856,
+    "iso:country":"US",
+    "sg:address":"506 Main St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2014",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKS2xajvr5yjl6KiO4aJS_41.468075_-95.538856@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103517,
+    "wof:geomhash":"2797043c6f6639bd5785f2b1dd4ba42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856807635
+        }
+    ],
+    "wof:id":856807635,
+    "wof:lastmodified":1464103517,
+    "wof:name":"Vet-Tuff Industries",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -95.538856,
+    41.468075,
+    -95.538856,
+    41.468075
+],
+  "geometry": {"coordinates":[-95.538856,41.468075],"type":"Point"}
+}

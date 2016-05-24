@@ -1,0 +1,72 @@
+{
+  "id": 857070103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716499,41.965599,-91.716499,41.965599",
+    "geom:latitude":41.965599,
+    "geom:longitude":-91.716499,
+    "iso:country":"US",
+    "sg:address":"3410 12th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3692",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.evergreenestates.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fx0Q8H7aCEno6tdRsmgx6_41.965599_-91.716499@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115340,
+    "wof:geomhash":"ae0d8b34a53f0a1652a949b504d22b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070103
+        }
+    ],
+    "wof:id":857070103,
+    "wof:lastmodified":1464115340,
+    "wof:name":"Evergreen Estates",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.716499,
+    41.965599,
+    -91.716499,
+    41.965599
+],
+  "geometry": {"coordinates":[-91.716499,41.965599],"type":"Point"}
+}

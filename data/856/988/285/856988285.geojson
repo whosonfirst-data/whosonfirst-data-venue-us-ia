@@ -1,0 +1,73 @@
+{
+  "id": 856988285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.182707,42.474971,-96.182707,42.474971",
+    "geom:latitude":42.474971,
+    "geom:longitude":-96.182707,
+    "iso:country":"US",
+    "sg:address":"200 E Char-Mac Dr",
+    "sg:city":"Lawton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 4893",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UIP9LvfgYRWR7VBsZrXsf_42.474971_-96.182707@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111879,
+    "wof:geomhash":"9d8d07154f8dfdb5f05546d1142e0734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856988285
+        }
+    ],
+    "wof:id":856988285,
+    "wof:lastmodified":1464111879,
+    "wof:name":"Char-Mac Assisted Living",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -96.182707,
+    42.474971,
+    -96.182707,
+    42.474971
+],
+  "geometry": {"coordinates":[-96.18270699999999,42.474971],"type":"Point"}
+}

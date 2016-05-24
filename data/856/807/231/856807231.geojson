@@ -1,0 +1,86 @@
+{
+  "id": 856807231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.767875,41.232665,-95.767875,41.232665",
+    "geom:latitude":41.232665,
+    "geom:longitude":-95.767875,
+    "iso:country":"US",
+    "sg:address":"21854 State Hwy 92",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4148",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "system",
+        "sales",
+        "direct",
+        "vitamin",
+        "computer",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77AvxGvBCeBrNn1GrIP4Lj_41.232665_-95.767875@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103502,
+    "wof:geomhash":"ebbb5c0d1106293f1a880706ca9b1f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856807231
+        }
+    ],
+    "wof:id":856807231,
+    "wof:lastmodified":1464103502,
+    "wof:name":"Biocomp Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "sales",
+        "direct",
+        "vitamin",
+        "computer",
+        "design"
+    ]
+},
+  "bbox": [
+    -95.767875,
+    41.232665,
+    -95.767875,
+    41.232665
+],
+  "geometry": {"coordinates":[-95.767875,41.232665],"type":"Point"}
+}

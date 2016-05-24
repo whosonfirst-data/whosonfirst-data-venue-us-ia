@@ -1,0 +1,73 @@
+{
+  "id": 856823545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.550849,41.363625,-93.550849,41.363625",
+    "geom:latitude":41.363625,
+    "geom:longitude":-93.550849,
+    "iso:country":"US",
+    "sg:address":"404 N 7th St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 1050",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RgAdF4kRrCqmcC9EPxhcx_41.363625_-93.550849@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104244,
+    "wof:geomhash":"cf24ac1a54b8a0392eb1971a3f349de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856823545
+        }
+    ],
+    "wof:id":856823545,
+    "wof:lastmodified":1464104244,
+    "wof:name":"Interior Flooring",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.550849,
+    41.363625,
+    -93.550849,
+    41.363625
+],
+  "geometry": {"coordinates":[-93.550849,41.363625],"type":"Point"}
+}

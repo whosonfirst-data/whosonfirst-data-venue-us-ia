@@ -1,0 +1,68 @@
+{
+  "id": 856811577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684985,41.94477,-91.684985,41.94477",
+    "geom:latitude":41.94477,
+    "geom:longitude":-91.684985,
+    "iso:country":"US",
+    "sg:address":"971 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1376",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22pHONLg5uaUMYZA0g0wls_41.944770_-91.684985@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103700,
+    "wof:geomhash":"6dcbff1f310e8bfb282bf1b29ae26a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856811577
+        }
+    ],
+    "wof:id":856811577,
+    "wof:lastmodified":1464103700,
+    "wof:name":"Menlo Worldwide Forwarding",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.684985,
+    41.94477,
+    -91.684985,
+    41.94477
+],
+  "geometry": {"coordinates":[-91.684985,41.94477],"type":"Point"}
+}

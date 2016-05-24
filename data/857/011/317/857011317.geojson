@@ -1,0 +1,73 @@
+{
+  "id": 857011317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.611393,41.631248,-93.611393,41.631248",
+    "geom:latitude":41.631248,
+    "geom:longitude":-93.611393,
+    "iso:country":"US",
+    "sg:address":"3805 Amherst St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 283 1616",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FaVOtLKYy1sSDkztQ0Kil_41.631248_-93.611393@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112828,
+    "wof:geomhash":"d24026e11d89f5468759546217f1c99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":857011317
+        }
+    ],
+    "wof:id":857011317,
+    "wof:lastmodified":1464112828,
+    "wof:name":"Betty Stiles Shop",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.611393,
+    41.631248,
+    -93.611393,
+    41.631248
+],
+  "geometry": {"coordinates":[-93.61139300000001,41.631248],"type":"Point"}
+}

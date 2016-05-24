@@ -1,0 +1,71 @@
+{
+  "id": 856999103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.61568,41.973251,-91.61568,41.973251",
+    "geom:latitude":41.973251,
+    "geom:longitude":-91.61568,
+    "iso:country":"US",
+    "sg:address":"3608 14th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 9106",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N9Iop0EJUUnenEeNY7fpT_41.973251_-91.615680@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112329,
+    "wof:geomhash":"6dfe159f9748dc713e530ac999f15068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856999103
+        }
+    ],
+    "wof:id":856999103,
+    "wof:lastmodified":1464112329,
+    "wof:name":"Oompah Funk Publishing",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishing"
+    ]
+},
+  "bbox": [
+    -91.61568,
+    41.973251,
+    -91.61568,
+    41.973251
+],
+  "geometry": {"coordinates":[-91.61568,41.973251],"type":"Point"}
+}

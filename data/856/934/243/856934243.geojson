@@ -1,0 +1,73 @@
+{
+  "id": 856934243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.094388,41.833739,-94.094388,41.833739",
+    "geom:latitude":41.833739,
+    "geom:longitude":-94.094388,
+    "iso:country":"US",
+    "sg:address":"616 10th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3553",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xc8GM4QWLAMJCNrqeDAPw_41.833739_-94.094388@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109400,
+    "wof:geomhash":"d935953cc7f5e4ccec530c5e8fc53fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856934243
+        }
+    ],
+    "wof:id":856934243,
+    "wof:lastmodified":1464109400,
+    "wof:name":"U I Family Care",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.094388,
+    41.833739,
+    -94.094388,
+    41.833739
+],
+  "geometry": {"coordinates":[-94.094388,41.833739],"type":"Point"}
+}

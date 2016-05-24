@@ -1,0 +1,81 @@
+{
+  "id": 857069257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.700708,42.015919,-91.700708,42.015919",
+    "geom:latitude":42.015919,
+    "geom:longitude":-91.700708,
+    "iso:country":"US",
+    "sg:address":"4211 Glass Rd NE Ste A",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 221 1667",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair",
+        "design",
+        "web"
+    ],
+    "sg:website":"www.geonetric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LcOgKh8uIbhNCt9faN2nS_42.015919_-91.700708@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115297,
+    "wof:geomhash":"6d75b38fdf5a4ebed94185c7747910a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857069257
+        }
+    ],
+    "wof:id":857069257,
+    "wof:lastmodified":1464115297,
+    "wof:name":"Geonetric Technologies",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "design",
+        "web"
+    ]
+},
+  "bbox": [
+    -91.700708,
+    42.015919,
+    -91.700708,
+    42.015919
+],
+  "geometry": {"coordinates":[-91.70070800000001,42.015919],"type":"Point"}
+}

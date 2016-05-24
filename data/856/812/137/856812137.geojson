@@ -1,0 +1,73 @@
+{
+  "id": 856812137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.619027,42.026848,-91.619027,42.026848",
+    "geom:latitude":42.026848,
+    "geom:longitude":-91.619027,
+    "iso:country":"US",
+    "sg:address":"693 Marion Blvd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8913",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26guB77UHORWVQzeVyKrTk_42.026848_-91.619027@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103719,
+    "wof:geomhash":"2cffbcfce168f0eab592ae31019590b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856812137
+        }
+    ],
+    "wof:id":856812137,
+    "wof:lastmodified":1464103719,
+    "wof:name":"Heartland Investment Assoc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -91.619027,
+    42.026848,
+    -91.619027,
+    42.026848
+],
+  "geometry": {"coordinates":[-91.619027,42.026848],"type":"Point"}
+}

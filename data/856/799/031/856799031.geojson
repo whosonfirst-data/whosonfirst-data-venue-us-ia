@@ -1,0 +1,73 @@
+{
+  "id": 856799031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.537052,41.600582,-93.537052,41.600582",
+    "geom:latitude":41.600582,
+    "geom:longitude":-93.537052,
+    "iso:country":"US",
+    "sg:address":"4053 E University Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 8940",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jwt41Xk8pFj58HJrfbJGB_41.600582_-93.537052@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103162,
+    "wof:geomhash":"e58df309e07fd6da06782ebccd4f031e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877111,
+            "region_id":85688713,
+            "venue_id":856799031
+        }
+    ],
+    "wof:id":856799031,
+    "wof:lastmodified":1464103162,
+    "wof:name":"Beattie Apartments",
+    "wof:parent_id":85877111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.537052,
+    41.600582,
+    -93.537052,
+    41.600582
+],
+  "geometry": {"coordinates":[-93.537052,41.600582],"type":"Point"}
+}

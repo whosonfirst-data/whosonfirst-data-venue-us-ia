@@ -1,0 +1,71 @@
+{
+  "id": 856834475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.585271,41.357585,-93.585271,41.357585",
+    "geom:latitude":41.357585,
+    "geom:longitude":-93.585271,
+    "iso:country":"US",
+    "sg:address":"1900 W 3rd Pl",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 3189",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ME0iq1D3eMM4aDqsutUa5_41.357585_-93.585271@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104727,
+    "wof:geomhash":"1d3e313d14c6e1e9f803d262cdca4ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856834475
+        }
+    ],
+    "wof:id":856834475,
+    "wof:lastmodified":1464104727,
+    "wof:name":"Westview Of Indianola Care Ctr",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.585271,
+    41.357585,
+    -93.585271,
+    41.357585
+],
+  "geometry": {"coordinates":[-93.58527100000001,41.357585],"type":"Point"}
+}

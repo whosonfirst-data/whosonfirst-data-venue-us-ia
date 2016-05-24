@@ -1,0 +1,74 @@
+{
+  "id": 856916957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.353012,42.45645,-92.353012,42.45645",
+    "geom:latitude":42.45645,
+    "geom:longitude":-92.353012,
+    "iso:country":"US",
+    "sg:address":"201 E Tower Park Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 232 0243",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "sg:website":"www.grainger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01jy3OOW6P1FslxjIFw7qH_42.456450_-92.353012@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108689,
+    "wof:geomhash":"3d40bf62a654874ecb51789a1e5f68e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856916957
+        }
+    ],
+    "wof:id":856916957,
+    "wof:lastmodified":1464108689,
+    "wof:name":"Grainger Parts",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -92.353012,
+    42.45645,
+    -92.353012,
+    42.45645
+],
+  "geometry": {"coordinates":[-92.35301200000001,42.45645],"type":"Point"}
+}

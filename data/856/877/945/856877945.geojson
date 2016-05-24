@@ -1,0 +1,74 @@
+{
+  "id": 856877945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.644026,41.488878,-90.644026,41.488878",
+    "geom:latitude":41.488878,
+    "geom:longitude":-90.644026,
+    "iso:country":"US",
+    "sg:address":"4315 Wapello Ave",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 441 9777",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.tntsvcs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PQURZuVl3dA8oTff0VZOg_41.488878_-90.644026@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107078,
+    "wof:geomhash":"4ededb6302843afd0d465634008884fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856877945
+        }
+    ],
+    "wof:id":856877945,
+    "wof:lastmodified":1464107078,
+    "wof:name":"TNT Svc",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -90.644026,
+    41.488878,
+    -90.644026,
+    41.488878
+],
+  "geometry": {"coordinates":[-90.644026,41.488878],"type":"Point"}
+}

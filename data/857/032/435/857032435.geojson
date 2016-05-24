@@ -1,0 +1,73 @@
+{
+  "id": 857032435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608777,41.965415,-91.608777,41.965415",
+    "geom:latitude":41.965415,
+    "geom:longitude":-91.608777,
+    "iso:country":"US",
+    "sg:address":"4115 Hickory Hill Ln SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0321",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_255ChHo49aq9CpV455vvRS_41.965415_-91.608777@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113759,
+    "wof:geomhash":"0255fcc0b413117a253fb9823a10e5cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857032435
+        }
+    ],
+    "wof:id":857032435,
+    "wof:lastmodified":1464113759,
+    "wof:name":"Pattison Sales",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -91.608777,
+    41.965415,
+    -91.608777,
+    41.965415
+],
+  "geometry": {"coordinates":[-91.608777,41.965415],"type":"Point"}
+}

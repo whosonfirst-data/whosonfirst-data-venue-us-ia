@@ -1,0 +1,71 @@
+{
+  "id": 857020429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624028,41.988611,-91.624028,41.988611",
+    "geom:latitude":41.988611,
+    "geom:longitude":-91.624028,
+    "iso:country":"US",
+    "sg:address":"295 30th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2293",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "record"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nebNd8cWLWRdmlHP0afUJ_41.988611_-91.624028@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113208,
+    "wof:geomhash":"a9c6890c4817782ae874624d7435cb9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857020429
+        }
+    ],
+    "wof:id":857020429,
+    "wof:lastmodified":1464113208,
+    "wof:name":"1005 33rd Ave Sw",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record"
+    ]
+},
+  "bbox": [
+    -91.624028,
+    41.988611,
+    -91.624028,
+    41.988611
+],
+  "geometry": {"coordinates":[-91.624028,41.988611],"type":"Point"}
+}

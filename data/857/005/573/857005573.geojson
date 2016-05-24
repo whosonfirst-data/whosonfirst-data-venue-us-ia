@@ -1,0 +1,73 @@
+{
+  "id": 857005573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.575716,41.218467,-95.575716,41.218467",
+    "geom:latitude":41.218467,
+    "geom:longitude":-95.575716,
+    "iso:country":"US",
+    "sg:address":"14037 320th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3683",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zzXaoczffnMsvRJUYzUj5_41.218467_-95.575716@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112588,
+    "wof:geomhash":"07662ec38aadd83e2b5528907604727a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857005573
+        }
+    ],
+    "wof:id":857005573,
+    "wof:lastmodified":1464112588,
+    "wof:name":"Schmidty Farms Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.575716,
+    41.218467,
+    -95.575716,
+    41.218467
+],
+  "geometry": {"coordinates":[-95.575716,41.218467],"type":"Point"}
+}

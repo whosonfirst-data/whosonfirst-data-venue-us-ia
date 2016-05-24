@@ -1,0 +1,73 @@
+{
+  "id": 857035025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.61849,41.447875,-95.61849,41.447875",
+    "geom:latitude":41.447875,
+    "geom:longitude":-95.61849,
+    "iso:country":"US",
+    "sg:address":"107 5th St",
+    "sg:city":"Neola",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 485 2619",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pdLue4JwUEXCqySNv80eV_41.447875_-95.618490@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113884,
+    "wof:geomhash":"d19f720596988559e3883092b58281d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857035025
+        }
+    ],
+    "wof:id":857035025,
+    "wof:lastmodified":1464113884,
+    "wof:name":"Neola Cty Water Treatment Plnt",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -95.61849,
+    41.447875,
+    -95.61849,
+    41.447875
+],
+  "geometry": {"coordinates":[-95.61848999999999,41.447875],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857070951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.748291,41.943712,-91.748291,41.943712",
+    "geom:latitude":41.943712,
+    "geom:longitude":-91.748291,
+    "iso:country":"US",
+    "sg:address":"6138 Dean Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 7600",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hci20QiViDmSbNNMLHonn_41.943712_-91.748291@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115373,
+    "wof:geomhash":"0337a1be12402cc27ec6dfd17bdb079b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070951
+        }
+    ],
+    "wof:id":857070951,
+    "wof:lastmodified":1464115373,
+    "wof:name":"Goldfinch Meadows Apartments",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.748291,
+    41.943712,
+    -91.748291,
+    41.943712
+],
+  "geometry": {"coordinates":[-91.74829099999999,41.943712],"type":"Point"}
+}

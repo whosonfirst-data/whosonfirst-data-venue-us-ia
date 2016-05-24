@@ -1,0 +1,76 @@
+{
+  "id": 856918631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.678969,41.473293,-93.678969,41.473293",
+    "geom:latitude":41.473293,
+    "geom:longitude":-93.678969,
+    "iso:country":"US",
+    "sg:address":"713 School St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0031",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "kindergarten",
+        "academic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f4YoAGkPAEZLnSZIRsTmC_41.473293_-93.678969@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108753,
+    "wof:geomhash":"9cfb7a8c8f225b395428243fad6ee336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856918631
+        }
+    ],
+    "wof:id":856918631,
+    "wof:lastmodified":1464108753,
+    "wof:name":"Head Start Center-Drake Univ",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic"
+    ]
+},
+  "bbox": [
+    -93.678969,
+    41.473293,
+    -93.678969,
+    41.473293
+],
+  "geometry": {"coordinates":[-93.678969,41.473293],"type":"Point"}
+}

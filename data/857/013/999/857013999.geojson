@@ -1,0 +1,73 @@
+{
+  "id": 857013999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.36974,41.920764,-91.36974,41.920764",
+    "geom:latitude":41.920764,
+    "geom:longitude":-91.36974,
+    "iso:country":"US",
+    "sg:address":"1013 E Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2141",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d5viwxH3IPcJHGnAoyo9s_41.920764_-91.369740@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112947,
+    "wof:geomhash":"1de52500faf356090f809dcf66e2ab59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857013999
+        }
+    ],
+    "wof:id":857013999,
+    "wof:lastmodified":1464112947,
+    "wof:name":"Monk Auto & Truck Repair",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.36974,
+    41.920764,
+    -91.36974,
+    41.920764
+],
+  "geometry": {"coordinates":[-91.36973999999999,41.920764],"type":"Point"}
+}

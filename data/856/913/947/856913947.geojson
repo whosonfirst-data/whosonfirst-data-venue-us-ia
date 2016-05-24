@@ -1,0 +1,71 @@
+{
+  "id": 856913947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.409983,41.916662,-91.409983,41.916662",
+    "geom:latitude":41.916662,
+    "geom:longitude":-91.409983,
+    "iso:country":"US",
+    "sg:address":"103 Country Club Dr",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8204",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YwtJcVM0er4JTMxauwNrW_41.916662_-91.409983@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108587,
+    "wof:geomhash":"2b717839ed43225358edc00b235436d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856913947
+        }
+    ],
+    "wof:id":856913947,
+    "wof:lastmodified":1464108587,
+    "wof:name":"Mount Vernon Sewage Treatment",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.409983,
+    41.916662,
+    -91.409983,
+    41.916662
+],
+  "geometry": {"coordinates":[-91.409983,41.916662],"type":"Point"}
+}

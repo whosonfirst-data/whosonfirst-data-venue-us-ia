@@ -1,0 +1,73 @@
+{
+  "id": 856899833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.581734,41.86811,-91.581734,41.86811",
+    "geom:latitude":41.86811,
+    "geom:longitude":-91.581734,
+    "iso:country":"US",
+    "sg:address":"1275 State St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 7676",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bar",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U6x9xJvWEjLeWmsJiU0op_41.868110_-91.581734@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108045,
+    "wof:geomhash":"0ffca4bc1b523dd9d0e58a48479a9c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856899833
+        }
+    ],
+    "wof:id":856899833,
+    "wof:lastmodified":1464108045,
+    "wof:name":"Bar-None Midwest Inc",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.581734,
+    41.86811,
+    -91.581734,
+    41.86811
+],
+  "geometry": {"coordinates":[-91.581734,41.86811],"type":"Point"}
+}

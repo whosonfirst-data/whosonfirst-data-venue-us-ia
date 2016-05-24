@@ -1,0 +1,75 @@
+{
+  "id": 856907061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.631718,41.603944,-93.631718,41.603944",
+    "geom:latitude":41.603944,
+    "geom:longitude":-93.631718,
+    "iso:country":"US",
+    "sg:address":"1309 11th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 9115",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R0oXpaY26G3A6zMyeJWXd_41.603944_-93.631718@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108304,
+    "wof:geomhash":"103c0f6724714bd771a005af9eae8362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856907061
+        }
+    ],
+    "wof:id":856907061,
+    "wof:lastmodified":1464108304,
+    "wof:name":"Marsh Landscaping",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.631718,
+    41.603944,
+    -93.631718,
+    41.603944
+],
+  "geometry": {"coordinates":[-93.63171800000001,41.603944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856930889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.461794,42.512412,-96.461794,42.512412",
+    "geom:latitude":42.512412,
+    "geom:longitude":-96.461794,
+    "iso:country":"US",
+    "sg:address":"4021 W 23rd St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 1143",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kkEu2m0XSoR0dgBWUeEmN_42.512412_-96.461794@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109281,
+    "wof:geomhash":"5f2b780d96baf84c9ef65e7165e5b36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856930889
+        }
+    ],
+    "wof:id":856930889,
+    "wof:lastmodified":1464109281,
+    "wof:name":"Computer Management Svc",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -96.461794,
+    42.512412,
+    -96.461794,
+    42.512412
+],
+  "geometry": {"coordinates":[-96.461794,42.512412],"type":"Point"}
+}

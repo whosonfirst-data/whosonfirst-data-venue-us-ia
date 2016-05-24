@@ -1,0 +1,72 @@
+{
+  "id": 857006533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.358336,42.403863,-96.358336,42.403863",
+    "geom:latitude":42.403863,
+    "geom:longitude":-96.358336,
+    "iso:country":"US",
+    "sg:address":"501 4th St",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 271 0101",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "internet"
+    ],
+    "sg:website":"www.longlines.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IRmKi22KGJwpzMtSiPnH1_42.403863_-96.358336@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112625,
+    "wof:geomhash":"03e7e39c28fb32c6b1166844e7f6d245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857006533
+        }
+    ],
+    "wof:id":857006533,
+    "wof:lastmodified":1464112625,
+    "wof:name":"Long Lines Internet",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -96.358336,
+    42.403863,
+    -96.358336,
+    42.403863
+],
+  "geometry": {"coordinates":[-96.35833599999999,42.403863],"type":"Point"}
+}

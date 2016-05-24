@@ -1,0 +1,71 @@
+{
+  "id": 856786305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534387,41.626014,-91.534387,41.626014",
+    "geom:latitude":41.626014,
+    "geom:longitude":-91.534387,
+    "iso:country":"US",
+    "sg:address":"4236 Napoleon Ln SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 7252",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33FG0umu9ItKXATh6CRsPN_41.626014_-91.534387@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102627,
+    "wof:geomhash":"8c00624c873eca23b0e2de4683999ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856786305
+        }
+    ],
+    "wof:id":856786305,
+    "wof:lastmodified":1464102627,
+    "wof:name":"Hawkeye Sewer & Drain",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.534387,
+    41.626014,
+    -91.534387,
+    41.626014
+],
+  "geometry": {"coordinates":[-91.534387,41.626014],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856967245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.775622,42.289619,-91.775622,42.289619",
+    "geom:latitude":42.289619,
+    "geom:longitude":-91.775622,
+    "iso:country":"US",
+    "sg:address":"903 Pat's Ct",
+    "sg:city":"Walker",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 448 4187",
+    "sg:postcode":"52352",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66S58nY7hoByCD4UH8Wvrg_42.289619_-91.775622@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110834,
+    "wof:geomhash":"d0f02f691cd25401a37fbc96aa26fcd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856967245
+        }
+    ],
+    "wof:id":856967245,
+    "wof:lastmodified":1464110834,
+    "wof:name":"David Siler",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -91.775622,
+    42.289619,
+    -91.775622,
+    42.289619
+],
+  "geometry": {"coordinates":[-91.775622,42.289619],"type":"Point"}
+}

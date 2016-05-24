@@ -1,0 +1,71 @@
+{
+  "id": 856895575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.359157,42.403929,-96.359157,42.403929",
+    "geom:latitude":42.403929,
+    "geom:longitude":-96.359157,
+    "iso:country":"US",
+    "sg:address":"407 4th St",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 4888",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mnv8Ond2HQ2oKv8lnhONn_42.403929_-96.359157@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107885,
+    "wof:geomhash":"2834be38a45973904eb90cb3ebe26fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856895575
+        }
+    ],
+    "wof:id":856895575,
+    "wof:lastmodified":1464107885,
+    "wof:name":"Analytical & Consulting Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -96.359157,
+    42.403929,
+    -96.359157,
+    42.403929
+],
+  "geometry": {"coordinates":[-96.359157,42.403929],"type":"Point"}
+}

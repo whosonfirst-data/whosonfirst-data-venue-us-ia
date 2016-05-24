@@ -1,0 +1,71 @@
+{
+  "id": 856880051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.387499,41.317241,-95.387499,41.317241",
+    "geom:latitude":41.317241,
+    "geom:longitude":-95.387499,
+    "iso:country":"US",
+    "sg:address":"510 US Hwy 6",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6868",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oOdfY8YAw5Ni1qTKfwNf0_41.317241_-95.387499@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107157,
+    "wof:geomhash":"241d8b3df23573fe319e9898eda2b07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856880051
+        }
+    ],
+    "wof:id":856880051,
+    "wof:lastmodified":1464107157,
+    "wof:name":"Oakland Veterinary Clinic",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.387499,
+    41.317241,
+    -95.387499,
+    41.317241
+],
+  "geometry": {"coordinates":[-95.38749900000001,41.317241],"type":"Point"}
+}

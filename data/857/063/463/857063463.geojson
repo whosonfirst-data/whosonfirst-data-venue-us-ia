@@ -1,0 +1,74 @@
+{
+  "id": 857063463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850955,41.260925,-95.850955,41.260925",
+    "geom:latitude":41.260925,
+    "geom:longitude":-95.850955,
+    "iso:country":"US",
+    "sg:address":"535 W Broadway Ste 300",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1811",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "sg:website":"www.nonpareilonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H3Mxz4W3yTOKY3rXwtef0_41.260925_-95.850955@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115037,
+    "wof:geomhash":"424c1f77ebbaf1bbb0bffea281439bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063463
+        }
+    ],
+    "wof:id":857063463,
+    "wof:lastmodified":1464115037,
+    "wof:name":"Council Bluffs Daily Nonpareil",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -95.850955,
+    41.260925,
+    -95.850955,
+    41.260925
+],
+  "geometry": {"coordinates":[-95.850955,41.260925],"type":"Point"}
+}

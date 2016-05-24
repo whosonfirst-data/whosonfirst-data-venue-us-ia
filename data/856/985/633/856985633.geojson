@@ -1,0 +1,66 @@
+{
+  "id": 856985633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.79799,41.24842,-95.79799,41.24842",
+    "geom:latitude":41.24842,
+    "geom:longitude":-95.79799,
+    "iso:country":"US",
+    "sg:address":"105 Woodridge Ct",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 9600",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YT95cNMDpVKpoKiVr29pk_41.248420_-95.797990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111774,
+    "wof:geomhash":"f746f617a028125cc16c1a5748bb8197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856985633
+        }
+    ],
+    "wof:id":856985633,
+    "wof:lastmodified":1464111774,
+    "wof:name":"Knauss Sales Market",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.79799,
+    41.24842,
+    -95.79799,
+    41.24842
+],
+  "geometry": {"coordinates":[-95.79799,41.24842],"type":"Point"}
+}

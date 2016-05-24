@@ -1,0 +1,75 @@
+{
+  "id": 857064221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.815804,41.2286,-95.815804,41.2286",
+    "geom:latitude":41.2286,
+    "geom:longitude":-95.815804,
+    "iso:country":"US",
+    "sg:address":"1600 Highway 275",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2166",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FNwrhZ7ePG1pGUhONp5Dh_41.228600_-95.815804@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115069,
+    "wof:geomhash":"882aff2f0ffad68aee9861b232c0e614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857064221
+        }
+    ],
+    "wof:id":857064221,
+    "wof:lastmodified":1464115069,
+    "wof:name":"Westside Central High School",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.815804,
+    41.2286,
+    -95.815804,
+    41.2286
+],
+  "geometry": {"coordinates":[-95.815804,41.2286],"type":"Point"}
+}

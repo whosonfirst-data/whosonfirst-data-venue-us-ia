@@ -1,0 +1,73 @@
+{
+  "id": 856865197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.483653,41.463178,-91.483653,41.463178",
+    "geom:latitude":41.463178,
+    "geom:longitude":-91.483653,
+    "iso:country":"US",
+    "sg:address":"6452 Sioux Ave SE",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 4647",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GicX0evHrG19dfD1MHNNI_41.463178_-91.483653@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106221,
+    "wof:geomhash":"1ea1185a11a4325f31184cc735676d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856865197
+        }
+    ],
+    "wof:id":856865197,
+    "wof:lastmodified":1464106221,
+    "wof:name":"Dodson Farms",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.483653,
+    41.463178,
+    -91.483653,
+    41.463178
+],
+  "geometry": {"coordinates":[-91.483653,41.463178],"type":"Point"}
+}

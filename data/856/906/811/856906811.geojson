@@ -1,0 +1,73 @@
+{
+  "id": 856906811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.843393,41.256212,-95.843393,41.256212",
+    "geom:latitude":41.256212,
+    "geom:longitude":-95.843393,
+    "iso:country":"US",
+    "sg:address":"424 Glen Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 9219",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l85jEhrMMZqMUymIsBP8W_41.256212_-95.843393@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108296,
+    "wof:geomhash":"ce217cfe470a617c5ce8f0aaf5bb5b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856906811
+        }
+    ],
+    "wof:id":856906811,
+    "wof:lastmodified":1464108296,
+    "wof:name":"Pathfinder Systems Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -95.843393,
+    41.256212,
+    -95.843393,
+    41.256212
+],
+  "geometry": {"coordinates":[-95.84339300000001,41.256212],"type":"Point"}
+}

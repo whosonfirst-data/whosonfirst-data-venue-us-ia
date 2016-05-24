@@ -1,0 +1,73 @@
+{
+  "id": 856778713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673743,41.924217,-91.673743,41.924217",
+    "geom:latitude":41.924217,
+    "geom:longitude":-91.673743,
+    "iso:country":"US",
+    "sg:address":"450 58th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 6041",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hp7skGbj0auPhOjF56RUB_41.924217_-91.673743@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102404,
+    "wof:geomhash":"e4b569c952a8211b8b7271a713f7f157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856778713
+        }
+    ],
+    "wof:id":856778713,
+    "wof:lastmodified":1464102404,
+    "wof:name":"Iowa Scaffold Co",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding"
+    ]
+},
+  "bbox": [
+    -91.673743,
+    41.924217,
+    -91.673743,
+    41.924217
+],
+  "geometry": {"coordinates":[-91.673743,41.924217],"type":"Point"}
+}

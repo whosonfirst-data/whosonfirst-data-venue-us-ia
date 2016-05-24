@@ -1,0 +1,75 @@
+{
+  "id": 856994493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715898,41.977704,-91.715898,41.977704",
+    "geom:latitude":41.977704,
+    "geom:longitude":-91.715898,
+    "iso:country":"US",
+    "sg:address":"375 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7387",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41wathPvRxgO9FWuzXvY8Y_41.977704_-91.715898@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112161,
+    "wof:geomhash":"0e80e1c152bf6a516d9a2bd34ef4c294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856994493
+        }
+    ],
+    "wof:id":856994493,
+    "wof:lastmodified":1464112161,
+    "wof:name":"C R Pets",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.715898,
+    41.977704,
+    -91.715898,
+    41.977704
+],
+  "geometry": {"coordinates":[-91.715898,41.977704],"type":"Point"}
+}

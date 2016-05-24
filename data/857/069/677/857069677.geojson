@@ -1,0 +1,80 @@
+{
+  "id": 857069677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6521,41.977901,-91.6521,41.977901",
+    "geom:latitude":41.977901,
+    "geom:longitude":-91.6521,
+    "iso:country":"US",
+    "sg:address":"842 14th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2424",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "reupholstery",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Jsf0nNZGkFDWZNGVB1Cr_41.977901_-91.652100@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115311,
+    "wof:geomhash":"8c2297346badfe2f4799a06319a0b099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069677
+        }
+    ],
+    "wof:id":857069677,
+    "wof:lastmodified":1464115311,
+    "wof:name":"Borst Furniture & Upholstering Inc",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -91.6521,
+    41.977901,
+    -91.6521,
+    41.977901
+],
+  "geometry": {"coordinates":[-91.6521,41.977901],"type":"Point"}
+}

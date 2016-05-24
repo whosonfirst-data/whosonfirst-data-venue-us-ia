@@ -1,0 +1,75 @@
+{
+  "id": 856823471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638618,42.000991,-91.638618,42.000991",
+    "geom:latitude":42.000991,
+    "geom:longitude":-91.638618,
+    "iso:country":"US",
+    "sg:address":"219 24th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8661",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nYqUtsbKk64XvkTtQvWBp_42.000991_-91.638618@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104242,
+    "wof:geomhash":"bcd47abfe32d4e1463b301e32e06f1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856823471
+        }
+    ],
+    "wof:id":856823471,
+    "wof:lastmodified":1464104242,
+    "wof:name":"Trachta Communication Svc Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -91.638618,
+    42.000991,
+    -91.638618,
+    42.000991
+],
+  "geometry": {"coordinates":[-91.63861799999999,42.000991],"type":"Point"}
+}

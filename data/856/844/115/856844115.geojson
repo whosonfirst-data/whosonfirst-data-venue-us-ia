@@ -1,0 +1,71 @@
+{
+  "id": 856844115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.682926,41.189175,-95.682926,41.189175",
+    "geom:latitude":41.189175,
+    "geom:longitude":-95.682926,
+    "iso:country":"US",
+    "sg:address":"26998 Pioneer Trl",
+    "sg:city":"Silver City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 526 2023",
+    "sg:postcode":"51571",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08d9Ob1zwh2DLiKMgPVJ7x_41.189175_-95.682926@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105181,
+    "wof:geomhash":"02f75c7f57592ab71d2032517d72f970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856844115
+        }
+    ],
+    "wof:id":856844115,
+    "wof:lastmodified":1464105181,
+    "wof:name":"R & J Services",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grounds"
+    ]
+},
+  "bbox": [
+    -95.682926,
+    41.189175,
+    -95.682926,
+    41.189175
+],
+  "geometry": {"coordinates":[-95.68292599999999,41.189175],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856901081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.450652,42.053446,-91.450652,42.053446",
+    "geom:latitude":42.053446,
+    "geom:longitude":-91.450652,
+    "iso:country":"US",
+    "sg:address":"154 Circle Dr",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7120",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fuel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RJ93VCO4oAYmaw49sbGI5_42.053446_-91.450652@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108092,
+    "wof:geomhash":"3bd35a8bea62f421a73effff801d5cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856901081
+        }
+    ],
+    "wof:id":856901081,
+    "wof:lastmodified":1464108092,
+    "wof:name":"Dayspring Case Management",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel"
+    ]
+},
+  "bbox": [
+    -91.450652,
+    42.053446,
+    -91.450652,
+    42.053446
+],
+  "geometry": {"coordinates":[-91.45065200000001,42.053446],"type":"Point"}
+}

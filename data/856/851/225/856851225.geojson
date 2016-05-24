@@ -1,0 +1,73 @@
+{
+  "id": 856851225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.408031,42.501691,-96.408031,42.501691",
+    "geom:latitude":42.501691,
+    "geom:longitude":-96.408031,
+    "iso:country":"US",
+    "sg:address":"1011 Grandview Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 2650",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nle4EQev4AHM2MNsy7I4T_42.501691_-96.408031@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105589,
+    "wof:geomhash":"3a21738c4a6ae941000324bea0664c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856851225
+        }
+    ],
+    "wof:id":856851225,
+    "wof:lastmodified":1464105589,
+    "wof:name":"Midwest Printers",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -96.408031,
+    42.501691,
+    -96.408031,
+    42.501691
+],
+  "geometry": {"coordinates":[-96.40803099999999,42.501691],"type":"Point"}
+}

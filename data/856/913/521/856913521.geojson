@@ -1,0 +1,71 @@
+{
+  "id": 856913521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558399,41.359339,-93.558399,41.359339",
+    "geom:latitude":41.359339,
+    "geom:longitude":-93.558399,
+    "iso:country":"US",
+    "sg:address":"109 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 0234",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66pscY0bD2ZaMcnvHShqNq_41.359339_-93.558399@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108559,
+    "wof:geomhash":"76af42865c6320409bb17be3f0681688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856913521
+        }
+    ],
+    "wof:id":856913521,
+    "wof:lastmodified":1464108559,
+    "wof:name":"Taylor Auto Sales",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.558399,
+    41.359339,
+    -93.558399,
+    41.359339
+],
+  "geometry": {"coordinates":[-93.55839899999999,41.359339],"type":"Point"}
+}

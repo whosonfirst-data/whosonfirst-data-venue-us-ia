@@ -1,0 +1,73 @@
+{
+  "id": 857070145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.729181,41.963842,-91.729181,41.963842",
+    "geom:latitude":41.963842,
+    "geom:longitude":-91.729181,
+    "iso:country":"US",
+    "sg:address":"4330 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4776",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2khL9rkrI1jrylKWAaKgRI_41.963842_-91.729181@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115341,
+    "wof:geomhash":"e6ddd973661adae91e57d46d8c05a32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070145
+        }
+    ],
+    "wof:id":857070145,
+    "wof:lastmodified":1464115341,
+    "wof:name":"Papas Italiano",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -91.729181,
+    41.963842,
+    -91.729181,
+    41.963842
+],
+  "geometry": {"coordinates":[-91.729181,41.963842],"type":"Point"}
+}

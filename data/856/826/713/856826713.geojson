@@ -1,0 +1,75 @@
+{
+  "id": 856826713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.389636,42.469309,-92.389636,42.469309",
+    "geom:latitude":42.469309,
+    "geom:longitude":-92.389636,
+    "iso:country":"US",
+    "sg:address":"1717 W Ridgeway Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 833 5700",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WPOoy7FZ1pho4hNBh6dk5_42.469309_-92.389636@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104378,
+    "wof:geomhash":"d99e573ca3d66d13d05e12bd64208c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856826713
+        }
+    ],
+    "wof:id":856826713,
+    "wof:lastmodified":1464104378,
+    "wof:name":"Chitra Reddy MD",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.389636,
+    42.469309,
+    -92.389636,
+    42.469309
+],
+  "geometry": {"coordinates":[-92.389636,42.469309],"type":"Point"}
+}

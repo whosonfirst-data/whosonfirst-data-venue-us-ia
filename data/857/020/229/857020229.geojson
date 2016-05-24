@@ -1,0 +1,73 @@
+{
+  "id": 857020229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.022841,41.620811,-94.022841,41.620811",
+    "geom:latitude":41.620811,
+    "geom:longitude":-94.022841,
+    "iso:country":"US",
+    "sg:address":"424 N 12th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4314",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75fhOHlaUAzQ0d8ThxvbIX_41.620811_-94.022841@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113202,
+    "wof:geomhash":"b139fb5c373fa8565326482919269c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857020229
+        }
+    ],
+    "wof:id":857020229,
+    "wof:lastmodified":1464113202,
+    "wof:name":"Richard Hoy",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -94.022841,
+    41.620811,
+    -94.022841,
+    41.620811
+],
+  "geometry": {"coordinates":[-94.022841,41.620811],"type":"Point"}
+}

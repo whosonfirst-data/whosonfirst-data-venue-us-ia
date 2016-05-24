@@ -1,0 +1,71 @@
+{
+  "id": 856916107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.542045,41.37022,-93.542045,41.37022",
+    "geom:latitude":41.37022,
+    "geom:longitude":-93.542045,
+    "iso:country":"US",
+    "sg:address":"1110 N 14th St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8127",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uxCLC6d2tESZs3z7TqsNo_41.370220_-93.542045@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108661,
+    "wof:geomhash":"65bfcf610d8176bc3e562d74355ce070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856916107
+        }
+    ],
+    "wof:id":856916107,
+    "wof:lastmodified":1464108661,
+    "wof:name":"Sternquist Concrete Paving Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.542045,
+    41.37022,
+    -93.542045,
+    41.37022
+],
+  "geometry": {"coordinates":[-93.542045,41.37022],"type":"Point"}
+}

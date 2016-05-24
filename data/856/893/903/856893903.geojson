@@ -1,0 +1,68 @@
+{
+  "id": 856893903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6954,41.889897,-91.6954,41.889897",
+    "geom:latitude":41.889897,
+    "geom:longitude":-91.6954,
+    "iso:country":"US",
+    "sg:address":"9500 18th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9450",
+    "sg:postcode":"52338",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gZ9xrMHgi3E5EuQJjyts0_41.889897_-91.695400@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107822,
+    "wof:geomhash":"351d06814d34cb235390699e006b00ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856893903
+        }
+    ],
+    "wof:id":856893903,
+    "wof:lastmodified":1464107822,
+    "wof:name":"Cedar Rapids Airport Mntnc",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6954,
+    41.889897,
+    -91.6954,
+    41.889897
+],
+  "geometry": {"coordinates":[-91.69540000000001,41.889897],"type":"Point"}
+}

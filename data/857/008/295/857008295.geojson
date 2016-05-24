@@ -1,0 +1,71 @@
+{
+  "id": 857008295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.839597,41.620721,-93.839597,41.620721",
+    "geom:latitude":41.620721,
+    "geom:longitude":-93.839597,
+    "iso:country":"US",
+    "sg:address":"2759 NW 161st St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 2430",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61NmCCxE9qnDOcWqgXNFlQ_41.620721_-93.839597@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112710,
+    "wof:geomhash":"821cafd7f7f0cfb21af61bdc85da31e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857008295
+        }
+    ],
+    "wof:id":857008295,
+    "wof:lastmodified":1464112710,
+    "wof:name":"Steve Walters Homes",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.839597,
+    41.620721,
+    -93.839597,
+    41.620721
+],
+  "geometry": {"coordinates":[-93.839597,41.620721],"type":"Point"}
+}

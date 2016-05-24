@@ -1,0 +1,67 @@
+{
+  "id": 856817663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.59931,42.0533,-91.59931,42.0533",
+    "geom:latitude":42.0533,
+    "geom:longitude":-91.59931,
+    "iso:country":"US",
+    "sg:address":"3111 10th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 3040",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:website":"www.linnmar.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0657UZA5SHv1Pzw14Gd0iu_42.053300_-91.599310@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103952,
+    "wof:geomhash":"7d655ece20c09a13567e148b4e842a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856817663
+        }
+    ],
+    "wof:id":856817663,
+    "wof:lastmodified":1464103952,
+    "wof:name":"Linn-Mar High School",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.59931,
+    42.0533,
+    -91.59931,
+    42.0533
+],
+  "geometry": {"coordinates":[-91.59931,42.0533],"type":"Point"}
+}

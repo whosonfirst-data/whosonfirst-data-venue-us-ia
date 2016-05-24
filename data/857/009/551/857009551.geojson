@@ -1,0 +1,83 @@
+{
+  "id": 857009551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673536,41.975328,-91.673536,41.975328",
+    "geom:latitude":41.975328,
+    "geom:longitude":-91.673536,
+    "iso:country":"US",
+    "sg:address":"128 2nd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9381",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JLjzQ9ERYm0KkKL46Sr2q_41.975328_-91.673536@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112764,
+    "wof:geomhash":"14ea8bc4173358b4ad5fb13fcc9b21bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857009551
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857009551
+        }
+    ],
+    "wof:id":857009551,
+    "wof:lastmodified":1464112764,
+    "wof:name":"Bentley Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -91.673536,
+    41.975328,
+    -91.673536,
+    41.975328
+],
+  "geometry": {"coordinates":[-91.673536,41.975328],"type":"Point"}
+}

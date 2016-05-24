@@ -1,0 +1,68 @@
+{
+  "id": 857029227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405142,42.507091,-96.405142,42.507091",
+    "geom:latitude":42.507091,
+    "geom:longitude":-96.405142,
+    "iso:country":"US",
+    "sg:address":"1503 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0521",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77xzLDGrjQgAAci1mrItTG_42.507091_-96.405142@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113625,
+    "wof:geomhash":"f206cfcb40abf6f07e36976714e9f1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857029227
+        }
+    ],
+    "wof:id":857029227,
+    "wof:lastmodified":1464113625,
+    "wof:name":"Larvick Speaker Reconing",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.405142,
+    42.507091,
+    -96.405142,
+    42.507091
+],
+  "geometry": {"coordinates":[-96.405142,42.507091],"type":"Point"}
+}

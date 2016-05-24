@@ -1,0 +1,73 @@
+{
+  "id": 856828673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.771158,41.596025,-93.771158,41.596025",
+    "geom:latitude":41.596025,
+    "geom:longitude":-93.771158,
+    "iso:country":"US",
+    "sg:address":"1755 50th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 6700",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43T8RyACJCvof0x4KIktac_41.596025_-93.771158@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104458,
+    "wof:geomhash":"1ef707e7088f9c68eb7dc2c7218b5abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896537,
+            "region_id":85688713,
+            "venue_id":856828673
+        }
+    ],
+    "wof:id":856828673,
+    "wof:lastmodified":1464104458,
+    "wof:name":"Tavern",
+    "wof:parent_id":85896537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.771158,
+    41.596025,
+    -93.771158,
+    41.596025
+],
+  "geometry": {"coordinates":[-93.771158,41.596025],"type":"Point"}
+}

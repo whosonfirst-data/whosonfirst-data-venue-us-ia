@@ -1,0 +1,73 @@
+{
+  "id": 856918759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.779148,41.96384,-91.779148,41.96384",
+    "geom:latitude":41.96384,
+    "geom:longitude":-91.779148,
+    "iso:country":"US",
+    "sg:address":"8300 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5222",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grove",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DA1gdh9xJc5yij2zUFIoB_41.963840_-91.779148@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108763,
+    "wof:geomhash":"d6c9545041e905ed4c052c58e4f89b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856918759
+        }
+    ],
+    "wof:id":856918759,
+    "wof:lastmodified":1464108763,
+    "wof:name":"Holland Orchard",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grove",
+        "management"
+    ]
+},
+  "bbox": [
+    -91.779148,
+    41.96384,
+    -91.779148,
+    41.96384
+],
+  "geometry": {"coordinates":[-91.77914800000001,41.96384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857063841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8477,41.260289,-95.8477,41.260289",
+    "geom:latitude":41.260289,
+    "geom:longitude":-95.8477,
+    "iso:country":"US",
+    "sg:address":"37 1/2 1/2 Bluff St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 6455",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ANFhgC6Zn7Ig45hnEGLb_41.260289_-95.847700@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115057,
+    "wof:geomhash":"0fe2c6d1eb7f3972754af1e464416499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063841
+        }
+    ],
+    "wof:id":857063841,
+    "wof:lastmodified":1464115057,
+    "wof:name":"Monticello Apartments",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.8477,
+    41.260289,
+    -95.8477,
+    41.260289
+],
+  "geometry": {"coordinates":[-95.8477,41.260289],"type":"Point"}
+}

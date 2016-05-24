@@ -1,0 +1,75 @@
+{
+  "id": 856804913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.585481,41.678329,-91.585481,41.678329",
+    "geom:latitude":41.678329,
+    "geom:longitude":-91.585481,
+    "iso:country":"US",
+    "sg:address":"1758 5th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 2333",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jx9OYdrheZRUGovCwaaTP_41.678329_-91.585481@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103400,
+    "wof:geomhash":"75af8b342f9ffe399230cc6cdac5dc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896371,
+            "region_id":85688713,
+            "venue_id":856804913
+        }
+    ],
+    "wof:id":856804913,
+    "wof:lastmodified":1464103400,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85896371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -91.585481,
+    41.678329,
+    -91.585481,
+    41.678329
+],
+  "geometry": {"coordinates":[-91.585481,41.678329],"type":"Point"}
+}

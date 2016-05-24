@@ -1,0 +1,71 @@
+{
+  "id": 857012201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.826479,41.586254,-93.826479,41.586254",
+    "geom:latitude":41.586254,
+    "geom:longitude":-93.826479,
+    "iso:country":"US",
+    "sg:address":"8602 Westown Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 0282",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kRsJSqTetvzN0SV6EYtOd_41.586254_-93.826479@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112865,
+    "wof:geomhash":"6d554c8554df49e6800e042165e48fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857012201
+        }
+    ],
+    "wof:id":857012201,
+    "wof:lastmodified":1464112865,
+    "wof:name":"Maple Grove Villa's",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.826479,
+    41.586254,
+    -93.826479,
+    41.586254
+],
+  "geometry": {"coordinates":[-93.82647900000001,41.586254],"type":"Point"}
+}

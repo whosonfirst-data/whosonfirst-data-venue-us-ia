@@ -1,0 +1,83 @@
+{
+  "id": 857060909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.709394,41.974595,-91.709394,41.974595",
+    "geom:latitude":41.974595,
+    "geom:longitude":-91.709394,
+    "iso:country":"US",
+    "sg:address":"2825 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/172722-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9681",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22jUSQ5fwBfXni764A1NUZ_41.974563_-91.710169@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114932,
+    "wof:geomhash":"5dc02fd00f640ff1109274fe3772336a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857060909
+        }
+    ],
+    "wof:id":857060909,
+    "wof:lastmodified":1464114932,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -91.709394,
+    41.974595,
+    -91.709394,
+    41.974595
+],
+  "geometry": {"coordinates":[-91.709394,41.974595],"type":"Point"}
+}

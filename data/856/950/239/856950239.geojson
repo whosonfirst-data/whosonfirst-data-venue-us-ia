@@ -1,0 +1,73 @@
+{
+  "id": 856950239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.588206,41.877029,-91.588206,41.877029",
+    "geom:latitude":41.877029,
+    "geom:longitude":-91.588206,
+    "iso:country":"US",
+    "sg:address":"1600 Northgate Dr",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 3371",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I8NMhUVM0xJQafP3x6bLa_41.877029_-91.588206@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110098,
+    "wof:geomhash":"d3da0dbc1dd26903f17b61669fd47a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856950239
+        }
+    ],
+    "wof:id":856950239,
+    "wof:lastmodified":1464110098,
+    "wof:name":"Green Streak Landscaping",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.588206,
+    41.877029,
+    -91.588206,
+    41.877029
+],
+  "geometry": {"coordinates":[-91.588206,41.877029],"type":"Point"}
+}

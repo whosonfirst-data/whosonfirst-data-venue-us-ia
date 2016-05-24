@@ -1,0 +1,76 @@
+{
+  "id": 856811399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.497381,41.649675,-91.497381,41.649675",
+    "geom:latitude":41.649675,
+    "geom:longitude":-91.497381,
+    "iso:country":"US",
+    "sg:address":"2620 Muscatine Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 1662",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.aaa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KyOoF8zY7LuVQZ0f292KZ_41.649675_-91.497381@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103689,
+    "wof:geomhash":"10c202239cc34b49e4fb284dc21119ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856811399
+        }
+    ],
+    "wof:id":856811399,
+    "wof:lastmodified":1464103689,
+    "wof:name":"AAA Travel Agency",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -91.497381,
+    41.649675,
+    -91.497381,
+    41.649675
+],
+  "geometry": {"coordinates":[-91.497381,41.649675],"type":"Point"}
+}

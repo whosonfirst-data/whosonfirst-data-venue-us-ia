@@ -1,0 +1,75 @@
+{
+  "id": 856871475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71599,41.962268,-91.71599,41.962268",
+    "geom:latitude":41.962268,
+    "geom:longitude":-91.71599,
+    "iso:country":"US",
+    "sg:address":"1641 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3070",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EpZST06VYeSPs4tt0iJs3_41.962268_-91.715990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106707,
+    "wof:geomhash":"79a41beab4d0302415f6091a517c654b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856871475
+        }
+    ],
+    "wof:id":856871475,
+    "wof:lastmodified":1464106707,
+    "wof:name":"Brown Nationalease",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -91.71599,
+    41.962268,
+    -91.71599,
+    41.962268
+],
+  "geometry": {"coordinates":[-91.71599000000001,41.962268],"type":"Point"}
+}

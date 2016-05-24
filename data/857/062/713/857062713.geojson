@@ -1,0 +1,80 @@
+{
+  "id": 857062713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854401,41.214401,-95.854401,41.214401",
+    "geom:latitude":41.214401,
+    "geom:longitude":-95.854401,
+    "iso:country":"US",
+    "sg:address":"531 Commanche St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 9930",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "professional",
+        "amateur",
+        "team"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VMDmAsjjwsF1Vmdv51DbZ_41.214401_-95.854401@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115012,
+    "wof:geomhash":"af67e1d9a964dba556949314c0be54e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062713
+        }
+    ],
+    "wof:id":857062713,
+    "wof:lastmodified":1464115012,
+    "wof:name":"Fish & Game Club",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "amateur",
+        "team"
+    ]
+},
+  "bbox": [
+    -95.854401,
+    41.214401,
+    -95.854401,
+    41.214401
+],
+  "geometry": {"coordinates":[-95.854401,41.214401],"type":"Point"}
+}

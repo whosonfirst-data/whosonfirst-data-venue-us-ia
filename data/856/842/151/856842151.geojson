@@ -1,0 +1,71 @@
+{
+  "id": 856842151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.3727,42.429823,-96.3727,42.429823",
+    "geom:latitude":42.429823,
+    "geom:longitude":-96.3727,
+    "iso:country":"US",
+    "sg:address":"4535 Harbor Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 2444",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ZxHSLVIr88S1aZuGOSer_42.429823_-96.372700@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105094,
+    "wof:geomhash":"378fdf20d6e681a4f2925a914499b495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856842151
+        }
+    ],
+    "wof:id":856842151,
+    "wof:lastmodified":1464105094,
+    "wof:name":"Sioux City Kenworth Corp",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.3727,
+    42.429823,
+    -96.3727,
+    42.429823
+],
+  "geometry": {"coordinates":[-96.37269999999999,42.429823],"type":"Point"}
+}

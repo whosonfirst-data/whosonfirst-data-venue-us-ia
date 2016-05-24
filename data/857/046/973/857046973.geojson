@@ -1,0 +1,76 @@
+{
+  "id": 857046973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.732171,41.970529,-91.732171,41.970529",
+    "geom:latitude":41.970529,
+    "geom:longitude":-91.732171,
+    "iso:country":"US",
+    "sg:address":"151 Jacolyn Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0635",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "shop",
+        "store"
+    ],
+    "sg:website":"www.pets-playhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45vrhNYI45I4T0t0Ys0caB_41.970468_-91.732122@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114364,
+    "wof:geomhash":"698e1eb6fb31820b54e88934b4509100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857046973
+        }
+    ],
+    "wof:id":857046973,
+    "wof:lastmodified":1464114364,
+    "wof:name":"Pet's Playhouse",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.732171,
+    41.970529,
+    -91.732171,
+    41.970529
+],
+  "geometry": {"coordinates":[-91.73217099999999,41.970529],"type":"Point"}
+}

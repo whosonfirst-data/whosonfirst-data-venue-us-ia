@@ -1,0 +1,71 @@
+{
+  "id": 857034447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.42035,41.232879,-95.42035,41.232879",
+    "geom:latitude":41.232879,
+    "geom:longitude":-95.42035,
+    "iso:country":"US",
+    "sg:address":"202 Highway St",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 9419",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aqB6srdcVK8rTxBVhJkQL_41.232879_-95.420350@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113850,
+    "wof:geomhash":"6737949a7c31f29daf574a5d835c2742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857034447
+        }
+    ],
+    "wof:id":857034447,
+    "wof:lastmodified":1464113850,
+    "wof:name":"Country Store",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.42035,
+    41.232879,
+    -95.42035,
+    41.232879
+],
+  "geometry": {"coordinates":[-95.42035,41.232879],"type":"Point"}
+}

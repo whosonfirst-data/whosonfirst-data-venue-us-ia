@@ -1,0 +1,73 @@
+{
+  "id": 856829009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.614791,41.232372,-95.614791,41.232372",
+    "geom:latitude":41.232372,
+    "geom:longitude":-95.614791,
+    "iso:country":"US",
+    "sg:address":"11 W Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3333",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CLNsKK4bHZG7PGrM1LOoB_41.232372_-95.614791@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104471,
+    "wof:geomhash":"0e0b4a0e905a27af950b4976614bea53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856829009
+        }
+    ],
+    "wof:id":856829009,
+    "wof:lastmodified":1464104471,
+    "wof:name":"Treynor Community Ctr",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -95.614791,
+    41.232372,
+    -95.614791,
+    41.232372
+],
+  "geometry": {"coordinates":[-95.614791,41.232372],"type":"Point"}
+}

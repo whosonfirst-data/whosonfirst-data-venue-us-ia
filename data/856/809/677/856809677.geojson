@@ -1,0 +1,71 @@
+{
+  "id": 856809677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.833545,41.638161,-93.833545,41.638161",
+    "geom:latitude":41.638161,
+    "geom:longitude":-93.833545,
+    "iso:country":"US",
+    "sg:address":"4510 NW 156th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4005",
+    "sg:postcode":"50323",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h2WS1gy1IIqzLGJ14NqqI_41.638161_-93.833545@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103617,
+    "wof:geomhash":"42abe253d7964b9d801ebe9b911a0310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856809677
+        }
+    ],
+    "wof:id":856809677,
+    "wof:lastmodified":1464103617,
+    "wof:name":"Fenimore Construction Services",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.833545,
+    41.638161,
+    -93.833545,
+    41.638161
+],
+  "geometry": {"coordinates":[-93.833545,41.638161],"type":"Point"}
+}

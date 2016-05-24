@@ -1,0 +1,73 @@
+{
+  "id": 856948071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.800452,41.23195,-95.800452,41.23195",
+    "geom:latitude":41.23195,
+    "geom:longitude":-95.800452,
+    "iso:country":"US",
+    "sg:address":"1001 Risen Son Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 3000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M98sQmzUivLoCLAu8bIov_41.231950_-95.800452@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110001,
+    "wof:geomhash":"3e44c1bf46cbbe762ab90d8b0985c9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856948071
+        }
+    ],
+    "wof:id":856948071,
+    "wof:lastmodified":1464110001,
+    "wof:name":"Physicians Clinic Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.800452,
+    41.23195,
+    -95.800452,
+    41.23195
+],
+  "geometry": {"coordinates":[-95.80045200000001,41.23195],"type":"Point"}
+}

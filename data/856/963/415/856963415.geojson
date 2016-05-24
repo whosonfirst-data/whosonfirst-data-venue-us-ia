@@ -1,0 +1,71 @@
+{
+  "id": 856963415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718703,41.980209,-91.718703,41.980209",
+    "geom:latitude":41.980209,
+    "geom:longitude":-91.718703,
+    "iso:country":"US",
+    "sg:address":"3500 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1401",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r69i0OTuTIZ1ko3aoR4NJ_41.980209_-91.718703@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110681,
+    "wof:geomhash":"0b2a31a24c9de8224dd3454577c97eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856963415
+        }
+    ],
+    "wof:id":856963415,
+    "wof:lastmodified":1464110681,
+    "wof:name":"WDG Communications",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -91.718703,
+    41.980209,
+    -91.718703,
+    41.980209
+],
+  "geometry": {"coordinates":[-91.718703,41.980209],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856896575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.368261,42.498226,-96.368261,42.498226",
+    "geom:latitude":42.498226,
+    "geom:longitude":-96.368261,
+    "iso:country":"US",
+    "sg:address":"729 Alice St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0880",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DlGYTefBMmY7ZKFZYjmik_42.498226_-96.368261@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107923,
+    "wof:geomhash":"34f2814ea693ec241857654752983162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856896575
+        }
+    ],
+    "wof:id":856896575,
+    "wof:lastmodified":1464107923,
+    "wof:name":"Star Electric",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.368261,
+    42.498226,
+    -96.368261,
+    42.498226
+],
+  "geometry": {"coordinates":[-96.368261,42.498226],"type":"Point"}
+}

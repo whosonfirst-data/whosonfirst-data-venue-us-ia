@@ -1,0 +1,75 @@
+{
+  "id": 856826063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656806,42.012105,-91.656806,42.012105",
+    "geom:latitude":42.012105,
+    "geom:longitude":-91.656806,
+    "iso:country":"US",
+    "sg:address":"1261 Center St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1131",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iwtL2JoyVMtthOiHUA0m4_42.012105_-91.656806@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104349,
+    "wof:geomhash":"6e304d8f3b0ddf102a26c2dcb33cbeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856826063
+        }
+    ],
+    "wof:id":856826063,
+    "wof:lastmodified":1464104349,
+    "wof:name":"Wessels Floor Covering",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.656806,
+    42.012105,
+    -91.656806,
+    42.012105
+],
+  "geometry": {"coordinates":[-91.656806,42.012105],"type":"Point"}
+}

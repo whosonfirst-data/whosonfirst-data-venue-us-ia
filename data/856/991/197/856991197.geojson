@@ -1,0 +1,73 @@
+{
+  "id": 856991197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666709,41.939305,-91.666709,41.939305",
+    "geom:latitude":41.939305,
+    "geom:longitude":-91.666709,
+    "iso:country":"US",
+    "sg:address":"3760 J St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8627",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i8RbIT97XnPQg2sPzlowM_41.939305_-91.666709@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112022,
+    "wof:geomhash":"19c24eb428275b93d294ac5b7fa46a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856991197
+        }
+    ],
+    "wof:id":856991197,
+    "wof:lastmodified":1464112022,
+    "wof:name":"Iowa Welding & Suspension Svc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.666709,
+    41.939305,
+    -91.666709,
+    41.939305
+],
+  "geometry": {"coordinates":[-91.666709,41.939305],"type":"Point"}
+}

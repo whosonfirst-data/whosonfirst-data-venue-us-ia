@@ -1,0 +1,75 @@
+{
+  "id": 856845017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.760202,41.615014,-93.760202,41.615014",
+    "geom:latitude":41.615014,
+    "geom:longitude":-93.760202,
+    "iso:country":"US",
+    "sg:address":"10065 Hickman Rd",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 252 1900",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KcfBRsCtUg1zQnrVF58QB_41.615014_-93.760202@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105232,
+    "wof:geomhash":"d00e9c68b97ce7bab1cda93165d93c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896519,
+            "region_id":85688713,
+            "venue_id":856845017
+        }
+    ],
+    "wof:id":856845017,
+    "wof:lastmodified":1464105232,
+    "wof:name":"Freedom Tire",
+    "wof:parent_id":85896519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.760202,
+    41.615014,
+    -93.760202,
+    41.615014
+],
+  "geometry": {"coordinates":[-93.76020200000001,41.615014],"type":"Point"}
+}

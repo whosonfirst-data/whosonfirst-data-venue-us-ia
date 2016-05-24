@@ -1,0 +1,71 @@
+{
+  "id": 856770685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072117,42.488714,-96.072117,42.488714",
+    "geom:latitude":42.488714,
+    "geom:longitude":-96.072117,
+    "iso:country":"US",
+    "sg:address":"326 Main St",
+    "sg:city":"Moville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 873 3545",
+    "sg:postcode":"51039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54XeV5lxa3sXrSXeBdvAB7_42.488714_-96.072117@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102223,
+    "wof:geomhash":"b7b403bd2e3fd79d8adaa0b08a3ddf83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856770685
+        }
+    ],
+    "wof:id":856770685,
+    "wof:lastmodified":1464102223,
+    "wof:name":"Moville City Hall",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -96.072117,
+    42.488714,
+    -96.072117,
+    42.488714
+],
+  "geometry": {"coordinates":[-96.07211700000001,42.488714],"type":"Point"}
+}

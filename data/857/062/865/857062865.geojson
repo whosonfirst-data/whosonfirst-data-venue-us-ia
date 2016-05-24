@@ -1,0 +1,75 @@
+{
+  "id": 857062865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9058,41.268002,-95.9058,41.268002",
+    "geom:latitude":41.268002,
+    "geom:longitude":-95.9058,
+    "iso:country":"US",
+    "sg:address":"3651 Avenue G",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4800",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TocsTY8x3hik2Dm8F2GKL_41.268002_-95.905800@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115017,
+    "wof:geomhash":"23b95b3d3dfe8d6084c2c62cce4e69db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062865
+        }
+    ],
+    "wof:id":857062865,
+    "wof:lastmodified":1464115017,
+    "wof:name":"Community Christian School of Council Bluffs",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.9058,
+    41.268002,
+    -95.9058,
+    41.268002
+],
+  "geometry": {"coordinates":[-95.9058,41.268002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856815493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.342987,42.470432,-96.342987,42.470432",
+    "geom:latitude":42.470432,
+    "geom:longitude":-96.342987,
+    "iso:country":"US",
+    "sg:address":"1915 S Lemon St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 6016",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QcAew6O56oBiooHAyuWYw_42.470432_-96.342987@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103853,
+    "wof:geomhash":"b56d0695d6aea2138540689c0857133c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856815493
+        }
+    ],
+    "wof:id":856815493,
+    "wof:lastmodified":1464103853,
+    "wof:name":"Latham Memorial Park",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -96.342987,
+    42.470432,
+    -96.342987,
+    42.470432
+],
+  "geometry": {"coordinates":[-96.34298699999999,42.470432],"type":"Point"}
+}

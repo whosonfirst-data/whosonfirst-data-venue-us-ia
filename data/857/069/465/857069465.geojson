@@ -1,0 +1,75 @@
+{
+  "id": 857069465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657152,41.981141,-91.657152,41.981141",
+    "geom:latitude":41.981141,
+    "geom:longitude":-91.657152,
+    "iso:country":"US",
+    "sg:address":"411 10th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5321",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ucyNKhm41TbUaSjLDifyy_41.981141_-91.657152@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115304,
+    "wof:geomhash":"0dd05f584e99bc67355e5afba2d11ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857069465
+        }
+    ],
+    "wof:id":857069465,
+    "wof:lastmodified":1464115304,
+    "wof:name":"Pope Richard MD",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -91.657152,
+    41.981141,
+    -91.657152,
+    41.981141
+],
+  "geometry": {"coordinates":[-91.657152,41.981141],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856970459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36519,42.420368,-96.36519,42.420368",
+    "geom:latitude":42.420368,
+    "geom:longitude":-96.36519,
+    "iso:country":"US",
+    "sg:address":"5000 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 7685",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.specializedhauling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18J8j1yN02ym3qzIr2LyNw_42.420368_-96.365190@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111002,
+    "wof:geomhash":"056d0e477930928ec153928c0d8a33f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856970459
+        }
+    ],
+    "wof:id":856970459,
+    "wof:lastmodified":1464111002,
+    "wof:name":"Specialized Hauling Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.36519,
+    42.420368,
+    -96.36519,
+    42.420368
+],
+  "geometry": {"coordinates":[-96.36519,42.420368],"type":"Point"}
+}

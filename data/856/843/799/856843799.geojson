@@ -1,0 +1,75 @@
+{
+  "id": 856843799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.17448,43.025501,-91.17448,43.025501",
+    "geom:latitude":43.025501,
+    "geom:longitude":-91.17448,
+    "iso:country":"US",
+    "sg:address":"146 Main St",
+    "sg:city":"Mc Gregor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 2186",
+    "sg:postcode":"52157",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79St5c5rXBqGzBG1KHvmny_43.025501_-91.174480@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105163,
+    "wof:geomhash":"016897777d081c495f9658f95da0333c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":856843799
+        }
+    ],
+    "wof:id":856843799,
+    "wof:lastmodified":1464105163,
+    "wof:name":"Chamber Of Commerce",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -91.17448,
+    43.025501,
+    -91.17448,
+    43.025501
+],
+  "geometry": {"coordinates":[-91.17448,43.025501],"type":"Point"}
+}

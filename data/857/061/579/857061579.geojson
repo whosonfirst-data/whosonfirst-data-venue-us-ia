@@ -1,0 +1,75 @@
+{
+  "id": 857061579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736543,41.627793,-93.736543,41.627793",
+    "geom:latitude":41.627793,
+    "geom:longitude":-93.736543,
+    "iso:country":"US",
+    "sg:address":"3651 86th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 1016",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OnYivGN960LvJbVSnUeS6_41.627793_-93.736543@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114964,
+    "wof:geomhash":"f0f7084e22519a33bc841011bc3d3575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896509,
+            "region_id":85688713,
+            "venue_id":857061579
+        }
+    ],
+    "wof:id":857061579,
+    "wof:lastmodified":1464114964,
+    "wof:name":"The Urban Grill",
+    "wof:parent_id":85896509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -93.736543,
+    41.627793,
+    -93.736543,
+    41.627793
+],
+  "geometry": {"coordinates":[-93.736543,41.627793],"type":"Point"}
+}

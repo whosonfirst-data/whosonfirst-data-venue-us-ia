@@ -1,0 +1,83 @@
+{
+  "id": 856955711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.251383,42.533006,-96.251383,42.533006",
+    "geom:latitude":42.533006,
+    "geom:longitude":-96.251383,
+    "iso:country":"US",
+    "sg:address":"1860 120th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 1157",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lessor",
+        "beef",
+        "farm",
+        "soybean",
+        "cattle",
+        "property",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2POdrAkkOLywDIodr7tM6F_42.533006_-96.251383@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110364,
+    "wof:geomhash":"894615d8be557575f4e8e9670e07dffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856955711
+        }
+    ],
+    "wof:id":856955711,
+    "wof:lastmodified":1464110364,
+    "wof:name":"Charles Oehlerking",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lessor",
+        "beef",
+        "farm",
+        "soybean",
+        "cattle",
+        "property",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -96.251383,
+    42.533006,
+    -96.251383,
+    42.533006
+],
+  "geometry": {"coordinates":[-96.251383,42.533006],"type":"Point"}
+}

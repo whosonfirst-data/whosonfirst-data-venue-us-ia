@@ -1,0 +1,75 @@
+{
+  "id": 857059225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.610971,41.695785,-91.610971,41.695785",
+    "geom:latitude":41.695785,
+    "geom:longitude":-91.610971,
+    "iso:country":"US",
+    "sg:address":"2794 Commerce Dr",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/clear-creek/202659-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZVSFWIQrI0ANCfIKQo9kw_41.695785_-91.610971@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114870,
+    "wof:geomhash":"3739103f7b833cdd1768bad1fd0bf4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":857059225
+        }
+    ],
+    "wof:id":857059225,
+    "wof:lastmodified":1464114870,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.610971,
+    41.695785,
+    -91.610971,
+    41.695785
+],
+  "geometry": {"coordinates":[-91.61097100000001,41.695785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856858835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.796925,42.066215,-91.796925,42.066215",
+    "geom:latitude":42.066215,
+    "geom:longitude":-91.796925,
+    "iso:country":"US",
+    "sg:address":"114 Vinton St",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 227 7781",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glassware",
+        "chinaware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BQnxEhi2OpJv5iWwmDfjp_42.066215_-91.796925@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105933,
+    "wof:geomhash":"13b8ad933e6474a0418591d158b263e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856858835
+        }
+    ],
+    "wof:id":856858835,
+    "wof:lastmodified":1464105933,
+    "wof:name":"Heritage China",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware",
+        "chinaware"
+    ]
+},
+  "bbox": [
+    -91.796925,
+    42.066215,
+    -91.796925,
+    42.066215
+],
+  "geometry": {"coordinates":[-91.796925,42.066215],"type":"Point"}
+}

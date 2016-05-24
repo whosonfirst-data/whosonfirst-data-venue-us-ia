@@ -1,0 +1,71 @@
+{
+  "id": 856993875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.561017,41.359505,-93.561017,41.359505",
+    "geom:latitude":41.359505,
+    "geom:longitude":-93.561017,
+    "iso:country":"US",
+    "sg:address":"123 S Howard St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5367",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PN9yNqRQGM4iImeMYf45G_41.359505_-93.561017@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112137,
+    "wof:geomhash":"0a63e87eb55df3324e8af8d7dbf8a587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856993875
+        }
+    ],
+    "wof:id":856993875,
+    "wof:lastmodified":1464112137,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -93.561017,
+    41.359505,
+    -93.561017,
+    41.359505
+],
+  "geometry": {"coordinates":[-93.56101700000001,41.359505],"type":"Point"}
+}

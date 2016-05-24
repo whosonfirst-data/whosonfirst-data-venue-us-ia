@@ -1,0 +1,82 @@
+{
+  "id": 857004691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.374304,42.4893,-96.374304,42.4893",
+    "geom:latitude":42.4893,
+    "geom:longitude":-96.374304,
+    "iso:country":"US",
+    "sg:address":"210 S Fairmount St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 3022",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "senior",
+        "apartment",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qiWaPwv3f8wekb97S4GkX_42.489300_-96.374304@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112558,
+    "wof:geomhash":"3ad98d7a889e2d90caa86d7b455f2d15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857004691
+        }
+    ],
+    "wof:id":857004691,
+    "wof:lastmodified":1464112558,
+    "wof:name":"Fairmount Park Senior Housing",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "senior",
+        "apartment",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -96.374304,
+    42.4893,
+    -96.374304,
+    42.4893
+],
+  "geometry": {"coordinates":[-96.374304,42.4893],"type":"Point"}
+}

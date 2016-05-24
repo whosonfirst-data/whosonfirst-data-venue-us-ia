@@ -1,0 +1,73 @@
+{
+  "id": 856993961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.845996,41.262141,-95.845996,41.262141",
+    "geom:latitude":41.262141,
+    "geom:longitude":-95.845996,
+    "iso:country":"US",
+    "sg:address":"149 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4036",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EJalk1KfdZjPQu1hgRqVj_41.262141_-95.845996@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112139,
+    "wof:geomhash":"2126e328141ce1b4153931ba24bb819b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856993961
+        }
+    ],
+    "wof:id":856993961,
+    "wof:lastmodified":1464112139,
+    "wof:name":"Mohm Thrift Store",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -95.845996,
+    41.262141,
+    -95.845996,
+    41.262141
+],
+  "geometry": {"coordinates":[-95.845996,41.262141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856965625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405189,42.511001,-96.405189,42.511001",
+    "geom:latitude":42.511001,
+    "geom:longitude":-96.405189,
+    "iso:country":"US",
+    "sg:address":"1917 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 0507",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WL7taSsk4XX1U5WDbAQA2_42.511001_-96.405189@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110771,
+    "wof:geomhash":"cbd985e6eb2f856d5ccdea8316a9183b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856965625
+        }
+    ],
+    "wof:id":856965625,
+    "wof:lastmodified":1464110771,
+    "wof:name":"Tony's Pizza",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.405189,
+    42.511001,
+    -96.405189,
+    42.511001
+],
+  "geometry": {"coordinates":[-96.40518899999999,42.511001],"type":"Point"}
+}

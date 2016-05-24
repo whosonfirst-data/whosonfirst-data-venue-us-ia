@@ -1,0 +1,77 @@
+{
+  "id": 856970079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.59008,41.733366,-93.59008,41.733366",
+    "geom:latitude":41.733366,
+    "geom:longitude":-93.59008,
+    "iso:country":"US",
+    "sg:address":"102 NE Trilein Dr",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 965 2497",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tMD0SESlhCTkJoFROb1hF_41.733366_-93.590080@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110976,
+    "wof:geomhash":"7cfb100cff609c8af8cc12a32d668021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":856970079
+        }
+    ],
+    "wof:id":856970079,
+    "wof:lastmodified":1464110976,
+    "wof:name":"Ruan Center Corp",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.59008,
+    41.733366,
+    -93.59008,
+    41.733366
+],
+  "geometry": {"coordinates":[-93.59008,41.733366],"type":"Point"}
+}

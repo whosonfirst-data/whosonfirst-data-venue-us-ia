@@ -1,0 +1,66 @@
+{
+  "id": 857043013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.878998,41.234402,-95.878998,41.234402",
+    "geom:latitude":41.234402,
+    "geom:longitude":-95.878998,
+    "iso:country":"US",
+    "sg:address":"2709 S 24th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9180",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PwmhvI16mirOZGgLkyxsL_41.234151_-95.879126@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114196,
+    "wof:geomhash":"e3abb4a1041761de386aeb0682321b22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857043013
+        }
+    ],
+    "wof:id":857043013,
+    "wof:lastmodified":1464114196,
+    "wof:name":"Sinclair Marketing Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.878998,
+    41.234402,
+    -95.878998,
+    41.234402
+],
+  "geometry": {"coordinates":[-95.878998,41.234402],"type":"Point"}
+}

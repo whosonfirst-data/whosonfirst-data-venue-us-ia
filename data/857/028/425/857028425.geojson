@@ -1,0 +1,73 @@
+{
+  "id": 857028425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.847673,41.260472,-95.847673,41.260472",
+    "geom:latitude":41.260472,
+    "geom:longitude":-95.847673,
+    "iso:country":"US",
+    "sg:address":"303 W Pierce St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6577",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sr4qodZ1w21lAPntmN8St_41.260472_-95.847673@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113564,
+    "wof:geomhash":"265077939eead772054f7eed44262f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857028425
+        }
+    ],
+    "wof:id":857028425,
+    "wof:lastmodified":1464113564,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -95.847673,
+    41.260472,
+    -95.847673,
+    41.260472
+],
+  "geometry": {"coordinates":[-95.847673,41.260472],"type":"Point"}
+}

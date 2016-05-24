@@ -1,0 +1,75 @@
+{
+  "id": 856836043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.403541,42.510067,-96.403541,42.510067",
+    "geom:latitude":42.510067,
+    "geom:longitude":-96.403541,
+    "iso:country":"US",
+    "sg:address":"1806 Nebraska St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 9134",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tnFptWpUbNt26YeBIjQ5m_42.510067_-96.403541@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104819,
+    "wof:geomhash":"853e996b7a2ec51a21fe28a0eb0526c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856836043
+        }
+    ],
+    "wof:id":856836043,
+    "wof:lastmodified":1464104819,
+    "wof:name":"K & A Roofing",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.403541,
+    42.510067,
+    -96.403541,
+    42.510067
+],
+  "geometry": {"coordinates":[-96.403541,42.510067],"type":"Point"}
+}

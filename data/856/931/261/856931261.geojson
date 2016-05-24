@@ -1,0 +1,68 @@
+{
+  "id": 856931261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.600717,41.62597,-93.600717,41.62597",
+    "geom:latitude":41.62597,
+    "geom:longitude":-93.600717,
+    "iso:country":"US",
+    "sg:address":"1354 E Ovid Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 299 2393",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61NsIRrRv97MwynNmk9h8H_41.625970_-93.600717@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109293,
+    "wof:geomhash":"4dde6d3aad4fc701fa6d5018ee681d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856931261
+        }
+    ],
+    "wof:id":856931261,
+    "wof:lastmodified":1464109293,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.600717,
+    41.62597,
+    -93.600717,
+    41.62597
+],
+  "geometry": {"coordinates":[-93.600717,41.62597],"type":"Point"}
+}

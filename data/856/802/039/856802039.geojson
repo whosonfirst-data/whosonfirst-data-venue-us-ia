@@ -1,0 +1,71 @@
+{
+  "id": 856802039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.603939,41.457981,-95.603939,41.457981",
+    "geom:latitude":41.457981,
+    "geom:longitude":-95.603939,
+    "iso:country":"US",
+    "sg:address":"30628 State Ln",
+    "sg:city":"Neola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 485 2451",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NULWeuMYBPZ1zzpSJ381f_41.457981_-95.603939@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103274,
+    "wof:geomhash":"328663f77df176fcee3519a2cee44ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856802039
+        }
+    ],
+    "wof:id":856802039,
+    "wof:lastmodified":1464103274,
+    "wof:name":"Brians Fgn Auto Rstration Repr",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.603939,
+    41.457981,
+    -95.603939,
+    41.457981
+],
+  "geometry": {"coordinates":[-95.603939,41.457981],"type":"Point"}
+}

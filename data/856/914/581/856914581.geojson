@@ -1,0 +1,73 @@
+{
+  "id": 856914581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901325,41.255414,-95.901325,41.255414",
+    "geom:latitude":41.255414,
+    "geom:longitude":-95.901325,
+    "iso:country":"US",
+    "sg:address":"3437 7th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8821",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xcc490ix1LZHX9KYNhhbi_41.255414_-95.901325@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108607,
+    "wof:geomhash":"224a660e9a2c30f4dbef282aa1cfceb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856914581
+        }
+    ],
+    "wof:id":856914581,
+    "wof:lastmodified":1464108607,
+    "wof:name":"Pritchett Drain & Sewer Svc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.901325,
+    41.255414,
+    -95.901325,
+    41.255414
+],
+  "geometry": {"coordinates":[-95.901325,41.255414],"type":"Point"}
+}

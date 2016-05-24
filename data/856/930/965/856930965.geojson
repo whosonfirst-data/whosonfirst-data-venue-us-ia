@@ -1,0 +1,71 @@
+{
+  "id": 856930965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.418069,41.922739,-91.418069,41.922739",
+    "geom:latitude":41.922739,
+    "geom:longitude":-91.418069,
+    "iso:country":"US",
+    "sg:address":"102 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8585",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jIyThauMG7VDTaw5NIeCl_41.922739_-91.418069@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109284,
+    "wof:geomhash":"bc14f49533d0118cc27c508bdd998b66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856930965
+        }
+    ],
+    "wof:id":856930965,
+    "wof:lastmodified":1464109284,
+    "wof:name":"Michael Alan Jewelry Design",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -91.418069,
+    41.922739,
+    -91.418069,
+    41.922739
+],
+  "geometry": {"coordinates":[-91.418069,41.922739],"type":"Point"}
+}

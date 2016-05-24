@@ -1,0 +1,70 @@
+{
+  "id": 857061325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.493103,41.495701,-93.493103,41.495701",
+    "geom:latitude":41.495701,
+    "geom:longitude":-93.493103,
+    "iso:country":"US",
+    "sg:address":"680 Cole St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0871",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.pacificahealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50PLlu0Y2kdFWuFGqcFu1X_41.495701_-93.493103@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114956,
+    "wof:geomhash":"a4726e1d3b3c57bd639a1345c507f18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061325
+        }
+    ],
+    "wof:id":857061325,
+    "wof:lastmodified":1464114956,
+    "wof:name":"Carlisle Care Center",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.493103,
+    41.495701,
+    -93.493103,
+    41.495701
+],
+  "geometry": {"coordinates":[-93.493103,41.495701],"type":"Point"}
+}

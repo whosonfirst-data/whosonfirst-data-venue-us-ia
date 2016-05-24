@@ -1,0 +1,73 @@
+{
+  "id": 857034391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.643792,42.049605,-91.643792,42.049605",
+    "geom:latitude":42.049605,
+    "geom:longitude":-91.643792,
+    "iso:country":"US",
+    "sg:address":"926 71st St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8882",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O9Aqw3977J9qmqozbjul8_42.049605_-91.643792@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113847,
+    "wof:geomhash":"011a8f40695e216e6dc3153d1c62f0ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857034391
+        }
+    ],
+    "wof:id":857034391,
+    "wof:lastmodified":1464113847,
+    "wof:name":"Carls Spot Free Mobile Wash",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -91.643792,
+    42.049605,
+    -91.643792,
+    42.049605
+],
+  "geometry": {"coordinates":[-91.643792,42.049605],"type":"Point"}
+}

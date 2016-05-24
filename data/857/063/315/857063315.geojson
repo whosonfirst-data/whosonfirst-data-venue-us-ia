@@ -1,0 +1,72 @@
+{
+  "id": 857063315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.846424,41.261742,-95.846424,41.261742",
+    "geom:latitude":41.261742,
+    "geom:longitude":-95.846424,
+    "iso:country":"US",
+    "sg:address":"245 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 6999",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.breadeauxpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r6PwTpSu0iaQCDkwSuFld_41.261742_-95.846424@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115032,
+    "wof:geomhash":"83aba90fa6c2214b803d2da25c97fdc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063315
+        }
+    ],
+    "wof:id":857063315,
+    "wof:lastmodified":1464115032,
+    "wof:name":"Breadeaux Pizza",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.846424,
+    41.261742,
+    -95.846424,
+    41.261742
+],
+  "geometry": {"coordinates":[-95.846424,41.261742],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857062551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8675,41.275501,-95.8675,41.275501",
+    "geom:latitude":41.275501,
+    "geom:longitude":-95.8675,
+    "iso:country":"US",
+    "sg:address":"1501 N 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4510",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DcXWRjW1ibdDdqH0RL1Os_41.275501_-95.867500@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115007,
+    "wof:geomhash":"bd855bbbfae89f78ef77569c05cf63cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062551
+        }
+    ],
+    "wof:id":857062551,
+    "wof:lastmodified":1464115007,
+    "wof:name":"Lipstix",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -95.8675,
+    41.275501,
+    -95.8675,
+    41.275501
+],
+  "geometry": {"coordinates":[-95.86750000000001,41.275501],"type":"Point"}
+}

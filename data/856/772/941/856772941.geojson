@@ -1,0 +1,75 @@
+{
+  "id": 856772941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634537,42.016651,-91.634537,42.016651",
+    "geom:latitude":42.016651,
+    "geom:longitude":-91.634537,
+    "iso:country":"US",
+    "sg:address":"3733 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 6663",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69mb7XTA1rnL9locgTkrSr_42.016651_-91.634537@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102276,
+    "wof:geomhash":"25f1d9aa1ac2c9c034120615fce45d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856772941
+        }
+    ],
+    "wof:id":856772941,
+    "wof:lastmodified":1464102276,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -91.634537,
+    42.016651,
+    -91.634537,
+    42.016651
+],
+  "geometry": {"coordinates":[-91.63453699999999,42.016651],"type":"Point"}
+}

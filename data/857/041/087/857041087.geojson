@@ -1,0 +1,71 @@
+{
+  "id": 857041087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.827904,41.244801,-95.827904,41.244801",
+    "geom:latitude":41.244801,
+    "geom:longitude":-95.827904,
+    "iso:country":"US",
+    "sg:address":"1722 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 6769",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y7a8TR3WN0ovumDze2KTX_41.244362_-95.827508@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114121,
+    "wof:geomhash":"5883b97ff44b770f0f7e46f333921207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857041087
+        }
+    ],
+    "wof:id":857041087,
+    "wof:lastmodified":1464114121,
+    "wof:name":"Steven's Jewelers",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [
+    -95.827904,
+    41.244801,
+    -95.827904,
+    41.244801
+],
+  "geometry": {"coordinates":[-95.827904,41.244801],"type":"Point"}
+}

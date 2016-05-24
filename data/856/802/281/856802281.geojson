@@ -1,0 +1,71 @@
+{
+  "id": 856802281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.378279,41.922044,-91.378279,41.922044",
+    "geom:latitude":41.922044,
+    "geom:longitude":-91.378279,
+    "iso:country":"US",
+    "sg:address":"426 E Market St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2381",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lK6XzV2GOmUXI75jsMWwa_41.922044_-91.378279@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103282,
+    "wof:geomhash":"09bd4d1bdbfb9a63bbe30c183ccb702e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856802281
+        }
+    ],
+    "wof:id":856802281,
+    "wof:lastmodified":1464103282,
+    "wof:name":"Lisbon City Barn",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.378279,
+    41.922044,
+    -91.378279,
+    41.922044
+],
+  "geometry": {"coordinates":[-91.37827900000001,41.922044],"type":"Point"}
+}

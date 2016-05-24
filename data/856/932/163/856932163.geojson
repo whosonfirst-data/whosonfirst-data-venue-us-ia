@@ -1,0 +1,75 @@
+{
+  "id": 856932163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.527079,41.641562,-91.527079,41.641562",
+    "geom:latitude":41.641562,
+    "geom:longitude":-91.527079,
+    "iso:country":"US",
+    "sg:address":"609 Olympic Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2395",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Crx4QnrO4Bob2RN3sj1Vs_41.641562_-91.527079@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109325,
+    "wof:geomhash":"a75d751d67b57519d6f7b9f59a54a6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856932163
+        }
+    ],
+    "wof:id":856932163,
+    "wof:lastmodified":1464109325,
+    "wof:name":"Iowa City Plumbing",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.527079,
+    41.641562,
+    -91.527079,
+    41.641562
+],
+  "geometry": {"coordinates":[-91.527079,41.641562],"type":"Point"}
+}

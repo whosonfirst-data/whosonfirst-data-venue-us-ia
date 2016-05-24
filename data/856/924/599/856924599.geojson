@@ -1,0 +1,71 @@
+{
+  "id": 856924599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.74035,41.978477,-91.74035,41.978477",
+    "geom:latitude":41.978477,
+    "geom:longitude":-91.74035,
+    "iso:country":"US",
+    "sg:address":"5507 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 551 7506",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6llJWRTgkSBlxoheXkwogI_41.978477_-91.740350@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109024,
+    "wof:geomhash":"28faa51940fbe38c1ffab1c8c8f80238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856924599
+        }
+    ],
+    "wof:id":856924599,
+    "wof:lastmodified":1464109024,
+    "wof:name":"Tim Jacobs Homebuilders",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -91.74035,
+    41.978477,
+    -91.74035,
+    41.978477
+],
+  "geometry": {"coordinates":[-91.74035000000001,41.978477],"type":"Point"}
+}

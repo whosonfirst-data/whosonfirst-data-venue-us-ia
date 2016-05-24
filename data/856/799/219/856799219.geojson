@@ -1,0 +1,74 @@
+{
+  "id": 856799219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892477,41.245757,-95.892477,41.245757",
+    "geom:latitude":41.245757,
+    "geom:longitude":-95.892477,
+    "iso:country":"US",
+    "sg:address":"3211 Nebraska Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1488",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "game",
+        "supply"
+    ],
+    "sg:website":"www.bkentertainment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iyk3Cr1WhLIIs7rluMKYH_41.245757_-95.892477@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103168,
+    "wof:geomhash":"b1e8dbfe658508480647db4ec7e6886c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856799219
+        }
+    ],
+    "wof:id":856799219,
+    "wof:lastmodified":1464103168,
+    "wof:name":"BK Entertainment",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.892477,
+    41.245757,
+    -95.892477,
+    41.245757
+],
+  "geometry": {"coordinates":[-95.892477,41.245757],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856840999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.338763,41.475682,-95.338763,41.475682",
+    "geom:latitude":41.475682,
+    "geom:longitude":-95.338763,
+    "iso:country":"US",
+    "sg:address":"220 W Lyon St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2341",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o8VppU9RD1GBeb9RmU04G_41.475682_-95.338763@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105040,
+    "wof:geomhash":"85f974111d5555e46cf38c61af18fd03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856840999
+        }
+    ],
+    "wof:id":856840999,
+    "wof:lastmodified":1464105040,
+    "wof:name":"Elderberries Senior Citizens",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -95.338763,
+    41.475682,
+    -95.338763,
+    41.475682
+],
+  "geometry": {"coordinates":[-95.338763,41.475682],"type":"Point"}
+}

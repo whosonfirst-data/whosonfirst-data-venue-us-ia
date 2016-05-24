@@ -1,0 +1,73 @@
+{
+  "id": 857007879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.586117,42.031542,-91.586117,42.031542",
+    "geom:latitude":42.031542,
+    "geom:longitude":-91.586117,
+    "iso:country":"US",
+    "sg:address":"2274 5th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 0381",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UGqGnicnQz8HVrZwZ80d0_42.031542_-91.586117@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112692,
+    "wof:geomhash":"97a5a50e08d021b66bbc2a7e3b3988f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857007879
+        }
+    ],
+    "wof:id":857007879,
+    "wof:lastmodified":1464112692,
+    "wof:name":"Lacey Plumbing & Heating",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.586117,
+    42.031542,
+    -91.586117,
+    42.031542
+],
+  "geometry": {"coordinates":[-91.586117,42.031542],"type":"Point"}
+}

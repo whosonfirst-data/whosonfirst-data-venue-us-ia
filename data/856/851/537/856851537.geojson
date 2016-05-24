@@ -1,0 +1,74 @@
+{
+  "id": 856851537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.581149,41.706211,-93.581149,41.706211",
+    "geom:latitude":41.706211,
+    "geom:longitude":-93.581149,
+    "iso:country":"US",
+    "sg:address":"2335 SE Delaware Ave",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 963 1890",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XdfcRicbbJOrdgsNw11Kd_41.706211_-93.581149@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105602,
+    "wof:geomhash":"1d65b9ec817cec8f26706cb7cd8588fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896319,
+            "region_id":85688713,
+            "venue_id":856851537
+        }
+    ],
+    "wof:id":856851537,
+    "wof:lastmodified":1464105602,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85896319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -93.581149,
+    41.706211,
+    -93.581149,
+    41.706211
+],
+  "geometry": {"coordinates":[-93.581149,41.706211],"type":"Point"}
+}

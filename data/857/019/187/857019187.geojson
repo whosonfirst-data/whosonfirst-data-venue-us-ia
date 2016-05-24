@@ -1,0 +1,71 @@
+{
+  "id": 857019187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.102216,41.837309,-94.102216,41.837309",
+    "geom:latitude":41.837309,
+    "geom:longitude":-94.102216,
+    "iso:country":"US",
+    "sg:address":"1423 Otley Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4839",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TeOTneDGZt75ZLUwRAtwP_41.837309_-94.102216@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113162,
+    "wof:geomhash":"963842816b26fe7062cd2bc80ae5e7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857019187
+        }
+    ],
+    "wof:id":857019187,
+    "wof:lastmodified":1464113162,
+    "wof:name":"Assembly Of God Church",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.102216,
+    41.837309,
+    -94.102216,
+    41.837309
+],
+  "geometry": {"coordinates":[-94.102216,41.837309],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856906581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.563808,41.654114,-91.563808,41.654114",
+    "geom:latitude":41.654114,
+    "geom:longitude":-91.563808,
+    "iso:country":"US",
+    "sg:address":"328 Highland Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 356 2537",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyODFU5bxzpjadCX0ldcT_41.654114_-91.563808@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108288,
+    "wof:geomhash":"edcb57c7fc8b58269616b774eea98c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":856906581
+        }
+    ],
+    "wof:id":856906581,
+    "wof:lastmodified":1464108288,
+    "wof:name":"Janusz Bardach MD",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.563808,
+    41.654114,
+    -91.563808,
+    41.654114
+],
+  "geometry": {"coordinates":[-91.56380799999999,41.654114],"type":"Point"}
+}

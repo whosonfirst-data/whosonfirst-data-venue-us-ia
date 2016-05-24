@@ -1,0 +1,66 @@
+{
+  "id": 857010737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.362514,41.390163,-95.362514,41.390163",
+    "geom:latitude":41.390163,
+    "geom:longitude":-95.362514,
+    "iso:country":"US",
+    "sg:address":"117 N Main St",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 741 5621",
+    "sg:postcode":"51536",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LtyPiTorJZOY9tt9PhkTv_41.390163_-95.362514@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112809,
+    "wof:geomhash":"f8a8e391ce733824b0fb22190e684b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857010737
+        }
+    ],
+    "wof:id":857010737,
+    "wof:lastmodified":1464112809,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.362514,
+    41.390163,
+    -95.362514,
+    41.390163
+],
+  "geometry": {"coordinates":[-95.362514,41.390163],"type":"Point"}
+}

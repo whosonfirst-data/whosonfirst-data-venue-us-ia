@@ -1,0 +1,66 @@
+{
+  "id": 856860961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.853164,41.246701,-95.853164,41.246701",
+    "geom:latitude":41.246701,
+    "geom:longitude":-95.853164,
+    "iso:country":"US",
+    "sg:address":"1510 S 6th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 7767",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nI0iYDQe0kP3Li4mUEW24_41.246701_-95.853164@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106035,
+    "wof:geomhash":"1defc70de62d116d603cce974798fc6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856860961
+        }
+    ],
+    "wof:id":856860961,
+    "wof:lastmodified":1464106035,
+    "wof:name":"Pony's Pub",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.853164,
+    41.246701,
+    -95.853164,
+    41.246701
+],
+  "geometry": {"coordinates":[-95.85316400000001,41.246701],"type":"Point"}
+}

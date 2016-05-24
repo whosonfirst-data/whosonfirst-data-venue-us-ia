@@ -1,0 +1,71 @@
+{
+  "id": 856980507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.382612,41.185961,-93.382612,41.185961",
+    "geom:latitude":41.185961,
+    "geom:longitude":-93.382612,
+    "iso:country":"US",
+    "sg:address":"317 S Vine Ave",
+    "sg:city":"Lacona",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 534 3019",
+    "sg:postcode":"50139",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w3ZmmxvKlpg5JUjrquZhK_41.185961_-93.382612@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111483,
+    "wof:geomhash":"06e58627af58ac0c3b87233f5bc27757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856980507
+        }
+    ],
+    "wof:id":856980507,
+    "wof:lastmodified":1464111483,
+    "wof:name":"Lacona Grown Organic Produce",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.382612,
+    41.185961,
+    -93.382612,
+    41.185961
+],
+  "geometry": {"coordinates":[-93.38261199999999,41.185961],"type":"Point"}
+}

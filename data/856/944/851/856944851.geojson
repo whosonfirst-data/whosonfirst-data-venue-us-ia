@@ -1,0 +1,71 @@
+{
+  "id": 856944851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558357,41.356011,-93.558357,41.356011",
+    "geom:latitude":41.356011,
+    "geom:longitude":-93.558357,
+    "iso:country":"US",
+    "sg:address":"579 US Hwy 65",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6651",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fountain",
+        "display"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13SofSbZqQeMi8MiBqj8JK_41.356011_-93.558357@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109882,
+    "wof:geomhash":"79390fc082e4b4927c0be3506f736dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856944851
+        }
+    ],
+    "wof:id":856944851,
+    "wof:lastmodified":1464109882,
+    "wof:name":"Indianola Lawn Ornaments",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fountain",
+        "display"
+    ]
+},
+  "bbox": [
+    -93.558357,
+    41.356011,
+    -93.558357,
+    41.356011
+],
+  "geometry": {"coordinates":[-93.558357,41.356011],"type":"Point"}
+}

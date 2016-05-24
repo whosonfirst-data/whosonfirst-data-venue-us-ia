@@ -1,0 +1,73 @@
+{
+  "id": 856982265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632782,41.930751,-91.632782,41.930751",
+    "geom:latitude":41.930751,
+    "geom:longitude":-91.632782,
+    "iso:country":"US",
+    "sg:address":"4431 Ely Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3666",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZbJqMqnIoOdo9sTRVOJsX_41.930751_-91.632782@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111571,
+    "wof:geomhash":"4a8531a177f27cf604a81ed6d3cedf63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856982265
+        }
+    ],
+    "wof:id":856982265,
+    "wof:lastmodified":1464111571,
+    "wof:name":"Ken-Way Sewer & Drain Cleaning",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.632782,
+    41.930751,
+    -91.632782,
+    41.930751
+],
+  "geometry": {"coordinates":[-91.63278200000001,41.930751],"type":"Point"}
+}

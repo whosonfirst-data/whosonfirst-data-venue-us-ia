@@ -1,0 +1,71 @@
+{
+  "id": 856810717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.545237,41.974,-91.545237,41.974",
+    "geom:latitude":41.974,
+    "geom:longitude":-91.545237,
+    "iso:country":"US",
+    "sg:address":"1571 Forest Grove Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5406",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OUhsNP5RsuupG8DOjvxjc_41.974000_-91.545237@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103662,
+    "wof:geomhash":"ae53cb20f917f44b1b2e0c8bea347282",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856810717
+        }
+    ],
+    "wof:id":856810717,
+    "wof:lastmodified":1464103662,
+    "wof:name":"Andersen Construction Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.545237,
+    41.974,
+    -91.545237,
+    41.974
+],
+  "geometry": {"coordinates":[-91.545237,41.974],"type":"Point"}
+}

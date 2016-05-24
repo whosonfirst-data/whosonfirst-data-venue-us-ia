@@ -1,0 +1,75 @@
+{
+  "id": 856885525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.08699,41.823783,-94.08699,41.823783",
+    "geom:latitude":41.823783,
+    "geom:longitude":-94.08699,
+    "iso:country":"US",
+    "sg:address":"1453 K Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 7055",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4usFJiK9kTp9jVz2lGlzns_41.823783_-94.086990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107494,
+    "wof:geomhash":"b14b00adad86b3e4b23b7d4757287cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856885525
+        }
+    ],
+    "wof:id":856885525,
+    "wof:lastmodified":1464107494,
+    "wof:name":"Central Iowa Satellite",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.08699,
+    41.823783,
+    -94.08699,
+    41.823783
+],
+  "geometry": {"coordinates":[-94.08699,41.823783],"type":"Point"}
+}

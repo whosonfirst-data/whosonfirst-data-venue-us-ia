@@ -1,0 +1,73 @@
+{
+  "id": 856874657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.87627,41.611582,-93.87627,41.611582",
+    "geom:latitude":41.611582,
+    "geom:longitude":-93.87627,
+    "iso:country":"US",
+    "sg:address":"290 Terrace Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 978 5402",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pa0QA8vhMiy2792BSpOMN_41.611582_-93.876270@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106916,
+    "wof:geomhash":"b70e2498334d2673e468a724f48a5db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856874657
+        }
+    ],
+    "wof:id":856874657,
+    "wof:lastmodified":1464106916,
+    "wof:name":"Petersen Carpentry Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.87627,
+    41.611582,
+    -93.87627,
+    41.611582
+],
+  "geometry": {"coordinates":[-93.87627000000001,41.611582],"type":"Point"}
+}

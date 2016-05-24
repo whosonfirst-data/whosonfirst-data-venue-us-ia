@@ -1,0 +1,73 @@
+{
+  "id": 856892759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.417769,41.921501,-91.417769,41.921501",
+    "geom:latitude":41.921501,
+    "geom:longitude":-91.417769,
+    "iso:country":"US",
+    "sg:address":"201 1st Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8472",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stone",
+        "pointing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FaAswncbrjxAIxXbdcOos_41.921501_-91.417769@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107785,
+    "wof:geomhash":"055affec96d04f32969f12fddc01dffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856892759
+        }
+    ],
+    "wof:id":856892759,
+    "wof:lastmodified":1464107785,
+    "wof:name":"William Sewell & Co",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "pointing"
+    ]
+},
+  "bbox": [
+    -91.417769,
+    41.921501,
+    -91.417769,
+    41.921501
+],
+  "geometry": {"coordinates":[-91.41776900000001,41.921501],"type":"Point"}
+}

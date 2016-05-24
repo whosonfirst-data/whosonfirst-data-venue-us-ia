@@ -1,0 +1,73 @@
+{
+  "id": 856831289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890737,41.245696,-95.890737,41.245696",
+    "geom:latitude":41.245696,
+    "geom:longitude":-95.890737,
+    "iso:country":"US",
+    "sg:address":"3319 Nebraska Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0242",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b9IM0E9WcCCwL0VKOn2nm_41.245696_-95.890737@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104564,
+    "wof:geomhash":"11566aa88a21b8a8fd5f286c88459163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856831289
+        }
+    ],
+    "wof:id":856831289,
+    "wof:lastmodified":1464104564,
+    "wof:name":"May Plumbing Co",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.890737,
+    41.245696,
+    -95.890737,
+    41.245696
+],
+  "geometry": {"coordinates":[-95.890737,41.245696],"type":"Point"}
+}

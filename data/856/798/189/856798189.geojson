@@ -1,0 +1,71 @@
+{
+  "id": 856798189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.031393,41.658301,-94.031393,41.658301",
+    "geom:latitude":41.658301,
+    "geom:longitude":-94.031393,
+    "iso:country":"US",
+    "sg:address":"2284 260th Ct",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5753",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vylQ7mEFk549j2jr782sv_41.658301_-94.031393@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103117,
+    "wof:geomhash":"84d4326886e88bc4b8fc590b79356198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856798189
+        }
+    ],
+    "wof:id":856798189,
+    "wof:lastmodified":1464103117,
+    "wof:name":"Associated Claim Svc Corp",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -94.031393,
+    41.658301,
+    -94.031393,
+    41.658301
+],
+  "geometry": {"coordinates":[-94.03139299999999,41.658301],"type":"Point"}
+}

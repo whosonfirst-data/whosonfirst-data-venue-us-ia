@@ -1,0 +1,71 @@
+{
+  "id": 857030203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.192609,41.578584,-94.192609,41.578584",
+    "geom:latitude":41.578584,
+    "geom:longitude":-94.192609,
+    "iso:country":"US",
+    "sg:address":"109 Lansing St",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 681 0161",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MIoHnopHi7yLkoZbMNLVh_41.578584_-94.192609@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113666,
+    "wof:geomhash":"a65df48b5dd64b5ff52edff88e2d1952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857030203
+        }
+    ],
+    "wof:id":857030203,
+    "wof:lastmodified":1464113666,
+    "wof:name":"Central Iowa Home Inspections",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -94.192609,
+    41.578584,
+    -94.192609,
+    41.578584
+],
+  "geometry": {"coordinates":[-94.192609,41.578584],"type":"Point"}
+}

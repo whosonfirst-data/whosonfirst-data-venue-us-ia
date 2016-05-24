@@ -1,0 +1,77 @@
+{
+  "id": 856931533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.695117,41.582925,-93.695117,41.582925",
+    "geom:latitude":41.582925,
+    "geom:longitude":-93.695117,
+    "iso:country":"US",
+    "sg:address":"5709 Grand Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 277 8468",
+    "sg:postcode":"50312",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P7bwzD5DsPvNGkegD2JCe_41.582925_-93.695117@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109302,
+    "wof:geomhash":"26f5c4badff93d6d1a1a348c1d63fd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877113,
+            "region_id":85688713,
+            "venue_id":856931533
+        }
+    ],
+    "wof:id":856931533,
+    "wof:lastmodified":1464109302,
+    "wof:name":"Solar Solutions",
+    "wof:parent_id":85877113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -93.695117,
+    41.582925,
+    -93.695117,
+    41.582925
+],
+  "geometry": {"coordinates":[-93.695117,41.582925],"type":"Point"}
+}

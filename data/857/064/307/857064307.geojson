@@ -1,0 +1,71 @@
+{
+  "id": 857064307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858332,41.36369,-95.858332,41.36369",
+    "geom:latitude":41.36369,
+    "geom:longitude":-95.858332,
+    "iso:country":"US",
+    "sg:address":"102 W Florence St",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3730",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LopWgGaoxU9FxqGPOn7YC_41.363690_-95.858332@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115072,
+    "wof:geomhash":"947ec1f97d8aa1b08898e9e8979a3df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857064307
+        }
+    ],
+    "wof:id":857064307,
+    "wof:lastmodified":1464115072,
+    "wof:name":"Crescent Fire Dept",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.858332,
+    41.36369,
+    -95.858332,
+    41.36369
+],
+  "geometry": {"coordinates":[-95.858332,41.36369],"type":"Point"}
+}

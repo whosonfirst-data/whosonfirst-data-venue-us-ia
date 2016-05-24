@@ -1,0 +1,74 @@
+{
+  "id": 856814109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608334,41.691365,-91.608334,41.691365",
+    "geom:latitude":41.691365,
+    "geom:longitude":-91.608334,
+    "iso:country":"US",
+    "sg:address":"1401 Coral Ridge Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 625 2804",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3buOLy228EyRDTh85ApALk_41.691365_-91.608334@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103793,
+    "wof:geomhash":"79ac95514e2d4f59d2f72f532d1ac06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":856814109
+        }
+    ],
+    "wof:id":856814109,
+    "wof:lastmodified":1464103793,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.608334,
+    41.691365,
+    -91.608334,
+    41.691365
+],
+  "geometry": {"coordinates":[-91.608334,41.691365],"type":"Point"}
+}

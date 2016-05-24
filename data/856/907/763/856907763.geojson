@@ -1,0 +1,73 @@
+{
+  "id": 856907763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634804,42.00615,-91.634804,42.00615",
+    "geom:latitude":42.00615,
+    "geom:longitude":-91.634804,
+    "iso:country":"US",
+    "sg:address":"224 29th Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0484",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kHL0p5iiElfMC9vPdKotu_42.006150_-91.634804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108335,
+    "wof:geomhash":"c0752584ccf2179bb193e1b379652962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856907763
+        }
+    ],
+    "wof:id":856907763,
+    "wof:lastmodified":1464108335,
+    "wof:name":"Eastern Iowa Softwater Ctr Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -91.634804,
+    42.00615,
+    -91.634804,
+    42.00615
+],
+  "geometry": {"coordinates":[-91.634804,42.00615],"type":"Point"}
+}

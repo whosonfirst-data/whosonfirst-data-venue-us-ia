@@ -1,0 +1,71 @@
+{
+  "id": 857071439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.703598,42.033901,-91.703598,42.033901",
+    "geom:latitude":42.033901,
+    "geom:longitude":-91.703598,
+    "iso:country":"US",
+    "sg:address":"4840 N River Blvd NE Ste 400",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7987",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pjsb435reEvIYKJtk6zFg_42.033901_-91.703598@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115394,
+    "wof:geomhash":"4a0d07ab34140653ece9815574cbd0f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857071439
+        }
+    ],
+    "wof:id":857071439,
+    "wof:lastmodified":1464115394,
+    "wof:name":"Deloitte & Touche Llp",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -91.703598,
+    42.033901,
+    -91.703598,
+    42.033901
+],
+  "geometry": {"coordinates":[-91.703598,42.033901],"type":"Point"}
+}

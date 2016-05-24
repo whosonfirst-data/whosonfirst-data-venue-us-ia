@@ -1,0 +1,71 @@
+{
+  "id": 856927603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.801054,41.583745,-93.801054,41.583745",
+    "geom:latitude":41.583745,
+    "geom:longitude":-93.801054,
+    "iso:country":"US",
+    "sg:address":"1021 68th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 274 0785",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jALlDUdI4q7qQgPOJXiJL_41.583745_-93.801054@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109154,
+    "wof:geomhash":"c1c8372ae896a564b14f83861ef0a892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856927603
+        }
+    ],
+    "wof:id":856927603,
+    "wof:lastmodified":1464109154,
+    "wof:name":"R J Wilson Construction",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.801054,
+    41.583745,
+    -93.801054,
+    41.583745
+],
+  "geometry": {"coordinates":[-93.80105399999999,41.583745],"type":"Point"}
+}

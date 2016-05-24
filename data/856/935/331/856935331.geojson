@@ -1,0 +1,75 @@
+{
+  "id": 856935331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417651,42.516162,-96.417651,42.516162",
+    "geom:latitude":42.516162,
+    "geom:longitude":-96.417651,
+    "iso:country":"US",
+    "sg:address":"326 W 25th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1113",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KM83VB6oai6EOTnKqP7Ob_42.516162_-96.417651@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109443,
+    "wof:geomhash":"40aa2bd2ba0fb4def71e940629ed914a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856935331
+        }
+    ],
+    "wof:id":856935331,
+    "wof:lastmodified":1464109443,
+    "wof:name":"First Place Travel",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -96.417651,
+    42.516162,
+    -96.417651,
+    42.516162
+],
+  "geometry": {"coordinates":[-96.41765100000001,42.516162],"type":"Point"}
+}

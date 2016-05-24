@@ -1,0 +1,72 @@
+{
+  "id": 856935461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.839258,41.257295,-95.839258,41.257295",
+    "geom:latitude":41.257295,
+    "geom:longitude":-95.839258,
+    "iso:country":"US",
+    "sg:address":"101 Graham Ave E",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 1238",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.iaumc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kv9fHi97YKvsh3XUDC0US_41.257295_-95.839258@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109452,
+    "wof:geomhash":"99ff37fde5ad1e57c42fbeee14e78420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856935461
+        }
+    ],
+    "wof:id":856935461,
+    "wof:lastmodified":1464109452,
+    "wof:name":"United Methodist Church Dist",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.839258,
+    41.257295,
+    -95.839258,
+    41.257295
+],
+  "geometry": {"coordinates":[-95.839258,41.257295],"type":"Point"}
+}

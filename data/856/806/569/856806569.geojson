@@ -1,0 +1,71 @@
+{
+  "id": 856806569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665311,42.021391,-91.665311,42.021391",
+    "geom:latitude":42.021391,
+    "geom:longitude":-91.665311,
+    "iso:country":"US",
+    "sg:address":"3978 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 7475",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AVzDJsjuV9btQPlgLKZy8_42.021391_-91.665311@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103477,
+    "wof:geomhash":"493e75862c3c3be5e0a663e149851722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856806569
+        }
+    ],
+    "wof:id":856806569,
+    "wof:lastmodified":1464103477,
+    "wof:name":"Stacey Cousins",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.665311,
+    42.021391,
+    -91.665311,
+    42.021391
+],
+  "geometry": {"coordinates":[-91.665311,42.021391],"type":"Point"}
+}

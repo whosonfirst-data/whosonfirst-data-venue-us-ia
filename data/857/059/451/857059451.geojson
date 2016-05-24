@@ -1,0 +1,72 @@
+{
+  "id": 857059451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715146,41.958853,-91.715146,41.958853",
+    "geom:latitude":41.958853,
+    "geom:longitude":-91.715146,
+    "iso:country":"US",
+    "sg:address":"3500 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/118811-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0074",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v56bd0JqYYl4Lc5BSxJxJ_41.958853_-91.715146@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114878,
+    "wof:geomhash":"9d4b7bb232e350e4203e10317131ec75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857059451
+        }
+    ],
+    "wof:id":857059451,
+    "wof:lastmodified":1464114878,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -91.715146,
+    41.958853,
+    -91.715146,
+    41.958853
+],
+  "geometry": {"coordinates":[-91.715146,41.958853],"type":"Point"}
+}

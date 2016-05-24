@@ -1,0 +1,73 @@
+{
+  "id": 856958705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.680366,41.385318,-95.680366,41.385318",
+    "geom:latitude":41.385318,
+    "geom:longitude":-95.680366,
+    "iso:country":"US",
+    "sg:address":"506 Highway St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6446",
+    "sg:postcode":"51576",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2deS1TQzPULWRn9gPWW21n_41.385318_-95.680366@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110495,
+    "wof:geomhash":"939445b302aa947912e58e094fb7139d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856958705
+        }
+    ],
+    "wof:id":856958705,
+    "wof:lastmodified":1464110495,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -95.680366,
+    41.385318,
+    -95.680366,
+    41.385318
+],
+  "geometry": {"coordinates":[-95.68036600000001,41.385318],"type":"Point"}
+}

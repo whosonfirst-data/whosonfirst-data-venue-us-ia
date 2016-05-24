@@ -1,0 +1,71 @@
+{
+  "id": 856801479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.111739,41.829491,-94.111739,41.829491",
+    "geom:latitude":41.829491,
+    "geom:longitude":-94.111739,
+    "iso:country":"US",
+    "sg:address":"1419 Ivy Pl",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4092",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ifmEVU8jEw0FAT6of9a2G_41.829491_-94.111739@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103254,
+    "wof:geomhash":"9781d78607c89a5955fb303062bc442f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856801479
+        }
+    ],
+    "wof:id":856801479,
+    "wof:lastmodified":1464103254,
+    "wof:name":"Perry Sewage Disposal Plant",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -94.111739,
+    41.829491,
+    -94.111739,
+    41.829491
+],
+  "geometry": {"coordinates":[-94.111739,41.829491],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856907573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.37632,42.421904,-96.37632,42.421904",
+    "geom:latitude":42.421904,
+    "geom:longitude":-96.37632,
+    "iso:country":"US",
+    "sg:address":"2425 Blvd of Champions",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 7353",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10XhoyTY5TBTYHJYbWMXCM_42.421904_-96.376320@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108323,
+    "wof:geomhash":"c901c14aca801680066d66df293b08aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856907573
+        }
+    ],
+    "wof:id":856907573,
+    "wof:lastmodified":1464108323,
+    "wof:name":"Dickson Service",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.37632,
+    42.421904,
+    -96.37632,
+    42.421904
+],
+  "geometry": {"coordinates":[-96.37632000000001,42.421904],"type":"Point"}
+}

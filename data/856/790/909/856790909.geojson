@@ -1,0 +1,73 @@
+{
+  "id": 856790909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.713616,41.990258,-91.713616,41.990258",
+    "geom:latitude":41.990258,
+    "geom:longitude":-91.713616,
+    "iso:country":"US",
+    "sg:address":"1625 Elaine Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 9200",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TwWZ62quUk2M1pzPO8PeF_41.990258_-91.713616@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102816,
+    "wof:geomhash":"6ad3d9d74d2be15497cf579788189e09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856790909
+        }
+    ],
+    "wof:id":856790909,
+    "wof:lastmodified":1464102816,
+    "wof:name":"P C Enterprises",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.713616,
+    41.990258,
+    -91.713616,
+    41.990258
+],
+  "geometry": {"coordinates":[-91.713616,41.990258],"type":"Point"}
+}

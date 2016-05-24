@@ -1,0 +1,71 @@
+{
+  "id": 856805671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.825685,41.24854,-95.825685,41.24854",
+    "geom:latitude":41.24854,
+    "geom:longitude":-95.825685,
+    "iso:country":"US",
+    "sg:address":"200 Pickardy Ln",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4010",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cOtle22oXPoqHGI0ZNihs_41.248540_-95.825685@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103444,
+    "wof:geomhash":"33c31b430d32f89f701247eb6e72f4d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856805671
+        }
+    ],
+    "wof:id":856805671,
+    "wof:lastmodified":1464103444,
+    "wof:name":"Mtm Enterprises Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -95.825685,
+    41.24854,
+    -95.825685,
+    41.24854
+],
+  "geometry": {"coordinates":[-95.82568499999999,41.24854],"type":"Point"}
+}

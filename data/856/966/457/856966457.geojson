@@ -1,0 +1,73 @@
+{
+  "id": 856966457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935804,42.229217,-95.935804,42.229217",
+    "geom:latitude":42.229217,
+    "geom:longitude":-95.935804,
+    "iso:country":"US",
+    "sg:address":"421 Main St W",
+    "sg:city":"Smithland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 889 2265",
+    "sg:postcode":"51056",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Add43IVAC7ZutgdwbofVl_42.229217_-95.935804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110808,
+    "wof:geomhash":"480a871c98ef4717af001be9ecc8f92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856966457
+        }
+    ],
+    "wof:id":856966457,
+    "wof:lastmodified":1464110808,
+    "wof:name":"Bob Jones' Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.935804,
+    42.229217,
+    -95.935804,
+    42.229217
+],
+  "geometry": {"coordinates":[-95.935804,42.229217],"type":"Point"}
+}

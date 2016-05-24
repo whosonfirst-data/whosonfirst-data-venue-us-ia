@@ -1,0 +1,73 @@
+{
+  "id": 856856203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397469,41.307185,-95.397469,41.307185",
+    "geom:latitude":41.307185,
+    "geom:longitude":-95.397469,
+    "iso:country":"US",
+    "sg:address":"206 S Main St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 5504",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J8XC4eW7vvukuYigEVlE5_41.307185_-95.397469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105806,
+    "wof:geomhash":"fdb549c0e04cdd84d2464b26c04b326e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856856203
+        }
+    ],
+    "wof:id":856856203,
+    "wof:lastmodified":1464105806,
+    "wof:name":"Oakland Water Dept",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -95.397469,
+    41.307185,
+    -95.397469,
+    41.307185
+],
+  "geometry": {"coordinates":[-95.397469,41.307185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856961831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937923,42.231576,-95.937923,42.231576",
+    "geom:latitude":42.231576,
+    "geom:longitude":-95.937923,
+    "iso:country":"US",
+    "sg:address":"3354 Old Hwy 141",
+    "sg:city":"Smithland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 889 2288",
+    "sg:postcode":"51056",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tl0jT1oQceuuhzffty8gn_42.231576_-95.937923@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110622,
+    "wof:geomhash":"a84d4afe8ee961b76424b233986e4380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856961831
+        }
+    ],
+    "wof:id":856961831,
+    "wof:lastmodified":1464110622,
+    "wof:name":"Timber Creations",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -95.937923,
+    42.231576,
+    -95.937923,
+    42.231576
+],
+  "geometry": {"coordinates":[-95.937923,42.231576],"type":"Point"}
+}

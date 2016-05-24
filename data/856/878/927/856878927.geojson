@@ -1,0 +1,77 @@
+{
+  "id": 856878927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.775147,41.64405,-93.775147,41.64405",
+    "geom:latitude":41.64405,
+    "geom:longitude":-93.775147,
+    "iso:country":"US",
+    "sg:address":"11203 Meredith Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 251 7272",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85844485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3euCWv4tn7isITtfevhjwS_41.644050_-93.775147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107114,
+    "wof:geomhash":"2f52ddeaa9eaed10a98bf322ac3f59a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85844485,
+            "region_id":85688713,
+            "venue_id":856878927
+        }
+    ],
+    "wof:id":856878927,
+    "wof:lastmodified":1464107114,
+    "wof:name":"Interstate Business Park",
+    "wof:parent_id":85844485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.775147,
+    41.64405,
+    -93.775147,
+    41.64405
+],
+  "geometry": {"coordinates":[-93.775147,41.64405],"type":"Point"}
+}

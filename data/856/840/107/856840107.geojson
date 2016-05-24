@@ -1,0 +1,73 @@
+{
+  "id": 856840107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.611315,41.732014,-93.611315,41.732014",
+    "geom:latitude":41.732014,
+    "geom:longitude":-93.611315,
+    "iso:country":"US",
+    "sg:address":"213 NW Scott St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 681 8020",
+    "sg:postcode":"50023",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kQZubIBQDe7ff5sRdZIkE_41.732014_-93.611315@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105010,
+    "wof:geomhash":"aaa77c862972815c80b84ee6114ebfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896323,
+            "region_id":85688713,
+            "venue_id":856840107
+        }
+    ],
+    "wof:id":856840107,
+    "wof:lastmodified":1464105010,
+    "wof:name":"Phillips Roofing",
+    "wof:parent_id":85896323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.611315,
+    41.732014,
+    -93.611315,
+    41.732014
+],
+  "geometry": {"coordinates":[-93.611315,41.732014],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856789779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.697535,42.106338,-91.697535,42.106338",
+    "geom:latitude":42.106338,
+    "geom:longitude":-91.697535,
+    "iso:country":"US",
+    "sg:address":"3346 N Center Point Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5972",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ktD12H4rFwYzPwEnpk6u_42.106338_-91.697535@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102771,
+    "wof:geomhash":"120a94c8547a90da3aac47786a2f6fcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856789779
+        }
+    ],
+    "wof:id":856789779,
+    "wof:lastmodified":1464102771,
+    "wof:name":"Ingles Auto Body",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.697535,
+    42.106338,
+    -91.697535,
+    42.106338
+],
+  "geometry": {"coordinates":[-91.697535,42.106338],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856969107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.568227,41.628264,-91.568227,41.628264",
+    "geom:latitude":41.628264,
+    "geom:longitude":-91.568227,
+    "iso:country":"US",
+    "sg:address":"3011 Sierra Ct SW",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 5858",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JLfC6NDF7X7u27MLeNz6g_41.628264_-91.568227@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110926,
+    "wof:geomhash":"b563194420d4489057d347e8f315d802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896457,
+            "region_id":85688713,
+            "venue_id":856969107
+        }
+    ],
+    "wof:id":856969107,
+    "wof:lastmodified":1464110926,
+    "wof:name":"Maxwell Construction Inc",
+    "wof:parent_id":85896457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.568227,
+    41.628264,
+    -91.568227,
+    41.628264
+],
+  "geometry": {"coordinates":[-91.56822699999999,41.628264],"type":"Point"}
+}

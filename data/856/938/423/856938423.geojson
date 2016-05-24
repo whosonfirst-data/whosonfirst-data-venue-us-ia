@@ -1,0 +1,71 @@
+{
+  "id": 856938423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899203,41.255562,-95.899203,41.255562",
+    "geom:latitude":41.255562,
+    "geom:longitude":-95.899203,
+    "iso:country":"US",
+    "sg:address":"3316 7th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 9609",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kFrQU7lvQVnCD7nUuo5BC_41.255562_-95.899203@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109578,
+    "wof:geomhash":"4944a6ca628a4eddcc9036b413300be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856938423
+        }
+    ],
+    "wof:id":856938423,
+    "wof:lastmodified":1464109578,
+    "wof:name":"Rosies Laundramat",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -95.899203,
+    41.255562,
+    -95.899203,
+    41.255562
+],
+  "geometry": {"coordinates":[-95.899203,41.255562],"type":"Point"}
+}

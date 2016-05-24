@@ -1,0 +1,67 @@
+{
+  "id": 857065987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.604956,42.0163,-91.604956,42.0163",
+    "geom:latitude":42.0163,
+    "geom:longitude":-91.604956,
+    "iso:country":"US",
+    "sg:address":"325 Oakbrook Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 4100",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:website":"www.csb4me.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GQYy8T4ucIS2b8ebB0023_42.016300_-91.604956@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115135,
+    "wof:geomhash":"ed654541664661f979f7d4c202e38c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065987
+        }
+    ],
+    "wof:id":857065987,
+    "wof:lastmodified":1464115135,
+    "wof:name":"City State Bank",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.604956,
+    42.0163,
+    -91.604956,
+    42.0163
+],
+  "geometry": {"coordinates":[-91.604956,42.0163],"type":"Point"}
+}

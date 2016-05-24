@@ -1,0 +1,75 @@
+{
+  "id": 856989825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.478538,42.523128,-96.478538,42.523128",
+    "geom:latitude":42.523128,
+    "geom:longitude":-96.478538,
+    "iso:country":"US",
+    "sg:address":"5519 Military Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1700",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XKrfnAGyAKulGAM5Bxixc_42.523128_-96.478538@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111962,
+    "wof:geomhash":"80aa816891e741e45f4f85721e66c644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856989825
+        }
+    ],
+    "wof:id":856989825,
+    "wof:lastmodified":1464111962,
+    "wof:name":"Watterson Auto Sales",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.478538,
+    42.523128,
+    -96.478538,
+    42.523128
+],
+  "geometry": {"coordinates":[-96.478538,42.523128],"type":"Point"}
+}

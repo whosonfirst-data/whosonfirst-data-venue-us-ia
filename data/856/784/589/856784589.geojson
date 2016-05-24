@@ -1,0 +1,77 @@
+{
+  "id": 856784589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.671149,41.479404,-93.671149,41.479404",
+    "geom:latitude":41.479404,
+    "geom:longitude":-93.671149,
+    "iso:country":"US",
+    "sg:address":"1421 Justin Ct",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0648",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feedlot",
+        "hog",
+        "corn",
+        "or",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZSFpBcotYSONJ7ZVXg4YR_41.479404_-93.671149@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102548,
+    "wof:geomhash":"6e60c33eb95be83007b79f3c341f7759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856784589
+        }
+    ],
+    "wof:id":856784589,
+    "wof:lastmodified":1464102548,
+    "wof:name":"Tom Dunn",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "hog",
+        "corn",
+        "or",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -93.671149,
+    41.479404,
+    -93.671149,
+    41.479404
+],
+  "geometry": {"coordinates":[-93.671149,41.479404],"type":"Point"}
+}

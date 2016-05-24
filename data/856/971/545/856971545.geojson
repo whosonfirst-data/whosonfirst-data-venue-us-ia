@@ -1,0 +1,66 @@
+{
+  "id": 856971545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.721894,42.235298,-95.721894,42.235298",
+    "geom:latitude":42.235298,
+    "geom:longitude":-95.721894,
+    "iso:country":"US",
+    "sg:address":"215 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 883 2207",
+    "sg:postcode":"51019",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qidl8s1vc8PccdjublhgV_42.235298_-95.721894@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111044,
+    "wof:geomhash":"5ae97a3a78624fffc7d912a1782c4aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856971545
+        }
+    ],
+    "wof:id":856971545,
+    "wof:lastmodified":1464111044,
+    "wof:name":"Danbury Library",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.721894,
+    42.235298,
+    -95.721894,
+    42.235298
+],
+  "geometry": {"coordinates":[-95.72189400000001,42.235298],"type":"Point"}
+}

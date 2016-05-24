@@ -1,0 +1,71 @@
+{
+  "id": 856904437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.710333,41.975093,-91.710333,41.975093",
+    "geom:latitude":41.975093,
+    "geom:longitude":-91.710333,
+    "iso:country":"US",
+    "sg:address":"337 29th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3289",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34IdZHiE3R6nJhBjSXxCrV_41.975093_-91.710333@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108212,
+    "wof:geomhash":"2b9966dd5d7b25087ff20e7a99b84490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856904437
+        }
+    ],
+    "wof:id":856904437,
+    "wof:lastmodified":1464108212,
+    "wof:name":"Contract Freighters Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.710333,
+    41.975093,
+    -91.710333,
+    41.975093
+],
+  "geometry": {"coordinates":[-91.71033300000001,41.975093],"type":"Point"}
+}

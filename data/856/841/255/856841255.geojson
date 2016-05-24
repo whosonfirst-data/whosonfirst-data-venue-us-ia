@@ -1,0 +1,73 @@
+{
+  "id": 856841255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.627977,41.651743,-93.627977,41.651743",
+    "geom:latitude":41.651743,
+    "geom:longitude":-93.627977,
+    "iso:country":"US",
+    "sg:address":"4995 NW 6th Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 7866",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EDIHC3nGolRfSfHiQ45W9_41.651743_-93.627977@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105050,
+    "wof:geomhash":"7453940505f57af9218a0e8e07e64965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856841255
+        }
+    ],
+    "wof:id":856841255,
+    "wof:lastmodified":1464105050,
+    "wof:name":"Hall's Auto Body",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.627977,
+    41.651743,
+    -93.627977,
+    41.651743
+],
+  "geometry": {"coordinates":[-93.627977,41.651743],"type":"Point"}
+}

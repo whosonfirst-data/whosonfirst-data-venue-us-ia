@@ -1,0 +1,71 @@
+{
+  "id": 856976675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.775469,41.91917,-91.775469,41.91917",
+    "geom:latitude":41.91917,
+    "geom:longitude":-91.775469,
+    "iso:country":"US",
+    "sg:address":"641 Main St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2018",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70lPjYRFtvihZWzBbj2cu8_41.919170_-91.775469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111297,
+    "wof:geomhash":"06f1b1d46bff0ff77fc098ce19226533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856976675
+        }
+    ],
+    "wof:id":856976675,
+    "wof:lastmodified":1464111297,
+    "wof:name":"Shellys Hair Salon",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.775469,
+    41.91917,
+    -91.775469,
+    41.91917
+],
+  "geometry": {"coordinates":[-91.775469,41.91917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856923503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.563045,41.976178,-91.563045,41.976178",
+    "geom:latitude":41.976178,
+    "geom:longitude":-91.563045,
+    "iso:country":"US",
+    "sg:address":"6969 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 5507",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iyPQupTLktD74Oj6J4YRn_41.976178_-91.563045@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108983,
+    "wof:geomhash":"b582e75fd9711d88fc092a7540c48f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856923503
+        }
+    ],
+    "wof:id":856923503,
+    "wof:lastmodified":1464108983,
+    "wof:name":"Iowa Sprinkler Systems",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -91.563045,
+    41.976178,
+    -91.563045,
+    41.976178
+],
+  "geometry": {"coordinates":[-91.563045,41.976178],"type":"Point"}
+}

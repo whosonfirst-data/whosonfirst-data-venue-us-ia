@@ -1,0 +1,71 @@
+{
+  "id": 856866155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.370268,42.414784,-96.370268,42.414784",
+    "geom:latitude":42.414784,
+    "geom:longitude":-96.370268,
+    "iso:country":"US",
+    "sg:address":"2800 Expedition Ct",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 234 1088",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05H8deKeFlYc1EBVVQiyMM_42.414784_-96.370268@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106275,
+    "wof:geomhash":"1bd26270cb7e13d89d52461e80e4e348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856866155
+        }
+    ],
+    "wof:id":856866155,
+    "wof:lastmodified":1464106275,
+    "wof:name":"Brouwer Relocation Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -96.370268,
+    42.414784,
+    -96.370268,
+    42.414784
+],
+  "geometry": {"coordinates":[-96.370268,42.414784],"type":"Point"}
+}

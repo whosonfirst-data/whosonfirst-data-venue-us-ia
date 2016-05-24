@@ -1,0 +1,73 @@
+{
+  "id": 857068135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659599,42.021198,-91.659599,42.021198",
+    "geom:latitude":42.021198,
+    "geom:longitude":-91.659599,
+    "iso:country":"US",
+    "sg:address":"1515 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 7878",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z9BeJ4R8yLAaVbcZbVVls_42.021198_-91.659599@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115246,
+    "wof:geomhash":"54813727fe3fd72a7a18435db20dee98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068135
+        }
+    ],
+    "wof:id":857068135,
+    "wof:lastmodified":1464115246,
+    "wof:name":"Louvar Richard D Dr",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -91.659599,
+    42.021198,
+    -91.659599,
+    42.021198
+],
+  "geometry": {"coordinates":[-91.659599,42.021198],"type":"Point"}
+}

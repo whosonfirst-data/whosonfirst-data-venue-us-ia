@@ -1,0 +1,71 @@
+{
+  "id": 856772297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.356239,42.392672,-96.356239,42.392672",
+    "geom:latitude":42.392672,
+    "geom:longitude":-96.356239,
+    "iso:country":"US",
+    "sg:address":"511 Stonegate Cir",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 3990",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h78uHDLGa3MSeg7Vvskko_42.392672_-96.356239@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102260,
+    "wof:geomhash":"866c087e9cb69e86ee8eb44035589d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856772297
+        }
+    ],
+    "wof:id":856772297,
+    "wof:lastmodified":1464102260,
+    "wof:name":"Loess Hills Hearing Aids",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.356239,
+    42.392672,
+    -96.356239,
+    42.392672
+],
+  "geometry": {"coordinates":[-96.356239,42.392672],"type":"Point"}
+}

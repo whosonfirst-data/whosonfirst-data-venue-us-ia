@@ -1,0 +1,73 @@
+{
+  "id": 856836487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.711227,42.022965,-91.711227,42.022965",
+    "geom:latitude":42.022965,
+    "geom:longitude":-91.711227,
+    "iso:country":"US",
+    "sg:address":"4851 Morelle Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 3433",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ApeGTrCIMM7iTRM1ASm6l_42.022965_-91.711227@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104848,
+    "wof:geomhash":"1a5a899710444762e7e8548f585ec3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856836487
+        }
+    ],
+    "wof:id":856836487,
+    "wof:lastmodified":1464104848,
+    "wof:name":"Schaefer Accents Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.711227,
+    42.022965,
+    -91.711227,
+    42.022965
+],
+  "geometry": {"coordinates":[-91.71122699999999,42.022965],"type":"Point"}
+}

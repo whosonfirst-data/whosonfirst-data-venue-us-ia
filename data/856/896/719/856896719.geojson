@@ -1,0 +1,73 @@
+{
+  "id": 856896719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.734381,41.945602,-91.734381,41.945602",
+    "geom:latitude":41.945602,
+    "geom:longitude":-91.734381,
+    "iso:country":"US",
+    "sg:address":"4501 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3099",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AxKy2jiSOodjRC4fWrL2J_41.945602_-91.734381@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107929,
+    "wof:geomhash":"d41040d829ce10159ac1e88f26ec8111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856896719
+        }
+    ],
+    "wof:id":856896719,
+    "wof:lastmodified":1464107929,
+    "wof:name":"Fry & Associates",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.734381,
+    41.945602,
+    -91.734381,
+    41.945602
+],
+  "geometry": {"coordinates":[-91.734381,41.945602],"type":"Point"}
+}

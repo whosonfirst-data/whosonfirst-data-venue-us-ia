@@ -1,0 +1,73 @@
+{
+  "id": 856828191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.779562,41.916652,-91.779562,41.916652",
+    "geom:latitude":41.916652,
+    "geom:longitude":-91.779562,
+    "iso:country":"US",
+    "sg:address":"404 Linn St",
+    "sg:city":"Prairieburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 437 4000",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fLBd95cx1S1D4XRmidvDA_41.916652_-91.779562@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104436,
+    "wof:geomhash":"f4e0cd3afab4711fd8a50b37380993d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856828191
+        }
+    ],
+    "wof:id":856828191,
+    "wof:lastmodified":1464104436,
+    "wof:name":"Herbalife Dist",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -91.779562,
+    41.916652,
+    -91.779562,
+    41.916652
+],
+  "geometry": {"coordinates":[-91.779562,41.916652],"type":"Point"}
+}

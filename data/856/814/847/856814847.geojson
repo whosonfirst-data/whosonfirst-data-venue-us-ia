@@ -1,0 +1,75 @@
+{
+  "id": 856814847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.695122,41.884993,-91.695122,41.884993",
+    "geom:latitude":41.884993,
+    "geom:longitude":-91.695122,
+    "iso:country":"US",
+    "sg:address":"10400 18th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 4511",
+    "sg:postcode":"52338",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sSgMTlV7aXe42sNdPPLsE_41.884993_-91.695122@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103825,
+    "wof:geomhash":"82f0fff3ea29c21fedf1dda8fbb5b2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856814847
+        }
+    ],
+    "wof:id":856814847,
+    "wof:lastmodified":1464103825,
+    "wof:name":"Iowa National Guard Hdqrs",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -91.695122,
+    41.884993,
+    -91.695122,
+    41.884993
+],
+  "geometry": {"coordinates":[-91.695122,41.884993],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856795805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.546137,41.363643,-93.546137,41.363643",
+    "geom:latitude":41.363643,
+    "geom:longitude":-93.546137,
+    "iso:country":"US",
+    "sg:address":"408 N 10th St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2233",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qJI4Liopr3WF0jcGAiHs8_41.363643_-93.546137@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103005,
+    "wof:geomhash":"7a76e6ed5c91347acac214d917bea4dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856795805
+        }
+    ],
+    "wof:id":856795805,
+    "wof:lastmodified":1464103005,
+    "wof:name":"Jay Wilkerson Painting",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.546137,
+    41.363643,
+    -93.546137,
+    41.363643
+],
+  "geometry": {"coordinates":[-93.546137,41.363643],"type":"Point"}
+}

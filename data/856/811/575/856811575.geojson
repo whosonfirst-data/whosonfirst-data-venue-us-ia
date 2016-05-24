@@ -1,0 +1,73 @@
+{
+  "id": 856811575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.336229,42.46275,-96.336229,42.46275",
+    "geom:latitude":42.46275,
+    "geom:longitude":-96.336229,
+    "iso:country":"US",
+    "sg:address":"2605 S Oleander St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 3298",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10arAxSfaih8kgPBI7U6ak_42.462750_-96.336229@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103700,
+    "wof:geomhash":"5a3e50e7e1a7d03effde78126bd7ffde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856811575
+        }
+    ],
+    "wof:id":856811575,
+    "wof:lastmodified":1464103700,
+    "wof:name":"Living Jewels",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -96.336229,
+    42.46275,
+    -96.336229,
+    42.46275
+],
+  "geometry": {"coordinates":[-96.336229,42.46275],"type":"Point"}
+}

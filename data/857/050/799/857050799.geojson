@@ -1,0 +1,77 @@
+{
+  "id": 857050799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.737396,41.962002,-91.737396,41.962002",
+    "geom:latitude":41.962002,
+    "geom:longitude":-91.737396,
+    "iso:country":"US",
+    "sg:address":"5173 18th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2200",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LiWjPXCLPnhazHEzNWWLe_41.962082_-91.737004@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114542,
+    "wof:geomhash":"c2421c90c054e9605ec519cb92ab6dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857050799
+        }
+    ],
+    "wof:id":857050799,
+    "wof:lastmodified":1464114542,
+    "wof:name":"Golden Hammer Collision Center",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.737396,
+    41.962002,
+    -91.737396,
+    41.962002
+],
+  "geometry": {"coordinates":[-91.737396,41.962002],"type":"Point"}
+}

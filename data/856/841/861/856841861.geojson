@@ -1,0 +1,66 @@
+{
+  "id": 856841861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.546243,41.495328,-95.546243,41.495328",
+    "geom:latitude":41.495328,
+    "geom:longitude":-95.546243,
+    "iso:country":"US",
+    "sg:address":"33280 335th St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2001",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cWIXiZQF6bfMnYCJqzq7v_41.495328_-95.546243@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105078,
+    "wof:geomhash":"99a61c3d27f2dbb65f8ad111e25ccdfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856841861
+        }
+    ],
+    "wof:id":856841861,
+    "wof:lastmodified":1464105078,
+    "wof:name":"Fill N Food",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.546243,
+    41.495328,
+    -95.546243,
+    41.495328
+],
+  "geometry": {"coordinates":[-95.546243,41.495328],"type":"Point"}
+}

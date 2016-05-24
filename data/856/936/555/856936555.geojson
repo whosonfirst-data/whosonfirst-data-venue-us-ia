@@ -1,0 +1,73 @@
+{
+  "id": 856936555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608334,41.691392,-91.608334,41.691392",
+    "geom:latitude":41.691392,
+    "geom:longitude":-91.608334,
+    "iso:country":"US",
+    "sg:address":"1405 Coral Ridge Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 625 2844",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54iLZ7CFoHMsonnlfDiczZ_41.691392_-91.608334@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109497,
+    "wof:geomhash":"0f3b51020b35ba1854b7b72f891c4d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":856936555
+        }
+    ],
+    "wof:id":856936555,
+    "wof:lastmodified":1464109497,
+    "wof:name":"Coral Ridge Amoco",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -91.608334,
+    41.691392,
+    -91.608334,
+    41.691392
+],
+  "geometry": {"coordinates":[-91.608334,41.691392],"type":"Point"}
+}

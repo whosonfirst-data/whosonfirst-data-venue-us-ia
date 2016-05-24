@@ -1,0 +1,75 @@
+{
+  "id": 856856703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.527963,41.640802,-91.527963,41.640802",
+    "geom:latitude":41.640802,
+    "geom:longitude":-91.527963,
+    "iso:country":"US",
+    "sg:address":"1936 Boyrum St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2832",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_261Yi0RZUx8O5qHDNY8nyQ_41.640802_-91.527963@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105826,
+    "wof:geomhash":"bf27f431d1cf14ac1e7b7b7174dc0774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856856703
+        }
+    ],
+    "wof:id":856856703,
+    "wof:lastmodified":1464105826,
+    "wof:name":"Skay Automotive Svc Inc",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.527963,
+    41.640802,
+    -91.527963,
+    41.640802
+],
+  "geometry": {"coordinates":[-91.527963,41.640802],"type":"Point"}
+}

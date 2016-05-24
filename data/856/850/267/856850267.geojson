@@ -1,0 +1,75 @@
+{
+  "id": 856850267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417913,42.52178,-96.417913,42.52178",
+    "geom:latitude":42.52178,
+    "geom:longitude":-96.417913,
+    "iso:country":"US",
+    "sg:address":"2916 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1780",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b56Z8Akj0HAHe8pC0J9wV_42.521780_-96.417913@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105535,
+    "wof:geomhash":"15abea5c6a26d9b15befaa6f5238ec2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856850267
+        }
+    ],
+    "wof:id":856850267,
+    "wof:lastmodified":1464105535,
+    "wof:name":"Ralph M Stanifer MD",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.417913,
+    42.52178,
+    -96.417913,
+    42.52178
+],
+  "geometry": {"coordinates":[-96.417913,42.52178],"type":"Point"}
+}

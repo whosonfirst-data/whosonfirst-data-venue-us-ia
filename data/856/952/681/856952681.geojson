@@ -1,0 +1,73 @@
+{
+  "id": 856952681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654367,41.981661,-91.654367,41.981661",
+    "geom:latitude":41.981661,
+    "geom:longitude":-91.654367,
+    "iso:country":"US",
+    "sg:address":"406 12th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5962",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5spG7mTDkTaf1lAjNokoUj_41.981661_-91.654367@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110192,
+    "wof:geomhash":"68006c924aeb2ea8f5f48a105db78425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856952681
+        }
+    ],
+    "wof:id":856952681,
+    "wof:lastmodified":1464110192,
+    "wof:name":"House Of Prayer",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.654367,
+    41.981661,
+    -91.654367,
+    41.981661
+],
+  "geometry": {"coordinates":[-91.65436699999999,41.981661],"type":"Point"}
+}

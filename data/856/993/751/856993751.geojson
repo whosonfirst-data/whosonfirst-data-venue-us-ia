@@ -1,0 +1,68 @@
+{
+  "id": 856993751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657119,41.976029,-91.657119,41.976029",
+    "geom:latitude":41.976029,
+    "geom:longitude":-91.657119,
+    "iso:country":"US",
+    "sg:address":"601 8th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8979",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q6JT4UABBabWqYzpTMlsf_41.976029_-91.657119@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112133,
+    "wof:geomhash":"9ad6a3ba7c71b379c4b94c689d006856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856993751
+        }
+    ],
+    "wof:id":856993751,
+    "wof:lastmodified":1464112133,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.657119,
+    41.976029,
+    -91.657119,
+    41.976029
+],
+  "geometry": {"coordinates":[-91.65711899999999,41.976029],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857067807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660301,42.0201,-91.660301,42.0201",
+    "geom:latitude":42.0201,
+    "geom:longitude":-91.660301,
+    "iso:country":"US",
+    "sg:address":"4002 Sherman St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4799",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pyW5SFyEWBgyyprsVAETK_42.020100_-91.660301@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115226,
+    "wof:geomhash":"dabb4eb4643b33cb0f66ebab615988aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067807
+        }
+    ],
+    "wof:id":857067807,
+    "wof:lastmodified":1464115226,
+    "wof:name":"Project Independence",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.660301,
+    42.0201,
+    -91.660301,
+    42.0201
+],
+  "geometry": {"coordinates":[-91.660301,42.0201],"type":"Point"}
+}

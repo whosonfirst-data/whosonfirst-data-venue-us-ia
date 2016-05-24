@@ -1,0 +1,77 @@
+{
+  "id": 857060153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558425,41.365705,-93.558425,41.365705",
+    "geom:latitude":41.365705,
+    "geom:longitude":-93.558425,
+    "iso:country":"US",
+    "sg:address":"607 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/225948-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6327",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ETAhonUeCxZJuNQ8K6Lcw_41.365703_-93.558441@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114899,
+    "wof:geomhash":"7aa39dd937678cdfe8d1952291178261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857060153
+        }
+    ],
+    "wof:id":857060153,
+    "wof:lastmodified":1464114899,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.558425,
+    41.365705,
+    -93.558425,
+    41.365705
+],
+  "geometry": {"coordinates":[-93.558425,41.365705],"type":"Point"}
+}

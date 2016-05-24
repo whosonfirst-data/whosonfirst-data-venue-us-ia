@@ -1,0 +1,73 @@
+{
+  "id": 857021811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.764276,41.92751,-91.764276,41.92751",
+    "geom:latitude":41.92751,
+    "geom:longitude":-91.764276,
+    "iso:country":"US",
+    "sg:address":"7200 E Cemetery Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2950",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uREjokHnfS6YgdQ9apu31_41.927510_-91.764276@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113265,
+    "wof:geomhash":"98f7098ae229cbe61fb9a4befd631aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857021811
+        }
+    ],
+    "wof:id":857021811,
+    "wof:lastmodified":1464113265,
+    "wof:name":"Harold McCormick",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.764276,
+    41.92751,
+    -91.764276,
+    41.92751
+],
+  "geometry": {"coordinates":[-91.764276,41.92751],"type":"Point"}
+}

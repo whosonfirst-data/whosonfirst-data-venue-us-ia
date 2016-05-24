@@ -1,0 +1,73 @@
+{
+  "id": 856965873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.704489,41.974613,-91.704489,41.974613",
+    "geom:latitude":41.974613,
+    "geom:longitude":-91.704489,
+    "iso:country":"US",
+    "sg:address":"2222 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 3303",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zlDE6kvBR8i1eaRgKmZPH_41.974613_-91.704489@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110789,
+    "wof:geomhash":"ee792a131c201b13eafd7a4167bd16b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856965873
+        }
+    ],
+    "wof:id":856965873,
+    "wof:lastmodified":1464110789,
+    "wof:name":"A O Smith Electrical Products",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -91.704489,
+    41.974613,
+    -91.704489,
+    41.974613
+],
+  "geometry": {"coordinates":[-91.704489,41.974613],"type":"Point"}
+}

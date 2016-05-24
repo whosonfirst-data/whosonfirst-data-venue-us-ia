@@ -1,0 +1,73 @@
+{
+  "id": 856829495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.694191,42.04702,-91.694191,42.04702",
+    "geom:latitude":42.04702,
+    "geom:longitude":-91.694191,
+    "iso:country":"US",
+    "sg:address":"1650 Progress Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1645",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bqDAAiQImW0EL2Q28YfCB_42.047020_-91.694191@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104495,
+    "wof:geomhash":"f35295aaab7c008ff1f29d4c9de9215a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856829495
+        }
+    ],
+    "wof:id":856829495,
+    "wof:lastmodified":1464104495,
+    "wof:name":"Steel Store/Bohler Uddeholm Cp",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -91.694191,
+    42.04702,
+    -91.694191,
+    42.04702
+],
+  "geometry": {"coordinates":[-91.694191,42.04702],"type":"Point"}
+}

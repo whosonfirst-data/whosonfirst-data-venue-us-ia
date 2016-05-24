@@ -1,0 +1,89 @@
+{
+  "id": 857070215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67379,41.975121,-91.67379,41.975121",
+    "geom:latitude":41.975121,
+    "geom:longitude":-91.67379,
+    "iso:country":"US",
+    "sg:address":"201 2nd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3760",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.bsginc.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R6gdp2j9SaGprxcb0uOnU_41.975121_-91.673790@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115344,
+    "wof:geomhash":"f8334400042ab44e8fc87ad710a49e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857070215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857070215
+        }
+    ],
+    "wof:id":857070215,
+    "wof:lastmodified":1464115344,
+    "wof:name":"Business Solutions Group Llc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -91.67379,
+    41.975121,
+    -91.67379,
+    41.975121
+],
+  "geometry": {"coordinates":[-91.67379,41.975121],"type":"Point"}
+}

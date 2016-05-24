@@ -1,0 +1,73 @@
+{
+  "id": 856887711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645936,41.990331,-91.645936,41.990331",
+    "geom:latitude":41.990331,
+    "geom:longitude":-91.645936,
+    "iso:country":"US",
+    "sg:address":"1744 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4673",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5My0AOjFdHyxTgJZXGXjqb_41.990331_-91.645936@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107590,
+    "wof:geomhash":"cad1188205d85cd01eb38046b4514f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856887711
+        }
+    ],
+    "wof:id":856887711,
+    "wof:lastmodified":1464107590,
+    "wof:name":"House Of Hope",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -91.645936,
+    41.990331,
+    -91.645936,
+    41.990331
+],
+  "geometry": {"coordinates":[-91.64593600000001,41.990331],"type":"Point"}
+}

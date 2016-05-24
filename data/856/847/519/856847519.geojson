@@ -1,0 +1,73 @@
+{
+  "id": 856847519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618318,41.976988,-91.618318,41.976988",
+    "geom:latitude":41.976988,
+    "geom:longitude":-91.618318,
+    "iso:country":"US",
+    "sg:address":"720 34th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4632",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C8DK99mCSTcPEFVLMFsLk_41.976988_-91.618318@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105367,
+    "wof:geomhash":"d0d616fe7f1d328fec4a906297fd284b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856847519
+        }
+    ],
+    "wof:id":856847519,
+    "wof:lastmodified":1464105367,
+    "wof:name":"Hakes Construction",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -91.618318,
+    41.976988,
+    -91.618318,
+    41.976988
+],
+  "geometry": {"coordinates":[-91.618318,41.976988],"type":"Point"}
+}

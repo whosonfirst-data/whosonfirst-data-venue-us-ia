@@ -1,0 +1,79 @@
+{
+  "id": 857048181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678937,42.034761,-91.678937,42.034761",
+    "geom:latitude":42.034761,
+    "geom:longitude":-91.678937,
+    "iso:country":"US",
+    "sg:address":"600 Blairs Ferry Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3998",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.iowachirocenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lSRX5MG2dUSFz6gzNPAZR_42.034708_-91.678911@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114416,
+    "wof:geomhash":"5ae9e52560d3f4dbf6ba6431cfcb1b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857048181
+        }
+    ],
+    "wof:id":857048181,
+    "wof:lastmodified":1464114416,
+    "wof:name":"Iowa Chiropractic Center",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.678937,
+    42.034761,
+    -91.678937,
+    42.034761
+],
+  "geometry": {"coordinates":[-91.678937,42.034761],"type":"Point"}
+}

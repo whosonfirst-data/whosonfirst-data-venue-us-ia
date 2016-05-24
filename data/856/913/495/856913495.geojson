@@ -1,0 +1,71 @@
+{
+  "id": 856913495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.708147,42.023965,-91.708147,42.023965",
+    "geom:latitude":42.023965,
+    "geom:longitude":-91.708147,
+    "iso:country":"US",
+    "sg:address":"4239 Morelle Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0727",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XgOVS35jqCfrxP4rELjBx_42.023965_-91.708147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108558,
+    "wof:geomhash":"5dab598ff436abf86e7b08eecc76229a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856913495
+        }
+    ],
+    "wof:id":856913495,
+    "wof:lastmodified":1464108558,
+    "wof:name":"Navdyne",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -91.708147,
+    42.023965,
+    -91.708147,
+    42.023965
+],
+  "geometry": {"coordinates":[-91.708147,42.023965],"type":"Point"}
+}

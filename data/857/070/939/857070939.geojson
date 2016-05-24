@@ -1,0 +1,66 @@
+{
+  "id": 857070939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715599,41.958599,-91.715599,41.958599",
+    "geom:latitude":41.958599,
+    "geom:longitude":-91.715599,
+    "iso:country":"US",
+    "sg:address":"3500 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 654 9999",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RDItHlHwfLppgu54zv3kN_41.958599_-91.715599@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115373,
+    "wof:geomhash":"0e93d2746b8e772e40121a55c22abc4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070939
+        }
+    ],
+    "wof:id":857070939,
+    "wof:lastmodified":1464115373,
+    "wof:name":"B-Bop's Restaurant",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.715599,
+    41.958599,
+    -91.715599,
+    41.958599
+],
+  "geometry": {"coordinates":[-91.715599,41.958599],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856882735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.089358,41.83836,-94.089358,41.83836",
+    "geom:latitude":41.83836,
+    "geom:longitude":-94.089358,
+    "iso:country":"US",
+    "sg:address":"2423 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2483",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PmMfbmYRWX5CebMUFJbrv_41.838360_-94.089358@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107320,
+    "wof:geomhash":"542fb168be52ecc1f8847de2619b92a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856882735
+        }
+    ],
+    "wof:id":856882735,
+    "wof:lastmodified":1464107320,
+    "wof:name":"Dallas County Public Health",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -94.089358,
+    41.83836,
+    -94.089358,
+    41.83836
+],
+  "geometry": {"coordinates":[-94.089358,41.83836],"type":"Point"}
+}

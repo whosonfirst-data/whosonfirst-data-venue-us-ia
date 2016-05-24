@@ -1,0 +1,73 @@
+{
+  "id": 856930299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654343,41.986944,-91.654343,41.986944",
+    "geom:latitude":41.986944,
+    "geom:longitude":-91.654343,
+    "iso:country":"US",
+    "sg:address":"1330 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8118",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ka3rgRy9ryub58kl3LQGL_41.986944_-91.654343@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109261,
+    "wof:geomhash":"f8a32564589c24ecd5cd2bc50daffeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856930299
+        }
+    ],
+    "wof:id":856930299,
+    "wof:lastmodified":1464109261,
+    "wof:name":"American Home Patient Inc",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -91.654343,
+    41.986944,
+    -91.654343,
+    41.986944
+],
+  "geometry": {"coordinates":[-91.654343,41.986944],"type":"Point"}
+}

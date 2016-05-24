@@ -1,0 +1,71 @@
+{
+  "id": 856929425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.324413,42.422962,-96.324413,42.422962",
+    "geom:latitude":42.422962,
+    "geom:longitude":-96.324413,
+    "iso:country":"US",
+    "sg:address":"1975 Elk Creek Rd",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 9281",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vh25M1ik9bG5oD2rF9rsn_42.422962_-96.324413@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109226,
+    "wof:geomhash":"990d8664c9664e5d3441129ff219398b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856929425
+        }
+    ],
+    "wof:id":856929425,
+    "wof:lastmodified":1464109226,
+    "wof:name":"G E Medical Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.324413,
+    42.422962,
+    -96.324413,
+    42.422962
+],
+  "geometry": {"coordinates":[-96.32441300000001,42.422962],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856993339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.680451,42.048718,-91.680451,42.048718",
+    "geom:latitude":42.048718,
+    "geom:longitude":-91.680451,
+    "iso:country":"US",
+    "sg:address":"1400 Industrial Ave",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 9427",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "sg:website":"www.dadmfg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QDMzy5Es8r1XLFFKG8HG5_42.048718_-91.680451@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112120,
+    "wof:geomhash":"7db715172a66de0eda26ed89a7f12545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856993339
+        }
+    ],
+    "wof:id":856993339,
+    "wof:lastmodified":1464112120,
+    "wof:name":"DAD Mfg Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -91.680451,
+    42.048718,
+    -91.680451,
+    42.048718
+],
+  "geometry": {"coordinates":[-91.68045100000001,42.048718],"type":"Point"}
+}

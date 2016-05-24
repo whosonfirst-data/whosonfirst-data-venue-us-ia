@@ -1,0 +1,71 @@
+{
+  "id": 856920883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715894,41.978074,-91.715894,41.978074",
+    "geom:latitude":41.978074,
+    "geom:longitude":-91.715894,
+    "iso:country":"US",
+    "sg:address":"343 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 0955",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AzebbTos1P3gNAeUkJ3B4_41.978074_-91.715894@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108858,
+    "wof:geomhash":"335effcd5b158002b0cb91889f0ca646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856920883
+        }
+    ],
+    "wof:id":856920883,
+    "wof:lastmodified":1464108858,
+    "wof:name":"SuperGlass Windshield Repair",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.715894,
+    41.978074,
+    -91.715894,
+    41.978074
+],
+  "geometry": {"coordinates":[-91.71589400000001,41.978074],"type":"Point"}
+}

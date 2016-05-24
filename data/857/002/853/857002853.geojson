@@ -1,0 +1,71 @@
+{
+  "id": 857002853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212145,42.409036,-96.212145,42.409036",
+    "geom:latitude":42.409036,
+    "geom:longitude":-96.212145,
+    "iso:country":"US",
+    "sg:address":"90 Pine St",
+    "sg:city":"Bronson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 948 3354",
+    "sg:postcode":"51007",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20o5jhHpJ1efXfAjTEb13a_42.409036_-96.212145@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112482,
+    "wof:geomhash":"8a7f623767381e21c51d3655da7590ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857002853
+        }
+    ],
+    "wof:id":857002853,
+    "wof:lastmodified":1464112482,
+    "wof:name":"Bronson City Hall",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -96.212145,
+    42.409036,
+    -96.212145,
+    42.409036
+],
+  "geometry": {"coordinates":[-96.21214500000001,42.409036],"type":"Point"}
+}

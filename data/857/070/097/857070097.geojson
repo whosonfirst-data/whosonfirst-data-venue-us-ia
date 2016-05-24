@@ -1,0 +1,77 @@
+{
+  "id": 857070097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664497,41.9049,-91.664497,41.9049",
+    "geom:latitude":41.9049,
+    "geom:longitude":-91.664497,
+    "iso:country":"US",
+    "sg:address":"401 76th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 5201",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dVypeAhI6uXkbhySpYXN7_41.904900_-91.664497@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115339,
+    "wof:geomhash":"8b268a3148375ffc3995fc5d5c3434e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070097
+        }
+    ],
+    "wof:id":857070097,
+    "wof:lastmodified":1464115339,
+    "wof:name":"College Community School District",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.664497,
+    41.9049,
+    -91.664497,
+    41.9049
+],
+  "geometry": {"coordinates":[-91.664497,41.9049],"type":"Point"}
+}

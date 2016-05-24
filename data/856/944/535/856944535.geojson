@@ -1,0 +1,73 @@
+{
+  "id": 856944535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.706212,41.968241,-91.706212,41.968241",
+    "geom:latitude":41.968241,
+    "geom:longitude":-91.706212,
+    "iso:country":"US",
+    "sg:address":"2418 9th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 981 4423",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R8Pv72gJhBCbczIUHPat7_41.968241_-91.706212@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109871,
+    "wof:geomhash":"cfb5801af863d7187f204ba753287c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856944535
+        }
+    ],
+    "wof:id":856944535,
+    "wof:lastmodified":1464109871,
+    "wof:name":"Two Broker's Painting",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.706212,
+    41.968241,
+    -91.706212,
+    41.968241
+],
+  "geometry": {"coordinates":[-91.70621199999999,41.968241],"type":"Point"}
+}

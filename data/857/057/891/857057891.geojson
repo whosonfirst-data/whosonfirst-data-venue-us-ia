@@ -1,0 +1,76 @@
+{
+  "id": 857057891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.756895,41.632533,-93.756895,41.632533",
+    "geom:latitude":41.632533,
+    "geom:longitude":-93.756895,
+    "iso:country":"US",
+    "sg:address":"3924 NW Urbandale Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/webster/96149-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 252 9977",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28k7kEKvKB2iDMxEfL7L1p_41.632533_-93.756895@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114819,
+    "wof:geomhash":"be97572f6af140e8f98a6a9b0cbf9da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896507,
+            "region_id":85688713,
+            "venue_id":857057891
+        }
+    ],
+    "wof:id":857057891,
+    "wof:lastmodified":1464114819,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85896507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.756895,
+    41.632533,
+    -93.756895,
+    41.632533
+],
+  "geometry": {"coordinates":[-93.756895,41.632533],"type":"Point"}
+}

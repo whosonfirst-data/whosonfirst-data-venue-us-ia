@@ -1,0 +1,71 @@
+{
+  "id": 856863425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664453,41.37625,-95.664453,41.37625",
+    "geom:latitude":41.37625,
+    "geom:longitude":-95.664453,
+    "iso:country":"US",
+    "sg:address":"26874 Magnolia Rd",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2848",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SHEpoJoAGvQqkhtak3AIA_41.376250_-95.664453@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106132,
+    "wof:geomhash":"bedf24b84f99794b00dfa94e65a12a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856863425
+        }
+    ],
+    "wof:id":856863425,
+    "wof:lastmodified":1464106132,
+    "wof:name":"Van Horn Svc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -95.664453,
+    41.37625,
+    -95.664453,
+    41.37625
+],
+  "geometry": {"coordinates":[-95.66445299999999,41.37625],"type":"Point"}
+}

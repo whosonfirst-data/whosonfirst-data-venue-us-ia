@@ -1,0 +1,71 @@
+{
+  "id": 856993637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.835395,41.279187,-95.835395,41.279187",
+    "geom:latitude":41.279187,
+    "geom:longitude":-95.835395,
+    "iso:country":"US",
+    "sg:address":"7 Elliott St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8898",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wmWeBTOSPNs94oxyOffFa_41.279187_-95.835395@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112129,
+    "wof:geomhash":"0fc7bb0c6a034efb0d32ad89403cea54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856993637
+        }
+    ],
+    "wof:id":856993637,
+    "wof:lastmodified":1464112129,
+    "wof:name":"Warmline",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -95.835395,
+    41.279187,
+    -95.835395,
+    41.279187
+],
+  "geometry": {"coordinates":[-95.83539500000001,41.279187],"type":"Point"}
+}

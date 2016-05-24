@@ -1,0 +1,71 @@
+{
+  "id": 857027631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.873483,41.266225,-95.873483,41.266225",
+    "geom:latitude":41.266225,
+    "geom:longitude":-95.873483,
+    "iso:country":"US",
+    "sg:address":"1900 Avenue E",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1965",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jLKOEVuy2qgrVWByqPYbB_41.266225_-95.873483@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113528,
+    "wof:geomhash":"92d0846f56d5aaac1e4206aa223301fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857027631
+        }
+    ],
+    "wof:id":857027631,
+    "wof:lastmodified":1464113528,
+    "wof:name":"Church of God of Prophecy",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.873483,
+    41.266225,
+    -95.873483,
+    41.266225
+],
+  "geometry": {"coordinates":[-95.87348299999999,41.266225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857034589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716075,41.973237,-91.716075,41.973237",
+    "geom:latitude":41.973237,
+    "geom:longitude":-91.716075,
+    "iso:country":"US",
+    "sg:address":"212 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1256",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jzdrT5vcYsNYQfr6bCDXs_41.973237_-91.716075@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113855,
+    "wof:geomhash":"cec32f2e9187b1c3b05fd65ebdb212a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857034589
+        }
+    ],
+    "wof:id":857034589,
+    "wof:lastmodified":1464113855,
+    "wof:name":"New Age Computers",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.716075,
+    41.973237,
+    -91.716075,
+    41.973237
+],
+  "geometry": {"coordinates":[-91.716075,41.973237],"type":"Point"}
+}

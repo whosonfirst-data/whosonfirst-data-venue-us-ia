@@ -1,0 +1,71 @@
+{
+  "id": 856851427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.194559,41.522338,-94.194559,41.522338",
+    "geom:latitude":41.522338,
+    "geom:longitude":-94.194559,
+    "iso:country":"US",
+    "sg:address":"3570 US Hwy 6",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4087",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37m2jKLUNfWYbibFMcZ9fu_41.522338_-94.194559@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105597,
+    "wof:geomhash":"e5c2b1d507f9a5d03a5f961c4e9eb717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856851427
+        }
+    ],
+    "wof:id":856851427,
+    "wof:lastmodified":1464105597,
+    "wof:name":"Hunter 6 Ranch",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -94.194559,
+    41.522338,
+    -94.194559,
+    41.522338
+],
+  "geometry": {"coordinates":[-94.194559,41.522338],"type":"Point"}
+}

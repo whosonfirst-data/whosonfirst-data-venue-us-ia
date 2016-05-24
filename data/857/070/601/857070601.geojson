@@ -1,0 +1,69 @@
+{
+  "id": 857070601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673897,41.945301,-91.673897,41.945301",
+    "geom:latitude":41.945301,
+    "geom:longitude":-91.673897,
+    "iso:country":"US",
+    "sg:address":"555 Gateway Pl SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1445",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KfvpjcwN3oIsJnYUJa4C3_41.945301_-91.673897@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115362,
+    "wof:geomhash":"9118912920bb671a0a0258a5ea6c82a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070601
+        }
+    ],
+    "wof:id":857070601,
+    "wof:lastmodified":1464115362,
+    "wof:name":"Subway",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.673897,
+    41.945301,
+    -91.673897,
+    41.945301
+],
+  "geometry": {"coordinates":[-91.673897,41.945301],"type":"Point"}
+}

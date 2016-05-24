@@ -1,0 +1,71 @@
+{
+  "id": 857042539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716103,41.973301,-91.716103,41.973301",
+    "geom:latitude":41.973301,
+    "geom:longitude":-91.716103,
+    "iso:country":"US",
+    "sg:address":"222 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 6242",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KnyhEldMUtzUdjNb1dRK0_41.973091_-91.716073@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114177,
+    "wof:geomhash":"64d576d85e99d20908a2db566bfe8dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857042539
+        }
+    ],
+    "wof:id":857042539,
+    "wof:lastmodified":1464114177,
+    "wof:name":"Van Cleve Dental PC",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.716103,
+    41.973301,
+    -91.716103,
+    41.973301
+],
+  "geometry": {"coordinates":[-91.716103,41.973301],"type":"Point"}
+}

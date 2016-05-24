@@ -1,0 +1,76 @@
+{
+  "id": 857059871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.612581,41.514529,-90.612581,41.514529",
+    "geom:latitude":41.514529,
+    "geom:longitude":-90.612581,
+    "iso:country":"US",
+    "sg:address":"2423 Rockingham Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/davenport/160783-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 326 3660",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gn9xJTN3VPXTv8POYuAlm_41.514529_-90.612581@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114890,
+    "wof:geomhash":"733ff60e2cafb2519c82f0d2c6d9f15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857059871
+        }
+    ],
+    "wof:id":857059871,
+    "wof:lastmodified":1464114890,
+    "wof:name":"Burger King",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.612581,
+    41.514529,
+    -90.612581,
+    41.514529
+],
+  "geometry": {"coordinates":[-90.61258100000001,41.514529],"type":"Point"}
+}

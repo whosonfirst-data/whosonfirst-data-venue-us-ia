@@ -1,0 +1,71 @@
+{
+  "id": 856896239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.594527,42.035167,-91.594527,42.035167",
+    "geom:latitude":42.035167,
+    "geom:longitude":-91.594527,
+    "iso:country":"US",
+    "sg:address":"987 14th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 4187",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z1yWnxpTETDcKdhFmZOil_42.035167_-91.594527@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107910,
+    "wof:geomhash":"b70b9da4c22c770a3f8ef1de3265d120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856896239
+        }
+    ],
+    "wof:id":856896239,
+    "wof:lastmodified":1464107910,
+    "wof:name":"Choice One Mortgage",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -91.594527,
+    42.035167,
+    -91.594527,
+    42.035167
+],
+  "geometry": {"coordinates":[-91.594527,42.035167],"type":"Point"}
+}

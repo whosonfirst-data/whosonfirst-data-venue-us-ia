@@ -1,0 +1,75 @@
+{
+  "id": 857008581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.735577,41.64989,-93.735577,41.64989",
+    "geom:latitude":41.64989,
+    "geom:longitude":-93.735577,
+    "iso:country":"US",
+    "sg:address":"8421 Plum Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 643 9699",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WUpRwL2V5VErI7nTTRUfC_41.649890_-93.735577@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112726,
+    "wof:geomhash":"30ee87bc8530be8cbc23c891d6ce2de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896511,
+            "region_id":85688713,
+            "venue_id":857008581
+        }
+    ],
+    "wof:id":857008581,
+    "wof:lastmodified":1464112726,
+    "wof:name":"Mercy Arthritis & Osteo Ctr",
+    "wof:parent_id":85896511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.735577,
+    41.64989,
+    -93.735577,
+    41.64989
+],
+  "geometry": {"coordinates":[-93.73557700000001,41.64989],"type":"Point"}
+}

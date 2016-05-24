@@ -1,0 +1,73 @@
+{
+  "id": 856974299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531914,41.649617,-91.531914,41.649617",
+    "geom:latitude":41.649617,
+    "geom:longitude":-91.531914,
+    "iso:country":"US",
+    "sg:address":"910 S Gilbert St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 4153",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SnIEe65IP27XEBO0mEesj_41.649617_-91.531914@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111177,
+    "wof:geomhash":"74f9ef06b25c2428b3993c522c0e0b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856974299
+        }
+    ],
+    "wof:id":856974299,
+    "wof:lastmodified":1464111177,
+    "wof:name":"Varsity Cleaners",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.531914,
+    41.649617,
+    -91.531914,
+    41.649617
+],
+  "geometry": {"coordinates":[-91.531914,41.649617],"type":"Point"}
+}

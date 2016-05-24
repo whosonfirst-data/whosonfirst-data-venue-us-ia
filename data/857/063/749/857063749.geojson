@@ -1,0 +1,73 @@
+{
+  "id": 857063749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.819,41.291698,-95.819,41.291698",
+    "geom:latitude":41.291698,
+    "geom:longitude":-95.819,
+    "iso:country":"US",
+    "sg:address":"520 Ridge Rd N",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1674",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "reupholstery",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z4aLtecP4pCzlwKhAa9G4_41.291698_-95.819000@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115053,
+    "wof:geomhash":"76bdd1a95ea4308aff5b801d3d2169ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063749
+        }
+    ],
+    "wof:id":857063749,
+    "wof:lastmodified":1464115053,
+    "wof:name":"Town & Country Upholstery",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -95.819,
+    41.291698,
+    -95.819,
+    41.291698
+],
+  "geometry": {"coordinates":[-95.819,41.291698],"type":"Point"}
+}

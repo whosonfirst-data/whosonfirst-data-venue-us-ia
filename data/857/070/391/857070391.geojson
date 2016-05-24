@@ -1,0 +1,89 @@
+{
+  "id": 857070391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673285,41.973972,-91.673285,41.973972",
+    "geom:latitude":41.973972,
+    "geom:longitude":-91.673285,
+    "iso:country":"US",
+    "sg:address":"215 3rd Ave SW Ste 1",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 1234",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "sg:website":"www.drdavidhuber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kg34sX6mqiYMhlC9DYfhy_41.973972_-91.673285@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115350,
+    "wof:geomhash":"08e3a05bb05fd49fa4048deb43d419ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857070391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857070391
+        }
+    ],
+    "wof:id":857070391,
+    "wof:lastmodified":1464115350,
+    "wof:name":"Huber Chiropractic PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -91.673285,
+    41.973972,
+    -91.673285,
+    41.973972
+],
+  "geometry": {"coordinates":[-91.67328500000001,41.973972],"type":"Point"}
+}

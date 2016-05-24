@@ -1,0 +1,73 @@
+{
+  "id": 856825793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.589937,42.033213,-91.589937,42.033213",
+    "geom:latitude":42.033213,
+    "geom:longitude":-91.589937,
+    "iso:country":"US",
+    "sg:address":"2175 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 6385",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ITP0SBk20nxM9xjT2sjz7_42.033213_-91.589937@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104338,
+    "wof:geomhash":"7544c72bbda3753a5dea2a2b3ecb91d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856825793
+        }
+    ],
+    "wof:id":856825793,
+    "wof:lastmodified":1464104338,
+    "wof:name":"Coast To Coast Small Engine",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -91.589937,
+    42.033213,
+    -91.589937,
+    42.033213
+],
+  "geometry": {"coordinates":[-91.58993700000001,42.033213],"type":"Point"}
+}

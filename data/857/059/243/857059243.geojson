@@ -1,0 +1,76 @@
+{
+  "id": 857059243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.532841,41.663559,-91.532841,41.663559",
+    "geom:latitude":41.663559,
+    "geom:longitude":-91.532841,
+    "iso:country":"US",
+    "sg:address":"214 E Market St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/17638-pizza-pit/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 1111",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jP8b8oSZMKEoYGKIUh7w4_41.663559_-91.532841@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114871,
+    "wof:geomhash":"eb7d514691ac152daa0d0d6c30a85372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":857059243
+        }
+    ],
+    "wof:id":857059243,
+    "wof:lastmodified":1464114871,
+    "wof:name":"Pizza Pit",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.532841,
+    41.663559,
+    -91.532841,
+    41.663559
+],
+  "geometry": {"coordinates":[-91.532841,41.663559],"type":"Point"}
+}

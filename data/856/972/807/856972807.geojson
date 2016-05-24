@@ -1,0 +1,71 @@
+{
+  "id": 856972807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.75011,41.964006,-91.75011,41.964006",
+    "geom:latitude":41.964006,
+    "geom:longitude":-91.75011,
+    "iso:country":"US",
+    "sg:address":"5801 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 8348",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "typesetting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z54iLskDcizvACtUZ8mM3_41.964006_-91.750110@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111096,
+    "wof:geomhash":"6995fb38dda80174f2c8d9c4ff8ad6a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856972807
+        }
+    ],
+    "wof:id":856972807,
+    "wof:lastmodified":1464111096,
+    "wof:name":"Type Plus Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "typesetting"
+    ]
+},
+  "bbox": [
+    -91.75011,
+    41.964006,
+    -91.75011,
+    41.964006
+],
+  "geometry": {"coordinates":[-91.75011000000001,41.964006],"type":"Point"}
+}

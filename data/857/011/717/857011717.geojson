@@ -1,0 +1,73 @@
+{
+  "id": 857011717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783004,42.189807,-91.783004,42.189807",
+    "geom:latitude":42.189807,
+    "geom:longitude":-91.783004,
+    "iso:country":"US",
+    "sg:address":"503 Water St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 2684",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12WRRm3xHuKHGWW9x5TVrM_42.189807_-91.783004@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112850,
+    "wof:geomhash":"2d1a667001325887f744899ee54e4380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857011717
+        }
+    ],
+    "wof:id":857011717,
+    "wof:lastmodified":1464112850,
+    "wof:name":"Mingo Masonry",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.783004,
+    42.189807,
+    -91.783004,
+    42.189807
+],
+  "geometry": {"coordinates":[-91.78300400000001,42.189807],"type":"Point"}
+}

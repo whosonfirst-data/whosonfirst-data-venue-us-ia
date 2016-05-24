@@ -1,0 +1,71 @@
+{
+  "id": 856904567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.600424,42.037564,-91.600424,42.037564",
+    "geom:latitude":42.037564,
+    "geom:longitude":-91.600424,
+    "iso:country":"US",
+    "sg:address":"1123 9th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7989",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "railing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RYA2CN7jiZ3mRCFYg9Jbq_42.037564_-91.600424@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108215,
+    "wof:geomhash":"596ded24d882504d968298ff9346cc8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856904567
+        }
+    ],
+    "wof:id":856904567,
+    "wof:lastmodified":1464108215,
+    "wof:name":"Marion Custom Ornamental Iron",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railing"
+    ]
+},
+  "bbox": [
+    -91.600424,
+    42.037564,
+    -91.600424,
+    42.037564
+],
+  "geometry": {"coordinates":[-91.600424,42.037564],"type":"Point"}
+}

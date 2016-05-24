@@ -1,0 +1,71 @@
+{
+  "id": 856819229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.451492,41.480147,-95.451492,41.480147",
+    "geom:latitude":41.480147,
+    "geom:longitude":-95.451492,
+    "iso:country":"US",
+    "sg:address":"32216 385th St",
+    "sg:city":"Shelby",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 544 2442",
+    "sg:postcode":"51570",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gOtzmLSmYESUqbGxLtpVd_41.480147_-95.451492@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104019,
+    "wof:geomhash":"bc8105d5def843283082f0569f02f9e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856819229
+        }
+    ],
+    "wof:id":856819229,
+    "wof:lastmodified":1464104019,
+    "wof:name":"Farm Service Co-Op",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -95.451492,
+    41.480147,
+    -95.451492,
+    41.480147
+],
+  "geometry": {"coordinates":[-95.451492,41.480147],"type":"Point"}
+}

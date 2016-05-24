@@ -1,0 +1,73 @@
+{
+  "id": 856774361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.423204,42.500375,-96.423204,42.500375",
+    "geom:latitude":42.500375,
+    "geom:longitude":-96.423204,
+    "iso:country":"US",
+    "sg:address":"1200 W 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 3864",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ld4PdKsRzhbBxK4zzYzgl_42.500375_-96.423204@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102314,
+    "wof:geomhash":"5e3ad698d795f47c2d59f69cc5327d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856774361
+        }
+    ],
+    "wof:id":856774361,
+    "wof:lastmodified":1464102314,
+    "wof:name":"Westside Pizza",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.423204,
+    42.500375,
+    -96.423204,
+    42.500375
+],
+  "geometry": {"coordinates":[-96.423204,42.500375],"type":"Point"}
+}

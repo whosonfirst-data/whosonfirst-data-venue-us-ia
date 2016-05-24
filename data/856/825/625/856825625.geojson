@@ -1,0 +1,66 @@
+{
+  "id": 856825625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.882564,41.613957,-93.882564,41.613957",
+    "geom:latitude":41.613957,
+    "geom:longitude":-93.882564,
+    "iso:country":"US",
+    "sg:address":"85 4th St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4351",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GzaGy7Ww22RBUa45iC5dW_41.613957_-93.882564@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104332,
+    "wof:geomhash":"2524c6974276881fe418279b545a0066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856825625
+        }
+    ],
+    "wof:id":856825625,
+    "wof:lastmodified":1464104332,
+    "wof:name":"Kum & Go",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.882564,
+    41.613957,
+    -93.882564,
+    41.613957
+],
+  "geometry": {"coordinates":[-93.882564,41.613957],"type":"Point"}
+}

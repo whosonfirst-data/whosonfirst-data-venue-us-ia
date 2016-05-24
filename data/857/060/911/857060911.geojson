@@ -1,0 +1,76 @@
+{
+  "id": 857060911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715919,41.976474,-91.715919,41.976474",
+    "geom:latitude":41.976474,
+    "geom:longitude":-91.715919,
+    "iso:country":"US",
+    "sg:address":"455 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/124483-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2600",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bilgSNPTWkycSxBkqQFHr_41.976777_-91.715908@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114932,
+    "wof:geomhash":"a225e1bddc486db60c03cacd13f88f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857060911
+        }
+    ],
+    "wof:id":857060911,
+    "wof:lastmodified":1464114932,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.715919,
+    41.976474,
+    -91.715919,
+    41.976474
+],
+  "geometry": {"coordinates":[-91.715919,41.976474],"type":"Point"}
+}

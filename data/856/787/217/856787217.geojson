@@ -1,0 +1,73 @@
+{
+  "id": 856787217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.501224,41.546444,-91.501224,41.546444",
+    "geom:latitude":41.546444,
+    "geom:longitude":-91.501224,
+    "iso:country":"US",
+    "sg:address":"5312 Sand Rd SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 4425",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gl4RPSt1UBhZr1EQ14jEL_41.546444_-91.501224@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102667,
+    "wof:geomhash":"deb34b20f1ecade7dfa429d7ef32fef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856787217
+        }
+    ],
+    "wof:id":856787217,
+    "wof:lastmodified":1464102667,
+    "wof:name":"Kasper Backhoe Svc",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.501224,
+    41.546444,
+    -91.501224,
+    41.546444
+],
+  "geometry": {"coordinates":[-91.50122399999999,41.546444],"type":"Point"}
+}

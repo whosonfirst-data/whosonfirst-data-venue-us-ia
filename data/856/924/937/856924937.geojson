@@ -1,0 +1,75 @@
+{
+  "id": 856924937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850715,41.259924,-95.850715,41.259924",
+    "geom:latitude":41.259924,
+    "geom:longitude":-95.850715,
+    "iso:country":"US",
+    "sg:address":"28 Pearl St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 544 2834",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oNpW7RBAR196Be8ho76Wp_41.259924_-95.850715@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109037,
+    "wof:geomhash":"b76a64ba9564baccc7a4d06ee8547178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856924937
+        }
+    ],
+    "wof:id":856924937,
+    "wof:lastmodified":1464109037,
+    "wof:name":"Steam'n Koffee",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.850715,
+    41.259924,
+    -95.850715,
+    41.259924
+],
+  "geometry": {"coordinates":[-95.85071499999999,41.259924],"type":"Point"}
+}

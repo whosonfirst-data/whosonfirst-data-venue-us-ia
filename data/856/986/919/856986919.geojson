@@ -1,0 +1,75 @@
+{
+  "id": 856986919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659154,41.982707,-91.659154,41.982707",
+    "geom:latitude":41.982707,
+    "geom:longitude":-91.659154,
+    "iso:country":"US",
+    "sg:address":"829 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 0513",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kcApqe2X7TvB4Xt82ayPk_41.982707_-91.659154@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111827,
+    "wof:geomhash":"7e4e22b64794850d50bed22a85986b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856986919
+        }
+    ],
+    "wof:id":856986919,
+    "wof:lastmodified":1464111827,
+    "wof:name":"TLM Enterprises",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -91.659154,
+    41.982707,
+    -91.659154,
+    41.982707
+],
+  "geometry": {"coordinates":[-91.659154,41.982707],"type":"Point"}
+}

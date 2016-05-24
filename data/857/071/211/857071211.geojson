@@ -1,0 +1,80 @@
+{
+  "id": 857071211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682404,41.992901,-91.682404,41.992901",
+    "geom:latitude":41.992901,
+    "geom:longitude":-91.682404,
+    "iso:country":"US",
+    "sg:address":"1800 Ellis Blvd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1826",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1YOV7Q3wwlbxswG5CWNK_41.992901_-91.682404@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115382,
+    "wof:geomhash":"c24bc575047ecdc5fed60c9587f14cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071211
+        }
+    ],
+    "wof:id":857071211,
+    "wof:lastmodified":1464115382,
+    "wof:name":"Pierson's Flower Shop & Greenhouses Inc",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [
+    -91.682404,
+    41.992901,
+    -91.682404,
+    41.992901
+],
+  "geometry": {"coordinates":[-91.68240400000001,41.992901],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856906915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892477,41.245757,-95.892477,41.245757",
+    "geom:latitude":41.245757,
+    "geom:longitude":-95.892477,
+    "iso:country":"US",
+    "sg:address":"3211 Nebraska Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 8939",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cloth",
+        "wiping"
+    ],
+    "sg:website":"www.americanclothing.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fOC24djxO84LeCUZ3cAP3_41.245757_-95.892477@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108299,
+    "wof:geomhash":"b1e8dbfe658508480647db4ec7e6886c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856906915
+        }
+    ],
+    "wof:id":856906915,
+    "wof:lastmodified":1464108299,
+    "wof:name":"American Clothing",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "wiping"
+    ]
+},
+  "bbox": [
+    -95.892477,
+    41.245757,
+    -95.892477,
+    41.245757
+],
+  "geometry": {"coordinates":[-95.892477,41.245757],"type":"Point"}
+}

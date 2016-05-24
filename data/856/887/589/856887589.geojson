@@ -1,0 +1,73 @@
+{
+  "id": 856887589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.794039,41.977955,-91.794039,41.977955",
+    "geom:latitude":41.977955,
+    "geom:longitude":-91.794039,
+    "iso:country":"US",
+    "sg:address":"77 Morgan Bridge Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3190",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vO38nejGOSjd9SkujM6GS_41.977955_-91.794039@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107586,
+    "wof:geomhash":"2cb96cde7647ef27c8f840ec85d25cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856887589
+        }
+    ],
+    "wof:id":856887589,
+    "wof:lastmodified":1464107586,
+    "wof:name":"Cedar Landscaping",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.794039,
+    41.977955,
+    -91.794039,
+    41.977955
+],
+  "geometry": {"coordinates":[-91.794039,41.977955],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856921485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.403584,42.507085,-96.403584,42.507085",
+    "geom:latitude":42.507085,
+    "geom:longitude":-96.403584,
+    "iso:country":"US",
+    "sg:address":"1501 Nebraska St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0633",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15NVyApyXoTASuqssXgD8z_42.507085_-96.403584@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108892,
+    "wof:geomhash":"be8057de60b7a5fb20e6c137731ecd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856921485
+        }
+    ],
+    "wof:id":856921485,
+    "wof:lastmodified":1464108892,
+    "wof:name":"BAC Clinic Of Chiropractic",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.403584,
+    42.507085,
+    -96.403584,
+    42.507085
+],
+  "geometry": {"coordinates":[-96.403584,42.507085],"type":"Point"}
+}

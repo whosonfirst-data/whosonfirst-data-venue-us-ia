@@ -1,0 +1,73 @@
+{
+  "id": 856911503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.360907,42.430947,-92.360907,42.430947",
+    "geom:latitude":42.430947,
+    "geom:longitude":-92.360907,
+    "iso:country":"US",
+    "sg:address":"112 Sidehill Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 233 0168",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oLMegL8IWhgTOOZhfXmwB_42.430947_-92.360907@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108481,
+    "wof:geomhash":"6cfe862f81fc154cd652ad9139fdd6b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856911503
+        }
+    ],
+    "wof:id":856911503,
+    "wof:lastmodified":1464108481,
+    "wof:name":"Bowers Masonry Inc",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.360907,
+    42.430947,
+    -92.360907,
+    42.430947
+],
+  "geometry": {"coordinates":[-92.360907,42.430947],"type":"Point"}
+}

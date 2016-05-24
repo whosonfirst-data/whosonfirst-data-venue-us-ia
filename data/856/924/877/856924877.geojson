@@ -1,0 +1,71 @@
+{
+  "id": 856924877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439427,41.345373,-93.439427,41.345373",
+    "geom:latitude":41.345373,
+    "geom:longitude":-93.439427,
+    "iso:country":"US",
+    "sg:address":"1843 Keokuk St",
+    "sg:city":"Ackworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 7172",
+    "sg:postcode":"50001",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wW3DRjU9cs558PEvluZOZ_41.345373_-93.439427@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109034,
+    "wof:geomhash":"49eed6ddb2d85d30c261d34ac2bee6bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856924877
+        }
+    ],
+    "wof:id":856924877,
+    "wof:lastmodified":1464109034,
+    "wof:name":"M & J Farm Garage",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.439427,
+    41.345373,
+    -93.439427,
+    41.345373
+],
+  "geometry": {"coordinates":[-93.43942699999999,41.345373],"type":"Point"}
+}

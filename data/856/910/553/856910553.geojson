@@ -1,0 +1,75 @@
+{
+  "id": 856910553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.65094,41.969218,-91.65094,41.969218",
+    "geom:latitude":41.969218,
+    "geom:longitude":-91.65094,
+    "iso:country":"US",
+    "sg:address":"1800 10th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8237",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "railroad",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hXUESRnzdaKHCm4VSBXjy_41.969218_-91.650940@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108441,
+    "wof:geomhash":"d34f74f4bb76bc30cdc9c22408a52ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856910553
+        }
+    ],
+    "wof:id":856910553,
+    "wof:lastmodified":1464108441,
+    "wof:name":"Rescar 153",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.65094,
+    41.969218,
+    -91.65094,
+    41.969218
+],
+  "geometry": {"coordinates":[-91.65094000000001,41.969218],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856831073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.556029,41.365674,-93.556029,41.365674",
+    "geom:latitude":41.365674,
+    "geom:longitude":-93.556029,
+    "iso:country":"US",
+    "sg:address":"404 E Euclid Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 2160",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJCkZDYSp5Gbx0yj7LGmz_41.365674_-93.556029@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104554,
+    "wof:geomhash":"39cd970e1a7938e00c5c40f4c7b593bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856831073
+        }
+    ],
+    "wof:id":856831073,
+    "wof:lastmodified":1464104554,
+    "wof:name":"Harley Shop Route 65",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -93.556029,
+    41.365674,
+    -93.556029,
+    41.365674
+],
+  "geometry": {"coordinates":[-93.556029,41.365674],"type":"Point"}
+}

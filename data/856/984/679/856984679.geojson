@@ -1,0 +1,73 @@
+{
+  "id": 856984679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.613269,42.002275,-91.613269,42.002275",
+    "geom:latitude":42.002275,
+    "geom:longitude":-91.613269,
+    "iso:country":"US",
+    "sg:address":"2515 Indian Hill Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0896",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39qvOWYLMehBrs2Eurm7B0_42.002275_-91.613269@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111726,
+    "wof:geomhash":"709b82e3247e4368c923fa28dbd91b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856984679
+        }
+    ],
+    "wof:id":856984679,
+    "wof:lastmodified":1464111726,
+    "wof:name":"Auto Trim Design",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -91.613269,
+    42.002275,
+    -91.613269,
+    42.002275
+],
+  "geometry": {"coordinates":[-91.613269,42.002275],"type":"Point"}
+}

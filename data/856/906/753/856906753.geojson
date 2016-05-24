@@ -1,0 +1,71 @@
+{
+  "id": 856906753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623127,41.972488,-91.623127,41.972488",
+    "geom:latitude":41.972488,
+    "geom:longitude":-91.623127,
+    "iso:country":"US",
+    "sg:address":"1242 30th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8620",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71zii9W8B0KcI9aAIGuIWR_41.972488_-91.623127@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108294,
+    "wof:geomhash":"834e4993c4800d588dee92ad9053cfff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856906753
+        }
+    ],
+    "wof:id":856906753,
+    "wof:lastmodified":1464108294,
+    "wof:name":"Sundberg Design",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -91.623127,
+    41.972488,
+    -91.623127,
+    41.972488
+],
+  "geometry": {"coordinates":[-91.623127,41.972488],"type":"Point"}
+}

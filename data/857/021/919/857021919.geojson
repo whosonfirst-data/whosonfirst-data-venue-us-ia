@@ -1,0 +1,75 @@
+{
+  "id": 857021919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682384,41.951237,-91.682384,41.951237",
+    "geom:latitude":41.951237,
+    "geom:longitude":-91.682384,
+    "iso:country":"US",
+    "sg:address":"930 27th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7454",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XbwatR1j5wv1vfJyOpVC3_41.951237_-91.682384@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113274,
+    "wof:geomhash":"3ce1e99c88481f5cbe80393625a3a771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857021919
+        }
+    ],
+    "wof:id":857021919,
+    "wof:lastmodified":1464113274,
+    "wof:name":"Metal Design Svc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -91.682384,
+    41.951237,
+    -91.682384,
+    41.951237
+],
+  "geometry": {"coordinates":[-91.682384,41.951237],"type":"Point"}
+}

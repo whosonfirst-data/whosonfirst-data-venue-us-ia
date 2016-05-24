@@ -1,0 +1,76 @@
+{
+  "id": 857070497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656898,41.924801,-91.656898,41.924801",
+    "geom:latitude":41.924801,
+    "geom:longitude":-91.656898,
+    "iso:country":"US",
+    "sg:address":"5400 Kirkwood Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8050",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68TEeb63ZOULtL6xkP4Yqm_41.924801_-91.656898@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115358,
+    "wof:geomhash":"c766f16923352f26972be64028b28e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070497
+        }
+    ],
+    "wof:id":857070497,
+    "wof:lastmodified":1464115358,
+    "wof:name":"Hacap",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.656898,
+    41.924801,
+    -91.656898,
+    41.924801
+],
+  "geometry": {"coordinates":[-91.656898,41.924801],"type":"Point"}
+}

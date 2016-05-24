@@ -1,0 +1,71 @@
+{
+  "id": 856812659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.602885,41.232603,-95.602885,41.232603",
+    "geom:latitude":41.232603,
+    "geom:longitude":-95.602885,
+    "iso:country":"US",
+    "sg:address":"103 E Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3289",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gPsIykBEvwFP5rWxwxHkd_41.232603_-95.602885@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103738,
+    "wof:geomhash":"8576ff2f83b3caaf6263ea7af5194356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856812659
+        }
+    ],
+    "wof:id":856812659,
+    "wof:lastmodified":1464103738,
+    "wof:name":"Zion Congregational Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.602885,
+    41.232603,
+    -95.602885,
+    41.232603
+],
+  "geometry": {"coordinates":[-95.602885,41.232603],"type":"Point"}
+}

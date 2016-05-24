@@ -1,0 +1,73 @@
+{
+  "id": 856983093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.574559,42.041222,-91.574559,42.041222",
+    "geom:latitude":42.041222,
+    "geom:longitude":-91.574559,
+    "iso:country":"US",
+    "sg:address":"1855 35th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1654",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iselIplzQgWC7v4r27i4i_42.041222_-91.574559@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111637,
+    "wof:geomhash":"b6787d363a38754cdc74c0595f3e8e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856983093
+        }
+    ],
+    "wof:id":856983093,
+    "wof:lastmodified":1464111637,
+    "wof:name":"Marion Municipal Pool",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -91.574559,
+    42.041222,
+    -91.574559,
+    42.041222
+],
+  "geometry": {"coordinates":[-91.57455899999999,42.041222],"type":"Point"}
+}

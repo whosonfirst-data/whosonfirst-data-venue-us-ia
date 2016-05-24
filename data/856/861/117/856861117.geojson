@@ -1,0 +1,66 @@
+{
+  "id": 856861117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.825738,41.613739,-93.825738,41.613739",
+    "geom:latitude":41.613739,
+    "geom:longitude":-93.825738,
+    "iso:country":"US",
+    "sg:address":"15041 Summit Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 3931",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_234ZoPngO5B1gzSB5LeR1f_41.613739_-93.825738@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106041,
+    "wof:geomhash":"9f9d6bd618c2f8dbe03820fc4b826cf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856861117
+        }
+    ],
+    "wof:id":856861117,
+    "wof:lastmodified":1464106041,
+    "wof:name":"Superior Pest Control",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.825738,
+    41.613739,
+    -93.825738,
+    41.613739
+],
+  "geometry": {"coordinates":[-93.825738,41.613739],"type":"Point"}
+}

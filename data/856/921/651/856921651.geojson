@@ -1,0 +1,75 @@
+{
+  "id": 856921651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.402031,42.505889,-96.402031,42.505889",
+    "geom:latitude":42.505889,
+    "geom:longitude":-96.402031,
+    "iso:country":"US",
+    "sg:address":"1414 Jackson St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1844",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "communications",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49U7WCmOxDVqyQec9S4JDi_42.505889_-96.402031@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108900,
+    "wof:geomhash":"d82b586b3c3d766c0d04ea904ee1135d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856921651
+        }
+    ],
+    "wof:id":856921651,
+    "wof:lastmodified":1464108900,
+    "wof:name":"Thompson Teledata",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "datum"
+    ]
+},
+  "bbox": [
+    -96.402031,
+    42.505889,
+    -96.402031,
+    42.505889
+],
+  "geometry": {"coordinates":[-96.40203099999999,42.505889],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857035743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.694551,42.044319,-91.694551,42.044319",
+    "geom:latitude":42.044319,
+    "geom:longitude":-91.694551,
+    "iso:country":"US",
+    "sg:address":"1550 Boyson Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 2886",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oVHy7LMs4aF7Jk75Fi6Lz_42.044319_-91.694551@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113920,
+    "wof:geomhash":"5e200788d18edaa57a0a8e84f7c9fe85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857035743
+        }
+    ],
+    "wof:id":857035743,
+    "wof:lastmodified":1464113920,
+    "wof:name":"Douglas T Sedlacek MD",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.694551,
+    42.044319,
+    -91.694551,
+    42.044319
+],
+  "geometry": {"coordinates":[-91.694551,42.044319],"type":"Point"}
+}

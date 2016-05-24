@@ -1,0 +1,71 @@
+{
+  "id": 856773409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.214512,41.317837,-95.214512,41.317837",
+    "geom:latitude":41.317837,
+    "geom:longitude":-95.214512,
+    "iso:country":"US",
+    "sg:address":"49968 US Hwy 6",
+    "sg:city":"Griswold",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 2323",
+    "sg:postcode":"51535",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79dnP6foazAqk7WPJamHHl_41.317837_-95.214512@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102285,
+    "wof:geomhash":"08c11b8ab35e2114320264d50c8444b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856773409
+        }
+    ],
+    "wof:id":856773409,
+    "wof:lastmodified":1464102285,
+    "wof:name":"KIRK Henningsen Auctioneer",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -95.214512,
+    41.317837,
+    -95.214512,
+    41.317837
+],
+  "geometry": {"coordinates":[-95.214512,41.317837],"type":"Point"}
+}

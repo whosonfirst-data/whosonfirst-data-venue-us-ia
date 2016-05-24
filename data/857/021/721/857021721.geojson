@@ -1,0 +1,73 @@
+{
+  "id": 857021721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.689601,41.229192,-95.689601,41.229192",
+    "geom:latitude":41.229192,
+    "geom:longitude":-95.689601,
+    "iso:country":"US",
+    "sg:address":"14751 260th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 6535",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Am50xuMRgjEB3ARDMSwxv_41.229192_-95.689601@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113262,
+    "wof:geomhash":"d39693daab5e72019a543d98caa09847",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857021721
+        }
+    ],
+    "wof:id":857021721,
+    "wof:lastmodified":1464113262,
+    "wof:name":"Cats Paw Farm",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.689601,
+    41.229192,
+    -95.689601,
+    41.229192
+],
+  "geometry": {"coordinates":[-95.689601,41.229192],"type":"Point"}
+}

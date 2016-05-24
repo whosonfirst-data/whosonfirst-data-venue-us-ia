@@ -1,0 +1,74 @@
+{
+  "id": 856804465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.415154,42.501661,-96.415154,42.501661",
+    "geom:latitude":42.501661,
+    "geom:longitude":-96.415154,
+    "iso:country":"US",
+    "sg:address":"623 W 7th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 279 8080",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.steffeninc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I6wwPsKTx7xhEnJr8FEcm_42.501661_-96.415154@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103380,
+    "wof:geomhash":"77e63c53db1d6478b9cff799bb03e34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856804465
+        }
+    ],
+    "wof:id":856804465,
+    "wof:lastmodified":1464103380,
+    "wof:name":"Steffen Truck Equipment",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.415154,
+    42.501661,
+    -96.415154,
+    42.501661
+],
+  "geometry": {"coordinates":[-96.415154,42.501661],"type":"Point"}
+}

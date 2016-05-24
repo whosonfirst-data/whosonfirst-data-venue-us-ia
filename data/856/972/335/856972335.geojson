@@ -1,0 +1,73 @@
+{
+  "id": 856972335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.504808,41.650639,-91.504808,41.650639",
+    "geom:latitude":41.650639,
+    "geom:longitude":-91.504808,
+    "iso:country":"US",
+    "sg:address":"702 3rd Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 7855",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yLWWHkXfo4LSF2yb46jeE_41.650639_-91.504808@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111076,
+    "wof:geomhash":"6da4e72ad691f6197e8e8af8c810ccc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856972335
+        }
+    ],
+    "wof:id":856972335,
+    "wof:lastmodified":1464111076,
+    "wof:name":"Jacks Appliance",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -91.504808,
+    41.650639,
+    -91.504808,
+    41.650639
+],
+  "geometry": {"coordinates":[-91.504808,41.650639],"type":"Point"}
+}

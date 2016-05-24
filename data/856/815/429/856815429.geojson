@@ -1,0 +1,75 @@
+{
+  "id": 856815429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.862011,41.259823,-95.862011,41.259823",
+    "geom:latitude":41.259823,
+    "geom:longitude":-95.862011,
+    "iso:country":"US",
+    "sg:address":"102 S 12th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 4637",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qEkzHOf6tKuDHp7kyIYGy_41.259823_-95.862011@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103851,
+    "wof:geomhash":"d7ba45ac345bbf7555f477aaef7ef50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856815429
+        }
+    ],
+    "wof:id":856815429,
+    "wof:lastmodified":1464103851,
+    "wof:name":"Public Works-Central Garage",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -95.862011,
+    41.259823,
+    -95.862011,
+    41.259823
+],
+  "geometry": {"coordinates":[-95.862011,41.259823],"type":"Point"}
+}

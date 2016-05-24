@@ -1,0 +1,73 @@
+{
+  "id": 856917227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648787,41.996909,-91.648787,41.996909",
+    "geom:latitude":41.996909,
+    "geom:longitude":-91.648787,
+    "iso:country":"US",
+    "sg:address":"1810 E Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5405",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wcgXjMQpY1ycs9TAw0qcc_41.996909_-91.648787@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108699,
+    "wof:geomhash":"630619d14bea89f2036959cc0d9723d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856917227
+        }
+    ],
+    "wof:id":856917227,
+    "wof:lastmodified":1464108699,
+    "wof:name":"Fisher Concrete Products",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product"
+    ]
+},
+  "bbox": [
+    -91.648787,
+    41.996909,
+    -91.648787,
+    41.996909
+],
+  "geometry": {"coordinates":[-91.648787,41.996909],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856941245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.365237,42.488107,-96.365237,42.488107",
+    "geom:latitude":42.488107,
+    "geom:longitude":-96.365237,
+    "iso:country":"US",
+    "sg:address":"3224 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 1844",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nj2p6SA8a71m5ONTp64kn_42.488107_-96.365237@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109732,
+    "wof:geomhash":"b5c8f56bbc62b17fd8227376dfd9de8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856941245
+        }
+    ],
+    "wof:id":856941245,
+    "wof:lastmodified":1464109732,
+    "wof:name":"Wonder Hostess Thrift Store",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.365237,
+    42.488107,
+    -96.365237,
+    42.488107
+],
+  "geometry": {"coordinates":[-96.36523699999999,42.488107],"type":"Point"}
+}

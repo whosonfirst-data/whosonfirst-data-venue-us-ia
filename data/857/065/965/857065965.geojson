@@ -1,0 +1,66 @@
+{
+  "id": 857065965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.62626,42.03249,-91.62626,42.03249",
+    "geom:latitude":42.03249,
+    "geom:longitude":-91.62626,
+    "iso:country":"US",
+    "sg:address":"1565 Blairs Ferry Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 6310",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f2LFchpfdughthz2WPzRJ_42.032490_-91.626260@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115134,
+    "wof:geomhash":"65d9df1a666a13cc3adb5eefea2381b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065965
+        }
+    ],
+    "wof:id":857065965,
+    "wof:lastmodified":1464115134,
+    "wof:name":"Blair's Ferry Automotive",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.62626,
+    42.03249,
+    -91.62626,
+    42.03249
+],
+  "geometry": {"coordinates":[-91.62626,42.03249],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857067789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668098,42.033298,-91.668098,42.033298",
+    "geom:latitude":42.033298,
+    "geom:longitude":-91.668098,
+    "iso:country":"US",
+    "sg:address":"5412 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0255",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L0NrGe05H5RHde2AQiCQc_42.033298_-91.668098@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115225,
+    "wof:geomhash":"35d709f988191d02752dfff9cf53b22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067789
+        }
+    ],
+    "wof:id":857067789,
+    "wof:lastmodified":1464115225,
+    "wof:name":"Best Bath/Best Plumbing",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.668098,
+    42.033298,
+    -91.668098,
+    42.033298
+],
+  "geometry": {"coordinates":[-91.668098,42.033298],"type":"Point"}
+}

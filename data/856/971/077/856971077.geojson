@@ -1,0 +1,81 @@
+{
+  "id": 856971077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.181512,41.331746,-95.181512,41.331746",
+    "geom:latitude":41.331746,
+    "geom:longitude":-95.181512,
+    "iso:country":"US",
+    "sg:address":"53187 Idlewood Rd",
+    "sg:city":"Lewis",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 769 2225",
+    "sg:postcode":"51544",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "corn",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G7GXubwjfkk4dS2C8suT2_41.331746_-95.181512@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111024,
+    "wof:geomhash":"15b00f09d5ad329f3185d16a098b60dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856971077
+        }
+    ],
+    "wof:id":856971077,
+    "wof:lastmodified":1464111024,
+    "wof:name":"Bob Zimmerman",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "corn",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -95.181512,
+    41.331746,
+    -95.181512,
+    41.331746
+],
+  "geometry": {"coordinates":[-95.181512,41.331746],"type":"Point"}
+}

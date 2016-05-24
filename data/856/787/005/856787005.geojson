@@ -1,0 +1,75 @@
+{
+  "id": 856787005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.830576,41.614865,-93.830576,41.614865",
+    "geom:latitude":41.614865,
+    "geom:longitude":-93.830576,
+    "iso:country":"US",
+    "sg:address":"15207 Hickman Rd",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 1300",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Go10Wvvyqf2jq5KAgi5hp_41.614865_-93.830576@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102660,
+    "wof:geomhash":"35958c46590c892c2fffa95b7d99ba2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856787005
+        }
+    ],
+    "wof:id":856787005,
+    "wof:lastmodified":1464102660,
+    "wof:name":"Pampered Pet",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -93.830576,
+    41.614865,
+    -93.830576,
+    41.614865
+],
+  "geometry": {"coordinates":[-93.83057599999999,41.614865],"type":"Point"}
+}

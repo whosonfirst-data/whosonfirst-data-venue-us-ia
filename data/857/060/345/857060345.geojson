@@ -1,0 +1,85 @@
+{
+  "id": 857060345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736225,41.606794,-93.736225,41.606794",
+    "geom:latitude":41.606794,
+    "geom:longitude":-93.736225,
+    "iso:country":"US",
+    "sg:address":"1679 NW 86th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/221083-caribou-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 4173",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u1dCu7H1hhDHpfOERNIwB_41.606378_-93.736217@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114911,
+    "wof:geomhash":"210ba84c556c4f188a0f2b040dd8abff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896357,
+            "region_id":85688713,
+            "venue_id":857060345
+        }
+    ],
+    "wof:id":857060345,
+    "wof:lastmodified":1464114911,
+    "wof:name":"Caribou Coffee",
+    "wof:parent_id":85896357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -93.736225,
+    41.606794,
+    -93.736225,
+    41.606794
+],
+  "geometry": {"coordinates":[-93.736225,41.606794],"type":"Point"}
+}

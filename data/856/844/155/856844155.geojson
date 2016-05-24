@@ -1,0 +1,75 @@
+{
+  "id": 856844155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.516426,41.635275,-91.516426,41.635275",
+    "geom:latitude":41.635275,
+    "geom:longitude":-91.516426,
+    "iso:country":"US",
+    "sg:address":"1337 Burns Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8375",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jMHhrDYxKC0BwUCc0yL7L_41.635275_-91.516426@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105183,
+    "wof:geomhash":"96ef17ac0ec8f65a50cbf06e50ce23e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856844155
+        }
+    ],
+    "wof:id":856844155,
+    "wof:lastmodified":1464105183,
+    "wof:name":"Access Now LLC",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.516426,
+    41.635275,
+    -91.516426,
+    41.635275
+],
+  "geometry": {"coordinates":[-91.516426,41.635275],"type":"Point"}
+}

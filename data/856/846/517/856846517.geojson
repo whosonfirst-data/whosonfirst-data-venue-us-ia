@@ -1,0 +1,71 @@
+{
+  "id": 856846517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.584888,42.028893,-91.584888,42.028893",
+    "geom:latitude":42.028893,
+    "geom:longitude":-91.584888,
+    "iso:country":"US",
+    "sg:address":"2645 2nd Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 2156",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pxc5ajfuD0PPNPNKjcKqN_42.028893_-91.584888@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105315,
+    "wof:geomhash":"12c155873c91887b4e2f503cb48043dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856846517
+        }
+    ],
+    "wof:id":856846517,
+    "wof:lastmodified":1464105315,
+    "wof:name":"Farmer Drywall LLC",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.584888,
+    42.028893,
+    -91.584888,
+    42.028893
+],
+  "geometry": {"coordinates":[-91.58488800000001,42.028893],"type":"Point"}
+}

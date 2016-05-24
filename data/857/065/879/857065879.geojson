@@ -1,0 +1,67 @@
+{
+  "id": 857065879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624001,42.027699,-91.624001,42.027699",
+    "geom:latitude":42.027699,
+    "geom:longitude":-91.624001,
+    "iso:country":"US",
+    "sg:address":"1388 Twixt Town Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 0898",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:website":"www.tantime.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j9CeeNh4IG5IGkLmt2hJY_42.027699_-91.624001@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115132,
+    "wof:geomhash":"3ac5c2ee93961990f742259b80a0e000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065879
+        }
+    ],
+    "wof:id":857065879,
+    "wof:lastmodified":1464115132,
+    "wof:name":"Tan Time",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.624001,
+    42.027699,
+    -91.624001,
+    42.027699
+],
+  "geometry": {"coordinates":[-91.62400100000001,42.027699],"type":"Point"}
+}

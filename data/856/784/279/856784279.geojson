@@ -1,0 +1,75 @@
+{
+  "id": 856784279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.733148,41.560535,-93.733148,41.560535",
+    "geom:latitude":41.560535,
+    "geom:longitude":-93.733148,
+    "iso:country":"US",
+    "sg:address":"2001 Fuller Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 1286",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "art",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wGGgKCT7kB3ePU9stHoZz_41.560535_-93.733148@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102536,
+    "wof:geomhash":"f2924394dad31a6eae5b3da9f7a91481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896521,
+            "region_id":85688713,
+            "venue_id":856784279
+        }
+    ],
+    "wof:id":856784279,
+    "wof:lastmodified":1464102536,
+    "wof:name":"The Jordan House",
+    "wof:parent_id":85896521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -93.733148,
+    41.560535,
+    -93.733148,
+    41.560535
+],
+  "geometry": {"coordinates":[-93.733148,41.560535],"type":"Point"}
+}

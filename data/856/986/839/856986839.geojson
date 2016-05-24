@@ -1,0 +1,71 @@
+{
+  "id": 856986839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.818467,41.61987,-93.818467,41.61987",
+    "geom:latitude":41.61987,
+    "geom:longitude":-93.818467,
+    "iso:country":"US",
+    "sg:address":"14407 Bryn Mawr Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 8415",
+    "sg:postcode":"50323",
+    "sg:province":"IA",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MvutNzYURN8ZzS5TPlsgd_41.619870_-93.818467@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111825,
+    "wof:geomhash":"3234da84dfe462410dd7420751333889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856986839
+        }
+    ],
+    "wof:id":856986839,
+    "wof:lastmodified":1464111825,
+    "wof:name":"Logic Unlimited Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -93.818467,
+    41.61987,
+    -93.818467,
+    41.61987
+],
+  "geometry": {"coordinates":[-93.818467,41.61987],"type":"Point"}
+}

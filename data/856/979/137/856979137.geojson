@@ -1,0 +1,73 @@
+{
+  "id": 856979137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.848737,41.246926,-95.848737,41.246926",
+    "geom:latitude":41.246926,
+    "geom:longitude":-95.848737,
+    "iso:country":"US",
+    "sg:address":"1522 S 3rd St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 9733",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51cYIWEeESsuHkFJRnI3Um_41.246926_-95.848737@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111419,
+    "wof:geomhash":"68aa19efaf6e8dda13102cffa66fd81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856979137
+        }
+    ],
+    "wof:id":856979137,
+    "wof:lastmodified":1464111419,
+    "wof:name":"Depot Health & Fitness",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -95.848737,
+    41.246926,
+    -95.848737,
+    41.246926
+],
+  "geometry": {"coordinates":[-95.848737,41.246926],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857069733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599098,41.9813,-91.599098,41.9813",
+    "geom:latitude":41.9813,
+    "geom:longitude":-91.599098,
+    "iso:country":"US",
+    "sg:address":"532 Lawndale Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4884",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "school",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Wbg0oBXuir5ajdOQBTM7_41.981300_-91.599098@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115318,
+    "wof:geomhash":"b35ad4cd6aefe966d551e013d369b627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069733
+        }
+    ],
+    "wof:id":857069733,
+    "wof:lastmodified":1464115318,
+    "wof:name":"Streetsmarts Drivers Ed",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "driving"
+    ]
+},
+  "bbox": [
+    -91.599098,
+    41.9813,
+    -91.599098,
+    41.9813
+],
+  "geometry": {"coordinates":[-91.599098,41.9813],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856779541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890817,41.261185,-95.890817,41.261185",
+    "geom:latitude":41.261185,
+    "geom:longitude":-95.890817,
+    "iso:country":"US",
+    "sg:address":"28 S 29th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 9681",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HdrHRSYAsgVUUSedS4Vhf_41.261185_-95.890817@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102429,
+    "wof:geomhash":"d56100aa8d3bfa3fec21d77eb6d9e487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856779541
+        }
+    ],
+    "wof:id":856779541,
+    "wof:lastmodified":1464102429,
+    "wof:name":"Veterans Of Foreign Wars 737",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -95.890817,
+    41.261185,
+    -95.890817,
+    41.261185
+],
+  "geometry": {"coordinates":[-95.890817,41.261185],"type":"Point"}
+}

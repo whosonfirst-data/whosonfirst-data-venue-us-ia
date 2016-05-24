@@ -1,0 +1,73 @@
+{
+  "id": 856850201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.214123,41.51071,-94.214123,41.51071",
+    "geom:latitude":41.51071,
+    "geom:longitude":-94.214123,
+    "iso:country":"US",
+    "sg:address":"1402 Brown St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 360 6730",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "exercise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FcqZewXwf2pI5gthcez7u_41.510710_-94.214123@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105531,
+    "wof:geomhash":"3677b299dbbf0efa04ec8ee1c8a8ef21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856850201
+        }
+    ],
+    "wof:id":856850201,
+    "wof:lastmodified":1464105531,
+    "wof:name":"No Sweat Fitness Svc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "exercise"
+    ]
+},
+  "bbox": [
+    -94.214123,
+    41.51071,
+    -94.214123,
+    41.51071
+],
+  "geometry": {"coordinates":[-94.214123,41.51071],"type":"Point"}
+}

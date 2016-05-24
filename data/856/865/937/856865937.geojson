@@ -1,0 +1,73 @@
+{
+  "id": 856865937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.585809,42.070559,-91.585809,42.070559",
+    "geom:latitude":42.070559,
+    "geom:longitude":-91.585809,
+    "iso:country":"US",
+    "sg:address":"2795 Silver Oak Trl",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7815",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SUeBy5MqitG55Se54GfHU_42.070559_-91.585809@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106255,
+    "wof:geomhash":"03538fa6d8a3f42945833caced774e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856865937
+        }
+    ],
+    "wof:id":856865937,
+    "wof:lastmodified":1464106255,
+    "wof:name":"Mooney Custom Homes",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.585809,
+    42.070559,
+    -91.585809,
+    42.070559
+],
+  "geometry": {"coordinates":[-91.585809,42.070559],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857057893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.769888,41.6475,-93.769888,41.6475",
+    "geom:latitude":41.6475,
+    "geom:longitude":-93.769888,
+    "iso:country":"US",
+    "sg:address":"11121 Plum Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/webster/256659-super-suppers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 251 8200",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85844485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VskRStUyfClV78FL9yMCs_41.647500_-93.769888@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114819,
+    "wof:geomhash":"b8595dbda5b52cec3c950bb0f13633d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85844485,
+            "region_id":85688713,
+            "venue_id":857057893
+        }
+    ],
+    "wof:id":857057893,
+    "wof:lastmodified":1464114819,
+    "wof:name":"Super Suppers",
+    "wof:parent_id":85844485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.769888,
+    41.6475,
+    -93.769888,
+    41.6475
+],
+  "geometry": {"coordinates":[-93.76988799999999,41.6475],"type":"Point"}
+}

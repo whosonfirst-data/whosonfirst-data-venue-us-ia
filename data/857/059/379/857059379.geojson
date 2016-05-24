@@ -1,0 +1,76 @@
+{
+  "id": 857059379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627116,42.023095,-91.627116,42.023095",
+    "geom:latitude":42.023095,
+    "geom:longitude":-91.627116,
+    "iso:country":"US",
+    "sg:address":"4444 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/209046-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7111",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3olElFrIMCPNQgog2rFSLC_42.023095_-91.627116@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114875,
+    "wof:geomhash":"8b0e5e70b97c26d1ce934c778e8a0fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059379
+        }
+    ],
+    "wof:id":857059379,
+    "wof:lastmodified":1464114875,
+    "wof:name":"TCBY",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.627116,
+    42.023095,
+    -91.627116,
+    42.023095
+],
+  "geometry": {"coordinates":[-91.627116,42.023095],"type":"Point"}
+}

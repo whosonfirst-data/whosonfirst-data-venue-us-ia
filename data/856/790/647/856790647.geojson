@@ -1,0 +1,73 @@
+{
+  "id": 856790647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.563241,41.681615,-91.563241,41.681615",
+    "geom:latitude":41.681615,
+    "geom:longitude":-91.563241,
+    "iso:country":"US",
+    "sg:address":"704 E 2nd Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 9903",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T1WHNctcI5fpb1TNxQ5D6_41.681615_-91.563241@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102806,
+    "wof:geomhash":"f07a5ae0b16996d82ffb49ac3f4d769c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856790647
+        }
+    ],
+    "wof:id":856790647,
+    "wof:lastmodified":1464102806,
+    "wof:name":"Cedar Valley Tree Svc",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -91.563241,
+    41.681615,
+    -91.563241,
+    41.681615
+],
+  "geometry": {"coordinates":[-91.563241,41.681615],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856985745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881683,41.271557,-95.881683,41.271557",
+    "geom:latitude":41.271557,
+    "geom:longitude":-95.881683,
+    "iso:country":"US",
+    "sg:address":"1015 N 25th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8715",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fhfka5K2QN577N3XHIwky_41.271557_-95.881683@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111778,
+    "wof:geomhash":"5a704a2e707d1c9965b9c743f85b8e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856985745
+        }
+    ],
+    "wof:id":856985745,
+    "wof:lastmodified":1464111778,
+    "wof:name":"US Army Training",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -95.881683,
+    41.271557,
+    -95.881683,
+    41.271557
+],
+  "geometry": {"coordinates":[-95.881683,41.271557],"type":"Point"}
+}

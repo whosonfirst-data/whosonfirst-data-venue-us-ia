@@ -1,0 +1,73 @@
+{
+  "id": 856885907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.398588,42.488758,-96.398588,42.488758",
+    "geom:latitude":42.488758,
+    "geom:longitude":-96.398588,
+    "iso:country":"US",
+    "sg:address":"925 Dace Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 1996",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WEBzBB9qN5OBQrVHXMHlp_42.488758_-96.398588@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107518,
+    "wof:geomhash":"7be2dfa7104f8ef8d355ad060ea06877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856885907
+        }
+    ],
+    "wof:id":856885907,
+    "wof:lastmodified":1464107518,
+    "wof:name":"Dace Ave Antiques",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -96.398588,
+    42.488758,
+    -96.398588,
+    42.488758
+],
+  "geometry": {"coordinates":[-96.398588,42.488758],"type":"Point"}
+}

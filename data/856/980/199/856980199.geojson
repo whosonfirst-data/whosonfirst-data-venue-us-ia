@@ -1,0 +1,71 @@
+{
+  "id": 856980199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851159,41.255899,-95.851159,41.255899",
+    "geom:latitude":41.255899,
+    "geom:longitude":-95.851159,
+    "iso:country":"US",
+    "sg:address":"606 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 8000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iEqiRerTf8qGKEVTknETk_41.255899_-95.851159@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111467,
+    "wof:geomhash":"b42f1c1372ab0e5115a821cecfa9b508",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856980199
+        }
+    ],
+    "wof:id":856980199,
+    "wof:lastmodified":1464111467,
+    "wof:name":"Bedrock Valuation & Consulting",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -95.851159,
+    41.255899,
+    -95.851159,
+    41.255899
+],
+  "geometry": {"coordinates":[-95.851159,41.255899],"type":"Point"}
+}

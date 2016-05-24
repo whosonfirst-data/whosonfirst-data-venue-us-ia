@@ -1,0 +1,73 @@
+{
+  "id": 856773375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.879211,41.23812,-95.879211,41.23812",
+    "geom:latitude":41.23812,
+    "geom:longitude":-95.879211,
+    "iso:country":"US",
+    "sg:address":"2608 S 24th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7484",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f86rBVPuPHM33w3ZCxEM1_41.238120_-95.879211@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102285,
+    "wof:geomhash":"06c2e5fe64a18487111ee05fefc684a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856773375
+        }
+    ],
+    "wof:id":856773375,
+    "wof:lastmodified":1464102285,
+    "wof:name":"Blue Beacon Truck Wash",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -95.879211,
+    41.23812,
+    -95.879211,
+    41.23812
+],
+  "geometry": {"coordinates":[-95.879211,41.23812],"type":"Point"}
+}

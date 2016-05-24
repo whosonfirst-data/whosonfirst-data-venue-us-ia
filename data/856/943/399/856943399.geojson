@@ -1,0 +1,73 @@
+{
+  "id": 856943399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.08278,41.834769,-94.08278,41.834769",
+    "geom:latitude":41.834769,
+    "geom:longitude":-94.08278,
+    "iso:country":"US",
+    "sg:address":"2625 Iowa St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5349",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LPbUI3xC2NYhf53gKUqDe_41.834769_-94.082780@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109824,
+    "wof:geomhash":"38a4b98dc648983b0456c2baa0c3bf22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856943399
+        }
+    ],
+    "wof:id":856943399,
+    "wof:lastmodified":1464109824,
+    "wof:name":"Perry Health Care Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -94.08278,
+    41.834769,
+    -94.08278,
+    41.834769
+],
+  "geometry": {"coordinates":[-94.08278,41.834769],"type":"Point"}
+}

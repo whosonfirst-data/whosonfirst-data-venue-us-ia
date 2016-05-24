@@ -1,0 +1,77 @@
+{
+  "id": 856968565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678918,41.947125,-91.678918,41.947125",
+    "geom:latitude":41.947125,
+    "geom:longitude":-91.678918,
+    "iso:country":"US",
+    "sg:address":"810 31st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8705",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05QIYYXUN5tAy31r28yIbt_41.947125_-91.678918@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110892,
+    "wof:geomhash":"8d9bb3d17a02b47e54c0f6e8d9f1f163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856968565
+        }
+    ],
+    "wof:id":856968565,
+    "wof:lastmodified":1464110892,
+    "wof:name":"Car Colors Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.678918,
+    41.947125,
+    -91.678918,
+    41.947125
+],
+  "geometry": {"coordinates":[-91.678918,41.947125],"type":"Point"}
+}

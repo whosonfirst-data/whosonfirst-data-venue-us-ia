@@ -1,0 +1,73 @@
+{
+  "id": 856859413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.861536,41.257948,-95.861536,41.257948",
+    "geom:latitude":41.257948,
+    "geom:longitude":-95.861536,
+    "iso:country":"US",
+    "sg:address":"1120 4th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6929",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hR3ETywDPj6tiP7hsVp5l_41.257948_-95.861536@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105969,
+    "wof:geomhash":"1087f401b9ba88b76aa39210ceb9c1ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856859413
+        }
+    ],
+    "wof:id":856859413,
+    "wof:lastmodified":1464105969,
+    "wof:name":"Brad Nelson Carpenter",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.861536,
+    41.257948,
+    -95.861536,
+    41.257948
+],
+  "geometry": {"coordinates":[-95.861536,41.257948],"type":"Point"}
+}

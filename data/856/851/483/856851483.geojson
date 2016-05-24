@@ -1,0 +1,71 @@
+{
+  "id": 856851483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865136,42.388639,-95.865136,42.388639",
+    "geom:latitude":42.388639,
+    "geom:longitude":-95.865136,
+    "iso:country":"US",
+    "sg:address":"106 N 3rd Ave",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 9565",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TYFaoUkWFSyh20MaR96Qn_42.388639_-95.865136@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105599,
+    "wof:geomhash":"0c9126828b160c95b4ad6b5f649dbf71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856851483
+        }
+    ],
+    "wof:id":856851483,
+    "wof:lastmodified":1464105599,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -95.865136,
+    42.388639,
+    -95.865136,
+    42.388639
+],
+  "geometry": {"coordinates":[-95.86513600000001,42.388639],"type":"Point"}
+}

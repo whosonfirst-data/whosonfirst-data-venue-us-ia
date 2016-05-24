@@ -1,0 +1,73 @@
+{
+  "id": 856820807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.691451,42.044733,-91.691451,42.044733",
+    "geom:latitude":42.044733,
+    "geom:longitude":-91.691451,
+    "iso:country":"US",
+    "sg:address":"925 N Compton Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 6654",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bBJ74oYThsX5pRMBx9Eyx_42.044733_-91.691451@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104145,
+    "wof:geomhash":"e96eb2936ba5f8aa96d8eb6f6ee0f8e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856820807
+        }
+    ],
+    "wof:id":856820807,
+    "wof:lastmodified":1464104145,
+    "wof:name":"Munson Electric Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.691451,
+    42.044733,
+    -91.691451,
+    42.044733
+],
+  "geometry": {"coordinates":[-91.691451,42.044733],"type":"Point"}
+}

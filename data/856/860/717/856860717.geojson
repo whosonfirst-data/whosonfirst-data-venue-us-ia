@@ -1,0 +1,83 @@
+{
+  "id": 856860717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673689,41.977256,-91.673689,41.977256",
+    "geom:latitude":41.977256,
+    "geom:longitude":-91.673689,
+    "iso:country":"US",
+    "sg:address":"130 1st St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5050",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UmNkfrnUVCrkmoARxGxxV_41.977256_-91.673689@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106027,
+    "wof:geomhash":"925e0a023278f650ff801aacbd623fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856860717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856860717
+        }
+    ],
+    "wof:id":856860717,
+    "wof:lastmodified":1464106027,
+    "wof:name":"Katering Kitchen/Express Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.673689,
+    41.977256,
+    -91.673689,
+    41.977256
+],
+  "geometry": {"coordinates":[-91.673689,41.977256],"type":"Point"}
+}

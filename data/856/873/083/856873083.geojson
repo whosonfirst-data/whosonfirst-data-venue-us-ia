@@ -1,0 +1,73 @@
+{
+  "id": 856873083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.018772,41.753958,-94.018772,41.753958",
+    "geom:latitude":41.753958,
+    "geom:longitude":-94.018772,
+    "iso:country":"US",
+    "sg:address":"2360 195th St",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2239",
+    "sg:postcode":"50167",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWheVV98trOXIqiArTNws_41.753958_-94.018772@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106816,
+    "wof:geomhash":"21f5b95b0aac99bf7356a0d53242ae21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856873083
+        }
+    ],
+    "wof:id":856873083,
+    "wof:lastmodified":1464106816,
+    "wof:name":"Larry Belgarde Excavating",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.018772,
+    41.753958,
+    -94.018772,
+    41.753958
+],
+  "geometry": {"coordinates":[-94.018772,41.753958],"type":"Point"}
+}

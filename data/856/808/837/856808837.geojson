@@ -1,0 +1,75 @@
+{
+  "id": 856808837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.413961,42.50216,-96.413961,42.50216",
+    "geom:latitude":42.50216,
+    "geom:longitude":-96.413961,
+    "iso:country":"US",
+    "sg:address":"714 Main St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 7753",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cZ2R6n0arD9zHOsy1GyWI_42.502160_-96.413961@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103579,
+    "wof:geomhash":"f37bdf861644790ae931fc93a34a41a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856808837
+        }
+    ],
+    "wof:id":856808837,
+    "wof:lastmodified":1464103579,
+    "wof:name":"Halman Construction Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.413961,
+    42.50216,
+    -96.413961,
+    42.50216
+],
+  "geometry": {"coordinates":[-96.413961,42.50216],"type":"Point"}
+}

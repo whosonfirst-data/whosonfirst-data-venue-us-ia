@@ -1,0 +1,74 @@
+{
+  "id": 857059133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534595,41.660779,-91.534595,41.660779",
+    "geom:latitude":41.660779,
+    "geom:longitude":-91.534595,
+    "iso:country":"US",
+    "sg:address":"32 S Clinton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/105569-pancheros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 6311",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CKUmLklwLrm01RuAvwBS5_41.660779_-91.534595@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114867,
+    "wof:geomhash":"39ad0409605e1a7ed81c622d54533cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857059133
+        }
+    ],
+    "wof:id":857059133,
+    "wof:lastmodified":1464114867,
+    "wof:name":"Panchero's",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.534595,
+    41.660779,
+    -91.534595,
+    41.660779
+],
+  "geometry": {"coordinates":[-91.534595,41.660779],"type":"Point"}
+}

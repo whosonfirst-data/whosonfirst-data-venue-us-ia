@@ -1,0 +1,79 @@
+{
+  "id": 857066599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6598,41.971839,-91.6598,41.971839",
+    "geom:latitude":41.971839,
+    "geom:longitude":-91.6598,
+    "iso:country":"US",
+    "sg:address":"1000 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 1494",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.firstlutherancr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49VGGRkolnlEPxlRv6MNsX_41.971839_-91.659800@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115161,
+    "wof:geomhash":"575a372a58dc474a7509b3b6b3d3fd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857066599
+        }
+    ],
+    "wof:id":857066599,
+    "wof:lastmodified":1464115161,
+    "wof:name":"First Lutheran Church Elca",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.6598,
+    41.971839,
+    -91.6598,
+    41.971839
+],
+  "geometry": {"coordinates":[-91.6598,41.971839],"type":"Point"}
+}

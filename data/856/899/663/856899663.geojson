@@ -1,0 +1,66 @@
+{
+  "id": 856899663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.443528,42.05906,-91.443528,42.05906",
+    "geom:latitude":42.05906,
+    "geom:longitude":-91.443528,
+    "iso:country":"US",
+    "sg:address":"257 Broadway St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 9995",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vVJO7lJB3RfIqg2CX4NPB_42.059060_-91.443528@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108039,
+    "wof:geomhash":"c7d2934e0819183afa4695ab029c8300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856899663
+        }
+    ],
+    "wof:id":856899663,
+    "wof:lastmodified":1464108039,
+    "wof:name":"Knight Spot",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.443528,
+    42.05906,
+    -91.443528,
+    42.05906
+],
+  "geometry": {"coordinates":[-91.443528,42.05906],"type":"Point"}
+}

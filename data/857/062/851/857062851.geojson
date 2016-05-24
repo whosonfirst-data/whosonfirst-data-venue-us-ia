@@ -1,0 +1,66 @@
+{
+  "id": 857062851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8526,41.259701,-95.8526,41.259701",
+    "geom:latitude":41.259701,
+    "geom:longitude":-95.8526,
+    "iso:country":"US",
+    "sg:address":"114 S 6th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1544",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vli3xF9QDahClOg4tABxI_41.259701_-95.852600@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115016,
+    "wof:geomhash":"bff4c1bfc471a43ae7bd68ac362bf390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062851
+        }
+    ],
+    "wof:id":857062851,
+    "wof:lastmodified":1464115016,
+    "wof:name":"Midlands Dental Center",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.8526,
+    41.259701,
+    -95.8526,
+    41.259701
+],
+  "geometry": {"coordinates":[-95.8526,41.259701],"type":"Point"}
+}

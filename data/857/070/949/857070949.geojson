@@ -1,0 +1,71 @@
+{
+  "id": 857070949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659794,41.915499,-91.659794,41.915499",
+    "geom:latitude":41.915499,
+    "geom:longitude":-91.659794,
+    "iso:country":"US",
+    "sg:address":"304 66th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5379",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SFYuEkVfApczRwyyyH16i_41.915499_-91.659794@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115373,
+    "wof:geomhash":"c3a1a1fb7a4d4d8a9e9555ffce8a9b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070949
+        }
+    ],
+    "wof:id":857070949,
+    "wof:lastmodified":1464115373,
+    "wof:name":"College Park Apartments",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.659794,
+    41.915499,
+    -91.659794,
+    41.915499
+],
+  "geometry": {"coordinates":[-91.65979400000001,41.915499],"type":"Point"}
+}

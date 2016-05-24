@@ -1,0 +1,71 @@
+{
+  "id": 856785301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.958604,41.686318,-93.958604,41.686318",
+    "geom:latitude":41.686318,
+    "geom:longitude":-93.958604,
+    "iso:country":"US",
+    "sg:address":"1101 Maple St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3046",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ol6fqCuV1jeu2BhTO192w_41.686318_-93.958604@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102587,
+    "wof:geomhash":"c0dbb62abb1c6ca3f64344cb76318e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856785301
+        }
+    ],
+    "wof:id":856785301,
+    "wof:lastmodified":1464102587,
+    "wof:name":"Scotts Heating & Cooling",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.958604,
+    41.686318,
+    -93.958604,
+    41.686318
+],
+  "geometry": {"coordinates":[-93.95860399999999,41.686318],"type":"Point"}
+}

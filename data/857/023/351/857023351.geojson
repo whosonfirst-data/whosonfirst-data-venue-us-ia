@@ -1,0 +1,71 @@
+{
+  "id": 857023351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.911893,41.291077,-95.911893,41.291077",
+    "geom:latitude":41.291077,
+    "geom:longitude":-95.911893,
+    "iso:country":"US",
+    "sg:address":"3712 N 14th St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 5253",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dKx5gG3t2eIJG0MPjOlPN_41.291077_-95.911893@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113326,
+    "wof:geomhash":"9f2b5a0360aa1446c92985dff2fd1371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857023351
+        }
+    ],
+    "wof:id":857023351,
+    "wof:lastmodified":1464113326,
+    "wof:name":"Economy & Performance Auto",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.911893,
+    41.291077,
+    -95.911893,
+    41.291077
+],
+  "geometry": {"coordinates":[-95.91189300000001,41.291077],"type":"Point"}
+}

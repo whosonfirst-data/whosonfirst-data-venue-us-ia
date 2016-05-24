@@ -1,0 +1,83 @@
+{
+  "id": 856878783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718386,41.965683,-91.718386,41.965683",
+    "geom:latitude":41.965683,
+    "geom:longitude":-91.718386,
+    "iso:country":"US",
+    "sg:address":"3410 12th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0269",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lessor",
+        "farm",
+        "corn",
+        "crop",
+        "field",
+        "soybean",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3phak76sRsJeDsSLFJX1gA_41.965683_-91.718386@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107109,
+    "wof:geomhash":"0f1f16c33c0645085e46da0e0a860ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856878783
+        }
+    ],
+    "wof:id":856878783,
+    "wof:lastmodified":1464107109,
+    "wof:name":"Witousek Farm",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lessor",
+        "farm",
+        "corn",
+        "crop",
+        "field",
+        "soybean",
+        "property"
+    ]
+},
+  "bbox": [
+    -91.718386,
+    41.965683,
+    -91.718386,
+    41.965683
+],
+  "geometry": {"coordinates":[-91.718386,41.965683],"type":"Point"}
+}

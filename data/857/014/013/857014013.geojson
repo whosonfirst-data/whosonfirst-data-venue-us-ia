@@ -1,0 +1,71 @@
+{
+  "id": 857014013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837759,41.272198,-95.837759,41.272198",
+    "geom:latitude":41.272198,
+    "geom:longitude":-95.837759,
+    "iso:country":"US",
+    "sg:address":"1107 E Washington Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3797",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HP64OzJpWZSyU65CvXV6K_41.272198_-95.837759@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112948,
+    "wof:geomhash":"de06f854ce8be2d629e761e80028dfe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857014013
+        }
+    ],
+    "wof:id":857014013,
+    "wof:lastmodified":1464112948,
+    "wof:name":"Quality Drywall",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.837759,
+    41.272198,
+    -95.837759,
+    41.272198
+],
+  "geometry": {"coordinates":[-95.83775900000001,41.272198],"type":"Point"}
+}

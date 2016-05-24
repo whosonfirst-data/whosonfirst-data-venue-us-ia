@@ -1,0 +1,68 @@
+{
+  "id": 856962235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.669431,41.979472,-91.669431,41.979472",
+    "geom:latitude":41.979472,
+    "geom:longitude":-91.669431,
+    "iso:country":"US",
+    "sg:address":"122 2nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9955",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SqEPfsFk1Mx0M6WrrVlDe_41.979472_-91.669431@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110641,
+    "wof:geomhash":"e516fb1e28b64a95d594bf0d6a5c47e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856962235
+        }
+    ],
+    "wof:id":856962235,
+    "wof:lastmodified":1464110641,
+    "wof:name":"Pizazz Salon & Spa",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.669431,
+    41.979472,
+    -91.669431,
+    41.979472
+],
+  "geometry": {"coordinates":[-91.669431,41.979472],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856955701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405021,42.495016,-96.405021,42.495016",
+    "geom:latitude":42.495016,
+    "geom:longitude":-96.405021,
+    "iso:country":"US",
+    "sg:address":"421 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 7962",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OJwrISiV7S8coV6ZwSW9S_42.495016_-96.405021@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110363,
+    "wof:geomhash":"21701b81bde16a838f571c8293aa483d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856955701
+        }
+    ],
+    "wof:id":856955701,
+    "wof:lastmodified":1464110363,
+    "wof:name":"Vintage Furniture Restoration",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -96.405021,
+    42.495016,
+    -96.405021,
+    42.495016
+],
+  "geometry": {"coordinates":[-96.405021,42.495016],"type":"Point"}
+}

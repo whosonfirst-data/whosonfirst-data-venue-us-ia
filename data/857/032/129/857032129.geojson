@@ -1,0 +1,71 @@
+{
+  "id": 857032129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.030277,41.755319,-94.030277,41.755319",
+    "geom:latitude":41.755319,
+    "geom:longitude":-94.030277,
+    "iso:country":"US",
+    "sg:address":"518 Chestnut St",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2285",
+    "sg:postcode":"50167",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dtL5iNbpEEUaosVxnSOIa_41.755319_-94.030277@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113748,
+    "wof:geomhash":"d42a6ab9d6abaa2a3fe76bc3b2833abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857032129
+        }
+    ],
+    "wof:id":857032129,
+    "wof:lastmodified":1464113748,
+    "wof:name":"Veterinary Medical Assoc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.030277,
+    41.755319,
+    -94.030277,
+    41.755319
+],
+  "geometry": {"coordinates":[-94.030277,41.755319],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 856812115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625075,41.682543,-93.625075,41.682543",
+    "geom:latitude":41.682543,
+    "geom:longitude":-93.625075,
+    "iso:country":"US",
+    "sg:address":"6666 NW 4th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 2837",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85945067,
+        102086603,
+        85847289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iPZrniHj6jjrREV545yWL_41.682543_-93.625075@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103718,
+    "wof:geomhash":"111075106fa5fd64166f3a6655cbaa6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85945067,
+            "neighbourhood_id":85847289,
+            "region_id":85688713,
+            "venue_id":856812115
+        }
+    ],
+    "wof:id":856812115,
+    "wof:lastmodified":1464103718,
+    "wof:name":"Des Moines Drain & Sewer Clng",
+    "wof:parent_id":85847289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -93.625075,
+    41.682543,
+    -93.625075,
+    41.682543
+],
+  "geometry": {"coordinates":[-93.625075,41.682543],"type":"Point"}
+}

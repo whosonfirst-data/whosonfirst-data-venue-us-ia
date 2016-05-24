@@ -1,0 +1,76 @@
+{
+  "id": 857058595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.364313,42.436222,-96.364313,42.436222",
+    "geom:latitude":42.436222,
+    "geom:longitude":-96.364313,
+    "iso:country":"US",
+    "sg:address":"3401 Singing Hills Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/124398-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 7829",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70beCcvG8ZGP9njoAVm5tP_42.436222_-96.364313@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114850,
+    "wof:geomhash":"76f19b2284f6a1b8152744ba4b603bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857058595
+        }
+    ],
+    "wof:id":857058595,
+    "wof:lastmodified":1464114850,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.364313,
+    42.436222,
+    -96.364313,
+    42.436222
+],
+  "geometry": {"coordinates":[-96.364313,42.436222],"type":"Point"}
+}

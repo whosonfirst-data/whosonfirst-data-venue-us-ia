@@ -1,0 +1,74 @@
+{
+  "id": 857057593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.807329,41.589086,-93.807329,41.589086",
+    "geom:latitude":41.589086,
+    "geom:longitude":-93.807329,
+    "iso:country":"US",
+    "sg:address":"7275 Vista Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/boone/160838-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 267 8535",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XOSczh1lzfrhGlrswrgyQ_41.589086_-93.807329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114809,
+    "wof:geomhash":"b7746ae7ad110d0ad1e547d4c3940d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857057593
+        }
+    ],
+    "wof:id":857057593,
+    "wof:lastmodified":1464114809,
+    "wof:name":"Burger King",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.807329,
+    41.589086,
+    -93.807329,
+    41.589086
+],
+  "geometry": {"coordinates":[-93.807329,41.589086],"type":"Point"}
+}

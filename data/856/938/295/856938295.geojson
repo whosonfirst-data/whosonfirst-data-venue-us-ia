@@ -1,0 +1,73 @@
+{
+  "id": 856938295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.501994,41.64986,-91.501994,41.64986",
+    "geom:latitude":41.64986,
+    "geom:longitude":-91.501994,
+    "iso:country":"US",
+    "sg:address":"901 S 1st Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2783",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BicbvoiSW9Mhg6yczfO8S_41.649860_-91.501994@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109574,
+    "wof:geomhash":"83210e6a2dc7ca3f8dccf8a5614d6ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856938295
+        }
+    ],
+    "wof:id":856938295,
+    "wof:lastmodified":1464109574,
+    "wof:name":"Printing House",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -91.501994,
+    41.64986,
+    -91.501994,
+    41.64986
+],
+  "geometry": {"coordinates":[-91.501994,41.64986],"type":"Point"}
+}

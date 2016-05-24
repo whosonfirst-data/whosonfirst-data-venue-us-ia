@@ -1,0 +1,71 @@
+{
+  "id": 856858205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.476516,41.88857,-91.476516,41.88857",
+    "geom:latitude":41.88857,
+    "geom:longitude":-91.476516,
+    "iso:country":"US",
+    "sg:address":"5 Recreation Ln",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 3297",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "guide"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gAn7JZGU9OiqOsB2RgerY_41.888570_-91.476516@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105889,
+    "wof:geomhash":"106cc1cd3324eb868199b9cafaf4e18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856858205
+        }
+    ],
+    "wof:id":856858205,
+    "wof:lastmodified":1464105889,
+    "wof:name":"Deep Cover Wild Life",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guide"
+    ]
+},
+  "bbox": [
+    -91.476516,
+    41.88857,
+    -91.476516,
+    41.88857
+],
+  "geometry": {"coordinates":[-91.476516,41.88857],"type":"Point"}
+}

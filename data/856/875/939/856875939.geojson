@@ -1,0 +1,75 @@
+{
+  "id": 856875939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.881529,41.61012,-93.881529,41.61012",
+    "geom:latitude":41.61012,
+    "geom:longitude":-93.881529,
+    "iso:country":"US",
+    "sg:address":"395 Ashworth Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 8176",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71E8oFJj2yoNT5teo4Pwru_41.610120_-93.881529@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106982,
+    "wof:geomhash":"52c73bdb5e2538ecdb4f610318c3c6a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856875939
+        }
+    ],
+    "wof:id":856875939,
+    "wof:lastmodified":1464106982,
+    "wof:name":"Lund Motors LC",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.881529,
+    41.61012,
+    -93.881529,
+    41.61012
+],
+  "geometry": {"coordinates":[-93.881529,41.61012],"type":"Point"}
+}

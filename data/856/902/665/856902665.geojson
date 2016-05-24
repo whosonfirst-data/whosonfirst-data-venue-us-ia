@@ -1,0 +1,74 @@
+{
+  "id": 856902665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683017,41.970832,-91.683017,41.970832",
+    "geom:latitude":41.970832,
+    "geom:longitude":-91.683017,
+    "iso:country":"US",
+    "sg:address":"900 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8828",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.lppainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UMvysM9ViyhL6dZO46dQ5_41.970832_-91.683017@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108146,
+    "wof:geomhash":"9dec5b685adec62423b0298a18fbf55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856902665
+        }
+    ],
+    "wof:id":856902665,
+    "wof:lastmodified":1464108146,
+    "wof:name":"L & P Painting Co",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.683017,
+    41.970832,
+    -91.683017,
+    41.970832
+],
+  "geometry": {"coordinates":[-91.68301700000001,41.970832],"type":"Point"}
+}

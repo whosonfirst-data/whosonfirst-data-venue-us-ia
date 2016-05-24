@@ -1,0 +1,66 @@
+{
+  "id": 856822777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619898,41.638354,-93.619898,41.638354",
+    "geom:latitude":41.638354,
+    "geom:longitude":-93.619898,
+    "iso:country":"US",
+    "sg:address":"4275 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 9991",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944061,
+        102086603,
+        85896373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r9Gqg8tE74gaJzZsc4Uq9_41.638354_-93.619898@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104217,
+    "wof:geomhash":"6b9f47799d4294517157b0f013652cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896373,
+            "region_id":85688713,
+            "venue_id":856822777
+        }
+    ],
+    "wof:id":856822777,
+    "wof:lastmodified":1464104217,
+    "wof:name":"Stan's Place",
+    "wof:parent_id":85896373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.619898,
+    41.638354,
+    -93.619898,
+    41.638354
+],
+  "geometry": {"coordinates":[-93.61989800000001,41.638354],"type":"Point"}
+}

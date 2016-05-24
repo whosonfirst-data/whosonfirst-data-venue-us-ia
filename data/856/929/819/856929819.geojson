@@ -1,0 +1,68 @@
+{
+  "id": 856929819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.60583,41.627711,-93.60583,41.627711",
+    "geom:latitude":41.627711,
+    "geom:longitude":-93.60583,
+    "iso:country":"US",
+    "sg:address":"901 E Euclid Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 263 2666",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VejXPRIWgeKO2By0iiWVz_41.627711_-93.605830@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109239,
+    "wof:geomhash":"c941da5daa5b228522ef36af23d13af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856929819
+        }
+    ],
+    "wof:id":856929819,
+    "wof:lastmodified":1464109239,
+    "wof:name":"Vientiane Restaurant Inc",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.60583,
+    41.627711,
+    -93.60583,
+    41.627711
+],
+  "geometry": {"coordinates":[-93.60583,41.627711],"type":"Point"}
+}

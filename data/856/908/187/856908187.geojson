@@ -1,0 +1,73 @@
+{
+  "id": 856908187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894189,42.280913,-95.894189,42.280913",
+    "geom:latitude":42.280913,
+    "geom:longitude":-95.894189,
+    "iso:country":"US",
+    "sg:address":"601 State St",
+    "sg:city":"Neptune",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 732 988 5040",
+    "sg:postcode":"51044",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LAdO0DLaG8sgSawIdvlkl_42.280913_-95.894189@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108350,
+    "wof:geomhash":"28102c2d6c4649502f4681dd2d3a20c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856908187
+        }
+    ],
+    "wof:id":856908187,
+    "wof:lastmodified":1464108350,
+    "wof:name":"Shore Medical Assoc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.894189,
+    42.280913,
+    -95.894189,
+    42.280913
+],
+  "geometry": {"coordinates":[-95.894189,42.280913],"type":"Point"}
+}

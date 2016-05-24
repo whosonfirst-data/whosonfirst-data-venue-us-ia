@@ -1,0 +1,71 @@
+{
+  "id": 856863141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.793614,41.262511,-95.793614,41.262511",
+    "geom:latitude":41.262511,
+    "geom:longitude":-95.793614,
+    "iso:country":"US",
+    "sg:address":"20475 McPherson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0111",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KaMPpF66vLEawbYcBeIvd_41.262511_-95.793614@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106122,
+    "wof:geomhash":"394cfb2d1ff6e2d79a713da0b0aa353b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856863141
+        }
+    ],
+    "wof:id":856863141,
+    "wof:lastmodified":1464106122,
+    "wof:name":"Bluffs Storage",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -95.793614,
+    41.262511,
+    -95.793614,
+    41.262511
+],
+  "geometry": {"coordinates":[-95.79361400000001,41.262511],"type":"Point"}
+}

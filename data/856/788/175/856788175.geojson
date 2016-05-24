@@ -1,0 +1,73 @@
+{
+  "id": 856788175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614506,41.983676,-91.614506,41.983676",
+    "geom:latitude":41.983676,
+    "geom:longitude":-91.614506,
+    "iso:country":"US",
+    "sg:address":"380 Indiandale Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2931",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stationery",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r7xKWn1deCwoMciD4fSRf_41.983676_-91.614506@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102713,
+    "wof:geomhash":"6c64fd040932f05c4e159d5badbbae87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856788175
+        }
+    ],
+    "wof:id":856788175,
+    "wof:lastmodified":1464102713,
+    "wof:name":"Automated Busines Forms",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationery",
+        "property"
+    ]
+},
+  "bbox": [
+    -91.614506,
+    41.983676,
+    -91.614506,
+    41.983676
+],
+  "geometry": {"coordinates":[-91.61450600000001,41.983676],"type":"Point"}
+}

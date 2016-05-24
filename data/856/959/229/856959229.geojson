@@ -1,0 +1,75 @@
+{
+  "id": 856959229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.34092,41.4767,-95.34092,41.4767",
+    "geom:latitude":41.4767,
+    "geom:longitude":-95.34092,
+    "iso:country":"US",
+    "sg:address":"404 W High St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6372",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FXhVwaHttZ8TGJWRRksg9_41.476700_-95.340920@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110512,
+    "wof:geomhash":"f5450f3943363ccecfdcc011bce85a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856959229
+        }
+    ],
+    "wof:id":856959229,
+    "wof:lastmodified":1464110512,
+    "wof:name":"Avoca Street Dept",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -95.34092,
+    41.4767,
+    -95.34092,
+    41.4767
+],
+  "geometry": {"coordinates":[-95.34092,41.4767],"type":"Point"}
+}

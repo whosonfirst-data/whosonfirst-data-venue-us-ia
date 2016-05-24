@@ -1,0 +1,66 @@
+{
+  "id": 856782215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.339364,41.475717,-95.339364,41.475717",
+    "geom:latitude":41.475717,
+    "geom:longitude":-95.339364,
+    "iso:country":"US",
+    "sg:address":"161 S Elm St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6761",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sL6PWjEynzPa8dZLJNzK6_41.475717_-95.339364@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102485,
+    "wof:geomhash":"4b98aedc1bba45f51b5b5447efd04a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856782215
+        }
+    ],
+    "wof:id":856782215,
+    "wof:lastmodified":1464102485,
+    "wof:name":"Riesgaard's Variety",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.339364,
+    41.475717,
+    -95.339364,
+    41.475717
+],
+  "geometry": {"coordinates":[-95.339364,41.475717],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856868275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676165,41.935122,-91.676165,41.935122",
+    "geom:latitude":41.935122,
+    "geom:longitude":-91.676165,
+    "iso:country":"US",
+    "sg:address":"4601 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4376",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fgzPfrKGGbeKTs9lVRfVo_41.935122_-91.676165@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106406,
+    "wof:geomhash":"3efb8f0d26fd740739995723a0da9b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856868275
+        }
+    ],
+    "wof:id":856868275,
+    "wof:lastmodified":1464106406,
+    "wof:name":"Big O Tires",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.676165,
+    41.935122,
+    -91.676165,
+    41.935122
+],
+  "geometry": {"coordinates":[-91.676165,41.935122],"type":"Point"}
+}

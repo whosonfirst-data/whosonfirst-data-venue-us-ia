@@ -1,0 +1,71 @@
+{
+  "id": 857000593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.027963,41.610711,-94.027963,41.610711",
+    "geom:latitude":41.610711,
+    "geom:longitude":-94.027963,
+    "iso:country":"US",
+    "sg:address":"1515 Aspen Dr",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 556 3734",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P9CgPFY9t1LoEQ5yWnbaP_41.610711_-94.027963@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112386,
+    "wof:geomhash":"34f72a33d4dc19ec156633293f290279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857000593
+        }
+    ],
+    "wof:id":857000593,
+    "wof:lastmodified":1464112386,
+    "wof:name":"Mr Touchup",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -94.027963,
+    41.610711,
+    -94.027963,
+    41.610711
+],
+  "geometry": {"coordinates":[-94.027963,41.610711],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857016017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.562974,42.032605,-91.562974,42.032605",
+    "geom:latitude":42.032605,
+    "geom:longitude":-91.562974,
+    "iso:country":"US",
+    "sg:address":"625 44th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 4801",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h7TCILC5FTsS3fzVigxKy_42.032605_-91.562974@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113034,
+    "wof:geomhash":"1f18a7b73e5090881601e819249df26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857016017
+        }
+    ],
+    "wof:id":857016017,
+    "wof:lastmodified":1464113034,
+    "wof:name":"Hill & Williams Brothers Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.562974,
+    42.032605,
+    -91.562974,
+    42.032605
+],
+  "geometry": {"coordinates":[-91.562974,42.032605],"type":"Point"}
+}

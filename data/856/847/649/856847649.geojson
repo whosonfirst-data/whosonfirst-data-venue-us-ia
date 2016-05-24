@@ -1,0 +1,71 @@
+{
+  "id": 856847649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.814744,41.517301,-93.814744,41.517301",
+    "geom:latitude":41.517301,
+    "geom:longitude":-93.814744,
+    "iso:country":"US",
+    "sg:address":"6582 SW Maffit Lake Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 953 0532",
+    "sg:postcode":"50061",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086603,
+        85896529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33kh25yBJzt7qHP8EZs34j_41.517301_-93.814744@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105374,
+    "wof:geomhash":"395fbfa932ffaf4e5645ebd1d331971a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896529,
+            "region_id":85688713,
+            "venue_id":856847649
+        }
+    ],
+    "wof:id":856847649,
+    "wof:lastmodified":1464105374,
+    "wof:name":"Peterson Contractors",
+    "wof:parent_id":85896529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.814744,
+    41.517301,
+    -93.814744,
+    41.517301
+],
+  "geometry": {"coordinates":[-93.814744,41.517301],"type":"Point"}
+}

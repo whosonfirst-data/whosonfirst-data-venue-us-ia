@@ -1,0 +1,75 @@
+{
+  "id": 856883505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.387664,42.501851,-96.387664,42.501851",
+    "geom:latitude":42.501851,
+    "geom:longitude":-96.387664,
+    "iso:country":"US",
+    "sg:address":"1712 11th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 2388",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MgnCvQx8GLIsJnXKYTQsU_42.501851_-96.387664@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107400,
+    "wof:geomhash":"c994ce6d4929b9abad9a93ec06e33a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856883505
+        }
+    ],
+    "wof:id":856883505,
+    "wof:lastmodified":1464107400,
+    "wof:name":"Links Brake & Repair Service",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.387664,
+    42.501851,
+    -96.387664,
+    42.501851
+],
+  "geometry": {"coordinates":[-96.387664,42.501851],"type":"Point"}
+}

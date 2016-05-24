@@ -1,0 +1,68 @@
+{
+  "id": 857035097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.670851,41.968181,-91.670851,41.968181",
+    "geom:latitude":41.968181,
+    "geom:longitude":-91.670851,
+    "iso:country":"US",
+    "sg:address":"801 3rd St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2830",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VNZQuZB1lyeKzTP6MiLOC_41.968181_-91.670851@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113891,
+    "wof:geomhash":"02907a20644c438306e67cb342ce8f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857035097
+        }
+    ],
+    "wof:id":857035097,
+    "wof:lastmodified":1464113891,
+    "wof:name":"Freeway Lounge",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.670851,
+    41.968181,
+    -91.670851,
+    41.968181
+],
+  "geometry": {"coordinates":[-91.670851,41.968181],"type":"Point"}
+}

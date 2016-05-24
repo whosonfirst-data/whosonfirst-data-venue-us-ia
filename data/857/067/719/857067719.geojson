@@ -1,0 +1,66 @@
+{
+  "id": 857067719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654701,41.992298,-91.654701,41.992298",
+    "geom:latitude":41.992298,
+    "geom:longitude":-91.654701,
+    "iso:country":"US",
+    "sg:address":"1581 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 6937",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BJwB4SrugG1xcv0U6ycAH_41.992298_-91.654701@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115213,
+    "wof:geomhash":"0c092aff7b33da7a907925ece2c2112e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067719
+        }
+    ],
+    "wof:id":857067719,
+    "wof:lastmodified":1464115213,
+    "wof:name":"Hawkeye Convenience Store",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.654701,
+    41.992298,
+    -91.654701,
+    41.992298
+],
+  "geometry": {"coordinates":[-91.654701,41.992298],"type":"Point"}
+}

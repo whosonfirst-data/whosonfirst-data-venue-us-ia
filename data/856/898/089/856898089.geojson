@@ -1,0 +1,75 @@
+{
+  "id": 856898089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.308573,41.383707,-95.308573,41.383707",
+    "geom:latitude":41.383707,
+    "geom:longitude":-95.308573,
+    "iso:country":"US",
+    "sg:address":"25604 460th St",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 741 5513",
+    "sg:postcode":"51536",
+    "sg:province":"IA",
+    "sg:tags":[
+        "livestock",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WEUZn256hPzJdC2XV8V6r_41.383707_-95.308573@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107984,
+    "wof:geomhash":"1f9db80fa46d43771221e37cca20c87c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856898089
+        }
+    ],
+    "wof:id":856898089,
+    "wof:lastmodified":1464107984,
+    "wof:name":"Farmer",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.308573,
+    41.383707,
+    -95.308573,
+    41.383707
+],
+  "geometry": {"coordinates":[-95.308573,41.383707],"type":"Point"}
+}

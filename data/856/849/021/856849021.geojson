@@ -1,0 +1,71 @@
+{
+  "id": 856849021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.883814,41.524038,-93.883814,41.524038",
+    "geom:latitude":41.524038,
+    "geom:longitude":-93.883814,
+    "iso:country":"US",
+    "sg:address":"106 Main St",
+    "sg:city":"Booneville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 2295",
+    "sg:postcode":"50038",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086603,
+        85896529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TlXLZ8Ciq5DtZJrsY7Nlf_41.524038_-93.883814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105471,
+    "wof:geomhash":"5c0c14932eaf799cbe3336ba8b6959ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896529,
+            "region_id":85688713,
+            "venue_id":856849021
+        }
+    ],
+    "wof:id":856849021,
+    "wof:lastmodified":1464105471,
+    "wof:name":"Heartland Coop Elevator Co",
+    "wof:parent_id":85896529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -93.883814,
+    41.524038,
+    -93.883814,
+    41.524038
+],
+  "geometry": {"coordinates":[-93.883814,41.524038],"type":"Point"}
+}

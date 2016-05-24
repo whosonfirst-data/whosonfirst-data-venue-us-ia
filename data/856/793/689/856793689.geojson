@@ -1,0 +1,71 @@
+{
+  "id": 856793689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.542239,41.466769,-95.542239,41.466769",
+    "geom:latitude":41.466769,
+    "geom:longitude":-95.542239,
+    "iso:country":"US",
+    "sg:address":"317 Main St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2122",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JwtsBcGEhZWfpnhUvnvZR_41.466769_-95.542239@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102922,
+    "wof:geomhash":"8a395bcb36076c04f1c8ac16c866b788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856793689
+        }
+    ],
+    "wof:id":856793689,
+    "wof:lastmodified":1464102922,
+    "wof:name":"Minden Dental Ctr",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.542239,
+    41.466769,
+    -95.542239,
+    41.466769
+],
+  "geometry": {"coordinates":[-95.542239,41.466769],"type":"Point"}
+}

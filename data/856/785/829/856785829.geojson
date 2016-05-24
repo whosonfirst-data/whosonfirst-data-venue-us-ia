@@ -1,0 +1,73 @@
+{
+  "id": 856785829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.683472,41.879742,-93.683472,41.879742",
+    "geom:latitude":41.879742,
+    "geom:longitude":-93.683472,
+    "iso:country":"US",
+    "sg:address":"401 Story St",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 228 3241",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P1RFKGi1WEpzfC4Hr85CT_41.879742_-93.683472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102606,
+    "wof:geomhash":"4c78c3cdb2f4e581ecec9f0257ff2bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":856785829
+        }
+    ],
+    "wof:id":856785829,
+    "wof:lastmodified":1464102606,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.683472,
+    41.879742,
+    -93.683472,
+    41.879742
+],
+  "geometry": {"coordinates":[-93.68347199999999,41.879742],"type":"Point"}
+}

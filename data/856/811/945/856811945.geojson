@@ -1,0 +1,68 @@
+{
+  "id": 856811945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.720969,41.948045,-91.720969,41.948045",
+    "geom:latitude":41.948045,
+    "geom:longitude":-91.720969,
+    "iso:country":"US",
+    "sg:address":"3005 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 2002",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ktvVQ38RO9JZSYeDsIDcg_41.948045_-91.720969@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103712,
+    "wof:geomhash":"73de7293c4cd843a90d7ad82733a7d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856811945
+        }
+    ],
+    "wof:id":856811945,
+    "wof:lastmodified":1464103712,
+    "wof:name":"Fantastic Sam's",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.720969,
+    41.948045,
+    -91.720969,
+    41.948045
+],
+  "geometry": {"coordinates":[-91.720969,41.948045],"type":"Point"}
+}

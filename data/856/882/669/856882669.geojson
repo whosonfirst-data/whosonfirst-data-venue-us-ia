@@ -1,0 +1,68 @@
+{
+  "id": 856882669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682356,41.970816,-91.682356,41.970816",
+    "geom:latitude":41.970816,
+    "geom:longitude":-91.682356,
+    "iso:country":"US",
+    "sg:address":"831 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7804",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z94HkN37w8exUKnBJq8dB_41.970816_-91.682356@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107318,
+    "wof:geomhash":"5a0e201f9aa00278f6f1a09a13c967ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856882669
+        }
+    ],
+    "wof:id":856882669,
+    "wof:lastmodified":1464107318,
+    "wof:name":"Annette's 3rd Ave Barbershop",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.682356,
+    41.970816,
+    -91.682356,
+    41.970816
+],
+  "geometry": {"coordinates":[-91.682356,41.970816],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856975727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.541566,41.548367,-91.541566,41.548367",
+    "geom:latitude":41.548367,
+    "geom:longitude":-91.541566,
+    "iso:country":"US",
+    "sg:address":"5276 Oakcrest Hill Rd SE",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 679 2789",
+    "sg:postcode":"52327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lIYp4em8U7NpaMOxzbbFb_41.548367_-91.541566@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111252,
+    "wof:geomhash":"72ebf5948753197b8577611ab2fd3146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856975727
+        }
+    ],
+    "wof:id":856975727,
+    "wof:lastmodified":1464111252,
+    "wof:name":"Jack's Transmission",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.541566,
+    41.548367,
+    -91.541566,
+    41.548367
+],
+  "geometry": {"coordinates":[-91.541566,41.548367],"type":"Point"}
+}

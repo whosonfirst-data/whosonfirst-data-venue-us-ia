@@ -1,0 +1,71 @@
+{
+  "id": 856834467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.385513,41.932184,-91.385513,41.932184",
+    "geom:latitude":41.932184,
+    "geom:longitude":-91.385513,
+    "iso:country":"US",
+    "sg:address":"1005 N Washington St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 4001",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CFdWHeuaL0PgFBOxCZWE9_41.932184_-91.385513@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104727,
+    "wof:geomhash":"0dbc44c22556dc1c97e93ebc10ae5f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856834467
+        }
+    ],
+    "wof:id":856834467,
+    "wof:lastmodified":1464104727,
+    "wof:name":"Path Construction Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.385513,
+    41.932184,
+    -91.385513,
+    41.932184
+],
+  "geometry": {"coordinates":[-91.385513,41.932184],"type":"Point"}
+}

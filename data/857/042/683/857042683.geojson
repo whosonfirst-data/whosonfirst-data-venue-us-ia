@@ -1,0 +1,78 @@
+{
+  "id": 857042683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715897,41.948502,-91.715897,41.948502",
+    "geom:latitude":41.948502,
+    "geom:longitude":-91.715897,
+    "iso:country":"US",
+    "sg:address":"3030 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4418",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "convenience",
+        "oil",
+        "store"
+    ],
+    "sg:website":"www.murphyusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2miVtXu4Vx328tTpDwzsrd_41.948007_-91.716140@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114181,
+    "wof:geomhash":"9b2ea1d7c73ba0ac26d6f6271de5cc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857042683
+        }
+    ],
+    "wof:id":857042683,
+    "wof:lastmodified":1464114181,
+    "wof:name":"Murphy USA",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "oil",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.715897,
+    41.948502,
+    -91.715897,
+    41.948502
+],
+  "geometry": {"coordinates":[-91.715897,41.948502],"type":"Point"}
+}

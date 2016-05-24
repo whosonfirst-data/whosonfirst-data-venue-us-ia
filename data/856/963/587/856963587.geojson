@@ -1,0 +1,75 @@
+{
+  "id": 856963587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.818835,41.562647,-93.818835,41.562647",
+    "geom:latitude":41.562647,
+    "geom:longitude":-93.818835,
+    "iso:country":"US",
+    "sg:address":"255 S 81st St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 221 9068",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20YMfp8ty1h45URqwivvWe_41.562647_-93.818835@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110687,
+    "wof:geomhash":"9bec03279af3dbcc15acaafbefd24113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896541,
+            "region_id":85688713,
+            "venue_id":856963587
+        }
+    ],
+    "wof:id":856963587,
+    "wof:lastmodified":1464110687,
+    "wof:name":"Valley View Aquatic Ctr",
+    "wof:parent_id":85896541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -93.818835,
+    41.562647,
+    -93.818835,
+    41.562647
+],
+  "geometry": {"coordinates":[-93.81883500000001,41.562647],"type":"Point"}
+}

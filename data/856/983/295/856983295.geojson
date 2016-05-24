@@ -1,0 +1,73 @@
+{
+  "id": 856983295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899099,41.262011,-95.899099,41.262011",
+    "geom:latitude":41.262011,
+    "geom:longitude":-95.899099,
+    "iso:country":"US",
+    "sg:address":"3228 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5300",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DFAbT02g2exrmf1TSGPWs_41.262011_-95.899099@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111648,
+    "wof:geomhash":"6a2034cb5e1505d189795a519098a8ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856983295
+        }
+    ],
+    "wof:id":856983295,
+    "wof:lastmodified":1464111648,
+    "wof:name":"Ace Rent-To-Own",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -95.899099,
+    41.262011,
+    -95.899099,
+    41.262011
+],
+  "geometry": {"coordinates":[-95.89909900000001,41.262011],"type":"Point"}
+}

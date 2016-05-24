@@ -1,0 +1,73 @@
+{
+  "id": 857032675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.831624,41.579108,-93.831624,41.579108",
+    "geom:latitude":41.579108,
+    "geom:longitude":-93.831624,
+    "iso:country":"US",
+    "sg:address":"3382 Wendover Rd",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 3540",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NhpFbAhdk2eg5ayeiQ0DB_41.579108_-93.831624@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113768,
+    "wof:geomhash":"1cae669b26124418017dff28f52d186f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857032675
+        }
+    ],
+    "wof:id":857032675,
+    "wof:lastmodified":1464113768,
+    "wof:name":"Maximum Consulting Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -93.831624,
+    41.579108,
+    -93.831624,
+    41.579108
+],
+  "geometry": {"coordinates":[-93.83162400000001,41.579108],"type":"Point"}
+}

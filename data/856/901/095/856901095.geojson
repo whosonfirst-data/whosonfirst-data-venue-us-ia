@@ -1,0 +1,73 @@
+{
+  "id": 856901095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533283,41.652225,-91.533283,41.652225",
+    "geom:latitude":41.652225,
+    "geom:longitude":-91.533283,
+    "iso:country":"US",
+    "sg:address":"803 S Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 4151",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_505qLoy68Nxy9JHPdQzIOA_41.652225_-91.533283@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108093,
+    "wof:geomhash":"5f1d4048e9c4b81bb29006e45f39a50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856901095
+        }
+    ],
+    "wof:id":856901095,
+    "wof:lastmodified":1464108093,
+    "wof:name":"Hawkeye Lumber Co",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -91.533283,
+    41.652225,
+    -91.533283,
+    41.652225
+],
+  "geometry": {"coordinates":[-91.533283,41.652225],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 856914229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.66171,42.021488,-91.66171,42.021488",
+    "geom:latitude":42.021488,
+    "geom:longitude":-91.66171,
+    "iso:country":"US",
+    "sg:address":"1630 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9196",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.barrychiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FdgVnrGo1PArbUhiyk9Rq_42.021488_-91.661710@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108596,
+    "wof:geomhash":"06282ecc6de11137ddeda7b1a9309e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856914229
+        }
+    ],
+    "wof:id":856914229,
+    "wof:lastmodified":1464108596,
+    "wof:name":"Barry Chiropractic & Wellness",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.66171,
+    42.021488,
+    -91.66171,
+    42.021488
+],
+  "geometry": {"coordinates":[-91.66171,42.021488],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856836661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.703902,41.175124,-95.703902,41.175124",
+    "geom:latitude":41.175124,
+    "geom:longitude":-95.703902,
+    "iso:country":"US",
+    "sg:address":"11007 253rd St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 526 2070",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VydEW4vakyoCR4AbSgOVo_41.175124_-95.703902@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104855,
+    "wof:geomhash":"0a7e9dbf86373b02cb10d1b5274413c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856836661
+        }
+    ],
+    "wof:id":856836661,
+    "wof:lastmodified":1464104855,
+    "wof:name":"Deitchler Farms",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.703902,
+    41.175124,
+    -95.703902,
+    41.175124
+],
+  "geometry": {"coordinates":[-95.703902,41.175124],"type":"Point"}
+}

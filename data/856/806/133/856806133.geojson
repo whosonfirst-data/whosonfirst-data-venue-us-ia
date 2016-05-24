@@ -1,0 +1,71 @@
+{
+  "id": 856806133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082378,42.343448,-96.082378,42.343448",
+    "geom:latitude":42.343448,
+    "geom:longitude":-96.082378,
+    "iso:country":"US",
+    "sg:address":"121 Deer Run Trl",
+    "sg:city":"Hornick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 876 2266",
+    "sg:postcode":"51026",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mMpaYEKUBVUbfowriwEKF_42.343448_-96.082378@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103460,
+    "wof:geomhash":"c277b15c431fdd5dca2a9d379a4f339d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856806133
+        }
+    ],
+    "wof:id":856806133,
+    "wof:lastmodified":1464103460,
+    "wof:name":"Sheriff's Dept",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -96.082378,
+    42.343448,
+    -96.082378,
+    42.343448
+],
+  "geometry": {"coordinates":[-96.08237800000001,42.343448],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856917285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.882902,41.269988,-95.882902,41.269988",
+    "geom:latitude":41.269988,
+    "geom:longitude":-95.882902,
+    "iso:country":"US",
+    "sg:address":"2542 Ave I",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5429",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WKoGKWnXutou1bjvKPppA_41.269988_-95.882902@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108701,
+    "wof:geomhash":"4830191482b1bb266481b5f6ac26c383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856917285
+        }
+    ],
+    "wof:id":856917285,
+    "wof:lastmodified":1464108701,
+    "wof:name":"Cody Electric",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.882902,
+    41.269988,
+    -95.882902,
+    41.269988
+],
+  "geometry": {"coordinates":[-95.882902,41.269988],"type":"Point"}
+}

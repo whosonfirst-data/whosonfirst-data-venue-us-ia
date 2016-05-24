@@ -1,0 +1,73 @@
+{
+  "id": 856814123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.76064,41.617232,-93.76064,41.617232",
+    "geom:latitude":41.617232,
+    "geom:longitude":-93.76064,
+    "iso:country":"US",
+    "sg:address":"2540 104th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 1943",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SKbIb6sOyxYELRkzjFvay_41.617232_-93.760640@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103793,
+    "wof:geomhash":"985822566cd17b80e7a7b18221a8a977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896519,
+            "region_id":85688713,
+            "venue_id":856814123
+        }
+    ],
+    "wof:id":856814123,
+    "wof:lastmodified":1464103793,
+    "wof:name":"Iowa Paint Mfg Co",
+    "wof:parent_id":85896519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -93.76064,
+    41.617232,
+    -93.76064,
+    41.617232
+],
+  "geometry": {"coordinates":[-93.76064,41.617232],"type":"Point"}
+}

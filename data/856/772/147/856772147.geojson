@@ -1,0 +1,73 @@
+{
+  "id": 856772147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.442719,42.499944,-96.442719,42.499944",
+    "geom:latitude":42.499944,
+    "geom:longitude":-96.442719,
+    "iso:country":"US",
+    "sg:address":"2521 W 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1871",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QNTfm4flzULdHOprWJx0H_42.499944_-96.442719@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102257,
+    "wof:geomhash":"31d012375a79bce8408693992c680012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856772147
+        }
+    ],
+    "wof:id":856772147,
+    "wof:lastmodified":1464102257,
+    "wof:name":"Westlawn Presbyterian Church",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.442719,
+    42.499944,
+    -96.442719,
+    42.499944
+],
+  "geometry": {"coordinates":[-96.442719,42.499944],"type":"Point"}
+}

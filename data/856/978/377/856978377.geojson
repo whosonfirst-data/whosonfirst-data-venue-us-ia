@@ -1,0 +1,68 @@
+{
+  "id": 856978377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.565606,41.672734,-91.565606,41.672734",
+    "geom:latitude":41.672734,
+    "geom:longitude":-91.565606,
+    "iso:country":"US",
+    "sg:address":"470 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 1406",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nbgJjaD9S9mcbTYuluzPU_41.672734_-91.565606@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111391,
+    "wof:geomhash":"1480757f47b5f5cf77c76170be4b8032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856978377
+        }
+    ],
+    "wof:id":856978377,
+    "wof:lastmodified":1464111391,
+    "wof:name":"Sueppel's Flowers Inc",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.565606,
+    41.672734,
+    -91.565606,
+    41.672734
+],
+  "geometry": {"coordinates":[-91.565606,41.672734],"type":"Point"}
+}

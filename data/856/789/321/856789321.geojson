@@ -1,0 +1,72 @@
+{
+  "id": 856789321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638739,42.044199,-91.638739,42.044199",
+    "geom:latitude":42.044199,
+    "geom:longitude":-91.638739,
+    "iso:country":"US",
+    "sg:address":"6621 C Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 2438",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.kingofkingscr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EPb7IJIAV1kWlS7OhwVqq_42.044199_-91.638739@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102754,
+    "wof:geomhash":"3d3c7780736476cbd0c831ac4a92a5a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856789321
+        }
+    ],
+    "wof:id":856789321,
+    "wof:lastmodified":1464102754,
+    "wof:name":"King Of Kings Lutheran Church",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.638739,
+    42.044199,
+    -91.638739,
+    42.044199
+],
+  "geometry": {"coordinates":[-91.638739,42.044199],"type":"Point"}
+}

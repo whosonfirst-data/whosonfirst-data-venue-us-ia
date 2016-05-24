@@ -1,0 +1,74 @@
+{
+  "id": 856848395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652916,41.890424,-91.652916,41.890424",
+    "geom:latitude":41.890424,
+    "geom:longitude":-91.652916,
+    "iso:country":"US",
+    "sg:address":"855 Wright Brothers Blvd E SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 7099",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "sg:website":"www.propoint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85868925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H1MBo32oT2GWTqcfOdgmF_41.890424_-91.652916@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105417,
+    "wof:geomhash":"4cd2071e73977941f46209963d21f249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85868925,
+            "region_id":85688713,
+            "venue_id":856848395
+        }
+    ],
+    "wof:id":856848395,
+    "wof:lastmodified":1464105417,
+    "wof:name":"Productivity Point Intl",
+    "wof:parent_id":85868925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -91.652916,
+    41.890424,
+    -91.652916,
+    41.890424
+],
+  "geometry": {"coordinates":[-91.652916,41.890424],"type":"Point"}
+}

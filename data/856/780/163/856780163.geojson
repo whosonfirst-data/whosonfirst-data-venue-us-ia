@@ -1,0 +1,73 @@
+{
+  "id": 856780163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618751,41.97675,-91.618751,41.97675",
+    "geom:latitude":41.97675,
+    "geom:longitude":-91.618751,
+    "iso:country":"US",
+    "sg:address":"3349 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1790",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cnTXkVBtWo9aHkjFrajf3_41.976750_-91.618751@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102445,
+    "wof:geomhash":"ea3263e1e4206ab11e743e0555f3d5c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856780163
+        }
+    ],
+    "wof:id":856780163,
+    "wof:lastmodified":1464102445,
+    "wof:name":"Handi Mart Car Washes",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.618751,
+    41.97675,
+    -91.618751,
+    41.97675
+],
+  "geometry": {"coordinates":[-91.618751,41.97675],"type":"Point"}
+}

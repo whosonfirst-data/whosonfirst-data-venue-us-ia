@@ -1,0 +1,67 @@
+{
+  "id": 857067661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.639198,42.018501,-91.639198,42.018501",
+    "geom:latitude":42.018501,
+    "geom:longitude":-91.639198,
+    "iso:country":"US",
+    "sg:address":"3801 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1200",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.ljsilvers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXwAoi5L8ApYM08L2CchM_42.018501_-91.639198@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115210,
+    "wof:geomhash":"b8cef04c51de94d1481213ced39830cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067661
+        }
+    ],
+    "wof:id":857067661,
+    "wof:lastmodified":1464115210,
+    "wof:name":"Long John Silver's Seafood Shoppe",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.639198,
+    42.018501,
+    -91.639198,
+    42.018501
+],
+  "geometry": {"coordinates":[-91.63919799999999,42.018501],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856980615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.81694,41.295262,-95.81694,41.295262",
+    "geom:latitude":41.295262,
+    "geom:longitude":-95.81694,
+    "iso:country":"US",
+    "sg:address":"19610 Birdsley Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2364",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZHuUzAYq5AFMZm6yqouP1_41.295262_-95.816940@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111487,
+    "wof:geomhash":"4f9516f25aaba12b6b8d87ece617b937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856980615
+        }
+    ],
+    "wof:id":856980615,
+    "wof:lastmodified":1464111487,
+    "wof:name":"Parrott Central Control Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.81694,
+    41.295262,
+    -95.81694,
+    41.295262
+],
+  "geometry": {"coordinates":[-95.81694,41.295262],"type":"Point"}
+}

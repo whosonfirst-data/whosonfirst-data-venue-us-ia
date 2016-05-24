@@ -1,0 +1,76 @@
+{
+  "id": 857068109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666298,42.023499,-91.666298,42.023499",
+    "geom:latitude":42.023499,
+    "geom:longitude":-91.666298,
+    "iso:country":"US",
+    "sg:address":"4425 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5700",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a4ulqMo3Hs9SQ6x65cFS3_42.023499_-91.666298@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115244,
+    "wof:geomhash":"99dfeadc9a9557814b12dc285920b154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068109
+        }
+    ],
+    "wof:id":857068109,
+    "wof:lastmodified":1464115244,
+    "wof:name":"Honda by Randy Kuehl Honda Cars",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -91.666298,
+    42.023499,
+    -91.666298,
+    42.023499
+],
+  "geometry": {"coordinates":[-91.666298,42.023499],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856971591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67807,41.966514,-91.67807,41.966514",
+    "geom:latitude":41.966514,
+    "geom:longitude":-91.67807,
+    "iso:country":"US",
+    "sg:address":"701 10th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7804",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bb58087Tjp1x4xDmQymFx_41.966514_-91.678070@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111046,
+    "wof:geomhash":"a4cfd93303ff66befaca2dd65ff16bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856971591
+        }
+    ],
+    "wof:id":856971591,
+    "wof:lastmodified":1464111046,
+    "wof:name":"Schultz Marine Inc",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -91.67807,
+    41.966514,
+    -91.67807,
+    41.966514
+],
+  "geometry": {"coordinates":[-91.67807000000001,41.966514],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856989939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.616543,41.646865,-93.616543,41.646865",
+    "geom:latitude":41.646865,
+    "geom:longitude":-93.616543,
+    "iso:country":"US",
+    "sg:address":"225 NE 47th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 1603",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l2anhT1iNU51vhe1hdlDh_41.646865_-93.616543@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111966,
+    "wof:geomhash":"9fc462e360ed928db70aa70925b04db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856989939
+        }
+    ],
+    "wof:id":856989939,
+    "wof:lastmodified":1464111966,
+    "wof:name":"Precision Body & Metal Shaping",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.616543,
+    41.646865,
+    -93.616543,
+    41.646865
+],
+  "geometry": {"coordinates":[-93.61654299999999,41.646865],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856959547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615321,42.031792,-91.615321,42.031792",
+    "geom:latitude":42.031792,
+    "geom:longitude":-91.615321,
+    "iso:country":"US",
+    "sg:address":"1065 Lyons Ln",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 5112",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66uSd99rdG9fl6ENI89qMg_42.031792_-91.615321@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110525,
+    "wof:geomhash":"5498e0a8b5c4faa0a0904a32b31f2adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856959547
+        }
+    ],
+    "wof:id":856959547,
+    "wof:lastmodified":1464110525,
+    "wof:name":"CSS",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.615321,
+    42.031792,
+    -91.615321,
+    42.031792
+],
+  "geometry": {"coordinates":[-91.61532099999999,42.031792],"type":"Point"}
+}

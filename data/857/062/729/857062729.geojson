@@ -1,0 +1,81 @@
+{
+  "id": 857062729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8507,41.226501,-95.8507,41.226501",
+    "geom:latitude":41.226501,
+    "geom:longitude":-95.8507,
+    "iso:country":"US",
+    "sg:address":"3401 S Expressway St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6414",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "car"
+    ],
+    "sg:website":"www.fordvehicles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lwtiusiLUFqtlpZyGUoln_41.226501_-95.850700@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115012,
+    "wof:geomhash":"fc5d33ab0bda9f1a60dceb91261ba19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062729
+        }
+    ],
+    "wof:id":857062729,
+    "wof:lastmodified":1464115012,
+    "wof:name":"McMullen Ford Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "car"
+    ]
+},
+  "bbox": [
+    -95.8507,
+    41.226501,
+    -95.8507,
+    41.226501
+],
+  "geometry": {"coordinates":[-95.8507,41.226501],"type":"Point"}
+}

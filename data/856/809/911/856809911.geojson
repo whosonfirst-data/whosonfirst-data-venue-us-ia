@@ -1,0 +1,73 @@
+{
+  "id": 856809911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.820386,41.759389,-93.820386,41.759389",
+    "geom:latitude":41.759389,
+    "geom:longitude":-93.820386,
+    "iso:country":"US",
+    "sg:address":"1814 Main St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2896",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DPtlEyz8e02hwgk56okFN_41.759389_-93.820386@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103635,
+    "wof:geomhash":"fdc933ebed734807918fb25426000673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856809911
+        }
+    ],
+    "wof:id":856809911,
+    "wof:lastmodified":1464103635,
+    "wof:name":"Leafguard Of Central Iowa",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -93.820386,
+    41.759389,
+    -93.820386,
+    41.759389
+],
+  "geometry": {"coordinates":[-93.820386,41.759389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856825973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530693,41.981037,-91.530693,41.981037",
+    "geom:latitude":41.981037,
+    "geom:longitude":-91.530693,
+    "iso:country":"US",
+    "sg:address":"1689 Bliss Rd",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 4497",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o1oelHgPXv04euHc9Rz2L_41.981037_-91.530693@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104346,
+    "wof:geomhash":"fa02eb38e5809af561868408d9cc175d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856825973
+        }
+    ],
+    "wof:id":856825973,
+    "wof:lastmodified":1464104346,
+    "wof:name":"Nemecek Electric",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.530693,
+    41.981037,
+    -91.530693,
+    41.981037
+],
+  "geometry": {"coordinates":[-91.530693,41.981037],"type":"Point"}
+}

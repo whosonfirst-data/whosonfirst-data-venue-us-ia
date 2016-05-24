@@ -1,0 +1,71 @@
+{
+  "id": 856845931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.606025,41.983102,-91.606025,41.983102",
+    "geom:latitude":41.983102,
+    "geom:longitude":-91.606025,
+    "iso:country":"US",
+    "sg:address":"416 Hobbit Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 6223",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fEHwtGfmoahrjw95M5qs3_41.983102_-91.606025@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105281,
+    "wof:geomhash":"669b810a8e2afa0be85426028cfebd38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856845931
+        }
+    ],
+    "wof:id":856845931,
+    "wof:lastmodified":1464105281,
+    "wof:name":"Hobbit Drive Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.606025,
+    41.983102,
+    -91.606025,
+    41.983102
+],
+  "geometry": {"coordinates":[-91.606025,41.983102],"type":"Point"}
+}

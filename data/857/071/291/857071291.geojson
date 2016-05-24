@@ -1,0 +1,68 @@
+{
+  "id": 857071291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678802,41.979099,-91.678802,41.979099",
+    "geom:latitude":41.979099,
+    "geom:longitude":-91.678802,
+    "iso:country":"US",
+    "sg:address":"400 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 0806",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7POLyWwTgmUOewCPBra2Rh_41.979099_-91.678802@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115385,
+    "wof:geomhash":"15704e366b5d9e6f7926619a17fc0c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071291
+        }
+    ],
+    "wof:id":857071291,
+    "wof:lastmodified":1464115385,
+    "wof:name":"Rumors",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.678802,
+    41.979099,
+    -91.678802,
+    41.979099
+],
+  "geometry": {"coordinates":[-91.678802,41.979099],"type":"Point"}
+}

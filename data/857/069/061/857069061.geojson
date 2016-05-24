@@ -1,0 +1,66 @@
+{
+  "id": 857069061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.641309,42.034927,-91.641309,42.034927",
+    "geom:latitude":42.034927,
+    "geom:longitude":-91.641309,
+    "iso:country":"US",
+    "sg:address":"600 Blairs Ferry Rd NE Ste B",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 4488",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MvEkrMQsjGUPu5APaNS6O_42.034927_-91.641309@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115290,
+    "wof:geomhash":"c1d78c77a91a5da4aee6a966c3f50729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069061
+        }
+    ],
+    "wof:id":857069061,
+    "wof:lastmodified":1464115290,
+    "wof:name":"Premier Wireless",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.641309,
+    42.034927,
+    -91.641309,
+    42.034927
+],
+  "geometry": {"coordinates":[-91.64130900000001,42.034927],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857060143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558381,41.363414,-93.558381,41.363414",
+    "geom:latitude":41.363414,
+    "geom:longitude":-93.558381,
+    "iso:country":"US",
+    "sg:address":"404 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/66996-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8401",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I7coHX3xla18P1lMTJpdE_41.363399_-93.558263@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114899,
+    "wof:geomhash":"843de7a105b24daaa546005b97603852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857060143
+        }
+    ],
+    "wof:id":857060143,
+    "wof:lastmodified":1464114899,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.558381,
+    41.363414,
+    -93.558381,
+    41.363414
+],
+  "geometry": {"coordinates":[-93.558381,41.363414],"type":"Point"}
+}

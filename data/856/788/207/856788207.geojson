@@ -1,0 +1,71 @@
+{
+  "id": 856788207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.615256,41.503231,-93.615256,41.503231",
+    "geom:latitude":41.503231,
+    "geom:longitude":-93.615256,
+    "iso:country":"US",
+    "sg:address":"8504 Crestview Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 953 1237",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VzAuSzMMTaTvCC33vBZ89_41.503231_-93.615256@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102715,
+    "wof:geomhash":"052e551bfff6166450e816b049698b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856788207
+        }
+    ],
+    "wof:id":856788207,
+    "wof:lastmodified":1464102715,
+    "wof:name":"Roberts Construction",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.615256,
+    41.503231,
+    -93.615256,
+    41.503231
+],
+  "geometry": {"coordinates":[-93.615256,41.503231],"type":"Point"}
+}

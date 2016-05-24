@@ -1,0 +1,71 @@
+{
+  "id": 857061291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.4869,41.498501,-93.4869,41.498501",
+    "geom:latitude":41.498501,
+    "geom:longitude":-93.4869,
+    "iso:country":"US",
+    "sg:address":"125 School St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3221",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AIXK0LpMnPbVqQawBDQ8n_41.498501_-93.486900@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114955,
+    "wof:geomhash":"d16df02b55499ff349400e69e7617a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061291
+        }
+    ],
+    "wof:id":857061291,
+    "wof:lastmodified":1464114955,
+    "wof:name":"Robinson Linda DO",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -93.4869,
+    41.498501,
+    -93.4869,
+    41.498501
+],
+  "geometry": {"coordinates":[-93.48690000000001,41.498501],"type":"Point"}
+}

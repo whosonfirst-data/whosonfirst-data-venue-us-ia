@@ -1,0 +1,72 @@
+{
+  "id": 856833153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598365,42.043089,-91.598365,42.043089",
+    "geom:latitude":42.043089,
+    "geom:longitude":-91.598365,
+    "iso:country":"US",
+    "sg:address":"1050 McGowan Blvd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7329",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.marionchristian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G2W6d8vZLspXIRQSv6Oc7_42.043089_-91.598365@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104665,
+    "wof:geomhash":"f95a2e80a42b7963dcfa2320ddbf19d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856833153
+        }
+    ],
+    "wof:id":856833153,
+    "wof:lastmodified":1464104665,
+    "wof:name":"Marion Christian Church",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.598365,
+    42.043089,
+    -91.598365,
+    42.043089
+],
+  "geometry": {"coordinates":[-91.598365,42.043089],"type":"Point"}
+}

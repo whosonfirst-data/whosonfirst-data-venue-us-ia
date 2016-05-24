@@ -1,0 +1,73 @@
+{
+  "id": 856957591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.626884,41.967216,-91.626884,41.967216",
+    "geom:latitude":41.967216,
+    "geom:longitude":-91.626884,
+    "iso:country":"US",
+    "sg:address":"2712 Forest Ridge Ct SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8955",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30IULzNfZ3zUwtngZDou1f_41.967216_-91.626884@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110446,
+    "wof:geomhash":"4f364f18efb495817295d00e036307e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856957591
+        }
+    ],
+    "wof:id":856957591,
+    "wof:lastmodified":1464110446,
+    "wof:name":"Tom Takes Construction Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.626884,
+    41.967216,
+    -91.626884,
+    41.967216
+],
+  "geometry": {"coordinates":[-91.626884,41.967216],"type":"Point"}
+}

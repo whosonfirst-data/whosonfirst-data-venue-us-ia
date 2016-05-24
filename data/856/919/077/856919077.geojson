@@ -1,0 +1,71 @@
+{
+  "id": 856919077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.579173,42.034588,-91.579173,42.034588",
+    "geom:latitude":42.034588,
+    "geom:longitude":-91.579173,
+    "iso:country":"US",
+    "sg:address":"955 31st St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 4867",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TdUgUuiY68wGSqnFnHRJS_42.034588_-91.579173@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108778,
+    "wof:geomhash":"2a10accdd6d2425c7cdd8ac39409c93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856919077
+        }
+    ],
+    "wof:id":856919077,
+    "wof:lastmodified":1464108778,
+    "wof:name":"Marion Dental",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.579173,
+    42.034588,
+    -91.579173,
+    42.034588
+],
+  "geometry": {"coordinates":[-91.579173,42.034588],"type":"Point"}
+}

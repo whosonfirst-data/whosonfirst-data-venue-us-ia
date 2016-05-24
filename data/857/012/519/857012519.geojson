@@ -1,0 +1,71 @@
+{
+  "id": 857012519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599858,42.033363,-91.599858,42.033363",
+    "geom:latitude":42.033363,
+    "geom:longitude":-91.599858,
+    "iso:country":"US",
+    "sg:address":"960 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 8806",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MjZIFb4oA1psWcBib4OS8_42.033363_-91.599858@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112886,
+    "wof:geomhash":"6278b4a42cdd2366073c864a56b5eade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857012519
+        }
+    ],
+    "wof:id":857012519,
+    "wof:lastmodified":1464112886,
+    "wof:name":"Van's Nails",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -91.599858,
+    42.033363,
+    -91.599858,
+    42.033363
+],
+  "geometry": {"coordinates":[-91.599858,42.033363],"type":"Point"}
+}

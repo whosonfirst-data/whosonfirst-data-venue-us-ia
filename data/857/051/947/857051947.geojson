@@ -1,0 +1,71 @@
+{
+  "id": 857051947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653603,42.024601,-91.653603,42.024601",
+    "geom:latitude":42.024601,
+    "geom:longitude":-91.653603,
+    "iso:country":"US",
+    "sg:address":"4801 Golf St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2263",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZeUF0NL5pLXcTiRtG2ZUW_42.024432_-91.653245@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114578,
+    "wof:geomhash":"8f6c61216cbe514a2b3a938e67ad6e9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857051947
+        }
+    ],
+    "wof:id":857051947,
+    "wof:lastmodified":1464114578,
+    "wof:name":"Harding Middle School",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.653603,
+    42.024601,
+    -91.653603,
+    42.024601
+],
+  "geometry": {"coordinates":[-91.653603,42.024601],"type":"Point"}
+}

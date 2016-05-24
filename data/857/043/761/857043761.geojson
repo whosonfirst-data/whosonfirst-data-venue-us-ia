@@ -1,0 +1,75 @@
+{
+  "id": 857043761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.708801,41.9744,-91.708801,41.9744",
+    "geom:latitude":41.9744,
+    "geom:longitude":-91.708801,
+    "iso:country":"US",
+    "sg:address":"2725 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 261 0536",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xtVLq2QcDpt9QUaP0kRyL_41.974533_-91.708717@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114225,
+    "wof:geomhash":"d475f7aebc9bb1e645b214b052d65a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857043761
+        }
+    ],
+    "wof:id":857043761,
+    "wof:lastmodified":1464114225,
+    "wof:name":"Jones Automotive",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "towing"
+    ]
+},
+  "bbox": [
+    -91.708801,
+    41.9744,
+    -91.708801,
+    41.9744
+],
+  "geometry": {"coordinates":[-91.70880099999999,41.9744],"type":"Point"}
+}

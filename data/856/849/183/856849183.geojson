@@ -1,0 +1,73 @@
+{
+  "id": 856849183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.220115,42.233857,-96.220115,42.233857",
+    "geom:latitude":42.233857,
+    "geom:longitude":-96.220115,
+    "iso:country":"US",
+    "sg:address":"901 5th St",
+    "sg:city":"Sloan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 428 6272",
+    "sg:postcode":"51055",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_715LrmtASkN7Z6dGTvPrkg_42.233857_-96.220115@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105485,
+    "wof:geomhash":"bcc65baa01c8b49f817cda562be440d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856849183
+        }
+    ],
+    "wof:id":856849183,
+    "wof:lastmodified":1464105485,
+    "wof:name":"Brenden Plumbing Heating & AC",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.220115,
+    42.233857,
+    -96.220115,
+    42.233857
+],
+  "geometry": {"coordinates":[-96.22011500000001,42.233857],"type":"Point"}
+}

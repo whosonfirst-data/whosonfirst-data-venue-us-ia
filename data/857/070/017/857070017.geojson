@@ -1,0 +1,67 @@
+{
+  "id": 857070017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7164,41.958,-91.7164,41.958",
+    "geom:latitude":41.958,
+    "geom:longitude":-91.7164,
+    "iso:country":"US",
+    "sg:address":"3610 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 654 9595",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.hillsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ocojTr1h0au0JYIf80EHM_41.958000_-91.716400@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115332,
+    "wof:geomhash":"5038db40ea7b0ddb2a47edea9e847f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070017
+        }
+    ],
+    "wof:id":857070017,
+    "wof:lastmodified":1464115332,
+    "wof:name":"Hills Bank and Trust Company",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7164,
+    41.958,
+    -91.7164,
+    41.958
+],
+  "geometry": {"coordinates":[-91.71639999999999,41.958],"type":"Point"}
+}

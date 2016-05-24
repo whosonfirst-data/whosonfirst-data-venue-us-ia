@@ -1,0 +1,80 @@
+{
+  "id": 857062937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8793,41.236024,-95.8793,41.236024",
+    "geom:latitude":41.236024,
+    "geom:longitude":-95.8793,
+    "iso:country":"US",
+    "sg:address":"2608 S 24th St Rear",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0461",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fOxbLarRyc2dIneo8Mj6P_41.236024_-95.879300@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115020,
+    "wof:geomhash":"eb6543610d9a3007c225b2c2da1cfce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062937
+        }
+    ],
+    "wof:id":857062937,
+    "wof:lastmodified":1464115020,
+    "wof:name":"Burger King",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -95.8793,
+    41.236024,
+    -95.8793,
+    41.236024
+],
+  "geometry": {"coordinates":[-95.8793,41.236024],"type":"Point"}
+}

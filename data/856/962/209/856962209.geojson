@@ -1,0 +1,66 @@
+{
+  "id": 856962209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773797,41.899985,-91.773797,41.899985",
+    "geom:latitude":41.899985,
+    "geom:longitude":-91.773797,
+    "iso:country":"US",
+    "sg:address":"8222 Lefebure Rd SW",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2873",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GRDJfB1USzsQrjQ4BSiNH_41.899985_-91.773797@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110640,
+    "wof:geomhash":"f43a7b5b3383b2b5d677bcbf5938b985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856962209
+        }
+    ],
+    "wof:id":856962209,
+    "wof:lastmodified":1464110640,
+    "wof:name":"Lefebure Farms Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.773797,
+    41.899985,
+    -91.773797,
+    41.899985
+],
+  "geometry": {"coordinates":[-91.773797,41.899985],"type":"Point"}
+}

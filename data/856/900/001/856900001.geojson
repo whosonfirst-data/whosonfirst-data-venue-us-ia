@@ -1,0 +1,75 @@
+{
+  "id": 856900001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.66587,41.977847,-91.66587,41.977847",
+    "geom:latitude":41.977847,
+    "geom:longitude":-91.66587,
+    "iso:country":"US",
+    "sg:address":"216 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 297 7473",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73q4FuoOijPlnvNiiNu2bD_41.977847_-91.665870@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108051,
+    "wof:geomhash":"7c49ef5e1dde133ec850ff2f652f3aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856900001
+        }
+    ],
+    "wof:id":856900001,
+    "wof:lastmodified":1464108051,
+    "wof:name":"Unishippers Association",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -91.66587,
+    41.977847,
+    -91.66587,
+    41.977847
+],
+  "geometry": {"coordinates":[-91.66587,41.977847],"type":"Point"}
+}

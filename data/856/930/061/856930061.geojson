@@ -1,0 +1,75 @@
+{
+  "id": 856930061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.516461,41.652235,-91.516461,41.652235",
+    "geom:latitude":41.652235,
+    "geom:longitude":-91.516461,
+    "iso:country":"US",
+    "sg:address":"1227 Sheridan Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 321 9351",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RFUHvwbBFRDwoAB7crSse_41.652235_-91.516461@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109248,
+    "wof:geomhash":"0b88852b6fd506af8f8d43b250a26e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896467,
+            "region_id":85688713,
+            "venue_id":856930061
+        }
+    ],
+    "wof:id":856930061,
+    "wof:lastmodified":1464109248,
+    "wof:name":"DPB Driving School Inc",
+    "wof:parent_id":85896467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -91.516461,
+    41.652235,
+    -91.516461,
+    41.652235
+],
+  "geometry": {"coordinates":[-91.51646100000001,41.652235],"type":"Point"}
+}

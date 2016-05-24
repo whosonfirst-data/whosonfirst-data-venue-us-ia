@@ -1,0 +1,75 @@
+{
+  "id": 856921101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.737625,41.610836,-93.737625,41.610836",
+    "geom:latitude":41.610836,
+    "geom:longitude":-93.737625,
+    "iso:country":"US",
+    "sg:address":"8861 Primrose Ln",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 331 3344",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uMndbkvyt3dZR9NWud9nb_41.610836_-93.737625@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108868,
+    "wof:geomhash":"0af943a37c2ffc2262b71493d7bb37d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896357,
+            "region_id":85688713,
+            "venue_id":856921101
+        }
+    ],
+    "wof:id":856921101,
+    "wof:lastmodified":1464108868,
+    "wof:name":"Precision Plumbing Inc",
+    "wof:parent_id":85896357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.737625,
+    41.610836,
+    -93.737625,
+    41.610836
+],
+  "geometry": {"coordinates":[-93.73762499999999,41.610836],"type":"Point"}
+}

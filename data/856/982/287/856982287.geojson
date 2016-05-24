@@ -1,0 +1,74 @@
+{
+  "id": 856982287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652686,41.937704,-91.652686,41.937704",
+    "geom:latitude":41.937704,
+    "geom:longitude":-91.652686,
+    "iso:country":"US",
+    "sg:address":"500 41st Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 0950",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "waste",
+        "removal"
+    ],
+    "sg:website":"www.healthenterprises.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DBgVY9KiZNEb5ULQFQxOb_41.937704_-91.652686@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111572,
+    "wof:geomhash":"c5fa1c97629402f78a950fa706e77fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856982287
+        }
+    ],
+    "wof:id":856982287,
+    "wof:lastmodified":1464111572,
+    "wof:name":"Iowa Medical Waste Reduction",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "removal"
+    ]
+},
+  "bbox": [
+    -91.652686,
+    41.937704,
+    -91.652686,
+    41.937704
+],
+  "geometry": {"coordinates":[-91.652686,41.937704],"type":"Point"}
+}

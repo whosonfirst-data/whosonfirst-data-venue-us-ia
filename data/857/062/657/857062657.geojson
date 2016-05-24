@@ -1,0 +1,66 @@
+{
+  "id": 857062657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.883698,41.262798,-95.883698,41.262798",
+    "geom:latitude":41.262798,
+    "geom:longitude":-95.883698,
+    "iso:country":"US",
+    "sg:address":"2559 Avenue A",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3939",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tDS6vLNfmxrIHBjNdEKMc_41.262798_-95.883698@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115010,
+    "wof:geomhash":"569a90dc10cb992819fcb610f35204d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062657
+        }
+    ],
+    "wof:id":857062657,
+    "wof:lastmodified":1464115010,
+    "wof:name":"Rafael's Garage",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.883698,
+    41.262798,
+    -95.883698,
+    41.262798
+],
+  "geometry": {"coordinates":[-95.883698,41.262798],"type":"Point"}
+}

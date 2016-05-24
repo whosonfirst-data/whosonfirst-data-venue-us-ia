@@ -1,0 +1,71 @@
+{
+  "id": 856911575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.643589,41.992933,-91.643589,41.992933",
+    "geom:latitude":41.992933,
+    "geom:longitude":-91.643589,
+    "iso:country":"US",
+    "sg:address":"1921 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 6393",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fZesfcI368mcZw7Ei9cZK_41.992933_-91.643589@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108483,
+    "wof:geomhash":"5d7395e4210c71ce3242d336c99b2392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856911575
+        }
+    ],
+    "wof:id":856911575,
+    "wof:lastmodified":1464108483,
+    "wof:name":"Baha'i Faith",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.643589,
+    41.992933,
+    -91.643589,
+    41.992933
+],
+  "geometry": {"coordinates":[-91.64358900000001,41.992933],"type":"Point"}
+}

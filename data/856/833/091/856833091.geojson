@@ -1,0 +1,66 @@
+{
+  "id": 856833091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.786102,42.191376,-91.786102,42.191376",
+    "geom:latitude":42.191376,
+    "geom:longitude":-91.786102,
+    "iso:country":"US",
+    "sg:address":"809 Main St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 3956",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34orY3cBA0RZyS7iwyESwl_42.191376_-91.786102@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104663,
+    "wof:geomhash":"0a73d7b66774f7aee6ee35ce98b94794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856833091
+        }
+    ],
+    "wof:id":856833091,
+    "wof:lastmodified":1464104663,
+    "wof:name":"Center Point Floral",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.786102,
+    42.191376,
+    -91.786102,
+    42.191376
+],
+  "geometry": {"coordinates":[-91.786102,42.191376],"type":"Point"}
+}

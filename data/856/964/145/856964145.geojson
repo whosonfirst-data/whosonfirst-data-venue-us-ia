@@ -1,0 +1,71 @@
+{
+  "id": 856964145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.741622,41.938388,-91.741622,41.938388",
+    "geom:latitude":41.938388,
+    "geom:longitude":-91.741622,
+    "iso:country":"US",
+    "sg:address":"5540 Beverly Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5855",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JqaW4nwiHJnJ7wS6ElblZ_41.938388_-91.741622@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110712,
+    "wof:geomhash":"198c7ca89a7af9301963840934fdf3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856964145
+        }
+    ],
+    "wof:id":856964145,
+    "wof:lastmodified":1464110712,
+    "wof:name":"Day Appraisal Svc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -91.741622,
+    41.938388,
+    -91.741622,
+    41.938388
+],
+  "geometry": {"coordinates":[-91.74162200000001,41.938388],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857066131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663597,41.978901,-91.663597,41.978901",
+    "geom:latitude":41.978901,
+    "geom:longitude":-91.663597,
+    "iso:country":"US",
+    "sg:address":"500 3rd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 8333",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78cVZUuTDGV8Kkx7eyZ2kb_41.978901_-91.663597@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115140,
+    "wof:geomhash":"751d702153c422626f44b29bceddb0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066131
+        }
+    ],
+    "wof:id":857066131,
+    "wof:lastmodified":1464115140,
+    "wof:name":"Gazette the",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -91.663597,
+    41.978901,
+    -91.663597,
+    41.978901
+],
+  "geometry": {"coordinates":[-91.663597,41.978901],"type":"Point"}
+}

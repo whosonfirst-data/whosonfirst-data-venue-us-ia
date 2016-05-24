@@ -1,0 +1,71 @@
+{
+  "id": 857039545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.855797,41.246498,-95.855797,41.246498",
+    "geom:latitude":41.246498,
+    "geom:longitude":-95.855797,
+    "iso:country":"US",
+    "sg:address":"723 16th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0074",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HeCvMXF76TWfsPLmfplsa_41.246565_-95.855907@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114064,
+    "wof:geomhash":"d57ec0b948b401d1f9b2d13f81ce5483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857039545
+        }
+    ],
+    "wof:id":857039545,
+    "wof:lastmodified":1464114064,
+    "wof:name":"C T Hansen & Sons",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.855797,
+    41.246498,
+    -95.855797,
+    41.246498
+],
+  "geometry": {"coordinates":[-95.855797,41.246498],"type":"Point"}
+}

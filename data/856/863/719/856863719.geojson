@@ -1,0 +1,68 @@
+{
+  "id": 856863719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.733998,41.655694,-93.733998,41.655694",
+    "geom:latitude":41.655694,
+    "geom:longitude":-93.733998,
+    "iso:country":"US",
+    "sg:address":"5233 NW 84th St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 331 0500",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42co7aCLrK5BGtDGnq1NqT_41.655694_-93.733998@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106145,
+    "wof:geomhash":"1f087db2d055168bde66cb738de5283f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896489,
+            "region_id":85688713,
+            "venue_id":856863719
+        }
+    ],
+    "wof:id":856863719,
+    "wof:lastmodified":1464106145,
+    "wof:name":"Wynnsong 16",
+    "wof:parent_id":85896489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.733998,
+    41.655694,
+    -93.733998,
+    41.655694
+],
+  "geometry": {"coordinates":[-93.733998,41.655694],"type":"Point"}
+}

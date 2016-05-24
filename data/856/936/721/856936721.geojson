@@ -1,0 +1,71 @@
+{
+  "id": 856936721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.777712,41.956755,-91.777712,41.956755",
+    "geom:latitude":41.956755,
+    "geom:longitude":-91.777712,
+    "iso:country":"US",
+    "sg:address":"8303 Angle Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 360 1528",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lx8RK5PcrXCwS1qADmRRo_41.956755_-91.777712@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109503,
+    "wof:geomhash":"de6082bf3950daceb15316bba2c253c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856936721
+        }
+    ],
+    "wof:id":856936721,
+    "wof:lastmodified":1464109503,
+    "wof:name":"Cerka Truck Sales",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.777712,
+    41.956755,
+    -91.777712,
+    41.956755
+],
+  "geometry": {"coordinates":[-91.77771199999999,41.956755],"type":"Point"}
+}

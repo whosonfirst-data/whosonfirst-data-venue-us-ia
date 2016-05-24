@@ -1,0 +1,77 @@
+{
+  "id": 856781033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.388827,42.499202,-96.388827,42.499202",
+    "geom:latitude":42.499202,
+    "geom:longitude":-96.388827,
+    "iso:country":"US",
+    "sg:address":"810 Steuben St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 8756",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SqUpTEZfJQJkNNxh3vlEI_42.499202_-96.388827@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102461,
+    "wof:geomhash":"948b4ab383dde60b8620050781ab25f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856781033
+        }
+    ],
+    "wof:id":856781033,
+    "wof:lastmodified":1464102461,
+    "wof:name":"Brouillette Body Shop",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.388827,
+    42.499202,
+    -96.388827,
+    42.499202
+],
+  "geometry": {"coordinates":[-96.38882700000001,42.499202],"type":"Point"}
+}

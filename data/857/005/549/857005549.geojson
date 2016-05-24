@@ -1,0 +1,73 @@
+{
+  "id": 857005549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.682061,41.874419,-93.682061,41.874419",
+    "geom:latitude":41.874419,
+    "geom:longitude":-93.682061,
+    "iso:country":"US",
+    "sg:address":"103 9th Ave",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 228 3535",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d1Qx0SF7DOlFSOJREF6Ci_41.874419_-93.682061@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112588,
+    "wof:geomhash":"25fb4f39a6276aecbd15671cb2c24a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":857005549
+        }
+    ],
+    "wof:id":857005549,
+    "wof:lastmodified":1464112588,
+    "wof:name":"Estrem Construction",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.682061,
+    41.874419,
+    -93.682061,
+    41.874419
+],
+  "geometry": {"coordinates":[-93.682061,41.874419],"type":"Point"}
+}

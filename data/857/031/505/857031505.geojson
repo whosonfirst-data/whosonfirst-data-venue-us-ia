@@ -1,0 +1,73 @@
+{
+  "id": 857031505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.030885,41.614034,-94.030885,41.614034",
+    "geom:latitude":41.614034,
+    "geom:longitude":-94.030885,
+    "iso:country":"US",
+    "sg:address":"1816 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 2167",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "tack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NlL6mlRtpgRasA8snCBtU_41.614034_-94.030885@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113726,
+    "wof:geomhash":"f6e06b594cf1a33645355a50734310ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857031505
+        }
+    ],
+    "wof:id":857031505,
+    "wof:lastmodified":1464113726,
+    "wof:name":"Cowboy Up",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tack"
+    ]
+},
+  "bbox": [
+    -94.030885,
+    41.614034,
+    -94.030885,
+    41.614034
+],
+  "geometry": {"coordinates":[-94.030885,41.614034],"type":"Point"}
+}

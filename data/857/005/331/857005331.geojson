@@ -1,0 +1,75 @@
+{
+  "id": 857005331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524466,42.20392,-91.524466,42.20392",
+    "geom:latitude":42.20392,
+    "geom:longitude":-91.524466,
+    "iso:country":"US",
+    "sg:address":"13 S 4th St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 1761",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "development",
+        "economic",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uJSmNZBHE6pI9IfWWdVPW_42.203920_-91.524466@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112581,
+    "wof:geomhash":"f761a14c2111913162a09d985004d622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857005331
+        }
+    ],
+    "wof:id":857005331,
+    "wof:lastmodified":1464112581,
+    "wof:name":"Central City Mainstreet",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "economic",
+        "agency"
+    ]
+},
+  "bbox": [
+    -91.524466,
+    42.20392,
+    -91.524466,
+    42.20392
+],
+  "geometry": {"coordinates":[-91.524466,42.20392],"type":"Point"}
+}

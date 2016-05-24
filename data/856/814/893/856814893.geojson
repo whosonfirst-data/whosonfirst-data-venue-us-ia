@@ -1,0 +1,75 @@
+{
+  "id": 856814893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.795877,42.062401,-91.795877,42.062401",
+    "geom:latitude":42.062401,
+    "geom:longitude":-91.795877,
+    "iso:country":"US",
+    "sg:address":"303 1st St",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 851 5200",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ixNpaPs4guUCNk5TAgZ82_42.062401_-91.795877@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103826,
+    "wof:geomhash":"ccd783ad390090001bc3fc0c14dd3901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856814893
+        }
+    ],
+    "wof:id":856814893,
+    "wof:lastmodified":1464103826,
+    "wof:name":"J & M Enterprises",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.795877,
+    42.062401,
+    -91.795877,
+    42.062401
+],
+  "geometry": {"coordinates":[-91.795877,42.062401],"type":"Point"}
+}

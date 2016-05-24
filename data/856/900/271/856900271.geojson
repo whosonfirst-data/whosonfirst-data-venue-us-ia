@@ -1,0 +1,75 @@
+{
+  "id": 856900271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405078,42.501755,-96.405078,42.501755",
+    "geom:latitude":42.501755,
+    "geom:longitude":-96.405078,
+    "iso:country":"US",
+    "sg:address":"1007 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 7621",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fidelity",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pb4fDNRRQddtp7NNTGzjZ_42.501755_-96.405078@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108059,
+    "wof:geomhash":"aebd98d1a7e24c338b822139707519d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856900271
+        }
+    ],
+    "wof:id":856900271,
+    "wof:lastmodified":1464108059,
+    "wof:name":"Luikart Insurance",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fidelity",
+        "bond"
+    ]
+},
+  "bbox": [
+    -96.405078,
+    42.501755,
+    -96.405078,
+    42.501755
+],
+  "geometry": {"coordinates":[-96.405078,42.501755],"type":"Point"}
+}

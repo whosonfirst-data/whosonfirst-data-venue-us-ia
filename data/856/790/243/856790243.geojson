@@ -1,0 +1,73 @@
+{
+  "id": 856790243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.625829,42.044651,-91.625829,42.044651",
+    "geom:latitude":42.044651,
+    "geom:longitude":-91.625829,
+    "iso:country":"US",
+    "sg:address":"6624 Bowman Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7188",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DO8NGD9QV6RZtensHgC4V_42.044651_-91.625829@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102788,
+    "wof:geomhash":"064fc091e6cb80458656b0898b1d995f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856790243
+        }
+    ],
+    "wof:id":856790243,
+    "wof:lastmodified":1464102788,
+    "wof:name":"Professional Office Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "form"
+    ]
+},
+  "bbox": [
+    -91.625829,
+    42.044651,
+    -91.625829,
+    42.044651
+],
+  "geometry": {"coordinates":[-91.625829,42.044651],"type":"Point"}
+}

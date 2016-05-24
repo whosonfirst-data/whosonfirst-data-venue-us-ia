@@ -1,0 +1,71 @@
+{
+  "id": 856863623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.082386,41.834772,-94.082386,41.834772",
+    "geom:latitude":41.834772,
+    "geom:longitude":-94.082386,
+    "iso:country":"US",
+    "sg:address":"2605 Iowa St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3437",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tvidb2B0EuqCwiugCGITV_41.834772_-94.082386@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106140,
+    "wof:geomhash":"7aebe3bf26bdb2ba8ede70db03ce0aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856863623
+        }
+    ],
+    "wof:id":856863623,
+    "wof:lastmodified":1464106140,
+    "wof:name":"Brosnahan & Finn Family",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.082386,
+    41.834772,
+    -94.082386,
+    41.834772
+],
+  "geometry": {"coordinates":[-94.082386,41.834772],"type":"Point"}
+}

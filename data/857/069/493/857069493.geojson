@@ -1,0 +1,71 @@
+{
+  "id": 857069493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.630302,42.0186,-91.630302,42.0186",
+    "geom:latitude":42.0186,
+    "geom:longitude":-91.630302,
+    "iso:country":"US",
+    "sg:address":"205 40th Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3086",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZV43ZXfoCZXwcj2etUVYk_42.018600_-91.630302@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115305,
+    "wof:geomhash":"9f4d8938eb931f269f660f70c434f877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069493
+        }
+    ],
+    "wof:id":857069493,
+    "wof:lastmodified":1464115305,
+    "wof:name":"Westover Manor",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.630302,
+    42.0186,
+    -91.630302,
+    42.0186
+],
+  "geometry": {"coordinates":[-91.630302,42.0186],"type":"Point"}
+}

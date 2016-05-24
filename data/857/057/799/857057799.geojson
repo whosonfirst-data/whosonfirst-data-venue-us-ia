@@ -1,0 +1,76 @@
+{
+  "id": 857057799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.605626,41.628002,-93.605626,41.628002",
+    "geom:latitude":41.628002,
+    "geom:longitude":-93.605626,
+    "iso:country":"US",
+    "sg:address":"902 E Euclid Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/lee/198286-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 0815",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PijiAbBpzBUwaSkzGX5WZ_41.628002_-93.605626@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114816,
+    "wof:geomhash":"bad0ad9118f2f4e949693660b2d0bd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":857057799
+        }
+    ],
+    "wof:id":857057799,
+    "wof:lastmodified":1464114816,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -93.605626,
+    41.628002,
+    -93.605626,
+    41.628002
+],
+  "geometry": {"coordinates":[-93.605626,41.628002],"type":"Point"}
+}

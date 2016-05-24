@@ -1,0 +1,76 @@
+{
+  "id": 857059381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.619726,42.023492,-91.619726,42.023492",
+    "geom:latitude":42.023492,
+    "geom:longitude":-91.619726,
+    "iso:country":"US",
+    "sg:address":"190 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/180870-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 4188",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YT0jghfM236pzCssPYBS2_42.023492_-91.619726@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114875,
+    "wof:geomhash":"c952a1078eba9e820c8fe0aa8b18afa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059381
+        }
+    ],
+    "wof:id":857059381,
+    "wof:lastmodified":1464114875,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -91.619726,
+    42.023492,
+    -91.619726,
+    42.023492
+],
+  "geometry": {"coordinates":[-91.619726,42.023492],"type":"Point"}
+}

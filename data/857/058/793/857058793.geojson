@@ -1,0 +1,74 @@
+{
+  "id": 857058793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.822582,41.241656,-95.822582,41.241656",
+    "geom:latitude":41.241656,
+    "geom:longitude":-95.822582,
+    "iso:country":"US",
+    "sg:address":"1836 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/172711-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 6966",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08b0tJp5WNRwY4Q1K8AEhC_41.241656_-95.822582@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114856,
+    "wof:geomhash":"541fb1af21fecd0e504adfd19f310063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857058793
+        }
+    ],
+    "wof:id":857058793,
+    "wof:lastmodified":1464114856,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.822582,
+    41.241656,
+    -95.822582,
+    41.241656
+],
+  "geometry": {"coordinates":[-95.822582,41.241656],"type":"Point"}
+}

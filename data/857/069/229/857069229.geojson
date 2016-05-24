@@ -1,0 +1,67 @@
+{
+  "id": 857069229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624298,42.027401,-91.624298,42.027401",
+    "geom:latitude":42.027401,
+    "geom:longitude":-91.624298,
+    "iso:country":"US",
+    "sg:address":"163 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0450",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.redlobster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JS74znSdibgrgpAjY3szf_42.027401_-91.624298@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115297,
+    "wof:geomhash":"0f125817834a71b964ce2a477cafef10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069229
+        }
+    ],
+    "wof:id":857069229,
+    "wof:lastmodified":1464115297,
+    "wof:name":"Red Lobster Restaurants",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.624298,
+    42.027401,
+    -91.624298,
+    42.027401
+],
+  "geometry": {"coordinates":[-91.624298,42.027401],"type":"Point"}
+}

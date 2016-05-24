@@ -1,0 +1,74 @@
+{
+  "id": 857069935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716207,41.955266,-91.716207,41.955266",
+    "geom:latitude":41.955266,
+    "geom:longitude":-91.716207,
+    "iso:country":"US",
+    "sg:address":"2400 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0596",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.jcpenney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pGDE9Do5gjHXSZwe59aS0_41.955266_-91.716207@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115329,
+    "wof:geomhash":"31ca93e9e01b1349c9cc076a487b73ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857069935
+        }
+    ],
+    "wof:id":857069935,
+    "wof:lastmodified":1464115329,
+    "wof:name":"Penney J C Co Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.716207,
+    41.955266,
+    -91.716207,
+    41.955266
+],
+  "geometry": {"coordinates":[-91.716207,41.955266],"type":"Point"}
+}

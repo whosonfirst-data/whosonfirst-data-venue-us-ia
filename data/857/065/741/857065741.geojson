@@ -1,0 +1,73 @@
+{
+  "id": 857065741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.591301,42.033199,-91.591301,42.033199",
+    "geom:latitude":42.033199,
+    "geom:longitude":-91.591301,
+    "iso:country":"US",
+    "sg:address":"1833 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1809",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P7EVwBHpOgquQ1UXzF7pC_42.033199_-91.591301@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115127,
+    "wof:geomhash":"99b0dc7498fb6e49281e2cf1debb8766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065741
+        }
+    ],
+    "wof:id":857065741,
+    "wof:lastmodified":1464115127,
+    "wof:name":"Pet Studio the",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.591301,
+    42.033199,
+    -91.591301,
+    42.033199
+],
+  "geometry": {"coordinates":[-91.591301,42.033199],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857035137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663235,41.975159,-91.663235,41.975159",
+    "geom:latitude":41.975159,
+    "geom:longitude":-91.663235,
+    "iso:country":"US",
+    "sg:address":"500 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4485",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZRixs8S6Q9jGh3kC4ZRuW_41.975159_-91.663235@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113893,
+    "wof:geomhash":"acc0d796dcd9aede259619896c437e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857035137
+        }
+    ],
+    "wof:id":857035137,
+    "wof:lastmodified":1464113893,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -91.663235,
+    41.975159,
+    -91.663235,
+    41.975159
+],
+  "geometry": {"coordinates":[-91.663235,41.975159],"type":"Point"}
+}

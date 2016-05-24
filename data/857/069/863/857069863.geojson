@@ -1,0 +1,66 @@
+{
+  "id": 857069863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616922,41.976927,-91.616922,41.976927",
+    "geom:latitude":41.976927,
+    "geom:longitude":-91.616922,
+    "iso:country":"US",
+    "sg:address":"3108 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 2886",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02yuGNMRt7ZCskGaRdhkne_41.976927_-91.616922@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115327,
+    "wof:geomhash":"ac90ce845eae828d046585191f2d4f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069863
+        }
+    ],
+    "wof:id":857069863,
+    "wof:lastmodified":1464115327,
+    "wof:name":"Albert Auto",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.616922,
+    41.976927,
+    -91.616922,
+    41.976927
+],
+  "geometry": {"coordinates":[-91.616922,41.976927],"type":"Point"}
+}

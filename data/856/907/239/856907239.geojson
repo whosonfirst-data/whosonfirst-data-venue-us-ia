@@ -1,0 +1,71 @@
+{
+  "id": 856907239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.42563,41.485169,-91.42563,41.485169",
+    "geom:latitude":41.485169,
+    "geom:longitude":-91.42563,
+    "iso:country":"US",
+    "sg:address":"304 Devoe St",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 4957",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EXfDynX7FZBlIuNGh32fX_41.485169_-91.425630@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108310,
+    "wof:geomhash":"40a06675e1ccf1a6a3943e9c1c85f0a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856907239
+        }
+    ],
+    "wof:id":856907239,
+    "wof:lastmodified":1464108310,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -91.42563,
+    41.485169,
+    -91.42563,
+    41.485169
+],
+  "geometry": {"coordinates":[-91.42563,41.485169],"type":"Point"}
+}

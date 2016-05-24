@@ -1,0 +1,71 @@
+{
+  "id": 857023257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.432263,41.927222,-91.432263,41.927222",
+    "geom:latitude":41.927222,
+    "geom:longitude":-91.432263,
+    "iso:country":"US",
+    "sg:address":"105 Bryant Ct",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8180",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32reVer6pKEREXyb0SdNGv_41.927222_-91.432263@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113323,
+    "wof:geomhash":"86f3f1c8252ad5dec9c029f490d4f6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857023257
+        }
+    ],
+    "wof:id":857023257,
+    "wof:lastmodified":1464113323,
+    "wof:name":"Aero-Vac Air Duct Cleaning",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.432263,
+    41.927222,
+    -91.432263,
+    41.927222
+],
+  "geometry": {"coordinates":[-91.43226300000001,41.927222],"type":"Point"}
+}

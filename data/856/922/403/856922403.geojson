@@ -1,0 +1,71 @@
+{
+  "id": 856922403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.618573,41.463312,-93.618573,41.463312",
+    "geom:latitude":41.463312,
+    "geom:longitude":-93.618573,
+    "iso:country":"US",
+    "sg:address":"933 Hughes Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0631",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wgu4JFe6DyQEiV76EMNDc_41.463312_-93.618573@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108929,
+    "wof:geomhash":"85812f6fa3841473eac893875d98b3c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856922403
+        }
+    ],
+    "wof:id":856922403,
+    "wof:lastmodified":1464108929,
+    "wof:name":"Norwalk Ready-Mixed",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -93.618573,
+    41.463312,
+    -93.618573,
+    41.463312
+],
+  "geometry": {"coordinates":[-93.618573,41.463312],"type":"Point"}
+}

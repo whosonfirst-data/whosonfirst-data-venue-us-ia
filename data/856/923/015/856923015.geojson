@@ -1,0 +1,71 @@
+{
+  "id": 856923015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.07962,41.82043,-94.07962,41.82043",
+    "geom:latitude":41.82043,
+    "geom:longitude":-94.07962,
+    "iso:country":"US",
+    "sg:address":"2067 150th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2776",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zoZspzPSIjzCM9HUXpWPr_41.820430_-94.079620@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108952,
+    "wof:geomhash":"1b956d56cc7a21f2bcf03d3315d54fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856923015
+        }
+    ],
+    "wof:id":856923015,
+    "wof:lastmodified":1464108952,
+    "wof:name":"Alan Gough Painting",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -94.07962,
+    41.82043,
+    -94.07962,
+    41.82043
+],
+  "geometry": {"coordinates":[-94.07962000000001,41.82043],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856901381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.82282,41.601959,-93.82282,41.601959",
+    "geom:latitude":41.601959,
+    "geom:longitude":-93.82282,
+    "iso:country":"US",
+    "sg:address":"785 Walnut Ridge Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 2221",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOBn1lb8ZlT4XWSYQOfOE_41.601959_-93.822820@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108102,
+    "wof:geomhash":"03602a37904387b1db4b78ec6495670b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856901381
+        }
+    ],
+    "wof:id":856901381,
+    "wof:lastmodified":1464108102,
+    "wof:name":"Makohoniuk Construction",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.82282,
+    41.601959,
+    -93.82282,
+    41.601959
+],
+  "geometry": {"coordinates":[-93.82281999999999,41.601959],"type":"Point"}
+}

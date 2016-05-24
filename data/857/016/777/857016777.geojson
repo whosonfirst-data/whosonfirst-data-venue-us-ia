@@ -1,0 +1,73 @@
+{
+  "id": 857016777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.477662,41.687945,-91.477662,41.687945",
+    "geom:latitude":41.687945,
+    "geom:longitude":-91.477662,
+    "iso:country":"US",
+    "sg:address":"3366 Lynden Heights Rd NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 0798",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qbFnE5sa0QfTRH4c84JgL_41.687945_-91.477662@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113064,
+    "wof:geomhash":"44f3d56ee592446e0479e5e91379b799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896449,
+            "region_id":85688713,
+            "venue_id":857016777
+        }
+    ],
+    "wof:id":857016777,
+    "wof:lastmodified":1464113064,
+    "wof:name":"Peterson Drywall",
+    "wof:parent_id":85896449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.477662,
+    41.687945,
+    -91.477662,
+    41.687945
+],
+  "geometry": {"coordinates":[-91.477662,41.687945],"type":"Point"}
+}

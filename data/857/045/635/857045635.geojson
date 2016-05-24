@@ -1,0 +1,78 @@
+{
+  "id": 857045635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6642,41.98,-91.6642,41.98",
+    "geom:latitude":41.98,
+    "geom:longitude":-91.6642,
+    "iso:country":"US",
+    "sg:address":"501 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 8461",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "print",
+        "newspaper",
+        "medium"
+    ],
+    "sg:website":"www.iowafarmertoday.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ONYdzFUoqYY78XTDUApHZ_41.980405_-91.663386@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114295,
+    "wof:geomhash":"d07f29ca167a8f13594b7b678fb63932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857045635
+        }
+    ],
+    "wof:id":857045635,
+    "wof:lastmodified":1464114295,
+    "wof:name":"Iowa Farmer Today",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "newspaper",
+        "medium"
+    ]
+},
+  "bbox": [
+    -91.6642,
+    41.98,
+    -91.6642,
+    41.98
+],
+  "geometry": {"coordinates":[-91.66419999999999,41.98],"type":"Point"}
+}

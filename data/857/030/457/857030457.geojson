@@ -1,0 +1,71 @@
+{
+  "id": 857030457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.485771,41.973407,-91.485771,41.973407",
+    "geom:latitude":41.973407,
+    "geom:longitude":-91.485771,
+    "iso:country":"US",
+    "sg:address":"1562 Apple Creek Dr",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8273",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0dK0CVxPXW9P14bX6RrH_41.973407_-91.485771@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113675,
+    "wof:geomhash":"0b0e1f72ce2fc34d24def0e10c2c1d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857030457
+        }
+    ],
+    "wof:id":857030457,
+    "wof:lastmodified":1464113675,
+    "wof:name":"Eales Mobiles",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.485771,
+    41.973407,
+    -91.485771,
+    41.973407
+],
+  "geometry": {"coordinates":[-91.485771,41.973407],"type":"Point"}
+}

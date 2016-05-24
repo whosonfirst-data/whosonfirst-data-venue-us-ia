@@ -1,0 +1,73 @@
+{
+  "id": 856856611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.461992,41.702953,-93.461992,41.702953",
+    "geom:latitude":41.702953,
+    "geom:longitude":-93.461992,
+    "iso:country":"US",
+    "sg:address":"200 2nd St NE",
+    "sg:city":"Bondurant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 967 2418",
+    "sg:postcode":"50035",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944137,
+        102086603,
+        85896339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FmJk6T60KJe82TNiMVutL_41.702953_-93.461992@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105822,
+    "wof:geomhash":"db3462bcd86e07d03cc3ce9a2326fa4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944137,
+            "neighbourhood_id":85896339,
+            "region_id":85688713,
+            "venue_id":856856611
+        }
+    ],
+    "wof:id":856856611,
+    "wof:lastmodified":1464105822,
+    "wof:name":"Bondurant City Hall",
+    "wof:parent_id":85896339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -93.461992,
+    41.702953,
+    -93.461992,
+    41.702953
+],
+  "geometry": {"coordinates":[-93.461992,41.702953],"type":"Point"}
+}

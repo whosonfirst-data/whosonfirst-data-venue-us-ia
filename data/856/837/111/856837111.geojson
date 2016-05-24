@@ -1,0 +1,73 @@
+{
+  "id": 856837111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.694511,41.680803,-93.694511,41.680803",
+    "geom:latitude":41.680803,
+    "geom:longitude":-93.694511,
+    "iso:country":"US",
+    "sg:address":"5425 NW 66th Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 276 5092",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PhkU3cZIwL50B8VqJvHBG_41.680803_-93.694511@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104871,
+    "wof:geomhash":"1d6d0ffcd3c0dbcef0114211f1c6e941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896491,
+            "region_id":85688713,
+            "venue_id":856837111
+        }
+    ],
+    "wof:id":856837111,
+    "wof:lastmodified":1464104871,
+    "wof:name":"Jr Vending",
+    "wof:parent_id":85896491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -93.694511,
+    41.680803,
+    -93.694511,
+    41.680803
+],
+  "geometry": {"coordinates":[-93.69451100000001,41.680803],"type":"Point"}
+}

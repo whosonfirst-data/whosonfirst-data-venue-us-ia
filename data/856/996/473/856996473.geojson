@@ -1,0 +1,71 @@
+{
+  "id": 856996473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.48562,41.500137,-93.48562,41.500137",
+    "geom:latitude":41.500137,
+    "geom:longitude":-93.48562,
+    "iso:country":"US",
+    "sg:address":"250 Garfield St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3281",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZqlYKU3hxIPh9ktZVs8mr_41.500137_-93.485620@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112241,
+    "wof:geomhash":"49b5f3617756232a2f9e667ab0cb69d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856996473
+        }
+    ],
+    "wof:id":856996473,
+    "wof:lastmodified":1464112241,
+    "wof:name":"Dillman Grading Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.48562,
+    41.500137,
+    -93.48562,
+    41.500137
+],
+  "geometry": {"coordinates":[-93.48562,41.500137],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856993225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.56104,41.366498,-93.56104,41.366498",
+    "geom:latitude":41.366498,
+    "geom:longitude":-93.56104,
+    "iso:country":"US",
+    "sg:address":"705 N Howard St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4322",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G7gxt9nM5hGdwCI7OsI33_41.366498_-93.561040@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112117,
+    "wof:geomhash":"916b11331df41f59668cc76969d96004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856993225
+        }
+    ],
+    "wof:id":856993225,
+    "wof:lastmodified":1464112117,
+    "wof:name":"Bowlin's Landscaping",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.56104,
+    41.366498,
+    -93.56104,
+    41.366498
+],
+  "geometry": {"coordinates":[-93.56104000000001,41.366498],"type":"Point"}
+}

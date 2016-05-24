@@ -1,0 +1,75 @@
+{
+  "id": 856951571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.608727,41.508282,-90.608727,41.508282",
+    "geom:latitude":41.508282,
+    "geom:longitude":-90.608727,
+    "iso:country":"US",
+    "sg:address":"2328 W River Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 326 6026",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28YglBa4Ictk8s78Mkfe9I_41.508282_-90.608727@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110147,
+    "wof:geomhash":"0cba5c7e0649452b182b3932be9eab52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856951571
+        }
+    ],
+    "wof:id":856951571,
+    "wof:lastmodified":1464110147,
+    "wof:name":"Pee Wee Auto Sales",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.608727,
+    41.508282,
+    -90.608727,
+    41.508282
+],
+  "geometry": {"coordinates":[-90.608727,41.508282],"type":"Point"}
+}

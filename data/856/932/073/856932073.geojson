@@ -1,0 +1,75 @@
+{
+  "id": 856932073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.871883,41.255382,-95.871883,41.255382",
+    "geom:latitude":41.255382,
+    "geom:longitude":-95.871883,
+    "iso:country":"US",
+    "sg:address":"1828 7th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 3573",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRZEFgrlar7v6puUa1dOO_41.255382_-95.871883@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109319,
+    "wof:geomhash":"ca43453662049043c49cd5b1b011b642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856932073
+        }
+    ],
+    "wof:id":856932073,
+    "wof:lastmodified":1464109319,
+    "wof:name":"3-D Home Remodeling",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.871883,
+    41.255382,
+    -95.871883,
+    41.255382
+],
+  "geometry": {"coordinates":[-95.871883,41.255382],"type":"Point"}
+}

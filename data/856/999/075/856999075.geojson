@@ -1,0 +1,71 @@
+{
+  "id": 856999075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.58509,41.356076,-93.58509,41.356076",
+    "geom:latitude":41.356076,
+    "geom:longitude":-93.58509,
+    "iso:country":"US",
+    "sg:address":"1903 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8101",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XIWIIQSztokSo49a5sMmT_41.356076_-93.585090@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112328,
+    "wof:geomhash":"95b3b4fe871aa3fc8b405660165c651b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856999075
+        }
+    ],
+    "wof:id":856999075,
+    "wof:lastmodified":1464112328,
+    "wof:name":"Buggy Bath",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.58509,
+    41.356076,
+    -93.58509,
+    41.356076
+],
+  "geometry": {"coordinates":[-93.58508999999999,41.356076],"type":"Point"}
+}

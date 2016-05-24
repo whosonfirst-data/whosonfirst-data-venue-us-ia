@@ -1,0 +1,74 @@
+{
+  "id": 857057413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.111032,41.838508,-94.111032,41.838508",
+    "geom:latitude":41.838508,
+    "geom:longitude":-94.111032,
+    "iso:country":"US",
+    "sg:address":"904 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/spring-valley/226054-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3803",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SrSKxQOYauvY2isag6aX5_41.838508_-94.111032@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114803,
+    "wof:geomhash":"aa63b114c1e06fa1f6401280571312bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057413
+        }
+    ],
+    "wof:id":857057413,
+    "wof:lastmodified":1464114803,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.111032,
+    41.838508,
+    -94.111032,
+    41.838508
+],
+  "geometry": {"coordinates":[-94.11103199999999,41.838508],"type":"Point"}
+}

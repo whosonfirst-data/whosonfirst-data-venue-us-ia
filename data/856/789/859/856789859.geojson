@@ -1,0 +1,71 @@
+{
+  "id": 856789859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.196108,41.59144,-94.196108,41.59144",
+    "geom:latitude":41.59144,
+    "geom:longitude":-94.196108,
+    "iso:country":"US",
+    "sg:address":"913 1st St",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 833 2920",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "packer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43rnGZ8MqRERTSUe5VkPn4_41.591440_-94.196108@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102774,
+    "wof:geomhash":"7ca25a58d8459f3ba54f7a137437be00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856789859
+        }
+    ],
+    "wof:id":856789859,
+    "wof:lastmodified":1464102774,
+    "wof:name":"Redfield Locker",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer"
+    ]
+},
+  "bbox": [
+    -94.196108,
+    41.59144,
+    -94.196108,
+    41.59144
+],
+  "geometry": {"coordinates":[-94.196108,41.59144],"type":"Point"}
+}

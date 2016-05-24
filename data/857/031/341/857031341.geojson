@@ -1,0 +1,71 @@
+{
+  "id": 857031341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.805404,42.119006,-91.805404,42.119006",
+    "geom:latitude":42.119006,
+    "geom:longitude":-91.805404,
+    "iso:country":"US",
+    "sg:address":"4530 McClintock Rd",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 436 7716",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bmvD2YOkommuXWdcOsbVG_42.119006_-91.805404@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113715,
+    "wof:geomhash":"86288a1f70be3216c0abfef617c0e561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857031341
+        }
+    ],
+    "wof:id":857031341,
+    "wof:lastmodified":1464113715,
+    "wof:name":"Pleasant Creek State Rec Area",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -91.805404,
+    42.119006,
+    -91.805404,
+    42.119006
+],
+  "geometry": {"coordinates":[-91.805404,42.119006],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856889009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.681874,41.500281,-93.681874,41.500281",
+    "geom:latitude":41.500281,
+    "geom:longitude":-93.681874,
+    "iso:country":"US",
+    "sg:address":"4672 Wakonda Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 287 0209",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64lB5ZemGJtz22f7Gprciz_41.500281_-93.681874@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107643,
+    "wof:geomhash":"5a8d9533c0b287d03d9c056d179b0695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856889009
+        }
+    ],
+    "wof:id":856889009,
+    "wof:lastmodified":1464107643,
+    "wof:name":"Triple T Electric & Trenching",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.681874,
+    41.500281,
+    -93.681874,
+    41.500281
+],
+  "geometry": {"coordinates":[-93.68187399999999,41.500281],"type":"Point"}
+}

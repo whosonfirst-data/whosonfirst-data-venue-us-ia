@@ -1,0 +1,71 @@
+{
+  "id": 857022217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.544586,41.620789,-91.544586,41.620789",
+    "geom:latitude":41.620789,
+    "geom:longitude":-91.544586,
+    "iso:country":"US",
+    "sg:address":"2752 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7828",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZF7PFL7MGaVzRg0Yr1AAu_41.620789_-91.544586@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113285,
+    "wof:geomhash":"d44412578a3cd4d0203b51591035b978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":857022217
+        }
+    ],
+    "wof:id":857022217,
+    "wof:lastmodified":1464113285,
+    "wof:name":"Ace Auto Recyclers Inc",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -91.544586,
+    41.620789,
+    -91.544586,
+    41.620789
+],
+  "geometry": {"coordinates":[-91.544586,41.620789],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856969823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.621565,41.591236,-93.621565,41.591236",
+    "geom:latitude":41.591236,
+    "geom:longitude":-93.621565,
+    "iso:country":"US",
+    "sg:address":"730 3rd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 564 8000",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "athletic",
+        "fields",
+        "stadium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SwwIVUzGEfBOwOkth6clh_41.591236_-93.621565@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110967,
+    "wof:geomhash":"0c4ebff753a223e2b33950a0ce77427b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896409,
+            "region_id":85688713,
+            "venue_id":856969823
+        }
+    ],
+    "wof:id":856969823,
+    "wof:lastmodified":1464110967,
+    "wof:name":"Iowa Event Ctr",
+    "wof:parent_id":85896409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic",
+        "fields",
+        "stadium"
+    ]
+},
+  "bbox": [
+    -93.621565,
+    41.591236,
+    -93.621565,
+    41.591236
+],
+  "geometry": {"coordinates":[-93.621565,41.591236],"type":"Point"}
+}

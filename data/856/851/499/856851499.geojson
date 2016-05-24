@@ -1,0 +1,71 @@
+{
+  "id": 856851499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.683323,41.468073,-93.683323,41.468073",
+    "geom:latitude":41.468073,
+    "geom:longitude":-93.683323,
+    "iso:country":"US",
+    "sg:address":"501 Wright Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 9021",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cfUbn2kc9JJr1vU4cvDsk_41.468073_-93.683323@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105600,
+    "wof:geomhash":"3e37ec68c058a7dcd3408d333f617516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856851499
+        }
+    ],
+    "wof:id":856851499,
+    "wof:lastmodified":1464105600,
+    "wof:name":"Norwalk Mini-Storage",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.683323,
+    41.468073,
+    -93.683323,
+    41.468073
+],
+  "geometry": {"coordinates":[-93.683323,41.468073],"type":"Point"}
+}

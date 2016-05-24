@@ -1,0 +1,74 @@
+{
+  "id": 857060695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891322,41.261949,-95.891322,41.261949",
+    "geom:latitude":41.261949,
+    "geom:longitude":-95.891322,
+    "iso:country":"US",
+    "sg:address":"2935 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/109332-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7377",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fNejkUJuJVYxnnd7ZI7P2_41.261883_-95.891990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114923,
+    "wof:geomhash":"cc9b4e4149fb07e964b8c70d1074473f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857060695
+        }
+    ],
+    "wof:id":857060695,
+    "wof:lastmodified":1464114923,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.891322,
+    41.261949,
+    -95.891322,
+    41.261949
+],
+  "geometry": {"coordinates":[-95.891322,41.261949],"type":"Point"}
+}

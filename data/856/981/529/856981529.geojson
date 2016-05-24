@@ -1,0 +1,73 @@
+{
+  "id": 856981529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.815817,41.602636,-93.815817,41.602636",
+    "geom:latitude":41.602636,
+    "geom:longitude":-93.815817,
+    "iso:country":"US",
+    "sg:address":"14241 Elmcrest Ct",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 2332",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "balancing",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RgcxL9Ub4b9Z4noU39IKr_41.602636_-93.815817@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111529,
+    "wof:geomhash":"d46c72586d4c55675b14de19c00c22b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856981529
+        }
+    ],
+    "wof:id":856981529,
+    "wof:lastmodified":1464111529,
+    "wof:name":"Precision Test & Balance",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balancing",
+        "air"
+    ]
+},
+  "bbox": [
+    -93.815817,
+    41.602636,
+    -93.815817,
+    41.602636
+],
+  "geometry": {"coordinates":[-93.815817,41.602636],"type":"Point"}
+}

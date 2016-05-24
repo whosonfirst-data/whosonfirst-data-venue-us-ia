@@ -1,0 +1,73 @@
+{
+  "id": 856815087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.106605,41.832041,-94.106605,41.832041",
+    "geom:latitude":41.832041,
+    "geom:longitude":-94.106605,
+    "iso:country":"US",
+    "sg:address":"511 1st Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5066",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EhGcl5VYWhNxD4TrSLALI_41.832041_-94.106605@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103832,
+    "wof:geomhash":"78323eb80f1017739ffe6f9725a1dc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856815087
+        }
+    ],
+    "wof:id":856815087,
+    "wof:lastmodified":1464103832,
+    "wof:name":"Motor KARS II Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.106605,
+    41.832041,
+    -94.106605,
+    41.832041
+],
+  "geometry": {"coordinates":[-94.106605,41.832041],"type":"Point"}
+}

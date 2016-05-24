@@ -1,0 +1,68 @@
+{
+  "id": 856881303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657763,41.967989,-91.657763,41.967989",
+    "geom:latitude":41.967989,
+    "geom:longitude":-91.657763,
+    "iso:country":"US",
+    "sg:address":"116 14th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3434",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0taPs7Crrg8Z3NiAkAvZvm_41.967989_-91.657763@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107215,
+    "wof:geomhash":"4cae845c3ce37a5c5f1bedf469f65ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856881303
+        }
+    ],
+    "wof:id":856881303,
+    "wof:lastmodified":1464107215,
+    "wof:name":"IBEW",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.657763,
+    41.967989,
+    -91.657763,
+    41.967989
+],
+  "geometry": {"coordinates":[-91.657763,41.967989],"type":"Point"}
+}

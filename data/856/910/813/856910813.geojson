@@ -1,0 +1,73 @@
+{
+  "id": 856910813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.507929,41.643439,-91.507929,41.643439",
+    "geom:latitude":41.643439,
+    "geom:longitude":-91.507929,
+    "iso:country":"US",
+    "sg:address":"1517 Mall Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 5752",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ie8OU6wo4tRaOGVu2071f_41.643439_-91.507929@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108460,
+    "wof:geomhash":"9c7be4455a3b678801667c691b0142b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856910813
+        }
+    ],
+    "wof:id":856910813,
+    "wof:lastmodified":1464108460,
+    "wof:name":"Ann Romanowski DDS",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.507929,
+    41.643439,
+    -91.507929,
+    41.643439
+],
+  "geometry": {"coordinates":[-91.507929,41.643439],"type":"Point"}
+}

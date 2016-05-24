@@ -1,0 +1,71 @@
+{
+  "id": 856812473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653515,41.995279,-91.653515,41.995279",
+    "geom:latitude":41.995279,
+    "geom:longitude":-91.653515,
+    "iso:country":"US",
+    "sg:address":"620 17th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7187",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YQBNmlE1vLPyhinxXmBXO_41.995279_-91.653515@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103731,
+    "wof:geomhash":"49223021e72d6fdddb663d964c780284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856812473
+        }
+    ],
+    "wof:id":856812473,
+    "wof:lastmodified":1464103731,
+    "wof:name":"Vetter-Parks Lumber Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -91.653515,
+    41.995279,
+    -91.653515,
+    41.995279
+],
+  "geometry": {"coordinates":[-91.653515,41.995279],"type":"Point"}
+}

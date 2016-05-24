@@ -1,0 +1,73 @@
+{
+  "id": 856917057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660097,41.96579,-91.660097,41.96579",
+    "geom:latitude":41.96579,
+    "geom:longitude":-91.660097,
+    "iso:country":"US",
+    "sg:address":"1 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7991",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uRgAWtFYDVVj4cOZomsea_41.965790_-91.660097@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108692,
+    "wof:geomhash":"d8eb11965fbbdcbbc2a64fe9530a7da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856917057
+        }
+    ],
+    "wof:id":856917057,
+    "wof:lastmodified":1464108692,
+    "wof:name":"A W Schmidt Transfer",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.660097,
+    41.96579,
+    -91.660097,
+    41.96579
+],
+  "geometry": {"coordinates":[-91.66009699999999,41.96579],"type":"Point"}
+}

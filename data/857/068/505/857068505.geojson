@@ -1,0 +1,78 @@
+{
+  "id": 857068505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667397,42.025398,-91.667397,42.025398",
+    "geom:latitude":42.025398,
+    "geom:longitude":-91.667397,
+    "iso:country":"US",
+    "sg:address":"4657 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0995",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4clxgg3S0zJWL9gebkw1rg_42.025398_-91.667397@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115260,
+    "wof:geomhash":"4e3c58127fe846e04be57f2541aa1ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068505
+        }
+    ],
+    "wof:id":857068505,
+    "wof:lastmodified":1464115260,
+    "wof:name":"Pierson's Wholesale Florist Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [
+    -91.667397,
+    42.025398,
+    -91.667397,
+    42.025398
+],
+  "geometry": {"coordinates":[-91.66739699999999,42.025398],"type":"Point"}
+}

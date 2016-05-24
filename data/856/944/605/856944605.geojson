@@ -1,0 +1,73 @@
+{
+  "id": 856944605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.596147,41.976903,-91.596147,41.976903",
+    "geom:latitude":41.976903,
+    "geom:longitude":-91.596147,
+    "iso:country":"US",
+    "sg:address":"4710 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3542",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tEsFAo6BUpCPu7kwT1ksN_41.976903_-91.596147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109873,
+    "wof:geomhash":"cd6baa2c2e038ac4b0bd6b79343a4dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856944605
+        }
+    ],
+    "wof:id":856944605,
+    "wof:lastmodified":1464109873,
+    "wof:name":"Waltons Auto",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.596147,
+    41.976903,
+    -91.596147,
+    41.976903
+],
+  "geometry": {"coordinates":[-91.596147,41.976903],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856877135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.593986,41.702502,-91.593986,41.702502",
+    "geom:latitude":41.702502,
+    "geom:longitude":-91.593986,
+    "iso:country":"US",
+    "sg:address":"2029 Lynncrest Dr",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2209",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HzPWar5HfMPaxVgIYuoUk_41.702502_-91.593986@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107037,
+    "wof:geomhash":"a6babb1eb177255d5ac42ff774bf0af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896365,
+            "region_id":85688713,
+            "venue_id":856877135
+        }
+    ],
+    "wof:id":856877135,
+    "wof:lastmodified":1464107037,
+    "wof:name":"John Ashby Construction",
+    "wof:parent_id":85896365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.593986,
+    41.702502,
+    -91.593986,
+    41.702502
+],
+  "geometry": {"coordinates":[-91.593986,41.702502],"type":"Point"}
+}

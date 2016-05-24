@@ -1,0 +1,73 @@
+{
+  "id": 857031411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.680936,41.919774,-91.680936,41.919774",
+    "geom:latitude":41.919774,
+    "geom:longitude":-91.680936,
+    "iso:country":"US",
+    "sg:address":"801 60th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4424",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xbzTEyfpt5a08NcapcexW_41.919774_-91.680936@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113718,
+    "wof:geomhash":"3844a12653e80620f655990b1fcea672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857031411
+        }
+    ],
+    "wof:id":857031411,
+    "wof:lastmodified":1464113718,
+    "wof:name":"Luxury Limo Inc",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.680936,
+    41.919774,
+    -91.680936,
+    41.919774
+],
+  "geometry": {"coordinates":[-91.680936,41.919774],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856988161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625735,41.609878,-93.625735,41.609878",
+    "geom:latitude":41.609878,
+    "geom:longitude":-93.625735,
+    "iso:country":"US",
+    "sg:address":"1725 6th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 8457",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68cw3kVjoL8TFUV3eROEsT_41.609878_-93.625735@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111875,
+    "wof:geomhash":"5b29dec766a12e99bd643f218ffcf3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856988161
+        }
+    ],
+    "wof:id":856988161,
+    "wof:lastmodified":1464111875,
+    "wof:name":"City View Residential",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -93.625735,
+    41.609878,
+    -93.625735,
+    41.609878
+],
+  "geometry": {"coordinates":[-93.62573500000001,41.609878],"type":"Point"}
+}

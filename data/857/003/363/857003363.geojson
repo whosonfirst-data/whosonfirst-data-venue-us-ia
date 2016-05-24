@@ -1,0 +1,71 @@
+{
+  "id": 857003363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.35859,42.426866,-92.35859,42.426866",
+    "geom:latitude":42.426866,
+    "geom:longitude":-92.35859,
+    "iso:country":"US",
+    "sg:address":"235 School Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 291 4879",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v7r3t36XDzj7Mbrq2iz5P_42.426866_-92.358590@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112503,
+    "wof:geomhash":"746c41f9f6968329736e9ec51717ed08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":857003363
+        }
+    ],
+    "wof:id":857003363,
+    "wof:lastmodified":1464112503,
+    "wof:name":"First Student Inc",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -92.35859,
+    42.426866,
+    -92.35859,
+    42.426866
+],
+  "geometry": {"coordinates":[-92.35859000000001,42.426866],"type":"Point"}
+}

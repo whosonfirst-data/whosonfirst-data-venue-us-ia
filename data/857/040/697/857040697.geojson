@@ -1,0 +1,79 @@
+{
+  "id": 857040697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655403,41.980999,-91.655403,41.980999",
+    "geom:latitude":41.980999,
+    "geom:longitude":-91.655403,
+    "iso:country":"US",
+    "sg:address":"1030 5th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 4429",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "information",
+        "hospital",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u6p2DvWklnKDKQ6sBwsq9_41.981229_-91.654990@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114109,
+    "wof:geomhash":"1cd41829a61cc3015718649c3cb723d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857040697
+        }
+    ],
+    "wof:id":857040697,
+    "wof:lastmodified":1464114109,
+    "wof:name":"St Luke's Chemical Dependency Service",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "hospital",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -91.655403,
+    41.980999,
+    -91.655403,
+    41.980999
+],
+  "geometry": {"coordinates":[-91.65540300000001,41.980999],"type":"Point"}
+}

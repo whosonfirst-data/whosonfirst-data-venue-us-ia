@@ -1,0 +1,71 @@
+{
+  "id": 856813007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.079276,41.838406,-94.079276,41.838406",
+    "geom:latitude":41.838406,
+    "geom:longitude":-94.079276,
+    "iso:country":"US",
+    "sg:address":"2823 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3791",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fgh1oBAQ1CsGebXgC2Luo_41.838406_-94.079276@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103752,
+    "wof:geomhash":"e0c920f4c0ede24d4fecb6c961558771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856813007
+        }
+    ],
+    "wof:id":856813007,
+    "wof:lastmodified":1464103752,
+    "wof:name":"Elks Lodge",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -94.079276,
+    41.838406,
+    -94.079276,
+    41.838406
+],
+  "geometry": {"coordinates":[-94.07927599999999,41.838406],"type":"Point"}
+}

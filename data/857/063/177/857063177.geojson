@@ -1,0 +1,72 @@
+{
+  "id": 857063177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867592,41.264658,-95.867592,41.264658",
+    "geom:latitude":41.264658,
+    "geom:longitude":-95.867592,
+    "iso:country":"US",
+    "sg:address":"318 N 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0259",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass"
+    ],
+    "sg:website":"www.safelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J35AFWDyLi76I1w0X95fR_41.264658_-95.867592@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115028,
+    "wof:geomhash":"8bb4d5b9af7ed168768a89ad02ac426c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063177
+        }
+    ],
+    "wof:id":857063177,
+    "wof:lastmodified":1464115028,
+    "wof:name":"Safelite AutoGlass",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [
+    -95.867592,
+    41.264658,
+    -95.867592,
+    41.264658
+],
+  "geometry": {"coordinates":[-95.867592,41.264658],"type":"Point"}
+}

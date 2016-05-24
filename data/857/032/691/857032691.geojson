@@ -1,0 +1,66 @@
+{
+  "id": 857032691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.589076,42.033353,-91.589076,42.033353",
+    "geom:latitude":42.033353,
+    "geom:longitude":-91.589076,
+    "iso:country":"US",
+    "sg:address":"2020 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 2381",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_280bybrlTr3O0BJ80H0IHQ_42.033353_-91.589076@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113768,
+    "wof:geomhash":"d5578de55040b5431756fb67c83d9a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857032691
+        }
+    ],
+    "wof:id":857032691,
+    "wof:lastmodified":1464113768,
+    "wof:name":"7th Avenue Handi Mart",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.589076,
+    42.033353,
+    -91.589076,
+    42.033353
+],
+  "geometry": {"coordinates":[-91.58907600000001,42.033353],"type":"Point"}
+}

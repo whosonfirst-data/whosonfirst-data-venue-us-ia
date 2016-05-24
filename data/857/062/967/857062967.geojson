@@ -1,0 +1,75 @@
+{
+  "id": 857062967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.868859,41.266347,-95.868859,41.266347",
+    "geom:latitude":41.266347,
+    "geom:longitude":-95.868859,
+    "iso:country":"US",
+    "sg:address":"517 N 17th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 6528",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NzsxKmSRedbtFvTZ8CALl_41.266347_-95.868859@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115021,
+    "wof:geomhash":"521305f7e8dc6cce7d9534b19102004b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062967
+        }
+    ],
+    "wof:id":857062967,
+    "wof:lastmodified":1464115021,
+    "wof:name":"Council Bluffs Community School District",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.868859,
+    41.266347,
+    -95.868859,
+    41.266347
+],
+  "geometry": {"coordinates":[-95.868859,41.266347],"type":"Point"}
+}

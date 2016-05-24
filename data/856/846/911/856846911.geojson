@@ -1,0 +1,71 @@
+{
+  "id": 856846911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652147,42.030111,-91.652147,42.030111",
+    "geom:latitude":42.030111,
+    "geom:longitude":-91.652147,
+    "iso:country":"US",
+    "sg:address":"1231 Park Pl NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 2000",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nCyHwXEQglD00go9JzjXp_42.030111_-91.652147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105334,
+    "wof:geomhash":"c1c89c19da859d366087aa69b79de9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856846911
+        }
+    ],
+    "wof:id":856846911,
+    "wof:lastmodified":1464105334,
+    "wof:name":"US Defense Contract Mgmt",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -91.652147,
+    42.030111,
+    -91.652147,
+    42.030111
+],
+  "geometry": {"coordinates":[-91.652147,42.030111],"type":"Point"}
+}

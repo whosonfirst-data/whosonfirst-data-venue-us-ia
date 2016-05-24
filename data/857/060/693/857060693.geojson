@@ -1,0 +1,72 @@
+{
+  "id": 857060693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849559,41.229032,-95.849559,41.229032",
+    "geom:latitude":41.229032,
+    "geom:longitude":-95.849559,
+    "iso:country":"US",
+    "sg:address":"3134 Dial Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/lewis/121674-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 0860",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BNleb7dk32Vldyn7YntR7_41.229389_-95.849630@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114923,
+    "wof:geomhash":"47067b4621b70f1f102da359244c3131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857060693
+        }
+    ],
+    "wof:id":857060693,
+    "wof:lastmodified":1464114923,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -95.849559,
+    41.229032,
+    -95.849559,
+    41.229032
+],
+  "geometry": {"coordinates":[-95.849559,41.229032],"type":"Point"}
+}

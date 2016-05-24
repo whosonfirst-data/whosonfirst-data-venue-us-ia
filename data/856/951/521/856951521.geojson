@@ -1,0 +1,73 @@
+{
+  "id": 856951521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.031429,41.613725,-94.031429,41.613725",
+    "geom:latitude":41.613725,
+    "geom:longitude":-94.031429,
+    "iso:country":"US",
+    "sg:address":"1919 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4511",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yxD6FhzJ0K5mT7toLvdTy_41.613725_-94.031429@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110145,
+    "wof:geomhash":"da1085661c5c76aa817e1f7b9de78c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856951521
+        }
+    ],
+    "wof:id":856951521,
+    "wof:lastmodified":1464110145,
+    "wof:name":"Adel Acres",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -94.031429,
+    41.613725,
+    -94.031429,
+    41.613725
+],
+  "geometry": {"coordinates":[-94.031429,41.613725],"type":"Point"}
+}

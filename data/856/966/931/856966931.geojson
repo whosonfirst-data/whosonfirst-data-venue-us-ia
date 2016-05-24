@@ -1,0 +1,93 @@
+{
+  "id": 856966931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.675528,41.975675,-91.675528,41.975675",
+    "geom:latitude":41.975675,
+    "geom:longitude":-91.675528,
+    "iso:country":"US",
+    "sg:address":"215 1st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5843",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pr",
+        "fabric",
+        "mfg",
+        "fabricated",
+        "mill",
+        "cotton"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g3nznbnNsDFoqO9RzGw4g_41.975675_-91.675528@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110823,
+    "wof:geomhash":"74651fbc14b8e90a54a283e6aa9d5d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856966931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856966931
+        }
+    ],
+    "wof:id":856966931,
+    "wof:lastmodified":1464110823,
+    "wof:name":"Best of Friends Collection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pr",
+        "fabric",
+        "mfg",
+        "fabricated",
+        "mill",
+        "cotton"
+    ]
+},
+  "bbox": [
+    -91.675528,
+    41.975675,
+    -91.675528,
+    41.975675
+],
+  "geometry": {"coordinates":[-91.675528,41.975675],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857066649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666901,41.978199,-91.666901,41.978199",
+    "geom:latitude":41.978199,
+    "geom:longitude":-91.666901,
+    "iso:country":"US",
+    "sg:address":"222 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 4444",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jntMfRev1r6mhzGXlNjMp_41.978199_-91.666901@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115162,
+    "wof:geomhash":"96e0afe068c5fe42bd81254f9a18c41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066649
+        }
+    ],
+    "wof:id":857066649,
+    "wof:lastmodified":1464115162,
+    "wof:name":"U S Bank",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.666901,
+    41.978199,
+    -91.666901,
+    41.978199
+],
+  "geometry": {"coordinates":[-91.666901,41.978199],"type":"Point"}
+}

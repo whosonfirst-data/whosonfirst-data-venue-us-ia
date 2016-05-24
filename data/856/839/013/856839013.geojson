@@ -1,0 +1,71 @@
+{
+  "id": 856839013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.611899,41.644115,-93.611899,41.644115",
+    "geom:latitude":41.644115,
+    "geom:longitude":-93.611899,
+    "iso:country":"US",
+    "sg:address":"480 NE Broadway Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 1202",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Z77hQHOCbMYvpmyk8Ori_41.644115_-93.611899@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104962,
+    "wof:geomhash":"21084cc5e5e9f9889fb3b01240a27210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856839013
+        }
+    ],
+    "wof:id":856839013,
+    "wof:lastmodified":1464104962,
+    "wof:name":"Rons Auto Sales",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.611899,
+    41.644115,
+    -93.611899,
+    41.644115
+],
+  "geometry": {"coordinates":[-93.61189899999999,41.644115],"type":"Point"}
+}

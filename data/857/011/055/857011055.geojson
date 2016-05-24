@@ -1,0 +1,75 @@
+{
+  "id": 857011055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.702626,41.601459,-93.702626,41.601459",
+    "geom:latitude":41.601459,
+    "geom:longitude":-93.702626,
+    "iso:country":"US",
+    "sg:address":"1334 62nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 255 1316",
+    "sg:postcode":"50311",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WJhrxCMqQyBaxDLVwR329_41.601459_-93.702626@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112820,
+    "wof:geomhash":"66aa5b788ad0f5d8a963862d66a6fa1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877115,
+            "region_id":85688713,
+            "venue_id":857011055
+        }
+    ],
+    "wof:id":857011055,
+    "wof:lastmodified":1464112820,
+    "wof:name":"Collins Roofing Inc",
+    "wof:parent_id":85877115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.702626,
+    41.601459,
+    -93.702626,
+    41.601459
+],
+  "geometry": {"coordinates":[-93.702626,41.601459],"type":"Point"}
+}

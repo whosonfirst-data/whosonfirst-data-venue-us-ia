@@ -1,0 +1,73 @@
+{
+  "id": 857012145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.475912,42.521012,-96.475912,42.521012",
+    "geom:latitude":42.521012,
+    "geom:longitude":-96.475912,
+    "iso:country":"US",
+    "sg:address":"5220 Military Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1149",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d6j8ifFI2AIwAGuDprc3L_42.521012_-96.475912@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112863,
+    "wof:geomhash":"bff40308882b1902cb325aa5c6bce32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":857012145
+        }
+    ],
+    "wof:id":857012145,
+    "wof:lastmodified":1464112863,
+    "wof:name":"Tri State Appliance & Repair",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -96.475912,
+    42.521012,
+    -96.475912,
+    42.521012
+],
+  "geometry": {"coordinates":[-96.47591199999999,42.521012],"type":"Point"}
+}

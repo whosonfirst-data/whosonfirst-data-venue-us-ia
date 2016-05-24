@@ -1,0 +1,67 @@
+{
+  "id": 857069313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633797,42.034199,-91.633797,42.034199",
+    "geom:latitude":42.034199,
+    "geom:longitude":-91.633797,
+    "iso:country":"US",
+    "sg:address":"288 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 1862",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.bluelagoonia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zmxzLtjtgO0YFqVMIYwcK_42.034199_-91.633797@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115299,
+    "wof:geomhash":"a6a779c9bdc82694d3fc0c42358f520a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069313
+        }
+    ],
+    "wof:id":857069313,
+    "wof:lastmodified":1464115299,
+    "wof:name":"Blue Lagoon Car Wash & Storage",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.633797,
+    42.034199,
+    -91.633797,
+    42.034199
+],
+  "geometry": {"coordinates":[-91.633797,42.034199],"type":"Point"}
+}

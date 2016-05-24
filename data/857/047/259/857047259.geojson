@@ -1,0 +1,84 @@
+{
+  "id": 857047259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673698,41.974098,-91.673698,41.974098",
+    "geom:latitude":41.974098,
+    "geom:longitude":-91.673698,
+    "iso:country":"US",
+    "sg:address":"200 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8144",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "audio"
+    ],
+    "sg:website":"www.prattav.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bCHrTxg1p8ZwpO1lVitmI_41.973746_-91.674436@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114373,
+    "wof:geomhash":"cc7bb20176158e3f4b060b0b9f4fe699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857047259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857047259
+        }
+    ],
+    "wof:id":857047259,
+    "wof:lastmodified":1464114373,
+    "wof:name":"Pratt Audio Visual & Video Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio"
+    ]
+},
+  "bbox": [
+    -91.673698,
+    41.974098,
+    -91.673698,
+    41.974098
+],
+  "geometry": {"coordinates":[-91.673698,41.974098],"type":"Point"}
+}

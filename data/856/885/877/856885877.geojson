@@ -1,0 +1,71 @@
+{
+  "id": 856885877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.749967,41.174119,-95.749967,41.174119",
+    "geom:latitude":41.174119,
+    "geom:longitude":-95.749967,
+    "iso:country":"US",
+    "sg:address":"11853 Dumfries Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 6338",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pFGmg07axPJabScocIYA6_41.174119_-95.749967@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107517,
+    "wof:geomhash":"b8516bd4d4fb065a79146c51573a9ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856885877
+        }
+    ],
+    "wof:id":856885877,
+    "wof:lastmodified":1464107517,
+    "wof:name":"Heffernan Construction Co",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.749967,
+    41.174119,
+    -95.749967,
+    41.174119
+],
+  "geometry": {"coordinates":[-95.749967,41.174119],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856959195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725101,42.038155,-91.725101,42.038155",
+    "geom:latitude":42.038155,
+    "geom:longitude":-91.725101,
+    "iso:country":"US",
+    "sg:address":"5561 Hickorywood Ct",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9458",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06GKwooR6J8rTYSPo9QQDZ_42.038155_-91.725101@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110511,
+    "wof:geomhash":"18290295eab8a2b158754e1ac464577f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856959195
+        }
+    ],
+    "wof:id":856959195,
+    "wof:lastmodified":1464110511,
+    "wof:name":"Just Like Home Corporate Hsng",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.725101,
+    42.038155,
+    -91.725101,
+    42.038155
+],
+  "geometry": {"coordinates":[-91.725101,42.038155],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857030891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.723781,41.96379,-91.723781,41.96379",
+    "geom:latitude":41.96379,
+    "geom:longitude":-91.723781,
+    "iso:country":"US",
+    "sg:address":"3930 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 5790",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18mirszprN5ILCksa9hCbG_41.963790_-91.723781@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113699,
+    "wof:geomhash":"2d4d33ab99b5eb02ced5f61ca03797ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857030891
+        }
+    ],
+    "wof:id":857030891,
+    "wof:lastmodified":1464113699,
+    "wof:name":"Midwest Janitorial Svc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.723781,
+    41.96379,
+    -91.723781,
+    41.96379
+],
+  "geometry": {"coordinates":[-91.723781,41.96379],"type":"Point"}
+}

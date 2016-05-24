@@ -1,0 +1,75 @@
+{
+  "id": 856868203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.680701,42.047715,-91.680701,42.047715",
+    "geom:latitude":42.047715,
+    "geom:longitude":-91.680701,
+    "iso:country":"US",
+    "sg:address":"770 Boyson Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 0441",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OtR4Fyib3sytJu94WCSwS_42.047715_-91.680701@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106403,
+    "wof:geomhash":"132919b61a5b32b2e46c83f04e3144c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856868203
+        }
+    ],
+    "wof:id":856868203,
+    "wof:lastmodified":1464106403,
+    "wof:name":"Abra Auto Body & Glass",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.680701,
+    42.047715,
+    -91.680701,
+    42.047715
+],
+  "geometry": {"coordinates":[-91.680701,42.047715],"type":"Point"}
+}

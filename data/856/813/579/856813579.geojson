@@ -1,0 +1,71 @@
+{
+  "id": 856813579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.544588,41.620778,-91.544588,41.620778",
+    "geom:latitude":41.620778,
+    "geom:longitude":-91.544588,
+    "iso:country":"US",
+    "sg:address":"2750 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 8679",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ndRWV25GiMstJrEZfp5D1_41.620778_-91.544588@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103775,
+    "wof:geomhash":"f7502be0184a0d826f59233a1e7d265b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856813579
+        }
+    ],
+    "wof:id":856813579,
+    "wof:lastmodified":1464103775,
+    "wof:name":"Iron Horse Construction Co",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.544588,
+    41.620778,
+    -91.544588,
+    41.620778
+],
+  "geometry": {"coordinates":[-91.544588,41.620778],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857065939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6073,42.033298,-91.6073,42.033298",
+    "geom:latitude":42.033298,
+    "geom:longitude":-91.6073,
+    "iso:country":"US",
+    "sg:address":"361 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pawn Shop",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 0977",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GAjtVSBKVV3gq3aBKEOjC_42.033298_-91.607300@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115134,
+    "wof:geomhash":"d8d9285ca8653a8e058f40221954832a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065939
+        }
+    ],
+    "wof:id":857065939,
+    "wof:lastmodified":1464115134,
+    "wof:name":"Marion Guns & Gold",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6073,
+    42.033298,
+    -91.6073,
+    42.033298
+],
+  "geometry": {"coordinates":[-91.6073,42.033298],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856915795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.095776,41.837288,-94.095776,41.837288",
+    "geom:latitude":41.837288,
+    "geom:longitude":-94.095776,
+    "iso:country":"US",
+    "sg:address":"1923 Otley Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4168",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PyQsbystbA5sBxxvDfpTF_41.837288_-94.095776@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108651,
+    "wof:geomhash":"b9253486cb8f192bab67d3d8e452c37a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856915795
+        }
+    ],
+    "wof:id":856915795,
+    "wof:lastmodified":1464108651,
+    "wof:name":"Dennys Custom Construction",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.095776,
+    41.837288,
+    -94.095776,
+    41.837288
+],
+  "geometry": {"coordinates":[-94.095776,41.837288],"type":"Point"}
+}

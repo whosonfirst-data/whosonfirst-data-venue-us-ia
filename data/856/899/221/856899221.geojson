@@ -1,0 +1,69 @@
+{
+  "id": 856899221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533524,41.660148,-91.533524,41.660148",
+    "geom:latitude":41.660148,
+    "geom:longitude":-91.533524,
+    "iso:country":"US",
+    "sg:address":"132 E Washington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3337",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:website":"www.hillsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19B4sQ4Fna41Xt2PDpE0Nk_41.660148_-91.533524@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108024,
+    "wof:geomhash":"e66e21e20f685e9494bebe95d8c924be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856899221
+        }
+    ],
+    "wof:id":856899221,
+    "wof:lastmodified":1464108024,
+    "wof:name":"Hills Bank & Trust Co",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.533524,
+    41.660148,
+    -91.533524,
+    41.660148
+],
+  "geometry": {"coordinates":[-91.533524,41.660148],"type":"Point"}
+}

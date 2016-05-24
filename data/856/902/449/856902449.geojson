@@ -1,0 +1,73 @@
+{
+  "id": 856902449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.357165,42.406445,-96.357165,42.406445",
+    "geom:latitude":42.406445,
+    "geom:longitude":-96.357165,
+    "iso:country":"US",
+    "sg:address":"504 F St",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 5581",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "brick",
+        "common"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AvspJUXMYzDwxBcyur666_42.406445_-96.357165@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108139,
+    "wof:geomhash":"fa5419999fc596532fd900e3bb4cb413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856902449
+        }
+    ],
+    "wof:id":856902449,
+    "wof:lastmodified":1464108139,
+    "wof:name":"Sioux City Brick & Tile Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brick",
+        "common"
+    ]
+},
+  "bbox": [
+    -96.357165,
+    42.406445,
+    -96.357165,
+    42.406445
+],
+  "geometry": {"coordinates":[-96.35716499999999,42.406445],"type":"Point"}
+}

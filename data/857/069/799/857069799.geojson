@@ -1,0 +1,68 @@
+{
+  "id": 857069799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655403,41.9795,-91.655403,41.9795",
+    "geom:latitude":41.9795,
+    "geom:longitude":-91.655403,
+    "iso:country":"US",
+    "sg:address":"603 10th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 6180",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dM473Z7nF6XuQItBFzHkr_41.979500_-91.655403@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115320,
+    "wof:geomhash":"e4590736720927acdc7acddbde862396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069799
+        }
+    ],
+    "wof:id":857069799,
+    "wof:lastmodified":1464115320,
+    "wof:name":"Tewfik Hamed MD",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.655403,
+    41.9795,
+    -91.655403,
+    41.9795
+],
+  "geometry": {"coordinates":[-91.65540300000001,41.9795],"type":"Point"}
+}

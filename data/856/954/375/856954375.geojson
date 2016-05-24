@@ -1,0 +1,72 @@
+{
+  "id": 856954375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.69945,42.016959,-91.69945,42.016959",
+    "geom:latitude":42.016959,
+    "geom:longitude":-91.69945,
+    "iso:country":"US",
+    "sg:address":"4005 Glass Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5104",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.hamiltonmortgage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d3aivxXLWxofzz0aIwW8t_42.016959_-91.699450@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110298,
+    "wof:geomhash":"b5d49f51fc50effed599c6b47010cda2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856954375
+        }
+    ],
+    "wof:id":856954375,
+    "wof:lastmodified":1464110298,
+    "wof:name":"Hamilton Mortgage",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -91.69945,
+    42.016959,
+    -91.69945,
+    42.016959
+],
+  "geometry": {"coordinates":[-91.69945,42.016959],"type":"Point"}
+}

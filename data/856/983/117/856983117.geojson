@@ -1,0 +1,75 @@
+{
+  "id": 856983117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.452629,42.407368,-92.452629,42.407368",
+    "geom:latitude":42.407368,
+    "geom:longitude":-92.452629,
+    "iso:country":"US",
+    "sg:address":"520 Main St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 988 3231",
+    "sg:postcode":"50643",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SNaAo07TTyAxYN0u9TPWJ_42.407368_-92.452629@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111643,
+    "wof:geomhash":"4c8f53a73994240f41d38bfd51a41b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856983117
+        }
+    ],
+    "wof:id":856983117,
+    "wof:lastmodified":1464111643,
+    "wof:name":"Hudson Hardware Plumbing & Htg",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.452629,
+    42.407368,
+    -92.452629,
+    42.407368
+],
+  "geometry": {"coordinates":[-92.452629,42.407368],"type":"Point"}
+}

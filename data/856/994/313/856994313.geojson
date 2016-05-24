@@ -1,0 +1,71 @@
+{
+  "id": 856994313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.745222,41.969086,-91.745222,41.969086",
+    "geom:latitude":41.969086,
+    "geom:longitude":-91.745222,
+    "iso:country":"US",
+    "sg:address":"5707 1st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1554",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H4v9hN5J2HLXEips4mUPD_41.969086_-91.745222@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112151,
+    "wof:geomhash":"bfe132c04b6f6d2d7cb6a14430f503a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856994313
+        }
+    ],
+    "wof:id":856994313,
+    "wof:lastmodified":1464112151,
+    "wof:name":"Classic Photography",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -91.745222,
+    41.969086,
+    -91.745222,
+    41.969086
+],
+  "geometry": {"coordinates":[-91.745222,41.969086],"type":"Point"}
+}

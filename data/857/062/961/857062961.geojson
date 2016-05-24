@@ -1,0 +1,73 @@
+{
+  "id": 857062961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.868464,41.266166,-95.868464,41.266166",
+    "geom:latitude":41.266166,
+    "geom:longitude":-95.868464,
+    "iso:country":"US",
+    "sg:address":"1701 Avenue E St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7206",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "reupholstery",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NN64SAg3FYpNobxRGrlG1_41.266166_-95.868464@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115021,
+    "wof:geomhash":"7a1a99da92d8250edda6bc312f2ab8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062961
+        }
+    ],
+    "wof:id":857062961,
+    "wof:lastmodified":1464115021,
+    "wof:name":"Our Own Furniture",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -95.868464,
+    41.266166,
+    -95.868464,
+    41.266166
+],
+  "geometry": {"coordinates":[-95.868464,41.266166],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 856865161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684662,42.052368,-91.684662,42.052368",
+    "geom:latitude":42.052368,
+    "geom:longitude":-91.684662,
+    "iso:country":"US",
+    "sg:address":"1465 Sherman Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9096",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:website":"www.brokawvending.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bICULejvns0aKtPC6cp74_42.052368_-91.684662@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106220,
+    "wof:geomhash":"209ea5a1a8075f26e9dc4286a57b97d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856865161
+        }
+    ],
+    "wof:id":856865161,
+    "wof:lastmodified":1464106220,
+    "wof:name":"Brokaw Vending",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.684662,
+    42.052368,
+    -91.684662,
+    42.052368
+],
+  "geometry": {"coordinates":[-91.684662,42.052368],"type":"Point"}
+}

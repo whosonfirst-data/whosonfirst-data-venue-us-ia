@@ -1,0 +1,66 @@
+{
+  "id": 857068549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663101,42.007,-91.663101,42.007",
+    "geom:latitude":42.007,
+    "geom:longitude":-91.663101,
+    "iso:country":"US",
+    "sg:address":"2905 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 2425",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RANkdletq9xkgQO8aUHC_42.007000_-91.663101@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115263,
+    "wof:geomhash":"bbc1b14fadb531731fabd672bf8f45c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068549
+        }
+    ],
+    "wof:id":857068549,
+    "wof:lastmodified":1464115263,
+    "wof:name":"Kevin's Auto Repair",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.663101,
+    42.007,
+    -91.663101,
+    42.007
+],
+  "geometry": {"coordinates":[-91.663101,42.007],"type":"Point"}
+}

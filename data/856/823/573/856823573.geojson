@@ -1,0 +1,71 @@
+{
+  "id": 856823573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632554,42.046445,-91.632554,42.046445",
+    "geom:latitude":42.046445,
+    "geom:longitude":-91.632554,
+    "iso:country":"US",
+    "sg:address":"223 Boyson Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 490 2005",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mV8auxr18sC5cAKBTXpsN_42.046445_-91.632554@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104245,
+    "wof:geomhash":"f7161ba3e2f1d2dd9fe76334881c6ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856823573
+        }
+    ],
+    "wof:id":856823573,
+    "wof:lastmodified":1464104245,
+    "wof:name":"MCN Corporation",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -91.632554,
+    42.046445,
+    -91.632554,
+    42.046445
+],
+  "geometry": {"coordinates":[-91.632554,42.046445],"type":"Point"}
+}

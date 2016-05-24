@@ -1,0 +1,71 @@
+{
+  "id": 857023037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.571306,41.979309,-91.571306,41.979309",
+    "geom:latitude":41.979309,
+    "geom:longitude":-91.571306,
+    "iso:country":"US",
+    "sg:address":"6401 Hickory Blvd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5915",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52tGhyGdQVrtxcZTE06LNt_41.979309_-91.571306@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113316,
+    "wof:geomhash":"59962a91aba7263a93ba4ff7cd16a59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857023037
+        }
+    ],
+    "wof:id":857023037,
+    "wof:lastmodified":1464113316,
+    "wof:name":"Pfiffner Auto Repair",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.571306,
+    41.979309,
+    -91.571306,
+    41.979309
+],
+  "geometry": {"coordinates":[-91.57130600000001,41.979309],"type":"Point"}
+}

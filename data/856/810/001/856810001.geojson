@@ -1,0 +1,68 @@
+{
+  "id": 856810001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.775062,41.640177,-93.775062,41.640177",
+    "geom:latitude":41.640177,
+    "geom:longitude":-93.775062,
+    "iso:country":"US",
+    "sg:address":"4401 114th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 276 4118",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85844485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E2OjyQqmZJObKs5ZgdhI7_41.640177_-93.775062@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103638,
+    "wof:geomhash":"cc99d8732afd97e6093a57fe22f454f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85844485,
+            "region_id":85688713,
+            "venue_id":856810001
+        }
+    ],
+    "wof:id":856810001,
+    "wof:lastmodified":1464103638,
+    "wof:name":"Kinder Care Learning Ctr",
+    "wof:parent_id":85844485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.775062,
+    41.640177,
+    -93.775062,
+    41.640177
+],
+  "geometry": {"coordinates":[-93.77506200000001,41.640177],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857030917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.070857,42.490244,-96.070857,42.490244",
+    "geom:latitude":42.490244,
+    "geom:longitude":-96.070857,
+    "iso:country":"US",
+    "sg:address":"302 Ash St",
+    "sg:city":"Moville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 873 3818",
+    "sg:postcode":"51039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i2gqqS6yzgbKAKDdA09lq_42.490244_-96.070857@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113700,
+    "wof:geomhash":"d2a321e6c41d7484000d527551487feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857030917
+        }
+    ],
+    "wof:id":857030917,
+    "wof:lastmodified":1464113700,
+    "wof:name":"Hughes Wurscher Construction",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.070857,
+    42.490244,
+    -96.070857,
+    42.490244
+],
+  "geometry": {"coordinates":[-96.070857,42.490244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856892807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.537772,41.633604,-91.537772,41.633604",
+    "geom:latitude":41.633604,
+    "geom:longitude":-91.537772,
+    "iso:country":"US",
+    "sg:address":"79 Commercial Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 6799",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uaupCxo0psJ2NNB9P1wKO_41.633604_-91.537772@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107787,
+    "wof:geomhash":"3c0a13df6b229935adf806343aea691c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856892807
+        }
+    ],
+    "wof:id":856892807,
+    "wof:lastmodified":1464107787,
+    "wof:name":"Little Shop",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -91.537772,
+    41.633604,
+    -91.537772,
+    41.633604
+],
+  "geometry": {"coordinates":[-91.537772,41.633604],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857045959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725502,41.9804,-91.725502,41.9804",
+    "geom:latitude":41.9804,
+    "geom:longitude":-91.725502,
+    "iso:country":"US",
+    "sg:address":"4140 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7055",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rQxJVRrfk6coBdg7GgDaO_41.980307_-91.724844@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114308,
+    "wof:geomhash":"83fafeac3bad02ae8c18d1edb77ddb01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857045959
+        }
+    ],
+    "wof:id":857045959,
+    "wof:lastmodified":1464114308,
+    "wof:name":"B G Brecke Mechanical Contractor",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -91.725502,
+    41.9804,
+    -91.725502,
+    41.9804
+],
+  "geometry": {"coordinates":[-91.72550200000001,41.9804],"type":"Point"}
+}

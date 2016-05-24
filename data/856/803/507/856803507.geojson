@@ -1,0 +1,77 @@
+{
+  "id": 856803507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666017,41.984192,-91.666017,41.984192",
+    "geom:latitude":41.984192,
+    "geom:longitude":-91.666017,
+    "iso:country":"US",
+    "sg:address":"625 C Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2875",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0slPEhnRwuWDSmDaqb02Xv_41.984192_-91.666017@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103341,
+    "wof:geomhash":"5a6d27b5f55d5a0bb6f20bcd651507e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856803507
+        }
+    ],
+    "wof:id":856803507,
+    "wof:lastmodified":1464103341,
+    "wof:name":"Allen's Collision Ctr",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.666017,
+    41.984192,
+    -91.666017,
+    41.984192
+],
+  "geometry": {"coordinates":[-91.666017,41.984192],"type":"Point"}
+}

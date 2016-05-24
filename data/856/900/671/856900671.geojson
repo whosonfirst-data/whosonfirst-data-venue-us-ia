@@ -1,0 +1,74 @@
+{
+  "id": 856900671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851755,41.261822,-95.851755,41.261822",
+    "geom:latitude":41.261822,
+    "geom:longitude":-95.851755,
+    "iso:country":"US",
+    "sg:address":"7 N 6th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.councilbluffsiowa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cSIgy9ZRRRcNbFziXKjt5_41.261822_-95.851755@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108074,
+    "wof:geomhash":"6350b8d3395cff1e58698912e2765bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856900671
+        }
+    ],
+    "wof:id":856900671,
+    "wof:lastmodified":1464108074,
+    "wof:name":"Council Bluffs Chamber-Cmmrc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -95.851755,
+    41.261822,
+    -95.851755,
+    41.261822
+],
+  "geometry": {"coordinates":[-95.851755,41.261822],"type":"Point"}
+}

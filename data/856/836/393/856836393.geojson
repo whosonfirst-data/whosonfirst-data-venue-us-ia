@@ -1,0 +1,71 @@
+{
+  "id": 856836393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.5376,41.469508,-95.5376,41.469508",
+    "geom:latitude":41.469508,
+    "geom:longitude":-95.5376,
+    "iso:country":"US",
+    "sg:address":"603 Main St",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2128",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nG6a4w144jBAUQBUTluXv_41.469508_-95.537600@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104845,
+    "wof:geomhash":"e2e8efc186a59b2a9ae1c62bc8eb2e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856836393
+        }
+    ],
+    "wof:id":856836393,
+    "wof:lastmodified":1464104845,
+    "wof:name":"Con Agra Frozen Foods",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -95.5376,
+    41.469508,
+    -95.5376,
+    41.469508
+],
+  "geometry": {"coordinates":[-95.5376,41.469508],"type":"Point"}
+}

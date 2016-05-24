@@ -1,0 +1,79 @@
+{
+  "id": 856971507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531521,41.664646,-91.531521,41.664646",
+    "geom:latitude":41.664646,
+    "geom:longitude":-91.531521,
+    "iso:country":"US",
+    "sg:address":"202 N Linn St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 0977",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W631LI457igtHvDXh23nR_41.664646_-91.531521@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111043,
+    "wof:geomhash":"9f847cf1bf8fb2d1e1960f41d9d38381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856971507
+        }
+    ],
+    "wof:id":856971507,
+    "wof:lastmodified":1464111043,
+    "wof:name":"That's Rentertainment",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.531521,
+    41.664646,
+    -91.531521,
+    41.664646
+],
+  "geometry": {"coordinates":[-91.531521,41.664646],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856891677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.609213,41.584314,-93.609213,41.584314",
+    "geom:latitude":41.584314,
+    "geom:longitude":-93.609213,
+    "iso:country":"US",
+    "sg:address":"215 SE 5th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 283 4595",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65hs5Vr7izb1tgcNu4bfER_41.584314_-93.609213@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107750,
+    "wof:geomhash":"ed977b60a50b593bf8e1c5c0999f246e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856891677
+        }
+    ],
+    "wof:id":856891677,
+    "wof:lastmodified":1464107750,
+    "wof:name":"Garbage Sold Waste Collection",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -93.609213,
+    41.584314,
+    -93.609213,
+    41.584314
+],
+  "geometry": {"coordinates":[-93.609213,41.584314],"type":"Point"}
+}

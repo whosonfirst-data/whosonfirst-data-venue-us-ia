@@ -1,0 +1,73 @@
+{
+  "id": 857052151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.499222,41.500307,-93.499222,41.500307",
+    "geom:latitude":41.500307,
+    "geom:longitude":-93.499222,
+    "iso:country":"US",
+    "sg:address":"1100 Market St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3841",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lutheran",
+        "operates",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63NTzDI5voDNGvEIhzG85w_41.500184_-93.499079@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114584,
+    "wof:geomhash":"1942c47b341bc8cf046bd95b12dbb569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857052151
+        }
+    ],
+    "wof:id":857052151,
+    "wof:lastmodified":1464114584,
+    "wof:name":"Holy Cross Lutheran Church Mo Synod",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lutheran",
+        "operates",
+        "church"
+    ]
+},
+  "bbox": [
+    -93.499222,
+    41.500307,
+    -93.499222,
+    41.500307
+],
+  "geometry": {"coordinates":[-93.499222,41.500307],"type":"Point"}
+}

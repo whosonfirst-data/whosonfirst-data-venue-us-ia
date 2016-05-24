@@ -1,0 +1,73 @@
+{
+  "id": 856918497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.699459,42.110608,-91.699459,42.110608",
+    "geom:latitude":42.110608,
+    "geom:longitude":-91.699459,
+    "iso:country":"US",
+    "sg:address":"3360 N Center Point Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4581",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e0ziDolo5DjFDcMb1T8xx_42.110608_-91.699459@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108748,
+    "wof:geomhash":"64c85fa6b0a65716fc69ac0103578fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856918497
+        }
+    ],
+    "wof:id":856918497,
+    "wof:lastmodified":1464108748,
+    "wof:name":"Kulish Electric Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.699459,
+    42.110608,
+    -91.699459,
+    42.110608
+],
+  "geometry": {"coordinates":[-91.699459,42.110608],"type":"Point"}
+}

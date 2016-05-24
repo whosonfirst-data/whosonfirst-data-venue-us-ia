@@ -1,0 +1,71 @@
+{
+  "id": 857068727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623299,42.027,-91.623299,42.027",
+    "geom:latitude":42.027,
+    "geom:longitude":-91.623299,
+    "iso:country":"US",
+    "sg:address":"100 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 8686",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JBIlsJXOH8EeU3vqZ4Z5H_42.027000_-91.623299@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115278,
+    "wof:geomhash":"1f3a20b405f32734e9df75e0b808e5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068727
+        }
+    ],
+    "wof:id":857068727,
+    "wof:lastmodified":1464115278,
+    "wof:name":"Collins Road Tire Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.623299,
+    42.027,
+    -91.623299,
+    42.027
+],
+  "geometry": {"coordinates":[-91.623299,42.027],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856876903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.841936,41.239686,-95.841936,41.239686",
+    "geom:latitude":41.239686,
+    "geom:longitude":-95.841936,
+    "iso:country":"US",
+    "sg:address":"2537 South Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IDNEAJVzvAQ4rRTbQbOyB_41.239686_-95.841936@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107028,
+    "wof:geomhash":"2fb8eb7f636475e8abdde0f6cb291f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856876903
+        }
+    ],
+    "wof:id":856876903,
+    "wof:lastmodified":1464107028,
+    "wof:name":"Cadet Construction Co",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.841936,
+    41.239686,
+    -95.841936,
+    41.239686
+],
+  "geometry": {"coordinates":[-95.841936,41.239686],"type":"Point"}
+}

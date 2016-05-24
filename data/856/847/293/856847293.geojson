@@ -1,0 +1,75 @@
+{
+  "id": 856847293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.605127,41.526282,-93.605127,41.526282",
+    "geom:latitude":41.526282,
+    "geom:longitude":-93.605127,
+    "iso:country":"US",
+    "sg:address":"655 E Army Post Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 245 2977",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xRMiG3LLCSxXqrsigsBLg_41.526282_-93.605127@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105351,
+    "wof:geomhash":"14c905f36e4b5fd3a802e8ce3f29fd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":856847293
+        }
+    ],
+    "wof:id":856847293,
+    "wof:lastmodified":1464105351,
+    "wof:name":"Banker Trust South",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -93.605127,
+    41.526282,
+    -93.605127,
+    41.526282
+],
+  "geometry": {"coordinates":[-93.605127,41.526282],"type":"Point"}
+}

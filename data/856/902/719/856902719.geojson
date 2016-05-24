@@ -1,0 +1,71 @@
+{
+  "id": 856902719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.025316,41.606006,-94.025316,41.606006",
+    "geom:latitude":41.606006,
+    "geom:longitude":-94.025316,
+    "iso:country":"US",
+    "sg:address":"1409 Sandra Cir",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4639",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "programming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GBYWpH8Rr2aVoS7YbtCeh_41.606006_-94.025316@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108147,
+    "wof:geomhash":"dc0eb3b88fd95e8a3473b42a32ed9ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856902719
+        }
+    ],
+    "wof:id":856902719,
+    "wof:lastmodified":1464108147,
+    "wof:name":"Dimensional Data Solutions Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -94.025316,
+    41.606006,
+    -94.025316,
+    41.606006
+],
+  "geometry": {"coordinates":[-94.025316,41.606006],"type":"Point"}
+}

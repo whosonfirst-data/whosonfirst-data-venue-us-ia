@@ -1,0 +1,78 @@
+{
+  "id": 857058533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417865,42.517997,-96.417865,42.517997",
+    "geom:latitude":42.517997,
+    "geom:longitude":-96.417865,
+    "iso:country":"US",
+    "sg:address":"320 W 27th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/124377-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 7827",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vAaoWNjgzlh5pXdB4eOhl_42.517997_-96.417865@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114847,
+    "wof:geomhash":"12032c2b5cff3548da13151813e120fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857058533
+        }
+    ],
+    "wof:id":857058533,
+    "wof:lastmodified":1464114847,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.417865,
+    42.517997,
+    -96.417865,
+    42.517997
+],
+  "geometry": {"coordinates":[-96.41786500000001,42.517997],"type":"Point"}
+}

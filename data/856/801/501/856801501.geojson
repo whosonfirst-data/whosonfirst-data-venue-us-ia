@@ -1,0 +1,76 @@
+{
+  "id": 856801501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.480536,41.600571,-93.480536,41.600571",
+    "geom:latitude":41.600571,
+    "geom:longitude":-93.480536,
+    "iso:country":"US",
+    "sg:address":"6540 NE 12th Ave",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 8581",
+    "sg:postcode":"50327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "sg:website":"www.seprwd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944151,
+        102086603,
+        85844693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XgcUuKpzbFCYHlCBNtnLC_41.600571_-93.480536@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103254,
+    "wof:geomhash":"d6fd10334b4662a81773d9709a373083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944151,
+            "neighbourhood_id":85844693,
+            "region_id":85688713,
+            "venue_id":856801501
+        }
+    ],
+    "wof:id":856801501,
+    "wof:lastmodified":1464103254,
+    "wof:name":"Southeast Polk Water District",
+    "wof:parent_id":85844693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -93.480536,
+    41.600571,
+    -93.480536,
+    41.600571
+],
+  "geometry": {"coordinates":[-93.480536,41.600571],"type":"Point"}
+}

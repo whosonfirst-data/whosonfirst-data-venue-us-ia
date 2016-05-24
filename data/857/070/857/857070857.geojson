@@ -1,0 +1,71 @@
+{
+  "id": 857070857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656374,41.904866,-91.656374,41.904866",
+    "geom:latitude":41.904866,
+    "geom:longitude":-91.656374,
+    "iso:country":"US",
+    "sg:address":"7725 Kirkwood Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 8700",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p5fvCKLzbMBoXW9E1TyZ5_41.904866_-91.656374@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115370,
+    "wof:geomhash":"794cd60d189876c9aa9c473550f65c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070857
+        }
+    ],
+    "wof:id":857070857,
+    "wof:lastmodified":1464115370,
+    "wof:name":"Kirkwood Community College Hotel",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -91.656374,
+    41.904866,
+    -91.656374,
+    41.904866
+],
+  "geometry": {"coordinates":[-91.656374,41.904866],"type":"Point"}
+}

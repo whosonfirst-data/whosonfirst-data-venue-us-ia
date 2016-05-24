@@ -1,0 +1,73 @@
+{
+  "id": 856802071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89033,41.223465,-95.89033,41.223465",
+    "geom:latitude":41.223465,
+    "geom:longitude":-95.89033,
+    "iso:country":"US",
+    "sg:address":"3603 Norma St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2520",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lettering",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cN7toNGMyg2lDn0wonKSb_41.223465_-95.890330@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103275,
+    "wof:geomhash":"559c45e9f22dd0f944ee15dfdd705c76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856802071
+        }
+    ],
+    "wof:id":856802071,
+    "wof:lastmodified":1464103275,
+    "wof:name":"Designs & Signs",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lettering",
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.89033,
+    41.223465,
+    -95.89033,
+    41.223465
+],
+  "geometry": {"coordinates":[-95.89033000000001,41.223465],"type":"Point"}
+}

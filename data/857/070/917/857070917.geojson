@@ -1,0 +1,66 @@
+{
+  "id": 857070917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716321,41.960444,-91.716321,41.960444",
+    "geom:latitude":41.960444,
+    "geom:longitude":-91.716321,
+    "iso:country":"US",
+    "sg:address":"2040 Edgewood Rd SW Ste 300",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5110",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gWEr407bpXPjqxmrQhLaM_41.960444_-91.716321@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115372,
+    "wof:geomhash":"ca6cf7e0f62e217e23b2becb3aa2c2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070917
+        }
+    ],
+    "wof:id":857070917,
+    "wof:lastmodified":1464115372,
+    "wof:name":"Nail World",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.716321,
+    41.960444,
+    -91.716321,
+    41.960444
+],
+  "geometry": {"coordinates":[-91.71632099999999,41.960444],"type":"Point"}
+}

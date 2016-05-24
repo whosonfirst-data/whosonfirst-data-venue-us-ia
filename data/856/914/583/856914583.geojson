@@ -1,0 +1,73 @@
+{
+  "id": 856914583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.067457,41.796323,-94.067457,41.796323",
+    "geom:latitude":41.796323,
+    "geom:longitude":-94.067457,
+    "iso:country":"US",
+    "sg:address":"1667 L Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 9479",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LtR94yp2enAceHW8e3mTy_41.796323_-94.067457@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108607,
+    "wof:geomhash":"fe5284ce7a627642e762f14d4fea6aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856914583
+        }
+    ],
+    "wof:id":856914583,
+    "wof:lastmodified":1464108607,
+    "wof:name":"Larcon Enterprises",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.067457,
+    41.796323,
+    -94.067457,
+    41.796323
+],
+  "geometry": {"coordinates":[-94.067457,41.796323],"type":"Point"}
+}

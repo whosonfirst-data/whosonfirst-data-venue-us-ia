@@ -1,0 +1,73 @@
+{
+  "id": 856804603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.378273,42.502799,-96.378273,42.502799",
+    "geom:latitude":42.502799,
+    "geom:longitude":-96.378273,
+    "iso:country":"US",
+    "sg:address":"1218 Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 3282",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "scale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J6Z7aL7PkCx30ngLwafZm_42.502799_-96.378273@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103386,
+    "wof:geomhash":"f10c6a5521e3613c9c9d2660562a3f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856804603
+        }
+    ],
+    "wof:id":856804603,
+    "wof:lastmodified":1464103386,
+    "wof:name":"Siouxland Scale Svc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scale"
+    ]
+},
+  "bbox": [
+    -96.378273,
+    42.502799,
+    -96.378273,
+    42.502799
+],
+  "geometry": {"coordinates":[-96.37827299999999,42.502799],"type":"Point"}
+}

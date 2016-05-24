@@ -1,0 +1,71 @@
+{
+  "id": 856884417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638688,41.987469,-91.638688,41.987469",
+    "geom:latitude":41.987469,
+    "geom:longitude":-91.638688,
+    "iso:country":"US",
+    "sg:address":"2017 Grande Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6432",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O4bPlsQiUfOU68xdf3oqG_41.987469_-91.638688@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107442,
+    "wof:geomhash":"ea5b12fa894f088fedb81c7f59577898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856884417
+        }
+    ],
+    "wof:id":856884417,
+    "wof:lastmodified":1464107442,
+    "wof:name":"Energy Management Insul Co",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.638688,
+    41.987469,
+    -91.638688,
+    41.987469
+],
+  "geometry": {"coordinates":[-91.638688,41.987469],"type":"Point"}
+}

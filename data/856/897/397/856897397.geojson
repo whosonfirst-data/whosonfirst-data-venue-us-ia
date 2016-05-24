@@ -1,0 +1,73 @@
+{
+  "id": 856897397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664437,42.012791,-91.664437,42.012791",
+    "geom:latitude":42.012791,
+    "geom:longitude":-91.664437,
+    "iso:country":"US",
+    "sg:address":"1850 McCloud Pl NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6220",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wBJy19dLEgiDwvbHTMSr4_42.012791_-91.664437@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107959,
+    "wof:geomhash":"4161dc2e25583233df89eba41edacc12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856897397
+        }
+    ],
+    "wof:id":856897397,
+    "wof:lastmodified":1464107959,
+    "wof:name":"Barron Motor Supply",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -91.664437,
+    42.012791,
+    -91.664437,
+    42.012791
+],
+  "geometry": {"coordinates":[-91.66443700000001,42.012791],"type":"Point"}
+}

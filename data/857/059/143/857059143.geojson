@@ -1,0 +1,76 @@
+{
+  "id": 857059143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.508839,41.643863,-91.508839,41.643863",
+    "geom:latitude":41.643863,
+    "geom:longitude":-91.508839,
+    "iso:country":"US",
+    "sg:address":"1853 Lower Muscatine Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/246162-oyama-sushi-japanese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 8801",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25N4gtquxcs3oikrJZwLce_41.643863_-91.508839@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114867,
+    "wof:geomhash":"535498baf50a098bf4f88e11045b6189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":857059143
+        }
+    ],
+    "wof:id":857059143,
+    "wof:lastmodified":1464114867,
+    "wof:name":"Oyama Sushi Japanese Restaurant",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -91.508839,
+    41.643863,
+    -91.508839,
+    41.643863
+],
+  "geometry": {"coordinates":[-91.50883899999999,41.643863],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856951019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.812789,41.279399,-95.812789,41.279399",
+    "geom:latitude":41.279399,
+    "geom:longitude":-95.812789,
+    "iso:country":"US",
+    "sg:address":"2528 E Kanesville Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 9712",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CxXxHGk4YmcND5Na5HNYt_41.279399_-95.812789@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110123,
+    "wof:geomhash":"b268b3ff7fee5668207696c88d64069c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856951019
+        }
+    ],
+    "wof:id":856951019,
+    "wof:lastmodified":1464110123,
+    "wof:name":"Cavern",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [
+    -95.812789,
+    41.279399,
+    -95.812789,
+    41.279399
+],
+  "geometry": {"coordinates":[-95.812789,41.279399],"type":"Point"}
+}

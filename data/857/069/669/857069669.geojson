@@ -1,0 +1,71 @@
+{
+  "id": 857069669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621498,41.976799,-91.621498,41.976799",
+    "geom:latitude":41.976799,
+    "geom:longitude":-91.621498,
+    "iso:country":"US",
+    "sg:address":"2846 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8016",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fa5RGnCu7GfR3RXFMU2jc_41.976799_-91.621498@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115310,
+    "wof:geomhash":"93765bf55318a209195c916ccdb3e8c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069669
+        }
+    ],
+    "wof:id":857069669,
+    "wof:lastmodified":1464115310,
+    "wof:name":"Tobacco Outlet Plus # 560",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.621498,
+    41.976799,
+    -91.621498,
+    41.976799
+],
+  "geometry": {"coordinates":[-91.621498,41.976799],"type":"Point"}
+}

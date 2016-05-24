@@ -1,0 +1,75 @@
+{
+  "id": 856962197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.339474,41.477663,-95.339474,41.477663",
+    "geom:latitude":41.477663,
+    "geom:longitude":-95.339474,
+    "iso:country":"US",
+    "sg:address":"209 N Elm St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6792",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30IyBnso0I5wtZfla5e7Qv_41.477663_-95.339474@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110640,
+    "wof:geomhash":"84242b66777b6e91f95b75c3e075acbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856962197
+        }
+    ],
+    "wof:id":856962197,
+    "wof:lastmodified":1464110640,
+    "wof:name":"Pottawattamie Public Health",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -95.339474,
+    41.477663,
+    -95.339474,
+    41.477663
+],
+  "geometry": {"coordinates":[-95.339474,41.477663],"type":"Point"}
+}

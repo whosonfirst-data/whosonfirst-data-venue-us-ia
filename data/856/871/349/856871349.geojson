@@ -1,0 +1,73 @@
+{
+  "id": 856871349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925372,41.284935,-95.925372,41.284935",
+    "geom:latitude":41.284935,
+    "geom:longitude":-95.925372,
+    "iso:country":"US",
+    "sg:address":"299 E Locust St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 5112",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h2HWiV80Z40i8xz2vJBy8_41.284935_-95.925372@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106691,
+    "wof:geomhash":"3d625555ef5bd30e7dd27e2167224205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856871349
+        }
+    ],
+    "wof:id":856871349,
+    "wof:lastmodified":1464106691,
+    "wof:name":"Carter Lake Auto",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.925372,
+    41.284935,
+    -95.925372,
+    41.284935
+],
+  "geometry": {"coordinates":[-95.925372,41.284935],"type":"Point"}
+}

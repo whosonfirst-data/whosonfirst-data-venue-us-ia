@@ -1,0 +1,71 @@
+{
+  "id": 856803287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.799895,41.257152,-95.799895,41.257152",
+    "geom:latitude":41.257152,
+    "geom:longitude":-95.799895,
+    "iso:country":"US",
+    "sg:address":"400 Cloverdale Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2384",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ArydJEKQF0XrhHqCEuc48_41.257152_-95.799895@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103334,
+    "wof:geomhash":"9d654c27eaddce64a96c8e1e6444a26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856803287
+        }
+    ],
+    "wof:id":856803287,
+    "wof:lastmodified":1464103334,
+    "wof:name":"St John's United Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.799895,
+    41.257152,
+    -95.799895,
+    41.257152
+],
+  "geometry": {"coordinates":[-95.79989500000001,41.257152],"type":"Point"}
+}

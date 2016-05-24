@@ -1,0 +1,73 @@
+{
+  "id": 857064039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850606,41.260735,-95.850606,41.260735",
+    "geom:latitude":41.260735,
+    "geom:longitude":-95.850606,
+    "iso:country":"US",
+    "sg:address":"22 Pearl St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 8735",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d4EG49s9wfP8WpBjAI2sb_41.260735_-95.850606@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115063,
+    "wof:geomhash":"06eea24236c4309b840ef081ea5ecff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064039
+        }
+    ],
+    "wof:id":857064039,
+    "wof:lastmodified":1464115063,
+    "wof:name":"Homesmartz Mortgage",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -95.850606,
+    41.260735,
+    -95.850606,
+    41.260735
+],
+  "geometry": {"coordinates":[-95.850606,41.260735],"type":"Point"}
+}

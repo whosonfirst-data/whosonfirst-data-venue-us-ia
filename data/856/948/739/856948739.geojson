@@ -1,0 +1,71 @@
+{
+  "id": 856948739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.419628,41.917562,-91.419628,41.917562",
+    "geom:latitude":41.917562,
+    "geom:longitude":-91.419628,
+    "iso:country":"US",
+    "sg:address":"212 7th St SE",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6246",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EwRIFb5RY8YjHFxN9Vyid_41.917562_-91.419628@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110024,
+    "wof:geomhash":"106e256bb6802cdaef90ebb0487720b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856948739
+        }
+    ],
+    "wof:id":856948739,
+    "wof:lastmodified":1464110024,
+    "wof:name":"St John's Catholic Church",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.419628,
+    41.917562,
+    -91.419628,
+    41.917562
+],
+  "geometry": {"coordinates":[-91.419628,41.917562],"type":"Point"}
+}

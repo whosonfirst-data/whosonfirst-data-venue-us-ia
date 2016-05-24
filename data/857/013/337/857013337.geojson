@@ -1,0 +1,75 @@
+{
+  "id": 857013337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.210281,42.378944,-96.210281,42.378944",
+    "geom:latitude":42.378944,
+    "geom:longitude":-96.210281,
+    "iso:country":"US",
+    "sg:address":"2041 Old Hwy 141",
+    "sg:city":"Bronson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 948 3432",
+    "sg:postcode":"51007",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A9srBlftaMg7woKaH0WYc_42.378944_-96.210281@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112921,
+    "wof:geomhash":"bddfe545f1be67a48b61606493c6bf3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857013337
+        }
+    ],
+    "wof:id":857013337,
+    "wof:lastmodified":1464112921,
+    "wof:name":"T&M Enterprises",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.210281,
+    42.378944,
+    -96.210281,
+    42.378944
+],
+  "geometry": {"coordinates":[-96.21028099999999,42.378944],"type":"Point"}
+}

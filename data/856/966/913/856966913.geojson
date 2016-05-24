@@ -1,0 +1,71 @@
+{
+  "id": 856966913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.62466,41.890015,-91.62466,41.890015",
+    "geom:latitude":41.890015,
+    "geom:longitude":-91.62466,
+    "iso:country":"US",
+    "sg:address":"2535 Wright Brothers Blvd E",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2836",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49AsBiwnVQHfLpWynvIcth_41.890015_-91.624660@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110822,
+    "wof:geomhash":"517f67b70ee6e5ecbde5212f70e41fa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856966913
+        }
+    ],
+    "wof:id":856966913,
+    "wof:lastmodified":1464110822,
+    "wof:name":"US Airway Facilities Sector",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -91.62466,
+    41.890015,
+    -91.62466,
+    41.890015
+],
+  "geometry": {"coordinates":[-91.62466000000001,41.890015],"type":"Point"}
+}

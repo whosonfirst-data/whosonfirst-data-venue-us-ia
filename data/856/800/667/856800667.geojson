@@ -1,0 +1,73 @@
+{
+  "id": 856800667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.410946,42.497507,-96.410946,42.497507",
+    "geom:latitude":42.497507,
+    "geom:longitude":-96.410946,
+    "iso:country":"US",
+    "sg:address":"609 Wesley Pkwy",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0705",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mT4SaCl1JwT7E3ATeQCg8_42.497507_-96.410946@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103223,
+    "wof:geomhash":"a1bb1d2b9b1821efd57f465fcc1d3ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856800667
+        }
+    ],
+    "wof:id":856800667,
+    "wof:lastmodified":1464103223,
+    "wof:name":"Lawler Fixture Co Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -96.410946,
+    42.497507,
+    -96.410946,
+    42.497507
+],
+  "geometry": {"coordinates":[-96.410946,42.497507],"type":"Point"}
+}

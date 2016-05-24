@@ -1,0 +1,82 @@
+{
+  "id": 857071319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678398,41.981201,-91.678398,41.981201",
+    "geom:latitude":41.981201,
+    "geom:longitude":-91.678398,
+    "iso:country":"US",
+    "sg:address":"380 H Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9855",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "cosmetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WxLwgoV84Hu7lZYLMxWRm_41.981201_-91.678398@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115391,
+    "wof:geomhash":"1d1e36c95f909c84f862830880e2c745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071319
+        }
+    ],
+    "wof:id":857071319,
+    "wof:lastmodified":1464115391,
+    "wof:name":"Fox Eye Laser & Cosmetic Institute P C",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -91.678398,
+    41.981201,
+    -91.678398,
+    41.981201
+],
+  "geometry": {"coordinates":[-91.678398,41.981201],"type":"Point"}
+}

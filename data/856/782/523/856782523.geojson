@@ -1,0 +1,73 @@
+{
+  "id": 856782523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.356892,42.459713,-96.356892,42.459713",
+    "geom:latitude":42.459713,
+    "geom:longitude":-96.356892,
+    "iso:country":"US",
+    "sg:address":"3000 Sergeant Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 1840",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "correspondent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8NYodMu1MuG1ruiUKCPE_42.459713_-96.356892@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102490,
+    "wof:geomhash":"b3cf796e58a258ffdf4866c993780d0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856782523
+        }
+    ],
+    "wof:id":856782523,
+    "wof:lastmodified":1464102490,
+    "wof:name":"Wesley Ratcliff",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "correspondent"
+    ]
+},
+  "bbox": [
+    -96.356892,
+    42.459713,
+    -96.356892,
+    42.459713
+],
+  "geometry": {"coordinates":[-96.356892,42.459713],"type":"Point"}
+}

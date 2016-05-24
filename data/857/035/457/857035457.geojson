@@ -1,0 +1,71 @@
+{
+  "id": 857035457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.411067,41.916619,-91.411067,41.916619",
+    "geom:latitude":41.916619,
+    "geom:longitude":-91.411067,
+    "iso:country":"US",
+    "sg:address":"100 US Hwy 30 W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 9200",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43RAdO2CyeVtbIUxpkg3Tv_41.916619_-91.411067@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113910,
+    "wof:geomhash":"19cedc71cab51c11b4a0d75f3162b51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857035457
+        }
+    ],
+    "wof:id":857035457,
+    "wof:lastmodified":1464113910,
+    "wof:name":"China Cafe",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.411067,
+    41.916619,
+    -91.411067,
+    41.916619
+],
+  "geometry": {"coordinates":[-91.411067,41.916619],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857068895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664497,42.015099,-91.664497,42.015099",
+    "geom:latitude":42.015099,
+    "geom:longitude":-91.664497,
+    "iso:country":"US",
+    "sg:address":"3519 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 5555",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bankruptcy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WIW5AW6raLjdJrr5RXdrf_42.015099_-91.664497@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115284,
+    "wof:geomhash":"73bac367ab5d8a8fb3f55afeafa324e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068895
+        }
+    ],
+    "wof:id":857068895,
+    "wof:lastmodified":1464115284,
+    "wof:name":"Willey O'brien Mullin Laverty & Hanrahan Lc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bankruptcy"
+    ]
+},
+  "bbox": [
+    -91.664497,
+    42.015099,
+    -91.664497,
+    42.015099
+],
+  "geometry": {"coordinates":[-91.664497,42.015099],"type":"Point"}
+}

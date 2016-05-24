@@ -1,0 +1,73 @@
+{
+  "id": 856897133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.370082,42.408262,-96.370082,42.408262",
+    "geom:latitude":42.408262,
+    "geom:longitude":-96.370082,
+    "iso:country":"US",
+    "sg:address":"5500 Harbor Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 5606",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68F0ahCMqv91xDRRgulBfC_42.408262_-96.370082@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107945,
+    "wof:geomhash":"08d5be40c89bfd88cf593bef4e5797f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856897133
+        }
+    ],
+    "wof:id":856897133,
+    "wof:lastmodified":1464107945,
+    "wof:name":"Midwest Pallet Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -96.370082,
+    42.408262,
+    -96.370082,
+    42.408262
+],
+  "geometry": {"coordinates":[-96.370082,42.408262],"type":"Point"}
+}

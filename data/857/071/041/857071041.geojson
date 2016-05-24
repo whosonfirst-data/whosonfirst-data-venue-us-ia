@@ -1,0 +1,73 @@
+{
+  "id": 857071041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.717201,41.980099,-91.717201,41.980099",
+    "geom:latitude":41.980099,
+    "geom:longitude":-91.717201,
+    "iso:country":"US",
+    "sg:address":"3500 F Ave NW Ste 1",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 654 0300",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "personal",
+        "injury"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ij0q0wAmI9G6sjqQAYpuY_41.980099_-91.717201@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115377,
+    "wof:geomhash":"eaf4f4db67380eef1f32f8e74f247922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071041
+        }
+    ],
+    "wof:id":857071041,
+    "wof:lastmodified":1464115377,
+    "wof:name":"Lindeman Law",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "injury"
+    ]
+},
+  "bbox": [
+    -91.717201,
+    41.980099,
+    -91.717201,
+    41.980099
+],
+  "geometry": {"coordinates":[-91.717201,41.980099],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857067925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.642524,41.993862,-91.642524,41.993862",
+    "geom:latitude":41.993862,
+    "geom:longitude":-91.642524,
+    "iso:country":"US",
+    "sg:address":"2000 1st Ave NE Ste 201",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 9200",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.statefarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ShPi6eFuMfy36UVhsRLsi_41.993862_-91.642524@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115232,
+    "wof:geomhash":"6c605be88eab942df3fafc8c1eaa1d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067925
+        }
+    ],
+    "wof:id":857067925,
+    "wof:lastmodified":1464115232,
+    "wof:name":"State Farm Insurance Cos",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.642524,
+    41.993862,
+    -91.642524,
+    41.993862
+],
+  "geometry": {"coordinates":[-91.64252399999999,41.993862],"type":"Point"}
+}

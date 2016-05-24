@@ -1,0 +1,66 @@
+{
+  "id": 857025699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.553905,41.976456,-91.553905,41.976456",
+    "geom:latitude":41.976456,
+    "geom:longitude":-91.553905,
+    "iso:country":"US",
+    "sg:address":"888 Vernon Valley Dr",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 6628",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46NHjKP7sJZdN7mokhvMmK_41.976456_-91.553905@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113443,
+    "wof:geomhash":"9ab7420227ae0e8a90672d5c9bc11c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857025699
+        }
+    ],
+    "wof:id":857025699,
+    "wof:lastmodified":1464113443,
+    "wof:name":"Highway 13 Handimart",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.553905,
+    41.976456,
+    -91.553905,
+    41.976456
+],
+  "geometry": {"coordinates":[-91.553905,41.976456],"type":"Point"}
+}

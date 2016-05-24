@@ -1,0 +1,74 @@
+{
+  "id": 856773379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.486657,41.498599,-93.486657,41.498599",
+    "geom:latitude":41.498599,
+    "geom:longitude":-93.486657,
+    "iso:country":"US",
+    "sg:address":"100 School St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 4241",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "library",
+        "supply"
+    ],
+    "sg:website":"www.joneslibrary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t3VZPrCTUazqw6F7vORpC_41.498599_-93.486657@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102285,
+    "wof:geomhash":"dfa17ca259bec34bed4fac2fdb9bf38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856773379
+        }
+    ],
+    "wof:id":856773379,
+    "wof:lastmodified":1464102285,
+    "wof:name":"Jones Library Sales Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "library",
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.486657,
+    41.498599,
+    -93.486657,
+    41.498599
+],
+  "geometry": {"coordinates":[-93.48665699999999,41.498599],"type":"Point"}
+}

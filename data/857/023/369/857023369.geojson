@@ -1,0 +1,71 @@
+{
+  "id": 857023369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.926177,41.854694,-93.926177,41.854694",
+    "geom:latitude":41.854694,
+    "geom:longitude":-93.926177,
+    "iso:country":"US",
+    "sg:address":"406 Cherry Ave",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2769",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00OaoXkK99PqNw4Bn8UCWb_41.854694_-93.926177@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113327,
+    "wof:geomhash":"09e937f29aa3c19d260c6716ac63b3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857023369
+        }
+    ],
+    "wof:id":857023369,
+    "wof:lastmodified":1464113327,
+    "wof:name":"Watkins Products",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spice"
+    ]
+},
+  "bbox": [
+    -93.926177,
+    41.854694,
+    -93.926177,
+    41.854694
+],
+  "geometry": {"coordinates":[-93.926177,41.854694],"type":"Point"}
+}

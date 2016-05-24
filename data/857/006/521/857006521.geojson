@@ -1,0 +1,71 @@
+{
+  "id": 857006521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.62687,41.995129,-91.62687,41.995129",
+    "geom:latitude":41.995129,
+    "geom:longitude":-91.62687,
+    "iso:country":"US",
+    "sg:address":"2123 Country Club Pkwy SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3696",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J9l76QKgn5d7JRNHpxPYp_41.995129_-91.626870@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112624,
+    "wof:geomhash":"83545fa507f9fa494efeec9dad5b52f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857006521
+        }
+    ],
+    "wof:id":857006521,
+    "wof:lastmodified":1464112624,
+    "wof:name":"AVID Area Representative",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.62687,
+    41.995129,
+    -91.62687,
+    41.995129
+],
+  "geometry": {"coordinates":[-91.62687,41.995129],"type":"Point"}
+}

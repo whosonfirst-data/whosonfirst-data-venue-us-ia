@@ -1,0 +1,73 @@
+{
+  "id": 856948603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.778448,41.920334,-91.778448,41.920334",
+    "geom:latitude":41.920334,
+    "geom:longitude":-91.778448,
+    "iso:country":"US",
+    "sg:address":"418 Railroad St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 845 2073",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m8PCRyAH7M708996sO6bb_41.920334_-91.778448@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110020,
+    "wof:geomhash":"1db0d9e57f91e00adbeee8adeeee9d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856948603
+        }
+    ],
+    "wof:id":856948603,
+    "wof:lastmodified":1464110020,
+    "wof:name":"Xtreme Concrete Pumping",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -91.778448,
+    41.920334,
+    -91.778448,
+    41.920334
+],
+  "geometry": {"coordinates":[-91.778448,41.920334],"type":"Point"}
+}

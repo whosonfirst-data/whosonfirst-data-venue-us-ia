@@ -1,0 +1,79 @@
+{
+  "id": 857066759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667563,41.978019,-91.667563,41.978019",
+    "geom:latitude":41.978019,
+    "geom:longitude":-91.667563,
+    "iso:country":"US",
+    "sg:address":"208 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Comedy Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8133",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.penguinscomedyclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JKxG8YbsACpEnHGkPpfMz_41.978019_-91.667563@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115166,
+    "wof:geomhash":"515bbf61cc7f14273ca43e6697578885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066759
+        }
+    ],
+    "wof:id":857066759,
+    "wof:lastmodified":1464115166,
+    "wof:name":"Penguin's Comedy Club",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -91.667563,
+    41.978019,
+    -91.667563,
+    41.978019
+],
+  "geometry": {"coordinates":[-91.667563,41.978019],"type":"Point"}
+}

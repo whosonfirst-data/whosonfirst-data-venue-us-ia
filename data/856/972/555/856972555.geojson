@@ -1,0 +1,73 @@
+{
+  "id": 856972555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.742505,41.970922,-91.742505,41.970922",
+    "geom:latitude":41.970922,
+    "geom:longitude":-91.742505,
+    "iso:country":"US",
+    "sg:address":"5426 Skyline Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9366",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11AEg5fOpzk2oqs57DzlNI_41.970922_-91.742505@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111087,
+    "wof:geomhash":"657d67ac24f67ee1be1f46981dd7fd32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856972555
+        }
+    ],
+    "wof:id":856972555,
+    "wof:lastmodified":1464111087,
+    "wof:name":"Burton Butler",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.742505,
+    41.970922,
+    -91.742505,
+    41.970922
+],
+  "geometry": {"coordinates":[-91.74250499999999,41.970922],"type":"Point"}
+}

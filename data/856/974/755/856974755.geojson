@@ -1,0 +1,71 @@
+{
+  "id": 856974755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.844151,41.557956,-93.844151,41.557956",
+    "geom:latitude":41.557956,
+    "geom:longitude":-93.844151,
+    "iso:country":"US",
+    "sg:address":"3323 335th St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4068",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086603,
+        85896529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DnYOydYtCpPILIbjzmP9r_41.557956_-93.844151@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111196,
+    "wof:geomhash":"102613a77393da05db85b02bca09dbec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896529,
+            "region_id":85688713,
+            "venue_id":856974755
+        }
+    ],
+    "wof:id":856974755,
+    "wof:lastmodified":1464111196,
+    "wof:name":"Trimforce Inc",
+    "wof:parent_id":85896529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -93.844151,
+    41.557956,
+    -93.844151,
+    41.557956
+],
+  "geometry": {"coordinates":[-93.844151,41.557956],"type":"Point"}
+}

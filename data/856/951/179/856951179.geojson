@@ -1,0 +1,73 @@
+{
+  "id": 856951179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619606,41.644102,-93.619606,41.644102",
+    "geom:latitude":41.644102,
+    "geom:longitude":-93.619606,
+    "iso:country":"US",
+    "sg:address":"65 NW Broadway Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 1388",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p2mtu25XaRM9y0NoqPbba_41.644102_-93.619606@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110133,
+    "wof:geomhash":"523940bc72c28d73b9fd0cf18646817d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856951179
+        }
+    ],
+    "wof:id":856951179,
+    "wof:lastmodified":1464110133,
+    "wof:name":"Crystal Klear Body Shop",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.619606,
+    41.644102,
+    -93.619606,
+    41.644102
+],
+  "geometry": {"coordinates":[-93.619606,41.644102],"type":"Point"}
+}

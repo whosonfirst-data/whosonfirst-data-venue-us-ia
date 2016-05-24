@@ -1,0 +1,71 @@
+{
+  "id": 856929361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.346391,42.460515,-96.346391,42.460515",
+    "geom:latitude":42.460515,
+    "geom:longitude":-96.346391,
+    "iso:country":"US",
+    "sg:address":"2701 S Lakeport St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 279 6269",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hx0L6rwBwvZNBMqgNVKbN_42.460515_-96.346391@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109224,
+    "wof:geomhash":"94a948917a3ffd57377c16d8c3cd510a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856929361
+        }
+    ],
+    "wof:id":856929361,
+    "wof:lastmodified":1464109224,
+    "wof:name":"Graceland Cemetery",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.346391,
+    42.460515,
+    -96.346391,
+    42.460515
+],
+  "geometry": {"coordinates":[-96.346391,42.460515],"type":"Point"}
+}

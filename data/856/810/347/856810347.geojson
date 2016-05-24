@@ -1,0 +1,75 @@
+{
+  "id": 856810347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.601629,41.526421,-93.601629,41.526421",
+    "geom:latitude":41.526421,
+    "geom:longitude":-93.601629,
+    "iso:country":"US",
+    "sg:address":"900 E Army Post Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 2011",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AGlLdR0XWH00TaWrjH4kN_41.526421_-93.601629@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103650,
+    "wof:geomhash":"80a21591eec998b75d57f53343f20323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":856810347
+        }
+    ],
+    "wof:id":856810347,
+    "wof:lastmodified":1464103650,
+    "wof:name":"Club Cancun",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -93.601629,
+    41.526421,
+    -93.601629,
+    41.526421
+],
+  "geometry": {"coordinates":[-93.601629,41.526421],"type":"Point"}
+}

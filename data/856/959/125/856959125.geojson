@@ -1,0 +1,73 @@
+{
+  "id": 856959125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.624443,41.591587,-93.624443,41.591587",
+    "geom:latitude":41.591587,
+    "geom:longitude":-93.624443,
+    "iso:country":"US",
+    "sg:address":"701 5th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 4211",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NoSCEYI7yQPPEI0J8LPQ4_41.591587_-93.624443@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110509,
+    "wof:geomhash":"1fdd26db19081a6b5c32ddb6a3001611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896409,
+            "region_id":85688713,
+            "venue_id":856959125
+        }
+    ],
+    "wof:id":856959125,
+    "wof:lastmodified":1464110509,
+    "wof:name":"Allied",
+    "wof:parent_id":85896409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -93.624443,
+    41.591587,
+    -93.624443,
+    41.591587
+],
+  "geometry": {"coordinates":[-93.624443,41.591587],"type":"Point"}
+}

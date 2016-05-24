@@ -1,0 +1,75 @@
+{
+  "id": 856902817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.522601,41.590134,-93.522601,41.590134",
+    "geom:latitude":41.590134,
+    "geom:longitude":-93.522601,
+    "iso:country":"US",
+    "sg:address":"200 Christie Ln",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 266 6680",
+    "sg:postcode":"50327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HWiNYgiHa23lm8FXswChX_41.590134_-93.522601@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108151,
+    "wof:geomhash":"e318c0ab08bb1c2f334f6eee656dccf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856902817
+        }
+    ],
+    "wof:id":856902817,
+    "wof:lastmodified":1464108151,
+    "wof:name":"S&F Properties LLC",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -93.522601,
+    41.590134,
+    -93.522601,
+    41.590134
+],
+  "geometry": {"coordinates":[-93.52260099999999,41.590134],"type":"Point"}
+}

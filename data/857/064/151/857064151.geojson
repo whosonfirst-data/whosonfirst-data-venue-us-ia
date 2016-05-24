@@ -1,0 +1,66 @@
+{
+  "id": 857064151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.825522,41.243385,-95.825522,41.243385",
+    "geom:latitude":41.243385,
+    "geom:longitude":-95.825522,
+    "iso:country":"US",
+    "sg:address":"1745 Madison Ave Ste 1",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4117",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lpbjMDUOJ6Iw7q7TNGMLH_41.243385_-95.825522@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115067,
+    "wof:geomhash":"383c1e9d97d4cbd9ee171a79b6d99c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857064151
+        }
+    ],
+    "wof:id":857064151,
+    "wof:lastmodified":1464115067,
+    "wof:name":"Hyvee Floral Shop",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.825522,
+    41.243385,
+    -95.825522,
+    41.243385
+],
+  "geometry": {"coordinates":[-95.82552200000001,41.243385],"type":"Point"}
+}

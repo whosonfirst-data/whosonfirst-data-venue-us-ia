@@ -1,0 +1,76 @@
+{
+  "id": 857067167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668407,41.978619,-91.668407,41.978619",
+    "geom:latitude":41.978619,
+    "geom:longitude":-91.668407,
+    "iso:country":"US",
+    "sg:address":"118 2nd St SE Ste 300",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 739 2497",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "sg:website":"www.stlukescr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OeKxmlnS50wTcMNCEQT1p_41.978619_-91.668407@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115184,
+    "wof:geomhash":"f1fc2ee686bb39485ca5891c3f071927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857067167
+        }
+    ],
+    "wof:id":857067167,
+    "wof:lastmodified":1464115184,
+    "wof:name":"St Luke's Physicians & Clinics",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -91.668407,
+    41.978619,
+    -91.668407,
+    41.978619
+],
+  "geometry": {"coordinates":[-91.668407,41.978619],"type":"Point"}
+}

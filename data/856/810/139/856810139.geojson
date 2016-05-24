@@ -1,0 +1,73 @@
+{
+  "id": 856810139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.661233,41.54094,-93.661233,41.54094",
+    "geom:latitude":41.54094,
+    "geom:longitude":-93.661233,
+    "iso:country":"US",
+    "sg:address":"3100 McKinley Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 256 9179",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qiQa8g4OTqLp0p0CFkDQD_41.540940_-93.661233@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103643,
+    "wof:geomhash":"826377894dbd78dc49dd6f201efa88b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896397,
+            "region_id":85688713,
+            "venue_id":856810139
+        }
+    ],
+    "wof:id":856810139,
+    "wof:lastmodified":1464103643,
+    "wof:name":"Iowa Airgaurd Bas Exchange",
+    "wof:parent_id":85896397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.661233,
+    41.54094,
+    -93.661233,
+    41.54094
+],
+  "geometry": {"coordinates":[-93.661233,41.54094],"type":"Point"}
+}

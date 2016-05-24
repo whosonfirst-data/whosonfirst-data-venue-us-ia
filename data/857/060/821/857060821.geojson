@@ -1,0 +1,73 @@
+{
+  "id": 857060821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.565475,41.669197,-91.565475,41.669197",
+    "geom:latitude":41.669197,
+    "geom:longitude":-91.565475,
+    "iso:country":"US",
+    "sg:address":"213 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/west-lucas/196111-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IudNROKwPuUelW9IhA1UX_41.669348_-91.565496@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114929,
+    "wof:geomhash":"4835c9257f5556d6ca70e5e0343bb766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":857060821
+        }
+    ],
+    "wof:id":857060821,
+    "wof:lastmodified":1464114929,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.565475,
+    41.669197,
+    -91.565475,
+    41.669197
+],
+  "geometry": {"coordinates":[-91.56547500000001,41.669197],"type":"Point"}
+}

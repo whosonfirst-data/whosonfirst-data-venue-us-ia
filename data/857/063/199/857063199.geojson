@@ -1,0 +1,83 @@
+{
+  "id": 857063199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850998,41.2584,-95.850998,41.2584",
+    "geom:latitude":41.2584,
+    "geom:longitude":-95.850998,
+    "iso:country":"US",
+    "sg:address":"226 Pearl St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 2509",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YtLllXmFx6JNL01li8lq3_41.258400_-95.850998@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115028,
+    "wof:geomhash":"59dd7363c19155a2d2500831dd26a881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063199
+        }
+    ],
+    "wof:id":857063199,
+    "wof:lastmodified":1464115028,
+    "wof:name":"Squirrel Cage Jail",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -95.850998,
+    41.2584,
+    -95.850998,
+    41.2584
+],
+  "geometry": {"coordinates":[-95.850998,41.2584],"type":"Point"}
+}

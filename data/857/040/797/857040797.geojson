@@ -1,0 +1,75 @@
+{
+  "id": 857040797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682098,41.986099,-91.682098,41.986099",
+    "geom:latitude":41.986099,
+    "geom:longitude":-91.682098,
+    "iso:country":"US",
+    "sg:address":"1332 Ellis Blvd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1119",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "piano",
+        "teacher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vdbvUo7o6RFrztba2R0Tn_41.986303_-91.682187@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114112,
+    "wof:geomhash":"b2d0c94338b0f1ae80d63644cc61289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857040797
+        }
+    ],
+    "wof:id":857040797,
+    "wof:lastmodified":1464114112,
+    "wof:name":"Bright's Piano Sales & Service",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "teacher"
+    ]
+},
+  "bbox": [
+    -91.682098,
+    41.986099,
+    -91.682098,
+    41.986099
+],
+  "geometry": {"coordinates":[-91.682098,41.986099],"type":"Point"}
+}

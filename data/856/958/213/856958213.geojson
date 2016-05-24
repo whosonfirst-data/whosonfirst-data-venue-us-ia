@@ -1,0 +1,71 @@
+{
+  "id": 856958213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.425664,41.485134,-91.425664,41.485134",
+    "geom:latitude":41.485134,
+    "geom:longitude":-91.425664,
+    "iso:country":"US",
+    "sg:address":"105 E Linn St",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 1109",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16QfTAVzvcpldU6Ch3EMPY_41.485134_-91.425664@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110479,
+    "wof:geomhash":"651127092dc0e0d7807b531ae88f93d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856958213
+        }
+    ],
+    "wof:id":856958213,
+    "wof:lastmodified":1464110479,
+    "wof:name":"Lone Tree City Cable Bldg",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.425664,
+    41.485134,
+    -91.425664,
+    41.485134
+],
+  "geometry": {"coordinates":[-91.425664,41.485134],"type":"Point"}
+}

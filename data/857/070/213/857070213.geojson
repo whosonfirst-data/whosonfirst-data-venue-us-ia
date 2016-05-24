@@ -1,0 +1,74 @@
+{
+  "id": 857070213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716103,41.951401,-91.716103,41.951401",
+    "geom:latitude":41.951401,
+    "geom:longitude":-91.716103,
+    "iso:country":"US",
+    "sg:address":"2740 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 9900",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "sg:website":"www.realopticsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BPHb8uN2FJBQSzP3Ta2rD_41.951401_-91.716103@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115343,
+    "wof:geomhash":"949d9e8e340742e260c8b05b2b203d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070213
+        }
+    ],
+    "wof:id":857070213,
+    "wof:lastmodified":1464115343,
+    "wof:name":"Eye-Mart Optical",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -91.716103,
+    41.951401,
+    -91.716103,
+    41.951401
+],
+  "geometry": {"coordinates":[-91.716103,41.951401],"type":"Point"}
+}

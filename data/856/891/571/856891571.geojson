@@ -1,0 +1,75 @@
+{
+  "id": 856891571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658382,42.039404,-91.658382,42.039404",
+    "geom:latitude":42.039404,
+    "geom:longitude":-91.658382,
+    "iso:country":"US",
+    "sg:address":"5945 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9612",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YR7k6whHobpj4cjc2g6QN_42.039404_-91.658382@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107747,
+    "wof:geomhash":"bcfd661b4ba4fa9912b92407b440f75f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856891571
+        }
+    ],
+    "wof:id":856891571,
+    "wof:lastmodified":1464107747,
+    "wof:name":"Bio Life Plasma Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.658382,
+    42.039404,
+    -91.658382,
+    42.039404
+],
+  "geometry": {"coordinates":[-91.658382,42.039404],"type":"Point"}
+}

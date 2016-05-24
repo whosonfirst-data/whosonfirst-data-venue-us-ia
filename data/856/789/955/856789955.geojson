@@ -1,0 +1,67 @@
+{
+  "id": 856789955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850673,41.257191,-95.850673,41.257191",
+    "geom:latitude":41.257191,
+    "geom:longitude":-95.850673,
+    "iso:country":"US",
+    "sg:address":"231 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1501",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:website":"www.abstractguaranty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WLWZ557Q35I8EXgqW2CMM_41.257191_-95.850673@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102777,
+    "wof:geomhash":"31cd73f518225e5b6ffc9072195a53cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856789955
+        }
+    ],
+    "wof:id":856789955,
+    "wof:lastmodified":1464102777,
+    "wof:name":"Abstract Guaranty Co",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.850673,
+    41.257191,
+    -95.850673,
+    41.257191
+],
+  "geometry": {"coordinates":[-95.850673,41.257191],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856772315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.486352,41.349714,-93.486352,41.349714",
+    "geom:latitude":41.349714,
+    "geom:longitude":-93.486352,
+    "iso:country":"US",
+    "sg:address":"1678 Kennedy St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2131",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AWQqFkFJO3zG9DLmz430I_41.349714_-93.486352@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102260,
+    "wof:geomhash":"71c725d0bbf4bfcc69aeb7df64a6038d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856772315
+        }
+    ],
+    "wof:id":856772315,
+    "wof:lastmodified":1464102260,
+    "wof:name":"Woodrow Diehl",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.486352,
+    41.349714,
+    -93.486352,
+    41.349714
+],
+  "geometry": {"coordinates":[-93.486352,41.349714],"type":"Point"}
+}

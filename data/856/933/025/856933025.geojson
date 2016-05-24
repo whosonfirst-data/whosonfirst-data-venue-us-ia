@@ -1,0 +1,73 @@
+{
+  "id": 856933025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684015,42.020231,-91.684015,42.020231",
+    "geom:latitude":42.020231,
+    "geom:longitude":-91.684015,
+    "iso:country":"US",
+    "sg:address":"2533 Glen Elm Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0704",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W8qo91y5WwyexYkQKc79L_42.020231_-91.684015@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109359,
+    "wof:geomhash":"efcb805d9037421b42d0abedf7d98f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856933025
+        }
+    ],
+    "wof:id":856933025,
+    "wof:lastmodified":1464109359,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -91.684015,
+    42.020231,
+    -91.684015,
+    42.020231
+],
+  "geometry": {"coordinates":[-91.684015,42.020231],"type":"Point"}
+}

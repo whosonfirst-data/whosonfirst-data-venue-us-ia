@@ -1,0 +1,73 @@
+{
+  "id": 856854029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.521312,41.635393,-91.521312,41.635393",
+    "geom:latitude":41.635393,
+    "geom:longitude":-91.521312,
+    "iso:country":"US",
+    "sg:address":"1022 Briar Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 3632",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RuiYkfilPVYrz2oI1YNZV_41.635393_-91.521312@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105721,
+    "wof:geomhash":"b6d238edf37b5ae41e35ff52aadeb551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":856854029
+        }
+    ],
+    "wof:id":856854029,
+    "wof:lastmodified":1464105721,
+    "wof:name":"Fine Shine",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.521312,
+    41.635393,
+    -91.521312,
+    41.635393
+],
+  "geometry": {"coordinates":[-91.52131199999999,41.635393],"type":"Point"}
+}

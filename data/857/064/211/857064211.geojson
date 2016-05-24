@@ -1,0 +1,73 @@
+{
+  "id": 857064211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837196,41.266201,-95.837196,41.266201",
+    "geom:latitude":41.266201,
+    "geom:longitude":-95.837196,
+    "iso:country":"US",
+    "sg:address":"1 Edmundson Pl",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 396 4280",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gOP0lJlnftR1rzDht0lvK_41.266201_-95.837196@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115069,
+    "wof:geomhash":"30643348ec902667309a5eebe1d049be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064211
+        }
+    ],
+    "wof:id":857064211,
+    "wof:lastmodified":1464115069,
+    "wof:name":"Motz Jeff PA",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -95.837196,
+    41.266201,
+    -95.837196,
+    41.266201
+],
+  "geometry": {"coordinates":[-95.83719600000001,41.266201],"type":"Point"}
+}

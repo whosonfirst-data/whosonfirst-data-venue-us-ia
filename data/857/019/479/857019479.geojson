@@ -1,0 +1,77 @@
+{
+  "id": 857019479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659971,41.98381,-91.659971,41.98381",
+    "geom:latitude":41.98381,
+    "geom:longitude":-91.659971,
+    "iso:country":"US",
+    "sg:address":"810 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 8021",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a3MzzTbWAKkKBv8kBPTcM_41.983810_-91.659971@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113177,
+    "wof:geomhash":"957a71b50e4643466a4569fa7524a556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857019479
+        }
+    ],
+    "wof:id":857019479,
+    "wof:lastmodified":1464113177,
+    "wof:name":"STL Health Resources",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -91.659971,
+    41.98381,
+    -91.659971,
+    41.98381
+],
+  "geometry": {"coordinates":[-91.659971,41.98381],"type":"Point"}
+}

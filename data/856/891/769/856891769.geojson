@@ -1,0 +1,75 @@
+{
+  "id": 856891769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.702495,41.945481,-91.702495,41.945481",
+    "geom:latitude":41.945481,
+    "geom:longitude":-91.702495,
+    "iso:country":"US",
+    "sg:address":"2705 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 4900",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xsqYCAZ5ZwtfLdIsdCIJa_41.945481_-91.702495@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107753,
+    "wof:geomhash":"dda8e74614e872ac56cd02df2d29a726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856891769
+        }
+    ],
+    "wof:id":856891769,
+    "wof:lastmodified":1464107753,
+    "wof:name":"Five Seasons Heating & Cooling",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.702495,
+    41.945481,
+    -91.702495,
+    41.945481
+],
+  "geometry": {"coordinates":[-91.702495,41.945481],"type":"Point"}
+}

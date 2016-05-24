@@ -1,0 +1,77 @@
+{
+  "id": 856773761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560154,41.681348,-91.560154,41.681348",
+    "geom:latitude":41.681348,
+    "geom:longitude":-91.560154,
+    "iso:country":"US",
+    "sg:address":"210 E 9th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3231",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56kqqJSi1xGx9uoTHLZXmo_41.681348_-91.560154@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102294,
+    "wof:geomhash":"c14e38294d4da873471a7f31f10025ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":856773761
+        }
+    ],
+    "wof:id":856773761,
+    "wof:lastmodified":1464102294,
+    "wof:name":"Clear Co Auto Body",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.560154,
+    41.681348,
+    -91.560154,
+    41.681348
+],
+  "geometry": {"coordinates":[-91.560154,41.681348],"type":"Point"}
+}

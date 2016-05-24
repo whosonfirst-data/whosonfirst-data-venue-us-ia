@@ -1,0 +1,74 @@
+{
+  "id": 857058621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.351522,42.478833,-96.351522,42.478833",
+    "geom:latitude":42.478833,
+    "geom:longitude":-96.351522,
+    "iso:country":"US",
+    "sg:address":"4243 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/160817-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 2610",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mrv5iyTWK8982RUqpCEGs_42.478833_-96.351522@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114851,
+    "wof:geomhash":"a189806fff5dab4e0b4970587d0dc2b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857058621
+        }
+    ],
+    "wof:id":857058621,
+    "wof:lastmodified":1464114851,
+    "wof:name":"Burger King",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.351522,
+    42.478833,
+    -96.351522,
+    42.478833
+],
+  "geometry": {"coordinates":[-96.351522,42.478833],"type":"Point"}
+}

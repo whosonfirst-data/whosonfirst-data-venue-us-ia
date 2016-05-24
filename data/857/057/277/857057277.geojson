@@ -1,0 +1,76 @@
+{
+  "id": 857057277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.69767,41.671189,-93.69767,41.671189",
+    "geom:latitude":41.671189,
+    "geom:longitude":-93.69767,
+    "iso:country":"US",
+    "sg:address":"6110 Merle Hay Rd",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/webster/225959-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 1291",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kQkRUbQxdf0c8MFRePK1I_41.671189_-93.697670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114798,
+    "wof:geomhash":"23ceaa24b6d3b87b279b7178dddf2223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896487,
+            "region_id":85688713,
+            "venue_id":857057277
+        }
+    ],
+    "wof:id":857057277,
+    "wof:lastmodified":1464114798,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.69767,
+    41.671189,
+    -93.69767,
+    41.671189
+],
+  "geometry": {"coordinates":[-93.69767,41.671189],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856951945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.384183,41.354157,-95.384183,41.354157",
+    "geom:latitude":41.354157,
+    "geom:longitude":-95.384183,
+    "iso:country":"US",
+    "sg:address":"23276 US Hwy 59",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 741 5455",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cEhjSpdOut5nZLnyZk5C6_41.354157_-95.384183@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110165,
+    "wof:geomhash":"7f59ab8d39b61ff9bd33fe45c306239d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856951945
+        }
+    ],
+    "wof:id":856951945,
+    "wof:lastmodified":1464110165,
+    "wof:name":"Steve Emken Trucking",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.384183,
+    41.354157,
+    -95.384183,
+    41.354157
+],
+  "geometry": {"coordinates":[-95.38418299999999,41.354157],"type":"Point"}
+}

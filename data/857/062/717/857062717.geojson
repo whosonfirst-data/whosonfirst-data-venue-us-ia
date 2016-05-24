@@ -1,0 +1,72 @@
+{
+  "id": 857062717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.856598,41.2467,-95.856598,41.2467",
+    "geom:latitude":41.2467,
+    "geom:longitude":-95.856598,
+    "iso:country":"US",
+    "sg:address":"810 16th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 2171",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.mortensensupermarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mdifF0R20UOzFwwOkLGJJ_41.246700_-95.856598@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115012,
+    "wof:geomhash":"1a73f3e76e2a33da86c30d2e209148e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062717
+        }
+    ],
+    "wof:id":857062717,
+    "wof:lastmodified":1464115012,
+    "wof:name":"Mortensen Super Market",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.856598,
+    41.2467,
+    -95.856598,
+    41.2467
+],
+  "geometry": {"coordinates":[-95.85659800000001,41.2467],"type":"Point"}
+}

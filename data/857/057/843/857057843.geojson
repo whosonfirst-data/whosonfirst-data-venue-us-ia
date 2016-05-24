@@ -1,0 +1,76 @@
+{
+  "id": 857057843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.596893,41.53832,-93.596893,41.53832",
+    "geom:latitude":41.53832,
+    "geom:longitude":-93.596893,
+    "iso:country":"US",
+    "sg:address":"4926 SE 14th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/bloomfield/77361-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 974 0440",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31RrePAnf2MiLGxER7kKtx_41.538320_-93.596893@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114817,
+    "wof:geomhash":"52b385441b2ae706356ba5e364350581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":857057843
+        }
+    ],
+    "wof:id":857057843,
+    "wof:lastmodified":1464114817,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.596893,
+    41.53832,
+    -93.596893,
+    41.53832
+],
+  "geometry": {"coordinates":[-93.59689299999999,41.53832],"type":"Point"}
+}

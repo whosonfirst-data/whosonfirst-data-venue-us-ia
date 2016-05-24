@@ -1,0 +1,75 @@
+{
+  "id": 856948323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.54896,41.569282,-93.54896,41.569282",
+    "geom:latitude":41.569282,
+    "geom:longitude":-93.54896,
+    "iso:country":"US",
+    "sg:address":"3300 Vandalia Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 1900",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AflqiwCZnXUdM6eAytYXB_41.569282_-93.548960@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110010,
+    "wof:geomhash":"aa33295239b1a7fa5bb942c0c5933dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856948323
+        }
+    ],
+    "wof:id":856948323,
+    "wof:lastmodified":1464110010,
+    "wof:name":"Copart Inc",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.54896,
+    41.569282,
+    -93.54896,
+    41.569282
+],
+  "geometry": {"coordinates":[-93.54895999999999,41.569282],"type":"Point"}
+}

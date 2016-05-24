@@ -1,0 +1,73 @@
+{
+  "id": 856887187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.861843,41.253507,-95.861843,41.253507",
+    "geom:latitude":41.253507,
+    "geom:longitude":-95.861843,
+    "iso:country":"US",
+    "sg:address":"1202 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3900",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BXCUMC0u3iguMs1vqo5ZD_41.253507_-95.861843@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107566,
+    "wof:geomhash":"771748e23de5ce38fae49413b79ce967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856887187
+        }
+    ],
+    "wof:id":856887187,
+    "wof:lastmodified":1464107566,
+    "wof:name":"Marcus Motors",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.861843,
+    41.253507,
+    -95.861843,
+    41.253507
+],
+  "geometry": {"coordinates":[-95.86184299999999,41.253507],"type":"Point"}
+}

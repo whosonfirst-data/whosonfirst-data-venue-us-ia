@@ -1,0 +1,74 @@
+{
+  "id": 856798291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.649955,42.03835,-91.649955,42.03835",
+    "geom:latitude":42.03835,
+    "geom:longitude":-91.649955,
+    "iso:country":"US",
+    "sg:address":"955 Cimmie Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 1000",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "sg:website":"www.lorenzsales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l8sr91eYxRw5fX9XeznDJ_42.038350_-91.649955@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103126,
+    "wof:geomhash":"474404095d99fc3906082ed59c4c1fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856798291
+        }
+    ],
+    "wof:id":856798291,
+    "wof:lastmodified":1464103126,
+    "wof:name":"Lorenz Sales",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -91.649955,
+    42.03835,
+    -91.649955,
+    42.03835
+],
+  "geometry": {"coordinates":[-91.64995500000001,42.03835],"type":"Point"}
+}

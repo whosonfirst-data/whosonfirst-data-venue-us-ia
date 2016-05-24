@@ -1,0 +1,71 @@
+{
+  "id": 856885285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.584496,41.876083,-91.584496,41.876083",
+    "geom:latitude":41.876083,
+    "geom:longitude":-91.584496,
+    "iso:country":"US",
+    "sg:address":"1860 Highland Rd",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 9015",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NIjOr6K5rMixrTfypZO1X_41.876083_-91.584496@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107481,
+    "wof:geomhash":"392d8018af536cb1dbb00aca806a4cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856885285
+        }
+    ],
+    "wof:id":856885285,
+    "wof:lastmodified":1464107481,
+    "wof:name":"Bdm Cleaning Svc",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.584496,
+    41.876083,
+    -91.584496,
+    41.876083
+],
+  "geometry": {"coordinates":[-91.584496,41.876083],"type":"Point"}
+}

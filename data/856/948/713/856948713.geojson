@@ -1,0 +1,73 @@
+{
+  "id": 856948713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.37973,42.085443,-91.37973,42.085443",
+    "geom:latitude":42.085443,
+    "geom:longitude":-91.37973,
+    "iso:country":"US",
+    "sg:address":"3034 Quaker Ln",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 6137",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "alfalfa",
+        "hay"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23f4Z6S3YmdWnZqoW0Lkcw_42.085443_-91.379730@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110024,
+    "wof:geomhash":"f4f2ebe3ed2572a8ba58c85cc79d02ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856948713
+        }
+    ],
+    "wof:id":856948713,
+    "wof:lastmodified":1464110024,
+    "wof:name":"Triple H Hay Farms",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alfalfa",
+        "hay"
+    ]
+},
+  "bbox": [
+    -91.37973,
+    42.085443,
+    -91.37973,
+    42.085443
+],
+  "geometry": {"coordinates":[-91.37973,42.085443],"type":"Point"}
+}

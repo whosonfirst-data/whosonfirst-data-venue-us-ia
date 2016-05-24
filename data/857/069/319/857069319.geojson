@@ -1,0 +1,74 @@
+{
+  "id": 857069319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655344,41.981018,-91.655344,41.981018",
+    "geom:latitude":41.981018,
+    "geom:longitude":-91.655344,
+    "iso:country":"US",
+    "sg:address":"1026 A Avenue NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 7211",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"stlukescr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W7fswJ9k5FEQMzh1j4TSP_41.981018_-91.655344@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115299,
+    "wof:geomhash":"5bbe4757fdbbdc9b2eb88edbac4426fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857069319
+        }
+    ],
+    "wof:id":857069319,
+    "wof:lastmodified":1464115299,
+    "wof:name":"St Luke's Hospital",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.655344,
+    41.981018,
+    -91.655344,
+    41.981018
+],
+  "geometry": {"coordinates":[-91.655344,41.981018],"type":"Point"}
+}

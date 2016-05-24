@@ -1,0 +1,69 @@
+{
+  "id": 856889537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558338,41.363355,-93.558338,41.363355",
+    "geom:latitude":41.363355,
+    "geom:longitude":-93.558338,
+    "iso:country":"US",
+    "sg:address":"200 E Clinton Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6478",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NB2nUmrYCPleovY39LRrd_41.363355_-93.558338@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107666,
+    "wof:geomhash":"8018a0ea289956c8925d638909b02f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856889537
+        }
+    ],
+    "wof:id":856889537,
+    "wof:lastmodified":1464107666,
+    "wof:name":"Rosenberger Truck Shop",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.558338,
+    41.363355,
+    -93.558338,
+    41.363355
+],
+  "geometry": {"coordinates":[-93.55833800000001,41.363355],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857036107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.853897,41.261101,-95.853897,41.261101",
+    "geom:latitude":41.261101,
+    "geom:longitude":-95.853897,
+    "iso:country":"US",
+    "sg:address":"24 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 1400",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lock",
+        "key",
+        "locksmith"
+    ],
+    "sg:website":"www.ablelocksmiths.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_075xUV3HFgKCz9d26Hbv37_41.260531_-95.854032@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464113936,
+    "wof:geomhash":"4496febaa870fab79304966d3b8d4def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857036107
+        }
+    ],
+    "wof:id":857036107,
+    "wof:lastmodified":1464113936,
+    "wof:name":"Able Locksmiths",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -95.853897,
+    41.261101,
+    -95.853897,
+    41.261101
+],
+  "geometry": {"coordinates":[-95.853897,41.261101],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856965093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.843252,41.257689,-95.843252,41.257689",
+    "geom:latitude":41.257689,
+    "geom:longitude":-95.843252,
+    "iso:country":"US",
+    "sg:address":"315 Glen Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6990",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sdviUEFAKdX7iZpa25pPZ_41.257689_-95.843252@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110750,
+    "wof:geomhash":"5f514febc36929dcc70538448e276ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856965093
+        }
+    ],
+    "wof:id":856965093,
+    "wof:lastmodified":1464110750,
+    "wof:name":"Brockman & Assoc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -95.843252,
+    41.257689,
+    -95.843252,
+    41.257689
+],
+  "geometry": {"coordinates":[-95.84325200000001,41.257689],"type":"Point"}
+}

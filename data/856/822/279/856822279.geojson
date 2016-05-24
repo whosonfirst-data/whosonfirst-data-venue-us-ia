@@ -1,0 +1,73 @@
+{
+  "id": 856822279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.360105,42.400271,-96.360105,42.400271",
+    "geom:latitude":42.400271,
+    "geom:longitude":-96.360105,
+    "iso:country":"US",
+    "sg:address":"204 1st St",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 2920",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60PWJIG6LNVWe9oxGpOR0M_42.400271_-96.360105@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104198,
+    "wof:geomhash":"96591357a15ca23954b22628a2c21f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856822279
+        }
+    ],
+    "wof:id":856822279,
+    "wof:lastmodified":1464104198,
+    "wof:name":"Cheers Lounge",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -96.360105,
+    42.400271,
+    -96.360105,
+    42.400271
+],
+  "geometry": {"coordinates":[-96.360105,42.400271],"type":"Point"}
+}

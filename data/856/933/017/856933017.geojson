@@ -1,0 +1,71 @@
+{
+  "id": 856933017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.922862,41.853784,-93.922862,41.853784",
+    "geom:latitude":41.853784,
+    "geom:longitude":-93.922862,
+    "iso:country":"US",
+    "sg:address":"108 W 5th St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2007",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uBxlMXVC0uKFhe47P2kl4_41.853784_-93.922862@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109359,
+    "wof:geomhash":"9bbdbf08ee39fc3ee4ac77fda31b23f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856933017
+        }
+    ],
+    "wof:id":856933017,
+    "wof:lastmodified":1464109359,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.922862,
+    41.853784,
+    -93.922862,
+    41.853784
+],
+  "geometry": {"coordinates":[-93.92286199999999,41.853784],"type":"Point"}
+}

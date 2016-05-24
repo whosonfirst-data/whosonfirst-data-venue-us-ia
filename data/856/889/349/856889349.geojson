@@ -1,0 +1,73 @@
+{
+  "id": 856889349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736329,41.610385,-93.736329,41.610385",
+    "geom:latitude":41.610385,
+    "geom:longitude":-93.736329,
+    "iso:country":"US",
+    "sg:address":"1945 NW 86th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 253 0908",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fiaFpmM1NrglquZoNAffm_41.610385_-93.736329@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107660,
+    "wof:geomhash":"a64ae5b4c5b88a1054c7445c49548102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896357,
+            "region_id":85688713,
+            "venue_id":856889349
+        }
+    ],
+    "wof:id":856889349,
+    "wof:lastmodified":1464107660,
+    "wof:name":"Saigon Cafe",
+    "wof:parent_id":85896357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -93.736329,
+    41.610385,
+    -93.736329,
+    41.610385
+],
+  "geometry": {"coordinates":[-93.736329,41.610385],"type":"Point"}
+}

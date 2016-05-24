@@ -1,0 +1,71 @@
+{
+  "id": 856960717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.369693,42.488637,-96.369693,42.488637",
+    "geom:latitude":42.488637,
+    "geom:longitude":-96.369693,
+    "iso:country":"US",
+    "sg:address":"308 S Helen St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 281 1980",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30b4ZIyExRPgXtgmTRe1zU_42.488637_-96.369693@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110568,
+    "wof:geomhash":"d9ad48fe3eea4d108b27f7b0f948909d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856960717
+        }
+    ],
+    "wof:id":856960717,
+    "wof:lastmodified":1464110568,
+    "wof:name":"Burt Duquette Painting",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.369693,
+    42.488637,
+    -96.369693,
+    42.488637
+],
+  "geometry": {"coordinates":[-96.369693,42.488637],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856978465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651245,41.977588,-91.651245,41.977588",
+    "geom:latitude":41.977588,
+    "geom:longitude":-91.651245,
+    "iso:country":"US",
+    "sg:address":"1445 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9041",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GFQ4QwXzx8j8qNrfBkBZ5_41.977588_-91.651245@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111394,
+    "wof:geomhash":"019f6ecb171f57160eeacb403a4bf305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856978465
+        }
+    ],
+    "wof:id":856978465,
+    "wof:lastmodified":1464111394,
+    "wof:name":"Snow-White Coin Laundry",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.651245,
+    41.977588,
+    -91.651245,
+    41.977588
+],
+  "geometry": {"coordinates":[-91.651245,41.977588],"type":"Point"}
+}

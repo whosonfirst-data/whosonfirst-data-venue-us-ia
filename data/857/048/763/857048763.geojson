@@ -1,0 +1,73 @@
+{
+  "id": 857048763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624133,41.503777,-90.624133,41.503777",
+    "geom:latitude":41.503777,
+    "geom:longitude":-90.624133,
+    "iso:country":"US",
+    "sg:address":"1525 S Concord St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 3923",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tbNXlwErJVRw6dMHErj8V_41.504069_-90.624267@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114436,
+    "wof:geomhash":"ee1b91b8a6ec6558153da9c7a38571ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857048763
+        }
+    ],
+    "wof:id":857048763,
+    "wof:lastmodified":1464114436,
+    "wof:name":"Dominga's Authentic Mexican Food",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.624133,
+    41.503777,
+    -90.624133,
+    41.503777
+],
+  "geometry": {"coordinates":[-90.624133,41.503777],"type":"Point"}
+}

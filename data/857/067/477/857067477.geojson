@@ -1,0 +1,71 @@
+{
+  "id": 857067477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.647922,41.990752,-91.647922,41.990752",
+    "geom:latitude":41.990752,
+    "geom:longitude":-91.647922,
+    "iso:country":"US",
+    "sg:address":"1730 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 3993",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3urwt7L5f3Kwh7MYJrIBZ1_41.990752_-91.647922@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115203,
+    "wof:geomhash":"eb5ddc82f05663644eefe5ed4243bb96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067477
+        }
+    ],
+    "wof:id":857067477,
+    "wof:lastmodified":1464115203,
+    "wof:name":"Whitters Alan C MD",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -91.647922,
+    41.990752,
+    -91.647922,
+    41.990752
+],
+  "geometry": {"coordinates":[-91.64792199999999,41.990752],"type":"Point"}
+}

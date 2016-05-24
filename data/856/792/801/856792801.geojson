@@ -1,0 +1,71 @@
+{
+  "id": 856792801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.676508,41.473885,-93.676508,41.473885",
+    "geom:latitude":41.473885,
+    "geom:longitude":-93.676508,
+    "iso:country":"US",
+    "sg:address":"616 Center St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0163",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "independent",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hExiyUh63ieMPgRQU6cgt_41.473885_-93.676508@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102889,
+    "wof:geomhash":"8ff83b5429522a25859f07f7982c00e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856792801
+        }
+    ],
+    "wof:id":856792801,
+    "wof:lastmodified":1464102889,
+    "wof:name":"Beulah Desenberg",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.676508,
+    41.473885,
+    -93.676508,
+    41.473885
+],
+  "geometry": {"coordinates":[-93.676508,41.473885],"type":"Point"}
+}

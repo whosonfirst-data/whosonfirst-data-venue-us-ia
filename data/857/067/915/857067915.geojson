@@ -1,0 +1,73 @@
+{
+  "id": 857067915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.650398,42.021599,-91.650398,42.021599",
+    "geom:latitude":42.021599,
+    "geom:longitude":-91.650398,
+    "iso:country":"US",
+    "sg:address":"1020 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5576",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ABDNhUYlJb69HvG65LkLz_42.021599_-91.650398@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115231,
+    "wof:geomhash":"b4292b048a36f9869fdba96093579ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067915
+        }
+    ],
+    "wof:id":857067915,
+    "wof:lastmodified":1464115231,
+    "wof:name":"Kool Moo the",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -91.650398,
+    42.021599,
+    -91.650398,
+    42.021599
+],
+  "geometry": {"coordinates":[-91.650398,42.021599],"type":"Point"}
+}

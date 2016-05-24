@@ -1,0 +1,72 @@
+{
+  "id": 857023265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.487342,41.503807,-93.487342,41.503807",
+    "geom:latitude":41.503807,
+    "geom:longitude":-93.487342,
+    "iso:country":"US",
+    "sg:address":"515 N 2nd St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3100",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "sg:website":"www.americanpartyoutlet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e9EDccs3ZfzofxFzIX4Qb_41.503807_-93.487342@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113323,
+    "wof:geomhash":"893b731c3921dd112d1d1ec8284c5f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857023265
+        }
+    ],
+    "wof:id":857023265,
+    "wof:lastmodified":1464113323,
+    "wof:name":"American Party Outlet",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.487342,
+    41.503807,
+    -93.487342,
+    41.503807
+],
+  "geometry": {"coordinates":[-93.487342,41.503807],"type":"Point"}
+}

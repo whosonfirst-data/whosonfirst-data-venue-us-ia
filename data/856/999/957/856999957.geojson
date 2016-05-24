@@ -1,0 +1,73 @@
+{
+  "id": 856999957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.314969,41.274464,-95.314969,41.274464",
+    "geom:latitude":41.274464,
+    "geom:longitude":-95.314969,
+    "iso:country":"US",
+    "sg:address":"45549 Elmtree Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3694",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jlGiOj3fwgFbKUZOH4dZF_41.274464_-95.314969@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112367,
+    "wof:geomhash":"c2f269475d95b7c9c1311c6e2f166198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856999957
+        }
+    ],
+    "wof:id":856999957,
+    "wof:lastmodified":1464112367,
+    "wof:name":"Steven Swope",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.314969,
+    41.274464,
+    -95.314969,
+    41.274464
+],
+  "geometry": {"coordinates":[-95.314969,41.274464],"type":"Point"}
+}

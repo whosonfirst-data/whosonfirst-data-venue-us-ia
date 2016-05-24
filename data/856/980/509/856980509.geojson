@@ -1,0 +1,73 @@
+{
+  "id": 856980509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638333,41.981741,-91.638333,41.981741",
+    "geom:latitude":41.981741,
+    "geom:longitude":-91.638333,
+    "iso:country":"US",
+    "sg:address":"503 Knollwood Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 5566",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IHvFJI7L6EDX4UWFn1gHh_41.981741_-91.638333@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111483,
+    "wof:geomhash":"984a6d4d239aeb0a1339c21cab25c916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856980509
+        }
+    ],
+    "wof:id":856980509,
+    "wof:lastmodified":1464111483,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -91.638333,
+    41.981741,
+    -91.638333,
+    41.981741
+],
+  "geometry": {"coordinates":[-91.638333,41.981741],"type":"Point"}
+}

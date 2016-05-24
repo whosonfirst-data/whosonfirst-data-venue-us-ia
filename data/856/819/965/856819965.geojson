@@ -1,0 +1,71 @@
+{
+  "id": 856819965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.106505,41.842354,-94.106505,41.842354",
+    "geom:latitude":41.842354,
+    "geom:longitude":-94.106505,
+    "iso:country":"US",
+    "sg:address":"1424 1st Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2161",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mQPOQ83HVKZ5akjBKqRUh_41.842354_-94.106505@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104099,
+    "wof:geomhash":"51870768022d1b596f0e530debd18f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856819965
+        }
+    ],
+    "wof:id":856819965,
+    "wof:lastmodified":1464104099,
+    "wof:name":"Repp Construction",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.106505,
+    41.842354,
+    -94.106505,
+    41.842354
+],
+  "geometry": {"coordinates":[-94.106505,41.842354],"type":"Point"}
+}

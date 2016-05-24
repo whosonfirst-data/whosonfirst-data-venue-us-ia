@@ -1,0 +1,71 @@
+{
+  "id": 857011721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.4001,41.43605,-93.4001,41.43605",
+    "geom:latitude":41.43605,
+    "geom:longitude":-93.4001,
+    "iso:country":"US",
+    "sg:address":"607 213th Ave",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0269",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HKdNSrl5BMsW2iU20Ubpy_41.436050_-93.400100@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112850,
+    "wof:geomhash":"89782a7f3447c6b28c6dd87c60648317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857011721
+        }
+    ],
+    "wof:id":857011721,
+    "wof:lastmodified":1464112850,
+    "wof:name":"Jim Wiley",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.4001,
+    41.43605,
+    -93.4001,
+    41.43605
+],
+  "geometry": {"coordinates":[-93.40009999999999,41.43605],"type":"Point"}
+}

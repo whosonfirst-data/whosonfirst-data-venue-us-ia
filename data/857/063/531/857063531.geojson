@@ -1,0 +1,81 @@
+{
+  "id": 857063531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.840063,41.265516,-95.840063,41.265516",
+    "geom:latitude":41.265516,
+    "geom:longitude":-95.840063,
+    "iso:country":"US",
+    "sg:address":"535 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 0930",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AJ0nzfLTOixGIak2sZnjz_41.265516_-95.840063@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115039,
+    "wof:geomhash":"a52a2d3028d928a90b709d9ced4b7f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063531
+        }
+    ],
+    "wof:id":857063531,
+    "wof:lastmodified":1464115039,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -95.840063,
+    41.265516,
+    -95.840063,
+    41.265516
+],
+  "geometry": {"coordinates":[-95.840063,41.265516],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856882213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662913,42.006452,-91.662913,42.006452",
+    "geom:latitude":42.006452,
+    "geom:longitude":-91.662913,
+    "iso:country":"US",
+    "sg:address":"1731 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 533 2099",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ofoaU6PrqUCMSXtU1Ep3C_42.006452_-91.662913@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107297,
+    "wof:geomhash":"9c4205989ad541fc0682f2946e96f650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856882213
+        }
+    ],
+    "wof:id":856882213,
+    "wof:lastmodified":1464107297,
+    "wof:name":"Advanced Tinting Solutions",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating"
+    ]
+},
+  "bbox": [
+    -91.662913,
+    42.006452,
+    -91.662913,
+    42.006452
+],
+  "geometry": {"coordinates":[-91.662913,42.006452],"type":"Point"}
+}

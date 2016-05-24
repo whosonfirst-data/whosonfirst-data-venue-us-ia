@@ -1,0 +1,73 @@
+{
+  "id": 856815095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.641255,41.994261,-91.641255,41.994261",
+    "geom:latitude":41.994261,
+    "geom:longitude":-91.641255,
+    "iso:country":"US",
+    "sg:address":"1953 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2682",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14dfyvbbx63Xl1gFkfBfHY_41.994261_-91.641255@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103833,
+    "wof:geomhash":"4c2a5e0d58b295caa522d703e2af9c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856815095
+        }
+    ],
+    "wof:id":856815095,
+    "wof:lastmodified":1464103833,
+    "wof:name":"Linn County Ob/Gyn",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.641255,
+    41.994261,
+    -91.641255,
+    41.994261
+],
+  "geometry": {"coordinates":[-91.641255,41.994261],"type":"Point"}
+}

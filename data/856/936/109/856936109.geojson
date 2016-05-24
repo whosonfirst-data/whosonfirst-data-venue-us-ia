@@ -1,0 +1,73 @@
+{
+  "id": 856936109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.644693,41.58812,-93.644693,41.58812",
+    "geom:latitude":41.58812,
+    "geom:longitude":-93.644693,
+    "iso:country":"US",
+    "sg:address":"2019 Woodland Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 248 6320",
+    "sg:postcode":"50312",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eVaZ7mw1HoCGiVuQX3RCk_41.588120_-93.644693@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109478,
+    "wof:geomhash":"d07a15487aff1f9615662167e7e00378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856936109
+        }
+    ],
+    "wof:id":856936109,
+    "wof:lastmodified":1464109478,
+    "wof:name":"Woodland Cemetery",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -93.644693,
+    41.58812,
+    -93.644693,
+    41.58812
+],
+  "geometry": {"coordinates":[-93.644693,41.58812],"type":"Point"}
+}

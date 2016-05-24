@@ -1,0 +1,73 @@
+{
+  "id": 857071265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.726601,41.9706,-91.726601,41.9706",
+    "geom:latitude":41.9706,
+    "geom:longitude":-91.726601,
+    "iso:country":"US",
+    "sg:address":"4241 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5522",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b8DqwY8gYX7E3TAefK9em_41.970600_-91.726601@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115384,
+    "wof:geomhash":"e487e5e46cc081f773308b618ff887c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071265
+        }
+    ],
+    "wof:id":857071265,
+    "wof:lastmodified":1464115384,
+    "wof:name":"Baumhoefener Nursery Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [
+    -91.726601,
+    41.9706,
+    -91.726601,
+    41.9706
+],
+  "geometry": {"coordinates":[-91.726601,41.9706],"type":"Point"}
+}

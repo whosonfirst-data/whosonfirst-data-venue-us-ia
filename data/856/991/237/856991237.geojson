@@ -1,0 +1,71 @@
+{
+  "id": 856991237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.848423,41.258027,-95.848423,41.258027",
+    "geom:latitude":41.258027,
+    "geom:longitude":-95.848423,
+    "iso:country":"US",
+    "sg:address":"1 Bluff St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8889",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uilX75ahfEa2qK2LMV7h3_41.258027_-95.848423@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112023,
+    "wof:geomhash":"0be1337688534e18985c429cc63d2a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856991237
+        }
+    ],
+    "wof:id":856991237,
+    "wof:lastmodified":1464112023,
+    "wof:name":"St Peter's Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.848423,
+    41.258027,
+    -95.848423,
+    41.258027
+],
+  "geometry": {"coordinates":[-95.848423,41.258027],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856810399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89078,41.257251,-95.89078,41.257251",
+    "geom:latitude":41.257251,
+    "geom:longitude":-95.89078,
+    "iso:country":"US",
+    "sg:address":"2801 5th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8438",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hw5mx5RXK31zpaU2131MD_41.257251_-95.890780@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103651,
+    "wof:geomhash":"516c4726e0b65bbb68c25e5c4425d91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856810399
+        }
+    ],
+    "wof:id":856810399,
+    "wof:lastmodified":1464103651,
+    "wof:name":"Light Of The Word Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.89078,
+    41.257251,
+    -95.89078,
+    41.257251
+],
+  "geometry": {"coordinates":[-95.89078000000001,41.257251],"type":"Point"}
+}

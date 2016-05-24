@@ -1,0 +1,73 @@
+{
+  "id": 857065693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618797,42.010101,-91.618797,42.010101",
+    "geom:latitude":42.010101,
+    "geom:longitude":-91.618797,
+    "iso:country":"US",
+    "sg:address":"601 Tama St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2451",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WQCLEE17kEqV3sbfncjwt_42.010101_-91.618797@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115122,
+    "wof:geomhash":"e5420cdea5a1d46cefc6c514a7f917f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065693
+        }
+    ],
+    "wof:id":857065693,
+    "wof:lastmodified":1464115122,
+    "wof:name":"Grimes Thomas DDS",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.618797,
+    42.010101,
+    -91.618797,
+    42.010101
+],
+  "geometry": {"coordinates":[-91.618797,42.010101],"type":"Point"}
+}

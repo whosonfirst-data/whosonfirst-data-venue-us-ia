@@ -1,0 +1,75 @@
+{
+  "id": 857068571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.642502,41.996899,-91.642502,41.996899",
+    "geom:latitude":41.996899,
+    "geom:longitude":-91.642502,
+    "iso:country":"US",
+    "sg:address":"300 20th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2162",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_226ecCoe2F2V6VXl1OGufF_41.996899_-91.642502@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115264,
+    "wof:geomhash":"afb9c1109e472ff9655a542546331eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068571
+        }
+    ],
+    "wof:id":857068571,
+    "wof:lastmodified":1464115264,
+    "wof:name":"Franklin Middle School",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.642502,
+    41.996899,
+    -91.642502,
+    41.996899
+],
+  "geometry": {"coordinates":[-91.64250199999999,41.996899],"type":"Point"}
+}

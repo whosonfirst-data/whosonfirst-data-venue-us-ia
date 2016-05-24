@@ -1,0 +1,71 @@
+{
+  "id": 856973973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.347745,42.468479,-96.347745,42.468479",
+    "geom:latitude":42.468479,
+    "geom:longitude":-96.347745,
+    "iso:country":"US",
+    "sg:address":"2121 S Henry St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 6691",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20IfNej5dDRsubKY92voR8_42.468479_-96.347745@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111166,
+    "wof:geomhash":"bee63ab52ba2e150510f45afa3d2d8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856973973
+        }
+    ],
+    "wof:id":856973973,
+    "wof:lastmodified":1464111166,
+    "wof:name":"Lang Photography",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.347745,
+    42.468479,
+    -96.347745,
+    42.468479
+],
+  "geometry": {"coordinates":[-96.347745,42.468479],"type":"Point"}
+}

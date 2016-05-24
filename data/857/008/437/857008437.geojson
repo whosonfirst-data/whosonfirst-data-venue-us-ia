@@ -1,0 +1,71 @@
+{
+  "id": 857008437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.398666,41.309208,-95.398666,41.309208",
+    "geom:latitude":41.309208,
+    "geom:longitude":-95.398666,
+    "iso:country":"US",
+    "sg:address":"218 Oakland Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3088",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WHUn3duve73jUU7QyhuRa_41.309208_-95.398666@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112722,
+    "wof:geomhash":"ea47d788a4c4a7a4279904fcf8545ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857008437
+        }
+    ],
+    "wof:id":857008437,
+    "wof:lastmodified":1464112722,
+    "wof:name":"Oakland Fire Dept",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.398666,
+    41.309208,
+    -95.398666,
+    41.309208
+],
+  "geometry": {"coordinates":[-95.39866600000001,41.309208],"type":"Point"}
+}

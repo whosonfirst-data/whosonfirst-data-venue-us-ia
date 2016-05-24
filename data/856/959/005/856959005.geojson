@@ -1,0 +1,73 @@
+{
+  "id": 856959005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.593641,41.644604,-91.593641,41.644604",
+    "geom:latitude":41.644604,
+    "geom:longitude":-91.593641,
+    "iso:country":"US",
+    "sg:address":"3507 Rohret Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8395",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wdBMSVjAdSbduMSHSEVh1_41.644604_-91.593641@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110505,
+    "wof:geomhash":"0dbcde6cd89bfad9f1688809a317072e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":856959005
+        }
+    ],
+    "wof:id":856959005,
+    "wof:lastmodified":1464110505,
+    "wof:name":"Hansen Asphalt",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -91.593641,
+    41.644604,
+    -91.593641,
+    41.644604
+],
+  "geometry": {"coordinates":[-91.59364100000001,41.644604],"type":"Point"}
+}

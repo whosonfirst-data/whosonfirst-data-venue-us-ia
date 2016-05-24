@@ -1,0 +1,73 @@
+{
+  "id": 856909991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.012554,41.53454,-94.012554,41.53454",
+    "geom:latitude":41.53454,
+    "geom:longitude":-94.012554,
+    "iso:country":"US",
+    "sg:address":"901 Guthrie St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2372",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "prefabricated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KCvtF72Sq10QKGs7Dnmdw_41.534540_-94.012554@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108421,
+    "wof:geomhash":"6c3d445926a3fff2ede13c6ffbd57f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856909991
+        }
+    ],
+    "wof:id":856909991,
+    "wof:lastmodified":1464108421,
+    "wof:name":"Cleary Building Corp",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "prefabricated"
+    ]
+},
+  "bbox": [
+    -94.012554,
+    41.53454,
+    -94.012554,
+    41.53454
+],
+  "geometry": {"coordinates":[-94.01255399999999,41.53454],"type":"Point"}
+}

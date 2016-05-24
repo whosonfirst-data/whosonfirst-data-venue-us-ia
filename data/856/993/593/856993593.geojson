@@ -1,0 +1,75 @@
+{
+  "id": 856993593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.803367,41.233203,-95.803367,41.233203",
+    "geom:latitude":41.233203,
+    "geom:longitude":-95.803367,
+    "iso:country":"US",
+    "sg:address":"19988 Cypress Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7283",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RYtjWNy9H5eGgDFto3DDs_41.233203_-95.803367@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112128,
+    "wof:geomhash":"b18cd982c320fe03e3b1ef5680b9a503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856993593
+        }
+    ],
+    "wof:id":856993593,
+    "wof:lastmodified":1464112128,
+    "wof:name":"Custom Tinting",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -95.803367,
+    41.233203,
+    -95.803367,
+    41.233203
+],
+  "geometry": {"coordinates":[-95.80336699999999,41.233203],"type":"Point"}
+}

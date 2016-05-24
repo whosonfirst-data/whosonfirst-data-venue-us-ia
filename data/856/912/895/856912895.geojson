@@ -1,0 +1,69 @@
+{
+  "id": 856912895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.496198,41.500227,-93.496198,41.500227",
+    "geom:latitude":41.500227,
+    "geom:longitude":-93.496198,
+    "iso:country":"US",
+    "sg:address":"235 Lindhardt Rd",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 9175",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HYhsgZM1GyTiUsSqXqNtq_41.500227_-93.496198@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108538,
+    "wof:geomhash":"f78b48c001d436923b83b8d59b31bf86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856912895
+        }
+    ],
+    "wof:id":856912895,
+    "wof:lastmodified":1464108538,
+    "wof:name":"Jc's Cookie Jar",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.496198,
+    41.500227,
+    -93.496198,
+    41.500227
+],
+  "geometry": {"coordinates":[-93.49619800000001,41.500227],"type":"Point"}
+}

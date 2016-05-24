@@ -1,0 +1,71 @@
+{
+  "id": 856988243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725868,41.965694,-91.725868,41.965694",
+    "geom:latitude":41.965694,
+    "geom:longitude":-91.725868,
+    "iso:country":"US",
+    "sg:address":"240 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 6577",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gien0LP7btqNzDSt3UVJP_41.965694_-91.725868@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111878,
+    "wof:geomhash":"0ee8372cf948094c2107642b3849a71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856988243
+        }
+    ],
+    "wof:id":856988243,
+    "wof:lastmodified":1464111878,
+    "wof:name":"Mollman Law Firm",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.725868,
+    41.965694,
+    -91.725868,
+    41.965694
+],
+  "geometry": {"coordinates":[-91.72586800000001,41.965694],"type":"Point"}
+}

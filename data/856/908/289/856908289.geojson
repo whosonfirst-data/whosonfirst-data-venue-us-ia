@@ -1,0 +1,71 @@
+{
+  "id": 856908289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.574015,41.358013,-93.574015,41.358013",
+    "geom:latitude":41.358013,
+    "geom:longitude":-93.574015,
+    "iso:country":"US",
+    "sg:address":"1002 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6666",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30cPEBAxKoSaIWdP5QjsU0_41.358013_-93.574015@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108359,
+    "wof:geomhash":"c21c775225cffaee595bc3eed452b0ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856908289
+        }
+    ],
+    "wof:id":856908289,
+    "wof:lastmodified":1464108359,
+    "wof:name":"Michael's Automotive Authority",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.574015,
+    41.358013,
+    -93.574015,
+    41.358013
+],
+  "geometry": {"coordinates":[-93.574015,41.358013],"type":"Point"}
+}

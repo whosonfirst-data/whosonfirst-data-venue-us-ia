@@ -1,0 +1,73 @@
+{
+  "id": 856787201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.387583,41.917941,-91.387583,41.917941",
+    "geom:latitude":41.917941,
+    "geom:longitude":-91.387583,
+    "iso:country":"US",
+    "sg:address":"214 US Hwy 30",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2019",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0du90xjNuwXp3rAkEh5Q4r_41.917941_-91.387583@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102667,
+    "wof:geomhash":"9884644a37e8b04568935adef4d89b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856787201
+        }
+    ],
+    "wof:id":856787201,
+    "wof:lastmodified":1464102667,
+    "wof:name":"Junction Auto Sales",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.387583,
+    41.917941,
+    -91.387583,
+    41.917941
+],
+  "geometry": {"coordinates":[-91.38758300000001,41.917941],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856827673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.019835,41.617171,-94.019835,41.617171",
+    "geom:latitude":41.617171,
+    "geom:longitude":-94.019835,
+    "iso:country":"US",
+    "sg:address":"911 Main St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4640",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57ab95YomZAlG0RMm48eSl_41.617171_-94.019835@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104418,
+    "wof:geomhash":"11d446f630032e0a1cd8ae73bf152493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856827673
+        }
+    ],
+    "wof:id":856827673,
+    "wof:lastmodified":1464104418,
+    "wof:name":"Short Harris & Co CPA Plc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -94.019835,
+    41.617171,
+    -94.019835,
+    41.617171
+],
+  "geometry": {"coordinates":[-94.019835,41.617171],"type":"Point"}
+}

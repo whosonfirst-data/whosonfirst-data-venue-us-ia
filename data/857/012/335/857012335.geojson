@@ -1,0 +1,71 @@
+{
+  "id": 857012335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.572642,41.352404,-93.572642,41.352404",
+    "geom:latitude":41.352404,
+    "geom:longitude":-93.572642,
+    "iso:country":"US",
+    "sg:address":"608 S G St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4746",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c7CV49bNGzmXSiC6H7s14_41.352404_-93.572642@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112874,
+    "wof:geomhash":"a3e56d9df4f176c2d3d947252d919ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857012335
+        }
+    ],
+    "wof:id":857012335,
+    "wof:lastmodified":1464112874,
+    "wof:name":"Tom Kellar Grading",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.572642,
+    41.352404,
+    -93.572642,
+    41.352404
+],
+  "geometry": {"coordinates":[-93.572642,41.352404],"type":"Point"}
+}

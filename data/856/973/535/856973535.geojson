@@ -1,0 +1,77 @@
+{
+  "id": 856973535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.689307,41.977031,-91.689307,41.977031",
+    "geom:latitude":41.977031,
+    "geom:longitude":-91.689307,
+    "iso:country":"US",
+    "sg:address":"501 13th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 892 6000",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1crZeIvSS96iYAl05Tp4mv_41.977031_-91.689307@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111133,
+    "wof:geomhash":"ca30b256be21106c804fb513a8cc3e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856973535
+        }
+    ],
+    "wof:id":856973535,
+    "wof:lastmodified":1464111133,
+    "wof:name":"Linn County Public Health",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -91.689307,
+    41.977031,
+    -91.689307,
+    41.977031
+],
+  "geometry": {"coordinates":[-91.689307,41.977031],"type":"Point"}
+}

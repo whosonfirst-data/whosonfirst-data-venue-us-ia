@@ -1,0 +1,72 @@
+{
+  "id": 856947723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530701,42.194844,-91.530701,42.194844",
+    "geom:latitude":42.194844,
+    "geom:longitude":-91.530701,
+    "iso:country":"US",
+    "sg:address":"825 Marion Rd S",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6106",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stampings"
+    ],
+    "sg:website":"www.centralcitymfg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fo83vcEHYtKo8LTqgevlE_42.194844_-91.530701@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109984,
+    "wof:geomhash":"1e41772f0426d1c87513548a1b52007e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856947723
+        }
+    ],
+    "wof:id":856947723,
+    "wof:lastmodified":1464109984,
+    "wof:name":"Central City Mfg",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stampings"
+    ]
+},
+  "bbox": [
+    -91.530701,
+    42.194844,
+    -91.530701,
+    42.194844
+],
+  "geometry": {"coordinates":[-91.53070099999999,42.194844],"type":"Point"}
+}

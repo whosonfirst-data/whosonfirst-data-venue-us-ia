@@ -1,0 +1,73 @@
+{
+  "id": 856800377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.443731,42.054057,-91.443731,42.054057",
+    "geom:latitude":42.054057,
+    "geom:longitude":-91.443731,
+    "iso:country":"US",
+    "sg:address":"407 1st Ave",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7566",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HwcB7ORIKeTVlLUWqX6UH_42.054057_-91.443731@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103211,
+    "wof:geomhash":"ef39b0fe17eff4df5071ad9a0ca6f766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856800377
+        }
+    ],
+    "wof:id":856800377,
+    "wof:lastmodified":1464103211,
+    "wof:name":"Springville Auto Sales",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.443731,
+    42.054057,
+    -91.443731,
+    42.054057
+],
+  "geometry": {"coordinates":[-91.443731,42.054057],"type":"Point"}
+}

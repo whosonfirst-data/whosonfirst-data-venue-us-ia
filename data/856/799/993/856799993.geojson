@@ -1,0 +1,73 @@
+{
+  "id": 856799993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.72484,42.033175,-91.72484,42.033175",
+    "geom:latitude":42.033175,
+    "geom:longitude":-91.72484,
+    "iso:country":"US",
+    "sg:address":"4081 W Valley Dr",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4410",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53cpzdNNezWwV7RGK1s4tG_42.033175_-91.724840@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103196,
+    "wof:geomhash":"ade9542fe96caf64c091711b2d35765f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856799993
+        }
+    ],
+    "wof:id":856799993,
+    "wof:lastmodified":1464103196,
+    "wof:name":"Curb Appeal",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.72484,
+    42.033175,
+    -91.72484,
+    42.033175
+],
+  "geometry": {"coordinates":[-91.72484,42.033175],"type":"Point"}
+}

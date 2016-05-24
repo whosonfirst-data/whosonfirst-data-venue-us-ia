@@ -1,0 +1,75 @@
+{
+  "id": 856878847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.897686,41.262017,-95.897686,41.262017",
+    "geom:latitude":41.262017,
+    "geom:longitude":-95.897686,
+    "iso:country":"US",
+    "sg:address":"3338 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7500",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o3JHCnKP4WRndZkEA137o_41.262017_-95.897686@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107111,
+    "wof:geomhash":"073da7a0414a452eb116ecc37f146630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856878847
+        }
+    ],
+    "wof:id":856878847,
+    "wof:lastmodified":1464107111,
+    "wof:name":"Mad Hatter Mufflers & Brakes",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -95.897686,
+    41.262017,
+    -95.897686,
+    41.262017
+],
+  "geometry": {"coordinates":[-95.89768599999999,41.262017],"type":"Point"}
+}

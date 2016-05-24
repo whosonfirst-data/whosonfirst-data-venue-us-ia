@@ -1,0 +1,75 @@
+{
+  "id": 856788293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.409492,42.513574,-96.409492,42.513574",
+    "geom:latitude":42.513574,
+    "geom:longitude":-96.409492,
+    "iso:country":"US",
+    "sg:address":"2110 Summit St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 2015",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yrc1Yf6fbJrs52MFOQTJ4_42.513574_-96.409492@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102718,
+    "wof:geomhash":"55781e0c10b7564daf528621344abc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856788293
+        }
+    ],
+    "wof:id":856788293,
+    "wof:lastmodified":1464102718,
+    "wof:name":"Bellevue Ballroom",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -96.409492,
+    42.513574,
+    -96.409492,
+    42.513574
+],
+  "geometry": {"coordinates":[-96.409492,42.513574],"type":"Point"}
+}

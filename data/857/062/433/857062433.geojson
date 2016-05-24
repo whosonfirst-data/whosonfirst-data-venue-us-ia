@@ -1,0 +1,71 @@
+{
+  "id": 857062433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.852898,41.228001,-95.852898,41.228001",
+    "geom:latitude":41.228001,
+    "geom:longitude":-95.852898,
+    "iso:country":"US",
+    "sg:address":"3210 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2217",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y2T7bJzSbnBMGGdUQPe68_41.228001_-95.852898@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115003,
+    "wof:geomhash":"4e7c315d8897482807f15eb1ab3d2ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062433
+        }
+    ],
+    "wof:id":857062433,
+    "wof:lastmodified":1464115003,
+    "wof:name":"Travel Centers of America",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.852898,
+    41.228001,
+    -95.852898,
+    41.228001
+],
+  "geometry": {"coordinates":[-95.852898,41.228001],"type":"Point"}
+}

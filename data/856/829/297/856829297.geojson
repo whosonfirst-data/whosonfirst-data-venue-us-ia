@@ -1,0 +1,73 @@
+{
+  "id": 856829297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.251033,41.746215,-94.251033,41.746215",
+    "geom:latitude":41.746215,
+    "geom:longitude":-94.251033,
+    "iso:country":"US",
+    "sg:address":"1259 200th St",
+    "sg:city":"Linden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 428 8290",
+    "sg:postcode":"50146",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ru32uIq5cjPVYfQgi5qrW_41.746215_-94.251033@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104488,
+    "wof:geomhash":"107ac8ad79af668458addb323a39473c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856829297
+        }
+    ],
+    "wof:id":856829297,
+    "wof:lastmodified":1464104488,
+    "wof:name":"Herring Farm The",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -94.251033,
+    41.746215,
+    -94.251033,
+    41.746215
+],
+  "geometry": {"coordinates":[-94.25103300000001,41.746215],"type":"Point"}
+}

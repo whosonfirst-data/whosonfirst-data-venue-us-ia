@@ -1,0 +1,73 @@
+{
+  "id": 857052211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.495003,41.504002,-93.495003,41.504002",
+    "geom:latitude":41.504002,
+    "geom:longitude":-93.495003,
+    "iso:country":"US",
+    "sg:address":"525 N 9th St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0557",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64RLClO7h7CmTzbwu11SWf_41.504055_-93.495344@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114586,
+    "wof:geomhash":"a4540b33b34faddba05a6f00177b60b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857052211
+        }
+    ],
+    "wof:id":857052211,
+    "wof:lastmodified":1464114586,
+    "wof:name":"Sandstone Management",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.495003,
+    41.504002,
+    -93.495003,
+    41.504002
+],
+  "geometry": {"coordinates":[-93.495003,41.504002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856849665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.834523,41.354303,-95.834523,41.354303",
+    "geom:latitude":41.354303,
+    "geom:longitude":-95.834523,
+    "iso:country":"US",
+    "sg:address":"18298 Jefferson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3722",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PEHzYJM3vm539RxVH3NeH_41.354303_-95.834523@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105502,
+    "wof:geomhash":"d5d37e52fa2bb37d5fb756d46f62989c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856849665
+        }
+    ],
+    "wof:id":856849665,
+    "wof:lastmodified":1464105502,
+    "wof:name":"Wilson Landscaping",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy"
+    ]
+},
+  "bbox": [
+    -95.834523,
+    41.354303,
+    -95.834523,
+    41.354303
+],
+  "geometry": {"coordinates":[-95.834523,41.354303],"type":"Point"}
+}

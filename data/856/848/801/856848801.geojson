@@ -1,0 +1,71 @@
+{
+  "id": 856848801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.643509,42.05699,-91.643509,42.05699",
+    "geom:latitude":42.05699,
+    "geom:longitude":-91.643509,
+    "iso:country":"US",
+    "sg:address":"701 Winterberry Pl NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9450",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aabl8T1tHxh9yFim8MFr2_42.056990_-91.643509@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105452,
+    "wof:geomhash":"79f9889364fc7d40b032ec2e74cca2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856848801
+        }
+    ],
+    "wof:id":856848801,
+    "wof:lastmodified":1464105452,
+    "wof:name":"Market Developers Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -91.643509,
+    42.05699,
+    -91.643509,
+    42.05699
+],
+  "geometry": {"coordinates":[-91.64350899999999,42.05699],"type":"Point"}
+}

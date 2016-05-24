@@ -1,0 +1,71 @@
+{
+  "id": 856992797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.626294,41.639813,-93.626294,41.639813",
+    "geom:latitude":41.639813,
+    "geom:longitude":-93.626294,
+    "iso:country":"US",
+    "sg:address":"4335 NW 6th Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 7489",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944061,
+        102086603,
+        85896373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iJMDkvBJjRhYvppsGvhZB_41.639813_-93.626294@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112098,
+    "wof:geomhash":"de29a89b0d9145ef45ace894721fad47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896373,
+            "region_id":85688713,
+            "venue_id":856992797
+        }
+    ],
+    "wof:id":856992797,
+    "wof:lastmodified":1464112098,
+    "wof:name":"Highland Pk Church of Nazarene",
+    "wof:parent_id":85896373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.626294,
+    41.639813,
+    -93.626294,
+    41.639813
+],
+  "geometry": {"coordinates":[-93.626294,41.639813],"type":"Point"}
+}

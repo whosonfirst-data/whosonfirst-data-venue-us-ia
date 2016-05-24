@@ -1,0 +1,70 @@
+{
+  "id": 857033623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.679965,41.477956,-93.679965,41.477956",
+    "geom:latitude":41.477956,
+    "geom:longitude":-93.679965,
+    "iso:country":"US",
+    "sg:address":"1031 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 5455",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.2thecrossroads.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NifX68Fo1AvZ9Oxao4kTO_41.477956_-93.679965@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113808,
+    "wof:geomhash":"aaa42cbe2978710ca59800b35933029a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857033623
+        }
+    ],
+    "wof:id":857033623,
+    "wof:lastmodified":1464113808,
+    "wof:name":"Crossroads Church",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.679965,
+    41.477956,
+    -93.679965,
+    41.477956
+],
+  "geometry": {"coordinates":[-93.679965,41.477956],"type":"Point"}
+}

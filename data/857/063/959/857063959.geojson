@@ -1,0 +1,75 @@
+{
+  "id": 857063959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.845425,41.24704,-95.845425,41.24704",
+    "geom:latitude":41.24704,
+    "geom:longitude":-95.845425,
+    "iso:country":"US",
+    "sg:address":"147 15th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 6463",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3baDHKXBWmL4ELaorCXb68_41.247040_-95.845425@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115061,
+    "wof:geomhash":"bfc57617a7111d8b5f574ab2dab6305f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063959
+        }
+    ],
+    "wof:id":857063959,
+    "wof:lastmodified":1464115061,
+    "wof:name":"Council Bluffs Community School District",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.845425,
+    41.24704,
+    -95.845425,
+    41.24704
+],
+  "geometry": {"coordinates":[-95.84542500000001,41.24704],"type":"Point"}
+}

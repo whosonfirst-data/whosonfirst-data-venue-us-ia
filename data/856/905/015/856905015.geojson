@@ -1,0 +1,71 @@
+{
+  "id": 856905015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.478461,41.442824,-91.478461,41.442824",
+    "geom:latitude":41.442824,
+    "geom:longitude":-91.478461,
+    "iso:country":"US",
+    "sg:address":"4707 Eden Farm Rd SE",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 5130",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85844725,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M0IEW686ZSBIrekbCJwUf_41.442824_-91.478461@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108232,
+    "wof:geomhash":"9fafe6a4347ab1165c3c5cfa2d1cfe72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85844725,
+            "region_id":85688713,
+            "venue_id":856905015
+        }
+    ],
+    "wof:id":856905015,
+    "wof:lastmodified":1464108232,
+    "wof:name":"TNT Construction",
+    "wof:parent_id":85844725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.478461,
+    41.442824,
+    -91.478461,
+    41.442824
+],
+  "geometry": {"coordinates":[-91.478461,41.442824],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857068685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.635094,42.008882,-91.635094,42.008882",
+    "geom:latitude":42.008882,
+    "geom:longitude":-91.635094,
+    "iso:country":"US",
+    "sg:address":"3124 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1176",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.jarvisconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nTAupOhtaklQYFzXKAY25_42.008882_-91.635094@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115276,
+    "wof:geomhash":"d79a846583818c400ac65034f10ef0e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068685
+        }
+    ],
+    "wof:id":857068685,
+    "wof:lastmodified":1464115276,
+    "wof:name":"Jarvis Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.635094,
+    42.008882,
+    -91.635094,
+    42.008882
+],
+  "geometry": {"coordinates":[-91.635094,42.008882],"type":"Point"}
+}

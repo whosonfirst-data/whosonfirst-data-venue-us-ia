@@ -1,0 +1,73 @@
+{
+  "id": 856850079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.83492,41.245948,-95.83492,41.245948",
+    "geom:latitude":41.245948,
+    "geom:longitude":-95.83492,
+    "iso:country":"US",
+    "sg:address":"313 Lori Ln",
+    "sg:city":"Woodbine",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 647 3133",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medicinal",
+        "prod"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oRvPOrt939d0gf7kqpDkq_41.245948_-95.834920@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105525,
+    "wof:geomhash":"128a03d20ce2b051bc50b7bedf064d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856850079
+        }
+    ],
+    "wof:id":856850079,
+    "wof:lastmodified":1464105525,
+    "wof:name":"Apotheca Natural Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinal",
+        "prod"
+    ]
+},
+  "bbox": [
+    -95.83492,
+    41.245948,
+    -95.83492,
+    41.245948
+],
+  "geometry": {"coordinates":[-95.83492,41.245948],"type":"Point"}
+}

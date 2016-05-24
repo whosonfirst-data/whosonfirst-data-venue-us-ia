@@ -1,0 +1,73 @@
+{
+  "id": 856901235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.531502,41.346989,-95.531502,41.346989",
+    "geom:latitude":41.346989,
+    "geom:longitude":-95.531502,
+    "iso:country":"US",
+    "sg:address":"34937 Juniper Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3060",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RiBMHVnSxRcCyUFyIbcWb_41.346989_-95.531502@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108097,
+    "wof:geomhash":"7b19fb04ea681a271aacfad6bf3aa49b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856901235
+        }
+    ],
+    "wof:id":856901235,
+    "wof:lastmodified":1464108097,
+    "wof:name":"Bentley Kendall Farm",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.531502,
+    41.346989,
+    -95.531502,
+    41.346989
+],
+  "geometry": {"coordinates":[-95.531502,41.346989],"type":"Point"}
+}

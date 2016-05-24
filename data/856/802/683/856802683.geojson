@@ -1,0 +1,66 @@
+{
+  "id": 856802683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.823132,41.758151,-93.823132,41.758151",
+    "geom:latitude":41.758151,
+    "geom:longitude":-93.823132,
+    "iso:country":"US",
+    "sg:address":"2001 Court St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 9565",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02LjYo8WnIriVkmbdjas4H_41.758151_-93.823132@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103306,
+    "wof:geomhash":"d577ce0f7c8ee00b33082f8f3ce53c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856802683
+        }
+    ],
+    "wof:id":856802683,
+    "wof:lastmodified":1464103306,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.823132,
+    41.758151,
+    -93.823132,
+    41.758151
+],
+  "geometry": {"coordinates":[-93.823132,41.758151],"type":"Point"}
+}

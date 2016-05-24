@@ -1,0 +1,71 @@
+{
+  "id": 856845133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.635514,42.050797,-91.635514,42.050797",
+    "geom:latitude":42.050797,
+    "geom:longitude":-91.635514,
+    "iso:country":"US",
+    "sg:address":"7150 Chelsea Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0724",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TaK5XjT8uE6GK6zdVuMx0_42.050797_-91.635514@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105238,
+    "wof:geomhash":"aa66b3b0b8c7560d058a33ac6d12c1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856845133
+        }
+    ],
+    "wof:id":856845133,
+    "wof:lastmodified":1464105238,
+    "wof:name":"Upper Crust Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.635514,
+    42.050797,
+    -91.635514,
+    42.050797
+],
+  "geometry": {"coordinates":[-91.635514,42.050797],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856920521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.435389,42.496226,-96.435389,42.496226",
+    "geom:latitude":42.496226,
+    "geom:longitude":-96.435389,
+    "iso:country":"US",
+    "sg:address":"118 S John St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1137",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12aGcRTWOKAbhLa4MfCDYd_42.496226_-96.435389@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108837,
+    "wof:geomhash":"95cdfa7bcffa4537f1c12dcc1e0e521e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856920521
+        }
+    ],
+    "wof:id":856920521,
+    "wof:lastmodified":1464108837,
+    "wof:name":"B & C Office Tech",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.435389,
+    42.496226,
+    -96.435389,
+    42.496226
+],
+  "geometry": {"coordinates":[-96.435389,42.496226],"type":"Point"}
+}

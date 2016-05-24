@@ -1,0 +1,66 @@
+{
+  "id": 857063049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867897,41.268101,-95.867897,41.268101",
+    "geom:latitude":41.268101,
+    "geom:longitude":-95.867897,
+    "iso:country":"US",
+    "sg:address":"1602 Avenue G",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 9377",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kTtXRCvlGMM9PD0euJbYl_41.268101_-95.867897@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115024,
+    "wof:geomhash":"7ea0df81c76e3198ffb912bf0408c155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063049
+        }
+    ],
+    "wof:id":857063049,
+    "wof:lastmodified":1464115024,
+    "wof:name":"Kwik Shop 532",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.867897,
+    41.268101,
+    -95.867897,
+    41.268101
+],
+  "geometry": {"coordinates":[-95.867897,41.268101],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857008703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.575031,41.646672,-91.575031,41.646672",
+    "geom:latitude":41.646672,
+    "geom:longitude":-91.575031,
+    "iso:country":"US",
+    "sg:address":"2408 Walden Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 0403",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zs4j7pQYxBV2z61tYUj6E_41.646672_-91.575031@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112730,
+    "wof:geomhash":"f74db84dbb686ccaa7360d87a24f2bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":857008703
+        }
+    ],
+    "wof:id":857008703,
+    "wof:lastmodified":1464112730,
+    "wof:name":"Advantage Heating & Air Cond",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.575031,
+    41.646672,
+    -91.575031,
+    41.646672
+],
+  "geometry": {"coordinates":[-91.575031,41.646672],"type":"Point"}
+}

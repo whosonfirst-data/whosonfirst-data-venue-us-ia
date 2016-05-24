@@ -1,0 +1,75 @@
+{
+  "id": 856827727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662397,42.003975,-91.662397,42.003975",
+    "geom:latitude":42.003975,
+    "geom:longitude":-91.662397,
+    "iso:country":"US",
+    "sg:address":"1335 O Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 533 0882",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g75T2UH99SUtrgBnuPJZ2_42.003975_-91.662397@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104419,
+    "wof:geomhash":"2c2f9bb6d6b71b4b87b5b3e9688c3a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856827727
+        }
+    ],
+    "wof:id":856827727,
+    "wof:lastmodified":1464104419,
+    "wof:name":"Performance Detailing",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -91.662397,
+    42.003975,
+    -91.662397,
+    42.003975
+],
+  "geometry": {"coordinates":[-91.662397,42.003975],"type":"Point"}
+}

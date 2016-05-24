@@ -1,0 +1,71 @@
+{
+  "id": 856830743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.08471,41.838289,-94.08471,41.838289",
+    "geom:latitude":41.838289,
+    "geom:longitude":-94.08471,
+    "iso:country":"US",
+    "sg:address":"1017 17th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2368",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c3Fz2FxrF5IZTDDGBgzFw_41.838289_-94.084710@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104541,
+    "wof:geomhash":"067a3478034281f7723f37d878ef383b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856830743
+        }
+    ],
+    "wof:id":856830743,
+    "wof:lastmodified":1464104541,
+    "wof:name":"Martin Upholstery",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -94.08471,
+    41.838289,
+    -94.08471,
+    41.838289
+],
+  "geometry": {"coordinates":[-94.08471,41.838289],"type":"Point"}
+}

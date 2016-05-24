@@ -1,0 +1,75 @@
+{
+  "id": 857023017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.676367,41.881064,-93.676367,41.881064",
+    "geom:latitude":41.881064,
+    "geom:longitude":-93.676367,
+    "iso:country":"US",
+    "sg:address":"206 Cedar St",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 228 3760",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21OvSbE5W3dhZw619fEs6N_41.881064_-93.676367@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113316,
+    "wof:geomhash":"01ca553133a5b133d7f3327620139035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":857023017
+        }
+    ],
+    "wof:id":857023017,
+    "wof:lastmodified":1464113316,
+    "wof:name":"Dave White Plumbing Inc",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.676367,
+    41.881064,
+    -93.676367,
+    41.881064
+],
+  "geometry": {"coordinates":[-93.676367,41.881064],"type":"Point"}
+}

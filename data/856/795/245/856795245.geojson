@@ -1,0 +1,71 @@
+{
+  "id": 856795245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677569,42.042178,-91.677569,42.042178",
+    "geom:latitude":42.042178,
+    "geom:longitude":-91.677569,
+    "iso:country":"US",
+    "sg:address":"404 N Center Point Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 0658",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xIUyprLxzvySHc15Gygpc_42.042178_-91.677569@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102984,
+    "wof:geomhash":"e8f730fca64d8d464f501ff2fc147ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856795245
+        }
+    ],
+    "wof:id":856795245,
+    "wof:lastmodified":1464102984,
+    "wof:name":"Ignition Interlock Syst-Iowa",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [
+    -91.677569,
+    42.042178,
+    -91.677569,
+    42.042178
+],
+  "geometry": {"coordinates":[-91.67756900000001,42.042178],"type":"Point"}
+}

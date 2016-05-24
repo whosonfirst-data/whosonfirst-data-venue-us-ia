@@ -1,0 +1,71 @@
+{
+  "id": 857069153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663696,41.992802,-91.663696,41.992802",
+    "geom:latitude":41.992802,
+    "geom:longitude":-91.663696,
+    "iso:country":"US",
+    "sg:address":"1207 G Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3579",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YFPYcktnWg6QQLyMqcF1w_41.992802_-91.663696@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115294,
+    "wof:geomhash":"3e64911eb63a1b7bdea996c7bc0d94ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069153
+        }
+    ],
+    "wof:id":857069153,
+    "wof:lastmodified":1464115294,
+    "wof:name":"Five Seasons Painting & Drywall",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.663696,
+    41.992802,
+    -91.663696,
+    41.992802
+],
+  "geometry": {"coordinates":[-91.663696,41.992802],"type":"Point"}
+}

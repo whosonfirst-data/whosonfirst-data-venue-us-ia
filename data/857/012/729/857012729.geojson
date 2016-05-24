@@ -1,0 +1,75 @@
+{
+  "id": 857012729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.86414,41.25625,-95.86414,41.25625",
+    "geom:latitude":41.25625,
+    "geom:longitude":-95.86414,
+    "iso:country":"US",
+    "sg:address":"1324 6th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 1791",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zoEAloGIn0bkzce1zlhIz_41.256250_-95.864140@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112897,
+    "wof:geomhash":"8ce83c5b96a57bd841bfd043c87c3aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857012729
+        }
+    ],
+    "wof:id":857012729,
+    "wof:lastmodified":1464112897,
+    "wof:name":"Baggers Custom Cycle",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -95.86414,
+    41.25625,
+    -95.86414,
+    41.25625
+],
+  "geometry": {"coordinates":[-95.86414000000001,41.25625],"type":"Point"}
+}

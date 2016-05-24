@@ -1,0 +1,75 @@
+{
+  "id": 857067137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668829,41.978582,-91.668829,41.978582",
+    "geom:latitude":41.978582,
+    "geom:longitude":-91.668829,
+    "iso:country":"US",
+    "sg:address":"101 2nd St SE Ste 904",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2222",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u35xP6Lbzb94GURyaa7DJ_41.978582_-91.668829@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115183,
+    "wof:geomhash":"abca2b09a62edf99dc2b467fa064996d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857067137
+        }
+    ],
+    "wof:id":857067137,
+    "wof:lastmodified":1464115183,
+    "wof:name":"American Board of Certification",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -91.668829,
+    41.978582,
+    -91.668829,
+    41.978582
+],
+  "geometry": {"coordinates":[-91.668829,41.978582],"type":"Point"}
+}

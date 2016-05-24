@@ -1,0 +1,78 @@
+{
+  "id": 857063145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865909,41.271651,-95.865909,41.271651",
+    "geom:latitude":41.271651,
+    "geom:longitude":-95.865909,
+    "iso:country":"US",
+    "sg:address":"1500 Avenue K",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 1708",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h7AVrx9VZFusy26egG1xq_41.271651_-95.865909@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115027,
+    "wof:geomhash":"d73d845e1ec8b28d7463acc161d712cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063145
+        }
+    ],
+    "wof:id":857063145,
+    "wof:lastmodified":1464115027,
+    "wof:name":"P M Pest & Termite Control Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -95.865909,
+    41.271651,
+    -95.865909,
+    41.271651
+],
+  "geometry": {"coordinates":[-95.865909,41.271651],"type":"Point"}
+}

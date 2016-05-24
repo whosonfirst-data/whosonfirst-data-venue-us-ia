@@ -1,0 +1,75 @@
+{
+  "id": 856784305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67632,41.925674,-91.67632,41.925674",
+    "geom:latitude":41.925674,
+    "geom:longitude":-91.67632,
+    "iso:country":"US",
+    "sg:address":"5505 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1334",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53YhhDndYjIjSPyXePQLDU_41.925674_-91.676320@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102537,
+    "wof:geomhash":"0f86936a62f526f76660cc8e52eeada4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856784305
+        }
+    ],
+    "wof:id":856784305,
+    "wof:lastmodified":1464102537,
+    "wof:name":"Sunrise Mobile Court",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -91.67632,
+    41.925674,
+    -91.67632,
+    41.925674
+],
+  "geometry": {"coordinates":[-91.67632,41.925674],"type":"Point"}
+}

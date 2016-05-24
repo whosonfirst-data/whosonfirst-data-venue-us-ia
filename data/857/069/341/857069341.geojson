@@ -1,0 +1,67 @@
+{
+  "id": 857069341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629841,42.028835,-91.629841,42.028835",
+    "geom:latitude":42.028835,
+    "geom:longitude":-91.629841,
+    "iso:country":"US",
+    "sg:address":"206 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 360 0173",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.healthsourceofcedarrapids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PToKlqzhedNOu2Fzt3qY3_42.028835_-91.629841@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115300,
+    "wof:geomhash":"34088fbb50cc65af81fcdc0ae5a1f7f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069341
+        }
+    ],
+    "wof:id":857069341,
+    "wof:lastmodified":1464115300,
+    "wof:name":"HealthSource of Cedar Rapids",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.629841,
+    42.028835,
+    -91.629841,
+    42.028835
+],
+  "geometry": {"coordinates":[-91.629841,42.028835],"type":"Point"}
+}

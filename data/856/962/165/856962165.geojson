@@ -1,0 +1,68 @@
+{
+  "id": 856962165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.6236,41.565651,-93.6236,41.565651",
+    "geom:latitude":41.565651,
+    "geom:longitude":-93.6236,
+    "iso:country":"US",
+    "sg:address":"2319 SW 9th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 3755",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41XrxbPrr7mqm0xBAMjr6q_41.565651_-93.623600@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110639,
+    "wof:geomhash":"30260f0544e4f0f552ac093d2c39020d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896401,
+            "region_id":85688713,
+            "venue_id":856962165
+        }
+    ],
+    "wof:id":856962165,
+    "wof:lastmodified":1464110639,
+    "wof:name":"Jaegers Lawn Care",
+    "wof:parent_id":85896401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.6236,
+    41.565651,
+    -93.6236,
+    41.565651
+],
+  "geometry": {"coordinates":[-93.6236,41.565651],"type":"Point"}
+}

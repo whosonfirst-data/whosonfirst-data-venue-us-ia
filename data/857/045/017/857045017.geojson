@@ -1,0 +1,71 @@
+{
+  "id": 857045017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850601,41.260502,-95.850601,41.260502",
+    "geom:latitude":41.260502,
+    "geom:longitude":-95.850601,
+    "iso:country":"US",
+    "sg:address":"30 Pearl St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 6118",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3guB1UIbbQx1cFRKkOV5QE_41.259940_-95.850712@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114271,
+    "wof:geomhash":"0f3842ba5186c7ea4de0aa527b4b961a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857045017
+        }
+    ],
+    "wof:id":857045017,
+    "wof:lastmodified":1464114271,
+    "wof:name":"Taste of China",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -95.850601,
+    41.260502,
+    -95.850601,
+    41.260502
+],
+  "geometry": {"coordinates":[-95.850601,41.260502],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856865987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.445697,42.506924,-96.445697,42.506924",
+    "geom:latitude":42.506924,
+    "geom:longitude":-96.445697,
+    "iso:country":"US",
+    "sg:address":"2807 Cottage Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 8433",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39Cm4QGIvCpw3a5eHfB73u_42.506924_-96.445697@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106259,
+    "wof:geomhash":"329c18a81d7d1765c93f14c553599730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856865987
+        }
+    ],
+    "wof:id":856865987,
+    "wof:lastmodified":1464106259,
+    "wof:name":"Jims Glass",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -96.445697,
+    42.506924,
+    -96.445697,
+    42.506924
+],
+  "geometry": {"coordinates":[-96.445697,42.506924],"type":"Point"}
+}

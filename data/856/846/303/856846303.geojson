@@ -1,0 +1,69 @@
+{
+  "id": 856846303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.568156,41.382266,-93.568156,41.382266",
+    "geom:latitude":41.382266,
+    "geom:longitude":-93.568156,
+    "iso:country":"US",
+    "sg:address":"2017 Country Club Rd",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5201",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MLGuoRKEYLrYFSrtx7twy_41.382266_-93.568156@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105307,
+    "wof:geomhash":"65091d1cdc0fb332f7de5c23abbfe916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856846303
+        }
+    ],
+    "wof:id":856846303,
+    "wof:lastmodified":1464105307,
+    "wof:name":"Country Club Catering",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -93.568156,
+    41.382266,
+    -93.568156,
+    41.382266
+],
+  "geometry": {"coordinates":[-93.568156,41.382266],"type":"Point"}
+}

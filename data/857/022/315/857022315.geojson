@@ -1,0 +1,71 @@
+{
+  "id": 857022315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.66107,41.993296,-91.66107,41.993296",
+    "geom:latitude":41.993296,
+    "geom:longitude":-91.66107,
+    "iso:country":"US",
+    "sg:address":"880 Daniels St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4150",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K9PJNMeQ657AXDy0i18hJ_41.993296_-91.661070@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113288,
+    "wof:geomhash":"c1dee57ee9e239561d82e3a6b4e7ce07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857022315
+        }
+    ],
+    "wof:id":857022315,
+    "wof:lastmodified":1464113288,
+    "wof:name":"IVe Been Framed",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -91.66107,
+    41.993296,
+    -91.66107,
+    41.993296
+],
+  "geometry": {"coordinates":[-91.66107,41.993296],"type":"Point"}
+}

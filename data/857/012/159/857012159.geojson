@@ -1,0 +1,73 @@
+{
+  "id": 857012159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881579,41.261865,-95.881579,41.261865",
+    "geom:latitude":41.261865,
+    "geom:longitude":-95.881579,
+    "iso:country":"US",
+    "sg:address":"2417 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 8723",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cL9JrWvWxwAiw8pyqt6jy_41.261865_-95.881579@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112863,
+    "wof:geomhash":"4af55731ee34765f017bed24b3998c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857012159
+        }
+    ],
+    "wof:id":857012159,
+    "wof:lastmodified":1464112863,
+    "wof:name":"Finish Line Auto Wash",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.881579,
+    41.261865,
+    -95.881579,
+    41.261865
+],
+  "geometry": {"coordinates":[-95.881579,41.261865],"type":"Point"}
+}

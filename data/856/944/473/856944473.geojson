@@ -1,0 +1,71 @@
+{
+  "id": 856944473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.028145,41.755113,-94.028145,41.755113",
+    "geom:latitude":41.755113,
+    "geom:longitude":-94.028145,
+    "iso:country":"US",
+    "sg:address":"224 4th St",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 9293",
+    "sg:postcode":"50167",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fXNSBosoLQherwCn8FUX8_41.755113_-94.028145@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109868,
+    "wof:geomhash":"c428e6a49f2be3f228b81d9265c0c96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856944473
+        }
+    ],
+    "wof:id":856944473,
+    "wof:lastmodified":1464109868,
+    "wof:name":"Minburn Telephone Co",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -94.028145,
+    41.755113,
+    -94.028145,
+    41.755113
+],
+  "geometry": {"coordinates":[-94.02814499999999,41.755113],"type":"Point"}
+}

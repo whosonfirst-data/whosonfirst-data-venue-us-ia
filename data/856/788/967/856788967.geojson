@@ -1,0 +1,73 @@
+{
+  "id": 856788967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618167,41.92604,-91.618167,41.92604",
+    "geom:latitude":41.92604,
+    "geom:longitude":-91.618167,
+    "iso:country":"US",
+    "sg:address":"2595 Ivanhoe Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1709",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jr4CdsL55DKtlfBcszkWQ_41.926040_-91.618167@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102742,
+    "wof:geomhash":"4ff572e629086c85cf795100febc5800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856788967
+        }
+    ],
+    "wof:id":856788967,
+    "wof:lastmodified":1464102742,
+    "wof:name":"Priority One Concrete",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.618167,
+    41.92604,
+    -91.618167,
+    41.92604
+],
+  "geometry": {"coordinates":[-91.618167,41.92604],"type":"Point"}
+}

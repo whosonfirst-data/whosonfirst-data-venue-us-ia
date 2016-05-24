@@ -1,0 +1,73 @@
+{
+  "id": 857057411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.106717,41.830992,-94.106717,41.830992",
+    "geom:latitude":41.830992,
+    "geom:longitude":-94.106717,
+    "iso:country":"US",
+    "sg:address":"325 1st Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/spring-valley/202733-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y1XY5mQHHYZ9C8MO0eFuF_41.830992_-94.106717@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114803,
+    "wof:geomhash":"ba365202e0ca110abfa9806ebf40390a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057411
+        }
+    ],
+    "wof:id":857057411,
+    "wof:lastmodified":1464114803,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.106717,
+    41.830992,
+    -94.106717,
+    41.830992
+],
+  "geometry": {"coordinates":[-94.106717,41.830992],"type":"Point"}
+}

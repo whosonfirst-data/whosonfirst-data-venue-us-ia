@@ -1,0 +1,71 @@
+{
+  "id": 856789861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.102382,41.842569,-94.102382,41.842569",
+    "geom:latitude":41.842569,
+    "geom:longitude":-94.102382,
+    "iso:country":"US",
+    "sg:address":"1402 4th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2967",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WaOilAIQSFR4Zi8Ut62rh_41.842569_-94.102382@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102774,
+    "wof:geomhash":"61624fa4e60949e1e10c06cd13e19a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856789861
+        }
+    ],
+    "wof:id":856789861,
+    "wof:lastmodified":1464102774,
+    "wof:name":"Eiteman Photography",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -94.102382,
+    41.842569,
+    -94.102382,
+    41.842569
+],
+  "geometry": {"coordinates":[-94.10238200000001,41.842569],"type":"Point"}
+}

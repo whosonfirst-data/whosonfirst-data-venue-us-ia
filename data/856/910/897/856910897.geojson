@@ -1,0 +1,68 @@
+{
+  "id": 856910897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.533655,41.590019,-93.533655,41.590019",
+    "geom:latitude":41.590019,
+    "geom:longitude":-93.533655,
+    "iso:country":"US",
+    "sg:address":"4051 Dean Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 4100",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15H6vYDeqVTU9Ow3CwAyEa_41.590019_-93.533655@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108463,
+    "wof:geomhash":"13ba327d32d88e778cc6702f87c99a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856910897
+        }
+    ],
+    "wof:id":856910897,
+    "wof:lastmodified":1464108463,
+    "wof:name":"Sleepy Hollow Sports Park",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.533655,
+    41.590019,
+    -93.533655,
+    41.590019
+],
+  "geometry": {"coordinates":[-93.533655,41.590019],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856774613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.62154,41.731856,-93.62154,41.731856",
+    "geom:latitude":41.731856,
+    "geom:longitude":-93.62154,
+    "iso:country":"US",
+    "sg:address":"1701 W 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 965 9444",
+    "sg:postcode":"50023",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jv8GSec3j9pnq9RSoJ6AE_41.731856_-93.621540@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102319,
+    "wof:geomhash":"bd139e08399b2f78a77bb0ee9253396b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896331,
+            "region_id":85688713,
+            "venue_id":856774613
+        }
+    ],
+    "wof:id":856774613,
+    "wof:lastmodified":1464102319,
+    "wof:name":"Community State Bank",
+    "wof:parent_id":85896331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -93.62154,
+    41.731856,
+    -93.62154,
+    41.731856
+],
+  "geometry": {"coordinates":[-93.62154,41.731856],"type":"Point"}
+}

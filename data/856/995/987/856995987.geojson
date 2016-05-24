@@ -1,0 +1,71 @@
+{
+  "id": 856995987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.679664,41.501472,-93.679664,41.501472",
+    "geom:latitude":41.501472,
+    "geom:longitude":-93.679664,
+    "iso:country":"US",
+    "sg:address":"4713 Candlewick Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 974 0500",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ALKQCsemXVN5i8Ig0shsy_41.501472_-93.679664@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112221,
+    "wof:geomhash":"5d4ac3578c5150ec6403b40466b23fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856995987
+        }
+    ],
+    "wof:id":856995987,
+    "wof:lastmodified":1464112221,
+    "wof:name":"M P Security Svc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -93.679664,
+    41.501472,
+    -93.679664,
+    41.501472
+],
+  "geometry": {"coordinates":[-93.679664,41.501472],"type":"Point"}
+}

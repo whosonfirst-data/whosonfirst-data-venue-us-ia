@@ -1,0 +1,75 @@
+{
+  "id": 856997787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.465232,42.496084,-96.465232,42.496084",
+    "geom:latitude":42.496084,
+    "geom:longitude":-96.465232,
+    "iso:country":"US",
+    "sg:address":"4230 War Eagle Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 3156",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xnc8XHeuDTMeyIUH7yXT2_42.496084_-96.465232@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112283,
+    "wof:geomhash":"c5ff3642d8ac6db86cd633fc1f6577e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856997787
+        }
+    ],
+    "wof:id":856997787,
+    "wof:lastmodified":1464112283,
+    "wof:name":"Riverside Family Practice",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.465232,
+    42.496084,
+    -96.465232,
+    42.496084
+],
+  "geometry": {"coordinates":[-96.465232,42.496084],"type":"Point"}
+}

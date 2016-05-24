@@ -1,0 +1,71 @@
+{
+  "id": 856994981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.541888,41.764884,-91.541888,41.764884",
+    "geom:latitude":41.764884,
+    "geom:longitude":-91.541888,
+    "iso:country":"US",
+    "sg:address":"3995 Thorn Cir NE",
+    "sg:city":"Solon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 624 1303",
+    "sg:postcode":"52333",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896499,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27w2wjsSGLbwFuGS4B16y5_41.764884_-91.541888@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112177,
+    "wof:geomhash":"c73e0d62b7353e58a5052ae8c8a89342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896499,
+            "region_id":85688713,
+            "venue_id":856994981
+        }
+    ],
+    "wof:id":856994981,
+    "wof:lastmodified":1464112177,
+    "wof:name":"Dan's Plumbing Inc",
+    "wof:parent_id":85896499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.541888,
+    41.764884,
+    -91.541888,
+    41.764884
+],
+  "geometry": {"coordinates":[-91.541888,41.764884],"type":"Point"}
+}

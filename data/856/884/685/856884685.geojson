@@ -1,0 +1,71 @@
+{
+  "id": 856884685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.344982,42.4682,-96.344982,42.4682",
+    "geom:latitude":42.4682,
+    "geom:longitude":-96.344982,
+    "iso:country":"US",
+    "sg:address":"2218 S Palmetto St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 9592",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sdtvHUP3UJn0E65zvAV6b_42.468200_-96.344982@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107453,
+    "wof:geomhash":"6a4acf7546d38ea04afbec891083d11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856884685
+        }
+    ],
+    "wof:id":856884685,
+    "wof:lastmodified":1464107453,
+    "wof:name":"Cleveringa Builders",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.344982,
+    42.4682,
+    -96.344982,
+    42.4682
+],
+  "geometry": {"coordinates":[-96.344982,42.4682],"type":"Point"}
+}

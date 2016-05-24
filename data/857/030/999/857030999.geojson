@@ -1,0 +1,75 @@
+{
+  "id": 857030999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.416482,42.502312,-96.416482,42.502312",
+    "geom:latitude":42.502312,
+    "geom:longitude":-96.416482,
+    "iso:country":"US",
+    "sg:address":"715 W 7th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 293 1494",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "audio",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X98R14zpNATYpHSSTPO90_42.502312_-96.416482@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113703,
+    "wof:geomhash":"c3ff19c7b0c5a64d2f725018b355e95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857030999
+        }
+    ],
+    "wof:id":857030999,
+    "wof:lastmodified":1464113703,
+    "wof:name":"Kingsbury Elec Svc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.416482,
+    42.502312,
+    -96.416482,
+    42.502312
+],
+  "geometry": {"coordinates":[-96.416482,42.502312],"type":"Point"}
+}

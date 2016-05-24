@@ -1,0 +1,72 @@
+{
+  "id": 857068543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.649064,42.021947,-91.649064,42.021947",
+    "geom:latitude":42.021947,
+    "geom:longitude":-91.649064,
+    "iso:country":"US",
+    "sg:address":"1000 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 0334",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.pineneedles.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sRcNQds9qNDZmijv6jl0r_42.021947_-91.649064@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115263,
+    "wof:geomhash":"58c39aae5cf4ed4cec9ffb25cd8ca40a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068543
+        }
+    ],
+    "wof:id":857068543,
+    "wof:lastmodified":1464115263,
+    "wof:name":"Pine Needles Sewing Center",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.649064,
+    42.021947,
+    -91.649064,
+    42.021947
+],
+  "geometry": {"coordinates":[-91.649064,42.021947],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856839577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.381269,42.498852,-96.381269,42.498852",
+    "geom:latitude":42.498852,
+    "geom:longitude":-96.381269,
+    "iso:country":"US",
+    "sg:address":"801 Division St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 4181",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steel"
+    ],
+    "sg:website":"www.siouxcityfoundry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w5yxfVOtxXrlDQ71tZiUZ_42.498852_-96.381269@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104989,
+    "wof:geomhash":"5520f1557786ad991eddad72415c122a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856839577
+        }
+    ],
+    "wof:id":856839577,
+    "wof:lastmodified":1464104989,
+    "wof:name":"Sioux City Foundry Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -96.381269,
+    42.498852,
+    -96.381269,
+    42.498852
+],
+  "geometry": {"coordinates":[-96.381269,42.498852],"type":"Point"}
+}

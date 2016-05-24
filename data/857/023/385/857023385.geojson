@@ -1,0 +1,77 @@
+{
+  "id": 857023385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.414541,42.503815,-96.414541,42.503815",
+    "geom:latitude":42.503815,
+    "geom:longitude":-96.414541,
+    "iso:country":"US",
+    "sg:address":"811 Cook St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 5436",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61TtkYYhvVusQ0t2IwVo2G_42.503815_-96.414541@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113327,
+    "wof:geomhash":"99202ec6a2da69082963407bbcdf1b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857023385
+        }
+    ],
+    "wof:id":857023385,
+    "wof:lastmodified":1464113327,
+    "wof:name":"Tri-B Trim Shop",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -96.414541,
+    42.503815,
+    -96.414541,
+    42.503815
+],
+  "geometry": {"coordinates":[-96.414541,42.503815],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857061599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.520302,41.5769,-93.520302,41.5769",
+    "geom:latitude":41.5769,
+    "geom:longitude":-93.520302,
+    "iso:country":"US",
+    "sg:address":"1250 S Pleasant Hill Blvd",
+    "sg:city":"Pleasant Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 1775",
+    "sg:postcode":"50327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HJbjGhTs90Gp4m7eWW8YC_41.576900_-93.520302@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114965,
+    "wof:geomhash":"a54eb21dcbd2900746070804e0365f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":857061599
+        }
+    ],
+    "wof:id":857061599,
+    "wof:lastmodified":1464114965,
+    "wof:name":"Burkhead Electric",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -93.520302,
+    41.5769,
+    -93.520302,
+    41.5769
+],
+  "geometry": {"coordinates":[-93.520302,41.5769],"type":"Point"}
+}

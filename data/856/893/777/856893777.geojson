@@ -1,0 +1,71 @@
+{
+  "id": 856893777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.019853,41.617108,-94.019853,41.617108",
+    "geom:latitude":41.617108,
+    "geom:longitude":-94.019853,
+    "iso:country":"US",
+    "sg:address":"115 S 10th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3791",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ndbJC6PNKyVacdvqOjaH6_41.617108_-94.019853@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107818,
+    "wof:geomhash":"06539f4208c8090c81938ccbdfcb448b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856893777
+        }
+    ],
+    "wof:id":856893777,
+    "wof:lastmodified":1464107818,
+    "wof:name":"Adel United Methodist Church",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.019853,
+    41.617108,
+    -94.019853,
+    41.617108
+],
+  "geometry": {"coordinates":[-94.019853,41.617108],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856805377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.68405,41.390004,-95.68405,41.390004",
+    "geom:latitude":41.390004,
+    "geom:longitude":-95.68405,
+    "iso:country":"US",
+    "sg:address":"106 Sunset Dr",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2477",
+    "sg:postcode":"51576",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CPJfPcC29VNU4dh9cseVG_41.390004_-95.684050@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103422,
+    "wof:geomhash":"7992707849bbef0bc0ed388c836ff986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856805377
+        }
+    ],
+    "wof:id":856805377,
+    "wof:lastmodified":1464103422,
+    "wof:name":"Boyd Satellite",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.68405,
+    41.390004,
+    -95.68405,
+    41.390004
+],
+  "geometry": {"coordinates":[-95.68405,41.390004],"type":"Point"}
+}

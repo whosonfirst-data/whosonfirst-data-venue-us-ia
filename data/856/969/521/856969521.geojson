@@ -1,0 +1,71 @@
+{
+  "id": 856969521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.875132,41.574732,-93.875132,41.574732",
+    "geom:latitude":41.574732,
+    "geom:longitude":-93.875132,
+    "iso:country":"US",
+    "sg:address":"1 Sugar Creek Ln",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 0565",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FjbVYubie4gZXTKaYgwwU_41.574732_-93.875132@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110949,
+    "wof:geomhash":"ce48e693e797ccb8b967f9b8c9a3d353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856969521
+        }
+    ],
+    "wof:id":856969521,
+    "wof:lastmodified":1464110949,
+    "wof:name":"One True Gift",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.875132,
+    41.574732,
+    -93.875132,
+    41.574732
+],
+  "geometry": {"coordinates":[-93.87513199999999,41.574732],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857058785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.821895,41.241289,-95.821895,41.241289",
+    "geom:latitude":41.241289,
+    "geom:longitude":-95.821895,
+    "iso:country":"US",
+    "sg:address":"1906 Rue St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/109343-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 9301",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YyZ05SkkFkpUP0WeTdizr_41.241289_-95.821895@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114856,
+    "wof:geomhash":"b5d8bec707058ff8f7c8a2be39bdff5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857058785
+        }
+    ],
+    "wof:id":857058785,
+    "wof:lastmodified":1464114856,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.821895,
+    41.241289,
+    -95.821895,
+    41.241289
+],
+  "geometry": {"coordinates":[-95.821895,41.241289],"type":"Point"}
+}

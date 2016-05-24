@@ -1,0 +1,74 @@
+{
+  "id": 856899077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.39379,42.476494,-92.39379,42.476494",
+    "geom:latitude":42.476494,
+    "geom:longitude":-92.39379,
+    "iso:country":"US",
+    "sg:address":"1369 Martin Rd",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 234 2605",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ale"
+    ],
+    "sg:website":"www.fahrbeverage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GZTKyBHtEkwWhtocuJPxb_42.476494_-92.393790@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108020,
+    "wof:geomhash":"adf6bf5b2cdd29bb1ea18811e0b06279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856899077
+        }
+    ],
+    "wof:id":856899077,
+    "wof:lastmodified":1464108020,
+    "wof:name":"Fahr Beverage Inc",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -92.39379,
+    42.476494,
+    -92.39379,
+    42.476494
+],
+  "geometry": {"coordinates":[-92.39379,42.476494],"type":"Point"}
+}

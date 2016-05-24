@@ -1,0 +1,73 @@
+{
+  "id": 857007561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618406,41.974979,-91.618406,41.974979",
+    "geom:latitude":41.974979,
+    "geom:longitude":-91.618406,
+    "iso:country":"US",
+    "sg:address":"1415 34th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8177",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qu0FF2LwFOFCBOImWKBhO_41.974979_-91.618406@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112669,
+    "wof:geomhash":"b1d2a0c57c3d6815cb35f540f8c2a7d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857007561
+        }
+    ],
+    "wof:id":857007561,
+    "wof:lastmodified":1464112669,
+    "wof:name":"D S Construction",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.618406,
+    41.974979,
+    -91.618406,
+    41.974979
+],
+  "geometry": {"coordinates":[-91.61840599999999,41.974979],"type":"Point"}
+}

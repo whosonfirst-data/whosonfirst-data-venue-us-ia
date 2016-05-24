@@ -1,0 +1,71 @@
+{
+  "id": 857065705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.597057,42.020433,-91.597057,42.020433",
+    "geom:latitude":42.020433,
+    "geom:longitude":-91.597057,
+    "iso:country":"US",
+    "sg:address":"1181 Grand Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5510",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1URR1qr7NEXagLgvM54Ejb_42.020433_-91.597057@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115123,
+    "wof:geomhash":"d94c6d3733cbbe34ff2147d7b9c44fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065705
+        }
+    ],
+    "wof:id":857065705,
+    "wof:lastmodified":1464115123,
+    "wof:name":"First Class Cleaning Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.597057,
+    42.020433,
+    -91.597057,
+    42.020433
+],
+  "geometry": {"coordinates":[-91.59705700000001,42.020433],"type":"Point"}
+}

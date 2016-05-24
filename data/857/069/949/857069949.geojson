@@ -1,0 +1,73 @@
+{
+  "id": 857069949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.698898,41.8908,-91.698898,41.8908",
+    "geom:latitude":41.8908,
+    "geom:longitude":-91.698898,
+    "iso:country":"US",
+    "sg:address":"2515 Wright Brthrs Blvd W",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3131",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_319xhwv3mgIyOX4gO3B5bl_41.890800_-91.698898@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115329,
+    "wof:geomhash":"93992e09f2a47c3f21173c23162d95ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857069949
+        }
+    ],
+    "wof:id":857069949,
+    "wof:lastmodified":1464115329,
+    "wof:name":"Eastern Iowa Airport the",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -91.698898,
+    41.8908,
+    -91.698898,
+    41.8908
+],
+  "geometry": {"coordinates":[-91.698898,41.8908],"type":"Point"}
+}

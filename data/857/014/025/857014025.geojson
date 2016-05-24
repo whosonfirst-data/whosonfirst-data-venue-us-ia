@@ -1,0 +1,68 @@
+{
+  "id": 857014025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.408027,42.494192,-96.408027,42.494192",
+    "geom:latitude":42.494192,
+    "geom:longitude":-96.408027,
+    "iso:country":"US",
+    "sg:address":"213 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 6848",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fx2Z5WHFUPPapsuJ44pHZ_42.494192_-96.408027@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112948,
+    "wof:geomhash":"ec27b9ac1fcaa8428ec14ab59f3244d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857014025
+        }
+    ],
+    "wof:id":857014025,
+    "wof:lastmodified":1464112948,
+    "wof:name":"Richardson's Sausage",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.408027,
+    42.494192,
+    -96.408027,
+    42.494192
+],
+  "geometry": {"coordinates":[-96.408027,42.494192],"type":"Point"}
+}

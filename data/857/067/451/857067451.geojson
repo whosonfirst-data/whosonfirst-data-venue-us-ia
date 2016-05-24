@@ -1,0 +1,71 @@
+{
+  "id": 857067451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.642197,41.999901,-91.642197,41.999901",
+    "geom:latitude":41.999901,
+    "geom:longitude":-91.642197,
+    "iso:country":"US",
+    "sg:address":"2007 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0101",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bankruptcy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09aeGEXTtFyVVWTjx9QQdA_41.999901_-91.642197@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115202,
+    "wof:geomhash":"302baa2fab1467d3384f1482ca646794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067451
+        }
+    ],
+    "wof:id":857067451,
+    "wof:lastmodified":1464115202,
+    "wof:name":"Andrews Jay R Atty - CLOSED",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bankruptcy"
+    ]
+},
+  "bbox": [
+    -91.642197,
+    41.999901,
+    -91.642197,
+    41.999901
+],
+  "geometry": {"coordinates":[-91.642197,41.999901],"type":"Point"}
+}

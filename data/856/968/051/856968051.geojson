@@ -1,0 +1,79 @@
+{
+  "id": 856968051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.564469,41.68159,-91.564469,41.68159",
+    "geom:latitude":41.68159,
+    "geom:longitude":-91.564469,
+    "iso:country":"US",
+    "sg:address":"116 E 9th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7978",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C4quFK3RMIRnf9lEdvVt5_41.681590_-91.564469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110868,
+    "wof:geomhash":"5be663dd8ba5d8d25d7f1e8edcc49df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856968051
+        }
+    ],
+    "wof:id":856968051,
+    "wof:lastmodified":1464110868,
+    "wof:name":"Just Different",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.564469,
+    41.68159,
+    -91.564469,
+    41.68159
+],
+  "geometry": {"coordinates":[-91.564469,41.68159],"type":"Point"}
+}

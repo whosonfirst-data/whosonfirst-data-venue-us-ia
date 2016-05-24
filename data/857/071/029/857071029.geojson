@@ -1,0 +1,78 @@
+{
+  "id": 857071029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.685898,41.974499,-91.685898,41.974499",
+    "geom:latitude":41.974499,
+    "geom:longitude":-91.685898,
+    "iso:country":"US",
+    "sg:address":"237 10th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4160",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H6eEYI7xYHzFA7Yb82t6p_41.974499_-91.685898@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115376,
+    "wof:geomhash":"b83fd6dabf0ced079852673be223fb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857071029
+        }
+    ],
+    "wof:id":857071029,
+    "wof:lastmodified":1464115376,
+    "wof:name":"Olivet Neighborhood Mission",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.685898,
+    41.974499,
+    -91.685898,
+    41.974499
+],
+  "geometry": {"coordinates":[-91.68589799999999,41.974499],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856906639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.955752,41.532914,-93.955752,41.532914",
+    "geom:latitude":41.532914,
+    "geom:longitude":-93.955752,
+    "iso:country":"US",
+    "sg:address":"517 West St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 2092",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75y1O4N3nrfVWrErfapdIp_41.532914_-93.955752@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108290,
+    "wof:geomhash":"334ccf45e35642b9c696775d6f010a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856906639
+        }
+    ],
+    "wof:id":856906639,
+    "wof:lastmodified":1464108290,
+    "wof:name":"Van Meter Tire & Automotive",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.955752,
+    41.532914,
+    -93.955752,
+    41.532914
+],
+  "geometry": {"coordinates":[-93.955752,41.532914],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856841125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.732395,41.557885,-93.732395,41.557885",
+    "geom:latitude":41.557885,
+    "geom:longitude":-93.732395,
+    "iso:country":"US",
+    "sg:address":"1800 Industrial Cir",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 6464",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pi7Jc7WHj2zynD9Glm03w_41.557885_-93.732395@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105044,
+    "wof:geomhash":"0dd540b019d9a7a8c189d5f20f975f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896521,
+            "region_id":85688713,
+            "venue_id":856841125
+        }
+    ],
+    "wof:id":856841125,
+    "wof:lastmodified":1464105044,
+    "wof:name":"Ace Moving & Storage Inc",
+    "wof:parent_id":85896521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -93.732395,
+    41.557885,
+    -93.732395,
+    41.557885
+],
+  "geometry": {"coordinates":[-93.732395,41.557885],"type":"Point"}
+}

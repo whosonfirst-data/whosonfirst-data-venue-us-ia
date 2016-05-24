@@ -1,0 +1,77 @@
+{
+  "id": 856833239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.769753,41.214467,-95.769753,41.214467",
+    "geom:latitude":41.214467,
+    "geom:longitude":-95.769753,
+    "iso:country":"US",
+    "sg:address":"21861 Chestnut Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 4972",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mfg"
+    ],
+    "sg:website":"www.taylorplastics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05TFrq2Pjot7i3XWLMCOXQ_41.214467_-95.769753@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104669,
+    "wof:geomhash":"8010324a4770c12087f17ddbe4bdf84a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856833239
+        }
+    ],
+    "wof:id":856833239,
+    "wof:lastmodified":1464104669,
+    "wof:name":"Taylor Plastics LLC",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -95.769753,
+    41.214467,
+    -95.769753,
+    41.214467
+],
+  "geometry": {"coordinates":[-95.76975299999999,41.214467],"type":"Point"}
+}

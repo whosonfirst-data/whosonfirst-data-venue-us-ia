@@ -1,0 +1,71 @@
+{
+  "id": 856787413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.587191,41.35622,-93.587191,41.35622",
+    "geom:latitude":41.35622,
+    "geom:longitude":-93.587191,
+    "iso:country":"US",
+    "sg:address":"2104 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 263 1490",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NaNhxMdMFx4dXo36HSkQQ_41.356220_-93.587191@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102677,
+    "wof:geomhash":"eb12dec8ce6a0c89f4e9114554e96ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856787413
+        }
+    ],
+    "wof:id":856787413,
+    "wof:lastmodified":1464102677,
+    "wof:name":"KXLQ",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -93.587191,
+    41.35622,
+    -93.587191,
+    41.35622
+],
+  "geometry": {"coordinates":[-93.587191,41.35622],"type":"Point"}
+}

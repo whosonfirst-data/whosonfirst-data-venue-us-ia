@@ -1,0 +1,73 @@
+{
+  "id": 856791123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.369706,42.489252,-96.369706,42.489252",
+    "geom:latitude":42.489252,
+    "geom:longitude":-96.369706,
+    "iso:country":"US",
+    "sg:address":"2901 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1000",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E7oTVoXeVx0pAcUIIUhOQ_42.489252_-96.369706@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102823,
+    "wof:geomhash":"3430a0608ec72aeb493d1276a77b1fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856791123
+        }
+    ],
+    "wof:id":856791123,
+    "wof:lastmodified":1464102823,
+    "wof:name":"Ben Steffe's Cars Cars Cars",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.369706,
+    42.489252,
+    -96.369706,
+    42.489252
+],
+  "geometry": {"coordinates":[-96.36970599999999,42.489252],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856812491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.674593,41.967431,-91.674593,41.967431",
+    "geom:latitude":41.967431,
+    "geom:longitude":-91.674593,
+    "iso:country":"US",
+    "sg:address":"901 4th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 9345",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_667LWnHJyJAS1vXk1y5yFb_41.967431_-91.674593@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103731,
+    "wof:geomhash":"a420fce1efb9f51be1e06110d0f1e18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856812491
+        }
+    ],
+    "wof:id":856812491,
+    "wof:lastmodified":1464103731,
+    "wof:name":"Gorsh Service Mechanical Contr",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.674593,
+    41.967431,
+    -91.674593,
+    41.967431
+],
+  "geometry": {"coordinates":[-91.674593,41.967431],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856984559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.394954,42.525813,-96.394954,42.525813",
+    "geom:latitude":42.525813,
+    "geom:longitude":-96.394954,
+    "iso:country":"US",
+    "sg:address":"3245 Viking Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 9463",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07c58mHbI0ZaBu9OYK1GNw_42.525813_-96.394954@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111722,
+    "wof:geomhash":"67b98f2ee045e9e45a2e16c8771f72ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856984559
+        }
+    ],
+    "wof:id":856984559,
+    "wof:lastmodified":1464111722,
+    "wof:name":"Parrinello Specialized Therapy",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -96.394954,
+    42.525813,
+    -96.394954,
+    42.525813
+],
+  "geometry": {"coordinates":[-96.394954,42.525813],"type":"Point"}
+}

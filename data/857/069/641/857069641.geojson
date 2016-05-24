@@ -1,0 +1,73 @@
+{
+  "id": 857069641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656502,41.981499,-91.656502,41.981499",
+    "geom:latitude":41.981499,
+    "geom:longitude":-91.656502,
+    "iso:country":"US",
+    "sg:address":"1002 4th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7101",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Br4igOeSRyEyBhK2rpZIB_41.981499_-91.656502@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115310,
+    "wof:geomhash":"8174477f2abe2c3d0d20e335deb5322f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857069641
+        }
+    ],
+    "wof:id":857069641,
+    "wof:lastmodified":1464115310,
+    "wof:name":"Wagdy Hisham M Dr MD",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -91.656502,
+    41.981499,
+    -91.656502,
+    41.981499
+],
+  "geometry": {"coordinates":[-91.656502,41.981499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857062473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.887497,41.2537,-95.887497,41.2537",
+    "geom:latitude":41.2537,
+    "geom:longitude":-95.887497,
+    "iso:country":"US",
+    "sg:address":"2716 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1073",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3prlaNiyd02yWQCoAYdFr5_41.253700_-95.887497@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115004,
+    "wof:geomhash":"dbf8cb61904bede46ecc264ad96700bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062473
+        }
+    ],
+    "wof:id":857062473,
+    "wof:lastmodified":1464115004,
+    "wof:name":"J-B Construction Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.887497,
+    41.2537,
+    -95.887497,
+    41.2537
+],
+  "geometry": {"coordinates":[-95.887497,41.2537],"type":"Point"}
+}

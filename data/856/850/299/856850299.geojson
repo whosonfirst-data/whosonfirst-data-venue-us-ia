@@ -1,0 +1,71 @@
+{
+  "id": 856850299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.086719,41.783534,-94.086719,41.783534",
+    "geom:latitude":41.783534,
+    "geom:longitude":-94.086719,
+    "iso:country":"US",
+    "sg:address":"1756 K Trl",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 7737",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4Tsb8yVe2D4VWsuqsKao_41.783534_-94.086719@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105537,
+    "wof:geomhash":"01ef0bf39fdcb18f42d0b28f23104a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856850299
+        }
+    ],
+    "wof:id":856850299,
+    "wof:lastmodified":1464105537,
+    "wof:name":"Heenan Storage",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.086719,
+    41.783534,
+    -94.086719,
+    41.783534
+],
+  "geometry": {"coordinates":[-94.086719,41.783534],"type":"Point"}
+}

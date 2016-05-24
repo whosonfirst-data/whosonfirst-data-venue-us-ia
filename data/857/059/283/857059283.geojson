@@ -1,0 +1,74 @@
+{
+  "id": 857059283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.551599,42.038784,-91.551599,42.038784",
+    "geom:latitude":42.038784,
+    "geom:longitude":-91.551599,
+    "iso:country":"US",
+    "sg:address":"1375 Red Fox Way",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/marion/182786-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7575",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RIoRYfQWZnAFuzwY1Hvhz_42.038784_-91.551599@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114872,
+    "wof:geomhash":"026eeb632c8747e46e59f7e87e66f542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059283
+        }
+    ],
+    "wof:id":857059283,
+    "wof:lastmodified":1464114872,
+    "wof:name":"Culver's",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.551599,
+    42.038784,
+    -91.551599,
+    42.038784
+],
+  "geometry": {"coordinates":[-91.551599,42.038784],"type":"Point"}
+}

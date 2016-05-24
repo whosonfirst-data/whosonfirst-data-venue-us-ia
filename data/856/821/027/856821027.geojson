@@ -1,0 +1,68 @@
+{
+  "id": 856821027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.411909,42.508253,-96.411909,42.508253",
+    "geom:latitude":42.508253,
+    "geom:longitude":-96.411909,
+    "iso:country":"US",
+    "sg:address":"121 17th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0489",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66qLHTNexb9lW00BAygpnD_42.508253_-96.411909@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104153,
+    "wof:geomhash":"5a539756bd4efa0b796ccf2846c20d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856821027
+        }
+    ],
+    "wof:id":856821027,
+    "wof:lastmodified":1464104153,
+    "wof:name":"Herbalife Consultant",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.411909,
+    42.508253,
+    -96.411909,
+    42.508253
+],
+  "geometry": {"coordinates":[-96.41190899999999,42.508253],"type":"Point"}
+}

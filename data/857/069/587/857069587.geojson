@@ -1,0 +1,73 @@
+{
+  "id": 857069587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.601898,41.977001,-91.601898,41.977001",
+    "geom:latitude":41.977001,
+    "geom:longitude":-91.601898,
+    "iso:country":"US",
+    "sg:address":"3933 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7329",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SRCjkTew8l4LjcMBaJizP_41.977001_-91.601898@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115308,
+    "wof:geomhash":"2e0b1860dd3fe61eb2bb3a04a8d260f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069587
+        }
+    ],
+    "wof:id":857069587,
+    "wof:lastmodified":1464115308,
+    "wof:name":"Hogenson Mark A MD",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -91.601898,
+    41.977001,
+    -91.601898,
+    41.977001
+],
+  "geometry": {"coordinates":[-91.60189800000001,41.977001],"type":"Point"}
+}

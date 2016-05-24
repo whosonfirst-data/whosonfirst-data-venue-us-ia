@@ -1,0 +1,71 @@
+{
+  "id": 856874383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.3843,41.331609,-95.3843,41.331609",
+    "geom:latitude":41.331609,
+    "geom:longitude":-95.3843,
+    "iso:country":"US",
+    "sg:address":"21876 US Hwy 59",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6640",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pk1Ba1LM6ciharDVMjbrO_41.331609_-95.384300@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106905,
+    "wof:geomhash":"435bdec2617bb4d3a03965745734f2ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856874383
+        }
+    ],
+    "wof:id":856874383,
+    "wof:lastmodified":1464106905,
+    "wof:name":"Oakland Foods LLC",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -95.3843,
+    41.331609,
+    -95.3843,
+    41.331609
+],
+  "geometry": {"coordinates":[-95.3843,41.331609],"type":"Point"}
+}

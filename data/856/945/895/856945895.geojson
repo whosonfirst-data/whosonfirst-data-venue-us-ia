@@ -1,0 +1,75 @@
+{
+  "id": 856945895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.770429,41.614871,-93.770429,41.614871",
+    "geom:latitude":41.614871,
+    "geom:longitude":-93.770429,
+    "iso:country":"US",
+    "sg:address":"10860 Hickman Rd",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 1602",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f4J9Hh3dbFsZk6cTb3VDS_41.614871_-93.770429@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109917,
+    "wof:geomhash":"8cba6e5926a9c11f6da33fa7735ec026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896519,
+            "region_id":85688713,
+            "venue_id":856945895
+        }
+    ],
+    "wof:id":856945895,
+    "wof:lastmodified":1464109917,
+    "wof:name":"Ice Truck Works",
+    "wof:parent_id":85896519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -93.770429,
+    41.614871,
+    -93.770429,
+    41.614871
+],
+  "geometry": {"coordinates":[-93.77042899999999,41.614871],"type":"Point"}
+}

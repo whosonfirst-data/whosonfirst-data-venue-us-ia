@@ -1,0 +1,71 @@
+{
+  "id": 856872907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.797371,41.848946,-93.797371,41.848946",
+    "geom:latitude":41.848946,
+    "geom:longitude":-93.797371,
+    "iso:country":"US",
+    "sg:address":"15561 NW Madrid Dr",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 795 4001",
+    "sg:postcode":"50156",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iCSOLtNeo1njWf9VZ6ALB_41.848946_-93.797371@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106807,
+    "wof:geomhash":"7d0958d6b65d74e981dcdde427326230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":856872907
+        }
+    ],
+    "wof:id":856872907,
+    "wof:lastmodified":1464106807,
+    "wof:name":"Kujac Design/Build Co",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.797371,
+    41.848946,
+    -93.797371,
+    41.848946
+],
+  "geometry": {"coordinates":[-93.797371,41.848946],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857000203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.665292,41.63925,-93.665292,41.63925",
+    "geom:latitude":41.63925,
+    "geom:longitude":-93.665292,
+    "iso:country":"US",
+    "sg:address":"3308 Twana Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 224 6414",
+    "sg:postcode":"50310",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KEh7N6iWIampRWSRCaUjR_41.639250_-93.665292@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112374,
+    "wof:geomhash":"8208782d7c8458cf3e208fd8dd1daf8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896415,
+            "region_id":85688713,
+            "venue_id":857000203
+        }
+    ],
+    "wof:id":857000203,
+    "wof:lastmodified":1464112374,
+    "wof:name":"Central Iowa Electrical M",
+    "wof:parent_id":85896415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.665292,
+    41.63925,
+    -93.665292,
+    41.63925
+],
+  "geometry": {"coordinates":[-93.66529199999999,41.63925],"type":"Point"}
+}

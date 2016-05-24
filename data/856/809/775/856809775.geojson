@@ -1,0 +1,71 @@
+{
+  "id": 856809775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.798714,41.589039,-93.798714,41.589039",
+    "geom:latitude":41.589039,
+    "geom:longitude":-93.798714,
+    "iso:country":"US",
+    "sg:address":"1243 66th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 267 8447",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72m5cm6URFQVCN74OMsxoV_41.589039_-93.798714@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103624,
+    "wof:geomhash":"bb8364fe53fd6d3aecc359f2bee4a8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856809775
+        }
+    ],
+    "wof:id":856809775,
+    "wof:lastmodified":1464103624,
+    "wof:name":"Prestige Builders of Central",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.798714,
+    41.589039,
+    -93.798714,
+    41.589039
+],
+  "geometry": {"coordinates":[-93.798714,41.589039],"type":"Point"}
+}

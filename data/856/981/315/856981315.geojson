@@ -1,0 +1,75 @@
+{
+  "id": 856981315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.409533,42.509166,-96.409533,42.509166",
+    "geom:latitude":42.509166,
+    "geom:longitude":-96.409533,
+    "iso:country":"US",
+    "sg:address":"1701 Summit St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 6446",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w9xvXBi0YtESV5fC1YYmO_42.509166_-96.409533@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111522,
+    "wof:geomhash":"8ec0db2b34658306c476e42ba6652297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856981315
+        }
+    ],
+    "wof:id":856981315,
+    "wof:lastmodified":1464111522,
+    "wof:name":"Sisters Of St Francis",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -96.409533,
+    42.509166,
+    -96.409533,
+    42.509166
+],
+  "geometry": {"coordinates":[-96.409533,42.509166],"type":"Point"}
+}

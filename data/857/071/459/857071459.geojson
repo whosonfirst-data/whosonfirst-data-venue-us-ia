@@ -1,0 +1,71 @@
+{
+  "id": 857071459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.730003,42.008099,-91.730003,42.008099",
+    "geom:latitude":42.008099,
+    "geom:longitude":-91.730003,
+    "iso:country":"US",
+    "sg:address":"6917 Kiowa Trce NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 2030",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wzoK4hFslJPnS84YX5zXs_42.008099_-91.730003@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115395,
+    "wof:geomhash":"cd8e5c88e49c21a75bce426700c6609f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071459
+        }
+    ],
+    "wof:id":857071459,
+    "wof:lastmodified":1464115395,
+    "wof:name":"Primrose Builders Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.730003,
+    42.008099,
+    -91.730003,
+    42.008099
+],
+  "geometry": {"coordinates":[-91.730003,42.008099],"type":"Point"}
+}

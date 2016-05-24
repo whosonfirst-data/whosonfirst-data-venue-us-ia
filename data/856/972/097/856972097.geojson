@@ -1,0 +1,73 @@
+{
+  "id": 856972097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397346,41.30837,-95.397346,41.30837",
+    "geom:latitude":41.30837,
+    "geom:longitude":-95.397346,
+    "iso:country":"US",
+    "sg:address":"135 S Main St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 5526",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "newspaper",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ozUhA5WKTJz2u5pz2BgcG_41.308370_-95.397346@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111062,
+    "wof:geomhash":"3efdef0a038bf25ab104a5e0a6be1f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856972097
+        }
+    ],
+    "wof:id":856972097,
+    "wof:lastmodified":1464111062,
+    "wof:name":"Botna Valley Reporter",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -95.397346,
+    41.30837,
+    -95.397346,
+    41.30837
+],
+  "geometry": {"coordinates":[-95.397346,41.30837],"type":"Point"}
+}

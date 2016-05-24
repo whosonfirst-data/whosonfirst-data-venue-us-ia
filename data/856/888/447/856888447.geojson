@@ -1,0 +1,71 @@
+{
+  "id": 856888447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.986365,41.517564,-93.986365,41.517564",
+    "geom:latitude":41.517564,
+    "geom:longitude":-93.986365,
+    "iso:country":"US",
+    "sg:address":"2536 360th St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 224 7532",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WR4zipRwp8LKDjkHny8c4_41.517564_-93.986365@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107621,
+    "wof:geomhash":"54c99ad5323b39b91507d46e74530fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856888447
+        }
+    ],
+    "wof:id":856888447,
+    "wof:lastmodified":1464107621,
+    "wof:name":"Arts Apartment",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.986365,
+    41.517564,
+    -93.986365,
+    41.517564
+],
+  "geometry": {"coordinates":[-93.98636500000001,41.517564],"type":"Point"}
+}

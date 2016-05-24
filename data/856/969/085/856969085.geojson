@@ -1,0 +1,73 @@
+{
+  "id": 856969085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.700515,41.664211,-93.700515,41.664211",
+    "geom:latitude":41.664211,
+    "geom:longitude":-93.700515,
+    "iso:country":"US",
+    "sg:address":"6031 Somerset Pl",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 229 5302",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDuEh0uBFaNcQqrRFIwQv_41.664211_-93.700515@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110925,
+    "wof:geomhash":"5b7a099ff52c02928d3e47ab07d57509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896487,
+            "region_id":85688713,
+            "venue_id":856969085
+        }
+    ],
+    "wof:id":856969085,
+    "wof:lastmodified":1464110925,
+    "wof:name":"Preferred Home Delivery Svc",
+    "wof:parent_id":85896487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -93.700515,
+    41.664211,
+    -93.700515,
+    41.664211
+],
+  "geometry": {"coordinates":[-93.700515,41.664211],"type":"Point"}
+}

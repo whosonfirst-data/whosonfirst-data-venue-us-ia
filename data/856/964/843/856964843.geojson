@@ -1,0 +1,73 @@
+{
+  "id": 856964843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.955597,41.533962,-93.955597,41.533962",
+    "geom:latitude":41.533962,
+    "geom:longitude":-93.955597,
+    "iso:country":"US",
+    "sg:address":"419 Grand St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 2474",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M1MhjSptIKL6r49BR7lWz_41.533962_-93.955597@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110742,
+    "wof:geomhash":"e742e0e2394a6ad46e8080b87b162b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856964843
+        }
+    ],
+    "wof:id":856964843,
+    "wof:lastmodified":1464110742,
+    "wof:name":"Bob's Auto Parts",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.955597,
+    41.533962,
+    -93.955597,
+    41.533962
+],
+  "geometry": {"coordinates":[-93.955597,41.533962],"type":"Point"}
+}

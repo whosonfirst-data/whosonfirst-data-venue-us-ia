@@ -1,0 +1,66 @@
+{
+  "id": 857065583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783798,41.9147,-91.783798,41.9147",
+    "geom:latitude":41.9147,
+    "geom:longitude":-91.783798,
+    "iso:country":"US",
+    "sg:address":"542 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2851",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rfyKHUmTeCHQWjBds7S21_41.914700_-91.783798@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115119,
+    "wof:geomhash":"8cb1cf57a66ab1d0bd04ed68b75f6b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065583
+        }
+    ],
+    "wof:id":857065583,
+    "wof:lastmodified":1464115119,
+    "wof:name":"Neuhaus Mark",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.783798,
+    41.9147,
+    -91.783798,
+    41.9147
+],
+  "geometry": {"coordinates":[-91.783798,41.9147],"type":"Point"}
+}

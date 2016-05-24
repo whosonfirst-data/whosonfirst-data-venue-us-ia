@@ -1,0 +1,71 @@
+{
+  "id": 856892605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.601807,41.232535,-95.601807,41.232535",
+    "geom:latitude":41.232535,
+    "geom:longitude":-95.601807,
+    "iso:country":"US",
+    "sg:address":"124 E Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3542",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GbgjGxXnAsuf9Uc6rG0jW_41.232535_-95.601807@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107780,
+    "wof:geomhash":"dd0f141bc11d84851654551ac1333752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856892605
+        }
+    ],
+    "wof:id":856892605,
+    "wof:lastmodified":1464107780,
+    "wof:name":"Menke Auction Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -95.601807,
+    41.232535,
+    -95.601807,
+    41.232535
+],
+  "geometry": {"coordinates":[-95.60180699999999,41.232535],"type":"Point"}
+}

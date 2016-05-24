@@ -1,0 +1,73 @@
+{
+  "id": 856841389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655243,41.968583,-91.655243,41.968583",
+    "geom:latitude":41.968583,
+    "geom:longitude":-91.655243,
+    "iso:country":"US",
+    "sg:address":"1435 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 0982",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UmnZM9e9gVw7sTK7ZySb5_41.968583_-91.655243@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105055,
+    "wof:geomhash":"43432e759468f87448c92ea2d9902bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856841389
+        }
+    ],
+    "wof:id":856841389,
+    "wof:lastmodified":1464105055,
+    "wof:name":"Midwest Dental Arts Inc",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.655243,
+    41.968583,
+    -91.655243,
+    41.968583
+],
+  "geometry": {"coordinates":[-91.655243,41.968583],"type":"Point"}
+}

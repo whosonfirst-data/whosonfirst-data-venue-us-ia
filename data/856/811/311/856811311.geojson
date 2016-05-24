@@ -1,0 +1,74 @@
+{
+  "id": 856811311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.366814,42.48888,-96.366814,42.48888",
+    "geom:latitude":42.48888,
+    "geom:longitude":-96.366814,
+    "iso:country":"US",
+    "sg:address":"3129 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 9696",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.advanceautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PoIfaRZ9M3SIdheIlpKEE_42.488880_-96.366814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103685,
+    "wof:geomhash":"58a8f1dde1566c002794f90e3618c50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856811311
+        }
+    ],
+    "wof:id":856811311,
+    "wof:lastmodified":1464103685,
+    "wof:name":"Advance Auto Parts",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -96.366814,
+    42.48888,
+    -96.366814,
+    42.48888
+],
+  "geometry": {"coordinates":[-96.36681400000001,42.48888],"type":"Point"}
+}

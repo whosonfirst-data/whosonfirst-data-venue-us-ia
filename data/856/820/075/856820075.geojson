@@ -1,0 +1,71 @@
+{
+  "id": 856820075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.224963,41.475959,-95.224963,41.475959",
+    "geom:latitude":41.475959,
+    "geom:longitude":-95.224963,
+    "iso:country":"US",
+    "sg:address":"407 Pearl St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3711",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lBqLWxQVQ7AIY0yjg36Gp_41.475959_-95.224963@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104105,
+    "wof:geomhash":"97f4b7f80180d0a37bec1aa08c0f8bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856820075
+        }
+    ],
+    "wof:id":856820075,
+    "wof:lastmodified":1464104105,
+    "wof:name":"Walnut Municipal Water Plant",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -95.224963,
+    41.475959,
+    -95.224963,
+    41.475959
+],
+  "geometry": {"coordinates":[-95.224963,41.475959],"type":"Point"}
+}

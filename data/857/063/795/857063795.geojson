@@ -1,0 +1,79 @@
+{
+  "id": 857063795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850129,41.259539,-95.850129,41.259539",
+    "geom:latitude":41.259539,
+    "geom:longitude":-95.850129,
+    "iso:country":"US",
+    "sg:address":"104 S. Main Street",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RoYaVHgoDPf1wDHX2d3RJ_41.259539_-95.850129@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115055,
+    "wof:geomhash":"93506b3fd42b20050b3ba3972d87a949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063795
+        }
+    ],
+    "wof:id":857063795,
+    "wof:lastmodified":1464115055,
+    "wof:name":"Ellie's Deli",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -95.850129,
+    41.259539,
+    -95.850129,
+    41.259539
+],
+  "geometry": {"coordinates":[-95.850129,41.259539],"type":"Point"}
+}

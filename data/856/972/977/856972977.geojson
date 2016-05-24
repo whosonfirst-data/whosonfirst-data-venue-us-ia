@@ -1,0 +1,76 @@
+{
+  "id": 856972977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.376337,42.494437,-96.376337,42.494437",
+    "geom:latitude":42.494437,
+    "geom:longitude":-96.376337,
+    "iso:country":"US",
+    "sg:address":"2505 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 279 6405",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "sg:website":"www.sioux-city.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_614YBlAgtGAHgc8UhWntNu_42.494437_-96.376337@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111102,
+    "wof:geomhash":"864b3f59003a1d0275d73310c904cc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856972977
+        }
+    ],
+    "wof:id":856972977,
+    "wof:lastmodified":1464111102,
+    "wof:name":"Transit Business",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.376337,
+    42.494437,
+    -96.376337,
+    42.494437
+],
+  "geometry": {"coordinates":[-96.37633700000001,42.494437],"type":"Point"}
+}

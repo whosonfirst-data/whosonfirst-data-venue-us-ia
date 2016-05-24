@@ -1,0 +1,75 @@
+{
+  "id": 856873501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676358,42.001291,-91.676358,42.001291",
+    "geom:latitude":42.001291,
+    "geom:longitude":-91.676358,
+    "iso:country":"US",
+    "sg:address":"707 J Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5960",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51iOQbMyiP40jmzaw3kXfC_42.001291_-91.676358@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106840,
+    "wof:geomhash":"ff70ad05302c1769ad813b69e0e28c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856873501
+        }
+    ],
+    "wof:id":856873501,
+    "wof:lastmodified":1464106840,
+    "wof:name":"Cedar Rapids Water Dept",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.676358,
+    42.001291,
+    -91.676358,
+    42.001291
+],
+  "geometry": {"coordinates":[-91.67635799999999,42.001291],"type":"Point"}
+}

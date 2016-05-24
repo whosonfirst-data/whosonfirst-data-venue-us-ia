@@ -1,0 +1,71 @@
+{
+  "id": 856925853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.848252,41.255294,-95.848252,41.255294",
+    "geom:latitude":41.255294,
+    "geom:longitude":-95.848252,
+    "iso:country":"US",
+    "sg:address":"622 S 3rd St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5684",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LrURDpoFrwfLbRCiW8dn0_41.255294_-95.848252@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109084,
+    "wof:geomhash":"394b16d625146514333e80741037dda1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856925853
+        }
+    ],
+    "wof:id":856925853,
+    "wof:lastmodified":1464109084,
+    "wof:name":"Carlson Drywall Installation",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.848252,
+    41.255294,
+    -95.848252,
+    41.255294
+],
+  "geometry": {"coordinates":[-95.848252,41.255294],"type":"Point"}
+}

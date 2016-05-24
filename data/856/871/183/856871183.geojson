@@ -1,0 +1,73 @@
+{
+  "id": 856871183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.159097,41.831886,-94.159097,41.831886",
+    "geom:latitude":41.831886,
+    "geom:longitude":-94.159097,
+    "iso:country":"US",
+    "sg:address":"1436 Galveston Ct",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3970",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mgttaE6InOibiVaJJC7Bm_41.831886_-94.159097@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106675,
+    "wof:geomhash":"2594a32f265e28fcdb71725d913ccc50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856871183
+        }
+    ],
+    "wof:id":856871183,
+    "wof:lastmodified":1464106675,
+    "wof:name":"Tarlton Aircraft Repairs & Svc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -94.159097,
+    41.831886,
+    -94.159097,
+    41.831886
+],
+  "geometry": {"coordinates":[-94.159097,41.831886],"type":"Point"}
+}

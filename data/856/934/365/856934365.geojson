@@ -1,0 +1,71 @@
+{
+  "id": 856934365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.10504,41.840637,-94.10504,41.840637",
+    "geom:latitude":41.840637,
+    "geom:longitude":-94.10504,
+    "iso:country":"US",
+    "sg:address":"1212 Lucinda St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3919",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zm4ozmQr8iKbVyrG9dMMq_41.840637_-94.105040@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109409,
+    "wof:geomhash":"a3d9e7b8cf6369c3246b3495bc337ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856934365
+        }
+    ],
+    "wof:id":856934365,
+    "wof:lastmodified":1464109409,
+    "wof:name":"DCS Sanitation Management",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -94.10504,
+    41.840637,
+    -94.10504,
+    41.840637
+],
+  "geometry": {"coordinates":[-94.10504,41.840637],"type":"Point"}
+}

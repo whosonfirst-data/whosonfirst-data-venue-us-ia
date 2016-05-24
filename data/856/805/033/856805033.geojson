@@ -1,0 +1,71 @@
+{
+  "id": 856805033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.704489,41.974613,-91.704489,41.974613",
+    "geom:latitude":41.974613,
+    "geom:longitude":-91.704489,
+    "iso:country":"US",
+    "sg:address":"2222 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8468",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UfqBGIWBJ8mgufqgysUQk_41.974613_-91.704489@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103404,
+    "wof:geomhash":"ee792a131c201b13eafd7a4167bd16b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856805033
+        }
+    ],
+    "wof:id":856805033,
+    "wof:lastmodified":1464103404,
+    "wof:name":"Weland Clinical Laboratories",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.704489,
+    41.974613,
+    -91.704489,
+    41.974613
+],
+  "geometry": {"coordinates":[-91.704489,41.974613],"type":"Point"}
+}

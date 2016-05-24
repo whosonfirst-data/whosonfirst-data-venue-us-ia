@@ -1,0 +1,66 @@
+{
+  "id": 856803859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524622,42.203644,-91.524622,42.203644",
+    "geom:latitude":42.203644,
+    "geom:longitude":-91.524622,
+    "iso:country":"US",
+    "sg:address":"55 S 4th St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6112",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OhHvJEuIQtsZr3T2HopyC_42.203644_-91.524622@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103353,
+    "wof:geomhash":"a90de5552ad4f55bd8eef858bca0094d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856803859
+        }
+    ],
+    "wof:id":856803859,
+    "wof:lastmodified":1464103353,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.524622,
+    42.203644,
+    -91.524622,
+    42.203644
+],
+  "geometry": {"coordinates":[-91.52462199999999,42.203644],"type":"Point"}
+}

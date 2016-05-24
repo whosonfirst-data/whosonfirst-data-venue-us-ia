@@ -1,0 +1,73 @@
+{
+  "id": 856798661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.780694,42.286702,-91.780694,42.286702",
+    "geom:latitude":42.286702,
+    "geom:longitude":-91.780694,
+    "iso:country":"US",
+    "sg:address":"515 Rowley St",
+    "sg:city":"Walker",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 448 4592",
+    "sg:postcode":"52352",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r1KxcquV2wWnhYV5QZnVg_42.286702_-91.780694@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103144,
+    "wof:geomhash":"b87afc0579f9d24a80edc10222791ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856798661
+        }
+    ],
+    "wof:id":856798661,
+    "wof:lastmodified":1464103144,
+    "wof:name":"Early Ford V-8 Parts",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -91.780694,
+    42.286702,
+    -91.780694,
+    42.286702
+],
+  "geometry": {"coordinates":[-91.780694,42.286702],"type":"Point"}
+}

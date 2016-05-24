@@ -1,0 +1,73 @@
+{
+  "id": 856774825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.416787,42.50811,-96.416787,42.50811",
+    "geom:latitude":42.50811,
+    "geom:longitude":-96.416787,
+    "iso:country":"US",
+    "sg:address":"1625 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0561",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oKmxMM5ZfaMGT92VY2NrG_42.508110_-96.416787@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102322,
+    "wof:geomhash":"a66025dc01d360447c8425c09b4294af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856774825
+        }
+    ],
+    "wof:id":856774825,
+    "wof:lastmodified":1464102322,
+    "wof:name":"Sioux City Paint & Decorating",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -96.416787,
+    42.50811,
+    -96.416787,
+    42.50811
+],
+  "geometry": {"coordinates":[-96.416787,42.50811],"type":"Point"}
+}

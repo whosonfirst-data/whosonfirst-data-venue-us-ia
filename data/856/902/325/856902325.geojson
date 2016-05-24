@@ -1,0 +1,71 @@
+{
+  "id": 856902325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.605534,41.511899,-93.605534,41.511899",
+    "geom:latitude":41.511899,
+    "geom:longitude":-93.605534,
+    "iso:country":"US",
+    "sg:address":"1054 E County Line Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 4009",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HeIWq1i9fJQtff3gkY2Gf_41.511899_-93.605534@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108135,
+    "wof:geomhash":"0001d677ecf067d261f0f5656cf498c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856902325
+        }
+    ],
+    "wof:id":856902325,
+    "wof:lastmodified":1464108135,
+    "wof:name":"Skate South Skate Park",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -93.605534,
+    41.511899,
+    -93.605534,
+    41.511899
+],
+  "geometry": {"coordinates":[-93.60553400000001,41.511899],"type":"Point"}
+}

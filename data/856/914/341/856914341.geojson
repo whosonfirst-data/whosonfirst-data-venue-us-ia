@@ -1,0 +1,71 @@
+{
+  "id": 856914341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.029584,41.755685,-94.029584,41.755685",
+    "geom:latitude":41.755685,
+    "geom:longitude":-94.029584,
+    "iso:country":"US",
+    "sg:address":"315 Baker St",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2245",
+    "sg:postcode":"50167",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kboU6AuuCIB2fBcvBKy1O_41.755685_-94.029584@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108599,
+    "wof:geomhash":"86c94a2938b71ab3c7d271aa90c2c84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856914341
+        }
+    ],
+    "wof:id":856914341,
+    "wof:lastmodified":1464108599,
+    "wof:name":"Minburn Mayor's Office",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -94.029584,
+    41.755685,
+    -94.029584,
+    41.755685
+],
+  "geometry": {"coordinates":[-94.029584,41.755685],"type":"Point"}
+}

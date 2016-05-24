@@ -1,0 +1,74 @@
+{
+  "id": 856907837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.482935,41.63609,-91.482935,41.63609",
+    "geom:latitude":41.63609,
+    "geom:longitude":-91.482935,
+    "iso:country":"US",
+    "sg:address":"2351 Scott Blvd SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2040",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.knutsonconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NsOKtpE1dttkfxwpheeFp_41.636090_-91.482935@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108337,
+    "wof:geomhash":"447e44adc7154e12b5cca9155b538cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856907837
+        }
+    ],
+    "wof:id":856907837,
+    "wof:lastmodified":1464108337,
+    "wof:name":"Knutson Construction Svc",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.482935,
+    41.63609,
+    -91.482935,
+    41.63609
+],
+  "geometry": {"coordinates":[-91.482935,41.63609],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857020935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.496034,41.652305,-91.496034,41.652305",
+    "geom:latitude":41.652305,
+    "geom:longitude":-91.496034,
+    "iso:country":"US",
+    "sg:address":"2621 Catskill Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 4390",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gWRU3ZIcWrjl1eZrXXpFw_41.652305_-91.496034@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113226,
+    "wof:geomhash":"1dfa6e50b5321b2034be92c61242a31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":857020935
+        }
+    ],
+    "wof:id":857020935,
+    "wof:lastmodified":1464113226,
+    "wof:name":"Larson Builders",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.496034,
+    41.652305,
+    -91.496034,
+    41.652305
+],
+  "geometry": {"coordinates":[-91.49603399999999,41.652305],"type":"Point"}
+}

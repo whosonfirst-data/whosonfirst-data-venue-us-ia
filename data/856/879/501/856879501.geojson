@@ -1,0 +1,71 @@
+{
+  "id": 856879501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651982,42.020695,-91.651982,42.020695",
+    "geom:latitude":42.020695,
+    "geom:longitude":-91.651982,
+    "iso:country":"US",
+    "sg:address":"1101 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 0705",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_486VYsjP4BEICiLf8zdlaX_42.020695_-91.651982@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107134,
+    "wof:geomhash":"5329330bc5a31842a56e2a167e2f02b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856879501
+        }
+    ],
+    "wof:id":856879501,
+    "wof:lastmodified":1464107134,
+    "wof:name":"Knights Of Pythias",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -91.651982,
+    42.020695,
+    -91.651982,
+    42.020695
+],
+  "geometry": {"coordinates":[-91.651982,42.020695],"type":"Point"}
+}

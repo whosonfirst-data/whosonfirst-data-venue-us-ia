@@ -1,0 +1,68 @@
+{
+  "id": 857010675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715149,41.963552,-91.715149,41.963552",
+    "geom:latitude":41.963552,
+    "geom:longitude":-91.715149,
+    "iso:country":"US",
+    "sg:address":"3230 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9079",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12frZnJsNylbDAKCVkQPxu_41.963552_-91.715149@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112807,
+    "wof:geomhash":"55b0e16221b1a236c8677ae30863c821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857010675
+        }
+    ],
+    "wof:id":857010675,
+    "wof:lastmodified":1464112807,
+    "wof:name":"Time Out Lounge",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.715149,
+    41.963552,
+    -91.715149,
+    41.963552
+],
+  "geometry": {"coordinates":[-91.715149,41.963552],"type":"Point"}
+}

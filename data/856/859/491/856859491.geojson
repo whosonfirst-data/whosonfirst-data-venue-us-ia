@@ -1,0 +1,71 @@
+{
+  "id": 856859491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837503,41.264402,-95.837503,41.264402",
+    "geom:latitude":41.264402,
+    "geom:longitude":-95.837503,
+    "iso:country":"US",
+    "sg:address":"216 Lincoln Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1303",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TKRsyJPJlTZ1XGWJPL1OW_41.264402_-95.837503@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105972,
+    "wof:geomhash":"5fe1deb70e252a9f4748b0cd261e7fcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856859491
+        }
+    ],
+    "wof:id":856859491,
+    "wof:lastmodified":1464105972,
+    "wof:name":"Sherris Barber Shop",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.837503,
+    41.264402,
+    -95.837503,
+    41.264402
+],
+  "geometry": {"coordinates":[-95.837503,41.264402],"type":"Point"}
+}

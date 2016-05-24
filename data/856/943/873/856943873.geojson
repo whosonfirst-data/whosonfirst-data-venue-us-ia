@@ -1,0 +1,71 @@
+{
+  "id": 856943873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.41868,41.929056,-91.41868,41.929056",
+    "geom:latitude":41.929056,
+    "geom:longitude":-91.41868,
+    "iso:country":"US",
+    "sg:address":"419 8th St NW",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 0138",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l5uBCXujbdEfe1u0zLVYT_41.929056_-91.418680@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109845,
+    "wof:geomhash":"0b57dd04d0eeec42add493ef30845b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856943873
+        }
+    ],
+    "wof:id":856943873,
+    "wof:lastmodified":1464109845,
+    "wof:name":"Wirfs Construction",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.41868,
+    41.929056,
+    -91.41868,
+    41.929056
+],
+  "geometry": {"coordinates":[-91.41867999999999,41.929056],"type":"Point"}
+}

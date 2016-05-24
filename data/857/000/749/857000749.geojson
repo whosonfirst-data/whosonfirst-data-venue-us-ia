@@ -1,0 +1,66 @@
+{
+  "id": 857000749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.878367,41.255258,-95.878367,41.255258",
+    "geom:latitude":41.255258,
+    "geom:longitude":-95.878367,
+    "iso:country":"US",
+    "sg:address":"2205 7th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8290",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYsMAaAoEDl5CGOS2WZrP_41.255258_-95.878367@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112391,
+    "wof:geomhash":"ebfe485dd93ea7d8dcc39fe0160bda46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857000749
+        }
+    ],
+    "wof:id":857000749,
+    "wof:lastmodified":1464112391,
+    "wof:name":"Vintage Metric Customs",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.878367,
+    41.255258,
+    -95.878367,
+    41.255258
+],
+  "geometry": {"coordinates":[-95.878367,41.255258],"type":"Point"}
+}

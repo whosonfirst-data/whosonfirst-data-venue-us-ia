@@ -1,0 +1,71 @@
+{
+  "id": 857068451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658104,42.03051,-91.658104,42.03051",
+    "geom:latitude":42.03051,
+    "geom:longitude":-91.658104,
+    "iso:country":"US",
+    "sg:address":"5264 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 221 8833",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trainer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SlAuR6CQZ8XlZRtcrx8Hu_42.030510_-91.658104@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115259,
+    "wof:geomhash":"af22c99a51f68f95e4a2a5289288a284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068451
+        }
+    ],
+    "wof:id":857068451,
+    "wof:lastmodified":1464115259,
+    "wof:name":"Athletic Republic",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer"
+    ]
+},
+  "bbox": [
+    -91.658104,
+    42.03051,
+    -91.658104,
+    42.03051
+],
+  "geometry": {"coordinates":[-91.65810399999999,42.03051],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856981697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615884,41.960971,-91.615884,41.960971",
+    "geom:latitude":41.960971,
+    "geom:longitude":-91.615884,
+    "iso:country":"US",
+    "sg:address":"2000 Hickory Nut Ln SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 3355",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gc4Ein6n93I7urvUdRxjZ_41.960971_-91.615884@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111540,
+    "wof:geomhash":"c1ee5bfec2bf6141f4c982ff6e8c52d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856981697
+        }
+    ],
+    "wof:id":856981697,
+    "wof:lastmodified":1464111540,
+    "wof:name":"Glassworks",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -91.615884,
+    41.960971,
+    -91.615884,
+    41.960971
+],
+  "geometry": {"coordinates":[-91.61588399999999,41.960971],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856866383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71388,41.987285,-91.71388,41.987285",
+    "geom:latitude":41.987285,
+    "geom:longitude":-91.71388,
+    "iso:country":"US",
+    "sg:address":"1431 Hillside Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2834",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d7Otyp3fwnBJ9Bej6Ippa_41.987285_-91.713880@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106288,
+    "wof:geomhash":"8456659f3c731d3851262f32f9810cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856866383
+        }
+    ],
+    "wof:id":856866383,
+    "wof:lastmodified":1464106288,
+    "wof:name":"Baskerville Dry Wall",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.71388,
+    41.987285,
+    -91.71388,
+    41.987285
+],
+  "geometry": {"coordinates":[-91.71388,41.987285],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856896193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.829942,41.270842,-95.829942,41.270842",
+    "geom:latitude":41.270842,
+    "geom:longitude":-95.829942,
+    "iso:country":"US",
+    "sg:address":"1221 E Pierce St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 7500",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HroGNayHSabi9umdUlVxV_41.270842_-95.829942@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107908,
+    "wof:geomhash":"6c5dbc634de0c0925b2d3a817dab9f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856896193
+        }
+    ],
+    "wof:id":856896193,
+    "wof:lastmodified":1464107908,
+    "wof:name":"Genereux Investment Management",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -95.829942,
+    41.270842,
+    -95.829942,
+    41.270842
+],
+  "geometry": {"coordinates":[-95.829942,41.270842],"type":"Point"}
+}

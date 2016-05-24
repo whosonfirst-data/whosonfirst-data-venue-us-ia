@@ -1,0 +1,75 @@
+{
+  "id": 856947173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.086735,41.838349,-94.086735,41.838349",
+    "geom:latitude":41.838349,
+    "geom:longitude":-94.086735,
+    "iso:country":"US",
+    "sg:address":"2623 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5301",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r4uVgdtSfPcQdn0PqhwlH_41.838349_-94.086735@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109964,
+    "wof:geomhash":"db7046f0b3c52a826129771de65b3a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856947173
+        }
+    ],
+    "wof:id":856947173,
+    "wof:lastmodified":1464109964,
+    "wof:name":"Exhaust Pros",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.086735,
+    41.838349,
+    -94.086735,
+    41.838349
+],
+  "geometry": {"coordinates":[-94.086735,41.838349],"type":"Point"}
+}

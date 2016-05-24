@@ -1,0 +1,71 @@
+{
+  "id": 856809773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.562969,42.035049,-91.562969,42.035049",
+    "geom:latitude":42.035049,
+    "geom:longitude":-91.562969,
+    "iso:country":"US",
+    "sg:address":"850 44th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 4343",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZCnW2dDCi1DLsNQBK8M4X_42.035049_-91.562969@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103624,
+    "wof:geomhash":"26f09da09ce5dfb79bb31305290ef9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856809773
+        }
+    ],
+    "wof:id":856809773,
+    "wof:lastmodified":1464103624,
+    "wof:name":"Chesapeake Display Warehouse",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -91.562969,
+    42.035049,
+    -91.562969,
+    42.035049
+],
+  "geometry": {"coordinates":[-91.562969,42.035049],"type":"Point"}
+}

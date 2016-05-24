@@ -1,0 +1,71 @@
+{
+  "id": 856910171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7259,41.959511,-91.7259,41.959511",
+    "geom:latitude":41.959511,
+    "geom:longitude":-91.7259,
+    "iso:country":"US",
+    "sg:address":"2000 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5320",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UbmBdimUOm0pdvIDZdbS1_41.959511_-91.725900@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108427,
+    "wof:geomhash":"0c42b18ca7168d1a4f371677dd4b19ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856910171
+        }
+    ],
+    "wof:id":856910171,
+    "wof:lastmodified":1464108427,
+    "wof:name":"Maks Collectables",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.7259,
+    41.959511,
+    -91.7259,
+    41.959511
+],
+  "geometry": {"coordinates":[-91.7259,41.959511],"type":"Point"}
+}

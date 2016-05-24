@@ -1,0 +1,75 @@
+{
+  "id": 856867317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.734711,41.968024,-91.734711,41.968024",
+    "geom:latitude":41.968024,
+    "geom:longitude":-91.734711,
+    "iso:country":"US",
+    "sg:address":"4950 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0500",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "coin",
+        "dealer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dm5q6CBDpCl2CmgOW6sbH_41.968024_-91.734711@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106328,
+    "wof:geomhash":"016ecf95ab57b7cbbcbcf47763cf2a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856867317
+        }
+    ],
+    "wof:id":856867317,
+    "wof:lastmodified":1464106328,
+    "wof:name":"Eastern Iowa Coin",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "dealer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.734711,
+    41.968024,
+    -91.734711,
+    41.968024
+],
+  "geometry": {"coordinates":[-91.734711,41.968024],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856800147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.647057,41.616711,-93.647057,41.616711",
+    "geom:latitude":41.616711,
+    "geom:longitude":-93.647057,
+    "iso:country":"US",
+    "sg:address":"2526 Martin Luther King Jr Pkwy",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 633 0812",
+    "sg:postcode":"50310",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iqcAdybSZmKpy8a2NQVcH_41.616711_-93.647057@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103201,
+    "wof:geomhash":"881fd22649bb5ba7b64ef8311aab4fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896399,
+            "region_id":85688713,
+            "venue_id":856800147
+        }
+    ],
+    "wof:id":856800147,
+    "wof:lastmodified":1464103201,
+    "wof:name":"Gomez Tire",
+    "wof:parent_id":85896399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -93.647057,
+    41.616711,
+    -93.647057,
+    41.616711
+],
+  "geometry": {"coordinates":[-93.647057,41.616711],"type":"Point"}
+}

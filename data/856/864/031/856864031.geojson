@@ -1,0 +1,73 @@
+{
+  "id": 856864031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.885584,41.611464,-93.885584,41.611464",
+    "geom:latitude":41.611464,
+    "geom:longitude":-93.885584,
+    "iso:country":"US",
+    "sg:address":"401 6th St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 8390",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DaY7Pmna5TZn5ZrMJqgna_41.611464_-93.885584@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106157,
+    "wof:geomhash":"bb821797a8188d37889de3169f774ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856864031
+        }
+    ],
+    "wof:id":856864031,
+    "wof:lastmodified":1464106157,
+    "wof:name":"Waukee Community Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -93.885584,
+    41.611464,
+    -93.885584,
+    41.611464
+],
+  "geometry": {"coordinates":[-93.88558399999999,41.611464],"type":"Point"}
+}

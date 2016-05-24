@@ -1,0 +1,75 @@
+{
+  "id": 857023149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.360588,42.408471,-96.360588,42.408471",
+    "geom:latitude":42.408471,
+    "geom:longitude":-96.360588,
+    "iso:country":"US",
+    "sg:address":"204 S Lewis Blvd",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 7073",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LFK9eauJjGIlsRNPkyQ5I_42.408471_-96.360588@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113320,
+    "wof:geomhash":"ec613a7da772d37106e9c34c6035e371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857023149
+        }
+    ],
+    "wof:id":857023149,
+    "wof:lastmodified":1464113320,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.360588,
+    42.408471,
+    -96.360588,
+    42.408471
+],
+  "geometry": {"coordinates":[-96.36058800000001,42.408471],"type":"Point"}
+}

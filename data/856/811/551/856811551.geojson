@@ -1,0 +1,73 @@
+{
+  "id": 856811551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.78084,42.482795,-95.78084,42.482795",
+    "geom:latitude":42.482795,
+    "geom:longitude":-95.78084,
+    "iso:country":"US",
+    "sg:address":"1229 Hackberry St",
+    "sg:city":"Correctionville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 372 4642",
+    "sg:postcode":"51016",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bridge",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QpBHLCLJoVUmIyAKzeNer_42.482795_-95.780840@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103699,
+    "wof:geomhash":"705bc48ccaba16fa1fcc5b461660d701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856811551
+        }
+    ],
+    "wof:id":856811551,
+    "wof:lastmodified":1464103699,
+    "wof:name":"Dixon Construction Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bridge",
+        "builder"
+    ]
+},
+  "bbox": [
+    -95.78084,
+    42.482795,
+    -95.78084,
+    42.482795
+],
+  "geometry": {"coordinates":[-95.78084,42.482795],"type":"Point"}
+}

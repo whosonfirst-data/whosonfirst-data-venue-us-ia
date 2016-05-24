@@ -1,0 +1,75 @@
+{
+  "id": 856828517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.620429,42.025124,-91.620429,42.025124",
+    "geom:latitude":42.025124,
+    "geom:longitude":-91.620429,
+    "iso:country":"US",
+    "sg:address":"120 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5612",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SxX90ZSAreKCTs6djZQQN_42.025124_-91.620429@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104452,
+    "wof:geomhash":"8e24e17394ae21cc4706b168eff07ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856828517
+        }
+    ],
+    "wof:id":856828517,
+    "wof:lastmodified":1464104452,
+    "wof:name":"Dent Be Gone",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.620429,
+    42.025124,
+    -91.620429,
+    42.025124
+],
+  "geometry": {"coordinates":[-91.620429,42.025124],"type":"Point"}
+}

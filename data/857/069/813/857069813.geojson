@@ -1,0 +1,67 @@
+{
+  "id": 857069813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.613403,41.977001,-91.613403,41.977001",
+    "geom:latitude":41.977001,
+    "geom:longitude":-91.613403,
+    "iso:country":"US",
+    "sg:address":"3301 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 0910",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:website":"www.natureswaycleaners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eg2lXy90zclvRQmyTSaxP_41.977001_-91.613403@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115321,
+    "wof:geomhash":"de97128afd26f36d797ed371243a6c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069813
+        }
+    ],
+    "wof:id":857069813,
+    "wof:lastmodified":1464115321,
+    "wof:name":"Nature's Way Cleaners",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.613403,
+    41.977001,
+    -91.613403,
+    41.977001
+],
+  "geometry": {"coordinates":[-91.61340300000001,41.977001],"type":"Point"}
+}

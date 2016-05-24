@@ -1,0 +1,73 @@
+{
+  "id": 857028261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.565568,41.671458,-91.565568,41.671458",
+    "geom:latitude":41.671458,
+    "geom:longitude":-91.565568,
+    "iso:country":"US",
+    "sg:address":"306 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 9947",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27aGGXvrXu8FOxfufm53Gt_41.671458_-91.565568@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113559,
+    "wof:geomhash":"53df57a2124f0ed2723ed90dbd9087f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":857028261
+        }
+    ],
+    "wof:id":857028261,
+    "wof:lastmodified":1464113559,
+    "wof:name":"Coral Lanes",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -91.565568,
+    41.671458,
+    -91.565568,
+    41.671458
+],
+  "geometry": {"coordinates":[-91.565568,41.671458],"type":"Point"}
+}

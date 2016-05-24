@@ -1,0 +1,75 @@
+{
+  "id": 857025403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.477846,41.676949,-93.477846,41.676949",
+    "geom:latitude":41.676949,
+    "geom:longitude":-93.477846,
+    "iso:country":"US",
+    "sg:address":"300 Prairie Dr",
+    "sg:city":"Bondurant",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 957 0778",
+    "sg:postcode":"50035",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944137,
+        102086603,
+        85896339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LdHxu46Lu9bUm1iEdMi9V_41.676949_-93.477846@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113434,
+    "wof:geomhash":"0dbdb43be1273d95fcaa78cb4eb0f49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944137,
+            "neighbourhood_id":85896339,
+            "region_id":85688713,
+            "venue_id":857025403
+        }
+    ],
+    "wof:id":857025403,
+    "wof:lastmodified":1464113434,
+    "wof:name":"Heartland Mini Storage",
+    "wof:parent_id":85896339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.477846,
+    41.676949,
+    -93.477846,
+    41.676949
+],
+  "geometry": {"coordinates":[-93.477846,41.676949],"type":"Point"}
+}

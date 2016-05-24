@@ -1,0 +1,71 @@
+{
+  "id": 856837019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.42766,41.487307,-91.42766,41.487307",
+    "geom:latitude":41.487307,
+    "geom:longitude":-91.42766,
+    "iso:country":"US",
+    "sg:address":"102 W Jayne St",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 5400",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mdRC00BGf6Mc3i2231JlN_41.487307_-91.427660@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104867,
+    "wof:geomhash":"b81de63332a27bdce5cdf40db0a09c8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856837019
+        }
+    ],
+    "wof:id":856837019,
+    "wof:lastmodified":1464104867,
+    "wof:name":"Honohan Epley Braddock",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.42766,
+    41.487307,
+    -91.42766,
+    41.487307
+],
+  "geometry": {"coordinates":[-91.42766,41.487307],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856879861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.888838,41.611544,-93.888838,41.611544",
+    "geom:latitude":41.611544,
+    "geom:longitude":-93.888838,
+    "iso:country":"US",
+    "sg:address":"715 Walnut St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 1023",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64bOe5G3tfXx9swBrTvg7m_41.611544_-93.888838@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107147,
+    "wof:geomhash":"ab7135e23ace232eeb6bfea30c09a3dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856879861
+        }
+    ],
+    "wof:id":856879861,
+    "wof:lastmodified":1464107147,
+    "wof:name":"Jerrys Place",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.888838,
+    41.611544,
+    -93.888838,
+    41.611544
+],
+  "geometry": {"coordinates":[-93.88883800000001,41.611544],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856964237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.553698,42.035608,-91.553698,42.035608",
+    "geom:latitude":42.035608,
+    "geom:longitude":-91.553698,
+    "iso:country":"US",
+    "sg:address":"5005 10th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 9867",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uuiOy7bDjYlwFsGoYD9RJ_42.035608_-91.553698@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110721,
+    "wof:geomhash":"83b45588a426b91be4910850ffbfe026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856964237
+        }
+    ],
+    "wof:id":856964237,
+    "wof:lastmodified":1464110721,
+    "wof:name":"Foskel's Food 'n Fuel",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.553698,
+    42.035608,
+    -91.553698,
+    42.035608
+],
+  "geometry": {"coordinates":[-91.553698,42.035608],"type":"Point"}
+}

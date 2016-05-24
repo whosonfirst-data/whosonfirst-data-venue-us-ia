@@ -1,0 +1,68 @@
+{
+  "id": 856946679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.407959,42.493531,-96.407959,42.493531",
+    "geom:latitude":42.493531,
+    "geom:longitude":-96.407959,
+    "iso:country":"US",
+    "sg:address":"309 Pearl St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 3449",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MUMukPs40kTp6ngFVS7Qe_42.493531_-96.407959@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109942,
+    "wof:geomhash":"8d0262d563c3f61a0b786df9dc08ce5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856946679
+        }
+    ],
+    "wof:id":856946679,
+    "wof:lastmodified":1464109942,
+    "wof:name":"Milwaukee Wiener House",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.407959,
+    42.493531,
+    -96.407959,
+    42.493531
+],
+  "geometry": {"coordinates":[-96.40795900000001,42.493531],"type":"Point"}
+}

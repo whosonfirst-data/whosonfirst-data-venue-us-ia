@@ -1,0 +1,73 @@
+{
+  "id": 857024201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715923,41.973106,-91.715923,41.973106",
+    "geom:latitude":41.973106,
+    "geom:longitude":-91.715923,
+    "iso:country":"US",
+    "sg:address":"223 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 862 1730",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "box",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Nx1Szyc1UApjwfA5sgfE_41.973106_-91.715923@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113371,
+    "wof:geomhash":"341f30b19e9a87d9388caba0ee59eb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857024201
+        }
+    ],
+    "wof:id":857024201,
+    "wof:lastmodified":1464113371,
+    "wof:name":"Mailboxes & Parcel Ctr",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box",
+        "mail"
+    ]
+},
+  "bbox": [
+    -91.715923,
+    41.973106,
+    -91.715923,
+    41.973106
+],
+  "geometry": {"coordinates":[-91.715923,41.973106],"type":"Point"}
+}

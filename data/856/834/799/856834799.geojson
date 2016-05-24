@@ -1,0 +1,73 @@
+{
+  "id": 856834799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.712398,42.047177,-91.712398,42.047177",
+    "geom:latitude":42.047177,
+    "geom:longitude":-91.712398,
+    "iso:country":"US",
+    "sg:address":"5300 Michael Dr",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0334",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wMsqphCBi5dp6QxIAluWH_42.047177_-91.712398@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104743,
+    "wof:geomhash":"fb2875af7a04f5d0456dfc37cec5e1af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856834799
+        }
+    ],
+    "wof:id":856834799,
+    "wof:lastmodified":1464104743,
+    "wof:name":"Linn County Concrete Constr",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.712398,
+    42.047177,
+    -91.712398,
+    42.047177
+],
+  "geometry": {"coordinates":[-91.71239799999999,42.047177],"type":"Point"}
+}

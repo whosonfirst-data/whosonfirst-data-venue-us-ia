@@ -1,0 +1,71 @@
+{
+  "id": 856786281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71795,41.97897,-91.71795,41.97897",
+    "geom:latitude":41.97897,
+    "geom:longitude":-91.71795,
+    "iso:country":"US",
+    "sg:address":"616 Robyn Ln NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 4834",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YcMedF8gS9KNTaPkvmg6T_41.978970_-91.717950@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102626,
+    "wof:geomhash":"438436739bad69f6d882cd033cc4710f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856786281
+        }
+    ],
+    "wof:id":856786281,
+    "wof:lastmodified":1464102626,
+    "wof:name":"McNeals Regrigeration Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -91.71795,
+    41.97897,
+    -91.71795,
+    41.97897
+],
+  "geometry": {"coordinates":[-91.71795,41.97897],"type":"Point"}
+}

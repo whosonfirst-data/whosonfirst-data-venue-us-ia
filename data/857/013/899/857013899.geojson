@@ -1,0 +1,71 @@
+{
+  "id": 857013899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.722702,41.957695,-91.722702,41.957695",
+    "geom:latitude":41.957695,
+    "geom:longitude":-91.722702,
+    "iso:country":"US",
+    "sg:address":"2215 Westdale Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 5500",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oplGZcZivBoUQZVOBjhUJ_41.957695_-91.722702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112944,
+    "wof:geomhash":"84acbc0abc5faa3aa5118259ac534e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857013899
+        }
+    ],
+    "wof:id":857013899,
+    "wof:lastmodified":1464112944,
+    "wof:name":"Mid-Iowa Family Therapy Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -91.722702,
+    41.957695,
+    -91.722702,
+    41.957695
+],
+  "geometry": {"coordinates":[-91.722702,41.957695],"type":"Point"}
+}

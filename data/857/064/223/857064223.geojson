@@ -1,0 +1,67 @@
+{
+  "id": 857064223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.819298,41.264099,-95.819298,41.264099",
+    "geom:latitude":41.264099,
+    "geom:longitude":-95.819298,
+    "iso:country":"US",
+    "sg:address":"1729 McPherson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3662",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:website":"www.backlundplumbing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FxoEGtICaZOQ1PwyWgr49_41.264099_-95.819298@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115069,
+    "wof:geomhash":"40c914ea972a98ecb5251796ba715292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064223
+        }
+    ],
+    "wof:id":857064223,
+    "wof:lastmodified":1464115069,
+    "wof:name":"Backlund Plumbing",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.819298,
+    41.264099,
+    -95.819298,
+    41.264099
+],
+  "geometry": {"coordinates":[-95.819298,41.264099],"type":"Point"}
+}

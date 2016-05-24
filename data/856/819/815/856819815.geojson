@@ -1,0 +1,71 @@
+{
+  "id": 856819815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624461,41.561591,-91.624461,41.561591",
+    "geom:latitude":41.561591,
+    "geom:longitude":-91.624461,
+    "iso:country":"US",
+    "sg:address":"3122 500th St SW",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 679 2435",
+    "sg:postcode":"52327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZB5uDApikVV0BSQ0rpcEe_41.561591_-91.624461@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104067,
+    "wof:geomhash":"a842e78fac58a765011777c85fb27b25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856819815
+        }
+    ],
+    "wof:id":856819815,
+    "wof:lastmodified":1464104067,
+    "wof:name":"Charles Mougin",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.624461,
+    41.561591,
+    -91.624461,
+    41.561591
+],
+  "geometry": {"coordinates":[-91.624461,41.561591],"type":"Point"}
+}

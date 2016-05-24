@@ -1,0 +1,68 @@
+{
+  "id": 856946671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.5303,41.664745,-91.5303,41.664745",
+    "geom:latitude":41.664745,
+    "geom:longitude":-91.5303,
+    "iso:country":"US",
+    "sg:address":"316 E Bloomington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 9616",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uOvjqq84R1JG5PnJxRYM3_41.664745_-91.530300@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109942,
+    "wof:geomhash":"cf779abb62485404afeadb6681c77b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856946671
+        }
+    ],
+    "wof:id":856946671,
+    "wof:lastmodified":1464109942,
+    "wof:name":"Bloomington Street Laundromat",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5303,
+    41.664745,
+    -91.5303,
+    41.664745
+],
+  "geometry": {"coordinates":[-91.5303,41.664745],"type":"Point"}
+}

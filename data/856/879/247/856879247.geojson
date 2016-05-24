@@ -1,0 +1,73 @@
+{
+  "id": 856879247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.729146,41.632934,-93.729146,41.632934",
+    "geom:latitude":41.632934,
+    "geom:longitude":-93.729146,
+    "iso:country":"US",
+    "sg:address":"3905 81st St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 4806",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nsbdxnqU5z2CNLdizIDRe_41.632934_-93.729146@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107124,
+    "wof:geomhash":"bdc4f3a9e5a50a600e3661401b287188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896505,
+            "region_id":85688713,
+            "venue_id":856879247
+        }
+    ],
+    "wof:id":856879247,
+    "wof:lastmodified":1464107124,
+    "wof:name":"Huston Delivery Svc",
+    "wof:parent_id":85896505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -93.729146,
+    41.632934,
+    -93.729146,
+    41.632934
+],
+  "geometry": {"coordinates":[-93.729146,41.632934],"type":"Point"}
+}

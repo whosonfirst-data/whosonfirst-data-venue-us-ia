@@ -1,0 +1,83 @@
+{
+  "id": 856860263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677226,41.975071,-91.677226,41.975071",
+    "geom:latitude":41.975071,
+    "geom:longitude":-91.677226,
+    "iso:country":"US",
+    "sg:address":"413 1st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3097",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qIi2y7BncjEK0xxphjnkc_41.975071_-91.677226@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106009,
+    "wof:geomhash":"e5058417ca1b2dd1a4ca8bd6a80feb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856860263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856860263
+        }
+    ],
+    "wof:id":856860263,
+    "wof:lastmodified":1464106009,
+    "wof:name":"Wildside Tattooing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -91.677226,
+    41.975071,
+    -91.677226,
+    41.975071
+],
+  "geometry": {"coordinates":[-91.677226,41.975071],"type":"Point"}
+}

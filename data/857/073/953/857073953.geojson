@@ -1,0 +1,80 @@
+{
+  "id": 857073953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624187,41.502207,-90.624187,41.502207",
+    "geom:latitude":41.502207,
+    "geom:longitude":-90.624187,
+    "iso:country":"US",
+    "sg:address":"1707 S Concord St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 8880",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZlprCbgd6XByTd6EX0Q3E_41.502207_-90.624187@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115520,
+    "wof:geomhash":"bf417b98559ab41d9f3a1a5f645f9d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857073953
+        }
+    ],
+    "wof:id":857073953,
+    "wof:lastmodified":1464115520,
+    "wof:name":"L T Walter Company",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -90.624187,
+    41.502207,
+    -90.624187,
+    41.502207
+],
+  "geometry": {"coordinates":[-90.62418700000001,41.502207],"type":"Point"}
+}

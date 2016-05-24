@@ -1,0 +1,71 @@
+{
+  "id": 856995913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.877139,41.256165,-95.877139,41.256165",
+    "geom:latitude":41.256165,
+    "geom:longitude":-95.877139,
+    "iso:country":"US",
+    "sg:address":"2209 6th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1016",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p2skyo9Jt4cGJqfNGiKzf_41.256165_-95.877139@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112213,
+    "wof:geomhash":"ff2713bcb77a33e5cbd86116d4acef19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856995913
+        }
+    ],
+    "wof:id":856995913,
+    "wof:lastmodified":1464112213,
+    "wof:name":"M&Ms Daycare",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.877139,
+    41.256165,
+    -95.877139,
+    41.256165
+],
+  "geometry": {"coordinates":[-95.877139,41.256165],"type":"Point"}
+}

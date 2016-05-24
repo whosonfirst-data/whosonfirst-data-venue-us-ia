@@ -1,0 +1,71 @@
+{
+  "id": 856809665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.88106,41.604515,-93.88106,41.604515",
+    "geom:latitude":41.604515,
+    "geom:longitude":-93.88106,
+    "iso:country":"US",
+    "sg:address":"220 Gray Ave",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 978 9750",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EnnDcUp8dqU79qHk3m1z3_41.604515_-93.881060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103617,
+    "wof:geomhash":"d0d232c4f02582db5337ef288da26483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856809665
+        }
+    ],
+    "wof:id":856809665,
+    "wof:lastmodified":1464103617,
+    "wof:name":"Comfort Cuisine & Bbq",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -93.88106,
+    41.604515,
+    -93.88106,
+    41.604515
+],
+  "geometry": {"coordinates":[-93.88106000000001,41.604515],"type":"Point"}
+}

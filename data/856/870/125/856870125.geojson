@@ -1,0 +1,73 @@
+{
+  "id": 856870125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.096858,41.834675,-94.096858,41.834675",
+    "geom:latitude":41.834675,
+    "geom:longitude":-94.096858,
+    "iso:country":"US",
+    "sg:address":"1805 Iowa St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3888",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ECf4y2zmYHZDQetOHpbkx_41.834675_-94.096858@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106522,
+    "wof:geomhash":"5780e6370eb73a87a807949aa19dfa85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856870125
+        }
+    ],
+    "wof:id":856870125,
+    "wof:lastmodified":1464106522,
+    "wof:name":"Little League Baseball In",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -94.096858,
+    41.834675,
+    -94.096858,
+    41.834675
+],
+  "geometry": {"coordinates":[-94.096858,41.834675],"type":"Point"}
+}

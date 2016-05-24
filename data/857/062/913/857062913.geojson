@@ -1,0 +1,71 @@
+{
+  "id": 857062913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8675,41.274799,-95.8675,41.274799",
+    "geom:latitude":41.274799,
+    "geom:longitude":-95.8675,
+    "iso:country":"US",
+    "sg:address":"2445 N 25th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3231",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YRECTQCg2a2Qw5n6AEgSq_41.274799_-95.867500@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115019,
+    "wof:geomhash":"f346b142dac4c4b29a9e30a38d41f741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062913
+        }
+    ],
+    "wof:id":857062913,
+    "wof:lastmodified":1464115019,
+    "wof:name":"Abstract Painting & Decorating Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.8675,
+    41.274799,
+    -95.8675,
+    41.274799
+],
+  "geometry": {"coordinates":[-95.86750000000001,41.274799],"type":"Point"}
+}

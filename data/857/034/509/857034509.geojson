@@ -1,0 +1,73 @@
+{
+  "id": 857034509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.670447,41.180378,-95.670447,41.180378",
+    "geom:latitude":41.180378,
+    "geom:longitude":-95.670447,
+    "iso:country":"US",
+    "sg:address":"11342 270th St",
+    "sg:city":"Silver City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 526 2217",
+    "sg:postcode":"51571",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uQVO0x52G0dElxNDwMocm_41.180378_-95.670447@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113852,
+    "wof:geomhash":"4210e661074b401bda5813c785e73fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857034509
+        }
+    ],
+    "wof:id":857034509,
+    "wof:lastmodified":1464113852,
+    "wof:name":"Paul Hessel",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.670447,
+    41.180378,
+    -95.670447,
+    41.180378
+],
+  "geometry": {"coordinates":[-95.670447,41.180378],"type":"Point"}
+}

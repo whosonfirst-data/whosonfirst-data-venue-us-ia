@@ -1,0 +1,75 @@
+{
+  "id": 857003451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.380195,42.482627,-96.380195,42.482627",
+    "geom:latitude":42.482627,
+    "geom:longitude":-96.380195,
+    "iso:country":"US",
+    "sg:address":"500 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1550",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QsVB0Co0wvymPMqOdrWlF_42.482627_-96.380195@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112505,
+    "wof:geomhash":"5a9a7f429f196985a786b843490c8b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857003451
+        }
+    ],
+    "wof:id":857003451,
+    "wof:lastmodified":1464112505,
+    "wof:name":"Dave's Autos",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.380195,
+    42.482627,
+    -96.380195,
+    42.482627
+],
+  "geometry": {"coordinates":[-96.380195,42.482627],"type":"Point"}
+}

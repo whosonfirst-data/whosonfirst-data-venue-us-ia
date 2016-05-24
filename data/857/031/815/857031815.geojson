@@ -1,0 +1,73 @@
+{
+  "id": 857031815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616124,42.027377,-91.616124,42.027377",
+    "geom:latitude":42.027377,
+    "geom:longitude":-91.616124,
+    "iso:country":"US",
+    "sg:address":"3301 Armar Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 861 4000",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05TWbwb5KwRskDyGbgBKnV_42.027377_-91.616124@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113736,
+    "wof:geomhash":"5bbcfca433f03ac876e0a3c941822dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857031815
+        }
+    ],
+    "wof:id":857031815,
+    "wof:lastmodified":1464113736,
+    "wof:name":"US Cellular",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -91.616124,
+    42.027377,
+    -91.616124,
+    42.027377
+],
+  "geometry": {"coordinates":[-91.616124,42.027377],"type":"Point"}
+}

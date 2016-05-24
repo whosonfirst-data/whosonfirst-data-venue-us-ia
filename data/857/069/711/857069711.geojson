@@ -1,0 +1,81 @@
+{
+  "id": 857069711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.626404,41.976601,-91.626404,41.976601",
+    "geom:latitude":41.976601,
+    "geom:longitude":-91.626404,
+    "iso:country":"US",
+    "sg:address":"902 28th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2190",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "interior",
+        "design",
+        "store"
+    ],
+    "sg:website":"www.larryrobertsinteriors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0He1Sh15hRMoNEChYFtP66_41.976601_-91.626404@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115317,
+    "wof:geomhash":"19f28876a7bd8b44e50024903b60821d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069711
+        }
+    ],
+    "wof:id":857069711,
+    "wof:lastmodified":1464115317,
+    "wof:name":"Larry Roberts Interiors",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.626404,
+    41.976601,
+    -91.626404,
+    41.976601
+],
+  "geometry": {"coordinates":[-91.62640399999999,41.976601],"type":"Point"}
+}

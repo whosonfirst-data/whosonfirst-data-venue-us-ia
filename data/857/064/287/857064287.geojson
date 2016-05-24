@@ -1,0 +1,71 @@
+{
+  "id": 857064287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918043,41.284136,-95.918043,41.284136",
+    "geom:latitude":41.284136,
+    "geom:longitude":-95.918043,
+    "iso:country":"US",
+    "sg:address":"2810 N 9th St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6546",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KjE5rBY5YJ5N04kGh5UKc_41.284136_-95.918043@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115072,
+    "wof:geomhash":"ae2adda326538e2b792cd35e32d1a40b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064287
+        }
+    ],
+    "wof:id":857064287,
+    "wof:lastmodified":1464115072,
+    "wof:name":"Carter Lake Hardware & Variety",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -95.918043,
+    41.284136,
+    -95.918043,
+    41.284136
+],
+  "geometry": {"coordinates":[-95.918043,41.284136],"type":"Point"}
+}

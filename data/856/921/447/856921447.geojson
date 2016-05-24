@@ -1,0 +1,71 @@
+{
+  "id": 856921447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.749219,41.963918,-91.749219,41.963918",
+    "geom:latitude":41.963918,
+    "geom:longitude":-91.749219,
+    "iso:country":"US",
+    "sg:address":"5907 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0993",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gEJd3YcFgPyhasBqeJAao_41.963918_-91.749219@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108891,
+    "wof:geomhash":"bfa4b9edb734390e902f7eb32e4abdf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856921447
+        }
+    ],
+    "wof:id":856921447,
+    "wof:lastmodified":1464108891,
+    "wof:name":"Precision Performance",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -91.749219,
+    41.963918,
+    -91.749219,
+    41.963918
+],
+  "geometry": {"coordinates":[-91.749219,41.963918],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856902315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.843235,41.279501,-95.843235,41.279501",
+    "geom:latitude":41.279501,
+    "geom:longitude":-95.843235,
+    "iso:country":"US",
+    "sg:address":"1210 Jim Brown Pkwy",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7144",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74TlvbI6kOKmR3SNNIv6uY_41.279501_-95.843235@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108135,
+    "wof:geomhash":"7a5e032af8023c797a6d73866ea4a62a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856902315
+        }
+    ],
+    "wof:id":856902315,
+    "wof:lastmodified":1464108135,
+    "wof:name":"Seidler Trucking",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.843235,
+    41.279501,
+    -95.843235,
+    41.279501
+],
+  "geometry": {"coordinates":[-95.84323500000001,41.279501],"type":"Point"}
+}

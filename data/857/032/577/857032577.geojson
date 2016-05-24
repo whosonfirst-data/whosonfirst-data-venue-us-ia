@@ -1,0 +1,88 @@
+{
+  "id": 857032577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.398091,42.495343,-96.398091,42.495343",
+    "geom:latitude":42.495343,
+    "geom:longitude":-96.398091,
+    "iso:country":"US",
+    "sg:address":"919 5th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 3472",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "rebuilding",
+        "used",
+        "battery",
+        "p",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JmZA8x0MsnQNutTNqf2sm_42.495343_-96.398091@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113764,
+    "wof:geomhash":"281ec2c91b8f6f0e1e384e4329e90fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857032577
+        }
+    ],
+    "wof:id":857032577,
+    "wof:lastmodified":1464113764,
+    "wof:name":"Kar Life Battery Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "rebuilding",
+        "used",
+        "battery",
+        "p",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.398091,
+    42.495343,
+    -96.398091,
+    42.495343
+],
+  "geometry": {"coordinates":[-96.39809099999999,42.495343],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857071165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716103,41.974701,-91.716103,41.974701",
+    "geom:latitude":41.974701,
+    "geom:longitude":-91.716103,
+    "iso:country":"US",
+    "sg:address":"327 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3040",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JoNqv67wCJIbPRTAHjkq1_41.974701_-91.716103@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115381,
+    "wof:geomhash":"e52d1e5af1aa6c36f87cd2af020cd2a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071165
+        }
+    ],
+    "wof:id":857071165,
+    "wof:lastmodified":1464115381,
+    "wof:name":"Edgewood 5 Seasons Car Wash",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.716103,
+    41.974701,
+    -91.716103,
+    41.974701
+],
+  "geometry": {"coordinates":[-91.716103,41.974701],"type":"Point"}
+}

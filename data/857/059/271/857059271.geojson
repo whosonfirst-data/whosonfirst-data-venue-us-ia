@@ -1,0 +1,74 @@
+{
+  "id": 857059271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540153,41.649005,-91.540153,41.649005",
+    "geom:latitude":41.649005,
+    "geom:longitude":-91.540153,
+    "iso:country":"US",
+    "sg:address":"965 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/105570-pancheros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 887 2600",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RVAU1weBaUr1cPdseE8hL_41.649005_-91.540153@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114872,
+    "wof:geomhash":"a6f7af6d34bb012b37c44482f9e511ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857059271
+        }
+    ],
+    "wof:id":857059271,
+    "wof:lastmodified":1464114872,
+    "wof:name":"Panchero's",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.540153,
+    41.649005,
+    -91.540153,
+    41.649005
+],
+  "geometry": {"coordinates":[-91.540153,41.649005],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857059093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682691,42.046996,-91.682691,42.046996",
+    "geom:latitude":42.046996,
+    "geom:longitude":-91.682691,
+    "iso:country":"US",
+    "sg:address":"1005 N Center Point Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/monroe/182785-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 743 0700",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tXV3i3mQiWeTfU2aMSvqZ_42.046996_-91.682691@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114866,
+    "wof:geomhash":"a5c9ab4bfaf82ac6277bcba5c869a5ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857059093
+        }
+    ],
+    "wof:id":857059093,
+    "wof:lastmodified":1464114866,
+    "wof:name":"Culver's",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.682691,
+    42.046996,
+    -91.682691,
+    42.046996
+],
+  "geometry": {"coordinates":[-91.68269100000001,42.046996],"type":"Point"}
+}

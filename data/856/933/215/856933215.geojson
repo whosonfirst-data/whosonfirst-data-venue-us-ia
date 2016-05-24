@@ -1,0 +1,66 @@
+{
+  "id": 856933215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.86668,42.388193,-95.86668,42.388193",
+    "geom:latitude":42.388193,
+    "geom:longitude":-95.86668,
+    "iso:country":"US",
+    "sg:address":"120 E Main St",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 5644",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EPi3AhCqU7b6bdtNouj6y_42.388193_-95.866680@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109365,
+    "wof:geomhash":"bc5b98c79ccec16e6a986b5bc3bae464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856933215
+        }
+    ],
+    "wof:id":856933215,
+    "wof:lastmodified":1464109365,
+    "wof:name":"Shoppe",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.86668,
+    42.388193,
+    -95.86668,
+    42.388193
+],
+  "geometry": {"coordinates":[-95.86668,42.388193],"type":"Point"}
+}

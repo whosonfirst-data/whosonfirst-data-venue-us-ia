@@ -1,0 +1,71 @@
+{
+  "id": 857069761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633142,42.002061,-91.633142,42.002061",
+    "geom:latitude":42.002061,
+    "geom:longitude":-91.633142,
+    "iso:country":"US",
+    "sg:address":"211 26th Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5335",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22TiDm7smJqQDsOAjdPgMb_42.002061_-91.633142@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115319,
+    "wof:geomhash":"8c1f4084669c4341c6cac41b317d4e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069761
+        }
+    ],
+    "wof:id":857069761,
+    "wof:lastmodified":1464115319,
+    "wof:name":"Cozy Home Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.633142,
+    42.002061,
+    -91.633142,
+    42.002061
+],
+  "geometry": {"coordinates":[-91.63314200000001,42.002061],"type":"Point"}
+}

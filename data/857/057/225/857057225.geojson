@@ -1,0 +1,74 @@
+{
+  "id": 857057225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558322,41.357254,-93.558322,41.357254",
+    "geom:latitude":41.357254,
+    "geom:longitude":-93.558322,
+    "iso:country":"US",
+    "sg:address":"400 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/124441-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 7900",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nmqCQY7OdQ1eSVXiaVUkt_41.357254_-93.558322@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114797,
+    "wof:geomhash":"1930bcdc6b2a49158ebd03ee305a1de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857057225
+        }
+    ],
+    "wof:id":857057225,
+    "wof:lastmodified":1464114797,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.558322,
+    41.357254,
+    -93.558322,
+    41.357254
+],
+  "geometry": {"coordinates":[-93.558322,41.357254],"type":"Point"}
+}

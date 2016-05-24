@@ -1,0 +1,66 @@
+{
+  "id": 856801347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.780915,42.286759,-91.780915,42.286759",
+    "geom:latitude":42.286759,
+    "geom:longitude":-91.780915,
+    "iso:country":"US",
+    "sg:address":"204 Greene St",
+    "sg:city":"Walker",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 448 9926",
+    "sg:postcode":"52352",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WWFy7zGOHrqUdFWIxXB5q_42.286759_-91.780915@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103247,
+    "wof:geomhash":"8f6a2a3f7b1ab4e6852586dbb1cd0ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856801347
+        }
+    ],
+    "wof:id":856801347,
+    "wof:lastmodified":1464103247,
+    "wof:name":"Jake's Steaks",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.780915,
+    42.286759,
+    -91.780915,
+    42.286759
+],
+  "geometry": {"coordinates":[-91.78091499999999,42.286759],"type":"Point"}
+}

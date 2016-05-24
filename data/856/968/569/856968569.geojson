@@ -1,0 +1,71 @@
+{
+  "id": 856968569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.28136,42.344588,-96.28136,42.344588",
+    "geom:latitude":42.344588,
+    "geom:longitude":-96.28136,
+    "iso:country":"US",
+    "sg:address":"2489 Carroll Ave",
+    "sg:city":"Salix",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 946 7188",
+    "sg:postcode":"51052",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p9KiFpkS3yHh92hp6Zqh6_42.344588_-96.281360@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110892,
+    "wof:geomhash":"3f1368ebd93dd687f750c816b890ca2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856968569
+        }
+    ],
+    "wof:id":856968569,
+    "wof:lastmodified":1464110892,
+    "wof:name":"Van Auken Landscaping",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.28136,
+    42.344588,
+    -96.28136,
+    42.344588
+],
+  "geometry": {"coordinates":[-96.28136000000001,42.344588],"type":"Point"}
+}

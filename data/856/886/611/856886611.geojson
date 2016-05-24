@@ -1,0 +1,73 @@
+{
+  "id": 856886611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.366476,42.541678,-96.366476,42.541678",
+    "geom:latitude":42.541678,
+    "geom:longitude":-96.366476,
+    "iso:country":"US",
+    "sg:address":"4137 Monroe St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 4882",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WxXXkpRyWV38lMQYyai2Q_42.541678_-96.366476@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107541,
+    "wof:geomhash":"74f8664b9da5d1c749b2b3011bac8f59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856886611
+        }
+    ],
+    "wof:id":856886611,
+    "wof:lastmodified":1464107541,
+    "wof:name":"East Acres Oil Co",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.366476,
+    42.541678,
+    -96.366476,
+    42.541678
+],
+  "geometry": {"coordinates":[-96.36647600000001,42.541678],"type":"Point"}
+}

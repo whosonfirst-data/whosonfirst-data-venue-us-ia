@@ -1,0 +1,73 @@
+{
+  "id": 856803437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851542,41.201367,-95.851542,41.201367",
+    "geom:latitude":41.201367,
+    "geom:longitude":-95.851542,
+    "iso:country":"US",
+    "sg:address":"67 Lakewood Villa St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 1858",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GzlxCTXVwgm9c45ep0fhg_41.201367_-95.851542@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103339,
+    "wof:geomhash":"4bcb818d6844ed5e1f625896e3fbe654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856803437
+        }
+    ],
+    "wof:id":856803437,
+    "wof:lastmodified":1464103339,
+    "wof:name":"Lakewood Electric LLC",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.851542,
+    41.201367,
+    -95.851542,
+    41.201367
+],
+  "geometry": {"coordinates":[-95.85154199999999,41.201367],"type":"Point"}
+}

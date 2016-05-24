@@ -1,0 +1,73 @@
+{
+  "id": 856915455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530293,41.554218,-91.530293,41.554218",
+    "geom:latitude":41.554218,
+    "geom:longitude":-91.530293,
+    "iso:country":"US",
+    "sg:address":"601 Main St",
+    "sg:city":"Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 679 3389",
+    "sg:postcode":"52327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CMOzvsC5suwh9tKxboTjf_41.554218_-91.530293@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108639,
+    "wof:geomhash":"cd73b0ac408879bafb0fbe8ce032f8c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856915455
+        }
+    ],
+    "wof:id":856915455,
+    "wof:lastmodified":1464108639,
+    "wof:name":"Caren's Canine Creations",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.530293,
+    41.554218,
+    -91.530293,
+    41.554218
+],
+  "geometry": {"coordinates":[-91.530293,41.554218],"type":"Point"}
+}

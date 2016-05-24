@@ -1,0 +1,75 @@
+{
+  "id": 856780009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.755757,41.608794,-93.755757,41.608794",
+    "geom:latitude":41.608794,
+    "geom:longitude":-93.755757,
+    "iso:country":"US",
+    "sg:address":"2150 NW 100th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 309 5363",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vJ3JZdFqg40JkNazGGV01_41.608794_-93.755757@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102442,
+    "wof:geomhash":"6b370508f93670ada005ae0c3a73c103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896343,
+            "region_id":85688713,
+            "venue_id":856780009
+        }
+    ],
+    "wof:id":856780009,
+    "wof:lastmodified":1464102442,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85896343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -93.755757,
+    41.608794,
+    -93.755757,
+    41.608794
+],
+  "geometry": {"coordinates":[-93.755757,41.608794],"type":"Point"}
+}

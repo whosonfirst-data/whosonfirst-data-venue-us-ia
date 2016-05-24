@@ -1,0 +1,73 @@
+{
+  "id": 856860689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.018645,41.617179,-94.018645,41.617179",
+    "geom:latitude":41.617179,
+    "geom:longitude":-94.018645,
+    "iso:country":"US",
+    "sg:address":"809 Main St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3212",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cR9b53jNLrmjUrh8cAJBx_41.617179_-94.018645@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106026,
+    "wof:geomhash":"dfc5a807faa318b0bb1b280eca4ac61e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856860689
+        }
+    ],
+    "wof:id":856860689,
+    "wof:lastmodified":1464106026,
+    "wof:name":"Adel Auto Supply Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.018645,
+    41.617179,
+    -94.018645,
+    41.617179
+],
+  "geometry": {"coordinates":[-94.01864500000001,41.617179],"type":"Point"}
+}

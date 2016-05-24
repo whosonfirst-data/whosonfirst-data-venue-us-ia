@@ -1,0 +1,75 @@
+{
+  "id": 856887649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.629802,41.513739,-93.629802,41.513739",
+    "geom:latitude":41.513739,
+    "geom:longitude":-93.629802,
+    "iso:country":"US",
+    "sg:address":"7807 SW 11th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 971 6242",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NeaJ1XKoj25JTEOpZaYoJ_41.513739_-93.629802@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107588,
+    "wof:geomhash":"9bcd6b5ac48aa1a35fca3feebac232a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896419,
+            "region_id":85688713,
+            "venue_id":856887649
+        }
+    ],
+    "wof:id":856887649,
+    "wof:lastmodified":1464107588,
+    "wof:name":"Auto Clinic",
+    "wof:parent_id":85896419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.629802,
+    41.513739,
+    -93.629802,
+    41.513739
+],
+  "geometry": {"coordinates":[-93.629802,41.513739],"type":"Point"}
+}

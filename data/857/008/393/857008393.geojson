@@ -1,0 +1,71 @@
+{
+  "id": 857008393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629721,41.952195,-91.629721,41.952195",
+    "geom:latitude":41.952195,
+    "geom:longitude":-91.629721,
+    "iso:country":"US",
+    "sg:address":"2519 24th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9943",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JkZE6fC61suU2MB3O529R_41.952195_-91.629721@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112715,
+    "wof:geomhash":"870fd3d23b0cb79259d6b05e2fbc08c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857008393
+        }
+    ],
+    "wof:id":857008393,
+    "wof:lastmodified":1464112715,
+    "wof:name":"Cheap Hauling",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -91.629721,
+    41.952195,
+    -91.629721,
+    41.952195
+],
+  "geometry": {"coordinates":[-91.629721,41.952195],"type":"Point"}
+}

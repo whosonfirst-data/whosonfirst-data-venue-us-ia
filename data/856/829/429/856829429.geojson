@@ -1,0 +1,68 @@
+{
+  "id": 856829429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.49335,41.658442,-93.49335,41.658442",
+    "geom:latitude":41.658442,
+    "geom:longitude":-93.49335,
+    "iso:country":"US",
+    "sg:address":"2600 Adventureland Dr",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 7384",
+    "sg:postcode":"50009",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944133,
+        102086603,
+        85896311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fvGQxHdKWbghhlCE8X6V8_41.658442_-93.493350@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104493,
+    "wof:geomhash":"f7689d7c999d8fe853996b714ed69736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944133,
+            "neighbourhood_id":85896311,
+            "region_id":85688713,
+            "venue_id":856829429
+        }
+    ],
+    "wof:id":856829429,
+    "wof:lastmodified":1464104493,
+    "wof:name":"Adventureland Campground",
+    "wof:parent_id":85896311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.49335,
+    41.658442,
+    -93.49335,
+    41.658442
+],
+  "geometry": {"coordinates":[-93.49335000000001,41.658442],"type":"Point"}
+}

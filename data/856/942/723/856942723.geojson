@@ -1,0 +1,68 @@
+{
+  "id": 856942723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533039,41.660164,-91.533039,41.660164",
+    "geom:latitude":41.660164,
+    "geom:longitude":-91.533039,
+    "iso:country":"US",
+    "sg:address":"6 S Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 9417",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PbNCyLIvENh1kPKSS6nQ0_41.660164_-91.533039@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109796,
+    "wof:geomhash":"0f08d1f6a430c3252143550cbdc62198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856942723
+        }
+    ],
+    "wof:id":856942723,
+    "wof:lastmodified":1464109796,
+    "wof:name":"Deadwood Tavern",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.533039,
+    41.660164,
+    -91.533039,
+    41.660164
+],
+  "geometry": {"coordinates":[-91.533039,41.660164],"type":"Point"}
+}

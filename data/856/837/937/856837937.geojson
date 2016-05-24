@@ -1,0 +1,73 @@
+{
+  "id": 856837937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634893,42.015736,-91.634893,42.015736",
+    "geom:latitude":42.015736,
+    "geom:longitude":-91.634893,
+    "iso:country":"US",
+    "sg:address":"3619 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 862 1730",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shipping",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CBrR6FpUV7iF1WPmB9Q2b_42.015736_-91.634893@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104911,
+    "wof:geomhash":"686ad30c691adfda6f4e586d8b72b642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856837937
+        }
+    ],
+    "wof:id":856837937,
+    "wof:lastmodified":1464104911,
+    "wof:name":"Mailboxes & Parcel Ctr",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping",
+        "agent"
+    ]
+},
+  "bbox": [
+    -91.634893,
+    42.015736,
+    -91.634893,
+    42.015736
+],
+  "geometry": {"coordinates":[-91.63489300000001,42.015736],"type":"Point"}
+}

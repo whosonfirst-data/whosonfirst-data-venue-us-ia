@@ -1,0 +1,71 @@
+{
+  "id": 856964733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.63195,41.986641,-91.63195,41.986641",
+    "geom:latitude":41.986641,
+    "geom:longitude":-91.63195,
+    "iso:country":"US",
+    "sg:address":"2410 Grande Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2080",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01J5dsotJmls6zyPSZrGvC_41.986641_-91.631950@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110738,
+    "wof:geomhash":"28cd6617ff42524305ef750ed34def84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856964733
+        }
+    ],
+    "wof:id":856964733,
+    "wof:lastmodified":1464110738,
+    "wof:name":"Benwood Consulting Group",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -91.63195,
+    41.986641,
+    -91.63195,
+    41.986641
+],
+  "geometry": {"coordinates":[-91.63195,41.986641],"type":"Point"}
+}

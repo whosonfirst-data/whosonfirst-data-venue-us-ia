@@ -1,0 +1,73 @@
+{
+  "id": 856939809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.035359,41.835634,-94.035359,41.835634",
+    "geom:latitude":41.835634,
+    "geom:longitude":-94.035359,
+    "iso:country":"US",
+    "sg:address":"2282 141st St",
+    "sg:city":"Bouton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 676 2700",
+    "sg:postcode":"50039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "preparation",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WJKGHALgKrUPte8TwC1PF_41.835634_-94.035359@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109665,
+    "wof:geomhash":"0e3a4d5f055f5aae37d317ac1eeb6671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856939809
+        }
+    ],
+    "wof:id":856939809,
+    "wof:lastmodified":1464109665,
+    "wof:name":"Immuno-Dynamics Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    -94.035359,
+    41.835634,
+    -94.035359,
+    41.835634
+],
+  "geometry": {"coordinates":[-94.035359,41.835634],"type":"Point"}
+}

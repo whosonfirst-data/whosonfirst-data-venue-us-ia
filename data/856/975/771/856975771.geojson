@@ -1,0 +1,73 @@
+{
+  "id": 856975771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560806,41.60553,-91.560806,41.60553",
+    "geom:latitude":41.60553,
+    "geom:longitude":-91.560806,
+    "iso:country":"US",
+    "sg:address":"4507 Dane Rd SW",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 3963",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52MEMUFYqHRPdGJ7mSbx4q_41.605530_-91.560806@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111253,
+    "wof:geomhash":"c4397e732c98d5e407c76f10366df77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856975771
+        }
+    ],
+    "wof:id":856975771,
+    "wof:lastmodified":1464111253,
+    "wof:name":"James Dane",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -91.560806,
+    41.60553,
+    -91.560806,
+    41.60553
+],
+  "geometry": {"coordinates":[-91.560806,41.60553],"type":"Point"}
+}

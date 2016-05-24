@@ -1,0 +1,74 @@
+{
+  "id": 857066321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666093,41.978848,-91.666093,41.978848",
+    "geom:latitude":41.978848,
+    "geom:longitude":-91.666093,
+    "iso:country":"US",
+    "sg:address":"323 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 553 1063",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "provider"
+    ],
+    "sg:website":"www.dishnetwork.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kMpbsKK5xzo1sjQ4OFHoX_41.978848_-91.666093@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115146,
+    "wof:geomhash":"72031fd965c70f5889016cd21c6e78bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066321
+        }
+    ],
+    "wof:id":857066321,
+    "wof:lastmodified":1464115146,
+    "wof:name":"Dish Network",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider"
+    ]
+},
+  "bbox": [
+    -91.666093,
+    41.978848,
+    -91.666093,
+    41.978848
+],
+  "geometry": {"coordinates":[-91.666093,41.978848],"type":"Point"}
+}

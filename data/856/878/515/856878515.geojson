@@ -1,0 +1,71 @@
+{
+  "id": 856878515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.852497,41.259919,-95.852497,41.259919",
+    "geom:latitude":41.259919,
+    "geom:longitude":-95.852497,
+    "iso:country":"US",
+    "sg:address":"611 1st Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5324",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BOMgqN5gPFCts130iWba1_41.259919_-95.852497@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107099,
+    "wof:geomhash":"56f723d9b05e8f9dd7fd48fd7de78a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856878515
+        }
+    ],
+    "wof:id":856878515,
+    "wof:lastmodified":1464107099,
+    "wof:name":"First Congregational Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.852497,
+    41.259919,
+    -95.852497,
+    41.259919
+],
+  "geometry": {"coordinates":[-95.852497,41.259919],"type":"Point"}
+}

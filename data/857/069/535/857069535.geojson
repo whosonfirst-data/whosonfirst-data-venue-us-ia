@@ -1,0 +1,66 @@
+{
+  "id": 857069535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.613503,41.976799,-91.613503,41.976799",
+    "geom:latitude":41.976799,
+    "geom:longitude":-91.613503,
+    "iso:country":"US",
+    "sg:address":"3310 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 6964",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04gB2jfWisTdde4GGG5Toh_41.976799_-91.613503@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115307,
+    "wof:geomhash":"32a415a47a2c9c51024c49401e92af0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069535
+        }
+    ],
+    "wof:id":857069535,
+    "wof:lastmodified":1464115307,
+    "wof:name":"Acme Bagel Company",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.613503,
+    41.976799,
+    -91.613503,
+    41.976799
+],
+  "geometry": {"coordinates":[-91.61350299999999,41.976799],"type":"Point"}
+}

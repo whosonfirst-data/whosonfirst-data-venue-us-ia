@@ -1,0 +1,73 @@
+{
+  "id": 856776341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.556721,42.145122,-91.556721,42.145122",
+    "geom:latitude":42.145122,
+    "geom:longitude":-91.556721,
+    "iso:country":"US",
+    "sg:address":"1993 Turner Rd",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 842 2611",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SXqjwNaGBd6lrH57qTpoa_42.145122_-91.556721@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102353,
+    "wof:geomhash":"2a0e6478c010994690de78e8a1ba8bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856776341
+        }
+    ],
+    "wof:id":856776341,
+    "wof:lastmodified":1464102353,
+    "wof:name":"Gary Barns",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.556721,
+    42.145122,
+    -91.556721,
+    42.145122
+],
+  "geometry": {"coordinates":[-91.556721,42.145122],"type":"Point"}
+}

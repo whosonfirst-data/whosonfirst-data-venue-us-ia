@@ -1,0 +1,71 @@
+{
+  "id": 856984179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.719044,41.986296,-91.719044,41.986296",
+    "geom:latitude":41.986296,
+    "geom:longitude":-91.719044,
+    "iso:country":"US",
+    "sg:address":"1312 Andrew Ct",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 265 8558",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fft3ItPHIwr6wCva5eEtB_41.986296_-91.719044@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111693,
+    "wof:geomhash":"5ab3d050129a0ffa82f2b5b9eb3f7e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856984179
+        }
+    ],
+    "wof:id":856984179,
+    "wof:lastmodified":1464111693,
+    "wof:name":"Dawg Pound Consultants Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.719044,
+    41.986296,
+    -91.719044,
+    41.986296
+],
+  "geometry": {"coordinates":[-91.719044,41.986296],"type":"Point"}
+}

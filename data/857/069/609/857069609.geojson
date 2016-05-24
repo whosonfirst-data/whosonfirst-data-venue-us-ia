@@ -1,0 +1,67 @@
+{
+  "id": 857069609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618639,42.025751,-91.618639,42.025751",
+    "geom:latitude":42.025751,
+    "geom:longitude":-91.618639,
+    "iso:country":"US",
+    "sg:address":"4700 Tama St SE Ste 400",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7000",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:website":"www.studio-404.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NdJcGSoBPMo7mhuPQtSRX_42.025751_-91.618639@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115309,
+    "wof:geomhash":"2fc5e299976c9126a80d0730b747de5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069609
+        }
+    ],
+    "wof:id":857069609,
+    "wof:lastmodified":1464115309,
+    "wof:name":"Studio 404",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.618639,
+    42.025751,
+    -91.618639,
+    42.025751
+],
+  "geometry": {"coordinates":[-91.618639,42.025751],"type":"Point"}
+}

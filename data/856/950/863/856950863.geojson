@@ -1,0 +1,73 @@
+{
+  "id": 856950863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.953382,41.532207,-93.953382,41.532207",
+    "geom:latitude":41.532207,
+    "geom:longitude":-93.953382,
+    "iso:country":"US",
+    "sg:address":"605 Main St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 2647",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VD14LeisiJ8cGvC2e8Vyz_41.532207_-93.953382@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110118,
+    "wof:geomhash":"bede75dffa43c0165171b345cce7fc8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856950863
+        }
+    ],
+    "wof:id":856950863,
+    "wof:lastmodified":1464110118,
+    "wof:name":"Dallas Construction Corp",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -93.953382,
+    41.532207,
+    -93.953382,
+    41.532207
+],
+  "geometry": {"coordinates":[-93.953382,41.532207],"type":"Point"}
+}

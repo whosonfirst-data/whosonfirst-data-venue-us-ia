@@ -1,0 +1,69 @@
+{
+  "id": 856884947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.54242,41.544978,-91.54242,41.544978",
+    "geom:latitude":41.544978,
+    "geom:longitude":-91.54242,
+    "iso:country":"US",
+    "sg:address":"5324 Oakcrest Hill Rd SE",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 679 2656",
+    "sg:postcode":"52327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59FJNt3w6AvEAngw9g85XT_41.544978_-91.542420@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107468,
+    "wof:geomhash":"b5cc0040f7b81c1520809a23b574c48d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856884947
+        }
+    ],
+    "wof:id":856884947,
+    "wof:lastmodified":1464107468,
+    "wof:name":"John Frantz Upholstery",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -91.54242,
+    41.544978,
+    -91.54242,
+    41.544978
+],
+  "geometry": {"coordinates":[-91.54242000000001,41.544978],"type":"Point"}
+}

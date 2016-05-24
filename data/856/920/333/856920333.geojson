@@ -1,0 +1,71 @@
+{
+  "id": 856920333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850159,41.232539,-95.850159,41.232539",
+    "geom:latitude":41.232539,
+    "geom:longitude":-95.850159,
+    "iso:country":"US",
+    "sg:address":"247 29th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4721",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j18pxLbDFdxDquisglMji_41.232539_-95.850159@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108824,
+    "wof:geomhash":"43570819901c211878532e82c85145bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856920333
+        }
+    ],
+    "wof:id":856920333,
+    "wof:lastmodified":1464108824,
+    "wof:name":"Accutran Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.850159,
+    41.232539,
+    -95.850159,
+    41.232539
+],
+  "geometry": {"coordinates":[-95.850159,41.232539],"type":"Point"}
+}

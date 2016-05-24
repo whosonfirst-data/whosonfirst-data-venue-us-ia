@@ -1,0 +1,73 @@
+{
+  "id": 856978265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.885283,41.614898,-93.885283,41.614898",
+    "geom:latitude":41.614898,
+    "geom:longitude":-93.885283,
+    "iso:country":"US",
+    "sg:address":"430 US Hwy 6",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 3850",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o0Pg2PYYWOurkonw9UrzO_41.614898_-93.885283@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111382,
+    "wof:geomhash":"b69b6d6b58b9f93eb082cbcfd331916e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856978265
+        }
+    ],
+    "wof:id":856978265,
+    "wof:lastmodified":1464111382,
+    "wof:name":"Auto Image",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.885283,
+    41.614898,
+    -93.885283,
+    41.614898
+],
+  "geometry": {"coordinates":[-93.885283,41.614898],"type":"Point"}
+}

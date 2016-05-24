@@ -1,0 +1,73 @@
+{
+  "id": 856785323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917941,41.284832,-95.917941,41.284832",
+    "geom:latitude":41.284832,
+    "geom:longitude":-95.917941,
+    "iso:country":"US",
+    "sg:address":"2813 N 9th St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6351",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CtfIorKeHaImYb2zUCBJC_41.284832_-95.917941@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102588,
+    "wof:geomhash":"e90254c84f43586ae7d7fa63f628c219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856785323
+        }
+    ],
+    "wof:id":856785323,
+    "wof:lastmodified":1464102588,
+    "wof:name":"Lakeside Auto Parts",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -95.917941,
+    41.284832,
+    -95.917941,
+    41.284832
+],
+  "geometry": {"coordinates":[-95.917941,41.284832],"type":"Point"}
+}

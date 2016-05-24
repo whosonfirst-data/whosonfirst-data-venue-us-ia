@@ -1,0 +1,85 @@
+{
+  "id": 857074063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.636684,41.503441,-90.636684,41.503441",
+    "geom:latitude":41.503441,
+    "geom:longitude":-90.636684,
+    "iso:country":"US",
+    "sg:address":"3908 W River Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 3800",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g2L3pAu9FFUrrPK5sAxzU_41.503441_-90.636684@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115524,
+    "wof:geomhash":"e429ca748521963ac2ed8de6dd156ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857074063
+        }
+    ],
+    "wof:id":857074063,
+    "wof:lastmodified":1464115524,
+    "wof:name":"Westside Christian Daycare & Preschool",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -90.636684,
+    41.503441,
+    -90.636684,
+    41.503441
+],
+  "geometry": {"coordinates":[-90.636684,41.503441],"type":"Point"}
+}

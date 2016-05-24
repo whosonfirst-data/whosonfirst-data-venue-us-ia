@@ -1,0 +1,73 @@
+{
+  "id": 856789401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.58618,41.613488,-91.58618,41.613488",
+    "geom:latitude":41.613488,
+    "geom:longitude":-91.58618,
+    "iso:country":"US",
+    "sg:address":"3501 Osage St SW",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 2238",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23BpYhceC5xzdiDJallKor_41.613488_-91.586180@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102758,
+    "wof:geomhash":"de4f5ea66c4140366f715f8ca4314e20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856789401
+        }
+    ],
+    "wof:id":856789401,
+    "wof:lastmodified":1464102758,
+    "wof:name":"Greg Downes",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -91.58618,
+    41.613488,
+    -91.58618,
+    41.613488
+],
+  "geometry": {"coordinates":[-91.58618,41.613488],"type":"Point"}
+}

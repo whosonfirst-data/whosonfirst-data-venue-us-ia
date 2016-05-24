@@ -1,0 +1,73 @@
+{
+  "id": 856938907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.223666,41.478196,-95.223666,41.478196",
+    "geom:latitude":41.478196,
+    "geom:longitude":-95.223666,
+    "iso:country":"US",
+    "sg:address":"310 Atlantic St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 4200",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ssBXvFFbVWe8OAVEJpCpp_41.478196_-95.223666@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109625,
+    "wof:geomhash":"212c59e18ac8926e1ea8c0b1e486f441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856938907
+        }
+    ],
+    "wof:id":856938907,
+    "wof:lastmodified":1464109625,
+    "wof:name":"Concept Machine & Tool Sales",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.223666,
+    41.478196,
+    -95.223666,
+    41.478196
+],
+  "geometry": {"coordinates":[-95.22366599999999,41.478196],"type":"Point"}
+}

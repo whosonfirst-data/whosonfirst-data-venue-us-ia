@@ -1,0 +1,73 @@
+{
+  "id": 856772585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535129,41.949959,-91.535129,41.949959",
+    "geom:latitude":41.949959,
+    "geom:longitude":-91.535129,
+    "iso:country":"US",
+    "sg:address":"1234 2nd St",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5059",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DoDvwidmeK55Sij58qNyY_41.949959_-91.535129@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102268,
+    "wof:geomhash":"37025a4b0a60a4da910058a7a4e5b0c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856772585
+        }
+    ],
+    "wof:id":856772585,
+    "wof:lastmodified":1464102268,
+    "wof:name":"Darwin Harmening",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.535129,
+    41.949959,
+    -91.535129,
+    41.949959
+],
+  "geometry": {"coordinates":[-91.535129,41.949959],"type":"Point"}
+}

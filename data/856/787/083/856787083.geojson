@@ -1,0 +1,75 @@
+{
+  "id": 856787083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.628523,41.565785,-93.628523,41.565785",
+    "geom:latitude":41.565785,
+    "geom:longitude":-93.628523,
+    "iso:country":"US",
+    "sg:address":"1048 Davis Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 7254",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rk3VIr0IBckrtfB4FzoRs_41.565785_-93.628523@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102663,
+    "wof:geomhash":"f80f8883c7150177284df804b377e65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896401,
+            "region_id":85688713,
+            "venue_id":856787083
+        }
+    ],
+    "wof:id":856787083,
+    "wof:lastmodified":1464102663,
+    "wof:name":"Southside Music Studio",
+    "wof:parent_id":85896401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -93.628523,
+    41.565785,
+    -93.628523,
+    41.565785
+],
+  "geometry": {"coordinates":[-93.628523,41.565785],"type":"Point"}
+}

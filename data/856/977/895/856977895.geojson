@@ -1,0 +1,73 @@
+{
+  "id": 856977895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625289,41.680546,-93.625289,41.680546",
+    "geom:latitude":41.680546,
+    "geom:longitude":-93.625289,
+    "iso:country":"US",
+    "sg:address":"6633 NW 4th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 2333",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85945067,
+        102086603,
+        85847289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vnypsegI6EgxEZOGp1kZH_41.680546_-93.625289@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111352,
+    "wof:geomhash":"3c53867635b32e795dc74fe9c9531e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85945067,
+            "neighbourhood_id":85847289,
+            "region_id":85688713,
+            "venue_id":856977895
+        }
+    ],
+    "wof:id":856977895,
+    "wof:lastmodified":1464111352,
+    "wof:name":"Sampsons Service & Repair LLC",
+    "wof:parent_id":85847289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.625289,
+    41.680546,
+    -93.625289,
+    41.680546
+],
+  "geometry": {"coordinates":[-93.625289,41.680546],"type":"Point"}
+}

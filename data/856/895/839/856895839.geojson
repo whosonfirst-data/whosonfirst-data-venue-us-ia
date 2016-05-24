@@ -1,0 +1,69 @@
+{
+  "id": 856895839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.561036,41.360451,-93.561036,41.360451",
+    "geom:latitude":41.360451,
+    "geom:longitude":-93.561036,
+    "iso:country":"US",
+    "sg:address":"115 N Howard St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 1084",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MbjIDXtlEfKbG7zV3D5FT_41.360451_-93.561036@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107896,
+    "wof:geomhash":"5c54b6f45f5fdb82e15a943b835035db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856895839
+        }
+    ],
+    "wof:id":856895839,
+    "wof:lastmodified":1464107896,
+    "wof:name":"Warren County Juvenile Court",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -93.561036,
+    41.360451,
+    -93.561036,
+    41.360451
+],
+  "geometry": {"coordinates":[-93.561036,41.360451],"type":"Point"}
+}

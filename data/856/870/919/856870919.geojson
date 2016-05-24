@@ -1,0 +1,75 @@
+{
+  "id": 856870919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71433,42.092998,-91.71433,42.092998",
+    "geom:latitude":42.092998,
+    "geom:longitude":-91.71433,
+    "iso:country":"US",
+    "sg:address":"3573 County Home Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2801",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hPkSzHukSzKmMZtq7gyMD_42.092998_-91.714330@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106651,
+    "wof:geomhash":"b66cd5d63299855807663d37d8233894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856870919
+        }
+    ],
+    "wof:id":856870919,
+    "wof:lastmodified":1464106651,
+    "wof:name":"Classic Remodeling & Constr",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.71433,
+    42.092998,
+    -91.71433,
+    42.092998
+],
+  "geometry": {"coordinates":[-91.71433,42.092998],"type":"Point"}
+}

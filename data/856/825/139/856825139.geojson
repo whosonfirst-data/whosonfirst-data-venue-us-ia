@@ -1,0 +1,68 @@
+{
+  "id": 856825139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.696372,41.660358,-93.696372,41.660358",
+    "geom:latitude":41.660358,
+    "geom:longitude":-93.696372,
+    "iso:country":"US",
+    "sg:address":"5525 NW 55th Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 360 1974",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bhs6oF0duoofqmYqAoGA0_41.660358_-93.696372@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104307,
+    "wof:geomhash":"c77bd6d3bb6386c90124b4a687e7a1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896485,
+            "region_id":85688713,
+            "venue_id":856825139
+        }
+    ],
+    "wof:id":856825139,
+    "wof:lastmodified":1464104307,
+    "wof:name":"King Cleaning",
+    "wof:parent_id":85896485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.696372,
+    41.660358,
+    -93.696372,
+    41.660358
+],
+  "geometry": {"coordinates":[-93.696372,41.660358],"type":"Point"}
+}

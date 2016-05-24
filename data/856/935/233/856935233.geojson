@@ -1,0 +1,75 @@
+{
+  "id": 856935233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666302,41.942492,-91.666302,41.942492",
+    "geom:latitude":41.942492,
+    "geom:longitude":-91.666302,
+    "iso:country":"US",
+    "sg:address":"136 36th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6868",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KEKkUi1euEZIEQYmoXyJS_41.942492_-91.666302@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109439,
+    "wof:geomhash":"040d734e5b90e7f4e808416f74c0a623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856935233
+        }
+    ],
+    "wof:id":856935233,
+    "wof:lastmodified":1464109439,
+    "wof:name":"Silver Pines",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.666302,
+    41.942492,
+    -91.666302,
+    41.942492
+],
+  "geometry": {"coordinates":[-91.666302,41.942492],"type":"Point"}
+}

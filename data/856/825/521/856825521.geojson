@@ -1,0 +1,73 @@
+{
+  "id": 856825521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.475971,42.521066,-96.475971,42.521066",
+    "geom:latitude":42.521066,
+    "geom:longitude":-96.475971,
+    "iso:country":"US",
+    "sg:address":"5216 Military Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 3927",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hqrl8l7zXCYiLb3hHG0NP_42.521066_-96.475971@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104328,
+    "wof:geomhash":"f103cc9588835b26f15224ce7921299e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856825521
+        }
+    ],
+    "wof:id":856825521,
+    "wof:lastmodified":1464104328,
+    "wof:name":"Henrich Brothers Sharpening",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -96.475971,
+    42.521066,
+    -96.475971,
+    42.521066
+],
+  "geometry": {"coordinates":[-96.475971,42.521066],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856788739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.878383,41.261922,-95.878383,41.261922",
+    "geom:latitude":41.261922,
+    "geom:longitude":-95.878383,
+    "iso:country":"US",
+    "sg:address":"2201 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9100",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p5HOMy9B8Lzb1N1LN6du0_41.261922_-95.878383@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102734,
+    "wof:geomhash":"76d63c9b0a7efd6363e0a5e151434b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856788739
+        }
+    ],
+    "wof:id":856788739,
+    "wof:lastmodified":1464102734,
+    "wof:name":"Alegent Health Clinic",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.878383,
+    41.261922,
+    -95.878383,
+    41.261922
+],
+  "geometry": {"coordinates":[-95.878383,41.261922],"type":"Point"}
+}

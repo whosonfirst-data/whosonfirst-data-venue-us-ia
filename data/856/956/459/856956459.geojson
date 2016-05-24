@@ -1,0 +1,74 @@
+{
+  "id": 856956459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56312,41.655533,-91.56312,41.655533",
+    "geom:latitude":41.655533,
+    "geom:longitude":-91.56312,
+    "iso:country":"US",
+    "sg:address":"1300 Melrose Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7523",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.saintandrew-ic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27nGBjfAHOv6y9ZatDAak8_41.655533_-91.563120@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110408,
+    "wof:geomhash":"618debabb266c60f2aa721e25e211f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":856956459
+        }
+    ],
+    "wof:id":856956459,
+    "wof:lastmodified":1464110408,
+    "wof:name":"St Andrew Presbyterian",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.56312,
+    41.655533,
+    -91.56312,
+    41.655533
+],
+  "geometry": {"coordinates":[-91.56312,41.655533],"type":"Point"}
+}

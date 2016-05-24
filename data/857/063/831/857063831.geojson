@@ -1,0 +1,71 @@
+{
+  "id": 857063831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.844316,41.263155,-95.844316,41.263155",
+    "geom:latitude":41.263155,
+    "geom:longitude":-95.844316,
+    "iso:country":"US",
+    "sg:address":"118 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 8442",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bankruptcy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EQMYrQXUi6XkwbQcjYN43_41.263155_-95.844316@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115056,
+    "wof:geomhash":"0b4e30fd5815f873087db8b1a0ef6498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063831
+        }
+    ],
+    "wof:id":857063831,
+    "wof:lastmodified":1464115056,
+    "wof:name":"Blount Thomas Lawyer",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bankruptcy"
+    ]
+},
+  "bbox": [
+    -95.844316,
+    41.263155,
+    -95.844316,
+    41.263155
+],
+  "geometry": {"coordinates":[-95.84431600000001,41.263155],"type":"Point"}
+}

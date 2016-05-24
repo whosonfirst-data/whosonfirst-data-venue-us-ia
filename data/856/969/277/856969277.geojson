@@ -1,0 +1,73 @@
+{
+  "id": 856969277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.605207,41.570997,-93.605207,41.570997",
+    "geom:latitude":41.570997,
+    "geom:longitude":-93.605207,
+    "iso:country":"US",
+    "sg:address":"1919 SE 6th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 7854",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HCqvUEMG0ooDEPYWQFGcG_41.570997_-93.605207@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110936,
+    "wof:geomhash":"f3d95c027a7adf550a88f0676bbcc9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856969277
+        }
+    ],
+    "wof:id":856969277,
+    "wof:lastmodified":1464110936,
+    "wof:name":"Des Moines Fire Station",
+    "wof:parent_id":85896389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.605207,
+    41.570997,
+    -93.605207,
+    41.570997
+],
+  "geometry": {"coordinates":[-93.60520699999999,41.570997],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856948447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.811197,41.279357,-95.811197,41.279357",
+    "geom:latitude":41.279357,
+    "geom:longitude":-95.811197,
+    "iso:country":"US",
+    "sg:address":"2725 E Kanesville Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3600",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lROCY0T5pgV1fbDwqo3Tf_41.279357_-95.811197@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110014,
+    "wof:geomhash":"46d3b99d85c78c39bec767323825caf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856948447
+        }
+    ],
+    "wof:id":856948447,
+    "wof:lastmodified":1464110014,
+    "wof:name":"Sugar's Lounge",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.811197,
+    41.279357,
+    -95.811197,
+    41.279357
+],
+  "geometry": {"coordinates":[-95.81119700000001,41.279357],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856930137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533273,41.652539,-91.533273,41.652539",
+    "geom:latitude":41.652539,
+    "geom:longitude":-91.533273,
+    "iso:country":"US",
+    "sg:address":"727 S Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 4088",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jHN241DBnsgzZLqfmVmLQ_41.652539_-91.533273@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109251,
+    "wof:geomhash":"4ef1d2b52d571254ac4d32634f964449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856930137
+        }
+    ],
+    "wof:id":856930137,
+    "wof:lastmodified":1464109251,
+    "wof:name":"All-Iowa Lock",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -91.533273,
+    41.652539,
+    -91.533273,
+    41.652539
+],
+  "geometry": {"coordinates":[-91.53327299999999,41.652539],"type":"Point"}
+}

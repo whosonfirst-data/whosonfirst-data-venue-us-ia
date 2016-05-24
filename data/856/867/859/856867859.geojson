@@ -1,0 +1,71 @@
+{
+  "id": 856867859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.948535,41.672991,-93.948535,41.672991",
+    "geom:latitude":41.672991,
+    "geom:longitude":-93.948535,
+    "iso:country":"US",
+    "sg:address":"2711 250th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3382",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PTdnuJUnxaJLsRL2ju4wR_41.672991_-93.948535@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106383,
+    "wof:geomhash":"4abdbd523dfeae8231abfef445fe18de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856867859
+        }
+    ],
+    "wof:id":856867859,
+    "wof:lastmodified":1464106383,
+    "wof:name":"Dallas Center City Sewer Dept",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -93.948535,
+    41.672991,
+    -93.948535,
+    41.672991
+],
+  "geometry": {"coordinates":[-93.94853500000001,41.672991],"type":"Point"}
+}

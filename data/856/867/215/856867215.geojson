@@ -1,0 +1,71 @@
+{
+  "id": 856867215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.481861,41.595838,-93.481861,41.595838",
+    "geom:latitude":41.595838,
+    "geom:longitude":-93.481861,
+    "iso:country":"US",
+    "sg:address":"877 NE 64th St",
+    "sg:city":"Pleasant Hill",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 2265",
+    "sg:postcode":"50327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944151,
+        102086603,
+        85844693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KEEltRoA5fT5i98eOiS1s_41.595838_-93.481861@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106324,
+    "wof:geomhash":"e83fc5a5672331245bcaecb6d4b0af67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944151,
+            "neighbourhood_id":85844693,
+            "region_id":85688713,
+            "venue_id":856867215
+        }
+    ],
+    "wof:id":856867215,
+    "wof:lastmodified":1464106324,
+    "wof:name":"Grace Community Church",
+    "wof:parent_id":85844693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.481861,
+    41.595838,
+    -93.481861,
+    41.595838
+],
+  "geometry": {"coordinates":[-93.48186099999999,41.595838],"type":"Point"}
+}

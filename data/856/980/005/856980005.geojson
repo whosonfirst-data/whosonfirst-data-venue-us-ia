@@ -1,0 +1,73 @@
+{
+  "id": 856980005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.745379,41.963941,-91.745379,41.963941",
+    "geom:latitude":41.963941,
+    "geom:longitude":-91.745379,
+    "iso:country":"US",
+    "sg:address":"5400 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2706",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13EDlcsBES6MOeiaVdfl2N_41.963941_-91.745379@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111459,
+    "wof:geomhash":"8c782ba416872ea880e1737bf1d3d794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856980005
+        }
+    ],
+    "wof:id":856980005,
+    "wof:lastmodified":1464111459,
+    "wof:name":"Fire Marshall Ofc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "protection"
+    ]
+},
+  "bbox": [
+    -91.745379,
+    41.963941,
+    -91.745379,
+    41.963941
+],
+  "geometry": {"coordinates":[-91.745379,41.963941],"type":"Point"}
+}

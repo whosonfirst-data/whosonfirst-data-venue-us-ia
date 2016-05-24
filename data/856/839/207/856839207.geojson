@@ -1,0 +1,71 @@
+{
+  "id": 856839207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.636515,42.013379,-91.636515,42.013379",
+    "geom:latitude":42.013379,
+    "geom:longitude":-91.636515,
+    "iso:country":"US",
+    "sg:address":"327 35th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0281",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bHk99nzHVLwZ0UDkx6JKQ_42.013379_-91.636515@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104976,
+    "wof:geomhash":"035b17d167b263edecb49d6638b8914f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856839207
+        }
+    ],
+    "wof:id":856839207,
+    "wof:lastmodified":1464104976,
+    "wof:name":"Kenwood Park Presbyterian Chr",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.636515,
+    42.013379,
+    -91.636515,
+    42.013379
+],
+  "geometry": {"coordinates":[-91.636515,42.013379],"type":"Point"}
+}

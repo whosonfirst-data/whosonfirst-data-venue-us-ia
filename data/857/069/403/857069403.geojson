@@ -1,0 +1,71 @@
+{
+  "id": 857069403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6351,42.014674,-91.6351,42.014674",
+    "geom:latitude":42.014674,
+    "geom:longitude":-91.6351,
+    "iso:country":"US",
+    "sg:address":"3600 1st Ave NE Ste 100",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 9447",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "investing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28owbYvv8PfPZVCnw9CDny_42.014674_-91.635100@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115302,
+    "wof:geomhash":"be95fc0f2c3f12e97537cfc7403f8201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069403
+        }
+    ],
+    "wof:id":857069403,
+    "wof:lastmodified":1464115302,
+    "wof:name":"Financial Planning Services",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investing"
+    ]
+},
+  "bbox": [
+    -91.6351,
+    42.014674,
+    -91.6351,
+    42.014674
+],
+  "geometry": {"coordinates":[-91.63509999999999,42.014674],"type":"Point"}
+}

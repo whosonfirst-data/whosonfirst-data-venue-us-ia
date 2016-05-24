@@ -1,0 +1,66 @@
+{
+  "id": 856775717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.839966,41.265709,-95.839966,41.265709",
+    "geom:latitude":41.265709,
+    "geom:longitude":-95.839966,
+    "iso:country":"US",
+    "sg:address":"535 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 0901",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e96dO5bk9T0cUdDrCobnE_41.265709_-95.839966@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102340,
+    "wof:geomhash":"6c5b081a57b91c7c83c396d52343b422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856775717
+        }
+    ],
+    "wof:id":856775717,
+    "wof:lastmodified":1464102340,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.839966,
+    41.265709,
+    -95.839966,
+    41.265709
+],
+  "geometry": {"coordinates":[-95.839966,41.265709],"type":"Point"}
+}

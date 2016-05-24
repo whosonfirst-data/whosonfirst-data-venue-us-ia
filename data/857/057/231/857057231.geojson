@@ -1,0 +1,71 @@
+{
+  "id": 857057231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558426,41.371467,-93.558426,41.371467",
+    "geom:latitude":41.371467,
+    "geom:longitude":-93.558426,
+    "iso:country":"US",
+    "sg:address":"1207 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/202705-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2trQDThucl0ipmHxZmig9l_41.371467_-93.558426@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114797,
+    "wof:geomhash":"c950194d8e557f63cebaaf7fee234f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857057231
+        }
+    ],
+    "wof:id":857057231,
+    "wof:lastmodified":1464114797,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.558426,
+    41.371467,
+    -93.558426,
+    41.371467
+],
+  "geometry": {"coordinates":[-93.558426,41.371467],"type":"Point"}
+}

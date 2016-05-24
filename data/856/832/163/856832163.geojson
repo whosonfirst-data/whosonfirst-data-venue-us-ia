@@ -1,0 +1,75 @@
+{
+  "id": 856832163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.06934,42.269307,-96.06934,42.269307",
+    "geom:latitude":42.269307,
+    "geom:longitude":-96.06934,
+    "iso:country":"US",
+    "sg:address":"2737 Old Hwy 141",
+    "sg:city":"Hornick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 874 3308",
+    "sg:postcode":"51026",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gJRUsLDlmMkYnH7ZZKtAv_42.269307_-96.069340@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104612,
+    "wof:geomhash":"992a78e79d4e2659bc46df55ba2f24d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856832163
+        }
+    ],
+    "wof:id":856832163,
+    "wof:lastmodified":1464104612,
+    "wof:name":"Fred Carr Trucking Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.06934,
+    42.269307,
+    -96.06934,
+    42.269307
+],
+  "geometry": {"coordinates":[-96.06934,42.269307],"type":"Point"}
+}

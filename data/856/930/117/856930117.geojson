@@ -1,0 +1,71 @@
+{
+  "id": 856930117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740469,41.963638,-91.740469,41.963638",
+    "geom:latitude":41.963638,
+    "geom:longitude":-91.740469,
+    "iso:country":"US",
+    "sg:address":"1820 W Post Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4634",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ve9A9jrvLg6Se5Tc5WPRj_41.963638_-91.740469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109250,
+    "wof:geomhash":"3e0ab2663af1bb7df55b2946eb69634a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856930117
+        }
+    ],
+    "wof:id":856930117,
+    "wof:lastmodified":1464109250,
+    "wof:name":"Loyal Order Of Moose",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -91.740469,
+    41.963638,
+    -91.740469,
+    41.963638
+],
+  "geometry": {"coordinates":[-91.740469,41.963638],"type":"Point"}
+}

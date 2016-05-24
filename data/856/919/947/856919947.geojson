@@ -1,0 +1,75 @@
+{
+  "id": 856919947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.639543,41.499412,-90.639543,41.499412",
+    "geom:latitude":41.499412,
+    "geom:longitude":-90.639543,
+    "iso:country":"US",
+    "sg:address":"1930 S Stark St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 386 5361",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39gY03uRIQMntOd6BAFhfQ_41.499412_-90.639543@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108807,
+    "wof:geomhash":"1442f106865e7e80550bd88e5e3400f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856919947
+        }
+    ],
+    "wof:id":856919947,
+    "wof:lastmodified":1464108807,
+    "wof:name":"Caseworks",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.639543,
+    41.499412,
+    -90.639543,
+    41.499412
+],
+  "geometry": {"coordinates":[-90.639543,41.499412],"type":"Point"}
+}

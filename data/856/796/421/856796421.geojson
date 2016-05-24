@@ -1,0 +1,71 @@
+{
+  "id": 856796421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535671,41.634099,-91.535671,41.634099",
+    "geom:latitude":41.634099,
+    "geom:longitude":-91.535671,
+    "iso:country":"US",
+    "sg:address":"54 Commercial Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7140",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01qee1Vqkba09EzQtI29fV_41.634099_-91.535671@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103040,
+    "wof:geomhash":"6ab8ad17d8b8c5c28c305d633b12b92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856796421
+        }
+    ],
+    "wof:id":856796421,
+    "wof:lastmodified":1464103040,
+    "wof:name":"Mas Automotive",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.535671,
+    41.634099,
+    -91.535671,
+    41.634099
+],
+  "geometry": {"coordinates":[-91.53567099999999,41.634099],"type":"Point"}
+}

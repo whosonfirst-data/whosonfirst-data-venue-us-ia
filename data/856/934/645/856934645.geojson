@@ -1,0 +1,75 @@
+{
+  "id": 856934645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.841112,41.305592,-95.841112,41.305592",
+    "geom:latitude":41.305592,
+    "geom:longitude":-95.841112,
+    "iso:country":"US",
+    "sg:address":"19798 Mynster Springs Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 9380",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lA8LYXJLJZsHzks6dcNlU_41.305592_-95.841112@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109418,
+    "wof:geomhash":"672736cbcafb79de5a7bcc8bf2a48147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856934645
+        }
+    ],
+    "wof:id":856934645,
+    "wof:lastmodified":1464109418,
+    "wof:name":"Jims Hauling",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.841112,
+    41.305592,
+    -95.841112,
+    41.305592
+],
+  "geometry": {"coordinates":[-95.841112,41.305592],"type":"Point"}
+}

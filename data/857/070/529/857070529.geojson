@@ -1,0 +1,71 @@
+{
+  "id": 857070529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652603,41.927601,-91.652603,41.927601",
+    "geom:latitude":41.927601,
+    "geom:longitude":-91.652603,
+    "iso:country":"US",
+    "sg:address":"355 50th Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4144",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76OJJTUNFSm1Wzjqolnkhy_41.927601_-91.652603@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115359,
+    "wof:geomhash":"ce6fe2e008ab1f76d3908f5f39445eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070529
+        }
+    ],
+    "wof:id":857070529,
+    "wof:lastmodified":1464115359,
+    "wof:name":"King's Material Inc 1 Ready-Mix Concrete",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.652603,
+    41.927601,
+    -91.652603,
+    41.927601
+],
+  "geometry": {"coordinates":[-91.652603,41.927601],"type":"Point"}
+}

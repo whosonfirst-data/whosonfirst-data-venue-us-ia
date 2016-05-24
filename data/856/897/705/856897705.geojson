@@ -1,0 +1,71 @@
+{
+  "id": 856897705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558306,41.354157,-93.558306,41.354157",
+    "geom:latitude":41.354157,
+    "geom:longitude":-93.558306,
+    "iso:country":"US",
+    "sg:address":"901 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4962",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k2ETQ231u8JnsOJMuHss0_41.354157_-93.558306@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107970,
+    "wof:geomhash":"656c64958214d8a845f516aa5f6e741a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856897705
+        }
+    ],
+    "wof:id":856897705,
+    "wof:lastmodified":1464107970,
+    "wof:name":"Mc Coy Sanitation Corp",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -93.558306,
+    41.354157,
+    -93.558306,
+    41.354157
+],
+  "geometry": {"coordinates":[-93.558306,41.354157],"type":"Point"}
+}

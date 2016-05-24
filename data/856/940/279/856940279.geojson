@@ -1,0 +1,74 @@
+{
+  "id": 856940279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.417449,41.232697,-95.417449,41.232697",
+    "geom:latitude":41.232697,
+    "geom:longitude":-95.417449,
+    "iso:country":"US",
+    "sg:address":"405 Highway St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6491",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.keastmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dAJbjjO3gwo0HbHB6JFB8_41.232697_-95.417449@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109682,
+    "wof:geomhash":"f5c8531539b058d581cb0cb0b09a4ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856940279
+        }
+    ],
+    "wof:id":856940279,
+    "wof:lastmodified":1464109682,
+    "wof:name":"Keast Chevy Olds Pontiac",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.417449,
+    41.232697,
+    -95.417449,
+    41.232697
+],
+  "geometry": {"coordinates":[-95.417449,41.232697],"type":"Point"}
+}

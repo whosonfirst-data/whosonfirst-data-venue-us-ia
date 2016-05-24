@@ -1,0 +1,71 @@
+{
+  "id": 856847347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.803373,41.293855,-95.803373,41.293855",
+    "geom:latitude":41.293855,
+    "geom:longitude":-95.803373,
+    "iso:country":"US",
+    "sg:address":"19647 Perry Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 0181",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10nI7u0n2GjYrbnRpW47cw_41.293855_-95.803373@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105355,
+    "wof:geomhash":"58b9ca43f41d9b4bb572d0d3f3bf2821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856847347
+        }
+    ],
+    "wof:id":856847347,
+    "wof:lastmodified":1464105355,
+    "wof:name":"Ace Glass Company",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.803373,
+    41.293855,
+    -95.803373,
+    41.293855
+],
+  "geometry": {"coordinates":[-95.80337299999999,41.293855],"type":"Point"}
+}

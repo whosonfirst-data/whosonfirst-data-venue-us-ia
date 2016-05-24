@@ -1,0 +1,73 @@
+{
+  "id": 856830143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902116,41.261677,-95.902116,41.261677",
+    "geom:latitude":41.261677,
+    "geom:longitude":-95.902116,
+    "iso:country":"US",
+    "sg:address":"120 S 35th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0100",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dHrXLl4lQ4YpzRtMALBqC_41.261677_-95.902116@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104516,
+    "wof:geomhash":"ce553bdbb469d94fdf50506126e695ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856830143
+        }
+    ],
+    "wof:id":856830143,
+    "wof:lastmodified":1464104516,
+    "wof:name":"KLNG",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -95.902116,
+    41.261677,
+    -95.902116,
+    41.261677
+],
+  "geometry": {"coordinates":[-95.90211600000001,41.261677],"type":"Point"}
+}

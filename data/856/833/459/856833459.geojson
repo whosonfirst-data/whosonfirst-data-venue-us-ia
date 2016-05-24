@@ -1,0 +1,75 @@
+{
+  "id": 856833459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540339,41.652315,-91.540339,41.652315",
+    "geom:latitude":41.652315,
+    "geom:longitude":-91.540339,
+    "iso:country":"US",
+    "sg:address":"783 US Hwy 6",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 0794",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65fFnLZu21d6nAmApGsp1g_41.652315_-91.540339@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104676,
+    "wof:geomhash":"eb2440c4f56c3d00f73e42cdff30881c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856833459
+        }
+    ],
+    "wof:id":856833459,
+    "wof:lastmodified":1464104676,
+    "wof:name":"Crown Electric Inc",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.540339,
+    41.652315,
+    -91.540339,
+    41.652315
+],
+  "geometry": {"coordinates":[-91.540339,41.652315],"type":"Point"}
+}

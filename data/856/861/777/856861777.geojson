@@ -1,0 +1,75 @@
+{
+  "id": 856861777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.017511,41.619181,-94.017511,41.619181",
+    "geom:latitude":41.619181,
+    "geom:longitude":-94.017511,
+    "iso:country":"US",
+    "sg:address":"201 Nile Kinnick Dr N",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5815",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pFXo6XK4zQgiyLmBKg72l_41.619181_-94.017511@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106066,
+    "wof:geomhash":"f06ab8923e7efcd246f5777b644e73c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856861777
+        }
+    ],
+    "wof:id":856861777,
+    "wof:lastmodified":1464106066,
+    "wof:name":"Dallas County Jail",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -94.017511,
+    41.619181,
+    -94.017511,
+    41.619181
+],
+  "geometry": {"coordinates":[-94.017511,41.619181],"type":"Point"}
+}

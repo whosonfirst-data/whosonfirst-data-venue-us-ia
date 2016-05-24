@@ -1,0 +1,71 @@
+{
+  "id": 857064135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.836601,41.271301,-95.836601,41.271301",
+    "geom:latitude":41.271301,
+    "geom:longitude":-95.836601,
+    "iso:country":"US",
+    "sg:address":"1101 N Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4911",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n9dxZdgdGdEahY1ypOO14_41.271301_-95.836601@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115067,
+    "wof:geomhash":"647405a41c961a8ec0d2d09bbc943858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064135
+        }
+    ],
+    "wof:id":857064135,
+    "wof:lastmodified":1464115067,
+    "wof:name":"Pizza King Inc the",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.836601,
+    41.271301,
+    -95.836601,
+    41.271301
+],
+  "geometry": {"coordinates":[-95.836601,41.271301],"type":"Point"}
+}

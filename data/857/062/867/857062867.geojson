@@ -1,0 +1,72 @@
+{
+  "id": 857062867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892998,41.2621,-95.892998,41.2621",
+    "geom:latitude":41.2621,
+    "geom:longitude":-95.892998,
+    "iso:country":"US",
+    "sg:address":"3020 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5577",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.godfathers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79hgnJjq1o65MEb9OiMDwr_41.262100_-95.892998@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115017,
+    "wof:geomhash":"18f4931b43eba88281b1c84527559044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062867
+        }
+    ],
+    "wof:id":857062867,
+    "wof:lastmodified":1464115017,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.892998,
+    41.2621,
+    -95.892998,
+    41.2621
+],
+  "geometry": {"coordinates":[-95.89299800000001,41.2621],"type":"Point"}
+}

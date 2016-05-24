@@ -1,0 +1,75 @@
+{
+  "id": 857039359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.646004,41.971401,-91.646004,41.971401",
+    "geom:latitude":41.971401,
+    "geom:longitude":-91.646004,
+    "iso:country":"US",
+    "sg:address":"1340 17th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8894",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "funeral",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fBZZSusv2pufT21baoEqQ_41.971727_-91.645876@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114058,
+    "wof:geomhash":"1441130316659a0d17bfc16e488f32d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857039359
+        }
+    ],
+    "wof:id":857039359,
+    "wof:lastmodified":1464114058,
+    "wof:name":"Saint John's Cemetery",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "funeral",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -91.646004,
+    41.971401,
+    -91.646004,
+    41.971401
+],
+  "geometry": {"coordinates":[-91.646004,41.971401],"type":"Point"}
+}

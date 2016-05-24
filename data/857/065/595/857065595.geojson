@@ -1,0 +1,76 @@
+{
+  "id": 857065595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.68983,42.034838,-91.68983,42.034838",
+    "geom:latitude":42.034838,
+    "geom:longitude":-91.68983,
+    "iso:country":"US",
+    "sg:address":"1350A Blairs Ferry Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 3100",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oqlb5WJX1Bfpx0QOEzXKl_42.034838_-91.689830@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115119,
+    "wof:geomhash":"ce4a17abc26c37ae0537d9ae8c6230a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857065595
+        }
+    ],
+    "wof:id":857065595,
+    "wof:lastmodified":1464115119,
+    "wof:name":"Essential Montessori",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.68983,
+    42.034838,
+    -91.68983,
+    42.034838
+],
+  "geometry": {"coordinates":[-91.68983,42.034838],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857062893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892097,41.268002,-95.892097,41.268002",
+    "geom:latitude":41.268002,
+    "geom:longitude":-95.892097,
+    "iso:country":"US",
+    "sg:address":"2931 Avenue G",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0738",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S7oWIgckPccRKKHGh6m6o_41.268002_-95.892097@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115018,
+    "wof:geomhash":"a71832f006fbd34257ab5c06d1d41f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062893
+        }
+    ],
+    "wof:id":857062893,
+    "wof:lastmodified":1464115018,
+    "wof:name":"Tricia's Professional K-9 Grooming",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -95.892097,
+    41.268002,
+    -95.892097,
+    41.268002
+],
+  "geometry": {"coordinates":[-95.89209700000001,41.268002],"type":"Point"}
+}

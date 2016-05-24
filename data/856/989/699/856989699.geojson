@@ -1,0 +1,67 @@
+{
+  "id": 856989699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.369155,42.435306,-96.369155,42.435306",
+    "geom:latitude":42.435306,
+    "geom:longitude":-96.369155,
+    "iso:country":"US",
+    "sg:address":"3000 Singing Hills Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 8000",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:website":"www.daysinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6llblkJkihQMnydCAIdBq3_42.435306_-96.369155@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111957,
+    "wof:geomhash":"2745a600551b175a9eff873b79bd6eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856989699
+        }
+    ],
+    "wof:id":856989699,
+    "wof:lastmodified":1464111957,
+    "wof:name":"Days Inn",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.369155,
+    42.435306,
+    -96.369155,
+    42.435306
+],
+  "geometry": {"coordinates":[-96.36915500000001,42.435306],"type":"Point"}
+}

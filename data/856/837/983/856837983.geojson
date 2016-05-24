@@ -1,0 +1,73 @@
+{
+  "id": 856837983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.333581,41.480931,-95.333581,41.480931",
+    "geom:latitude":41.480931,
+    "geom:longitude":-95.333581,
+    "iso:country":"US",
+    "sg:address":"563 N Locust St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2654",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MvR5eInVoWuBceSTCOe0L_41.480931_-95.333581@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104913,
+    "wof:geomhash":"e715a6f7fbb87a18b6f01557bf6557bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856837983
+        }
+    ],
+    "wof:id":856837983,
+    "wof:lastmodified":1464104913,
+    "wof:name":"Piittmann Seed Co",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -95.333581,
+    41.480931,
+    -95.333581,
+    41.480931
+],
+  "geometry": {"coordinates":[-95.333581,41.480931],"type":"Point"}
+}

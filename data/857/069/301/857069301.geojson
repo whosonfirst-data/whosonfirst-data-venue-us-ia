@@ -1,0 +1,71 @@
+{
+  "id": 857069301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677902,42.032398,-91.677902,42.032398",
+    "geom:latitude":42.032398,
+    "geom:longitude":-91.677902,
+    "iso:country":"US",
+    "sg:address":"5150 Blairs Forest Way NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 2898",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07x5xhAdamR5gOOiIRiFUD_42.032398_-91.677902@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115299,
+    "wof:geomhash":"d9f4b007222d062b0c498d3153e5461a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069301
+        }
+    ],
+    "wof:id":857069301,
+    "wof:lastmodified":1464115299,
+    "wof:name":"Kid's Kampus",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -91.677902,
+    42.032398,
+    -91.677902,
+    42.032398
+],
+  "geometry": {"coordinates":[-91.677902,42.032398],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856831681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.40517,42.517181,-96.40517,42.517181",
+    "geom:latitude":42.517181,
+    "geom:longitude":-96.40517,
+    "iso:country":"US",
+    "sg:address":"2501 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 2531",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.siouxlandresidencyfp.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MlD5BRZDW9ra0R7FJgfqZ_42.517181_-96.405170@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104587,
+    "wof:geomhash":"66e3d63389bd78dc2c98522c77063c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856831681
+        }
+    ],
+    "wof:id":856831681,
+    "wof:lastmodified":1464104587,
+    "wof:name":"Sioux Land Medical Foundation",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.40517,
+    42.517181,
+    -96.40517,
+    42.517181
+],
+  "geometry": {"coordinates":[-96.40517,42.517181],"type":"Point"}
+}

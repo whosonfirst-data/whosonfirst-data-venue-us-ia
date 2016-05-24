@@ -1,0 +1,68 @@
+{
+  "id": 857021023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.412816,42.495439,-96.412816,42.495439",
+    "geom:latitude":42.495439,
+    "geom:longitude":-96.412816,
+    "iso:country":"US",
+    "sg:address":"102 W 3rd St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 6837",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xBwj0fLhuF579ePD9mGVP_42.495439_-96.412816@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113234,
+    "wof:geomhash":"abbbe7ffa04be3ada7a99c59448eafbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857021023
+        }
+    ],
+    "wof:id":857021023,
+    "wof:lastmodified":1464113234,
+    "wof:name":"Speedy Rooter Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.412816,
+    42.495439,
+    -96.412816,
+    42.495439
+],
+  "geometry": {"coordinates":[-96.41281600000001,42.495439],"type":"Point"}
+}

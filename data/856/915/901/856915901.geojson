@@ -1,0 +1,71 @@
+{
+  "id": 856915901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.84812,41.27543,-95.84812,41.27543",
+    "geom:latitude":41.27543,
+    "geom:longitude":-95.84812,
+    "iso:country":"US",
+    "sg:address":"310 Fleming Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 0007",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ht8AtDiLszxFJEvi7hmki_41.275430_-95.848120@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108654,
+    "wof:geomhash":"9dc47d95fe4e8a2ce5b2f5b832a50bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856915901
+        }
+    ],
+    "wof:id":856915901,
+    "wof:lastmodified":1464108654,
+    "wof:name":"Brent Olson Construction",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -95.84812,
+    41.27543,
+    -95.84812,
+    41.27543
+],
+  "geometry": {"coordinates":[-95.84811999999999,41.27543],"type":"Point"}
+}

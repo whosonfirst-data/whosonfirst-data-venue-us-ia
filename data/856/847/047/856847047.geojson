@@ -1,0 +1,75 @@
+{
+  "id": 856847047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668696,41.960964,-91.668696,41.960964",
+    "geom:latitude":41.960964,
+    "geom:longitude":-91.668696,
+    "iso:country":"US",
+    "sg:address":"1626 K St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 6123",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XnkvD033BwrhxbIM9L4aB_41.960964_-91.668696@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105340,
+    "wof:geomhash":"1dbfa05a1a7fabe4766d8616565e6cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856847047
+        }
+    ],
+    "wof:id":856847047,
+    "wof:lastmodified":1464105340,
+    "wof:name":"Legrand Siding Co",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.668696,
+    41.960964,
+    -91.668696,
+    41.960964
+],
+  "geometry": {"coordinates":[-91.668696,41.960964],"type":"Point"}
+}

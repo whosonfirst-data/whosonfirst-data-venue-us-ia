@@ -1,0 +1,71 @@
+{
+  "id": 856803813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.525565,41.995882,-91.525565,41.995882",
+    "geom:latitude":41.995882,
+    "geom:longitude":-91.525565,
+    "iso:country":"US",
+    "sg:address":"1878 Bloomington Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3060",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43a1JBot2G138mc605oVRB_41.995882_-91.525565@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103352,
+    "wof:geomhash":"d27da48de93eea828a0601217895a096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856803813
+        }
+    ],
+    "wof:id":856803813,
+    "wof:lastmodified":1464103352,
+    "wof:name":"Bucknell Del Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.525565,
+    41.995882,
+    -91.525565,
+    41.995882
+],
+  "geometry": {"coordinates":[-91.525565,41.995882],"type":"Point"}
+}

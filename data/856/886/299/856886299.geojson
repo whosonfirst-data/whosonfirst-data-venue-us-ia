@@ -1,0 +1,71 @@
+{
+  "id": 856886299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652278,42.020701,-91.652278,42.020701",
+    "geom:latitude":42.020701,
+    "geom:longitude":-91.652278,
+    "iso:country":"US",
+    "sg:address":"1150 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1990",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08K6x32X8CIDp9P9elElRT_42.020701_-91.652278@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107531,
+    "wof:geomhash":"29f9c1b80c103dbe429f74e7b20c85b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856886299
+        }
+    ],
+    "wof:id":856886299,
+    "wof:lastmodified":1464107531,
+    "wof:name":"Dental Prosthetic Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.652278,
+    42.020701,
+    -91.652278,
+    42.020701
+],
+  "geometry": {"coordinates":[-91.652278,42.020701],"type":"Point"}
+}

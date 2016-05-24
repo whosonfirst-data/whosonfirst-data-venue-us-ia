@@ -1,0 +1,75 @@
+{
+  "id": 857048351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682098,41.987701,-91.682098,41.987701",
+    "geom:latitude":41.987701,
+    "geom:longitude":-91.682098,
+    "iso:country":"US",
+    "sg:address":"1430 Ellis Blvd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3014",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nxOKyqCSvS8Bej9mQPAWT_41.987557_-91.682216@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114422,
+    "wof:geomhash":"9264e17cb9b0a17e4b0ff923f68d7034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857048351
+        }
+    ],
+    "wof:id":857048351,
+    "wof:lastmodified":1464114422,
+    "wof:name":"St James Extended Day Care",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "school"
+    ]
+},
+  "bbox": [
+    -91.682098,
+    41.987701,
+    -91.682098,
+    41.987701
+],
+  "geometry": {"coordinates":[-91.682098,41.987701],"type":"Point"}
+}

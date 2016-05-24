@@ -1,0 +1,73 @@
+{
+  "id": 856934117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105089,41.840459,-94.105089,41.840459",
+    "geom:latitude":41.840459,
+    "geom:longitude":-94.105089,
+    "iso:country":"US",
+    "sg:address":"1210 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5866",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "bridal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_295mIjjdZbuYC6W9vV9Vym_41.840459_-94.105089@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109395,
+    "wof:geomhash":"3b1506a58bee117854bff275edaaf83d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856934117
+        }
+    ],
+    "wof:id":856934117,
+    "wof:lastmodified":1464109395,
+    "wof:name":"Bridal Boutique",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "bridal"
+    ]
+},
+  "bbox": [
+    -94.105089,
+    41.840459,
+    -94.105089,
+    41.840459
+],
+  "geometry": {"coordinates":[-94.10508900000001,41.840459],"type":"Point"}
+}

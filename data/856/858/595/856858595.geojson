@@ -1,0 +1,71 @@
+{
+  "id": 856858595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621681,42.047853,-91.621681,42.047853",
+    "geom:latitude":42.047853,
+    "geom:longitude":-91.621681,
+    "iso:country":"US",
+    "sg:address":"2240 Timber Creek Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6994",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P7e0bHYR5p3la5hPPsXIn_42.047853_-91.621681@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105914,
+    "wof:geomhash":"01e3de14987cb068bb64ab802002ac43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856858595
+        }
+    ],
+    "wof:id":856858595,
+    "wof:lastmodified":1464105914,
+    "wof:name":"BSDJ",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -91.621681,
+    42.047853,
+    -91.621681,
+    42.047853
+],
+  "geometry": {"coordinates":[-91.621681,42.047853],"type":"Point"}
+}

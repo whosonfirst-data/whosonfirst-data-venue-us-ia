@@ -1,0 +1,73 @@
+{
+  "id": 856860709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.692684,42.047017,-91.692684,42.047017",
+    "geom:latitude":42.047017,
+    "geom:longitude":-91.692684,
+    "iso:country":"US",
+    "sg:address":"1480 Progress Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 5296",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vXFJNj0GKgtuEitGeoigM_42.047017_-91.692684@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106027,
+    "wof:geomhash":"a52738bbb28ab4fc2544142a91415452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856860709
+        }
+    ],
+    "wof:id":856860709,
+    "wof:lastmodified":1464106027,
+    "wof:name":"Greg's Lawn Svc Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.692684,
+    42.047017,
+    -91.692684,
+    42.047017
+],
+  "geometry": {"coordinates":[-91.692684,42.047017],"type":"Point"}
+}

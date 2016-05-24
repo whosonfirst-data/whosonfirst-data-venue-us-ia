@@ -1,0 +1,71 @@
+{
+  "id": 856890123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.349953,42.458794,-92.349953,42.458794",
+    "geom:latitude":42.458794,
+    "geom:longitude":-92.349953,
+    "iso:country":"US",
+    "sg:address":"312 Southbrooke Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 291 1300",
+    "sg:postcode":"50702",
+    "sg:province":"IA",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IvpYOWCImjSCUaeO9sNUZ_42.458794_-92.349953@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107689,
+    "wof:geomhash":"e067235f469e51707e895e0a11691404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856890123
+        }
+    ],
+    "wof:id":856890123,
+    "wof:lastmodified":1464107689,
+    "wof:name":"Lakeview Lodge",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -92.349953,
+    42.458794,
+    -92.349953,
+    42.458794
+],
+  "geometry": {"coordinates":[-92.349953,42.458794],"type":"Point"}
+}

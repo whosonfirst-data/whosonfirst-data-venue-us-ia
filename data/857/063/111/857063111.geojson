@@ -1,0 +1,67 @@
+{
+  "id": 857063111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.873901,41.262001,-95.873901,41.262001",
+    "geom:latitude":41.262001,
+    "geom:longitude":-95.873901,
+    "iso:country":"US",
+    "sg:address":"2020 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 352 0081",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:website":"www.conocophillips.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qVeGwUBA9ggmp4m2fJm2z_41.262001_-95.873901@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115026,
+    "wof:geomhash":"760dbed1ef9db58d988404cd3ee6e140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063111
+        }
+    ],
+    "wof:id":857063111,
+    "wof:lastmodified":1464115026,
+    "wof:name":"Broadway Conoco",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.873901,
+    41.262001,
+    -95.873901,
+    41.262001
+],
+  "geometry": {"coordinates":[-95.873901,41.262001],"type":"Point"}
+}

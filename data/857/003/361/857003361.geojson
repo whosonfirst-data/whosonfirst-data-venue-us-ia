@@ -1,0 +1,71 @@
+{
+  "id": 857003361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.094401,41.834639,-94.094401,41.834639",
+    "geom:latitude":41.834639,
+    "geom:longitude":-94.094401,
+    "iso:country":"US",
+    "sg:address":"512 10th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3595",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wx1pEtThAI6i8CedUp4Ha_41.834639_-94.094401@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112503,
+    "wof:geomhash":"3f179d776cf6187ea1700478fb79fb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857003361
+        }
+    ],
+    "wof:id":857003361,
+    "wof:lastmodified":1464112503,
+    "wof:name":"Dallas County Ambulance Svc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -94.094401,
+    41.834639,
+    -94.094401,
+    41.834639
+],
+  "geometry": {"coordinates":[-94.094401,41.834639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857061393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.389503,41.460499,-93.389503,41.460499",
+    "geom:latitude":41.460499,
+    "geom:longitude":-93.389503,
+    "iso:country":"US",
+    "sg:address":"500 N Vine St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3897",
+    "sg:postcode":"50118",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QU4rPxw6rBkR1WxSHGfba_41.460499_-93.389503@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114958,
+    "wof:geomhash":"238c0b4d6b6cf286688e52106e842198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061393
+        }
+    ],
+    "wof:id":857061393,
+    "wof:lastmodified":1464114958,
+    "wof:name":"Carlisle Community Schools",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -93.389503,
+    41.460499,
+    -93.389503,
+    41.460499
+],
+  "geometry": {"coordinates":[-93.389503,41.460499],"type":"Point"}
+}

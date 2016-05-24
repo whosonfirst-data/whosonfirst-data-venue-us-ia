@@ -1,0 +1,73 @@
+{
+  "id": 856802509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.48366,42.428189,-92.48366,42.428189",
+    "geom:latitude":42.428189,
+    "geom:longitude":-92.48366,
+    "iso:country":"US",
+    "sg:address":"6701 Strayer Rd",
+    "sg:city":"Cedar Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 988 4220",
+    "sg:postcode":"50613",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qNonwqSRUthzLZD29Q0tC_42.428189_-92.483660@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103295,
+    "wof:geomhash":"0021e77317c6f705ad28f00e5c9a2573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856802509
+        }
+    ],
+    "wof:id":856802509,
+    "wof:lastmodified":1464103295,
+    "wof:name":"J&N Services",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -92.48366,
+    42.428189,
+    -92.48366,
+    42.428189
+],
+  "geometry": {"coordinates":[-92.48366,42.428189],"type":"Point"}
+}

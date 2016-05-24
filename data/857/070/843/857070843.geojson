@@ -1,0 +1,73 @@
+{
+  "id": 857070843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.637334,41.919406,-91.637334,41.919406",
+    "geom:latitude":41.919406,
+    "geom:longitude":-91.637334,
+    "iso:country":"US",
+    "sg:address":"6400 C St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0000",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "provider",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GoUZbjBDGRSILE1c6OOd1_41.919406_-91.637334@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115370,
+    "wof:geomhash":"7449db149868f0639df3948ebe62894d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070843
+        }
+    ],
+    "wof:id":857070843,
+    "wof:lastmodified":1464115370,
+    "wof:name":"McLeodusa Inc",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [
+    -91.637334,
+    41.919406,
+    -91.637334,
+    41.919406
+],
+  "geometry": {"coordinates":[-91.637334,41.919406],"type":"Point"}
+}

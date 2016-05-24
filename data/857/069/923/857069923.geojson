@@ -1,0 +1,67 @@
+{
+  "id": 857069923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.720753,41.954849,-91.720753,41.954849",
+    "geom:latitude":41.954849,
+    "geom:longitude":-91.720753,
+    "iso:country":"US",
+    "sg:address":"3730 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1617",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.bankofthewest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wueF1hJUBd4m9Psu0q6QG_41.954849_-91.720753@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115329,
+    "wof:geomhash":"77028c7831f589002ac710e1841dc209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857069923
+        }
+    ],
+    "wof:id":857069923,
+    "wof:lastmodified":1464115329,
+    "wof:name":"Bank of the West",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.720753,
+    41.954849,
+    -91.720753,
+    41.954849
+],
+  "geometry": {"coordinates":[-91.720753,41.954849],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856922075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.66432,42.017298,-91.66432,42.017298",
+    "geom:latitude":42.017298,
+    "geom:longitude":-91.66432,
+    "iso:country":"US",
+    "sg:address":"3725 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 5026",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hJLNlCIjMr0oyjx4nYopx_42.017298_-91.664320@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108914,
+    "wof:geomhash":"c9546ae3f7ba7f66696a80a12d450eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856922075
+        }
+    ],
+    "wof:id":856922075,
+    "wof:lastmodified":1464108914,
+    "wof:name":"Todd Financial Group",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -91.66432,
+    42.017298,
+    -91.66432,
+    42.017298
+],
+  "geometry": {"coordinates":[-91.66432,42.017298],"type":"Point"}
+}

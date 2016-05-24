@@ -1,0 +1,73 @@
+{
+  "id": 856858701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.737674,41.930952,-91.737674,41.930952",
+    "geom:latitude":41.930952,
+    "geom:longitude":-91.737674,
+    "iso:country":"US",
+    "sg:address":"5205 Nursery Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7038",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f8mirVassxUV0Tu5EhtwW_41.930952_-91.737674@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105921,
+    "wof:geomhash":"05492f498b9477e5e8a7e2b63b56059e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856858701
+        }
+    ],
+    "wof:id":856858701,
+    "wof:lastmodified":1464105921,
+    "wof:name":"Dwight Hughes Nursery",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.737674,
+    41.930952,
+    -91.737674,
+    41.930952
+],
+  "geometry": {"coordinates":[-91.737674,41.930952],"type":"Point"}
+}

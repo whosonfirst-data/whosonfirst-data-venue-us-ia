@@ -1,0 +1,75 @@
+{
+  "id": 856826255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.833334,41.292599,-95.833334,41.292599",
+    "geom:latitude":41.292599,
+    "geom:longitude":-95.833334,
+    "iso:country":"US",
+    "sg:address":"19378 Mudhollow Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4583",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TOvisMRwLDbEwAmJuyzI0_41.292599_-95.833334@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104356,
+    "wof:geomhash":"88a354559e04c5a276aacfa33477c866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856826255
+        }
+    ],
+    "wof:id":856826255,
+    "wof:lastmodified":1464104356,
+    "wof:name":"Mann Auto Radiator Shop",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.833334,
+    41.292599,
+    -95.833334,
+    41.292599
+],
+  "geometry": {"coordinates":[-95.83333399999999,41.292599],"type":"Point"}
+}

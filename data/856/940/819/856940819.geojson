@@ -1,0 +1,68 @@
+{
+  "id": 856940819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.516271,41.677209,-91.516271,41.677209",
+    "geom:latitude":41.677209,
+    "geom:longitude":-91.516271,
+    "iso:country":"US",
+    "sg:address":"1704 N Dubuque Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 341 9715",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BqNrc38SFD9fJttkqHFqn_41.677209_-91.516271@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109717,
+    "wof:geomhash":"b68b2cd82662e54a4042e145f21150ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896447,
+            "region_id":85688713,
+            "venue_id":856940819
+        }
+    ],
+    "wof:id":856940819,
+    "wof:lastmodified":1464109717,
+    "wof:name":"Platters Restaurant",
+    "wof:parent_id":85896447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.516271,
+    41.677209,
+    -91.516271,
+    41.677209
+],
+  "geometry": {"coordinates":[-91.516271,41.677209],"type":"Point"}
+}

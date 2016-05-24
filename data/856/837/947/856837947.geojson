@@ -1,0 +1,64 @@
+{
+  "id": 856837947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.403009,41.458585,-93.403009,41.458585",
+    "geom:latitude":41.458585,
+    "geom:longitude":-93.403009,
+    "iso:country":"US",
+    "sg:address":"120 S Vine St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 000 1111",
+    "sg:postcode":"50118",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K1UHTbqmfObSwiMc3Fo7v_41.458585_-93.403009@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104912,
+    "wof:geomhash":"ec13a533b5f2c6bff94b900e329c2ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856837947
+        }
+    ],
+    "wof:id":856837947,
+    "wof:lastmodified":1464104912,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.403009,
+    41.458585,
+    -93.403009,
+    41.458585
+],
+  "geometry": {"coordinates":[-93.403009,41.458585],"type":"Point"}
+}

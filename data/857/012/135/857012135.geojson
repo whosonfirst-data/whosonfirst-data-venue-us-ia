@@ -1,0 +1,73 @@
+{
+  "id": 857012135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.209083,42.533082,-96.209083,42.533082",
+    "geom:latitude":42.533082,
+    "geom:longitude":-96.209083,
+    "iso:country":"US",
+    "sg:address":"2024 120th St",
+    "sg:city":"Lawton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 5459",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JG3K59BvpeChxh9FCrNh7_42.533082_-96.209083@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112862,
+    "wof:geomhash":"6ed70481f45b769d010842001f591aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":857012135
+        }
+    ],
+    "wof:id":857012135,
+    "wof:lastmodified":1464112862,
+    "wof:name":"Lieber Construction Inc",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.209083,
+    42.533082,
+    -96.209083,
+    42.533082
+],
+  "geometry": {"coordinates":[-96.20908300000001,42.533082],"type":"Point"}
+}

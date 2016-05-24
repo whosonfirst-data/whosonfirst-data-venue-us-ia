@@ -1,0 +1,75 @@
+{
+  "id": 856832765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405161,42.508595,-96.405161,42.508595",
+    "geom:latitude":42.508595,
+    "geom:longitude":-96.405161,
+    "iso:country":"US",
+    "sg:address":"1715 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 2324",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5daAeB9ZH9J2PLB0tCFv9m_42.508595_-96.405161@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104646,
+    "wof:geomhash":"4f74c3ad3faf3bd268e5b3655dce61e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856832765
+        }
+    ],
+    "wof:id":856832765,
+    "wof:lastmodified":1464104646,
+    "wof:name":"Anesthesia Consultants",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.405161,
+    42.508595,
+    -96.405161,
+    42.508595
+],
+  "geometry": {"coordinates":[-96.40516100000001,42.508595],"type":"Point"}
+}

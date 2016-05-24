@@ -1,0 +1,77 @@
+{
+  "id": 857069329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661003,42.0298,-91.661003,42.0298",
+    "geom:latitude":42.0298,
+    "geom:longitude":-91.661003,
+    "iso:country":"US",
+    "sg:address":"1600 51st St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6300",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.chevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qFWGUXsQ23S7FExmA20Th_42.029800_-91.661003@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115300,
+    "wof:geomhash":"45345483753d1319dc6d78333256b634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069329
+        }
+    ],
+    "wof:id":857069329,
+    "wof:lastmodified":1464115300,
+    "wof:name":"McGrath Pat Chevyland",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -91.661003,
+    42.0298,
+    -91.661003,
+    42.0298
+],
+  "geometry": {"coordinates":[-91.66100299999999,42.0298],"type":"Point"}
+}

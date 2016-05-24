@@ -1,0 +1,67 @@
+{
+  "id": 857067817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658376,42.010759,-91.658376,42.010759",
+    "geom:latitude":42.010759,
+    "geom:longitude":-91.658376,
+    "iso:country":"US",
+    "sg:address":"3235 Oakland Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 4222",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.iwireless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JMurPgWoMOzUtbtlYarJU_42.010759_-91.658376@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115227,
+    "wof:geomhash":"116a214fdc7b2c4286327966d683fd01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067817
+        }
+    ],
+    "wof:id":857067817,
+    "wof:lastmodified":1464115227,
+    "wof:name":"I Wireless",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.658376,
+    42.010759,
+    -91.658376,
+    42.010759
+],
+  "geometry": {"coordinates":[-91.658376,42.010759],"type":"Point"}
+}

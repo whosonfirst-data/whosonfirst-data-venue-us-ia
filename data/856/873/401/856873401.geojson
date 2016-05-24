@@ -1,0 +1,73 @@
+{
+  "id": 856873401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.506683,42.093142,-91.506683,42.093142",
+    "geom:latitude":42.093142,
+    "geom:longitude":-91.506683,
+    "iso:country":"US",
+    "sg:address":"1482 County Home Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7180",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "breeder",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_562CjPwSVoz6QirZtfXfIf_42.093142_-91.506683@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106833,
+    "wof:geomhash":"6c88f8cc5a4fa2abce73bafd62c99bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856873401
+        }
+    ],
+    "wof:id":856873401,
+    "wof:lastmodified":1464106833,
+    "wof:name":"DCM Hamps & Durocs",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -91.506683,
+    42.093142,
+    -91.506683,
+    42.093142
+],
+  "geometry": {"coordinates":[-91.506683,42.093142],"type":"Point"}
+}

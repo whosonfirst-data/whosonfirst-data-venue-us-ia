@@ -1,0 +1,73 @@
+{
+  "id": 857012899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.538465,41.633955,-91.538465,41.633955",
+    "geom:latitude":41.633955,
+    "geom:longitude":-91.538465,
+    "iso:country":"US",
+    "sg:address":"2253 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 5528",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NBT4Q715984DNuDYXtAVv_41.633955_-91.538465@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112902,
+    "wof:geomhash":"be2ad06b4eb54cdc856e1a6f44435d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896453,
+            "region_id":85688713,
+            "venue_id":857012899
+        }
+    ],
+    "wof:id":857012899,
+    "wof:lastmodified":1464112902,
+    "wof:name":"Moeller Accounting Svc",
+    "wof:parent_id":85896453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -91.538465,
+    41.633955,
+    -91.538465,
+    41.633955
+],
+  "geometry": {"coordinates":[-91.538465,41.633955],"type":"Point"}
+}

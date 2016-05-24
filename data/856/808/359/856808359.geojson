@@ -1,0 +1,71 @@
+{
+  "id": 856808359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.829034,41.260749,-95.829034,41.260749",
+    "geom:latitude":41.260749,
+    "geom:longitude":-95.829034,
+    "iso:country":"US",
+    "sg:address":"553 Cogleywood Ln",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0416",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G3wjb9UJjXVX1lOxS2Wnf_41.260749_-95.829034@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103550,
+    "wof:geomhash":"fbdfc73aea42c4eedc34c28392fcccfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856808359
+        }
+    ],
+    "wof:id":856808359,
+    "wof:lastmodified":1464103550,
+    "wof:name":"Norman Knott DDS",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.829034,
+    41.260749,
+    -95.829034,
+    41.260749
+],
+  "geometry": {"coordinates":[-95.82903399999999,41.260749],"type":"Point"}
+}

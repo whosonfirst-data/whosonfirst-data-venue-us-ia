@@ -1,0 +1,81 @@
+{
+  "id": 857069449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.609596,41.977001,-91.609596,41.977001",
+    "geom:latitude":41.977001,
+    "geom:longitude":-91.609596,
+    "iso:country":"US",
+    "sg:address":"3531 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 7767",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nFpD2fHJONydQPgmw4v43_41.977001_-91.609596@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115304,
+    "wof:geomhash":"cada94c39c2a73840d654e71b5ef8477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069449
+        }
+    ],
+    "wof:id":857069449,
+    "wof:lastmodified":1464115304,
+    "wof:name":"Croissant Du Jour",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -91.609596,
+    41.977001,
+    -91.609596,
+    41.977001
+],
+  "geometry": {"coordinates":[-91.609596,41.977001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856952111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.800878,41.232762,-95.800878,41.232762",
+    "geom:latitude":41.232762,
+    "geom:longitude":-95.800878,
+    "iso:country":"US",
+    "sg:address":"19900 Virginia Hills Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 5836",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JNtzFmHJzkyUMzF81WSyn_41.232762_-95.800878@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110170,
+    "wof:geomhash":"2e5f3d37110666891ad98d9229ef13c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856952111
+        }
+    ],
+    "wof:id":856952111,
+    "wof:lastmodified":1464110170,
+    "wof:name":"Fill & Food",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.800878,
+    41.232762,
+    -95.800878,
+    41.232762
+],
+  "geometry": {"coordinates":[-95.800878,41.232762],"type":"Point"}
+}

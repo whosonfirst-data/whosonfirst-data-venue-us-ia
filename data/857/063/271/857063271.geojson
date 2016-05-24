@@ -1,0 +1,73 @@
+{
+  "id": 857063271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837898,41.266602,-95.837898,41.266602",
+    "geom:latitude":41.266602,
+    "geom:longitude":-95.837898,
+    "iso:country":"US",
+    "sg:address":"1 Edmundson Pl Ste 500",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5333",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "podiatrist",
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iPIoTFU1cwZZpGSpxEvXL_41.266602_-95.837898@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115031,
+    "wof:geomhash":"d016ab513ca03e7503c6271a6e8be827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063271
+        }
+    ],
+    "wof:id":857063271,
+    "wof:lastmodified":1464115031,
+    "wof:name":"Miller Orthopaedic Affiliates",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist",
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -95.837898,
+    41.266602,
+    -95.837898,
+    41.266602
+],
+  "geometry": {"coordinates":[-95.837898,41.266602],"type":"Point"}
+}

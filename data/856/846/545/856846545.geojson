@@ -1,0 +1,75 @@
+{
+  "id": 856846545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.629698,41.680096,-93.629698,41.680096",
+    "geom:latitude":41.680096,
+    "geom:longitude":-93.629698,
+    "iso:country":"US",
+    "sg:address":"6564 NW 6th Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 2884",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85945067,
+        102086603,
+        85847289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38o9NoDaO3lW5aA7ht7vKS_41.680096_-93.629698@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105321,
+    "wof:geomhash":"02c0f0147b193ebb167effd94e9f8ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85945067,
+            "neighbourhood_id":85847289,
+            "region_id":85688713,
+            "venue_id":856846545
+        }
+    ],
+    "wof:id":856846545,
+    "wof:lastmodified":1464105321,
+    "wof:name":"Grace Ballet Studio",
+    "wof:parent_id":85847289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -93.629698,
+    41.680096,
+    -93.629698,
+    41.680096
+],
+  "geometry": {"coordinates":[-93.629698,41.680096],"type":"Point"}
+}

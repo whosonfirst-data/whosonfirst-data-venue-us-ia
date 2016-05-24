@@ -1,0 +1,82 @@
+{
+  "id": 856980673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.746645,41.963875,-91.746645,41.963875",
+    "geom:latitude":41.963875,
+    "geom:longitude":-91.746645,
+    "iso:country":"US",
+    "sg:address":"5717 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9434",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "supply",
+        "shooting",
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hzyUB4f2RnyoarxaEEPfm_41.963875_-91.746645@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111489,
+    "wof:geomhash":"f5222471e8721529f4061dcae06561da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856980673
+        }
+    ],
+    "wof:id":856980673,
+    "wof:lastmodified":1464111489,
+    "wof:name":"Indoor Shooting Ranges-Sports",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "shooting",
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -91.746645,
+    41.963875,
+    -91.746645,
+    41.963875
+],
+  "geometry": {"coordinates":[-91.746645,41.963875],"type":"Point"}
+}

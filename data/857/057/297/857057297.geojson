@@ -1,0 +1,76 @@
+{
+  "id": 857057297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.738757,41.654924,-93.738757,41.654924",
+    "geom:latitude":41.654924,
+    "geom:longitude":-93.738757,
+    "iso:country":"US",
+    "sg:address":"8744 Northpark Dr",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/webster/10389-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 251 4597",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pVWACdCDC8npzZCmvR6bn_41.654924_-93.738757@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114799,
+    "wof:geomhash":"9a80fbfb7810ee1e47bff3a54e4154d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896489,
+            "region_id":85688713,
+            "venue_id":857057297
+        }
+    ],
+    "wof:id":857057297,
+    "wof:lastmodified":1464114799,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85896489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -93.738757,
+    41.654924,
+    -93.738757,
+    41.654924
+],
+  "geometry": {"coordinates":[-93.73875700000001,41.654924],"type":"Point"}
+}

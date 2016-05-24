@@ -1,0 +1,73 @@
+{
+  "id": 856804541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668545,41.960869,-91.668545,41.960869",
+    "geom:latitude":41.960869,
+    "geom:longitude":-91.668545,
+    "iso:country":"US",
+    "sg:address":"1617 K St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 8069",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IqMm7ZsS75fDm1DtpRGPM_41.960869_-91.668545@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103383,
+    "wof:geomhash":"e1716a0780a121d5ebb2b5fb8197c527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856804541
+        }
+    ],
+    "wof:id":856804541,
+    "wof:lastmodified":1464103383,
+    "wof:name":"Frame House",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.668545,
+    41.960869,
+    -91.668545,
+    41.960869
+],
+  "geometry": {"coordinates":[-91.66854499999999,41.960869],"type":"Point"}
+}

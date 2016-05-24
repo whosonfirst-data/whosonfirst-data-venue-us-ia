@@ -1,0 +1,74 @@
+{
+  "id": 857063017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.866237,41.266027,-95.866237,41.266027",
+    "geom:latitude":41.266027,
+    "geom:longitude":-95.866237,
+    "iso:country":"US",
+    "sg:address":"1521 Avenue E St Ste 2",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 9644",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.barbsbestfriends.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R7dswB9Nd8tz3LHtyRGiM_41.266027_-95.866237@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115023,
+    "wof:geomhash":"45d530673eea91305eb069f58d3a6858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063017
+        }
+    ],
+    "wof:id":857063017,
+    "wof:lastmodified":1464115023,
+    "wof:name":"Barb's Best Friends",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -95.866237,
+    41.266027,
+    -95.866237,
+    41.266027
+],
+  "geometry": {"coordinates":[-95.866237,41.266027],"type":"Point"}
+}

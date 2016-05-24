@@ -1,0 +1,73 @@
+{
+  "id": 856929813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.782021,41.91929,-91.782021,41.91929",
+    "geom:latitude":41.91929,
+    "geom:longitude":-91.782021,
+    "iso:country":"US",
+    "sg:address":"216 Main St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2987",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1362fKTzXIzq4qVQNp5VHK_41.919290_-91.782021@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109239,
+    "wof:geomhash":"7eda7025f4bb76485c86cd7b576482c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856929813
+        }
+    ],
+    "wof:id":856929813,
+    "wof:lastmodified":1464109239,
+    "wof:name":"Legion Hall",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -91.782021,
+    41.91929,
+    -91.782021,
+    41.91929
+],
+  "geometry": {"coordinates":[-91.782021,41.91929],"type":"Point"}
+}

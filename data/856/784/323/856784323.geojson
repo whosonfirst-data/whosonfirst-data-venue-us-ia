@@ -1,0 +1,71 @@
+{
+  "id": 856784323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.235319,41.259771,-95.235319,41.259771",
+    "geom:latitude":41.259771,
+    "geom:longitude":-95.235319,
+    "iso:country":"US",
+    "sg:address":"49370 Dogwood Rd",
+    "sg:city":"Griswold",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 778 4367",
+    "sg:postcode":"51535",
+    "sg:province":"IA",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RqnS3IRr0th2brWpEB5So_41.259771_-95.235319@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102537,
+    "wof:geomhash":"11cefc92ec42d0e45e15f7b70e3fe0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856784323
+        }
+    ],
+    "wof:id":856784323,
+    "wof:lastmodified":1464102537,
+    "wof:name":"Cornerstone Gems Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -95.235319,
+    41.259771,
+    -95.235319,
+    41.259771
+],
+  "geometry": {"coordinates":[-95.235319,41.259771],"type":"Point"}
+}

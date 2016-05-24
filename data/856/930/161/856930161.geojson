@@ -1,0 +1,75 @@
+{
+  "id": 856930161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.222179,41.485426,-95.222179,41.485426",
+    "geom:latitude":41.485426,
+    "geom:longitude":-95.222179,
+    "iso:country":"US",
+    "sg:address":"900 Antique City Dr",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 2231",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rsQKZNWjHvCzYHrc1GJAE_41.485426_-95.222179@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109257,
+    "wof:geomhash":"8dbb35dc11248ab4c92ef01accb8df2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856930161
+        }
+    ],
+    "wof:id":856930161,
+    "wof:lastmodified":1464109257,
+    "wof:name":"Peace Haven Retirement Home",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -95.222179,
+    41.485426,
+    -95.222179,
+    41.485426
+],
+  "geometry": {"coordinates":[-95.222179,41.485426],"type":"Point"}
+}

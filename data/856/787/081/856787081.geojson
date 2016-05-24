@@ -1,0 +1,75 @@
+{
+  "id": 856787081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620092,41.648573,-93.620092,41.648573",
+    "geom:latitude":41.648573,
+    "geom:longitude":-93.620092,
+    "iso:country":"US",
+    "sg:address":"300 NW 48th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 3149",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xL5KNU63keWccvpxWTx1h_41.648573_-93.620092@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102662,
+    "wof:geomhash":"a8d8a09936581d4501e1ad9e5ef6bca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856787081
+        }
+    ],
+    "wof:id":856787081,
+    "wof:lastmodified":1464102662,
+    "wof:name":"Lister Industries",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [
+    -93.620092,
+    41.648573,
+    -93.620092,
+    41.648573
+],
+  "geometry": {"coordinates":[-93.620092,41.648573],"type":"Point"}
+}

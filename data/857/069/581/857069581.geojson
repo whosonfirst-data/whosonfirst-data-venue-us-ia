@@ -1,0 +1,71 @@
+{
+  "id": 857069581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608803,41.9739,-91.608803,41.9739",
+    "geom:latitude":41.9739,
+    "geom:longitude":-91.608803,
+    "iso:country":"US",
+    "sg:address":"1225 42nd St SE Ofc",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 1550",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07NNVJP2bEoh3YJRmAXpuv_41.973900_-91.608803@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115308,
+    "wof:geomhash":"7c826639d2937d6058b64b8224d6a850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069581
+        }
+    ],
+    "wof:id":857069581,
+    "wof:lastmodified":1464115308,
+    "wof:name":"Five Seasons Senior Housing",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.608803,
+    41.9739,
+    -91.608803,
+    41.9739
+],
+  "geometry": {"coordinates":[-91.60880299999999,41.9739],"type":"Point"}
+}

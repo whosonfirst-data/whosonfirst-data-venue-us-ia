@@ -1,0 +1,68 @@
+{
+  "id": 856882313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.641273,41.592521,-93.641273,41.592521",
+    "geom:latitude":41.592521,
+    "geom:longitude":-93.641273,
+    "iso:country":"US",
+    "sg:address":"853 18th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 6320",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35eHkXOZeskSNcCh6xc9fF_41.592521_-93.641273@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107302,
+    "wof:geomhash":"375de40b99cf3c8285502d32c49144b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856882313
+        }
+    ],
+    "wof:id":856882313,
+    "wof:lastmodified":1464107302,
+    "wof:name":"Blackbird Hill Pastries",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.641273,
+    41.592521,
+    -93.641273,
+    41.592521
+],
+  "geometry": {"coordinates":[-93.641273,41.592521],"type":"Point"}
+}

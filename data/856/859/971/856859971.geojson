@@ -1,0 +1,67 @@
+{
+  "id": 856859971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.730142,41.963843,-91.730142,41.963843",
+    "geom:latitude":41.963843,
+    "geom:longitude":-91.730142,
+    "iso:country":"US",
+    "sg:address":"4354 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2300",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.weisbein.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22NQQnhiOptGvZbVgtfCT4_41.963843_-91.730142@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105991,
+    "wof:geomhash":"0cc2c94cc4c4949bd48ac8acdb5812a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856859971
+        }
+    ],
+    "wof:id":856859971,
+    "wof:lastmodified":1464105991,
+    "wof:name":"Weisbein Chiropractic",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.730142,
+    41.963843,
+    -91.730142,
+    41.963843
+],
+  "geometry": {"coordinates":[-91.730142,41.963843],"type":"Point"}
+}

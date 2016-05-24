@@ -1,0 +1,73 @@
+{
+  "id": 856817445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.289058,41.173459,-95.289058,41.173459",
+    "geom:latitude":41.173459,
+    "geom:longitude":-95.289058,
+    "iso:country":"US",
+    "sg:address":"10955 470th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 767 2754",
+    "sg:postcode":"51541",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nYZ815GklPvry4qQzsWWU_41.173459_-95.289058@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103942,
+    "wof:geomhash":"49be167a3047b73dc640d972bfc44b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856817445
+        }
+    ],
+    "wof:id":856817445,
+    "wof:lastmodified":1464103942,
+    "wof:name":"Steiber Farm Corp",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.289058,
+    41.173459,
+    -95.289058,
+    41.173459
+],
+  "geometry": {"coordinates":[-95.289058,41.173459],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856837673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.727181,41.252353,-95.727181,41.252353",
+    "geom:latitude":41.252353,
+    "geom:longitude":-95.727181,
+    "iso:country":"US",
+    "sg:address":"24001 Cottonwood Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9065",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJxjv7ZMxc1j7n6oKlo7i_41.252353_-95.727181@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104900,
+    "wof:geomhash":"268a31c99e3079337024ddba2fc38755",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856837673
+        }
+    ],
+    "wof:id":856837673,
+    "wof:lastmodified":1464104900,
+    "wof:name":"Hilderbrand Construction Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.727181,
+    41.252353,
+    -95.727181,
+    41.252353
+],
+  "geometry": {"coordinates":[-95.727181,41.252353],"type":"Point"}
+}

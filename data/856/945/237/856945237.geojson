@@ -1,0 +1,77 @@
+{
+  "id": 856945237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.701405,41.603572,-93.701405,41.603572",
+    "geom:latitude":41.603572,
+    "geom:longitude":-93.701405,
+    "iso:country":"US",
+    "sg:address":"6111 Forest Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 279 1337",
+    "sg:postcode":"50311",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41URTZ6EQSIpMSpPZmk7s3_41.603572_-93.701405@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109894,
+    "wof:geomhash":"1b13cd32066b68718b5ab1c8bfad0d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877115,
+            "region_id":85688713,
+            "venue_id":856945237
+        }
+    ],
+    "wof:id":856945237,
+    "wof:lastmodified":1464109894,
+    "wof:name":"Alpine Chimney Sweep Inc",
+    "wof:parent_id":85877115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -93.701405,
+    41.603572,
+    -93.701405,
+    41.603572
+],
+  "geometry": {"coordinates":[-93.70140499999999,41.603572],"type":"Point"}
+}

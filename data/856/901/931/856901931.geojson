@@ -1,0 +1,71 @@
+{
+  "id": 856901931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.687467,42.04163,-91.687467,42.04163",
+    "geom:latitude":42.04163,
+    "geom:longitude":-91.687467,
+    "iso:country":"US",
+    "sg:address":"1037 Milstead Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 7786",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wF9tKGITDUjyHkKktFymy_42.041630_-91.687467@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108122,
+    "wof:geomhash":"a50805d818989dc422baddd0d88edbe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856901931
+        }
+    ],
+    "wof:id":856901931,
+    "wof:lastmodified":1464108122,
+    "wof:name":"Caldwell Appraisal & Conslntg",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -91.687467,
+    42.04163,
+    -91.687467,
+    42.04163
+],
+  "geometry": {"coordinates":[-91.687467,42.04163],"type":"Point"}
+}

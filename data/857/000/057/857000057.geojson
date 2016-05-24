@@ -1,0 +1,70 @@
+{
+  "id": 857000057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558323,41.358278,-93.558323,41.358278",
+    "geom:latitude":41.358278,
+    "geom:longitude":-93.558323,
+    "iso:country":"US",
+    "sg:address":"200 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8801",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.godfathers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o3SwXpmtdDOKmH5xNS5EG_41.358278_-93.558323@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112370,
+    "wof:geomhash":"16a3592b1c6440cf44fdb7f9e115c52a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857000057
+        }
+    ],
+    "wof:id":857000057,
+    "wof:lastmodified":1464112370,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.558323,
+    41.358278,
+    -93.558323,
+    41.358278
+],
+  "geometry": {"coordinates":[-93.558323,41.358278],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856878071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.763349,41.863295,-91.763349,41.863295",
+    "geom:latitude":41.863295,
+    "geom:longitude":-91.763349,
+    "iso:country":"US",
+    "sg:address":"11808 Maple Grove Rd SW",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 3277",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6llcGE0RWNDYFqOrgWvwAp_41.863295_-91.763349@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107083,
+    "wof:geomhash":"5c21e8e425a7275c0d4bc75d45b4e138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856878071
+        }
+    ],
+    "wof:id":856878071,
+    "wof:lastmodified":1464107083,
+    "wof:name":"Ceramic Tile Inc",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.763349,
+    41.863295,
+    -91.763349,
+    41.863295
+],
+  "geometry": {"coordinates":[-91.76334900000001,41.863295],"type":"Point"}
+}

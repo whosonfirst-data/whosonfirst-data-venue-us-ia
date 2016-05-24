@@ -1,0 +1,71 @@
+{
+  "id": 856800823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.520194,41.890395,-91.520194,41.890395",
+    "geom:latitude":41.890395,
+    "geom:longitude":-91.520194,
+    "iso:country":"US",
+    "sg:address":"1610 Ivanhoe Rd",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 4313",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dressmaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKSXJ6DlIRvlw46FUWhef_41.890395_-91.520194@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103229,
+    "wof:geomhash":"c596f71ae6be7c2ec38f21626b0b60dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856800823
+        }
+    ],
+    "wof:id":856800823,
+    "wof:lastmodified":1464103229,
+    "wof:name":"Diane's Custom Clothing",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dressmaker"
+    ]
+},
+  "bbox": [
+    -91.520194,
+    41.890395,
+    -91.520194,
+    41.890395
+],
+  "geometry": {"coordinates":[-91.520194,41.890395],"type":"Point"}
+}

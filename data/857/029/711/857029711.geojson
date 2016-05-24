@@ -1,0 +1,73 @@
+{
+  "id": 857029711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.779927,42.099543,-91.779927,42.099543",
+    "geom:latitude":42.099543,
+    "geom:longitude":-91.779927,
+    "iso:country":"US",
+    "sg:address":"3277 Daec Rd",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 851 6151",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57OhLfhvNh2q3vqqQCkCcO_42.099543_-91.779927@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113650,
+    "wof:geomhash":"a3d3a495c56b28de6634a4e8a799aec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857029711
+        }
+    ],
+    "wof:id":857029711,
+    "wof:lastmodified":1464113650,
+    "wof:name":"ATG Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -91.779927,
+    42.099543,
+    -91.779927,
+    42.099543
+],
+  "geometry": {"coordinates":[-91.779927,42.099543],"type":"Point"}
+}

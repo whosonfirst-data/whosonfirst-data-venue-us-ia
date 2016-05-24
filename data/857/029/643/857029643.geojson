@@ -1,0 +1,71 @@
+{
+  "id": 857029643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.618066,41.2325,-95.618066,41.2325",
+    "geom:latitude":41.2325,
+    "geom:longitude":-95.618066,
+    "iso:country":"US",
+    "sg:address":"25 W Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3366",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RESBVQa6DugnL5J3uvqcS_41.232500_-95.618066@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113648,
+    "wof:geomhash":"64ee8da5a4aa62ad741b185baf7f7845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857029643
+        }
+    ],
+    "wof:id":857029643,
+    "wof:lastmodified":1464113648,
+    "wof:name":"Treynor Ag Supply",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -95.618066,
+    41.2325,
+    -95.618066,
+    41.2325
+],
+  "geometry": {"coordinates":[-95.618066,41.2325],"type":"Point"}
+}

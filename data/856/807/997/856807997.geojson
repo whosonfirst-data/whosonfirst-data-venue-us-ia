@@ -1,0 +1,71 @@
+{
+  "id": 856807997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850702,41.253536,-95.850702,41.253536",
+    "geom:latitude":41.253536,
+    "geom:longitude":-95.850702,
+    "iso:country":"US",
+    "sg:address":"716 S 4th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 4874",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xmdSpI1ue1dODVWSEiv04_41.253536_-95.850702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103531,
+    "wof:geomhash":"34d522442fc9fff4d51a27d7038689a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856807997
+        }
+    ],
+    "wof:id":856807997,
+    "wof:lastmodified":1464103531,
+    "wof:name":"American Legion",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -95.850702,
+    41.253536,
+    -95.850702,
+    41.253536
+],
+  "geometry": {"coordinates":[-95.850702,41.253536],"type":"Point"}
+}

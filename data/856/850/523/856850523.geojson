@@ -1,0 +1,71 @@
+{
+  "id": 856850523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.575759,41.748102,-91.575759,41.748102",
+    "geom:latitude":41.748102,
+    "geom:longitude":-91.575759,
+    "iso:country":"US",
+    "sg:address":"2594 N Liberty Rd NE",
+    "sg:city":"North Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 665 2365",
+    "sg:postcode":"52317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896499,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Nuh770xK2uDHqnbMitVh_41.748102_-91.575759@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105551,
+    "wof:geomhash":"4333d405e4f9d2e6431b7e118a9cafe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896499,
+            "region_id":85688713,
+            "venue_id":856850523
+        }
+    ],
+    "wof:id":856850523,
+    "wof:lastmodified":1464105551,
+    "wof:name":"H & H Home Builders",
+    "wof:parent_id":85896499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.575759,
+    41.748102,
+    -91.575759,
+    41.748102
+],
+  "geometry": {"coordinates":[-91.57575900000001,41.748102],"type":"Point"}
+}

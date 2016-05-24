@@ -1,0 +1,73 @@
+{
+  "id": 856805837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.54961,41.669549,-91.54961,41.669549",
+    "geom:latitude":41.669549,
+    "geom:longitude":-91.54961,
+    "iso:country":"US",
+    "sg:address":"708 McLean St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2144",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BhS2JyVj5U3OBebmjYT3j_41.669549_-91.549610@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103450,
+    "wof:geomhash":"7f07c2d8d7715c5c57a63e479f419b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896465,
+            "region_id":85688713,
+            "venue_id":856805837
+        }
+    ],
+    "wof:id":856805837,
+    "wof:lastmodified":1464103450,
+    "wof:name":"Rhys B Jones DDS",
+    "wof:parent_id":85896465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.54961,
+    41.669549,
+    -91.54961,
+    41.669549
+],
+  "geometry": {"coordinates":[-91.54961,41.669549],"type":"Point"}
+}

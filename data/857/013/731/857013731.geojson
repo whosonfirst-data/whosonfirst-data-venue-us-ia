@@ -1,0 +1,75 @@
+{
+  "id": 857013731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533291,41.651389,-91.533291,41.651389",
+    "geom:latitude":41.651389,
+    "geom:longitude":-91.533291,
+    "iso:country":"US",
+    "sg:address":"831 S Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 8522",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oezSWnn1uygOaCkdS1LdU_41.651389_-91.533291@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112934,
+    "wof:geomhash":"d3a2e2093eb0bb93816997f71c4c4ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857013731
+        }
+    ],
+    "wof:id":857013731,
+    "wof:lastmodified":1464112934,
+    "wof:name":"Community II Used Cars",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.533291,
+    41.651389,
+    -91.533291,
+    41.651389
+],
+  "geometry": {"coordinates":[-91.53329100000001,41.651389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856871383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.730939,42.077949,-91.730939,42.077949",
+    "geom:latitude":42.077949,
+    "geom:longitude":-91.730939,
+    "iso:country":"US",
+    "sg:address":"9808 Hawks Haven Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4420",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K5cnCdbWVX1wEGH4HlAQB_42.077949_-91.730939@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106693,
+    "wof:geomhash":"e7faa374febc909748e24242aa12a166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856871383
+        }
+    ],
+    "wof:id":856871383,
+    "wof:lastmodified":1464106693,
+    "wof:name":"Heartland Contracting",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -91.730939,
+    42.077949,
+    -91.730939,
+    42.077949
+],
+  "geometry": {"coordinates":[-91.73093900000001,42.077949],"type":"Point"}
+}

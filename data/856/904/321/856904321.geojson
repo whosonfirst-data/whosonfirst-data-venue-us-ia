@@ -1,0 +1,71 @@
+{
+  "id": 856904321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651559,41.998613,-91.651559,41.998613",
+    "geom:latitude":41.998613,
+    "geom:longitude":-91.651559,
+    "iso:country":"US",
+    "sg:address":"1730 I Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1302",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KIzIGii5a51Fn44T1G4YI_41.998613_-91.651559@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108208,
+    "wof:geomhash":"95022017210131765554017908c0f1cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856904321
+        }
+    ],
+    "wof:id":856904321,
+    "wof:lastmodified":1464108208,
+    "wof:name":"Sargent Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -91.651559,
+    41.998613,
+    -91.651559,
+    41.998613
+],
+  "geometry": {"coordinates":[-91.65155900000001,41.998613],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857069165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666193,42.034703,-91.666193,42.034703",
+    "geom:latitude":42.034703,
+    "geom:longitude":-91.666193,
+    "iso:country":"US",
+    "sg:address":"1943 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0539",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.hy-vee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rvjUHtajY7TDnIsckGxTb_42.034703_-91.666193@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115294,
+    "wof:geomhash":"a08f4e438555c9da6009b64f04878c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069165
+        }
+    ],
+    "wof:id":857069165,
+    "wof:lastmodified":1464115294,
+    "wof:name":"Hy-Vee Food Store",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -91.666193,
+    42.034703,
+    -91.666193,
+    42.034703
+],
+  "geometry": {"coordinates":[-91.66619300000001,42.034703],"type":"Point"}
+}

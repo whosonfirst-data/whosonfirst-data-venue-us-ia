@@ -1,0 +1,73 @@
+{
+  "id": 856967617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667902,42.071024,-91.667902,42.071024",
+    "geom:latitude":42.071024,
+    "geom:longitude":-91.667902,
+    "iso:country":"US",
+    "sg:address":"395 S Troy Rd",
+    "sg:city":"Robins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 4242",
+    "sg:postcode":"52328",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45NC9Gzpj3j8wHLijnwoFh_42.071024_-91.667902@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110853,
+    "wof:geomhash":"20557b416e40e1c34416a0449805e5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856967617
+        }
+    ],
+    "wof:id":856967617,
+    "wof:lastmodified":1464110853,
+    "wof:name":"A & D Drywall",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.667902,
+    42.071024,
+    -91.667902,
+    42.071024
+],
+  "geometry": {"coordinates":[-91.667902,42.071024],"type":"Point"}
+}

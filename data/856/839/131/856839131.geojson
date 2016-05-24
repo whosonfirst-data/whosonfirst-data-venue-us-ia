@@ -1,0 +1,68 @@
+{
+  "id": 856839131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.708814,41.572447,-93.708814,41.572447",
+    "geom:latitude":41.572447,
+    "geom:longitude":-93.708814,
+    "iso:country":"US",
+    "sg:address":"205 5th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 255 9827",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UjhrdWGUrsNlO4ckm5CAN_41.572447_-93.708814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104972,
+    "wof:geomhash":"42ad1ac592bb4097780c0cc91159ade2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856839131
+        }
+    ],
+    "wof:id":856839131,
+    "wof:lastmodified":1464104972,
+    "wof:name":"Tavern",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.708814,
+    41.572447,
+    -93.708814,
+    41.572447
+],
+  "geometry": {"coordinates":[-93.708814,41.572447],"type":"Point"}
+}

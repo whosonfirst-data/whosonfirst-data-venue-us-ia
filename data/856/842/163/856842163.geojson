@@ -1,0 +1,67 @@
+{
+  "id": 856842163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.683222,41.390683,-95.683222,41.390683",
+    "geom:latitude":41.390683,
+    "geom:longitude":-95.683222,
+    "iso:country":"US",
+    "sg:address":"629 North St",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2703",
+    "sg:postcode":"51576",
+    "sg:province":"IA",
+    "sg:website":"www.underwood.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QgIvmzlqefukJpWxejkCW_41.390683_-95.683222@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105094,
+    "wof:geomhash":"7c7f117532ebfa991fb947d5bf39cbfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856842163
+        }
+    ],
+    "wof:id":856842163,
+    "wof:lastmodified":1464105094,
+    "wof:name":"Underwood High School",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.683222,
+    41.390683,
+    -95.683222,
+    41.390683
+],
+  "geometry": {"coordinates":[-95.683222,41.390683],"type":"Point"}
+}

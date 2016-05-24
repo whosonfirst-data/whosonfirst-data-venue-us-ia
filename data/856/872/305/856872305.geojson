@@ -1,0 +1,68 @@
+{
+  "id": 856872305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.567235,41.673766,-91.567235,41.673766",
+    "geom:latitude":41.673766,
+    "geom:longitude":-91.567235,
+    "iso:country":"US",
+    "sg:address":"121 5th St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 656 2295",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CriG1sYqcwNkr4UA4vk3a_41.673766_-91.567235@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106771,
+    "wof:geomhash":"2526cd7405760e400290622c2a3c597b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856872305
+        }
+    ],
+    "wof:id":856872305,
+    "wof:lastmodified":1464106771,
+    "wof:name":"Reif's Family Ctr",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.567235,
+    41.673766,
+    -91.567235,
+    41.673766
+],
+  "geometry": {"coordinates":[-91.567235,41.673766],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856785967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.641415,41.590934,-93.641415,41.590934",
+    "geom:latitude":41.590934,
+    "geom:longitude":-93.641415,
+    "iso:country":"US",
+    "sg:address":"740 18th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 0226",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ni3XXkMed5gmEtGhh5b1E_41.590934_-93.641415@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102612,
+    "wof:geomhash":"3a8fb9613efb403c83239a3cf29b0f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856785967
+        }
+    ],
+    "wof:id":856785967,
+    "wof:lastmodified":1464102612,
+    "wof:name":"Apartments By Ellingson",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.641415,
+    41.590934,
+    -93.641415,
+    41.590934
+],
+  "geometry": {"coordinates":[-93.64141499999999,41.590934],"type":"Point"}
+}

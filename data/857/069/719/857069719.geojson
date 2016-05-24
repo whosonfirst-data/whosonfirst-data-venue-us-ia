@@ -1,0 +1,75 @@
+{
+  "id": 857069719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654198,41.9842,-91.654198,41.9842",
+    "geom:latitude":41.9842,
+    "geom:longitude":-91.654198,
+    "iso:country":"US",
+    "sg:address":"1260 3rd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2682",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22NmxbJfcQ3i3pqfssyuWe_41.984200_-91.654198@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115318,
+    "wof:geomhash":"a31a4ec978900020b7e30d30bb719000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857069719
+        }
+    ],
+    "wof:id":857069719,
+    "wof:lastmodified":1464115318,
+    "wof:name":"Linn County OB-Gyn PC",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -91.654198,
+    41.9842,
+    -91.654198,
+    41.9842
+],
+  "geometry": {"coordinates":[-91.65419799999999,41.9842],"type":"Point"}
+}

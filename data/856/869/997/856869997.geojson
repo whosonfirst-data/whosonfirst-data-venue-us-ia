@@ -1,0 +1,73 @@
+{
+  "id": 856869997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.674027,41.946618,-91.674027,41.946618",
+    "geom:latitude":41.946618,
+    "geom:longitude":-91.674027,
+    "iso:country":"US",
+    "sg:address":"3240 Southgate Pl SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7752",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCLwKoJBtyfrmYo25oL6K_41.946618_-91.674027@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106512,
+    "wof:geomhash":"debba90b08be4ccd475fb0dca5e24d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856869997
+        }
+    ],
+    "wof:id":856869997,
+    "wof:lastmodified":1464106512,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -91.674027,
+    41.946618,
+    -91.674027,
+    41.946618
+],
+  "geometry": {"coordinates":[-91.674027,41.946618],"type":"Point"}
+}

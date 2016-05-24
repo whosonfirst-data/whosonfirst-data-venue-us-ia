@@ -1,0 +1,71 @@
+{
+  "id": 856895199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.051027,41.540848,-94.051027,41.540848",
+    "geom:latitude":41.540848,
+    "geom:longitude":-94.051027,
+    "iso:country":"US",
+    "sg:address":"2249 Maple Ridge",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2490",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pwh7D5D1tBlKtdyCwSD60_41.540848_-94.051027@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107871,
+    "wof:geomhash":"be89771b663799cc833c69310f489e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856895199
+        }
+    ],
+    "wof:id":856895199,
+    "wof:lastmodified":1464107871,
+    "wof:name":"Air Tech",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.051027,
+    41.540848,
+    -94.051027,
+    41.540848
+],
+  "geometry": {"coordinates":[-94.051027,41.540848],"type":"Point"}
+}

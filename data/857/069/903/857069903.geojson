@@ -1,0 +1,83 @@
+{
+  "id": 857069903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673698,41.973801,-91.673698,41.973801",
+    "geom:latitude":41.973801,
+    "geom:longitude":-91.673698,
+    "iso:country":"US",
+    "sg:address":"215 3rd Ave SW Ste 2",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1610",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AbTSYfcWTsPNOFyow84cZ_41.973801_-91.673698@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115328,
+    "wof:geomhash":"f5cb2933fad2cdeae09262f45a2eb150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857069903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857069903
+        }
+    ],
+    "wof:id":857069903,
+    "wof:lastmodified":1464115328,
+    "wof:name":"Gerdemann Accounting & Tax Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -91.673698,
+    41.973801,
+    -91.673698,
+    41.973801
+],
+  "geometry": {"coordinates":[-91.673698,41.973801],"type":"Point"}
+}

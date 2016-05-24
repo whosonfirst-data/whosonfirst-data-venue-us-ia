@@ -1,0 +1,68 @@
+{
+  "id": 856848657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.566105,41.675906,-91.566105,41.675906",
+    "geom:latitude":41.675906,
+    "geom:longitude":-91.566105,
+    "iso:country":"US",
+    "sg:address":"590 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 466 0307",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_538LUmi4ULv2wq7yeiN221_41.675906_-91.566105@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105435,
+    "wof:geomhash":"c803cc0ac3cfe0bd2700479f42af528d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856848657
+        }
+    ],
+    "wof:id":856848657,
+    "wof:lastmodified":1464105435,
+    "wof:name":"Deli Mart",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.566105,
+    41.675906,
+    -91.566105,
+    41.675906
+],
+  "geometry": {"coordinates":[-91.56610499999999,41.675906],"type":"Point"}
+}

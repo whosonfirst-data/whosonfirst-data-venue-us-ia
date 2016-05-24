@@ -1,0 +1,69 @@
+{
+  "id": 856829157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417933,42.503923,-96.417933,42.503923",
+    "geom:latitude":42.503923,
+    "geom:longitude":-96.417933,
+    "iso:country":"US",
+    "sg:address":"729 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 7147",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3szAvOPIrTxIf2L4mFdhXm_42.503923_-96.417933@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104478,
+    "wof:geomhash":"2fdbb6d652637be3cc888d2f9d967ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856829157
+        }
+    ],
+    "wof:id":856829157,
+    "wof:lastmodified":1464104478,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.417933,
+    42.503923,
+    -96.417933,
+    42.503923
+],
+  "geometry": {"coordinates":[-96.417933,42.503923],"type":"Point"}
+}

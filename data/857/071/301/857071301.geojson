@@ -1,0 +1,73 @@
+{
+  "id": 857071301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.700897,42.004398,-91.700897,42.004398",
+    "geom:latitude":42.004398,
+    "geom:longitude":-91.700897,
+    "iso:country":"US",
+    "sg:address":"2200 Buckingham Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8300",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N00dCRaZYtYwq2ddi0fv1_42.004398_-91.700897@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115385,
+    "wof:geomhash":"f1438cf090e6b1b6ba7b5662eec45455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071301
+        }
+    ],
+    "wof:id":857071301,
+    "wof:lastmodified":1464115385,
+    "wof:name":"Windsor-On-the-River",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.700897,
+    42.004398,
+    -91.700897,
+    42.004398
+],
+  "geometry": {"coordinates":[-91.700897,42.004398],"type":"Point"}
+}

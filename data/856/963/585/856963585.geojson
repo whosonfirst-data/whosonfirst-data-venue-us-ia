@@ -1,0 +1,73 @@
+{
+  "id": 856963585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.354974,42.483473,-96.354974,42.483473",
+    "geom:latitude":42.483473,
+    "geom:longitude":-96.354974,
+    "iso:country":"US",
+    "sg:address":"4105 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 293 1697",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cwVaTHb4wVdMGbAMuX1FF_42.483473_-96.354974@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110687,
+    "wof:geomhash":"8b0b323d2a224700c76400622d38b153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856963585
+        }
+    ],
+    "wof:id":856963585,
+    "wof:lastmodified":1464110687,
+    "wof:name":"Ultra No Touch Carwash",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.354974,
+    42.483473,
+    -96.354974,
+    42.483473
+],
+  "geometry": {"coordinates":[-96.354974,42.483473],"type":"Point"}
+}

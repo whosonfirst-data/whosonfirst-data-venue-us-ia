@@ -1,0 +1,74 @@
+{
+  "id": 857057511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.73539,41.59975,-93.73539,41.59975",
+    "geom:latitude":41.59975,
+    "geom:longitude":-93.73539,
+    "iso:country":"US",
+    "sg:address":"1821 22nd St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/235850-toojays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 221 2900",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T4I6CqI1oSVP2ZOpjJNLL_41.599750_-93.735390@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114806,
+    "wof:geomhash":"1d191f87476c5fa3655ebf5166c2e7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":857057511
+        }
+    ],
+    "wof:id":857057511,
+    "wof:lastmodified":1464114806,
+    "wof:name":"Toojays",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -93.73539,
+    41.59975,
+    -93.73539,
+    41.59975
+],
+  "geometry": {"coordinates":[-93.73539,41.59975],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856985747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.549272,42.183353,-91.549272,42.183353",
+    "geom:latitude":42.183353,
+    "geom:longitude":-91.549272,
+    "iso:country":"US",
+    "sg:address":"4444 Rath Rd",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 1465",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "sg:website":"www.thepolishshop.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E8s8xGYE6iHUG2SOh5wIe_42.183353_-91.549272@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111778,
+    "wof:geomhash":"4772066eb4208831025615ff2afa4625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856985747
+        }
+    ],
+    "wof:id":856985747,
+    "wof:lastmodified":1464111778,
+    "wof:name":"Polish Shop",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -91.549272,
+    42.183353,
+    -91.549272,
+    42.183353
+],
+  "geometry": {"coordinates":[-91.549272,42.183353],"type":"Point"}
+}

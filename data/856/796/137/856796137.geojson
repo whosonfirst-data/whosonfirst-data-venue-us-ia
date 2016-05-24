@@ -1,0 +1,77 @@
+{
+  "id": 856796137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.396356,42.495825,-96.396356,42.495825",
+    "geom:latitude":42.495825,
+    "geom:longitude":-96.396356,
+    "iso:country":"US",
+    "sg:address":"504 Court St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 1223",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NBZIs88E9T4ySaFv3JFC8_42.495825_-96.396356@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103024,
+    "wof:geomhash":"d4c5a92ba0705e56b108692c926fd702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856796137
+        }
+    ],
+    "wof:id":856796137,
+    "wof:lastmodified":1464103024,
+    "wof:name":"Stereo Town",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -96.396356,
+    42.495825,
+    -96.396356,
+    42.495825
+],
+  "geometry": {"coordinates":[-96.396356,42.495825],"type":"Point"}
+}

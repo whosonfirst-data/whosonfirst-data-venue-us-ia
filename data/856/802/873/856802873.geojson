@@ -1,0 +1,66 @@
+{
+  "id": 856802873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.610423,41.232491,-95.610423,41.232491",
+    "geom:latitude":41.232491,
+    "geom:longitude":-95.610423,
+    "iso:country":"US",
+    "sg:address":"15 E Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3345",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E3hC1p68FAQd6HvWBByMW_41.232491_-95.610423@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103318,
+    "wof:geomhash":"74538e4a9549a8b87bb7298aa7401896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856802873
+        }
+    ],
+    "wof:id":856802873,
+    "wof:lastmodified":1464103318,
+    "wof:name":"Treynor Insurance Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.610423,
+    41.232491,
+    -95.610423,
+    41.232491
+],
+  "geometry": {"coordinates":[-95.610423,41.232491],"type":"Point"}
+}

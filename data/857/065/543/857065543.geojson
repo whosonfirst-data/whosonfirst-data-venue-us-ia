@@ -1,0 +1,71 @@
+{
+  "id": 857065543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.593903,41.933701,-91.593903,41.933701",
+    "geom:latitude":41.933701,
+    "geom:longitude":-91.593903,
+    "iso:country":"US",
+    "sg:address":"4452 Plumberry Rd",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 2090",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AKbaV8UEbgUzwBnRaLkyk_41.933701_-91.593903@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115117,
+    "wof:geomhash":"0a5a5c9e59e49f6817a6925b4492fa4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857065543
+        }
+    ],
+    "wof:id":857065543,
+    "wof:lastmodified":1464115117,
+    "wof:name":"Neff Brad Construction",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.593903,
+    41.933701,
+    -91.593903,
+    41.933701
+],
+  "geometry": {"coordinates":[-91.593903,41.933701],"type":"Point"}
+}

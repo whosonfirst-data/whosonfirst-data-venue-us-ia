@@ -1,0 +1,71 @@
+{
+  "id": 857068019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.635007,42.015462,-91.635007,42.015462",
+    "geom:latitude":42.015462,
+    "geom:longitude":-91.635007,
+    "iso:country":"US",
+    "sg:address":"3661 1st Ave SE Ste A",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 2000",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hWJ7MTDbkGMYEuDM2BOwe_42.015462_-91.635007@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115241,
+    "wof:geomhash":"85742481cde14dbaa01919e10f53431d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068019
+        }
+    ],
+    "wof:id":857068019,
+    "wof:lastmodified":1464115241,
+    "wof:name":"New Millennium Salon Studio & Spa",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.635007,
+    42.015462,
+    -91.635007,
+    42.015462
+],
+  "geometry": {"coordinates":[-91.635007,42.015462],"type":"Point"}
+}

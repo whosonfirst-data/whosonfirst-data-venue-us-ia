@@ -1,0 +1,75 @@
+{
+  "id": 856769315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718804,42.022083,-91.718804,42.022083",
+    "geom:latitude":42.022083,
+    "geom:longitude":-91.718804,
+    "iso:country":"US",
+    "sg:address":"5500 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 431 3368",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_597dQXHWtUjxRHDbmrpJ0n_42.022083_-91.718804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102192,
+    "wof:geomhash":"b65e475996664221b7e38bd538c334a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856769315
+        }
+    ],
+    "wof:id":856769315,
+    "wof:lastmodified":1464102192,
+    "wof:name":"Dent Terminator",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.718804,
+    42.022083,
+    -91.718804,
+    42.022083
+],
+  "geometry": {"coordinates":[-91.71880400000001,42.022083],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857068729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632797,42.034,-91.632797,42.034",
+    "geom:latitude":42.034,
+    "geom:longitude":-91.632797,
+    "iso:country":"US",
+    "sg:address":"238 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0693",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JYu2uloMKWjIgWi0J0rZZ_42.034000_-91.632797@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115278,
+    "wof:geomhash":"34ba66db7ce00476f5dd12c573f429c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068729
+        }
+    ],
+    "wof:id":857068729,
+    "wof:lastmodified":1464115278,
+    "wof:name":"Joe's Auto Service",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.632797,
+    42.034,
+    -91.632797,
+    42.034
+],
+  "geometry": {"coordinates":[-91.632797,42.034],"type":"Point"}
+}

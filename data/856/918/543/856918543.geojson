@@ -1,0 +1,72 @@
+{
+  "id": 856918543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851096,41.255826,-95.851096,41.255826",
+    "geom:latitude":41.255826,
+    "geom:longitude":-95.851096,
+    "iso:country":"US",
+    "sg:address":"600 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8251",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.margarites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bau3fqaWkvpK6992E4x0L_41.255826_-95.851096@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108750,
+    "wof:geomhash":"84c85c0454706b010e6564cbbaee2844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856918543
+        }
+    ],
+    "wof:id":856918543,
+    "wof:lastmodified":1464108750,
+    "wof:name":"Margarite's Catering",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -95.851096,
+    41.255826,
+    -95.851096,
+    41.255826
+],
+  "geometry": {"coordinates":[-95.851096,41.255826],"type":"Point"}
+}

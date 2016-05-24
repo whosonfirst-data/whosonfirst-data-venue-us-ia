@@ -1,0 +1,79 @@
+{
+  "id": 857070299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7248,41.952,-91.7248,41.952",
+    "geom:latitude":41.952,
+    "geom:longitude":-91.7248,
+    "iso:country":"US",
+    "sg:address":"2660 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3808",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store",
+        "mattress"
+    ],
+    "sg:website":"www.lebeda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FOOqsyLrtI0EiRw2joBFZ_41.952000_-91.724800@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115347,
+    "wof:geomhash":"0bd81b2ff6359f7abe25902d1f8af54c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070299
+        }
+    ],
+    "wof:id":857070299,
+    "wof:lastmodified":1464115347,
+    "wof:name":"Lebeda Mattress Factory",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -91.7248,
+    41.952,
+    -91.7248,
+    41.952
+],
+  "geometry": {"coordinates":[-91.7248,41.952],"type":"Point"}
+}

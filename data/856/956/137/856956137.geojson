@@ -1,0 +1,75 @@
+{
+  "id": 856956137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560829,41.666768,-91.560829,41.666768",
+    "geom:latitude":41.666768,
+    "geom:longitude":-91.560829,
+    "iso:country":"US",
+    "sg:address":"93 2nd St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 688 9833",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chinese",
+        "buffet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zpy1ENyKqPfXzFniYsZt1_41.666768_-91.560829@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110387,
+    "wof:geomhash":"9b8c9acd086091447cd30cb83bbbc68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896465,
+            "region_id":85688713,
+            "venue_id":856956137
+        }
+    ],
+    "wof:id":856956137,
+    "wof:lastmodified":1464110387,
+    "wof:name":"Peking Buffet",
+    "wof:parent_id":85896465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese",
+        "buffet"
+    ]
+},
+  "bbox": [
+    -91.560829,
+    41.666768,
+    -91.560829,
+    41.666768
+],
+  "geometry": {"coordinates":[-91.560829,41.666768],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857010107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.370786,41.949813,-91.370786,41.949813",
+    "geom:latitude":41.949813,
+    "geom:longitude":-91.370786,
+    "iso:country":"US",
+    "sg:address":"1244 Hoosier Rd",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2729",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rwQkRaLKrOluJspoXluYV_41.949813_-91.370786@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112788,
+    "wof:geomhash":"9fa2db68855546961e23e935faab8d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857010107
+        }
+    ],
+    "wof:id":857010107,
+    "wof:lastmodified":1464112788,
+    "wof:name":"Donald Henik",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.370786,
+    41.949813,
+    -91.370786,
+    41.949813
+],
+  "geometry": {"coordinates":[-91.370786,41.949813],"type":"Point"}
+}

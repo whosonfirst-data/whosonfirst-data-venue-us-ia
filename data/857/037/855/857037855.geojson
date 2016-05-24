@@ -1,0 +1,73 @@
+{
+  "id": 857037855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8675,41.271,-95.8675,41.271",
+    "geom:latitude":41.271,
+    "geom:longitude":-95.8675,
+    "iso:country":"US",
+    "sg:address":"1023 N 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7845",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0swZqcTVCeewmDDyS3aTVC_41.271430_-95.867335@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114010,
+    "wof:geomhash":"c2200b818ed51c80363e6e5fd5fcd497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857037855
+        }
+    ],
+    "wof:id":857037855,
+    "wof:lastmodified":1464114010,
+    "wof:name":"Drennen Automotive",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.8675,
+    41.271,
+    -95.8675,
+    41.271
+],
+  "geometry": {"coordinates":[-95.86750000000001,41.271],"type":"Point"}
+}

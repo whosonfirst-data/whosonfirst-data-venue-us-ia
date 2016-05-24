@@ -1,0 +1,74 @@
+{
+  "id": 857058583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.368318,42.43543,-96.368318,42.43543",
+    "geom:latitude":42.43543,
+    "geom:longitude":-96.368318,
+    "iso:country":"US",
+    "sg:address":"3102 Singing Hills Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/182791-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1511",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JWVmJmfawjwgfXFocxQEM_42.435430_-96.368318@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114850,
+    "wof:geomhash":"6ef3e993266b60dac5e9fbf7fe780507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857058583
+        }
+    ],
+    "wof:id":857058583,
+    "wof:lastmodified":1464114850,
+    "wof:name":"Culver's",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.368318,
+    42.43543,
+    -96.368318,
+    42.43543
+],
+  "geometry": {"coordinates":[-96.368318,42.43543],"type":"Point"}
+}

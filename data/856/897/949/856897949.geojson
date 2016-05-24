@@ -1,0 +1,73 @@
+{
+  "id": 856897949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.613778,41.607685,-93.613778,41.607685",
+    "geom:latitude":41.607685,
+    "geom:longitude":-93.613778,
+    "iso:country":"US",
+    "sg:address":"1501 Michigan St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 323 0680",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WiHcGUib3YaeJPrEbZnHD_41.607685_-93.613778@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107979,
+    "wof:geomhash":"f84f01830bff0a1642d3753c014ce263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856897949
+        }
+    ],
+    "wof:id":856897949,
+    "wof:lastmodified":1464107979,
+    "wof:name":"Greens Appliance",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -93.613778,
+    41.607685,
+    -93.613778,
+    41.607685
+],
+  "geometry": {"coordinates":[-93.613778,41.607685],"type":"Point"}
+}

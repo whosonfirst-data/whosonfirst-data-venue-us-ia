@@ -1,0 +1,77 @@
+{
+  "id": 856895185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.379716,42.501646,-96.379716,42.501646",
+    "geom:latitude":42.501646,
+    "geom:longitude":-96.379716,
+    "iso:country":"US",
+    "sg:address":"1020 Fowler St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 0133",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WGZRDhtYQ1JGoU8TG9ofi_42.501646_-96.379716@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107871,
+    "wof:geomhash":"22e7113b8e4cd85739ce72cc467f2876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856895185
+        }
+    ],
+    "wof:id":856895185,
+    "wof:lastmodified":1464107871,
+    "wof:name":"Briggs Inc Of Sioux City",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.379716,
+    42.501646,
+    -96.379716,
+    42.501646
+],
+  "geometry": {"coordinates":[-96.379716,42.501646],"type":"Point"}
+}

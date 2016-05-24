@@ -1,0 +1,75 @@
+{
+  "id": 856814561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673741,41.925497,-91.673741,41.925497",
+    "geom:latitude":41.925497,
+    "geom:longitude":-91.673741,
+    "iso:country":"US",
+    "sg:address":"347 Waconia Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5141",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BUa1Y6xOOkwCrdeGNwu0s_41.925497_-91.673741@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103814,
+    "wof:geomhash":"d865c0b3cea387b98012de02efd57cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856814561
+        }
+    ],
+    "wof:id":856814561,
+    "wof:lastmodified":1464103814,
+    "wof:name":"First Fleet",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.673741,
+    41.925497,
+    -91.673741,
+    41.925497
+],
+  "geometry": {"coordinates":[-91.67374100000001,41.925497],"type":"Point"}
+}

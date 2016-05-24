@@ -1,0 +1,67 @@
+{
+  "id": 857067991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.699898,42.034599,-91.699898,42.034599",
+    "geom:latitude":42.034599,
+    "geom:longitude":-91.699898,
+    "iso:country":"US",
+    "sg:address":"3925 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 832 2910",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sm0auGF3A4yBjoG5DF59Y_42.034599_-91.699898@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115240,
+    "wof:geomhash":"0ab26269150b89aa46d807c24f6f3273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857067991
+        }
+    ],
+    "wof:id":857067991,
+    "wof:lastmodified":1464115240,
+    "wof:name":"Wendys Old Fashioned Hamburgers",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.699898,
+    42.034599,
+    -91.699898,
+    42.034599
+],
+  "geometry": {"coordinates":[-91.699898,42.034599],"type":"Point"}
+}

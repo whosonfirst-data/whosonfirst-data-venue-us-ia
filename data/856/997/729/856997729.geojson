@@ -1,0 +1,67 @@
+{
+  "id": 856997729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.625865,42.027794,-91.625865,42.027794",
+    "geom:latitude":42.027794,
+    "geom:longitude":-91.625865,
+    "iso:country":"US",
+    "sg:address":"124 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 2040",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aXLgmFvYj5HrzQfpe1DCK_42.027794_-91.625865@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112279,
+    "wof:geomhash":"8fa434715e7b77370a6c65010f069b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856997729
+        }
+    ],
+    "wof:id":856997729,
+    "wof:lastmodified":1464112279,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.625865,
+    42.027794,
+    -91.625865,
+    42.027794
+],
+  "geometry": {"coordinates":[-91.625865,42.027794],"type":"Point"}
+}

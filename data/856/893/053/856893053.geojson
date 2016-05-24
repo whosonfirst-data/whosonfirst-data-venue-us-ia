@@ -1,0 +1,69 @@
+{
+  "id": 856893053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.56237,41.361498,-93.56237,41.361498",
+    "geom:latitude":41.361498,
+    "geom:longitude":-93.56237,
+    "iso:country":"US",
+    "sg:address":"215 N Buxton St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5351",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JhcrAOQhmxWmSXTkBK6Lx_41.361498_-93.562370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107795,
+    "wof:geomhash":"9926dac3513de3572ceae9ee2cd4f50c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856893053
+        }
+    ],
+    "wof:id":856893053,
+    "wof:lastmodified":1464107795,
+    "wof:name":"Family Dentistry",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.56237,
+    41.361498,
+    -93.56237,
+    41.361498
+],
+  "geometry": {"coordinates":[-93.56237,41.361498],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856979125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.616588,41.452341,-95.616588,41.452341",
+    "geom:latitude":41.452341,
+    "geom:longitude":-95.616588,
+    "iso:country":"US",
+    "sg:address":"400 2nd St",
+    "sg:city":"Neola",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 485 2339",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yxZMp01tv85n8ySVIbmy2_41.452341_-95.616588@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111418,
+    "wof:geomhash":"27958ec67e80bf4492e174e720ac067d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856979125
+        }
+    ],
+    "wof:id":856979125,
+    "wof:lastmodified":1464111418,
+    "wof:name":"First Presbyterian Church",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.616588,
+    41.452341,
+    -95.616588,
+    41.452341
+],
+  "geometry": {"coordinates":[-95.61658799999999,41.452341],"type":"Point"}
+}

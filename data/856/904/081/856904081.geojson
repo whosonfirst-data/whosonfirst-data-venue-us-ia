@@ -1,0 +1,73 @@
+{
+  "id": 856904081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.118991,41.838403,-94.118991,41.838403",
+    "geom:latitude":41.838403,
+    "geom:longitude":-94.118991,
+    "iso:country":"US",
+    "sg:address":"111 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5454",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HxrKDblXnT6Hq2HcQyoXs_41.838403_-94.118991@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108195,
+    "wof:geomhash":"80da6197851cb13addd9a0e72ec0a44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856904081
+        }
+    ],
+    "wof:id":856904081,
+    "wof:lastmodified":1464108195,
+    "wof:name":"Perry West Auto Sales",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.118991,
+    41.838403,
+    -94.118991,
+    41.838403
+],
+  "geometry": {"coordinates":[-94.11899099999999,41.838403],"type":"Point"}
+}

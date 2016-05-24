@@ -1,0 +1,72 @@
+{
+  "id": 857064023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.852247,41.273447,-95.852247,41.273447",
+    "geom:latitude":41.273447,
+    "geom:longitude":-95.852247,
+    "iso:country":"US",
+    "sg:address":"1206 Oak Park Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 2382",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.fmc-ag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53UlAej4Zf9pHDX46WYO1M_41.273447_-95.852247@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115063,
+    "wof:geomhash":"7c70715c8e9a0dd6e6b26c6c9dce3633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064023
+        }
+    ],
+    "wof:id":857064023,
+    "wof:lastmodified":1464115063,
+    "wof:name":"Fresenius Medical Care",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -95.852247,
+    41.273447,
+    -95.852247,
+    41.273447
+],
+  "geometry": {"coordinates":[-95.85224700000001,41.273447],"type":"Point"}
+}

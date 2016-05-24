@@ -1,0 +1,73 @@
+{
+  "id": 856802235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56337,41.680153,-91.56337,41.680153",
+    "geom:latitude":41.680153,
+    "geom:longitude":-91.56337,
+    "iso:country":"US",
+    "sg:address":"808 E 2nd Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 0047",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "toilet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6piwkMsFvgO8yL5RzonOUB_41.680153_-91.563370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103280,
+    "wof:geomhash":"6ca9d04f1ca60e3594b7d95ae6a9cf80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856802235
+        }
+    ],
+    "wof:id":856802235,
+    "wof:lastmodified":1464103280,
+    "wof:name":"Blue Moon Satellites",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet"
+    ]
+},
+  "bbox": [
+    -91.56337,
+    41.680153,
+    -91.56337,
+    41.680153
+],
+  "geometry": {"coordinates":[-91.56337000000001,41.680153],"type":"Point"}
+}

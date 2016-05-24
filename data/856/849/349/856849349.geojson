@@ -1,0 +1,75 @@
+{
+  "id": 856849349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.813618,41.954003,-91.813618,41.954003",
+    "geom:latitude":41.954003,
+    "geom:longitude":-91.813618,
+    "iso:country":"US",
+    "sg:address":"2411 Sisley Grove Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 446 7557",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VDAInTS1U1OAsudPXCMbD_41.954003_-91.813618@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105490,
+    "wof:geomhash":"c321fb0e714e681408b75278836ad9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856849349
+        }
+    ],
+    "wof:id":856849349,
+    "wof:lastmodified":1464105490,
+    "wof:name":"Brook Sunny Kennels",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.813618,
+    41.954003,
+    -91.813618,
+    41.954003
+],
+  "geometry": {"coordinates":[-91.81361800000001,41.954003],"type":"Point"}
+}

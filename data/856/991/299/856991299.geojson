@@ -1,0 +1,71 @@
+{
+  "id": 856991299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.847451,41.229073,-95.847451,41.229073",
+    "geom:latitude":41.229073,
+    "geom:longitude":-95.847451,
+    "iso:country":"US",
+    "sg:address":"3135 Manawa Center Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 000 1111",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QU21V5T5UMO5D5pqyvbvY_41.229073_-95.847451@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112025,
+    "wof:geomhash":"aaf16a8c40536e141bc9f435a9e2a5e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856991299
+        }
+    ],
+    "wof:id":856991299,
+    "wof:lastmodified":1464112025,
+    "wof:name":"Aldi",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.847451,
+    41.229073,
+    -95.847451,
+    41.229073
+],
+  "geometry": {"coordinates":[-95.84745100000001,41.229073],"type":"Point"}
+}

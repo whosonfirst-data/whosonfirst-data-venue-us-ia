@@ -1,0 +1,73 @@
+{
+  "id": 856968317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.612405,41.588154,-93.612405,41.588154",
+    "geom:latitude":41.588154,
+    "geom:longitude":-93.612405,
+    "iso:country":"US",
+    "sg:address":"321 E Walnut St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 237 1183",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T7Ik3knaRUFmcsRslA3Dq_41.588154_-93.612405@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110883,
+    "wof:geomhash":"14815408826b9f79de1509207a86f0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896383,
+            "region_id":85688713,
+            "venue_id":856968317
+        }
+    ],
+    "wof:id":856968317,
+    "wof:lastmodified":1464110883,
+    "wof:name":"Eric Burmeister",
+    "wof:parent_id":85896383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -93.612405,
+    41.588154,
+    -93.612405,
+    41.588154
+],
+  "geometry": {"coordinates":[-93.612405,41.588154],"type":"Point"}
+}

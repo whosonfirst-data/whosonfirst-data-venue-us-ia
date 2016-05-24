@@ -1,0 +1,73 @@
+{
+  "id": 856976831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.873261,41.261966,-95.873261,41.261966",
+    "geom:latitude":41.261966,
+    "geom:longitude":-95.873261,
+    "iso:country":"US",
+    "sg:address":"1920 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 8123",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nQRbBv7oog8uwUS6JqTFW_41.261966_-95.873261@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111304,
+    "wof:geomhash":"53d063e1330b1f1543410c80207f0741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856976831
+        }
+    ],
+    "wof:id":856976831,
+    "wof:lastmodified":1464111304,
+    "wof:name":"C B Thrift America",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -95.873261,
+    41.261966,
+    -95.873261,
+    41.261966
+],
+  "geometry": {"coordinates":[-95.873261,41.261966],"type":"Point"}
+}

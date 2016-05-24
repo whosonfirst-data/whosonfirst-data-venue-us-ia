@@ -1,0 +1,71 @@
+{
+  "id": 856988599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.251348,41.232091,-95.251348,41.232091",
+    "geom:latitude":41.232091,
+    "geom:longitude":-95.251348,
+    "iso:country":"US",
+    "sg:address":"48597 State Hwy 92",
+    "sg:city":"Griswold",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 778 2200",
+    "sg:postcode":"51535",
+    "sg:province":"IA",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cw7WlRaXxYU33GpfoWd0Z_41.232091_-95.251348@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111895,
+    "wof:geomhash":"31693f7a68e8a692f7ee99167ce57624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856988599
+        }
+    ],
+    "wof:id":856988599,
+    "wof:lastmodified":1464111895,
+    "wof:name":"Canoyer Country Greenhouse Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -95.251348,
+    41.232091,
+    -95.251348,
+    41.232091
+],
+  "geometry": {"coordinates":[-95.25134799999999,41.232091],"type":"Point"}
+}

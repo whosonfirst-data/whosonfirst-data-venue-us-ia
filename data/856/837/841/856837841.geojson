@@ -1,0 +1,73 @@
+{
+  "id": 856837841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.579151,42.029616,-91.579151,42.029616",
+    "geom:latitude":42.029616,
+    "geom:longitude":-91.579151,
+    "iso:country":"US",
+    "sg:address":"3435 3rd Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 2853",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Iw6f43rYkr4HGadNimFOn_42.029616_-91.579151@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104908,
+    "wof:geomhash":"e064c7def3341b3b45dea397b1c1580f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856837841
+        }
+    ],
+    "wof:id":856837841,
+    "wof:lastmodified":1464104908,
+    "wof:name":"Holub Grinding & Machine Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.579151,
+    42.029616,
+    -91.579151,
+    42.029616
+],
+  "geometry": {"coordinates":[-91.579151,42.029616],"type":"Point"}
+}

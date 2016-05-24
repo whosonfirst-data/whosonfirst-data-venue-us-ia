@@ -1,0 +1,73 @@
+{
+  "id": 857033825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.764932,41.770225,-93.764932,41.770225",
+    "geom:latitude":41.770225,
+    "geom:longitude":-93.764932,
+    "iso:country":"US",
+    "sg:address":"11591 NW 107th Ct",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2644",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "speculative",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15mwHZtGJYrFfyCEh7PaN3_41.770225_-93.764932@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113814,
+    "wof:geomhash":"aaf6daaa88069f2e57ec3e4b3d4e9830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":857033825
+        }
+    ],
+    "wof:id":857033825,
+    "wof:lastmodified":1464113814,
+    "wof:name":"Landmark Builders Corporation",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "speculative",
+        "builder"
+    ]
+},
+  "bbox": [
+    -93.764932,
+    41.770225,
+    -93.764932,
+    41.770225
+],
+  "geometry": {"coordinates":[-93.764932,41.770225],"type":"Point"}
+}

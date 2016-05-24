@@ -1,0 +1,73 @@
+{
+  "id": 856883719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.832994,41.266822,-95.832994,41.266822",
+    "geom:latitude":41.266822,
+    "geom:longitude":-95.832994,
+    "iso:country":"US",
+    "sg:address":"333 Woodland Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1815",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yfmnpq9LG9kE7CwW5EqnD_41.266822_-95.832994@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107413,
+    "wof:geomhash":"ab4257366a52584b812e8dae25cf7691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856883719
+        }
+    ],
+    "wof:id":856883719,
+    "wof:lastmodified":1464107413,
+    "wof:name":"LSN Transportation Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.832994,
+    41.266822,
+    -95.832994,
+    41.266822
+],
+  "geometry": {"coordinates":[-95.832994,41.266822],"type":"Point"}
+}

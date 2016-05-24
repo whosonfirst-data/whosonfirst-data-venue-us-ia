@@ -1,0 +1,71 @@
+{
+  "id": 856906729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.443527,42.059835,-91.443527,42.059835",
+    "geom:latitude":42.059835,
+    "geom:longitude":-91.443527,
+    "iso:country":"US",
+    "sg:address":"275 Broadway St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 6912",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ChicIEy1OcZW5s5VHr7qF_42.059835_-91.443527@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108294,
+    "wof:geomhash":"a693fc99e92d78df583ff03402eca5ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856906729
+        }
+    ],
+    "wof:id":856906729,
+    "wof:lastmodified":1464108294,
+    "wof:name":"Hiner Plumbing & Heating",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -91.443527,
+    42.059835,
+    -91.443527,
+    42.059835
+],
+  "geometry": {"coordinates":[-91.443527,42.059835],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856986803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.852759,41.239386,-95.852759,41.239386",
+    "geom:latitude":41.239386,
+    "geom:longitude":-95.852759,
+    "iso:country":"US",
+    "sg:address":"524 23rd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8127",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79CHyGGRuBMGednF0SinSo_41.239386_-95.852759@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111823,
+    "wof:geomhash":"90c3dd5d760033937f1bfcd732b09298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856986803
+        }
+    ],
+    "wof:id":856986803,
+    "wof:lastmodified":1464111823,
+    "wof:name":"23rd Avenue Muffler & Brake",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -95.852759,
+    41.239386,
+    -95.852759,
+    41.239386
+],
+  "geometry": {"coordinates":[-95.85275900000001,41.239386],"type":"Point"}
+}

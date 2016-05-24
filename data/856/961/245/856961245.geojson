@@ -1,0 +1,76 @@
+{
+  "id": 856961245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632616,42.042629,-91.632616,42.042629",
+    "geom:latitude":42.042629,
+    "geom:longitude":-91.632616,
+    "iso:country":"US",
+    "sg:address":"279 Crandall Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 3975",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7byf3F9So0bMEfqLrEaQvH_42.042629_-91.632616@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110590,
+    "wof:geomhash":"b49b8fb9dfff4cef67378719db33ed19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856961245
+        }
+    ],
+    "wof:id":856961245,
+    "wof:lastmodified":1464110590,
+    "wof:name":"Innovative Technology Products",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -91.632616,
+    42.042629,
+    -91.632616,
+    42.042629
+],
+  "geometry": {"coordinates":[-91.632616,42.042629],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856994099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668119,42.026724,-91.668119,42.026724",
+    "geom:latitude":42.026724,
+    "geom:longitude":-91.668119,
+    "iso:country":"US",
+    "sg:address":"2032 Werner Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1881",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YCvwT86h8b2DPLeIW82uj_42.026724_-91.668119@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112144,
+    "wof:geomhash":"e9b4d8719903355133104ee698205454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856994099
+        }
+    ],
+    "wof:id":856994099,
+    "wof:lastmodified":1464112144,
+    "wof:name":"Pool & Spa Warehouse",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -91.668119,
+    42.026724,
+    -91.668119,
+    42.026724
+],
+  "geometry": {"coordinates":[-91.668119,42.026724],"type":"Point"}
+}

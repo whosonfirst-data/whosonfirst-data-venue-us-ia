@@ -1,0 +1,73 @@
+{
+  "id": 856911495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.106571,41.836334,-94.106571,41.836334",
+    "geom:latitude":41.836334,
+    "geom:longitude":-94.106571,
+    "iso:country":"US",
+    "sg:address":"801 1st Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3030",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSFR9CCLNCbk7IkrpVMIO_41.836334_-94.106571@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108480,
+    "wof:geomhash":"07802b135264f1a6491e89d04036bed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856911495
+        }
+    ],
+    "wof:id":856911495,
+    "wof:lastmodified":1464108480,
+    "wof:name":"Hulgan Plumbing & Heating",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.106571,
+    41.836334,
+    -94.106571,
+    41.836334
+],
+  "geometry": {"coordinates":[-94.106571,41.836334],"type":"Point"}
+}

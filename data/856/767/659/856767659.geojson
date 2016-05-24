@@ -1,0 +1,73 @@
+{
+  "id": 856767659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.103725,41.837323,-94.103725,41.837323",
+    "geom:latitude":41.837323,
+    "geom:longitude":-94.103725,
+    "iso:country":"US",
+    "sg:address":"906 3rd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4677",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63jcABSfidaFSySSHCAPWi_41.837323_-94.103725@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102149,
+    "wof:geomhash":"ac20d38b7f3f21697aa242c46af5ffb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856767659
+        }
+    ],
+    "wof:id":856767659,
+    "wof:lastmodified":1464102149,
+    "wof:name":"D & D Plumbing & Heating",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.103725,
+    41.837323,
+    -94.103725,
+    41.837323
+],
+  "geometry": {"coordinates":[-94.103725,41.837323],"type":"Point"}
+}

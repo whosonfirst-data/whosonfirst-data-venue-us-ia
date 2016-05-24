@@ -1,0 +1,75 @@
+{
+  "id": 856822991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.364193,41.318281,-95.364193,41.318281",
+    "geom:latitude":41.318281,
+    "geom:longitude":-95.364193,
+    "iso:country":"US",
+    "sg:address":"43316 US Hwy 6",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3705",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ekoq9KcphQWMsdxHL0ojM_41.318281_-95.364193@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104225,
+    "wof:geomhash":"bb57b7d502c8b565beb01413d372a84a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856822991
+        }
+    ],
+    "wof:id":856822991,
+    "wof:lastmodified":1464104225,
+    "wof:name":"Bentley Cattle Company",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -95.364193,
+    41.318281,
+    -95.364193,
+    41.318281
+],
+  "geometry": {"coordinates":[-95.364193,41.318281],"type":"Point"}
+}

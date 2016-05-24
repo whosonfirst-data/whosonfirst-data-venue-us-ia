@@ -1,0 +1,75 @@
+{
+  "id": 856878547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656686,41.980065,-91.656686,41.980065",
+    "geom:latitude":41.980065,
+    "geom:longitude":-91.656686,
+    "iso:country":"US",
+    "sg:address":"825 5th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0255",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vFYxYHoLrDtXcKjwS1g7C_41.980065_-91.656686@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107101,
+    "wof:geomhash":"4e0a81b016620cfce984b197de1b55fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856878547
+        }
+    ],
+    "wof:id":856878547,
+    "wof:lastmodified":1464107101,
+    "wof:name":"Physicians' Clinic Of Ia",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.656686,
+    41.980065,
+    -91.656686,
+    41.980065
+],
+  "geometry": {"coordinates":[-91.65668599999999,41.980065],"type":"Point"}
+}

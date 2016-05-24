@@ -1,0 +1,73 @@
+{
+  "id": 857027893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.604518,42.033372,-91.604518,42.033372",
+    "geom:latitude":42.033372,
+    "geom:longitude":-91.604518,
+    "iso:country":"US",
+    "sg:address":"360 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4822",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MPqmVFZITLfP5r6jQC3ku_42.033372_-91.604518@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113542,
+    "wof:geomhash":"e8720644230efa6d8dbeecbcaf5c8239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857027893
+        }
+    ],
+    "wof:id":857027893,
+    "wof:lastmodified":1464113542,
+    "wof:name":"Nelson Trish Lisw Cadc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -91.604518,
+    42.033372,
+    -91.604518,
+    42.033372
+],
+  "geometry": {"coordinates":[-91.604518,42.033372],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856968377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67082,41.972887,-91.67082,41.972887",
+    "geom:latitude":41.972887,
+    "geom:longitude":-91.67082,
+    "iso:country":"US",
+    "sg:address":"416 1st St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 7022",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ul7xnqQYZdbxZqwftgGLf_41.972887_-91.670820@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110886,
+    "wof:geomhash":"cb95deebb5a38e19f5965767086a45c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856968377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856968377
+        }
+    ],
+    "wof:id":856968377,
+    "wof:lastmodified":1464110886,
+    "wof:name":"Oreck Center Of Cedar Rapids",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -91.67082,
+    41.972887,
+    -91.67082,
+    41.972887
+],
+  "geometry": {"coordinates":[-91.67082000000001,41.972887],"type":"Point"}
+}

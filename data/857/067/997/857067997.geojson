@@ -1,0 +1,83 @@
+{
+  "id": 857067997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629402,42.032101,-91.629402,42.032101",
+    "geom:latitude":42.032101,
+    "geom:longitude":-91.629402,
+    "iso:country":"US",
+    "sg:address":"5351 N Park Pl NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 8607",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rupAR97KQbtCVR6geGqlV_42.032101_-91.629402@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115240,
+    "wof:geomhash":"615477d575287fe52ac53d377d851bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067997
+        }
+    ],
+    "wof:id":857067997,
+    "wof:lastmodified":1464115240,
+    "wof:name":"Kindercare Learning Centers",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -91.629402,
+    42.032101,
+    -91.629402,
+    42.032101
+],
+  "geometry": {"coordinates":[-91.629402,42.032101],"type":"Point"}
+}

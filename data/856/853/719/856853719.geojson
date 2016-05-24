@@ -1,0 +1,71 @@
+{
+  "id": 856853719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.560938,41.361338,-93.560938,41.361338",
+    "geom:latitude":41.361338,
+    "geom:longitude":-93.560938,
+    "iso:country":"US",
+    "sg:address":"200 N Howard St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 0565",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EtRNYtuIrLyW2xX9mFnEX_41.361338_-93.560938@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105710,
+    "wof:geomhash":"92389e074b446c4bbe1548b56de884b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856853719
+        }
+    ],
+    "wof:id":856853719,
+    "wof:lastmodified":1464105710,
+    "wof:name":"American Home Mortgage",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -93.560938,
+    41.361338,
+    -93.560938,
+    41.361338
+],
+  "geometry": {"coordinates":[-93.56093799999999,41.361338],"type":"Point"}
+}

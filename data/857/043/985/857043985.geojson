@@ -1,0 +1,66 @@
+{
+  "id": 857043985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.739601,41.963902,-91.739601,41.963902",
+    "geom:latitude":41.963902,
+    "geom:longitude":-91.739601,
+    "iso:country":"US",
+    "sg:address":"5340 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1900",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30VAaMyJcLQseFRgKKHok5_41.963949_-91.739239@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114232,
+    "wof:geomhash":"2083c8b7d8eac73909a74268e61325d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857043985
+        }
+    ],
+    "wof:id":857043985,
+    "wof:lastmodified":1464114232,
+    "wof:name":"Market Express No 2",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.739601,
+    41.963902,
+    -91.739601,
+    41.963902
+],
+  "geometry": {"coordinates":[-91.73960099999999,41.963902],"type":"Point"}
+}

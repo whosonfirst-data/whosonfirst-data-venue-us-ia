@@ -1,0 +1,75 @@
+{
+  "id": 857069521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.620598,41.969501,-91.620598,41.969501",
+    "geom:latitude":41.969501,
+    "geom:longitude":-91.620598,
+    "iso:country":"US",
+    "sg:address":"3200 Pioneer Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2176",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KJxhnbOML5XPhw0giDIYA_41.969501_-91.620598@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115306,
+    "wof:geomhash":"1a7a93bcb5673028f9514590e39e0f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857069521
+        }
+    ],
+    "wof:id":857069521,
+    "wof:lastmodified":1464115306,
+    "wof:name":"Monroe Elementary School",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.620598,
+    41.969501,
+    -91.620598,
+    41.969501
+],
+  "geometry": {"coordinates":[-91.620598,41.969501],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857057443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.8691,41.615936,-93.8691,41.615936",
+    "geom:latitude":41.615936,
+    "geom:longitude":-93.8691,
+    "iso:country":"US",
+    "sg:address":"63 NE Carefree Ln",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/249258-los-tres-amigos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 0393",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CQrmga59nWKuEnuUm9lqQ_41.615936_-93.869100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114804,
+    "wof:geomhash":"becc843993de07220b37399d2f2831bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057443
+        }
+    ],
+    "wof:id":857057443,
+    "wof:lastmodified":1464114804,
+    "wof:name":"Los Tres Amigos",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.8691,
+    41.615936,
+    -93.8691,
+    41.615936
+],
+  "geometry": {"coordinates":[-93.8691,41.615936],"type":"Point"}
+}

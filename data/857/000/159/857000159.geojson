@@ -1,0 +1,75 @@
+{
+  "id": 857000159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.176429,43.023809,-91.176429,43.023809",
+    "geom:latitude":43.023809,
+    "geom:longitude":-91.176429,
+    "iso:country":"US",
+    "sg:address":"258 Main St",
+    "sg:city":"Mc Gregor",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 3563",
+    "sg:postcode":"52157",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rYQcZGnNY9OuCtyf2fUWh_43.023809_-91.176429@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112373,
+    "wof:geomhash":"66bd359a061b70cefa8f0dc0ececb5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":857000159
+        }
+    ],
+    "wof:id":857000159,
+    "wof:lastmodified":1464112373,
+    "wof:name":"Mind Your Body",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -91.176429,
+    43.023809,
+    -91.176429,
+    43.023809
+],
+  "geometry": {"coordinates":[-91.176429,43.023809],"type":"Point"}
+}

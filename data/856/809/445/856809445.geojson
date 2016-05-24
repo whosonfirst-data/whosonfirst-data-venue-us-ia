@@ -1,0 +1,75 @@
+{
+  "id": 856809445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.561057,41.679437,-91.561057,41.679437",
+    "geom:latitude":41.679437,
+    "geom:longitude":-91.561057,
+    "iso:country":"US",
+    "sg:address":"800 Quarry Rd",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 6757",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65we2IIDJbEyGEkgn4qnO9_41.679437_-91.561057@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103608,
+    "wof:geomhash":"9e934aaf96bd8de8d3408810ca7411b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":856809445
+        }
+    ],
+    "wof:id":856809445,
+    "wof:lastmodified":1464103608,
+    "wof:name":"King's Auto Repair",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.561057,
+    41.679437,
+    -91.561057,
+    41.679437
+],
+  "geometry": {"coordinates":[-91.56105700000001,41.679437],"type":"Point"}
+}

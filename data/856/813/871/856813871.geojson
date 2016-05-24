@@ -1,0 +1,71 @@
+{
+  "id": 856813871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.817764,41.602135,-93.817764,41.602135",
+    "geom:latitude":41.602135,
+    "geom:longitude":-93.817764,
+    "iso:country":"US",
+    "sg:address":"1060 Pinecrest Cir",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 226 3344",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_211P7sSmvDKrXgt7Vose6U_41.602135_-93.817764@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103785,
+    "wof:geomhash":"7fa7bf13c4ce31a6b1b7b3a2dbabcd66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856813871
+        }
+    ],
+    "wof:id":856813871,
+    "wof:lastmodified":1464103785,
+    "wof:name":"Event Pros",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.817764,
+    41.602135,
+    -93.817764,
+    41.602135
+],
+  "geometry": {"coordinates":[-93.817764,41.602135],"type":"Point"}
+}

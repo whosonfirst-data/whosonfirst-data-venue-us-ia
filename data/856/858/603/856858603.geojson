@@ -1,0 +1,71 @@
+{
+  "id": 856858603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559572,41.357268,-93.559572,41.357268",
+    "geom:latitude":41.357268,
+    "geom:longitude":-93.559572,
+    "iso:country":"US",
+    "sg:address":"300 S 1st St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2558",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HunwHCMC4dZkegrNHHrMa_41.357268_-93.559572@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105915,
+    "wof:geomhash":"97a351cffa36f10c7a0afddcfd89a0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856858603
+        }
+    ],
+    "wof:id":856858603,
+    "wof:lastmodified":1464105915,
+    "wof:name":"Rasko Construction LLC",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.559572,
+    41.357268,
+    -93.559572,
+    41.357268
+],
+  "geometry": {"coordinates":[-93.559572,41.357268],"type":"Point"}
+}

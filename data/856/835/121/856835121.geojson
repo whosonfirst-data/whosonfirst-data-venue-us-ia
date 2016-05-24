@@ -1,0 +1,73 @@
+{
+  "id": 856835121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.400103,41.302729,-95.400103,41.302729",
+    "geom:latitude":41.302729,
+    "geom:longitude":-95.400103,
+    "iso:country":"US",
+    "sg:address":"425 Chautauqua Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3224",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GwWf99ZFN4x1SOLc8Nw9P_41.302729_-95.400103@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104761,
+    "wof:geomhash":"eb11c9fb2668c55fcb60c2ea533de81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856835121
+        }
+    ],
+    "wof:id":856835121,
+    "wof:lastmodified":1464104761,
+    "wof:name":"Glass Court Terrace Apts",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.400103,
+    41.302729,
+    -95.400103,
+    41.302729
+],
+  "geometry": {"coordinates":[-95.400103,41.302729],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857057493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.754868,41.59407,-93.754868,41.59407",
+    "geom:latitude":41.59407,
+    "geom:longitude":-93.754868,
+    "iso:country":"US",
+    "sg:address":"3600 Westown Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/14003-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 224 0824",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cYw8o5iBv3PiY7Mr0Ej60_41.594070_-93.754868@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114806,
+    "wof:geomhash":"a30fd1a5432b83835cdc03adf60628fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896523,
+            "region_id":85688713,
+            "venue_id":857057493
+        }
+    ],
+    "wof:id":857057493,
+    "wof:lastmodified":1464114806,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85896523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -93.754868,
+    41.59407,
+    -93.754868,
+    41.59407
+],
+  "geometry": {"coordinates":[-93.754868,41.59407],"type":"Point"}
+}

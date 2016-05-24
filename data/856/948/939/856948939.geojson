@@ -1,0 +1,67 @@
+{
+  "id": 856948939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599301,42.058493,-91.599301,42.058493",
+    "geom:latitude":42.058493,
+    "geom:longitude":-91.599301,
+    "iso:country":"US",
+    "sg:address":"3555 10th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 3130",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:website":"www.linnmar.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LJsPrDmPfjnMtlDaKn6md_42.058493_-91.599301@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110031,
+    "wof:geomhash":"e478d4b83a7a8bf97c4926ecd35760a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856948939
+        }
+    ],
+    "wof:id":856948939,
+    "wof:lastmodified":1464110031,
+    "wof:name":"Excelsior School",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.599301,
+    42.058493,
+    -91.599301,
+    42.058493
+],
+  "geometry": {"coordinates":[-91.599301,42.058493],"type":"Point"}
+}

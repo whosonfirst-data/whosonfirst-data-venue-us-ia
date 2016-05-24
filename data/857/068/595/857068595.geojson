@@ -1,0 +1,71 @@
+{
+  "id": 857068595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645401,41.998199,-91.645401,41.998199",
+    "geom:latitude":41.998199,
+    "geom:longitude":-91.645401,
+    "iso:country":"US",
+    "sg:address":"1953 1st Ave SE Ste C6",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8854",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LP1tqXaOEEtYJuOzYm8bx_41.998199_-91.645401@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115271,
+    "wof:geomhash":"cfd4deb97c7604e2a9358ab56063aebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068595
+        }
+    ],
+    "wof:id":857068595,
+    "wof:lastmodified":1464115271,
+    "wof:name":"Nassif Eugene L Dr Jr Podiatrist",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [
+    -91.645401,
+    41.998199,
+    -91.645401,
+    41.998199
+],
+  "geometry": {"coordinates":[-91.64540100000001,41.998199],"type":"Point"}
+}

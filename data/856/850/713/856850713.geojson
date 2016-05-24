@@ -1,0 +1,71 @@
+{
+  "id": 856850713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.033204,41.612931,-94.033204,41.612931",
+    "geom:latitude":41.612931,
+    "geom:longitude":-94.033204,
+    "iso:country":"US",
+    "sg:address":"2111 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4535",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YbTW1k5vQtgiVF1rv72MP_41.612931_-94.033204@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105557,
+    "wof:geomhash":"948bebacee2a806498dc6c516991375d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856850713
+        }
+    ],
+    "wof:id":856850713,
+    "wof:lastmodified":1464105557,
+    "wof:name":"West Central Mental Health Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -94.033204,
+    41.612931,
+    -94.033204,
+    41.612931
+],
+  "geometry": {"coordinates":[-94.033204,41.612931],"type":"Point"}
+}

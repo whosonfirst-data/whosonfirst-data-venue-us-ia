@@ -1,0 +1,74 @@
+{
+  "id": 857059367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.639446,42.046712,-91.639446,42.046712",
+    "geom:latitude":42.046712,
+    "geom:longitude":-91.639446,
+    "iso:country":"US",
+    "sg:address":"560 Boyson Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/247466-bbq-this/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4477",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_086etMf2QBzSkCksuz89a5_42.046712_-91.639446@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114875,
+    "wof:geomhash":"a5afd346d0210102b0b3dcdd4c6b469b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857059367
+        }
+    ],
+    "wof:id":857059367,
+    "wof:lastmodified":1464114875,
+    "wof:name":"Bbq This",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.639446,
+    42.046712,
+    -91.639446,
+    42.046712
+],
+  "geometry": {"coordinates":[-91.63944600000001,42.046712],"type":"Point"}
+}

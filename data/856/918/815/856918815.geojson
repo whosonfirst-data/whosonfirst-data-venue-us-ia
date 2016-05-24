@@ -1,0 +1,73 @@
+{
+  "id": 856918815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.646571,41.983565,-91.646571,41.983565",
+    "geom:latitude":41.983565,
+    "geom:longitude":-91.646571,
+    "iso:country":"US",
+    "sg:address":"1600 4th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2231",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UIY5HTvQHML3Cb77IbT0L_41.983565_-91.646571@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108765,
+    "wof:geomhash":"ef270af2c5aec9600875c9a8843872e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856918815
+        }
+    ],
+    "wof:id":856918815,
+    "wof:lastmodified":1464108765,
+    "wof:name":"People's Mission",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.646571,
+    41.983565,
+    -91.646571,
+    41.983565
+],
+  "geometry": {"coordinates":[-91.64657099999999,41.983565],"type":"Point"}
+}

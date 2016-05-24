@@ -1,0 +1,71 @@
+{
+  "id": 856808371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.800781,41.231328,-95.800781,41.231328",
+    "geom:latitude":41.231328,
+    "geom:longitude":-95.800781,
+    "iso:country":"US",
+    "sg:address":"3000 Risen Son Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 0480",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09MClZclHrER0CcRSeaRV7_41.231328_-95.800781@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103550,
+    "wof:geomhash":"2f64553f891d574e2573bfebaf79ff64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856808371
+        }
+    ],
+    "wof:id":856808371,
+    "wof:lastmodified":1464103550,
+    "wof:name":"Rehabcare Therapy",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -95.800781,
+    41.231328,
+    -95.800781,
+    41.231328
+],
+  "geometry": {"coordinates":[-95.800781,41.231328],"type":"Point"}
+}

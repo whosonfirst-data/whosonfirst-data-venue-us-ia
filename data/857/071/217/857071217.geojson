@@ -1,0 +1,66 @@
+{
+  "id": 857071217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.731352,41.969233,-91.731352,41.969233",
+    "geom:latitude":41.969233,
+    "geom:longitude":-91.731352,
+    "iso:country":"US",
+    "sg:address":"4648 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4205",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2prqWqrxBPlPmlDW6u75ch_41.969233_-91.731352@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115382,
+    "wof:geomhash":"61cb5378ef1538e6dafd579afbe2616f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071217
+        }
+    ],
+    "wof:id":857071217,
+    "wof:lastmodified":1464115382,
+    "wof:name":"Under Budget Auto Repair",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.731352,
+    41.969233,
+    -91.731352,
+    41.969233
+],
+  "geometry": {"coordinates":[-91.731352,41.969233],"type":"Point"}
+}

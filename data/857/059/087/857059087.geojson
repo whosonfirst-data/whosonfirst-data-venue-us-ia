@@ -1,0 +1,74 @@
+{
+  "id": 857059087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.587006,41.872506,-91.587006,41.872506",
+    "geom:latitude":41.872506,
+    "geom:longitude":-91.587006,
+    "iso:country":"US",
+    "sg:address":"1495 State St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/putnam/225889-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 2166",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BLYT10MDU5jf2Gulriw3I_41.872506_-91.587006@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114866,
+    "wof:geomhash":"86ef75a946fe2bd3d7115136a9699457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857059087
+        }
+    ],
+    "wof:id":857059087,
+    "wof:lastmodified":1464114866,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.587006,
+    41.872506,
+    -91.587006,
+    41.872506
+],
+  "geometry": {"coordinates":[-91.587006,41.872506],"type":"Point"}
+}

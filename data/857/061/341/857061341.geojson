@@ -1,0 +1,77 @@
+{
+  "id": 857061341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.495412,41.498389,-93.495412,41.498389",
+    "geom:latitude":41.498389,
+    "geom:longitude":-93.495412,
+    "iso:country":"US",
+    "sg:address":"800 School St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3261",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical",
+        "drugstore"
+    ],
+    "sg:website":"www.medicap.com/carlisle",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i8x1k8C0OtIdte3ynqp9c_41.498389_-93.495412@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114956,
+    "wof:geomhash":"184ec1e97be2f3d43419110b6a08f5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061341
+        }
+    ],
+    "wof:id":857061341,
+    "wof:lastmodified":1464114956,
+    "wof:name":"Medicap Pharmacy",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -93.495412,
+    41.498389,
+    -93.495412,
+    41.498389
+],
+  "geometry": {"coordinates":[-93.495412,41.498389],"type":"Point"}
+}

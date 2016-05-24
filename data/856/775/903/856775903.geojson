@@ -1,0 +1,71 @@
+{
+  "id": 856775903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.404356,42.007641,-91.404356,42.007641",
+    "geom:latitude":42.007641,
+    "geom:longitude":-91.404356,
+    "iso:country":"US",
+    "sg:address":"2000 Linn Grove Rd",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 482 7611",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bxtvpk2n4hSgsUL0uMZYO_42.007641_-91.404356@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102344,
+    "wof:geomhash":"d7a769e6d50e80de481f907bf77817f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856775903
+        }
+    ],
+    "wof:id":856775903,
+    "wof:lastmodified":1464102344,
+    "wof:name":"Linn Grove Presbyterian Church",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.404356,
+    42.007641,
+    -91.404356,
+    42.007641
+],
+  "geometry": {"coordinates":[-91.40435600000001,42.007641],"type":"Point"}
+}

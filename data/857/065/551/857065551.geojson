@@ -1,0 +1,72 @@
+{
+  "id": 857065551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.766647,41.93161,-91.766647,41.93161",
+    "geom:latitude":41.93161,
+    "geom:longitude":-91.766647,
+    "iso:country":"US",
+    "sg:address":"607 Hillview Dr",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 845 2070",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.hearthstonehomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GYTgnf6Yngb2cvXlStX9a_41.931610_-91.766647@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115118,
+    "wof:geomhash":"abcdab301235fa4180c4cda2b289eb1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065551
+        }
+    ],
+    "wof:id":857065551,
+    "wof:lastmodified":1464115118,
+    "wof:name":"Hearthstone Homes",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.766647,
+    41.93161,
+    -91.766647,
+    41.93161
+],
+  "geometry": {"coordinates":[-91.76664700000001,41.93161],"type":"Point"}
+}

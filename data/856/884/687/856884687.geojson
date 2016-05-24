@@ -1,0 +1,71 @@
+{
+  "id": 856884687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559572,41.357268,-93.559572,41.357268",
+    "geom:latitude":41.357268,
+    "geom:longitude":-93.559572,
+    "iso:country":"US",
+    "sg:address":"300 S 1st St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 0648",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cDIQNvSXJiphkLa6m9qkF_41.357268_-93.559572@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107453,
+    "wof:geomhash":"97a351cffa36f10c7a0afddcfd89a0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856884687
+        }
+    ],
+    "wof:id":856884687,
+    "wof:lastmodified":1464107453,
+    "wof:name":"Generation Electric",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.559572,
+    41.357268,
+    -93.559572,
+    41.357268
+],
+  "geometry": {"coordinates":[-93.559572,41.357268],"type":"Point"}
+}

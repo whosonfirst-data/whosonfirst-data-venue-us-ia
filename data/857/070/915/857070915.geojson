@@ -1,0 +1,73 @@
+{
+  "id": 857070915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724353,41.959019,-91.724353,41.959019",
+    "geom:latitude":41.959019,
+    "geom:longitude":-91.724353,
+    "iso:country":"US",
+    "sg:address":"4049 21st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1760",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l86rRpqaaVBLcYVm2tRhg_41.959019_-91.724353@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115372,
+    "wof:geomhash":"39c24bcd8fecc55c4b7f122d01efaa4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070915
+        }
+    ],
+    "wof:id":857070915,
+    "wof:lastmodified":1464115372,
+    "wof:name":"Newspaper Archive",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -91.724353,
+    41.959019,
+    -91.724353,
+    41.959019
+],
+  "geometry": {"coordinates":[-91.72435299999999,41.959019],"type":"Point"}
+}

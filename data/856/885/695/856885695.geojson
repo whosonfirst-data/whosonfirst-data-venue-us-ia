@@ -1,0 +1,71 @@
+{
+  "id": 856885695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.606256,42.042311,-91.606256,42.042311",
+    "geom:latitude":42.042311,
+    "geom:longitude":-91.606256,
+    "iso:country":"US",
+    "sg:address":"1900 Geode St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 8282",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nXYR4xfHQ37Lt6Mey5J8e_42.042311_-91.606256@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107503,
+    "wof:geomhash":"16b0cfab7b9da6b549196e12568776e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856885695
+        }
+    ],
+    "wof:id":856885695,
+    "wof:lastmodified":1464107503,
+    "wof:name":"Scott's Painting",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.606256,
+    42.042311,
+    -91.606256,
+    42.042311
+],
+  "geometry": {"coordinates":[-91.606256,42.042311],"type":"Point"}
+}

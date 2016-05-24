@@ -1,0 +1,73 @@
+{
+  "id": 856919629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684655,42.021299,-91.684655,42.021299",
+    "geom:latitude":42.021299,
+    "geom:longitude":-91.684655,
+    "iso:country":"US",
+    "sg:address":"4001 Glen Elm Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1936",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wNYFNimEaccYA8PT54Jiw_42.021299_-91.684655@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108797,
+    "wof:geomhash":"2495320120fe0d5cfe7a607c49ea5c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856919629
+        }
+    ],
+    "wof:id":856919629,
+    "wof:lastmodified":1464108797,
+    "wof:name":"Brother Gus Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -91.684655,
+    42.021299,
+    -91.684655,
+    42.021299
+],
+  "geometry": {"coordinates":[-91.68465500000001,42.021299],"type":"Point"}
+}

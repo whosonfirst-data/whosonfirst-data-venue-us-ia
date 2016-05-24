@@ -1,0 +1,71 @@
+{
+  "id": 856919711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.576748,41.358959,-93.576748,41.358959",
+    "geom:latitude":41.358959,
+    "geom:longitude":-93.576748,
+    "iso:country":"US",
+    "sg:address":"210 S J St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5937",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "communication",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mw5aAOeslJD5txTgZmsfM_41.358959_-93.576748@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108800,
+    "wof:geomhash":"9ee040341680d5860cf9f8d26d4aa22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856919711
+        }
+    ],
+    "wof:id":856919711,
+    "wof:lastmodified":1464108800,
+    "wof:name":"Action Cable Services Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.576748,
+    41.358959,
+    -93.576748,
+    41.358959
+],
+  "geometry": {"coordinates":[-93.57674799999999,41.358959],"type":"Point"}
+}

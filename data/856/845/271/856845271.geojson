@@ -1,0 +1,71 @@
+{
+  "id": 856845271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.77013,41.239765,-95.77013,41.239765",
+    "geom:latitude":41.239765,
+    "geom:longitude":-95.77013,
+    "iso:country":"US",
+    "sg:address":"21120 Greenview Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1029",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbX5B1Q0p5bPBSTGdhAqG_41.239765_-95.770130@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105245,
+    "wof:geomhash":"17449b8f6d5c66d8086135a4bd4c8458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856845271
+        }
+    ],
+    "wof:id":856845271,
+    "wof:lastmodified":1464105245,
+    "wof:name":"Dehl Vendors Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -95.77013,
+    41.239765,
+    -95.77013,
+    41.239765
+],
+  "geometry": {"coordinates":[-95.77012999999999,41.239765],"type":"Point"}
+}

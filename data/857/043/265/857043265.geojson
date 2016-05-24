@@ -1,0 +1,75 @@
+{
+  "id": 857043265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.670303,41.9674,-91.670303,41.9674",
+    "geom:latitude":41.9674,
+    "geom:longitude":-91.670303,
+    "iso:country":"US",
+    "sg:address":"921 3rd St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9077",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sJX9H8BAN9WcVVUu5Wlfp_41.967484_-91.670283@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114209,
+    "wof:geomhash":"32984aac8f622335abb13d87911cbc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857043265
+        }
+    ],
+    "wof:id":857043265,
+    "wof:lastmodified":1464114209,
+    "wof:name":"Bur's Auto Clinic",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -91.670303,
+    41.9674,
+    -91.670303,
+    41.9674
+],
+  "geometry": {"coordinates":[-91.670303,41.9674],"type":"Point"}
+}

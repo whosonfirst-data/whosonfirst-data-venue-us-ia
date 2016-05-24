@@ -1,0 +1,81 @@
+{
+  "id": 857069605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615097,41.994999,-91.615097,41.994999",
+    "geom:latitude":41.994999,
+    "geom:longitude":-91.615097,
+    "iso:country":"US",
+    "sg:address":"3636 Cottage Grove Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7462",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.cedarvalley.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UhhKmuHILHbB1hbxeu9MQ_41.994999_-91.615097@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115309,
+    "wof:geomhash":"0a10650a26ff1ee12748c5b621b93ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069605
+        }
+    ],
+    "wof:id":857069605,
+    "wof:lastmodified":1464115309,
+    "wof:name":"Cedar Valley Christian School",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.615097,
+    41.994999,
+    -91.615097,
+    41.994999
+],
+  "geometry": {"coordinates":[-91.61509700000001,41.994999],"type":"Point"}
+}

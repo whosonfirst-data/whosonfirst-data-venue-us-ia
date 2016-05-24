@@ -1,0 +1,72 @@
+{
+  "id": 857060151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558415,41.370369,-93.558415,41.370369",
+    "geom:latitude":41.370369,
+    "geom:longitude":-93.558415,
+    "iso:country":"US",
+    "sg:address":"1103 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/indianola/96124-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 3335",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D1hamkI4hxHFbWj21VL6g_41.370359_-93.558468@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114899,
+    "wof:geomhash":"50296f59e1126d995a8ac02daec22f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857060151
+        }
+    ],
+    "wof:id":857060151,
+    "wof:lastmodified":1464114899,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.558415,
+    41.370369,
+    -93.558415,
+    41.370369
+],
+  "geometry": {"coordinates":[-93.558415,41.370369],"type":"Point"}
+}

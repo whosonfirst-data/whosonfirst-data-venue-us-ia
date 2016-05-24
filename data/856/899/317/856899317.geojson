@@ -1,0 +1,73 @@
+{
+  "id": 856899317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.923451,41.850526,-93.923451,41.850526",
+    "geom:latitude":41.850526,
+    "geom:longitude":-93.923451,
+    "iso:country":"US",
+    "sg:address":"107 W 8th St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2633",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "membership",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SpvSau9qYNY0qnTJ5kYAA_41.850526_-93.923451@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108028,
+    "wof:geomhash":"393edd799db704dc876ac26cac7e9095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856899317
+        }
+    ],
+    "wof:id":856899317,
+    "wof:lastmodified":1464108028,
+    "wof:name":"Woodward Senior Citizens Hsing",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -93.923451,
+    41.850526,
+    -93.923451,
+    41.850526
+],
+  "geometry": {"coordinates":[-93.923451,41.850526],"type":"Point"}
+}

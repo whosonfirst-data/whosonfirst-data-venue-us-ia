@@ -1,0 +1,77 @@
+{
+  "id": 857000901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.6385,41.586252,-93.6385,41.586252",
+    "geom:latitude":41.586252,
+    "geom:longitude":-93.6385,
+    "iso:country":"US",
+    "sg:address":"1535 Linden St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 1731",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OblrQf18vyu3VnSiamIxZ_41.586252_-93.638500@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112399,
+    "wof:geomhash":"21f098fc21d8721e579d8e97e2646e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":857000901
+        }
+    ],
+    "wof:id":857000901,
+    "wof:lastmodified":1464112399,
+    "wof:name":"Square D",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.6385,
+    41.586252,
+    -93.6385,
+    41.586252
+],
+  "geometry": {"coordinates":[-93.63849999999999,41.586252],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856863143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.588229,41.875632,-91.588229,41.875632",
+    "geom:latitude":41.875632,
+    "geom:longitude":-91.588229,
+    "iso:country":"US",
+    "sg:address":"1625 Fuhrmeister St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 4890",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O2zCBvDUoUQIgPc8eZOnv_41.875632_-91.588229@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106122,
+    "wof:geomhash":"bd4abd2a45d2cc31e1eee3a67fd7132f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856863143
+        }
+    ],
+    "wof:id":856863143,
+    "wof:lastmodified":1464106122,
+    "wof:name":"Ely Manor",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -91.588229,
+    41.875632,
+    -91.588229,
+    41.875632
+],
+  "geometry": {"coordinates":[-91.588229,41.875632],"type":"Point"}
+}

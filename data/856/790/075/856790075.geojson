@@ -1,0 +1,74 @@
+{
+  "id": 856790075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599667,41.747246,-91.599667,41.747246",
+    "geom:latitude":41.747246,
+    "geom:longitude":-91.599667,
+    "iso:country":"US",
+    "sg:address":"105 N Main St",
+    "sg:city":"North Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 626 6875",
+    "sg:postcode":"52317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.mainstreetstudio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944175,
+        102086417,
+        85896497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LHRRrzu44jkRvwWJcAKMZ_41.747246_-91.599667@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102783,
+    "wof:geomhash":"964816dc0e136e917f86c34e48ecc6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944175,
+            "neighbourhood_id":85896497,
+            "region_id":85688713,
+            "venue_id":856790075
+        }
+    ],
+    "wof:id":856790075,
+    "wof:lastmodified":1464102783,
+    "wof:name":"Main Street Studio",
+    "wof:parent_id":85896497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -91.599667,
+    41.747246,
+    -91.599667,
+    41.747246
+],
+  "geometry": {"coordinates":[-91.599667,41.747246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856820387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.87538,41.257963,-95.87538,41.257963",
+    "geom:latitude":41.257963,
+    "geom:longitude":-95.87538,
+    "iso:country":"US",
+    "sg:address":"302 S 21st St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5250",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KFNKCjbYNEaEHC1LyuQJJ_41.257963_-95.875380@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104118,
+    "wof:geomhash":"7341b008b34586cc3e5f17cf64cd13a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856820387
+        }
+    ],
+    "wof:id":856820387,
+    "wof:lastmodified":1464104118,
+    "wof:name":"Charles Fienhold",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.87538,
+    41.257963,
+    -95.87538,
+    41.257963
+],
+  "geometry": {"coordinates":[-95.87538000000001,41.257963],"type":"Point"}
+}

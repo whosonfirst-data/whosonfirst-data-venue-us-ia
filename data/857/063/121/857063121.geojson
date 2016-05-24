@@ -1,0 +1,75 @@
+{
+  "id": 857063121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865997,41.261799,-95.865997,41.261799",
+    "geom:latitude":41.261799,
+    "geom:longitude":-95.865997,
+    "iso:country":"US",
+    "sg:address":"25 S 15th St Ste 1",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0062",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medicine",
+        "internal",
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JF2urzUjdmuMB2lvGbbjC_41.261799_-95.865997@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115026,
+    "wof:geomhash":"8415e79e51d20d2f91f9e3b60676324b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063121
+        }
+    ],
+    "wof:id":857063121,
+    "wof:lastmodified":1464115026,
+    "wof:name":"Internal Medicine of Council Bluffs PC",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal",
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -95.865997,
+    41.261799,
+    -95.865997,
+    41.261799
+],
+  "geometry": {"coordinates":[-95.86599699999999,41.261799],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856769725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638627,42.049432,-91.638627,42.049432",
+    "geom:latitude":42.049432,
+    "geom:longitude":-91.638627,
+    "iso:country":"US",
+    "sg:address":"6905 C Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1002",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mNjZJV3nQyl6UTTaNKemA_42.049432_-91.638627@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102200,
+    "wof:geomhash":"dea226abf4dc811a6ce7f23f97bdb8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856769725
+        }
+    ],
+    "wof:id":856769725,
+    "wof:lastmodified":1464102200,
+    "wof:name":"Bridgeman's Ice Cream",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -91.638627,
+    42.049432,
+    -91.638627,
+    42.049432
+],
+  "geometry": {"coordinates":[-91.638627,42.049432],"type":"Point"}
+}

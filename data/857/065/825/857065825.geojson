@@ -1,0 +1,73 @@
+{
+  "id": 857065825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598297,42.021999,-91.598297,42.021999",
+    "geom:latitude":42.021999,
+    "geom:longitude":-91.598297,
+    "iso:country":"US",
+    "sg:address":"675 S 11th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 9877",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vUw4qYscYe5S2xSCW0GUX_42.021999_-91.598297@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115129,
+    "wof:geomhash":"7d48125b9d8ffd3bf0a097011c96df39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065825
+        }
+    ],
+    "wof:id":857065825,
+    "wof:lastmodified":1464115129,
+    "wof:name":"Miller Connie A Dr DDS",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.598297,
+    42.021999,
+    -91.598297,
+    42.021999
+],
+  "geometry": {"coordinates":[-91.598297,42.021999],"type":"Point"}
+}

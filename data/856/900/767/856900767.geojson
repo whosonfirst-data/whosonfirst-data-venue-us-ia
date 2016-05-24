@@ -1,0 +1,68 @@
+{
+  "id": 856900767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.612688,41.705857,-91.612688,41.705857",
+    "geom:latitude":41.705857,
+    "geom:longitude":-91.612688,
+    "iso:country":"US",
+    "sg:address":"2441 Coral Ct",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 545 7070",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6INyEyYP7yk8SdoVMimOFs_41.705857_-91.612688@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108082,
+    "wof:geomhash":"503a72c8e58a3bcdc67e44aeffd5d67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":856900767
+        }
+    ],
+    "wof:id":856900767,
+    "wof:lastmodified":1464108082,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.612688,
+    41.705857,
+    -91.612688,
+    41.705857
+],
+  "geometry": {"coordinates":[-91.61268800000001,41.705857],"type":"Point"}
+}

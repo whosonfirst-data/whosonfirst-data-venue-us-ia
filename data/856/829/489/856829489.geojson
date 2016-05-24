@@ -1,0 +1,71 @@
+{
+  "id": 856829489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.546538,41.368156,-93.546538,41.368156",
+    "geom:latitude":41.368156,
+    "geom:longitude":-93.546538,
+    "iso:country":"US",
+    "sg:address":"1101 E Henderson Pl",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2980",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bSohNJuDOayYZ8mkUUr9q_41.368156_-93.546538@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104494,
+    "wof:geomhash":"40d0aae1205c802cef78f1736054037b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856829489
+        }
+    ],
+    "wof:id":856829489,
+    "wof:lastmodified":1464104494,
+    "wof:name":"K & M Contractors",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.546538,
+    41.368156,
+    -93.546538,
+    41.368156
+],
+  "geometry": {"coordinates":[-93.546538,41.368156],"type":"Point"}
+}

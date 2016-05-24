@@ -1,0 +1,76 @@
+{
+  "id": 857057129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.585231,41.73199,-93.585231,41.73199",
+    "geom:latitude":41.73199,
+    "geom:longitude":-93.585231,
+    "iso:country":"US",
+    "sg:address":"918 E 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/crocker/198283-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 3144",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bmHrAI4UrV0Sh91Jk4Wu4_41.731990_-93.585231@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114789,
+    "wof:geomhash":"a76faa912a67c4e1118d0446d6c9172a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":857057129
+        }
+    ],
+    "wof:id":857057129,
+    "wof:lastmodified":1464114789,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -93.585231,
+    41.73199,
+    -93.585231,
+    41.73199
+],
+  "geometry": {"coordinates":[-93.58523099999999,41.73199],"type":"Point"}
+}

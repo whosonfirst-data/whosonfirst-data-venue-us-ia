@@ -1,0 +1,71 @@
+{
+  "id": 856889843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.70988,42.04531,-91.70988,42.04531",
+    "geom:latitude":42.04531,
+    "geom:longitude":-91.70988,
+    "iso:country":"US",
+    "sg:address":"855 Wolf Ridge Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 8109",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s1ysWu5oChJZNYVkoGT4J_42.045310_-91.709880@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107677,
+    "wof:geomhash":"fd2cd2ce38934b3a83042057cfab4a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856889843
+        }
+    ],
+    "wof:id":856889843,
+    "wof:lastmodified":1464107677,
+    "wof:name":"Meyer Homes",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.70988,
+    42.04531,
+    -91.70988,
+    42.04531
+],
+  "geometry": {"coordinates":[-91.70988,42.04531],"type":"Point"}
+}

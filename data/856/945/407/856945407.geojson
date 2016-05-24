@@ -1,0 +1,68 @@
+{
+  "id": 856945407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667074,41.976813,-91.667074,41.976813",
+    "geom:latitude":41.976813,
+    "geom:longitude":-91.667074,
+    "iso:country":"US",
+    "sg:address":"125 3rd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1884",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a7ZAcCm4z48ybeCBvy3Rt_41.976813_-91.667074@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109900,
+    "wof:geomhash":"4f96b7288bf317d5525a9f4b3c6e2204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856945407
+        }
+    ],
+    "wof:id":856945407,
+    "wof:lastmodified":1464109900,
+    "wof:name":"Garden Gate",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.667074,
+    41.976813,
+    -91.667074,
+    41.976813
+],
+  "geometry": {"coordinates":[-91.667074,41.976813],"type":"Point"}
+}

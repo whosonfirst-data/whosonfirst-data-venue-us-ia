@@ -1,0 +1,77 @@
+{
+  "id": 856947101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.333161,42.429805,-96.333161,42.429805",
+    "geom:latitude":42.429805,
+    "geom:longitude":-96.333161,
+    "iso:country":"US",
+    "sg:address":"4900 Derocher Path",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 5780",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z20gYvnsiMlQcC2PvS7Bm_42.429805_-96.333161@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109957,
+    "wof:geomhash":"9de9df05f5f86e2b0b2fb0db8fc6c948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856947101
+        }
+    ],
+    "wof:id":856947101,
+    "wof:lastmodified":1464109957,
+    "wof:name":"De Rocher Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.333161,
+    42.429805,
+    -96.333161,
+    42.429805
+],
+  "geometry": {"coordinates":[-96.333161,42.429805],"type":"Point"}
+}

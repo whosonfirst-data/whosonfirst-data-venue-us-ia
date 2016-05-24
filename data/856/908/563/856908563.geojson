@@ -1,0 +1,68 @@
+{
+  "id": 856908563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659349,41.969767,-91.659349,41.969767",
+    "geom:latitude":41.969767,
+    "geom:longitude":-91.659349,
+    "iso:country":"US",
+    "sg:address":"1120 2nd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 4088",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sp2gvBW8dl2cuQ0JuqJAx_41.969767_-91.659349@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108368,
+    "wof:geomhash":"5eff51a4c9d456663db8f468d0dfeea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856908563
+        }
+    ],
+    "wof:id":856908563,
+    "wof:lastmodified":1464108368,
+    "wof:name":"Eleven Twenty Salon",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.659349,
+    41.969767,
+    -91.659349,
+    41.969767
+],
+  "geometry": {"coordinates":[-91.65934900000001,41.969767],"type":"Point"}
+}

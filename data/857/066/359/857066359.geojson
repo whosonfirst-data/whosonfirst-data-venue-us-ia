@@ -1,0 +1,68 @@
+{
+  "id": 857066359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667044,41.975319,-91.667044,41.975319",
+    "geom:latitude":41.975319,
+    "geom:longitude":-91.667044,
+    "iso:country":"US",
+    "sg:address":"415 1st St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 247 7180",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1on3fHC0puyOdBHiJpFRyu_41.975319_-91.667044@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115148,
+    "wof:geomhash":"74faadb933db13d5563820124fa98f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066359
+        }
+    ],
+    "wof:id":857066359,
+    "wof:lastmodified":1464115148,
+    "wof:name":"Dublin City Pub",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.667044,
+    41.975319,
+    -91.667044,
+    41.975319
+],
+  "geometry": {"coordinates":[-91.667044,41.975319],"type":"Point"}
+}

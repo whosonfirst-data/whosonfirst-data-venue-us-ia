@@ -1,0 +1,75 @@
+{
+  "id": 856822163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.706052,41.57381,-93.706052,41.57381",
+    "geom:latitude":41.57381,
+    "geom:longitude":-93.706052,
+    "iso:country":"US",
+    "sg:address":"307 3rd St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 274 8733",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rhb6CQdq3Mw3SSE3QgClS_41.573810_-93.706052@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104194,
+    "wof:geomhash":"203955e7b717767d3f219c48bd719096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856822163
+        }
+    ],
+    "wof:id":856822163,
+    "wof:lastmodified":1464104194,
+    "wof:name":"Dewitt Painting",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.706052,
+    41.57381,
+    -93.706052,
+    41.57381
+],
+  "geometry": {"coordinates":[-93.706052,41.57381],"type":"Point"}
+}

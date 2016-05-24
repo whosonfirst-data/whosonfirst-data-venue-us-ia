@@ -1,0 +1,73 @@
+{
+  "id": 856815863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.863961,41.253517,-95.863961,41.253517",
+    "geom:latitude":41.253517,
+    "geom:longitude":-95.863961,
+    "iso:country":"US",
+    "sg:address":"1310 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5270",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20KFrHP2SYMRrj42C0nXmB_41.253517_-95.863961@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103867,
+    "wof:geomhash":"09942a7c94b9019b3ee395f3953d1b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856815863
+        }
+    ],
+    "wof:id":856815863,
+    "wof:lastmodified":1464103867,
+    "wof:name":"Moore's Svc Inc Heating & Air",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.863961,
+    41.253517,
+    -95.863961,
+    41.253517
+],
+  "geometry": {"coordinates":[-95.863961,41.253517],"type":"Point"}
+}

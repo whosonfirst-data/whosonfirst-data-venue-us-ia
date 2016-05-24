@@ -1,0 +1,71 @@
+{
+  "id": 856874321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.525958,41.741996,-91.525958,41.741996",
+    "geom:latitude":41.741996,
+    "geom:longitude":-91.525958,
+    "iso:country":"US",
+    "sg:address":"2551 Anchorage Rd NE",
+    "sg:city":"Solon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 3973",
+    "sg:postcode":"52333",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896499,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w7g2bJeQK2oT3267I76QB_41.741996_-91.525958@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106902,
+    "wof:geomhash":"c6ad9851ba5ca8a6c5bcc3ed3393c7b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896499,
+            "region_id":85688713,
+            "venue_id":856874321
+        }
+    ],
+    "wof:id":856874321,
+    "wof:lastmodified":1464106902,
+    "wof:name":"Edwards' Technical Svc",
+    "wof:parent_id":85896499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -91.525958,
+    41.741996,
+    -91.525958,
+    41.741996
+],
+  "geometry": {"coordinates":[-91.525958,41.741996],"type":"Point"}
+}

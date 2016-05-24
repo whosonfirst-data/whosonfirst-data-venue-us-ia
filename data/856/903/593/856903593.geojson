@@ -1,0 +1,73 @@
+{
+  "id": 856903593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.784475,41.252128,-95.784475,41.252128",
+    "geom:latitude":41.252128,
+    "geom:longitude":-95.784475,
+    "iso:country":"US",
+    "sg:address":"16253 State Orchard Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1382",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "breeder",
+        "chihuahua"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U3torZG7mpFz0lVSlBQKe_41.252128_-95.784475@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108176,
+    "wof:geomhash":"38e2c037d7babe348629e5c6f6c5f1e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856903593
+        }
+    ],
+    "wof:id":856903593,
+    "wof:lastmodified":1464108176,
+    "wof:name":"Max E Hurd",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "chihuahua"
+    ]
+},
+  "bbox": [
+    -95.784475,
+    41.252128,
+    -95.784475,
+    41.252128
+],
+  "geometry": {"coordinates":[-95.784475,41.252128],"type":"Point"}
+}

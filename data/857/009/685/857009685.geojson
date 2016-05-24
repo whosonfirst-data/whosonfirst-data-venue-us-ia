@@ -1,0 +1,68 @@
+{
+  "id": 857009685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668719,41.978725,-91.668719,41.978725",
+    "geom:latitude":41.978725,
+    "geom:longitude":-91.668719,
+    "iso:country":"US",
+    "sg:address":"100 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 0581",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oTxouBu6SYSuAqKKDxUUh_41.978725_-91.668719@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112775,
+    "wof:geomhash":"187c1431ed4a21394c39994bbf057bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857009685
+        }
+    ],
+    "wof:id":857009685,
+    "wof:lastmodified":1464112775,
+    "wof:name":"Iowa Realty Co",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.668719,
+    41.978725,
+    -91.668719,
+    41.978725
+],
+  "geometry": {"coordinates":[-91.668719,41.978725],"type":"Point"}
+}

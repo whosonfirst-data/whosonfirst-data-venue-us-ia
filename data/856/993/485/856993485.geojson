@@ -1,0 +1,73 @@
+{
+  "id": 856993485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.75496,41.978522,-91.75496,41.978522",
+    "geom:latitude":41.978522,
+    "geom:longitude":-91.75496,
+    "iso:country":"US",
+    "sg:address":"6001 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7541",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Br59pViCERPGxrJ4zngiM_41.978522_-91.754960@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112125,
+    "wof:geomhash":"3c5f4d7240fd77e367b3e242149045b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856993485
+        }
+    ],
+    "wof:id":856993485,
+    "wof:lastmodified":1464112125,
+    "wof:name":"Dale Sunny Farm",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.75496,
+    41.978522,
+    -91.75496,
+    41.978522
+],
+  "geometry": {"coordinates":[-91.75496,41.978522],"type":"Point"}
+}

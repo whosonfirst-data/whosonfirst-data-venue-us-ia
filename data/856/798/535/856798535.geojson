@@ -1,0 +1,71 @@
+{
+  "id": 856798535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.550769,41.716864,-91.550769,41.716864",
+    "geom:latitude":41.716864,
+    "geom:longitude":-91.550769,
+    "iso:country":"US",
+    "sg:address":"2462 Freedom Trl NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 6562",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896479,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KD9SMib72a8euyGhC2pgX_41.716864_-91.550769@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103139,
+    "wof:geomhash":"fa2d7fc8f555186c3aa6a85047e22171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896479,
+            "region_id":85688713,
+            "venue_id":856798535
+        }
+    ],
+    "wof:id":856798535,
+    "wof:lastmodified":1464103139,
+    "wof:name":"Vitosh Professional Auto",
+    "wof:parent_id":85896479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.550769,
+    41.716864,
+    -91.550769,
+    41.716864
+],
+  "geometry": {"coordinates":[-91.550769,41.716864],"type":"Point"}
+}

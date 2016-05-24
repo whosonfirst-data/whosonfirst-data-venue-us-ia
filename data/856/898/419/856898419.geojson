@@ -1,0 +1,75 @@
+{
+  "id": 856898419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.609399,41.588811,-93.609399,41.588811",
+    "geom:latitude":41.588811,
+    "geom:longitude":-93.609399,
+    "iso:country":"US",
+    "sg:address":"699 E Walnut St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 284 5687",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QcblhzT5XsYmAqoOmaQ4v_41.588811_-93.609399@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107996,
+    "wof:geomhash":"74d73d346feea127d49faa5520f7dffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896383,
+            "region_id":85688713,
+            "venue_id":856898419
+        }
+    ],
+    "wof:id":856898419,
+    "wof:lastmodified":1464107996,
+    "wof:name":"Friedrichs World Coffees",
+    "wof:parent_id":85896383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -93.609399,
+    41.588811,
+    -93.609399,
+    41.588811
+],
+  "geometry": {"coordinates":[-93.609399,41.588811],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856848817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.401181,41.300714,-95.401181,41.300714",
+    "geom:latitude":41.300714,
+    "geom:longitude":-95.401181,
+    "iso:country":"US",
+    "sg:address":"125 Harrison St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3171",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50CcuFHuF0zSoz7FSdgpSi_41.300714_-95.401181@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105453,
+    "wof:geomhash":"e7f80082d9470c1eeddb153061665b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856848817
+        }
+    ],
+    "wof:id":856848817,
+    "wof:lastmodified":1464105453,
+    "wof:name":"Hildebrand Feed & Supply",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -95.401181,
+    41.300714,
+    -95.401181,
+    41.300714
+],
+  "geometry": {"coordinates":[-95.40118099999999,41.300714],"type":"Point"}
+}

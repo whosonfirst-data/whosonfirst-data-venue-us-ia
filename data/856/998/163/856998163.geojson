@@ -1,0 +1,71 @@
+{
+  "id": 856998163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.017601,41.622004,-94.017601,41.622004",
+    "geom:latitude":41.622004,
+    "geom:longitude":-94.017601,
+    "iso:country":"US",
+    "sg:address":"515 Nile Kinnick Dr N",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 1100",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qHNef0WSKOO7ZY3u5eFjQ_41.622004_-94.017601@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112299,
+    "wof:geomhash":"5b3a85c9ab956c5f50c0b2265a026134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856998163
+        }
+    ],
+    "wof:id":856998163,
+    "wof:lastmodified":1464112299,
+    "wof:name":"Riverside Sales & Rental",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.017601,
+    41.622004,
+    -94.017601,
+    41.622004
+],
+  "geometry": {"coordinates":[-94.017601,41.622004],"type":"Point"}
+}

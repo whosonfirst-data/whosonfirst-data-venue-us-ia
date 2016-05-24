@@ -1,0 +1,73 @@
+{
+  "id": 856896043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.366139,42.465359,-96.366139,42.465359",
+    "geom:latitude":42.465359,
+    "geom:longitude":-96.366139,
+    "iso:country":"US",
+    "sg:address":"3241 Glenn Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 6313",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UCbGgdKGiEN6s5SPUD3a9_42.465359_-96.366139@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107903,
+    "wof:geomhash":"22a9659d74b74e9434d58bfef84ba82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856896043
+        }
+    ],
+    "wof:id":856896043,
+    "wof:lastmodified":1464107903,
+    "wof:name":"Professional Concrete Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.366139,
+    42.465359,
+    -96.366139,
+    42.465359
+],
+  "geometry": {"coordinates":[-96.366139,42.465359],"type":"Point"}
+}

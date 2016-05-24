@@ -1,0 +1,77 @@
+{
+  "id": 856830599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.69774,41.662331,-93.69774,41.662331",
+    "geom:latitude":41.662331,
+    "geom:longitude":-93.69774,
+    "iso:country":"US",
+    "sg:address":"5730 Merle Hay Rd",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 8665",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a88SM34iYZa5C9i1iqPnq_41.662331_-93.697740@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104534,
+    "wof:geomhash":"5fbd98512b11c369e29125d677e245d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896485,
+            "region_id":85688713,
+            "venue_id":856830599
+        }
+    ],
+    "wof:id":856830599,
+    "wof:lastmodified":1464104534,
+    "wof:name":"Freedom Tire",
+    "wof:parent_id":85896485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -93.69774,
+    41.662331,
+    -93.69774,
+    41.662331
+],
+  "geometry": {"coordinates":[-93.69774,41.662331],"type":"Point"}
+}

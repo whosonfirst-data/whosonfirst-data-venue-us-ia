@@ -1,0 +1,71 @@
+{
+  "id": 857023031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.713156,41.986245,-91.713156,41.986245",
+    "geom:latitude":41.986245,
+    "geom:longitude":-91.713156,
+    "iso:country":"US",
+    "sg:address":"1511 Hillside Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 7697",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ypJbRM94C6HWOfJxFGG7u_41.986245_-91.713156@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113316,
+    "wof:geomhash":"35b933c330e9487b19f6a77aeac51a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857023031
+        }
+    ],
+    "wof:id":857023031,
+    "wof:lastmodified":1464113316,
+    "wof:name":"Mongo Feast LLC",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.713156,
+    41.986245,
+    -91.713156,
+    41.986245
+],
+  "geometry": {"coordinates":[-91.713156,41.986245],"type":"Point"}
+}

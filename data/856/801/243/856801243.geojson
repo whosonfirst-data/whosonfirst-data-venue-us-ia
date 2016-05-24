@@ -1,0 +1,73 @@
+{
+  "id": 856801243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624434,41.890012,-91.624434,41.890012",
+    "geom:latitude":41.890012,
+    "geom:longitude":-91.624434,
+    "iso:country":"US",
+    "sg:address":"2515 Wright Brothers Blvd E",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8336",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HfajH6fvo0vJfjSm31BTz_41.890012_-91.624434@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103244,
+    "wof:geomhash":"e0b099e05b13d23c165515112c5941f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856801243
+        }
+    ],
+    "wof:id":856801243,
+    "wof:lastmodified":1464103244,
+    "wof:name":"Eastern Iowa Airport",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -91.624434,
+    41.890012,
+    -91.624434,
+    41.890012
+],
+  "geometry": {"coordinates":[-91.62443399999999,41.890012],"type":"Point"}
+}

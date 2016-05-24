@@ -1,0 +1,68 @@
+{
+  "id": 856799731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498204,41.65482,-91.498204,41.65482",
+    "geom:latitude":41.65482,
+    "geom:longitude":-91.498204,
+    "iso:country":"US",
+    "sg:address":"414 Crestview Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 6936",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KuTqDJ4kLkgF9DhjKF0Be_41.654820_-91.498204@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103187,
+    "wof:geomhash":"5c4646da05a7b3358b139f91e236967a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856799731
+        }
+    ],
+    "wof:id":856799731,
+    "wof:lastmodified":1464103187,
+    "wof:name":"Wasson Vocal Studio",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.498204,
+    41.65482,
+    -91.498204,
+    41.65482
+],
+  "geometry": {"coordinates":[-91.498204,41.65482],"type":"Point"}
+}

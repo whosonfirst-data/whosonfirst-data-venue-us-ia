@@ -1,0 +1,73 @@
+{
+  "id": 857070035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.72068,41.946714,-91.72068,41.946714",
+    "geom:latitude":41.946714,
+    "geom:longitude":-91.72068,
+    "iso:country":"US",
+    "sg:address":"3135 Wiley Blvd SW Ste 101",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0101",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v4uW9z01e7KQWRavp3Rm7_41.946714_-91.720680@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115332,
+    "wof:geomhash":"07119fc443502f095d92ee78f9909a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070035
+        }
+    ],
+    "wof:id":857070035,
+    "wof:lastmodified":1464115332,
+    "wof:name":"Elite Tan & Nails",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.72068,
+    41.946714,
+    -91.72068,
+    41.946714
+],
+  "geometry": {"coordinates":[-91.72068,41.946714],"type":"Point"}
+}

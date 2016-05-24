@@ -1,0 +1,73 @@
+{
+  "id": 856997239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.57461,41.679741,-91.57461,41.679741",
+    "geom:latitude":41.679741,
+    "geom:longitude":-91.57461,
+    "iso:country":"US",
+    "sg:address":"709 7th Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 5770",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EivVncotR1lVrCNWV1VoG_41.679741_-91.574610@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112264,
+    "wof:geomhash":"71880d0642b9c95f129293110f32b9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856997239
+        }
+    ],
+    "wof:id":856997239,
+    "wof:lastmodified":1464112264,
+    "wof:name":"Beauty Studio",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.57461,
+    41.679741,
+    -91.57461,
+    41.679741
+],
+  "geometry": {"coordinates":[-91.57461000000001,41.679741],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856825681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.417577,41.924876,-91.417577,41.924876",
+    "geom:latitude":41.924876,
+    "geom:longitude":-91.417577,
+    "iso:country":"US",
+    "sg:address":"201 3rd Ave N",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 0037",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31d1r2GoL5fmFCV5av24ql_41.924876_-91.417577@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104334,
+    "wof:geomhash":"f97522fce0adf330abd5ffc07cf58e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856825681
+        }
+    ],
+    "wof:id":856825681,
+    "wof:lastmodified":1464104334,
+    "wof:name":"M G Photography",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -91.417577,
+    41.924876,
+    -91.417577,
+    41.924876
+],
+  "geometry": {"coordinates":[-91.41757699999999,41.924876],"type":"Point"}
+}

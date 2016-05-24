@@ -1,0 +1,73 @@
+{
+  "id": 856875355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528761,41.660108,-91.528761,41.660108",
+    "geom:latitude":41.660108,
+    "geom:longitude":-91.528761,
+    "iso:country":"US",
+    "sg:address":"410 E Washington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 356 5254",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fy8ubN5qjtVt2dbfhAo3l_41.660108_-91.528761@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106958,
+    "wof:geomhash":"6b738a342320a9d7769f906c69aefbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856875355
+        }
+    ],
+    "wof:id":856875355,
+    "wof:lastmodified":1464106958,
+    "wof:name":"Iowa City Traffic Engineering",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.528761,
+    41.660108,
+    -91.528761,
+    41.660108
+],
+  "geometry": {"coordinates":[-91.528761,41.660108],"type":"Point"}
+}

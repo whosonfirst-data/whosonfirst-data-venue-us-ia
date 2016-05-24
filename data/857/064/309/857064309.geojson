@@ -1,0 +1,75 @@
+{
+  "id": 857064309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854552,41.364585,-95.854552,41.364585",
+    "geom:latitude":41.364585,
+    "geom:longitude":-95.854552,
+    "iso:country":"US",
+    "sg:address":"415 E Welch St",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3697",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fPPWQdVxU1ReKTGpRyH4I_41.364585_-95.854552@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115073,
+    "wof:geomhash":"b33dc50cd648e39a6af495f5468cd99a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857064309
+        }
+    ],
+    "wof:id":857064309,
+    "wof:lastmodified":1464115073,
+    "wof:name":"Council Bluffs Community School District",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.854552,
+    41.364585,
+    -95.854552,
+    41.364585
+],
+  "geometry": {"coordinates":[-95.854552,41.364585],"type":"Point"}
+}

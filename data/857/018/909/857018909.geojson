@@ -1,0 +1,78 @@
+{
+  "id": 857018909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.376276,42.506244,-96.376276,42.506244",
+    "geom:latitude":42.506244,
+    "geom:longitude":-96.376276,
+    "iso:country":"US",
+    "sg:address":"1500 N US Hwy 75",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 2252",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "sg:website":"www.saralee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52dOdG4IJWn6P4budIAVEV_42.506244_-96.376276@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113150,
+    "wof:geomhash":"7e31873e2471af2976390183a846f11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857018909
+        }
+    ],
+    "wof:id":857018909,
+    "wof:lastmodified":1464113150,
+    "wof:name":"Saralee Baking",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -96.376276,
+    42.506244,
+    -96.376276,
+    42.506244
+],
+  "geometry": {"coordinates":[-96.376276,42.506244],"type":"Point"}
+}

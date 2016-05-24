@@ -1,0 +1,73 @@
+{
+  "id": 856951257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.856205,41.245687,-95.856205,41.245687",
+    "geom:latitude":41.245687,
+    "geom:longitude":-95.856205,
+    "iso:country":"US",
+    "sg:address":"1602 S 8th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1173",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61JAO4jCQQEunCPhcyr9Y1_41.245687_-95.856205@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110135,
+    "wof:geomhash":"2ae6d3a2077b0efa4a4b5ac8f2e8f22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856951257
+        }
+    ],
+    "wof:id":856951257,
+    "wof:lastmodified":1464110135,
+    "wof:name":"Action Auto Sales",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.856205,
+    41.245687,
+    -95.856205,
+    41.245687
+],
+  "geometry": {"coordinates":[-95.856205,41.245687],"type":"Point"}
+}

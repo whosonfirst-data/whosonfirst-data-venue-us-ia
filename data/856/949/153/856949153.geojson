@@ -1,0 +1,71 @@
+{
+  "id": 856949153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652283,42.030115,-91.652283,42.030115",
+    "geom:latitude":42.030115,
+    "geom:longitude":-91.652283,
+    "iso:country":"US",
+    "sg:address":"1241 Park Pl NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 2955",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eqj40HM841k34rvZ97Otz_42.030115_-91.652283@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110040,
+    "wof:geomhash":"148b339618517b5257b336d423c21c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856949153
+        }
+    ],
+    "wof:id":856949153,
+    "wof:lastmodified":1464110040,
+    "wof:name":"Preferred Property Management",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -91.652283,
+    42.030115,
+    -91.652283,
+    42.030115
+],
+  "geometry": {"coordinates":[-91.652283,42.030115],"type":"Point"}
+}

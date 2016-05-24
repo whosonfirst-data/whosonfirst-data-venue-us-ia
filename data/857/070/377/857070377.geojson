@@ -1,0 +1,73 @@
+{
+  "id": 857070377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666603,41.930199,-91.666603,41.930199",
+    "geom:latitude":41.930199,
+    "geom:longitude":-91.666603,
+    "iso:country":"US",
+    "sg:address":"5000 J St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0569",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VRTpZF0cXs2o3swmlWDXr_41.930199_-91.666603@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115349,
+    "wof:geomhash":"2cc6a876524b6e86063e456dbea3f523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070377
+        }
+    ],
+    "wof:id":857070377,
+    "wof:lastmodified":1464115349,
+    "wof:name":"Painters Local Union No 447 Afl-CIO",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.666603,
+    41.930199,
+    -91.666603,
+    41.930199
+],
+  "geometry": {"coordinates":[-91.66660299999999,41.930199],"type":"Point"}
+}

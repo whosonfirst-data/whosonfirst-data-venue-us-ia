@@ -1,0 +1,73 @@
+{
+  "id": 856900843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.570164,41.629281,-91.570164,41.629281",
+    "geom:latitude":41.629281,
+    "geom:longitude":-91.570164,
+    "iso:country":"US",
+    "sg:address":"4186 Alyssa Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 8370",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vUMhlfv65dvHMRhpjAiTS_41.629281_-91.570164@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108084,
+    "wof:geomhash":"6db5dfc57560283699a1d465ffd275dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896457,
+            "region_id":85688713,
+            "venue_id":856900843
+        }
+    ],
+    "wof:id":856900843,
+    "wof:lastmodified":1464108084,
+    "wof:name":"Siouxland Labs",
+    "wof:parent_id":85896457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.570164,
+    41.629281,
+    -91.570164,
+    41.629281
+],
+  "geometry": {"coordinates":[-91.57016400000001,41.629281],"type":"Point"}
+}

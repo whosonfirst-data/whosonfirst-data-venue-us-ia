@@ -1,0 +1,71 @@
+{
+  "id": 856801259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.929353,41.688159,-93.929353,41.688159",
+    "geom:latitude":41.688159,
+    "geom:longitude":-93.929353,
+    "iso:country":"US",
+    "sg:address":"2824 240th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3567",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qlld1cI7gm8KDJwy14ptM_41.688159_-93.929353@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103244,
+    "wof:geomhash":"e63800b45ca99874d55ba070c987d394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856801259
+        }
+    ],
+    "wof:id":856801259,
+    "wof:lastmodified":1464103244,
+    "wof:name":"Heritage Homes of Central Iowa",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.929353,
+    41.688159,
+    -93.929353,
+    41.688159
+],
+  "geometry": {"coordinates":[-93.92935300000001,41.688159],"type":"Point"}
+}

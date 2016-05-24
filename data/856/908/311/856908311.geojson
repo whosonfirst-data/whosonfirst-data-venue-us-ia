@@ -1,0 +1,73 @@
+{
+  "id": 856908311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.584548,41.67798,-91.584548,41.67798",
+    "geom:latitude":41.67798,
+    "geom:longitude":-91.584548,
+    "iso:country":"US",
+    "sg:address":"1799 5th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2386",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gIjKO539KjxugImQYRAj5_41.677980_-91.584548@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108359,
+    "wof:geomhash":"421af54f7a6172c3717674b2c54493d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896371,
+            "region_id":85688713,
+            "venue_id":856908311
+        }
+    ],
+    "wof:id":856908311,
+    "wof:lastmodified":1464108359,
+    "wof:name":"Coral Village Apartments",
+    "wof:parent_id":85896371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.584548,
+    41.67798,
+    -91.584548,
+    41.67798
+],
+  "geometry": {"coordinates":[-91.584548,41.67798],"type":"Point"}
+}

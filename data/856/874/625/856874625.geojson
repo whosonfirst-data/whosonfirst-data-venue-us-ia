@@ -1,0 +1,69 @@
+{
+  "id": 856874625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.40788,42.501601,-96.40788,42.501601",
+    "geom:latitude":42.501601,
+    "geom:longitude":-96.40788,
+    "iso:country":"US",
+    "sg:address":"1018 Grandview Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1350",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:website":"www.sccatholicschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LgYU1CNNmS2xIoHkKK7vr_42.501601_-96.407880@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106915,
+    "wof:geomhash":"8bfa181c1fb30bff399a6b860aaf9f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856874625
+        }
+    ],
+    "wof:id":856874625,
+    "wof:lastmodified":1464106915,
+    "wof:name":"Catholic Schools Of Sioux City",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.40788,
+    42.501601,
+    -96.40788,
+    42.501601
+],
+  "geometry": {"coordinates":[-96.40788000000001,42.501601],"type":"Point"}
+}

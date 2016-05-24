@@ -1,0 +1,73 @@
+{
+  "id": 857034349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.72271,42.099216,-91.72271,42.099216",
+    "geom:latitude":42.099216,
+    "geom:longitude":-91.72271,
+    "iso:country":"US",
+    "sg:address":"3697 Toddville Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3320",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RsTCIDPeed28ygqLaqAXf_42.099216_-91.722710@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113841,
+    "wof:geomhash":"6df97a3e610b588732378b54d73e46cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857034349
+        }
+    ],
+    "wof:id":857034349,
+    "wof:lastmodified":1464113841,
+    "wof:name":"Mc Burney Well Drilling",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -91.72271,
+    42.099216,
+    -91.72271,
+    42.099216
+],
+  "geometry": {"coordinates":[-91.72271000000001,42.099216],"type":"Point"}
+}

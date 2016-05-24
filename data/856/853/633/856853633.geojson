@@ -1,0 +1,71 @@
+{
+  "id": 856853633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.107929,41.849049,-94.107929,41.849049",
+    "geom:latitude":41.849049,
+    "geom:longitude":-94.107929,
+    "iso:country":"US",
+    "sg:address":"2104 W 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4538",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34QlQw0Yfx69fhK1ZZnf79_41.849049_-94.107929@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105706,
+    "wof:geomhash":"a0b4c0e2c570046a9b39800ac78822de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856853633
+        }
+    ],
+    "wof:id":856853633,
+    "wof:lastmodified":1464105706,
+    "wof:name":"Perry Soccer Club Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -94.107929,
+    41.849049,
+    -94.107929,
+    41.849049
+],
+  "geometry": {"coordinates":[-94.107929,41.849049],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856939623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.640072,41.592483,-93.640072,41.592483",
+    "geom:latitude":41.592483,
+    "geom:longitude":-93.640072,
+    "iso:country":"US",
+    "sg:address":"855 17th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 6333",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "designer"
+    ],
+    "sg:website":"www.cidesign.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ojZAUtI9hAcgljewdZffk_41.592483_-93.640072@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109649,
+    "wof:geomhash":"dd3072ccd374eaa4dacc80a0c423e304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856939623
+        }
+    ],
+    "wof:id":856939623,
+    "wof:lastmodified":1464109649,
+    "wof:name":"Concepts In Design",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "designer"
+    ]
+},
+  "bbox": [
+    -93.640072,
+    41.592483,
+    -93.640072,
+    41.592483
+],
+  "geometry": {"coordinates":[-93.640072,41.592483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856803261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.382271,41.476597,-95.382271,41.476597",
+    "geom:latitude":41.476597,
+    "geom:longitude":-95.382271,
+    "iso:country":"US",
+    "sg:address":"42935 Hwy 83",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2153",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U92lhsSlsuh7kUupa8qos_41.476597_-95.382271@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103332,
+    "wof:geomhash":"006757b6219f29ce98287d0d5374a654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856803261
+        }
+    ],
+    "wof:id":856803261,
+    "wof:lastmodified":1464103332,
+    "wof:name":"Andersen Grain & Trucking Co",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -95.382271,
+    41.476597,
+    -95.382271,
+    41.476597
+],
+  "geometry": {"coordinates":[-95.382271,41.476597],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856893023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.702179,42.017078,-91.702179,42.017078",
+    "geom:latitude":42.017078,
+    "geom:longitude":-91.702179,
+    "iso:country":"US",
+    "sg:address":"4250 Glass Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9073",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mF6tg2lhbewKu5CpJvaVa_42.017078_-91.702179@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107794,
+    "wof:geomhash":"7f2304cb9c3e003985b744efb48502dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856893023
+        }
+    ],
+    "wof:id":856893023,
+    "wof:lastmodified":1464107794,
+    "wof:name":"CRST Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -91.702179,
+    42.017078,
+    -91.702179,
+    42.017078
+],
+  "geometry": {"coordinates":[-91.702179,42.017078],"type":"Point"}
+}

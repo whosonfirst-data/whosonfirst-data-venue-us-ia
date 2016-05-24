@@ -1,0 +1,79 @@
+{
+  "id": 857060053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.017165,41.614416,-94.017165,41.614416",
+    "geom:latitude":41.614416,
+    "geom:longitude":-94.017165,
+    "iso:country":"US",
+    "sg:address":"802 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/adel/225746-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5103",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iTilrJJF7BA52L0eftB5r_41.614460_-94.017503@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114896,
+    "wof:geomhash":"220a93e08b521af85a89854389853287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857060053
+        }
+    ],
+    "wof:id":857060053,
+    "wof:lastmodified":1464114896,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.017165,
+    41.614416,
+    -94.017165,
+    41.614416
+],
+  "geometry": {"coordinates":[-94.01716500000001,41.614416],"type":"Point"}
+}

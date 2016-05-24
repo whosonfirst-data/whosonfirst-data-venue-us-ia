@@ -1,0 +1,73 @@
+{
+  "id": 856822621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.881648,41.580579,-93.881648,41.580579",
+    "geom:latitude":41.580579,
+    "geom:longitude":-93.881648,
+    "iso:country":"US",
+    "sg:address":"3163 Ute Ave",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 5645",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5afSNqpGH2GweQnd9mkdDI_41.580579_-93.881648@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104212,
+    "wof:geomhash":"153acde7003947ca68be0e8be4968caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856822621
+        }
+    ],
+    "wof:id":856822621,
+    "wof:lastmodified":1464104212,
+    "wof:name":"Innovative Racing Solutions",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -93.881648,
+    41.580579,
+    -93.881648,
+    41.580579
+],
+  "geometry": {"coordinates":[-93.881648,41.580579],"type":"Point"}
+}

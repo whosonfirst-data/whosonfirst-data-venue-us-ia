@@ -1,0 +1,68 @@
+{
+  "id": 856979879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.708965,41.569675,-93.708965,41.569675",
+    "geom:latitude":41.569675,
+    "geom:longitude":-93.708965,
+    "iso:country":"US",
+    "sg:address":"122 5th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 255 4100",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZCdqBwSgjeXFW6w49SzFE_41.569675_-93.708965@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111455,
+    "wof:geomhash":"023ee3842dd5a71aeba5f201dccdc947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856979879
+        }
+    ],
+    "wof:id":856979879,
+    "wof:lastmodified":1464111455,
+    "wof:name":"Junction 122",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.708965,
+    41.569675,
+    -93.708965,
+    41.569675
+],
+  "geometry": {"coordinates":[-93.70896500000001,41.569675],"type":"Point"}
+}

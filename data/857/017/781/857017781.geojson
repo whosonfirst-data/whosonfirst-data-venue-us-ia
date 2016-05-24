@@ -1,0 +1,71 @@
+{
+  "id": 857017781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.580826,42.031524,-91.580826,42.031524",
+    "geom:latitude":42.031524,
+    "geom:longitude":-91.580826,
+    "iso:country":"US",
+    "sg:address":"2920 5th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6647",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00H2m7YkVLHVcvsUNBVZFG_42.031524_-91.580826@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113110,
+    "wof:geomhash":"5c6572d677dc952de859f126d2f9dc02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857017781
+        }
+    ],
+    "wof:id":857017781,
+    "wof:lastmodified":1464113110,
+    "wof:name":"L J's Mobile Catering",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.580826,
+    42.031524,
+    -91.580826,
+    42.031524
+],
+  "geometry": {"coordinates":[-91.580826,42.031524],"type":"Point"}
+}

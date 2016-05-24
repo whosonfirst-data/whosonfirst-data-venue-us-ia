@@ -1,0 +1,68 @@
+{
+  "id": 857067549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654701,41.988098,-91.654701,41.988098",
+    "geom:latitude":41.988098,
+    "geom:longitude":-91.654701,
+    "iso:country":"US",
+    "sg:address":"1117 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 3163",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C3f91NyaeqhsL8EJ9S3kG_41.988098_-91.654701@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115205,
+    "wof:geomhash":"f912ae4be1817cac4c7eb33f0b8ca9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857067549
+        }
+    ],
+    "wof:id":857067549,
+    "wof:lastmodified":1464115205,
+    "wof:name":"Sip-N Stir Office",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.654701,
+    41.988098,
+    -91.654701,
+    41.988098
+],
+  "geometry": {"coordinates":[-91.654701,41.988098],"type":"Point"}
+}

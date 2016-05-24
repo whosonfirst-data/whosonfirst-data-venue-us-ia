@@ -1,0 +1,76 @@
+{
+  "id": 857059449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.706912,41.964511,-91.706912,41.964511",
+    "geom:latitude":41.964511,
+    "geom:longitude":-91.706912,
+    "iso:country":"US",
+    "sg:address":"2630 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/200273-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5353",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sntw6Ukigi35D9V9vN76z_41.964511_-91.706912@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114878,
+    "wof:geomhash":"777af382a5fe9b5f009df13304b5620a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857059449
+        }
+    ],
+    "wof:id":857059449,
+    "wof:lastmodified":1464114878,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.706912,
+    41.964511,
+    -91.706912,
+    41.964511
+],
+  "geometry": {"coordinates":[-91.706912,41.964511],"type":"Point"}
+}

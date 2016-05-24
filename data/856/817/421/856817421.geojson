@@ -1,0 +1,71 @@
+{
+  "id": 856817421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658924,41.929543,-91.658924,41.929543",
+    "geom:latitude":41.929543,
+    "geom:longitude":-91.658924,
+    "iso:country":"US",
+    "sg:address":"101 50th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1111",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "forging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YpZyMqvCI6HedaR1IG8Pe_41.929543_-91.658924@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103941,
+    "wof:geomhash":"b56e34f00e1c6067869171f2b8896702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856817421
+        }
+    ],
+    "wof:id":856817421,
+    "wof:lastmodified":1464103941,
+    "wof:name":"Midland Forge",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forging"
+    ]
+},
+  "bbox": [
+    -91.658924,
+    41.929543,
+    -91.658924,
+    41.929543
+],
+  "geometry": {"coordinates":[-91.658924,41.929543],"type":"Point"}
+}

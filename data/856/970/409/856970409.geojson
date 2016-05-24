@@ -1,0 +1,73 @@
+{
+  "id": 856970409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.421742,41.922436,-91.421742,41.922436",
+    "geom:latitude":41.922436,
+    "geom:longitude":-91.421742,
+    "iso:country":"US",
+    "sg:address":"311 4th Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 981 2493",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oc0xJGZqhEEKH8vmMqgug_41.922436_-91.421742@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110999,
+    "wof:geomhash":"6309ea942af43ca848457fb9e4eb12c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856970409
+        }
+    ],
+    "wof:id":856970409,
+    "wof:lastmodified":1464110999,
+    "wof:name":"Affordable Drywall",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.421742,
+    41.922436,
+    -91.421742,
+    41.922436
+],
+  "geometry": {"coordinates":[-91.42174199999999,41.922436],"type":"Point"}
+}

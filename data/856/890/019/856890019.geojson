@@ -1,0 +1,73 @@
+{
+  "id": 856890019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715378,41.963415,-91.715378,41.963415",
+    "geom:latitude":41.963415,
+    "geom:longitude":-91.715378,
+    "iso:country":"US",
+    "sg:address":"3221 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 3177",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y9p02oiIMQcuTHyswsky3_41.963415_-91.715378@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107686,
+    "wof:geomhash":"de97601c81ae7d8a9a17467c808e95c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856890019
+        }
+    ],
+    "wof:id":856890019,
+    "wof:lastmodified":1464107686,
+    "wof:name":"Computer Heaven",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.715378,
+    41.963415,
+    -91.715378,
+    41.963415
+],
+  "geometry": {"coordinates":[-91.715378,41.963415],"type":"Point"}
+}

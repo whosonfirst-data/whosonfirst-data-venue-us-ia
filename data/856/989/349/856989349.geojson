@@ -1,0 +1,71 @@
+{
+  "id": 856989349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.012355,41.528476,-94.012355,41.528476",
+    "geom:latitude":41.528476,
+    "geom:longitude":-94.012355,
+    "iso:country":"US",
+    "sg:address":"120 Elm St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2069",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51Awnn5guvS6wFaXF7OuXa_41.528476_-94.012355@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111935,
+    "wof:geomhash":"13ee0932b678ac895dca3bd298087283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856989349
+        }
+    ],
+    "wof:id":856989349,
+    "wof:lastmodified":1464111935,
+    "wof:name":"Marks Tools",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -94.012355,
+    41.528476,
+    -94.012355,
+    41.528476
+],
+  "geometry": {"coordinates":[-94.012355,41.528476],"type":"Point"}
+}

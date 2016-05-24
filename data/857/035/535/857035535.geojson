@@ -1,0 +1,69 @@
+{
+  "id": 857035535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523862,41.642704,-91.523862,41.642704",
+    "geom:latitude":41.642704,
+    "geom:longitude":-91.523862,
+    "iso:country":"US",
+    "sg:address":"901 Hollywood Blvd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8170",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:website":"www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M4k6SHZ883vSMnqS1VczM_41.642704_-91.523862@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113912,
+    "wof:geomhash":"922af950ddb776973358fdc95b473dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":857035535
+        }
+    ],
+    "wof:id":857035535,
+    "wof:lastmodified":1464113912,
+    "wof:name":"Kmart",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.523862,
+    41.642704,
+    -91.523862,
+    41.642704
+],
+  "geometry": {"coordinates":[-91.52386199999999,41.642704],"type":"Point"}
+}

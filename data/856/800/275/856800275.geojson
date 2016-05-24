@@ -1,0 +1,71 @@
+{
+  "id": 856800275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.647088,41.952652,-91.647088,41.952652",
+    "geom:latitude":41.952652,
+    "geom:longitude":-91.647088,
+    "iso:country":"US",
+    "sg:address":"2423 Handley Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3040",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LS83b7Blpu7olVdzOKJMm_41.952652_-91.647088@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103208,
+    "wof:geomhash":"9ed9eedaeda503a02189f8d17c13e9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856800275
+        }
+    ],
+    "wof:id":856800275,
+    "wof:lastmodified":1464103208,
+    "wof:name":"Thiessen Graphics",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -91.647088,
+    41.952652,
+    -91.647088,
+    41.952652
+],
+  "geometry": {"coordinates":[-91.647088,41.952652],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 856930253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.414735,42.501307,-96.414735,42.501307",
+    "geom:latitude":42.501307,
+    "geom:longitude":-96.414735,
+    "iso:country":"US",
+    "sg:address":"608 Main St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 9750",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "cutting",
+        "breaking",
+        "sawing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jjyFPilke1ZUkcsbQzErh_42.501307_-96.414735@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109260,
+    "wof:geomhash":"5beb2800415c7c4f91a19e6d3b82f417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856930253
+        }
+    ],
+    "wof:id":856930253,
+    "wof:lastmodified":1464109260,
+    "wof:name":"Service Construction",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "cutting",
+        "breaking",
+        "sawing"
+    ]
+},
+  "bbox": [
+    -96.414735,
+    42.501307,
+    -96.414735,
+    42.501307
+],
+  "geometry": {"coordinates":[-96.41473499999999,42.501307],"type":"Point"}
+}

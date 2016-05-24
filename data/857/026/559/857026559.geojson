@@ -1,0 +1,66 @@
+{
+  "id": 857026559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.701661,42.03002,-91.701661,42.03002",
+    "geom:latitude":42.03002,
+    "geom:longitude":-91.701661,
+    "iso:country":"US",
+    "sg:address":"5555 Edgewood Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7558",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nUjtkqzmewvEdQhp1eyOQ_42.030020_-91.701661@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113486,
+    "wof:geomhash":"966ed1fa2ef8b2e54e8c68f7ab709346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857026559
+        }
+    ],
+    "wof:id":857026559,
+    "wof:lastmodified":1464113486,
+    "wof:name":"Blairs Ferry Handi Mart",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.701661,
+    42.03002,
+    -91.701661,
+    42.03002
+],
+  "geometry": {"coordinates":[-91.701661,42.03002],"type":"Point"}
+}

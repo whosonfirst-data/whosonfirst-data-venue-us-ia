@@ -1,0 +1,67 @@
+{
+  "id": 857070417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715322,41.958907,-91.715322,41.958907",
+    "geom:latitude":41.958907,
+    "geom:longitude":-91.715322,
+    "iso:country":"US",
+    "sg:address":"3500 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4999",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.verizonwireless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b2GoTvUtmomDw5QaqC9I6_41.958907_-91.715322@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115350,
+    "wof:geomhash":"061cbec5e5a831f5b251b1e613bb44e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070417
+        }
+    ],
+    "wof:id":857070417,
+    "wof:lastmodified":1464115350,
+    "wof:name":"Verizon Wireless",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.715322,
+    41.958907,
+    -91.715322,
+    41.958907
+],
+  "geometry": {"coordinates":[-91.715322,41.958907],"type":"Point"}
+}

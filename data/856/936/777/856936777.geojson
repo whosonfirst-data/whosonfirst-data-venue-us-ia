@@ -1,0 +1,77 @@
+{
+  "id": 856936777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.615762,41.592333,-93.615762,41.592333",
+    "geom:latitude":41.592333,
+    "geom:longitude":-93.615762,
+    "iso:country":"US",
+    "sg:address":"720 E 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 4000",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TgaBguGGwtut9fIMWaDPN_41.592333_-93.615762@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109505,
+    "wof:geomhash":"3e42dfa6094614ec0214dac938b37940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896409,
+            "region_id":85688713,
+            "venue_id":856936777
+        }
+    ],
+    "wof:id":856936777,
+    "wof:lastmodified":1464109505,
+    "wof:name":"Midwest Alarm Svc",
+    "wof:parent_id":85896409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -93.615762,
+    41.592333,
+    -93.615762,
+    41.592333
+],
+  "geometry": {"coordinates":[-93.615762,41.592333],"type":"Point"}
+}

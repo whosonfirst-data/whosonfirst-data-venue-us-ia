@@ -1,0 +1,68 @@
+{
+  "id": 856933359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.685275,41.959735,-91.685275,41.959735",
+    "geom:latitude":41.959735,
+    "geom:longitude":-91.685275,
+    "iso:country":"US",
+    "sg:address":"1131 19th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 7576",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VIO1qztlSdw89el5umpCQ_41.959735_-91.685275@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109372,
+    "wof:geomhash":"0eb7f3984e8ad5fc1cea75303e4f335e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856933359
+        }
+    ],
+    "wof:id":856933359,
+    "wof:lastmodified":1464109372,
+    "wof:name":"Mike Short Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.685275,
+    41.959735,
+    -91.685275,
+    41.959735
+],
+  "geometry": {"coordinates":[-91.685275,41.959735],"type":"Point"}
+}

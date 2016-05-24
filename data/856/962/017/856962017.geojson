@@ -1,0 +1,77 @@
+{
+  "id": 856962017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.734246,41.968256,-91.734246,41.968256",
+    "geom:latitude":41.968256,
+    "geom:longitude":-91.734246,
+    "iso:country":"US",
+    "sg:address":"4990 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1500",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t166vU1NFD4YmvVMhnFNC_41.968256_-91.734246@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110634,
+    "wof:geomhash":"90cb98d2d4b46d1119d8a31121a79591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856962017
+        }
+    ],
+    "wof:id":856962017,
+    "wof:lastmodified":1464110634,
+    "wof:name":"Mid States Hearing Aid",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -91.734246,
+    41.968256,
+    -91.734246,
+    41.968256
+],
+  "geometry": {"coordinates":[-91.734246,41.968256],"type":"Point"}
+}

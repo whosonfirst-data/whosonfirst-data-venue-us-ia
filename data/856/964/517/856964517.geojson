@@ -1,0 +1,73 @@
+{
+  "id": 856964517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.691952,42.107641,-91.691952,42.107641",
+    "geom:latitude":42.107641,
+    "geom:longitude":-91.691952,
+    "iso:country":"US",
+    "sg:address":"3330 Midway Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4381",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gKrFsPySaMzYe9p1e7a8r_42.107641_-91.691952@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110730,
+    "wof:geomhash":"34b1e9fd95db006fa0f4d307c3b1def3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856964517
+        }
+    ],
+    "wof:id":856964517,
+    "wof:lastmodified":1464110730,
+    "wof:name":"Mc Burney Septic Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -91.691952,
+    42.107641,
+    -91.691952,
+    42.107641
+],
+  "geometry": {"coordinates":[-91.691952,42.107641],"type":"Point"}
+}

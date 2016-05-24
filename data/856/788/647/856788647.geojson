@@ -1,0 +1,75 @@
+{
+  "id": 856788647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.418001,42.522252,-96.418001,42.522252",
+    "geom:latitude":42.522252,
+    "geom:longitude":-96.418001,
+    "iso:country":"US",
+    "sg:address":"3005 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 5539",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vDffmEfoIHkVZYCa9cbqr_42.522252_-96.418001@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102731,
+    "wof:geomhash":"8793dc0a193ddaa0b28cf4f5816aeb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856788647
+        }
+    ],
+    "wof:id":856788647,
+    "wof:lastmodified":1464102731,
+    "wof:name":"Motor Vehicle-Drivers License",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.418001,
+    42.522252,
+    -96.418001,
+    42.522252
+],
+  "geometry": {"coordinates":[-96.418001,42.522252],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856887907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.109349,41.839546,-94.109349,41.839546",
+    "geom:latitude":41.839546,
+    "geom:longitude":-94.109349,
+    "iso:country":"US",
+    "sg:address":"1101 W 3rd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2562",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kWtvi6S1egygMFKru8T5E_41.839546_-94.109349@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107597,
+    "wof:geomhash":"a22bda2bf3fb5964bd5bc6d319df52fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856887907
+        }
+    ],
+    "wof:id":856887907,
+    "wof:lastmodified":1464107597,
+    "wof:name":"Perry City Water Dept",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -94.109349,
+    41.839546,
+    -94.109349,
+    41.839546
+],
+  "geometry": {"coordinates":[-94.10934899999999,41.839546],"type":"Point"}
+}

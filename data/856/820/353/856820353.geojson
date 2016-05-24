@@ -1,0 +1,75 @@
+{
+  "id": 856820353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.607771,41.511665,-90.607771,41.511665",
+    "geom:latitude":41.511665,
+    "geom:longitude":-90.607771,
+    "iso:country":"US",
+    "sg:address":"758 Schmidt Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 6924",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sFw4xs9F2NnqisAAekmbh_41.511665_-90.607771@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104117,
+    "wof:geomhash":"58d447ab799f97abfd6725b8ecc95f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856820353
+        }
+    ],
+    "wof:id":856820353,
+    "wof:lastmodified":1464104117,
+    "wof:name":"Marv's Prop Shop",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -90.607771,
+    41.511665,
+    -90.607771,
+    41.511665
+],
+  "geometry": {"coordinates":[-90.607771,41.511665],"type":"Point"}
+}

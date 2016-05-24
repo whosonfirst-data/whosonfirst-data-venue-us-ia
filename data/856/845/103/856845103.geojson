@@ -1,0 +1,73 @@
+{
+  "id": 856845103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.337316,41.24554,-95.337316,41.24554",
+    "geom:latitude":41.24554,
+    "geom:longitude":-95.337316,
+    "iso:country":"US",
+    "sg:address":"44615 Cottonwood Rd",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 3485",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "construction",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zTZjqU7728YNUk4rOcG0d_41.245540_-95.337316@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105237,
+    "wof:geomhash":"d213e731341b8f70a7b5215b7ac4ba1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856845103
+        }
+    ],
+    "wof:id":856845103,
+    "wof:lastmodified":1464105237,
+    "wof:name":"Ward Luke Construction",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.337316,
+    41.24554,
+    -95.337316,
+    41.24554
+],
+  "geometry": {"coordinates":[-95.337316,41.24554],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856979353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.586243,41.87155,-91.586243,41.87155",
+    "geom:latitude":41.87155,
+    "geom:longitude":-91.586243,
+    "iso:country":"US",
+    "sg:address":"1495 State St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 4760",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ekQy8kFMM2iPe8xm80yw9_41.871550_-91.586243@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111426,
+    "wof:geomhash":"62c4b9f3cb9baadb1ba7de34f4ecc9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856979353
+        }
+    ],
+    "wof:id":856979353,
+    "wof:lastmodified":1464111426,
+    "wof:name":"Hoosier Creek Stores",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.586243,
+    41.87155,
+    -91.586243,
+    41.87155
+],
+  "geometry": {"coordinates":[-91.586243,41.87155],"type":"Point"}
+}

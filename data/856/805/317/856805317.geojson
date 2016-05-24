@@ -1,0 +1,73 @@
+{
+  "id": 856805317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916285,41.290235,-95.916285,41.290235",
+    "geom:latitude":41.290235,
+    "geom:longitude":-95.916285,
+    "iso:country":"US",
+    "sg:address":"1005 Willow Dr",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 5310",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g5wAqeoBV8dmVkMna45br_41.290235_-95.916285@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103420,
+    "wof:geomhash":"5433aa54225857bebe7ca2a9e43536b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856805317
+        }
+    ],
+    "wof:id":856805317,
+    "wof:lastmodified":1464103420,
+    "wof:name":"A 1 Mobile Home Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -95.916285,
+    41.290235,
+    -95.916285,
+    41.290235
+],
+  "geometry": {"coordinates":[-95.916285,41.290235],"type":"Point"}
+}

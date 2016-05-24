@@ -1,0 +1,73 @@
+{
+  "id": 856857081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.732116,41.96995,-91.732116,41.96995",
+    "geom:latitude":41.96995,
+    "geom:longitude":-91.732116,
+    "iso:country":"US",
+    "sg:address":"167 Jacolyn Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5900",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61LbBRCleL9Gjjgy5GxXjn_41.969950_-91.732116@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105841,
+    "wof:geomhash":"91317cfc74214d9f43727ed5d330fde6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856857081
+        }
+    ],
+    "wof:id":856857081,
+    "wof:lastmodified":1464105841,
+    "wof:name":"Mc Afee Mortgage",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -91.732116,
+    41.96995,
+    -91.732116,
+    41.96995
+],
+  "geometry": {"coordinates":[-91.732116,41.96995],"type":"Point"}
+}

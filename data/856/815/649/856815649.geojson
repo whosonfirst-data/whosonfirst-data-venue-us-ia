@@ -1,0 +1,73 @@
+{
+  "id": 856815649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.500242,41.630893,-91.500242,41.630893",
+    "geom:latitude":41.630893,
+    "geom:longitude":-91.500242,
+    "iso:country":"US",
+    "sg:address":"2409 Aster Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 341 7111",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MRfdFNitC85VD138NC5rf_41.630893_-91.500242@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103860,
+    "wof:geomhash":"3335163edd84cf259c9683803b05eeb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856815649
+        }
+    ],
+    "wof:id":856815649,
+    "wof:lastmodified":1464103860,
+    "wof:name":"Hook Up Car Audio",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -91.500242,
+    41.630893,
+    -91.500242,
+    41.630893
+],
+  "geometry": {"coordinates":[-91.500242,41.630893],"type":"Point"}
+}

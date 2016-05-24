@@ -1,0 +1,71 @@
+{
+  "id": 856896505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.57728,41.372619,-93.57728,41.372619",
+    "geom:latitude":41.372619,
+    "geom:longitude":-93.57728,
+    "iso:country":"US",
+    "sg:address":"1009 N Ann Pkwy",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5245",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LAMVU58zR8MaTZhTSFdJW_41.372619_-93.577280@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107919,
+    "wof:geomhash":"6b6ee4384349cfc88dd38b3e6401a6fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856896505
+        }
+    ],
+    "wof:id":856896505,
+    "wof:lastmodified":1464107919,
+    "wof:name":"Murphys Guest Home",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.57728,
+    41.372619,
+    -93.57728,
+    41.372619
+],
+  "geometry": {"coordinates":[-93.57728,41.372619],"type":"Point"}
+}

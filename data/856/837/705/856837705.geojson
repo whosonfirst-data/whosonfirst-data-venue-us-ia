@@ -1,0 +1,68 @@
+{
+  "id": 856837705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540441,41.653221,-91.540441,41.653221",
+    "geom:latitude":41.653221,
+    "geom:longitude":-91.540441,
+    "iso:country":"US",
+    "sg:address":"513 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 4151",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GzatzUBbTdhLFOgAy9cJE_41.653221_-91.540441@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104901,
+    "wof:geomhash":"6f1679c8ba174c00f7baab73a41ee95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856837705
+        }
+    ],
+    "wof:id":856837705,
+    "wof:lastmodified":1464104901,
+    "wof:name":"Kum & Go",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.540441,
+    41.653221,
+    -91.540441,
+    41.653221
+],
+  "geometry": {"coordinates":[-91.540441,41.653221],"type":"Point"}
+}

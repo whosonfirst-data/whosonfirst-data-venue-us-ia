@@ -1,0 +1,75 @@
+{
+  "id": 856822477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.635945,41.504181,-90.635945,41.504181",
+    "geom:latitude":41.504181,
+    "geom:longitude":-90.635945,
+    "iso:country":"US",
+    "sg:address":"1414 S Stark St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 326 2431",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RbPKUtC3kzqcat0O1llZz_41.504181_-90.635945@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104207,
+    "wof:geomhash":"9eb33f91885b3b4cf138d5eb97aadfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856822477
+        }
+    ],
+    "wof:id":856822477,
+    "wof:lastmodified":1464104207,
+    "wof:name":"Davenport Boat & Marine Svc",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -90.635945,
+    41.504181,
+    -90.635945,
+    41.504181
+],
+  "geometry": {"coordinates":[-90.63594500000001,41.504181],"type":"Point"}
+}

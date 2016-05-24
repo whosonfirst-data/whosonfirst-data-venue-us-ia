@@ -1,0 +1,78 @@
+{
+  "id": 856829807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903417,41.263599,-95.903417,41.263599",
+    "geom:latitude":41.263599,
+    "geom:longitude":-95.903417,
+    "iso:country":"US",
+    "sg:address":"3563 Ave B",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1404",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xs14n56lQ1uv7YHerxdhK_41.263599_-95.903417@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104505,
+    "wof:geomhash":"73fce78d5cec9031f0718614ce80943b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856829807
+        }
+    ],
+    "wof:id":856829807,
+    "wof:lastmodified":1464104505,
+    "wof:name":"Herbalife Distributors",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -95.903417,
+    41.263599,
+    -95.903417,
+    41.263599
+],
+  "geometry": {"coordinates":[-95.903417,41.263599],"type":"Point"}
+}

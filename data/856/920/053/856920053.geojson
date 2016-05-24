@@ -1,0 +1,73 @@
+{
+  "id": 856920053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.636724,41.99875,-91.636724,41.99875",
+    "geom:latitude":41.99875,
+    "geom:longitude":-91.636724,
+    "iso:country":"US",
+    "sg:address":"2244 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 265 1804",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fjMCPvdubbPlNjPZo0yX9_41.998750_-91.636724@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108812,
+    "wof:geomhash":"c6a56d33c3a95ca5eae81a61b1b664ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856920053
+        }
+    ],
+    "wof:id":856920053,
+    "wof:lastmodified":1464108812,
+    "wof:name":"Sister Of St Francis",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -91.636724,
+    41.99875,
+    -91.636724,
+    41.99875
+],
+  "geometry": {"coordinates":[-91.636724,41.99875],"type":"Point"}
+}

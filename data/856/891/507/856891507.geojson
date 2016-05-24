@@ -1,0 +1,75 @@
+{
+  "id": 856891507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6446,41.863798,-91.6446,41.863798",
+    "geom:latitude":41.863798,
+    "geom:longitude":-91.6446,
+    "iso:country":"US",
+    "sg:address":"12103 College St",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 2096",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944173,
+        102086417,
+        85848627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JEui6XVx3DvyCetXLBx6h_41.863798_-91.644600@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107745,
+    "wof:geomhash":"ffc19b2aa2ec99a3c468d497841d23ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944173,
+            "neighbourhood_id":85848627,
+            "region_id":85688713,
+            "venue_id":856891507
+        }
+    ],
+    "wof:id":856891507,
+    "wof:lastmodified":1464107745,
+    "wof:name":"Mission Creations",
+    "wof:parent_id":85848627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.6446,
+    41.863798,
+    -91.6446,
+    41.863798
+],
+  "geometry": {"coordinates":[-91.6446,41.863798],"type":"Point"}
+}

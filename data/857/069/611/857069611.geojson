@@ -1,0 +1,68 @@
+{
+  "id": 857069611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.646797,41.977402,-91.646797,41.977402",
+    "geom:latitude":41.977402,
+    "geom:longitude":-91.646797,
+    "iso:country":"US",
+    "sg:address":"1435 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0302",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eDJOqjtpXILXsZYSvtkS8_41.977402_-91.646797@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115309,
+    "wof:geomhash":"065c25d84bdd0e17806b016bfe338b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069611
+        }
+    ],
+    "wof:id":857069611,
+    "wof:lastmodified":1464115309,
+    "wof:name":"Certified Auto Repair Shop",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.646797,
+    41.977402,
+    -91.646797,
+    41.977402
+],
+  "geometry": {"coordinates":[-91.64679700000001,41.977402],"type":"Point"}
+}

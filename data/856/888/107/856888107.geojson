@@ -1,0 +1,71 @@
+{
+  "id": 856888107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.018791,41.616268,-94.018791,41.616268",
+    "geom:latitude":41.616268,
+    "geom:longitude":-94.018791,
+    "iso:country":"US",
+    "sg:address":"202 S 9th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 2034",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ojjqyGQTXray1ocVY0tIl_41.616268_-94.018791@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107608,
+    "wof:geomhash":"78d7e832e3bac25dab9992612538ded8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856888107
+        }
+    ],
+    "wof:id":856888107,
+    "wof:lastmodified":1464107608,
+    "wof:name":"Atherton House",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.018791,
+    41.616268,
+    -94.018791,
+    41.616268
+],
+  "geometry": {"coordinates":[-94.01879099999999,41.616268],"type":"Point"}
+}

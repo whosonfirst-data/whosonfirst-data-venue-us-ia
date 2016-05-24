@@ -1,0 +1,73 @@
+{
+  "id": 856898161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524407,41.664543,-91.524407,41.664543",
+    "geom:latitude":41.664543,
+    "geom:longitude":-91.524407,
+    "iso:country":"US",
+    "sg:address":"715 E Bloomington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 6833",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qs7eQHqA3zYla8MvUVe7A_41.664543_-91.524407@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107987,
+    "wof:geomhash":"89da0ae7c792d65c0a54cc32ae28c611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896463,
+            "region_id":85688713,
+            "venue_id":856898161
+        }
+    ],
+    "wof:id":856898161,
+    "wof:lastmodified":1464107987,
+    "wof:name":"Tom's Tools",
+    "wof:parent_id":85896463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -91.524407,
+    41.664543,
+    -91.524407,
+    41.664543
+],
+  "geometry": {"coordinates":[-91.524407,41.664543],"type":"Point"}
+}

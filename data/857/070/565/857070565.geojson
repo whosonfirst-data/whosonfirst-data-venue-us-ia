@@ -1,0 +1,68 @@
+{
+  "id": 857070565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677248,41.946891,-91.677248,41.946891",
+    "geom:latitude":41.946891,
+    "geom:longitude":-91.677248,
+    "iso:country":"US",
+    "sg:address":"641 31st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8400",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OyKIwkVNGxoMT7rQLaEMM_41.946891_-91.677248@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115361,
+    "wof:geomhash":"54841b3730a20aa4fbd54057af427acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070565
+        }
+    ],
+    "wof:id":857070565,
+    "wof:lastmodified":1464115361,
+    "wof:name":"Greg's Automotive Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.677248,
+    41.946891,
+    -91.677248,
+    41.946891
+],
+  "geometry": {"coordinates":[-91.67724800000001,41.946891],"type":"Point"}
+}

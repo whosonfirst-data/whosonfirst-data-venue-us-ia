@@ -1,0 +1,75 @@
+{
+  "id": 856784729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.80598,41.233623,-95.80598,41.233623",
+    "geom:latitude":41.233623,
+    "geom:longitude":-95.80598,
+    "iso:country":"US",
+    "sg:address":"15039 Pinehurst Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1294",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair",
+        "appliance",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yifI09ErmYm7IulYi11zM_41.233623_-95.805980@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102554,
+    "wof:geomhash":"d3ddafcd8e907377b20f984464d02c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856784729
+        }
+    ],
+    "wof:id":856784729,
+    "wof:lastmodified":1464102554,
+    "wof:name":"Chris Appliance Service",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "appliance",
+        "air"
+    ]
+},
+  "bbox": [
+    -95.80598,
+    41.233623,
+    -95.80598,
+    41.233623
+],
+  "geometry": {"coordinates":[-95.80598000000001,41.233623],"type":"Point"}
+}

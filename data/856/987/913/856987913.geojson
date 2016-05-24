@@ -1,0 +1,71 @@
+{
+  "id": 856987913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.879766,41.614883,-93.879766,41.614883",
+    "geom:latitude":41.614883,
+    "geom:longitude":-93.879766,
+    "iso:country":"US",
+    "sg:address":"20 US Hwy 6",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 6753",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aUQbyMGPltSkxNa7bpTpe_41.614883_-93.879766@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111867,
+    "wof:geomhash":"2eb6f2c18a9515ae4afbfaa7fd10cd56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856987913
+        }
+    ],
+    "wof:id":856987913,
+    "wof:lastmodified":1464111867,
+    "wof:name":"Casey's Carry Out Pizza",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.879766,
+    41.614883,
+    -93.879766,
+    41.614883
+],
+  "geometry": {"coordinates":[-93.879766,41.614883],"type":"Point"}
+}

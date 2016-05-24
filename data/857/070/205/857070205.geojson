@@ -1,0 +1,73 @@
+{
+  "id": 857070205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.726097,41.958302,-91.726097,41.958302",
+    "geom:latitude":41.958302,
+    "geom:longitude":-91.726097,
+    "iso:country":"US",
+    "sg:address":"2230 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1983",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QwJFL6mIb2zzWYJ2RABlY_41.958302_-91.726097@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115343,
+    "wof:geomhash":"ba4a7b19bb0c0e26acdc11c68ccb5ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070205
+        }
+    ],
+    "wof:id":857070205,
+    "wof:lastmodified":1464115343,
+    "wof:name":"Westside Family Practice & Urgent Care Center",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -91.726097,
+    41.958302,
+    -91.726097,
+    41.958302
+],
+  "geometry": {"coordinates":[-91.726097,41.958302],"type":"Point"}
+}

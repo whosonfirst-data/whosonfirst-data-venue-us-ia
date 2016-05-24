@@ -1,0 +1,73 @@
+{
+  "id": 856904735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.588586,41.689611,-91.588586,41.689611",
+    "geom:latitude":41.689611,
+    "geom:longitude":-91.588586,
+    "iso:country":"US",
+    "sg:address":"1711 13th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 8773",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eK6pMxcxWxeqSYdKUkbZa_41.689611_-91.588586@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108223,
+    "wof:geomhash":"5835b45d6dfdf0cfbf9f89d4b62e3772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896365,
+            "region_id":85688713,
+            "venue_id":856904735
+        }
+    ],
+    "wof:id":856904735,
+    "wof:lastmodified":1464108223,
+    "wof:name":"Clover Painting",
+    "wof:parent_id":85896365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.588586,
+    41.689611,
+    -91.588586,
+    41.689611
+],
+  "geometry": {"coordinates":[-91.58858600000001,41.689611],"type":"Point"}
+}

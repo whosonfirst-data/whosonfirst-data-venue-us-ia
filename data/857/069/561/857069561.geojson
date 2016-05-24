@@ -1,0 +1,76 @@
+{
+  "id": 857069561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633301,41.996601,-91.633301,41.996601",
+    "geom:latitude":41.996601,
+    "geom:longitude":-91.633301,
+    "iso:country":"US",
+    "sg:address":"2202 Forest Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4897",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dVRnLBciSROE1wSN12DGB_41.996601_-91.633301@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115307,
+    "wof:geomhash":"84d75683bbb137d86d01a578e095028d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069561
+        }
+    ],
+    "wof:id":857069561,
+    "wof:lastmodified":1464115307,
+    "wof:name":"Bethany Lutheran Church Preschool",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.633301,
+    41.996601,
+    -91.633301,
+    41.996601
+],
+  "geometry": {"coordinates":[-91.633301,41.996601],"type":"Point"}
+}

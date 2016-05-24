@@ -1,0 +1,78 @@
+{
+  "id": 857069201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668098,42.033501,-91.668098,42.033501",
+    "geom:latitude":42.033501,
+    "geom:longitude":-91.668098,
+    "iso:country":"US",
+    "sg:address":"5414 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3231",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "blind",
+        "shade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k0jWSW0dHCvh796Ugxopw_42.033501_-91.668098@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115295,
+    "wof:geomhash":"d43e2840a7e8706ab62db604e9287fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069201
+        }
+    ],
+    "wof:id":857069201,
+    "wof:lastmodified":1464115295,
+    "wof:name":"Touch of Glass",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blind",
+        "shade"
+    ]
+},
+  "bbox": [
+    -91.668098,
+    42.033501,
+    -91.668098,
+    42.033501
+],
+  "geometry": {"coordinates":[-91.668098,42.033501],"type":"Point"}
+}

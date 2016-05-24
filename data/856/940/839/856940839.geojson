@@ -1,0 +1,71 @@
+{
+  "id": 856940839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.574365,42.026663,-91.574365,42.026663",
+    "geom:latitude":42.026663,
+    "geom:longitude":-91.574365,
+    "iso:country":"US",
+    "sg:address":"280 35th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7301",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOqAi8X3aY61x9iGUZY8V_42.026663_-91.574365@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109717,
+    "wof:geomhash":"c611d633b5703951f31f1182b881f4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856940839
+        }
+    ],
+    "wof:id":856940839,
+    "wof:lastmodified":1464109717,
+    "wof:name":"Anchor Frame & Axle Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.574365,
+    42.026663,
+    -91.574365,
+    42.026663
+],
+  "geometry": {"coordinates":[-91.574365,42.026663],"type":"Point"}
+}

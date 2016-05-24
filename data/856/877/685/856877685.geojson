@@ -1,0 +1,71 @@
+{
+  "id": 856877685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.383865,41.920811,-91.383865,41.920811",
+    "geom:latitude":41.920811,
+    "geom:longitude":-91.383865,
+    "iso:country":"US",
+    "sg:address":"106 S Jackson St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2725",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "screen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zjQjrFgY57rnqplHdJbpD_41.920811_-91.383865@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107057,
+    "wof:geomhash":"61d6269098f61bdf84f3be0e2df574c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856877685
+        }
+    ],
+    "wof:id":856877685,
+    "wof:lastmodified":1464107057,
+    "wof:name":"Barnyard Screen Printer",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen"
+    ]
+},
+  "bbox": [
+    -91.383865,
+    41.920811,
+    -91.383865,
+    41.920811
+],
+  "geometry": {"coordinates":[-91.383865,41.920811],"type":"Point"}
+}

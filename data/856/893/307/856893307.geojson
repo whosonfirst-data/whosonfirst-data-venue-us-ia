@@ -1,0 +1,73 @@
+{
+  "id": 856893307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.730197,41.260862,-95.730197,41.260862",
+    "geom:latitude":41.260862,
+    "geom:longitude":-95.730197,
+    "iso:country":"US",
+    "sg:address":"23996 Dogwood Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5955",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "railroad",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52nkfimKZ5Cmg8qxihm0XT_41.260862_-95.730197@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107803,
+    "wof:geomhash":"680d2e751fb6ced16d29d653d048acf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856893307
+        }
+    ],
+    "wof:id":856893307,
+    "wof:lastmodified":1464107803,
+    "wof:name":"Midwest Track Repair",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.730197,
+    41.260862,
+    -95.730197,
+    41.260862
+],
+  "geometry": {"coordinates":[-95.730197,41.260862],"type":"Point"}
+}

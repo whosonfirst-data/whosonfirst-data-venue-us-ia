@@ -1,0 +1,71 @@
+{
+  "id": 857018033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.818202,41.210357,-95.818202,41.210357",
+    "geom:latitude":41.210357,
+    "geom:longitude":-95.818202,
+    "iso:country":"US",
+    "sg:address":"13511 192nd St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 4305",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_637eFmUfzCU8NqyWtEZ76W_41.210357_-95.818202@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113119,
+    "wof:geomhash":"bfb84c487dbda106c89f602a63ea1e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857018033
+        }
+    ],
+    "wof:id":857018033,
+    "wof:lastmodified":1464113119,
+    "wof:name":"Mel Easton & Sons",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.818202,
+    41.210357,
+    -95.818202,
+    41.210357
+],
+  "geometry": {"coordinates":[-95.818202,41.210357],"type":"Point"}
+}

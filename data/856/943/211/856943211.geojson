@@ -1,0 +1,83 @@
+{
+  "id": 856943211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.346007,42.393381,-96.346007,42.393381",
+    "geom:latitude":42.393381,
+    "geom:longitude":-96.346007,
+    "iso:country":"US",
+    "sg:address":"1316 Warrior Rd",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 5646",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "golf",
+        "cart",
+        "powered"
+    ],
+    "sg:website":"www.bluffsgolfcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAJMCErGP1VnGwYweoSCH_42.393381_-96.346007@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109818,
+    "wof:geomhash":"c750812fc15eebe559e8eca4915ac1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856943211
+        }
+    ],
+    "wof:id":856943211,
+    "wof:lastmodified":1464109818,
+    "wof:name":"Bluffs Golf Cars LLC",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "golf",
+        "cart",
+        "powered"
+    ]
+},
+  "bbox": [
+    -96.346007,
+    42.393381,
+    -96.346007,
+    42.393381
+],
+  "geometry": {"coordinates":[-96.346007,42.393381],"type":"Point"}
+}

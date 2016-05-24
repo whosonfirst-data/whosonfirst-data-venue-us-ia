@@ -1,0 +1,66 @@
+{
+  "id": 856827361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.591676,41.962337,-91.591676,41.962337",
+    "geom:latitude":41.962337,
+    "geom:longitude":-91.591676,
+    "iso:country":"US",
+    "sg:address":"4789 Otis Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0180",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eu6Ehnt2JMEeYN3JRNcA5_41.962337_-91.591676@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104406,
+    "wof:geomhash":"588571ff1bfba2387dfbe408bbb978a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856827361
+        }
+    ],
+    "wof:id":856827361,
+    "wof:lastmodified":1464104406,
+    "wof:name":"Chicago North Western Trnsprtn",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.591676,
+    41.962337,
+    -91.591676,
+    41.962337
+],
+  "geometry": {"coordinates":[-91.59167600000001,41.962337],"type":"Point"}
+}

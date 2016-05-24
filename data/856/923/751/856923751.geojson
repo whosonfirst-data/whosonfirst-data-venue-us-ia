@@ -1,0 +1,77 @@
+{
+  "id": 856923751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661469,42.021482,-91.661469,42.021482",
+    "geom:latitude":42.021482,
+    "geom:longitude":-91.661469,
+    "iso:country":"US",
+    "sg:address":"1642 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 0016",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hosp",
+        "ex",
+        "psychiatric",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oLK6jkjD9XPOrXpg40bMr_42.021482_-91.661469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108992,
+    "wof:geomhash":"8061bf8ad4007d57543cb545ab2a647a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856923751
+        }
+    ],
+    "wof:id":856923751,
+    "wof:lastmodified":1464108992,
+    "wof:name":"US Veterans Ctr",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosp",
+        "ex",
+        "psychiatric",
+        "government"
+    ]
+},
+  "bbox": [
+    -91.661469,
+    42.021482,
+    -91.661469,
+    42.021482
+],
+  "geometry": {"coordinates":[-91.661469,42.021482],"type":"Point"}
+}

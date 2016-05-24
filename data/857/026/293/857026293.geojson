@@ -1,0 +1,73 @@
+{
+  "id": 857026293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.708884,41.96326,-91.708884,41.96326",
+    "geom:latitude":41.96326,
+    "geom:longitude":-91.708884,
+    "iso:country":"US",
+    "sg:address":"2604 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9911",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gSjPlbcGWcXsyUhAhQFmP_41.963260_-91.708884@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113468,
+    "wof:geomhash":"1b472c2a4c6fca596aae389ac537038b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857026293
+        }
+    ],
+    "wof:id":857026293,
+    "wof:lastmodified":1464113468,
+    "wof:name":"Iowa Valley Monument",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -91.708884,
+    41.96326,
+    -91.708884,
+    41.96326
+],
+  "geometry": {"coordinates":[-91.708884,41.96326],"type":"Point"}
+}

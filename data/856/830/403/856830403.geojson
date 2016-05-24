@@ -1,0 +1,71 @@
+{
+  "id": 856830403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.493859,41.639775,-91.493859,41.639775",
+    "geom:latitude":41.639775,
+    "geom:longitude":-91.493859,
+    "iso:country":"US",
+    "sg:address":"2918 Industrial Park Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 248 0114",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u4OIdSYPB5gqCo7tRmY6I_41.639775_-91.493859@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104526,
+    "wof:geomhash":"7b6a8eb878cfb618f45bb0028dbe37c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856830403
+        }
+    ],
+    "wof:id":856830403,
+    "wof:lastmodified":1464104526,
+    "wof:name":"Walsh Door & Hardware Co",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -91.493859,
+    41.639775,
+    -91.493859,
+    41.639775
+],
+  "geometry": {"coordinates":[-91.493859,41.639775],"type":"Point"}
+}

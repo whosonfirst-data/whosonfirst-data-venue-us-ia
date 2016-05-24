@@ -1,0 +1,71 @@
+{
+  "id": 856911461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623964,41.982087,-91.623964,41.982087",
+    "geom:latitude":41.982087,
+    "geom:longitude":-91.623964,
+    "iso:country":"US",
+    "sg:address":"2901 Mansfield Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 2005",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lKbEMhmv2RTUVa4uoW0Ll_41.982087_-91.623964@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108479,
+    "wof:geomhash":"ac7fb681c168df42d247d62f2d4f74ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856911461
+        }
+    ],
+    "wof:id":856911461,
+    "wof:lastmodified":1464108479,
+    "wof:name":"REM-Iowa Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -91.623964,
+    41.982087,
+    -91.623964,
+    41.982087
+],
+  "geometry": {"coordinates":[-91.623964,41.982087],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857060295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620158,41.600785,-93.620158,41.600785",
+    "geom:latitude":41.600785,
+    "geom:longitude":-93.620158,
+    "iso:country":"US",
+    "sg:address":"205 University Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/des-moines/160769-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 1720",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TOv50LOZtPt3shmi1wst6_41.600387_-93.619688@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114909,
+    "wof:geomhash":"c4514c5eaa84bc6ec32f09beb1366a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896413,
+            "region_id":85688713,
+            "venue_id":857060295
+        }
+    ],
+    "wof:id":857060295,
+    "wof:lastmodified":1464114909,
+    "wof:name":"Burger King",
+    "wof:parent_id":85896413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.620158,
+    41.600785,
+    -93.620158,
+    41.600785
+],
+  "geometry": {"coordinates":[-93.620158,41.600785],"type":"Point"}
+}

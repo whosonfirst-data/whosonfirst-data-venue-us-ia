@@ -1,0 +1,75 @@
+{
+  "id": 856787755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.626844,41.603956,-93.626844,41.603956",
+    "geom:latitude":41.603956,
+    "geom:longitude":-93.626844,
+    "iso:country":"US",
+    "sg:address":"601 Forest Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 7798",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "desk",
+        "space"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07mX6rHAYQRJc3t3YkDJuP_41.603956_-93.626844@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102693,
+    "wof:geomhash":"488dae7b9626d89100e45f33d0277a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856787755
+        }
+    ],
+    "wof:id":856787755,
+    "wof:lastmodified":1464102693,
+    "wof:name":"Community Housing Development",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "desk",
+        "space"
+    ]
+},
+  "bbox": [
+    -93.626844,
+    41.603956,
+    -93.626844,
+    41.603956
+],
+  "geometry": {"coordinates":[-93.62684400000001,41.603956],"type":"Point"}
+}

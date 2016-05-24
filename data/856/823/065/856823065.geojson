@@ -1,0 +1,73 @@
+{
+  "id": 856823065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.598382,41.529015,-93.598382,41.529015",
+    "geom:latitude":41.529015,
+    "geom:longitude":-93.598382,
+    "iso:country":"US",
+    "sg:address":"1264 Cummins Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 1879",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5td17LFZjtouEF3f7AA6hj_41.529015_-93.598382@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104228,
+    "wof:geomhash":"c8d1d6261291203091176ecaa7b33ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":856823065
+        }
+    ],
+    "wof:id":856823065,
+    "wof:lastmodified":1464104228,
+    "wof:name":"Southridge Apartments",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.598382,
+    41.529015,
+    -93.598382,
+    41.529015
+],
+  "geometry": {"coordinates":[-93.598382,41.529015],"type":"Point"}
+}

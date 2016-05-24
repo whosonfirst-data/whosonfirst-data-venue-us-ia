@@ -1,0 +1,68 @@
+{
+  "id": 856886351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.612799,41.514393,-90.612799,41.514393",
+    "geom:latitude":41.514393,
+    "geom:longitude":-90.612799,
+    "iso:country":"US",
+    "sg:address":"2365 Rockingham Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 4467",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mwaNv4FCVlKI1TRwDvNdh_41.514393_-90.612799@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107533,
+    "wof:geomhash":"acd852b351988dd85d63a717c118598b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856886351
+        }
+    ],
+    "wof:id":856886351,
+    "wof:lastmodified":1464107533,
+    "wof:name":"K & K Food & Gas",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.612799,
+    41.514393,
+    -90.612799,
+    41.514393
+],
+  "geometry": {"coordinates":[-90.612799,41.514393],"type":"Point"}
+}

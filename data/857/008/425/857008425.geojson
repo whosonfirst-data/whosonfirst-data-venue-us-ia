@@ -1,0 +1,68 @@
+{
+  "id": 857008425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.376466,42.495429,-96.376466,42.495429",
+    "geom:latitude":42.495429,
+    "geom:longitude":-96.376466,
+    "iso:country":"US",
+    "sg:address":"2401 5th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 7802",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ixFSN4rUMFViIsPuYdZj1_42.495429_-96.376466@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112716,
+    "wof:geomhash":"a385a3e3f1bfc0cd583179839ef77d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857008425
+        }
+    ],
+    "wof:id":857008425,
+    "wof:lastmodified":1464112716,
+    "wof:name":"Johnnie Mars",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.376466,
+    42.495429,
+    -96.376466,
+    42.495429
+],
+  "geometry": {"coordinates":[-96.37646599999999,42.495429],"type":"Point"}
+}

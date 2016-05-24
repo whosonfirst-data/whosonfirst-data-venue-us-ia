@@ -1,0 +1,73 @@
+{
+  "id": 856866889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.630058,41.518167,-93.630058,41.518167",
+    "geom:latitude":41.518167,
+    "geom:longitude":-93.630058,
+    "iso:country":"US",
+    "sg:address":"1149 Mason Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 5995",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FjpgaFOyvznKRhCLlya7U_41.518167_-93.630058@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106306,
+    "wof:geomhash":"16bb0fb0f431052abff38e1772ddacfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896419,
+            "region_id":85688713,
+            "venue_id":856866889
+        }
+    ],
+    "wof:id":856866889,
+    "wof:lastmodified":1464106306,
+    "wof:name":"Zupan Heating & Cooling",
+    "wof:parent_id":85896419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -93.630058,
+    41.518167,
+    -93.630058,
+    41.518167
+],
+  "geometry": {"coordinates":[-93.63005800000001,41.518167],"type":"Point"}
+}

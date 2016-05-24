@@ -1,0 +1,71 @@
+{
+  "id": 856948837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.604593,41.505794,-93.604593,41.505794",
+    "geom:latitude":41.505794,
+    "geom:longitude":-93.604593,
+    "iso:country":"US",
+    "sg:address":"576 Marlou Pkwy",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 9646",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dhs1VHTy2gJaQND7Fq5Y5_41.505794_-93.604593@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110027,
+    "wof:geomhash":"7e74161513723f2816184cc26906426c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856948837
+        }
+    ],
+    "wof:id":856948837,
+    "wof:lastmodified":1464110027,
+    "wof:name":"Lintz Brothers Painting",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.604593,
+    41.505794,
+    -93.604593,
+    41.505794
+],
+  "geometry": {"coordinates":[-93.60459299999999,41.505794],"type":"Point"}
+}

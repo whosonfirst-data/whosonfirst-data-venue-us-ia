@@ -1,0 +1,71 @@
+{
+  "id": 857006861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.430016,41.487161,-91.430016,41.487161",
+    "geom:latitude":41.487161,
+    "geom:longitude":-91.430016,
+    "iso:country":"US",
+    "sg:address":"317 W Jayne St",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 4500",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49bmPd8fY2wnpxDtbyTeV7_41.487161_-91.430016@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112640,
+    "wof:geomhash":"d1b5450a810caa92f1460d5a7d442dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":857006861
+        }
+    ],
+    "wof:id":857006861,
+    "wof:lastmodified":1464112640,
+    "wof:name":"Chris-Jac Inc",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.430016,
+    41.487161,
+    -91.430016,
+    41.487161
+],
+  "geometry": {"coordinates":[-91.43001599999999,41.487161],"type":"Point"}
+}

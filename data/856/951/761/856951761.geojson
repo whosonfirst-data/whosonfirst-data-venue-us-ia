@@ -1,0 +1,73 @@
+{
+  "id": 856951761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.708884,41.96326,-91.708884,41.96326",
+    "geom:latitude":41.96326,
+    "geom:longitude":-91.708884,
+    "iso:country":"US",
+    "sg:address":"2604 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5527",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WoTTJhAgOftAXYnmN1wOT_41.963260_-91.708884@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110160,
+    "wof:geomhash":"1b472c2a4c6fca596aae389ac537038b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856951761
+        }
+    ],
+    "wof:id":856951761,
+    "wof:lastmodified":1464110160,
+    "wof:name":"Czech National Cemetery",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -91.708884,
+    41.96326,
+    -91.708884,
+    41.96326
+],
+  "geometry": {"coordinates":[-91.708884,41.96326],"type":"Point"}
+}

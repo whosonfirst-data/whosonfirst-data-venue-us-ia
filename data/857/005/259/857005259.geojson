@@ -1,0 +1,73 @@
+{
+  "id": 857005259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540314,41.651753,-91.540314,41.651753",
+    "geom:latitude":41.651753,
+    "geom:longitude":-91.540314,
+    "iso:country":"US",
+    "sg:address":"731 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 5836",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a5n6qJ2CWqld8PEQ8RkX3_41.651753_-91.540314@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112579,
+    "wof:geomhash":"0acb225b94e30309e34bc8df5626bb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857005259
+        }
+    ],
+    "wof:id":857005259,
+    "wof:lastmodified":1464112579,
+    "wof:name":"Sinclair Oil Corp",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -91.540314,
+    41.651753,
+    -91.540314,
+    41.651753
+],
+  "geometry": {"coordinates":[-91.540314,41.651753],"type":"Point"}
+}

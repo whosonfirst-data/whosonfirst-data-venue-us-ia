@@ -1,0 +1,75 @@
+{
+  "id": 856820391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.603227,41.51301,-90.603227,41.51301",
+    "geom:latitude":41.51301,
+    "geom:longitude":-90.603227,
+    "iso:country":"US",
+    "sg:address":"2060 W River Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 5243",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyVfl64ZYkd6sGcflz5dA_41.513010_-90.603227@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104118,
+    "wof:geomhash":"4f94da3d6c8bf0c1f8879a5de22e98ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856820391
+        }
+    ],
+    "wof:id":856820391,
+    "wof:lastmodified":1464104118,
+    "wof:name":"Midwest Metals Inc",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -90.603227,
+    41.51301,
+    -90.603227,
+    41.51301
+],
+  "geometry": {"coordinates":[-90.603227,41.51301],"type":"Point"}
+}

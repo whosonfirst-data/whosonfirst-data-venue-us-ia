@@ -1,0 +1,86 @@
+{
+  "id": 856835647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.706621,41.997149,-91.706621,41.997149",
+    "geom:latitude":41.997149,
+    "geom:longitude":-91.706621,
+    "iso:country":"US",
+    "sg:address":"2131 26th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3683",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "recycle",
+        "filter",
+        "recycling",
+        "center",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iBrwjGUniqmYu8JpPSJqn_41.997149_-91.706621@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104785,
+    "wof:geomhash":"c53001d2885ac3204db60979bdcdc712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856835647
+        }
+    ],
+    "wof:id":856835647,
+    "wof:lastmodified":1464104785,
+    "wof:name":"C D R Oil Filter Recycling",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycle",
+        "filter",
+        "recycling",
+        "center",
+        "oil"
+    ]
+},
+  "bbox": [
+    -91.706621,
+    41.997149,
+    -91.706621,
+    41.997149
+],
+  "geometry": {"coordinates":[-91.706621,41.997149],"type":"Point"}
+}

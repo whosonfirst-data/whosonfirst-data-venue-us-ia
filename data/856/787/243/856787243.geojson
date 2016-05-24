@@ -1,0 +1,71 @@
+{
+  "id": 856787243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.708179,41.972842,-91.708179,41.972842",
+    "geom:latitude":41.972842,
+    "geom:longitude":-91.708179,
+    "iso:country":"US",
+    "sg:address":"209 27th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5100",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eQmG4jhN3sgLyr7lmOujg_41.972842_-91.708179@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102668,
+    "wof:geomhash":"d179b1b83d1794a023854933bb62805d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856787243
+        }
+    ],
+    "wof:id":856787243,
+    "wof:lastmodified":1464102668,
+    "wof:name":"Smith Lemoine Construction",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.708179,
+    41.972842,
+    -91.708179,
+    41.972842
+],
+  "geometry": {"coordinates":[-91.708179,41.972842],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857063561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.834503,41.2892,-95.834503,41.2892",
+    "geom:latitude":41.2892,
+    "geom:longitude":-95.834503,
+    "iso:country":"US",
+    "sg:address":"2924 N Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4403",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4omawLKY3Pw75WfvK6KBGg_41.289200_-95.834503@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115041,
+    "wof:geomhash":"11dab16adeec86deec2a50af1975d3c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063561
+        }
+    ],
+    "wof:id":857063561,
+    "wof:lastmodified":1464115041,
+    "wof:name":"Eddys 2924",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.834503,
+    41.2892,
+    -95.834503,
+    41.2892
+],
+  "geometry": {"coordinates":[-95.834503,41.2892],"type":"Point"}
+}

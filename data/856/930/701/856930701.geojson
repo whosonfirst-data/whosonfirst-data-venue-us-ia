@@ -1,0 +1,75 @@
+{
+  "id": 856930701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.541892,41.572805,-93.541892,41.572805",
+    "geom:latitude":41.572805,
+    "geom:longitude":-93.541892,
+    "iso:country":"US",
+    "sg:address":"1412 SE 37th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 4433",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WSLar8jolq4AeZ2GiC0kq_41.572805_-93.541892@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109274,
+    "wof:geomhash":"84007b54630c2c2756bca0ef6c1733e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856930701
+        }
+    ],
+    "wof:id":856930701,
+    "wof:lastmodified":1464109274,
+    "wof:name":"Harrison Trenching Co",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.541892,
+    41.572805,
+    -93.541892,
+    41.572805
+],
+  "geometry": {"coordinates":[-93.541892,41.572805],"type":"Point"}
+}

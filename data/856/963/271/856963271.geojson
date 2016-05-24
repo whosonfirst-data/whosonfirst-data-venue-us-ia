@@ -1,0 +1,71 @@
+{
+  "id": 856963271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.681528,42.045762,-91.681528,42.045762",
+    "geom:latitude":42.045762,
+    "geom:longitude":-91.681528,
+    "iso:country":"US",
+    "sg:address":"705 N Center Point Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 4451",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B9513zftBAiWlQjazoRk0_42.045762_-91.681528@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110677,
+    "wof:geomhash":"5d9951799f7e04a2708385dcfa0f39fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856963271
+        }
+    ],
+    "wof:id":856963271,
+    "wof:lastmodified":1464110677,
+    "wof:name":"Cornerstone Press",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -91.681528,
+    42.045762,
+    -91.681528,
+    42.045762
+],
+  "geometry": {"coordinates":[-91.681528,42.045762],"type":"Point"}
+}

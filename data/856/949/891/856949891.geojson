@@ -1,0 +1,71 @@
+{
+  "id": 856949891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.09544,41.841226,-94.09544,41.841226",
+    "geom:latitude":41.841226,
+    "geom:longitude":-94.09544,
+    "iso:country":"US",
+    "sg:address":"1312 9th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4287",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R6j5jZmZC8L84AxxPGzn5_41.841226_-94.095440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110066,
+    "wof:geomhash":"1cff53a12164d2b8c9ff53d633d9c94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856949891
+        }
+    ],
+    "wof:id":856949891,
+    "wof:lastmodified":1464110066,
+    "wof:name":"Wuebker Construction",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.09544,
+    41.841226,
+    -94.09544,
+    41.841226
+],
+  "geometry": {"coordinates":[-94.09544,41.841226],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857070521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655602,41.920799,-91.655602,41.920799",
+    "geom:latitude":41.920799,
+    "geom:longitude":-91.655602,
+    "iso:country":"US",
+    "sg:address":"49 Kirkwood Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1500",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vJ1QAPjgAgS6WqBmVkSU5_41.920799_-91.655602@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115359,
+    "wof:geomhash":"bb055c7d26ca3a7cec7123d05c6eff32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070521
+        }
+    ],
+    "wof:id":857070521,
+    "wof:lastmodified":1464115359,
+    "wof:name":"Paul Revere's Pizza",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.655602,
+    41.920799,
+    -91.655602,
+    41.920799
+],
+  "geometry": {"coordinates":[-91.655602,41.920799],"type":"Point"}
+}

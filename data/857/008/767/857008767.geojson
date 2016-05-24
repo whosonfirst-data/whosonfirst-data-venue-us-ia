@@ -1,0 +1,73 @@
+{
+  "id": 857008767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560089,41.681483,-91.560089,41.681483",
+    "geom:latitude":41.681483,
+    "geom:longitude":-91.560089,
+    "iso:country":"US",
+    "sg:address":"209 E 9th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8144",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bgzu3lW8VSMp26PdH9LQy_41.681483_-91.560089@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112732,
+    "wof:geomhash":"4ddc4635af88eef63c0c653ef66fc736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":857008767
+        }
+    ],
+    "wof:id":857008767,
+    "wof:lastmodified":1464112732,
+    "wof:name":"Comfort Inn",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -91.560089,
+    41.681483,
+    -91.560089,
+    41.681483
+],
+  "geometry": {"coordinates":[-91.560089,41.681483],"type":"Point"}
+}

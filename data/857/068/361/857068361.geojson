@@ -1,0 +1,74 @@
+{
+  "id": 857068361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667702,42.026199,-91.667702,42.026199",
+    "geom:latitude":42.026199,
+    "geom:longitude":-91.667702,
+    "iso:country":"US",
+    "sg:address":"4813 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3226",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.bobmickeycollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RHZ6y80BTGUcCK5By4ONX_42.026199_-91.667702@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115254,
+    "wof:geomhash":"65eb42d23363ffac5d59c06b39b5b1e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068361
+        }
+    ],
+    "wof:id":857068361,
+    "wof:lastmodified":1464115254,
+    "wof:name":"Bob Mickey Collision Center",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.667702,
+    42.026199,
+    -91.667702,
+    42.026199
+],
+  "geometry": {"coordinates":[-91.66770200000001,42.026199],"type":"Point"}
+}

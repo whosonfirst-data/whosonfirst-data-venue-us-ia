@@ -1,0 +1,71 @@
+{
+  "id": 857062883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.863602,41.2533,-95.863602,41.2533",
+    "geom:latitude":41.2533,
+    "geom:longitude":-95.863602,
+    "iso:country":"US",
+    "sg:address":"1315 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1537",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C9qLSUM7sGgovMT5G9xDH_41.253300_-95.863602@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115018,
+    "wof:geomhash":"307ac05e4d47473fbaac116be590285b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062883
+        }
+    ],
+    "wof:id":857062883,
+    "wof:lastmodified":1464115018,
+    "wof:name":"Bluffs Electric Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -95.863602,
+    41.2533,
+    -95.863602,
+    41.2533
+],
+  "geometry": {"coordinates":[-95.863602,41.2533],"type":"Point"}
+}

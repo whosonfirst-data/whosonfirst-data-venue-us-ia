@@ -1,0 +1,73 @@
+{
+  "id": 857028561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.568928,41.629169,-91.568928,41.629169",
+    "geom:latitude":41.629169,
+    "geom:longitude":-91.568928,
+    "iso:country":"US",
+    "sg:address":"2949 Sierra Ct SW",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 8522",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xd5Q2ODBSted8PgiINX0M_41.629169_-91.568928@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113576,
+    "wof:geomhash":"89abb7636f906f31c1f5de301160a523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896457,
+            "region_id":85688713,
+            "venue_id":857028561
+        }
+    ],
+    "wof:id":857028561,
+    "wof:lastmodified":1464113576,
+    "wof:name":"University Of Iowa Community",
+    "wof:parent_id":85896457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.568928,
+    41.629169,
+    -91.568928,
+    41.629169
+],
+  "geometry": {"coordinates":[-91.568928,41.629169],"type":"Point"}
+}

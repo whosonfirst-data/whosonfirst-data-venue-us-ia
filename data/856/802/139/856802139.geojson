@@ -1,0 +1,73 @@
+{
+  "id": 856802139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.582505,42.071326,-91.582505,42.071326",
+    "geom:latitude":42.071326,
+    "geom:longitude":-91.582505,
+    "iso:country":"US",
+    "sg:address":"3075 Silver Oak Trl",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0070",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KnBI2DnHhKz9uoiOwWjx8_42.071326_-91.582505@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103277,
+    "wof:geomhash":"6aeaf610b349313f856941eb6dfac934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856802139
+        }
+    ],
+    "wof:id":856802139,
+    "wof:lastmodified":1464103277,
+    "wof:name":"Blok Construction",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.582505,
+    42.071326,
+    -91.582505,
+    42.071326
+],
+  "geometry": {"coordinates":[-91.582505,42.071326],"type":"Point"}
+}

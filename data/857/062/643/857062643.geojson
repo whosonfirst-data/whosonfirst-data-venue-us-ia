@@ -1,0 +1,71 @@
+{
+  "id": 857062643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881401,41.254398,-95.881401,41.254398",
+    "geom:latitude":41.254398,
+    "geom:longitude":-95.881401,
+    "iso:country":"US",
+    "sg:address":"Highway 92 E",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 6003",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I54DJbIggChtrU1iq6zeg_41.254398_-95.881401@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115010,
+    "wof:geomhash":"6d567ac88bc34e01abea43fcdd06adf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062643
+        }
+    ],
+    "wof:id":857062643,
+    "wof:lastmodified":1464115010,
+    "wof:name":"Kanesville Quilting",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -95.881401,
+    41.254398,
+    -95.881401,
+    41.254398
+],
+  "geometry": {"coordinates":[-95.881401,41.254398],"type":"Point"}
+}

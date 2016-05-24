@@ -1,0 +1,75 @@
+{
+  "id": 856807629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661076,41.966172,-91.661076,41.966172",
+    "geom:latitude":41.966172,
+    "geom:longitude":-91.661076,
+    "iso:country":"US",
+    "sg:address":"68 15th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 4796",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_047exEs260LbxeerJRAcH5_41.966172_-91.661076@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103517,
+    "wof:geomhash":"072013688c16c544076c73edf2f11d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856807629
+        }
+    ],
+    "wof:id":856807629,
+    "wof:lastmodified":1464103517,
+    "wof:name":"Fuel Injection Technologies",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.661076,
+    41.966172,
+    -91.661076,
+    41.966172
+],
+  "geometry": {"coordinates":[-91.66107599999999,41.966172],"type":"Point"}
+}

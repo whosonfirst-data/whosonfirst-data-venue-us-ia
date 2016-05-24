@@ -1,0 +1,74 @@
+{
+  "id": 856924613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.360364,42.407612,-96.360364,42.407612",
+    "geom:latitude":42.407612,
+    "geom:longitude":-96.360364,
+    "iso:country":"US",
+    "sg:address":"311 8th St",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 7675",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "sg:website":"www.trilandfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MxciFVGtasz833hc8VRId_42.407612_-96.360364@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109025,
+    "wof:geomhash":"aaa5aa94fb3bd6d5c91306b1e2b06347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856924613
+        }
+    ],
+    "wof:id":856924613,
+    "wof:lastmodified":1464109025,
+    "wof:name":"Triland Foods Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.360364,
+    42.407612,
+    -96.360364,
+    42.407612
+],
+  "geometry": {"coordinates":[-96.360364,42.407612],"type":"Point"}
+}

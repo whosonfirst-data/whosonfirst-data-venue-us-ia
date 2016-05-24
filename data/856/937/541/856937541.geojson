@@ -1,0 +1,75 @@
+{
+  "id": 856937541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.922963,41.284874,-95.922963,41.284874",
+    "geom:latitude":41.284874,
+    "geom:longitude":-95.922963,
+    "iso:country":"US",
+    "sg:address":"111 E Locust St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6800",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TuXB1HM9RYUrgiGOXS5F3_41.284874_-95.922963@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109539,
+    "wof:geomhash":"33253507560e46ec39fcf9bc375158b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856937541
+        }
+    ],
+    "wof:id":856937541,
+    "wof:lastmodified":1464109539,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -95.922963,
+    41.284874,
+    -95.922963,
+    41.284874
+],
+  "geometry": {"coordinates":[-95.922963,41.284874],"type":"Point"}
+}

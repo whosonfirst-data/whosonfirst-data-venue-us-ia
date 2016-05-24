@@ -1,0 +1,77 @@
+{
+  "id": 856801365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.748794,41.973477,-91.748794,41.973477",
+    "geom:latitude":41.973477,
+    "geom:longitude":-91.748794,
+    "iso:country":"US",
+    "sg:address":"6016 Sharon Ln NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 6081",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "prepackaged",
+        "processing",
+        "datum",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UO3BkFoxNznzasKCzsxtI_41.973477_-91.748794@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103248,
+    "wof:geomhash":"d900f14141cb88572e42cdb59315e5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856801365
+        }
+    ],
+    "wof:id":856801365,
+    "wof:lastmodified":1464103248,
+    "wof:name":"Bean Software Services",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "processing",
+        "datum",
+        "software"
+    ]
+},
+  "bbox": [
+    -91.748794,
+    41.973477,
+    -91.748794,
+    41.973477
+],
+  "geometry": {"coordinates":[-91.748794,41.973477],"type":"Point"}
+}

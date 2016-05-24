@@ -1,0 +1,73 @@
+{
+  "id": 856890437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.843146,41.263755,-95.843146,41.263755",
+    "geom:latitude":41.263755,
+    "geom:longitude":-95.843146,
+    "iso:country":"US",
+    "sg:address":"120 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5865",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYSHqxnU7wXhUUZqRh9GK_41.263755_-95.843146@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107707,
+    "wof:geomhash":"b3e56d93e09c45c195205f6f2c213d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856890437
+        }
+    ],
+    "wof:id":856890437,
+    "wof:lastmodified":1464107707,
+    "wof:name":"Dee Dee's Dance Studio",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -95.843146,
+    41.263755,
+    -95.843146,
+    41.263755
+],
+  "geometry": {"coordinates":[-95.843146,41.263755],"type":"Point"}
+}

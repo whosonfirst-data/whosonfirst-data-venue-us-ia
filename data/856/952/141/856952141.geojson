@@ -1,0 +1,71 @@
+{
+  "id": 856952141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558398,41.358358,-93.558398,41.358358",
+    "geom:latitude":41.358358,
+    "geom:longitude":-93.558398,
+    "iso:country":"US",
+    "sg:address":"209 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 0800",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q2xHTG7FVoeHfuCaPbMY4_41.358358_-93.558398@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110172,
+    "wof:geomhash":"5a937ddbd9d2c20799b330b70dee33e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856952141
+        }
+    ],
+    "wof:id":856952141,
+    "wof:lastmodified":1464110172,
+    "wof:name":"A Plus Automotive",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.558398,
+    41.358358,
+    -93.558398,
+    41.358358
+],
+  "geometry": {"coordinates":[-93.558398,41.358358],"type":"Point"}
+}

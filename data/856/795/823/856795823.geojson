@@ -1,0 +1,71 @@
+{
+  "id": 856795823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.639101,41.979107,-91.639101,41.979107",
+    "geom:latitude":41.979107,
+    "geom:longitude":-91.639101,
+    "iso:country":"US",
+    "sg:address":"2105 Glenway Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1764",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XpVcjq847GnVycLauWVcj_41.979107_-91.639101@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103006,
+    "wof:geomhash":"52c31955aed1abe72ad55df42e656fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856795823
+        }
+    ],
+    "wof:id":856795823,
+    "wof:lastmodified":1464103006,
+    "wof:name":"Nwp Design Studio",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -91.639101,
+    41.979107,
+    -91.639101,
+    41.979107
+],
+  "geometry": {"coordinates":[-91.639101,41.979107],"type":"Point"}
+}

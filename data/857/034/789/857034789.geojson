@@ -1,0 +1,71 @@
+{
+  "id": 857034789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.102385,41.847445,-94.102385,41.847445",
+    "geom:latitude":41.847445,
+    "geom:longitude":-94.102385,
+    "iso:country":"US",
+    "sg:address":"1812 4th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3066",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VnP5v6pkwDAvJaBneQPTn_41.847445_-94.102385@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113866,
+    "wof:geomhash":"7cc2d45803e712dc38e30c91b7dd36f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857034789
+        }
+    ],
+    "wof:id":857034789,
+    "wof:lastmodified":1464113866,
+    "wof:name":"Jim & Marilyn's Window Sales",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -94.102385,
+    41.847445,
+    -94.102385,
+    41.847445
+],
+  "geometry": {"coordinates":[-94.102385,41.847445],"type":"Point"}
+}

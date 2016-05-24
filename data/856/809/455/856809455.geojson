@@ -1,0 +1,71 @@
+{
+  "id": 856809455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.577029,41.965193,-91.577029,41.965193",
+    "geom:latitude":41.965193,
+    "geom:longitude":-91.577029,
+    "iso:country":"US",
+    "sg:address":"1590 Bertram Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 8137",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mpc22nqRdGyHaieNTk0zU_41.965193_-91.577029@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103609,
+    "wof:geomhash":"8a0d3b725db4412ce265d3f6e4b57485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856809455
+        }
+    ],
+    "wof:id":856809455,
+    "wof:lastmodified":1464103609,
+    "wof:name":"Dennis D Gardner DVM",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.577029,
+    41.965193,
+    -91.577029,
+    41.965193
+],
+  "geometry": {"coordinates":[-91.577029,41.965193],"type":"Point"}
+}

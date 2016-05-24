@@ -1,0 +1,71 @@
+{
+  "id": 856948695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.86708,41.267163,-95.86708,41.267163",
+    "geom:latitude":41.267163,
+    "geom:longitude":-95.86708,
+    "iso:country":"US",
+    "sg:address":"1530 Ave F",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3637",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cvu8lY0i1P2sLbCDcQqRa_41.267163_-95.867080@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110023,
+    "wof:geomhash":"c74758d0dc39ab7d9bd97929ba458273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856948695
+        }
+    ],
+    "wof:id":856948695,
+    "wof:lastmodified":1464110023,
+    "wof:name":"Eagle's Club",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.86708,
+    41.267163,
+    -95.86708,
+    41.267163
+],
+  "geometry": {"coordinates":[-95.86708,41.267163],"type":"Point"}
+}

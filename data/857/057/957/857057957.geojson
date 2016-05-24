@@ -1,0 +1,76 @@
+{
+  "id": 857057957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.737983,41.600847,-93.737983,41.600847",
+    "geom:latitude":41.600847,
+    "geom:longitude":-93.737983,
+    "iso:country":"US",
+    "sg:address":"8755 University Ave",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/154497-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 0410",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7baBgc3v6U4qRD1aPtOqcJ_41.600847_-93.737983@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114822,
+    "wof:geomhash":"e90d33502ddbd35f018627b3c9bcbfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":857057957
+        }
+    ],
+    "wof:id":857057957,
+    "wof:lastmodified":1464114822,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.737983,
+    41.600847,
+    -93.737983,
+    41.600847
+],
+  "geometry": {"coordinates":[-93.737983,41.600847],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856805003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860412,41.239369,-95.860412,41.239369",
+    "geom:latitude":41.239369,
+    "geom:longitude":-95.860412,
+    "iso:country":"US",
+    "sg:address":"2203 S 11th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7412",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "resume"
+    ],
+    "sg:website":"www.pianodoctor.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s8taMtTGMcCRkUzB1i6iX_41.239369_-95.860412@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103404,
+    "wof:geomhash":"acbf7dcdc6b6fdf4d7f0f13ce9a94e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856805003
+        }
+    ],
+    "wof:id":856805003,
+    "wof:lastmodified":1464103404,
+    "wof:name":"MPC Enterprises",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resume"
+    ]
+},
+  "bbox": [
+    -95.860412,
+    41.239369,
+    -95.860412,
+    41.239369
+],
+  "geometry": {"coordinates":[-95.860412,41.239369],"type":"Point"}
+}

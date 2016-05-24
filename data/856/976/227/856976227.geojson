@@ -1,0 +1,77 @@
+{
+  "id": 856976227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.404938,42.455129,-92.404938,42.455129",
+    "geom:latitude":42.455129,
+    "geom:longitude":-92.404938,
+    "iso:country":"US",
+    "sg:address":"2448 K Line Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 234 5495",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zQ0JyG3O4jlHhSoFTBuVZ_42.455129_-92.404938@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111276,
+    "wof:geomhash":"2ea2804cb35a38a01c5789d1f4414fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856976227
+        }
+    ],
+    "wof:id":856976227,
+    "wof:lastmodified":1464111276,
+    "wof:name":"Stow Away Self Storage",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -92.404938,
+    42.455129,
+    -92.404938,
+    42.455129
+],
+  "geometry": {"coordinates":[-92.404938,42.455129],"type":"Point"}
+}

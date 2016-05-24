@@ -1,0 +1,71 @@
+{
+  "id": 856984973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.552841,41.358269,-93.552841,41.358269",
+    "geom:latitude":41.358269,
+    "geom:longitude":-93.552841,
+    "iso:country":"US",
+    "sg:address":"710 E 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9700",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PSWgGUEm6IOLdw38gxbhx_41.358269_-93.552841@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111739,
+    "wof:geomhash":"1b67a88acbacc5419cd8d15116f85b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856984973
+        }
+    ],
+    "wof:id":856984973,
+    "wof:lastmodified":1464111739,
+    "wof:name":"Anything Automotive",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.552841,
+    41.358269,
+    -93.552841,
+    41.358269
+],
+  "geometry": {"coordinates":[-93.552841,41.358269],"type":"Point"}
+}

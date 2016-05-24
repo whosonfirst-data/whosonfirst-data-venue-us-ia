@@ -1,0 +1,73 @@
+{
+  "id": 856800983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668955,41.977225,-91.668955,41.977225",
+    "geom:latitude":41.977225,
+    "geom:longitude":-91.668955,
+    "iso:country":"US",
+    "sg:address":"1 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7933",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42YiO34iaQP7jvSrotSH4S_41.977225_-91.668955@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103234,
+    "wof:geomhash":"bada03cb7477ba963afe05a4713787d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856800983
+        }
+    ],
+    "wof:id":856800983,
+    "wof:lastmodified":1464103234,
+    "wof:name":"Specialty Contractors Corp",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.668955,
+    41.977225,
+    -91.668955,
+    41.977225
+],
+  "geometry": {"coordinates":[-91.668955,41.977225],"type":"Point"}
+}

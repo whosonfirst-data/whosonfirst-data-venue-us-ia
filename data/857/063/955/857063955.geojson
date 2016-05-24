@@ -1,0 +1,75 @@
+{
+  "id": 857063955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.856071,41.267764,-95.856071,41.267764",
+    "geom:latitude":41.267764,
+    "geom:longitude":-95.856071,
+    "iso:country":"US",
+    "sg:address":"807 Avenue G",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 6510",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1okaccDy0YLg5TXLSyDLW3_41.267764_-95.856071@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115061,
+    "wof:geomhash":"afac71c569045a813b585b1830ccaa50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063955
+        }
+    ],
+    "wof:id":857063955,
+    "wof:lastmodified":1464115061,
+    "wof:name":"Council Bluffs Community School District",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.856071,
+    41.267764,
+    -95.856071,
+    41.267764
+],
+  "geometry": {"coordinates":[-95.856071,41.267764],"type":"Point"}
+}

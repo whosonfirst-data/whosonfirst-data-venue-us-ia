@@ -1,0 +1,71 @@
+{
+  "id": 856845883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.828715,42.237424,-91.828715,42.237424",
+    "geom:latitude":42.237424,
+    "geom:longitude":-91.828715,
+    "iso:country":"US",
+    "sg:address":"4769 W Blue Rd",
+    "sg:city":"Walker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 443 2581",
+    "sg:postcode":"52352",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EH8IccvBGohSjB3zKLVeH_42.237424_-91.828715@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105277,
+    "wof:geomhash":"c4036a5c45639e387a0ecc8f0f63393e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856845883
+        }
+    ],
+    "wof:id":856845883,
+    "wof:lastmodified":1464105277,
+    "wof:name":"McMurrin Const",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.828715,
+    42.237424,
+    -91.828715,
+    42.237424
+],
+  "geometry": {"coordinates":[-91.828715,42.237424],"type":"Point"}
+}

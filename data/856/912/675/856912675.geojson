@@ -1,0 +1,71 @@
+{
+  "id": 856912675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.823619,41.5598,-93.823619,41.5598",
+    "geom:latitude":41.5598,
+    "geom:longitude":-93.823619,
+    "iso:country":"US",
+    "sg:address":"3433 335th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 1826",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086603,
+        85896529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43XxCG7RC881jjPM1AWJVl_41.559800_-93.823619@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108528,
+    "wof:geomhash":"02bc48f844a952b8c258cd47ab8371ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896529,
+            "region_id":85688713,
+            "venue_id":856912675
+        }
+    ],
+    "wof:id":856912675,
+    "wof:lastmodified":1464108528,
+    "wof:name":"A J's Best Stretch Limousine",
+    "wof:parent_id":85896529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -93.823619,
+    41.5598,
+    -93.823619,
+    41.5598
+],
+  "geometry": {"coordinates":[-93.82361899999999,41.5598],"type":"Point"}
+}

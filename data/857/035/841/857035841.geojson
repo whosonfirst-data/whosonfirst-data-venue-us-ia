@@ -1,0 +1,73 @@
+{
+  "id": 857035841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662697,41.993301,-91.662697,41.993301",
+    "geom:latitude":41.993301,
+    "geom:longitude":-91.662697,
+    "iso:country":"US",
+    "sg:address":"827 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8141",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00GpVX9gPlh6JucVIckz4i_41.992796_-91.662268@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464113928,
+    "wof:geomhash":"553bf814b2ab38b4cfb587bc981461a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857035841
+        }
+    ],
+    "wof:id":857035841,
+    "wof:lastmodified":1464113928,
+    "wof:name":"Eberles Automotive Service",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.662697,
+    41.993301,
+    -91.662697,
+    41.993301
+],
+  "geometry": {"coordinates":[-91.66269699999999,41.993301],"type":"Point"}
+}

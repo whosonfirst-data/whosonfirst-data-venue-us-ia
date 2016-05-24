@@ -1,0 +1,71 @@
+{
+  "id": 856936673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.357569,42.458189,-92.357569,42.458189",
+    "geom:latitude":42.458189,
+    "geom:longitude":-92.357569,
+    "iso:country":"US",
+    "sg:address":"1007 Peoples Sq",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 233 9999",
+    "sg:postcode":"50702",
+    "sg:province":"IA",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ISkTx1ejxJT0kIubAMIjp_42.458189_-92.357569@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109501,
+    "wof:geomhash":"38655776440ea1ec3d36134a02f19b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856936673
+        }
+    ],
+    "wof:id":856936673,
+    "wof:lastmodified":1464109501,
+    "wof:name":"Iowa Realty Commercial",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -92.357569,
+    42.458189,
+    -92.357569,
+    42.458189
+],
+  "geometry": {"coordinates":[-92.357569,42.458189],"type":"Point"}
+}

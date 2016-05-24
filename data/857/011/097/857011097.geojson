@@ -1,0 +1,71 @@
+{
+  "id": 857011097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.874705,41.60623,-93.874705,41.60623",
+    "geom:latitude":41.60623,
+    "geom:longitude":-93.874705,
+    "iso:country":"US",
+    "sg:address":"20 Bellaire Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 978 7676",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LonZ8zUaUVqJMUnSNTiT3_41.606230_-93.874705@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112821,
+    "wof:geomhash":"fe99661f3dcdae75af5210f333b3e8aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857011097
+        }
+    ],
+    "wof:id":857011097,
+    "wof:lastmodified":1464112821,
+    "wof:name":"Yoshimura Consulting Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -93.874705,
+    41.60623,
+    -93.874705,
+    41.60623
+],
+  "geometry": {"coordinates":[-93.87470500000001,41.60623],"type":"Point"}
+}

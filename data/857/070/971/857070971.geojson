@@ -1,0 +1,71 @@
+{
+  "id": 857070971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.749802,41.9384,-91.749802,41.9384",
+    "geom:latitude":41.9384,
+    "geom:longitude":-91.749802,
+    "iso:country":"US",
+    "sg:address":"6000 Beverly Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3959",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K6qkAlv3l3GWK7XeGcHmI_41.938400_-91.749802@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115374,
+    "wof:geomhash":"895d9e4801848b98b05a4e368b81f81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070971
+        }
+    ],
+    "wof:id":857070971,
+    "wof:lastmodified":1464115374,
+    "wof:name":"Hiserote David & Cathy",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.749802,
+    41.9384,
+    -91.749802,
+    41.9384
+],
+  "geometry": {"coordinates":[-91.749802,41.9384],"type":"Point"}
+}

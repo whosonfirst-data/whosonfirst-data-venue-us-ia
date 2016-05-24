@@ -1,0 +1,75 @@
+{
+  "id": 856941137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.532869,41.651181,-91.532869,41.651181",
+    "geom:latitude":41.651181,
+    "geom:longitude":-91.532869,
+    "iso:country":"US",
+    "sg:address":"218 E Benton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 6788",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wR0NL6qsaXRn1hcsO5Wep_41.651181_-91.532869@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109729,
+    "wof:geomhash":"f01ee2dd16c54f46e83b966ea966f5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856941137
+        }
+    ],
+    "wof:id":856941137,
+    "wof:lastmodified":1464109729,
+    "wof:name":"Metro Plumbing Heating & AC",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.532869,
+    41.651181,
+    -91.532869,
+    41.651181
+],
+  "geometry": {"coordinates":[-91.53286900000001,41.651181],"type":"Point"}
+}

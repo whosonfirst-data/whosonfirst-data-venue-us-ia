@@ -1,0 +1,74 @@
+{
+  "id": 857059311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.441699,42.05501,-91.441699,42.05501",
+    "geom:latitude":42.05501,
+    "geom:longitude":-91.441699,
+    "iso:country":"US",
+    "sg:address":"302 1st Ave",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/brown/226093-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 6908",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hXTWfKw2LXNO7G4WmCley_42.055010_-91.441699@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114873,
+    "wof:geomhash":"91575e3710dfa79983fd0495937f20fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059311
+        }
+    ],
+    "wof:id":857059311,
+    "wof:lastmodified":1464114873,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.441699,
+    42.05501,
+    -91.441699,
+    42.05501
+],
+  "geometry": {"coordinates":[-91.441699,42.05501],"type":"Point"}
+}

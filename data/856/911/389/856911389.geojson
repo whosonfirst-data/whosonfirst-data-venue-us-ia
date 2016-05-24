@@ -1,0 +1,67 @@
+{
+  "id": 856911389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725037,42.040578,-91.725037,42.040578",
+    "geom:latitude":42.040578,
+    "geom:longitude":-91.725037,
+    "iso:country":"US",
+    "sg:address":"4502 Blairs Ferry Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3900",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:website":"www.blairridge.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CXnhGpnugctBF4NypCu3D_42.040578_-91.725037@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108477,
+    "wof:geomhash":"7a25cec8be921949f200c80861394c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856911389
+        }
+    ],
+    "wof:id":856911389,
+    "wof:lastmodified":1464108477,
+    "wof:name":"Blair Ridge Baptist Church",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.725037,
+    42.040578,
+    -91.725037,
+    42.040578
+],
+  "geometry": {"coordinates":[-91.725037,42.040578],"type":"Point"}
+}

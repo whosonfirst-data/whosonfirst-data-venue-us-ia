@@ -1,0 +1,71 @@
+{
+  "id": 856956919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658236,42.053157,-91.658236,42.053157",
+    "geom:latitude":42.053157,
+    "geom:longitude":-91.658236,
+    "iso:country":"US",
+    "sg:address":"7607 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 241 7229",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7di7dljJSCDfHqHbpiLZ1f_42.053157_-91.658236@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110424,
+    "wof:geomhash":"18aa5614c8c95e3a892add3d7bf7952d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856956919
+        }
+    ],
+    "wof:id":856956919,
+    "wof:lastmodified":1464110424,
+    "wof:name":"Allied Construction",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.658236,
+    42.053157,
+    -91.658236,
+    42.053157
+],
+  "geometry": {"coordinates":[-91.658236,42.053157],"type":"Point"}
+}

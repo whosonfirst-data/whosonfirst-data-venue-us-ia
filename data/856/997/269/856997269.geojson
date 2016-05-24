@@ -1,0 +1,75 @@
+{
+  "id": 856997269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.750659,41.967075,-91.750659,41.967075",
+    "geom:latitude":41.967075,
+    "geom:longitude":-91.750659,
+    "iso:country":"US",
+    "sg:address":"6333 Underwood Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 521 1658",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sFF5wBsHbq3lUPEJJaA3N_41.967075_-91.750659@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112265,
+    "wof:geomhash":"fc624fd6cb5c48f87e834c2927415a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856997269
+        }
+    ],
+    "wof:id":856997269,
+    "wof:lastmodified":1464112265,
+    "wof:name":"Robert's Home Exteriors",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.750659,
+    41.967075,
+    -91.750659,
+    41.967075
+],
+  "geometry": {"coordinates":[-91.750659,41.967075],"type":"Point"}
+}

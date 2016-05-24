@@ -1,0 +1,71 @@
+{
+  "id": 856881911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.401801,41.298409,-95.401801,41.298409",
+    "geom:latitude":41.298409,
+    "geom:longitude":-95.401801,
+    "iso:country":"US",
+    "sg:address":"714 Schueman Ct",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6411",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oK9RS3KRxvsvvT0s5BHIr_41.298409_-95.401801@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107270,
+    "wof:geomhash":"b8704fb98f1ec44d44f8b8f746885bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856881911
+        }
+    ],
+    "wof:id":856881911,
+    "wof:lastmodified":1464107270,
+    "wof:name":"Lending Solutions",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -95.401801,
+    41.298409,
+    -95.401801,
+    41.298409
+],
+  "geometry": {"coordinates":[-95.40180100000001,41.298409],"type":"Point"}
+}

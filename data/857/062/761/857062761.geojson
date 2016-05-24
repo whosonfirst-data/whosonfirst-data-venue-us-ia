@@ -1,0 +1,83 @@
+{
+  "id": 857062761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8769,41.2631,-95.8769,41.2631",
+    "geom:latitude":41.2631,
+    "geom:longitude":-95.8769,
+    "iso:country":"US",
+    "sg:address":"108 N 22nd St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1899",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DHH4DJkXkC5UQ8tuzcnba_41.263100_-95.876900@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115013,
+    "wof:geomhash":"8ecd755c32032fcbea9ba7bd4864bf5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062761
+        }
+    ],
+    "wof:id":857062761,
+    "wof:lastmodified":1464115013,
+    "wof:name":"Mother Goose Child Care Center & Preschool",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -95.8769,
+    41.2631,
+    -95.8769,
+    41.2631
+],
+  "geometry": {"coordinates":[-95.87690000000001,41.2631],"type":"Point"}
+}

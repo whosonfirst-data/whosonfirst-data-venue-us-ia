@@ -1,0 +1,75 @@
+{
+  "id": 856943025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.613714,41.60776,-93.613714,41.60776",
+    "geom:latitude":41.60776,
+    "geom:longitude":-93.613714,
+    "iso:country":"US",
+    "sg:address":"3 College Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 0020",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3siRUVYU12YnA3ps83F04b_41.607760_-93.613714@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109806,
+    "wof:geomhash":"5a7c9fa0eb2310a3d2e123ce8dbf6a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856943025
+        }
+    ],
+    "wof:id":856943025,
+    "wof:lastmodified":1464109806,
+    "wof:name":"Osteologic Inc",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.613714,
+    41.60776,
+    -93.613714,
+    41.60776
+],
+  "geometry": {"coordinates":[-93.613714,41.60776],"type":"Point"}
+}

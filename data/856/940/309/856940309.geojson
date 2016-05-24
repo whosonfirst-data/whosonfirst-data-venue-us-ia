@@ -1,0 +1,73 @@
+{
+  "id": 856940309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.403624,41.908094,-91.403624,41.908094",
+    "geom:latitude":41.908094,
+    "geom:longitude":-91.403624,
+    "iso:country":"US",
+    "sg:address":"2 Hillcrest Heights Ln",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8227",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UfnSJcsIvxReGKYqDElgO_41.908094_-91.403624@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109683,
+    "wof:geomhash":"71114b9c0d37a46875b68d7257c89b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856940309
+        }
+    ],
+    "wof:id":856940309,
+    "wof:lastmodified":1464109683,
+    "wof:name":"Davies Heating & Air Cond",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.403624,
+    41.908094,
+    -91.403624,
+    41.908094
+],
+  "geometry": {"coordinates":[-91.40362399999999,41.908094],"type":"Point"}
+}

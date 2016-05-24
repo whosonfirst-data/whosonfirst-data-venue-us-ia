@@ -1,0 +1,73 @@
+{
+  "id": 856919401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.388988,42.502831,-96.388988,42.502831",
+    "geom:latitude":42.502831,
+    "geom:longitude":-96.388988,
+    "iso:country":"US",
+    "sg:address":"1509 Steuben St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 2667",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_619e1PyEjIHsyjsBr1gD7l_42.502831_-96.388988@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108789,
+    "wof:geomhash":"67a6f01ff8715341a53af19b494b8f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856919401
+        }
+    ],
+    "wof:id":856919401,
+    "wof:lastmodified":1464108789,
+    "wof:name":"Eagle Brook Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.388988,
+    42.502831,
+    -96.388988,
+    42.502831
+],
+  "geometry": {"coordinates":[-96.388988,42.502831],"type":"Point"}
+}

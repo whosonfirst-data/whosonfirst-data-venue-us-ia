@@ -1,0 +1,72 @@
+{
+  "id": 857069671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616967,41.976807,-91.616967,41.976807",
+    "geom:latitude":41.976807,
+    "geom:longitude":-91.616967,
+    "iso:country":"US",
+    "sg:address":"3501 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8637",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.truevalue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mPxD0THYIAnMNKQw2BS2v_41.976807_-91.616967@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115311,
+    "wof:geomhash":"52abe635720df15ea8ab656291b86f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069671
+        }
+    ],
+    "wof:id":857069671,
+    "wof:lastmodified":1464115311,
+    "wof:name":"True Value Vernon Village",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.616967,
+    41.976807,
+    -91.616967,
+    41.976807
+],
+  "geometry": {"coordinates":[-91.616967,41.976807],"type":"Point"}
+}

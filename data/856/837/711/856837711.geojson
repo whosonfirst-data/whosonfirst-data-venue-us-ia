@@ -1,0 +1,74 @@
+{
+  "id": 856837711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.490674,41.63239,-91.490674,41.63239",
+    "geom:latitude":41.63239,
+    "geom:longitude":-91.490674,
+    "iso:country":"US",
+    "sg:address":"2224 Heinz Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 341 8588",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.heartlandmedsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76CAdDBG6aI5yxULKKl9wS_41.632390_-91.490674@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104901,
+    "wof:geomhash":"25c4fdfb68735c1d395bdda7a7815fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856837711
+        }
+    ],
+    "wof:id":856837711,
+    "wof:lastmodified":1464104901,
+    "wof:name":"Heartland Medical Supply",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.490674,
+    41.63239,
+    -91.490674,
+    41.63239
+],
+  "geometry": {"coordinates":[-91.490674,41.63239],"type":"Point"}
+}

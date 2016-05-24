@@ -1,0 +1,73 @@
+{
+  "id": 856786663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.730107,41.963844,-91.730107,41.963844",
+    "geom:latitude":41.963844,
+    "geom:longitude":-91.730107,
+    "iso:country":"US",
+    "sg:address":"4358 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0303",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63R1uqjShPWVeTmgxPrOEI_41.963844_-91.730107@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102648,
+    "wof:geomhash":"ec486b567108abf3e0edd97a1efc5178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856786663
+        }
+    ],
+    "wof:id":856786663,
+    "wof:lastmodified":1464102648,
+    "wof:name":"Letstalk Wireless West",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -91.730107,
+    41.963844,
+    -91.730107,
+    41.963844
+],
+  "geometry": {"coordinates":[-91.730107,41.963844],"type":"Point"}
+}

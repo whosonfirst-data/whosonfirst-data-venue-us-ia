@@ -1,0 +1,73 @@
+{
+  "id": 856840537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.452553,42.408114,-92.452553,42.408114",
+    "geom:latitude":42.408114,
+    "geom:longitude":-92.452553,
+    "iso:country":"US",
+    "sg:address":"200 Waterloo Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 988 3322",
+    "sg:postcode":"50643",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kZRgMjbUJGqv6eSlG96Nw_42.408114_-92.452553@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105025,
+    "wof:geomhash":"700ca04920f306c443bee39a2baaee29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856840537
+        }
+    ],
+    "wof:id":856840537,
+    "wof:lastmodified":1464105025,
+    "wof:name":"Hudson Fire Dept",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.452553,
+    42.408114,
+    -92.452553,
+    42.408114
+],
+  "geometry": {"coordinates":[-92.45255299999999,42.408114],"type":"Point"}
+}

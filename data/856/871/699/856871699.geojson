@@ -1,0 +1,71 @@
+{
+  "id": 856871699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.413226,41.234509,-95.413226,41.234509",
+    "geom:latitude":41.234509,
+    "geom:longitude":-95.413226,
+    "iso:country":"US",
+    "sg:address":"401 S Oak St",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 3414",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tjvVHuKWClL6vGFXCxrOq_41.234509_-95.413226@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106723,
+    "wof:geomhash":"37dd17d4bb8fcb7d97de04daf58c599d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856871699
+        }
+    ],
+    "wof:id":856871699,
+    "wof:lastmodified":1464106723,
+    "wof:name":"Ninety-Two Sales",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -95.413226,
+    41.234509,
+    -95.413226,
+    41.234509
+],
+  "geometry": {"coordinates":[-95.41322599999999,41.234509],"type":"Point"}
+}

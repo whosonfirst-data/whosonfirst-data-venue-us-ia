@@ -1,0 +1,71 @@
+{
+  "id": 856959171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716461,41.957147,-91.716461,41.957147",
+    "geom:latitude":41.957147,
+    "geom:longitude":-91.716461,
+    "iso:country":"US",
+    "sg:address":"2100 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3991",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jgYCZBYBmL1qmALZWVM45_41.957147_-91.716461@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110510,
+    "wof:geomhash":"2d8d634e09c9b5c44c6fed18cbcc1a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856959171
+        }
+    ],
+    "wof:id":856959171,
+    "wof:lastmodified":1464110510,
+    "wof:name":"Econofoods",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.716461,
+    41.957147,
+    -91.716461,
+    41.957147
+],
+  "geometry": {"coordinates":[-91.716461,41.957147],"type":"Point"}
+}

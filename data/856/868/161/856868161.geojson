@@ -1,0 +1,75 @@
+{
+  "id": 856868161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558472,41.371386,-93.558472,41.371386",
+    "geom:latitude":41.371386,
+    "geom:longitude":-93.558472,
+    "iso:country":"US",
+    "sg:address":"1203 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2489",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wEp7qDcAXJDTAjbJEVIL2_41.371386_-93.558472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106401,
+    "wof:geomhash":"96c8aa9865b42da8d5e71c1b6b41ba62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856868161
+        }
+    ],
+    "wof:id":856868161,
+    "wof:lastmodified":1464106401,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -93.558472,
+    41.371386,
+    -93.558472,
+    41.371386
+],
+  "geometry": {"coordinates":[-93.55847199999999,41.371386],"type":"Point"}
+}

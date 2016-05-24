@@ -1,0 +1,73 @@
+{
+  "id": 857015331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.22898,42.228269,-96.22898,42.228269",
+    "geom:latitude":42.228269,
+    "geom:longitude":-96.22898,
+    "iso:country":"US",
+    "sg:address":"1866 State Hwy 141",
+    "sg:city":"Sloan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 428 7813",
+    "sg:postcode":"51055",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z6JHlEA0L3AyJNiGyEEsg_42.228269_-96.228980@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112997,
+    "wof:geomhash":"6a442d8bfcd2e76a8cba924c8be002a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857015331
+        }
+    ],
+    "wof:id":857015331,
+    "wof:lastmodified":1464112997,
+    "wof:name":"J & D Transportation",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.22898,
+    42.228269,
+    -96.22898,
+    42.228269
+],
+  "geometry": {"coordinates":[-96.22898000000001,42.228269],"type":"Point"}
+}

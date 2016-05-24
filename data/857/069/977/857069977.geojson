@@ -1,0 +1,76 @@
+{
+  "id": 857069977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7258,41.956001,-91.7258,41.956001",
+    "geom:latitude":41.956001,
+    "geom:longitude":-91.7258,
+    "iso:country":"US",
+    "sg:address":"2431 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 6400",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GIY9bb8OcNtRCOVKGsVEs_41.956001_-91.725800@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115330,
+    "wof:geomhash":"5a4b7b9c2ad546765db0713a96221455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857069977
+        }
+    ],
+    "wof:id":857069977,
+    "wof:lastmodified":1464115330,
+    "wof:name":"Staples Cedar Rapids",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -91.7258,
+    41.956001,
+    -91.7258,
+    41.956001
+],
+  "geometry": {"coordinates":[-91.72580000000001,41.956001],"type":"Point"}
+}

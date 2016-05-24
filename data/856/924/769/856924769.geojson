@@ -1,0 +1,72 @@
+{
+  "id": 856924769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.568003,41.381831,-93.568003,41.381831",
+    "geom:latitude":41.381831,
+    "geom:longitude":-93.568003,
+    "iso:country":"US",
+    "sg:address":"1610 Country Club Rd",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 3303",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "sg:website":"www.indianolacountryclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fRGLoxAtwMlCqVsoG8ANY_41.381831_-93.568003@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109030,
+    "wof:geomhash":"c1352590d1865b571ee0be18e5ee6192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856924769
+        }
+    ],
+    "wof:id":856924769,
+    "wof:lastmodified":1464109030,
+    "wof:name":"Indianola Country Club",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -93.568003,
+    41.381831,
+    -93.568003,
+    41.381831
+],
+  "geometry": {"coordinates":[-93.568003,41.381831],"type":"Point"}
+}

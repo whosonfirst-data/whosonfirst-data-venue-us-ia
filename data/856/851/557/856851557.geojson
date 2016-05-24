@@ -1,0 +1,68 @@
+{
+  "id": 856851557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.60053,41.623189,-93.60053,41.623189",
+    "geom:latitude":41.623189,
+    "geom:longitude":-93.60053,
+    "iso:country":"US",
+    "sg:address":"3001 E 14th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 2162",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VjxrmM2ArarTLz5DLCavv_41.623189_-93.600530@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105604,
+    "wof:geomhash":"21279ad53593d5759f13a347d6206f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856851557
+        }
+    ],
+    "wof:id":856851557,
+    "wof:lastmodified":1464105604,
+    "wof:name":"Thrasher's Hardware Inc",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.60053,
+    41.623189,
+    -93.60053,
+    41.623189
+],
+  "geometry": {"coordinates":[-93.60053000000001,41.623189],"type":"Point"}
+}

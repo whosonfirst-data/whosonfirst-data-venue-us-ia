@@ -1,0 +1,76 @@
+{
+  "id": 857059129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524441,41.642595,-91.524441,41.642595",
+    "geom:latitude":41.642595,
+    "geom:longitude":-91.524441,
+    "iso:country":"US",
+    "sg:address":"1921 Keokuk St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/67045-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8655",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25fufO1AZ27WszyGyigPuy_41.642595_-91.524441@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114867,
+    "wof:geomhash":"54164d4e340f33fb3d833b9df51db17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896461,
+            "region_id":85688713,
+            "venue_id":857059129
+        }
+    ],
+    "wof:id":857059129,
+    "wof:lastmodified":1464114867,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85896461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.524441,
+    41.642595,
+    -91.524441,
+    41.642595
+],
+  "geometry": {"coordinates":[-91.524441,41.642595],"type":"Point"}
+}

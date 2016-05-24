@@ -1,0 +1,77 @@
+{
+  "id": 856844539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.522221,41.639519,-93.522221,41.639519",
+    "geom:latitude":41.639519,
+    "geom:longitude":-93.522221,
+    "iso:country":"US",
+    "sg:address":"4400 NE 46th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 0309",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85809395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uVuxjz1j6X63lVwfqalz0_41.639519_-93.522221@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105210,
+    "wof:geomhash":"2f1c84879b5e6aa0d4ef125fe17b7b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85809395,
+            "region_id":85688713,
+            "venue_id":856844539
+        }
+    ],
+    "wof:id":856844539,
+    "wof:lastmodified":1464105210,
+    "wof:name":"Vista Boarding Kennels",
+    "wof:parent_id":85809395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -93.522221,
+    41.639519,
+    -93.522221,
+    41.639519
+],
+  "geometry": {"coordinates":[-93.522221,41.639519],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857063071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.872299,41.261799,-95.872299,41.261799",
+    "geom:latitude":41.261799,
+    "geom:longitude":-95.872299,
+    "iso:country":"US",
+    "sg:address":"10 S 19th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 8111",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QsxRZfVuAST253LMYZUif_41.261799_-95.872299@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115024,
+    "wof:geomhash":"35fa910da7bcc944121acec06946d06a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063071
+        }
+    ],
+    "wof:id":857063071,
+    "wof:lastmodified":1464115024,
+    "wof:name":"Houser John PC",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -95.872299,
+    41.261799,
+    -95.872299,
+    41.261799
+],
+  "geometry": {"coordinates":[-95.872299,41.261799],"type":"Point"}
+}

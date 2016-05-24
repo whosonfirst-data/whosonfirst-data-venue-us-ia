@@ -1,0 +1,71 @@
+{
+  "id": 856967475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679567,41.33989,-95.679567,41.33989",
+    "geom:latitude":41.33989,
+    "geom:longitude":-95.679567,
+    "iso:country":"US",
+    "sg:address":"22523 265th St",
+    "sg:city":"Mc Clelland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2164",
+    "sg:postcode":"51548",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UP7llfEkZer8FhNPS5WDC_41.339890_-95.679567@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110848,
+    "wof:geomhash":"0152e44880805615644857356241f49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856967475
+        }
+    ],
+    "wof:id":856967475,
+    "wof:lastmodified":1464110848,
+    "wof:name":"Gourd Gals",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.679567,
+    41.33989,
+    -95.679567,
+    41.33989
+],
+  "geometry": {"coordinates":[-95.67956700000001,41.33989],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 856955435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673748,41.977374,-91.673748,41.977374",
+    "geom:latitude":41.977374,
+    "geom:longitude":-91.673748,
+    "iso:country":"US",
+    "sg:address":"118 1st St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5036",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mfJ4S5k2AKOL452WCwu7G_41.977374_-91.673748@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110347,
+    "wof:geomhash":"ee90154758d2248fb25b776b8afeca47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856955435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856955435
+        }
+    ],
+    "wof:id":856955435,
+    "wof:lastmodified":1464110347,
+    "wof:name":"Mautz Paint Factory Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -91.673748,
+    41.977374,
+    -91.673748,
+    41.977374
+],
+  "geometry": {"coordinates":[-91.673748,41.977374],"type":"Point"}
+}

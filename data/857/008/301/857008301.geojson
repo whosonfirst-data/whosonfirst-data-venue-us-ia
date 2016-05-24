@@ -1,0 +1,73 @@
+{
+  "id": 857008301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.573609,41.675651,-91.573609,41.675651",
+    "geom:latitude":41.675651,
+    "geom:longitude":-91.573609,
+    "iso:country":"US",
+    "sg:address":"513 6th Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8050",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DlU8ezMxMtZdqFBZ3Hq73_41.675651_-91.573609@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112711,
+    "wof:geomhash":"2195339f25814417ffb4ee279361e772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":857008301
+        }
+    ],
+    "wof:id":857008301,
+    "wof:lastmodified":1464112711,
+    "wof:name":"Abacus Photography",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -91.573609,
+    41.675651,
+    -91.573609,
+    41.675651
+],
+  "geometry": {"coordinates":[-91.573609,41.675651],"type":"Point"}
+}

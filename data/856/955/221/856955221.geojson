@@ -1,0 +1,73 @@
+{
+  "id": 856955221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534743,41.655702,-91.534743,41.655702",
+    "geom:latitude":41.655702,
+    "geom:longitude":-91.534743,
+    "iso:country":"US",
+    "sg:address":"417 S Clinton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 356 6064",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AogvgnDHsrS6TvNPVHFw6_41.655702_-91.534743@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110330,
+    "wof:geomhash":"d8d6d26f07bcedd0e39ae84c3334e46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856955221
+        }
+    ],
+    "wof:id":856955221,
+    "wof:lastmodified":1464110330,
+    "wof:name":"Johnson County Probate Court",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -91.534743,
+    41.655702,
+    -91.534743,
+    41.655702
+],
+  "geometry": {"coordinates":[-91.53474300000001,41.655702],"type":"Point"}
+}

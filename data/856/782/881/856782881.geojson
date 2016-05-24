@@ -1,0 +1,71 @@
+{
+  "id": 856782881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.019729,42.234656,-96.019729,42.234656",
+    "geom:latitude":42.234656,
+    "geom:longitude":-96.019729,
+    "iso:country":"US",
+    "sg:address":"3236 Ida Ave",
+    "sg:city":"Smithland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 874 3581",
+    "sg:postcode":"51056",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DB9HPNa0PVFL3wxr9wNUZ_42.234656_-96.019729@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102496,
+    "wof:geomhash":"a294d9489067aea5610d5f5a13564c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856782881
+        }
+    ],
+    "wof:id":856782881,
+    "wof:lastmodified":1464102496,
+    "wof:name":"C K Gutter",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.019729,
+    42.234656,
+    -96.019729,
+    42.234656
+],
+  "geometry": {"coordinates":[-96.019729,42.234656],"type":"Point"}
+}

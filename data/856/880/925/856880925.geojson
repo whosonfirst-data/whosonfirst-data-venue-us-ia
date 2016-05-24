@@ -1,0 +1,73 @@
+{
+  "id": 856880925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.496108,42.223918,-91.496108,42.223918",
+    "geom:latitude":42.223918,
+    "geom:longitude":-91.496108,
+    "iso:country":"US",
+    "sg:address":"1221 Rollins Rd",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6546",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TwnDhztO5R8AV3ByqFE1z_42.223918_-91.496108@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107196,
+    "wof:geomhash":"34ecbf7297bfb29a253fecb6a7bc5aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856880925
+        }
+    ],
+    "wof:id":856880925,
+    "wof:lastmodified":1464107196,
+    "wof:name":"Comley Farm",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.496108,
+    42.223918,
+    -91.496108,
+    42.223918
+],
+  "geometry": {"coordinates":[-91.49610800000001,42.223918],"type":"Point"}
+}

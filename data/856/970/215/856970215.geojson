@@ -1,0 +1,68 @@
+{
+  "id": 856970215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.402181,42.505929,-96.402181,42.505929",
+    "geom:latitude":42.505929,
+    "geom:longitude":-96.402181,
+    "iso:country":"US",
+    "sg:address":"1411 Jackson St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1736",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J8zRfFNmOuao43MeIy3CD_42.505929_-96.402181@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110985,
+    "wof:geomhash":"61f4413987a56fa4969d91d4871826b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856970215
+        }
+    ],
+    "wof:id":856970215,
+    "wof:lastmodified":1464110985,
+    "wof:name":"E Eagles Clothing",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.402181,
+    42.505929,
+    -96.402181,
+    42.505929
+],
+  "geometry": {"coordinates":[-96.402181,42.505929],"type":"Point"}
+}

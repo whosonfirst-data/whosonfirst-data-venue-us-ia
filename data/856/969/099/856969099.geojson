@@ -1,0 +1,71 @@
+{
+  "id": 856969099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.068,42.518115,-96.068,42.518115",
+    "geom:latitude":42.518115,
+    "geom:longitude":-96.068,
+    "iso:country":"US",
+    "sg:address":"2694 130th St",
+    "sg:city":"Moville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 873 5770",
+    "sg:postcode":"51039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ciov8IoP6HaNlzJ4n5Fz3_42.518115_-96.068000@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110926,
+    "wof:geomhash":"6193c0e0d4071f46e845c38f0b1fc192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856969099
+        }
+    ],
+    "wof:id":856969099,
+    "wof:lastmodified":1464110926,
+    "wof:name":"Goss Automotive",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.068,
+    42.518115,
+    -96.068,
+    42.518115
+],
+  "geometry": {"coordinates":[-96.068,42.518115],"type":"Point"}
+}

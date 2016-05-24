@@ -1,0 +1,66 @@
+{
+  "id": 856822103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072587,42.488728,-96.072587,42.488728",
+    "geom:latitude":42.488728,
+    "geom:longitude":-96.072587,
+    "iso:country":"US",
+    "sg:address":"216 Main St",
+    "sg:city":"Moville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 873 3401",
+    "sg:postcode":"51039",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P9TEUP5TkQuqO2rKNOB2B_42.488728_-96.072587@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104191,
+    "wof:geomhash":"1e742006d7432837811c79986c91d533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856822103
+        }
+    ],
+    "wof:id":856822103,
+    "wof:lastmodified":1464104191,
+    "wof:name":"Moville Pharmacy",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.072587,
+    42.488728,
+    -96.072587,
+    42.488728
+],
+  "geometry": {"coordinates":[-96.072587,42.488728],"type":"Point"}
+}

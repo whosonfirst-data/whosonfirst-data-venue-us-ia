@@ -1,0 +1,69 @@
+{
+  "id": 856943499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.608133,41.593587,-93.608133,41.593587",
+    "geom:latitude":41.593587,
+    "geom:longitude":-93.608133,
+    "iso:country":"US",
+    "sg:address":"700 Lyon St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 0994",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:website":"www.comchoicecu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aqT7URyact0JClnBFpmz3_41.593587_-93.608133@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109827,
+    "wof:geomhash":"f5bfef6d5867adc56993f5ec2176a177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896391,
+            "region_id":85688713,
+            "venue_id":856943499
+        }
+    ],
+    "wof:id":856943499,
+    "wof:lastmodified":1464109827,
+    "wof:name":"Community Choice Credit Union",
+    "wof:parent_id":85896391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.608133,
+    41.593587,
+    -93.608133,
+    41.593587
+],
+  "geometry": {"coordinates":[-93.608133,41.593587],"type":"Point"}
+}

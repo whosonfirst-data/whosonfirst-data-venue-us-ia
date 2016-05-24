@@ -1,0 +1,71 @@
+{
+  "id": 857022163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599393,42.032827,-91.599393,42.032827",
+    "geom:latitude":42.032827,
+    "geom:longitude":-91.599393,
+    "iso:country":"US",
+    "sg:address":"660 10th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0342",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FPnfzdkDZeLalYezJgxPs_42.032827_-91.599393@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113283,
+    "wof:geomhash":"d299fd5d2ee341b0d8eae940f132b4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857022163
+        }
+    ],
+    "wof:id":857022163,
+    "wof:lastmodified":1464113283,
+    "wof:name":"Weber Paint & Glass Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -91.599393,
+    42.032827,
+    -91.599393,
+    42.032827
+],
+  "geometry": {"coordinates":[-91.59939300000001,42.032827],"type":"Point"}
+}

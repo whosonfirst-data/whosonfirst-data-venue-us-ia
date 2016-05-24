@@ -1,0 +1,73 @@
+{
+  "id": 856792959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.555812,42.030963,-91.555812,42.030963",
+    "geom:latitude":42.030963,
+    "geom:longitude":-91.555812,
+    "iso:country":"US",
+    "sg:address":"775 51st St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 5971",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BccSkAc5DkvkFhnvn9eWn_42.030963_-91.555812@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102895,
+    "wof:geomhash":"a162d398d5e7b5761b01fd3d53f3a33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856792959
+        }
+    ],
+    "wof:id":856792959,
+    "wof:lastmodified":1464102895,
+    "wof:name":"Bentley Manufacturing & Mach",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.555812,
+    42.030963,
+    -91.555812,
+    42.030963
+],
+  "geometry": {"coordinates":[-91.555812,42.030963],"type":"Point"}
+}

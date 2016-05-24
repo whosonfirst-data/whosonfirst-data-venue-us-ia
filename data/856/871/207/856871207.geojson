@@ -1,0 +1,73 @@
+{
+  "id": 856871207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.584959,41.915991,-91.584959,41.915991",
+    "geom:latitude":41.915991,
+    "geom:longitude":-91.584959,
+    "iso:country":"US",
+    "sg:address":"2261 Ivanhoe Rd",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 7500",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12XeLnEIqP6JcKdwb0msLl_41.915991_-91.584959@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106676,
+    "wof:geomhash":"5b7d3880259ac8e270c0b96305edbdf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856871207
+        }
+    ],
+    "wof:id":856871207,
+    "wof:lastmodified":1464106676,
+    "wof:name":"Vlasek Plumbing & Heating Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.584959,
+    41.915991,
+    -91.584959,
+    41.915991
+],
+  "geometry": {"coordinates":[-91.584959,41.915991],"type":"Point"}
+}

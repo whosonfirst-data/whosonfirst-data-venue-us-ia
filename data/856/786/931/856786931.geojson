@@ -1,0 +1,67 @@
+{
+  "id": 856786931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633046,42.006185,-91.633046,42.006185",
+    "geom:latitude":42.006185,
+    "geom:longitude":-91.633046,
+    "iso:country":"US",
+    "sg:address":"126 29th Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8561",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:website":"www.in-tolerance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44O2KJnicHw9QdUKa2O7FX_42.006185_-91.633046@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102657,
+    "wof:geomhash":"e5a1da42b7480bf4b921120c04a0f2ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856786931
+        }
+    ],
+    "wof:id":856786931,
+    "wof:lastmodified":1464102657,
+    "wof:name":"In Tolerance",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.633046,
+    42.006185,
+    -91.633046,
+    42.006185
+],
+  "geometry": {"coordinates":[-91.63304599999999,42.006185],"type":"Point"}
+}

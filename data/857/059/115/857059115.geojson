@@ -1,0 +1,74 @@
+{
+  "id": 857059115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530277,41.654636,-91.530277,41.654636",
+    "geom:latitude":41.654636,
+    "geom:longitude":-91.530277,
+    "iso:country":"US",
+    "sg:address":"529 S Gilbert St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/4237-vine-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 8767",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UH4ZDiUZ2QIklvDOgIA3Q_41.654636_-91.530277@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114866,
+    "wof:geomhash":"329de34cb2dd049de09c694d4ba3eae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857059115
+        }
+    ],
+    "wof:id":857059115,
+    "wof:lastmodified":1464114866,
+    "wof:name":"Vine Tavern",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -91.530277,
+    41.654636,
+    -91.530277,
+    41.654636
+],
+  "geometry": {"coordinates":[-91.530277,41.654636],"type":"Point"}
+}

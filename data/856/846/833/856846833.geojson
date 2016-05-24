@@ -1,0 +1,66 @@
+{
+  "id": 856846833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.386708,41.921225,-91.386708,41.921225",
+    "geom:latitude":41.921225,
+    "geom:longitude":-91.386708,
+    "iso:country":"US",
+    "sg:address":"119 W Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2873",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OpGz5w022gVV2uXTflJqR_41.921225_-91.386708@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105331,
+    "wof:geomhash":"602e46c970c8140aea10625eac1fa862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856846833
+        }
+    ],
+    "wof:id":856846833,
+    "wof:lastmodified":1464105331,
+    "wof:name":"Gwen's Restaurant",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.386708,
+    41.921225,
+    -91.386708,
+    41.921225
+],
+  "geometry": {"coordinates":[-91.386708,41.921225],"type":"Point"}
+}

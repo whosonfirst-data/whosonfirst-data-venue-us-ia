@@ -1,0 +1,83 @@
+{
+  "id": 857063129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.900123,41.261952,-95.900123,41.261952",
+    "geom:latitude":41.261952,
+    "geom:longitude":-95.900123,
+    "iso:country":"US",
+    "sg:address":"3424 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 9888",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "brunch",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uxjkamkz0ETp9ykKfVuXO_41.261952_-95.900123@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115026,
+    "wof:geomhash":"a2cd4a77309dbda8448b22bf613bd789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063129
+        }
+    ],
+    "wof:id":857063129,
+    "wof:lastmodified":1464115026,
+    "wof:name":"Cafeino's Bakery Caf?",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -95.900123,
+    41.261952,
+    -95.900123,
+    41.261952
+],
+  "geometry": {"coordinates":[-95.90012299999999,41.261952],"type":"Point"}
+}

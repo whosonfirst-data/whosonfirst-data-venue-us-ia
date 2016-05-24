@@ -1,0 +1,73 @@
+{
+  "id": 856932589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.85164,41.24883,-95.85164,41.24883",
+    "geom:latitude":41.24883,
+    "geom:longitude":-95.85164,
+    "iso:country":"US",
+    "sg:address":"1325 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7436",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OFpEth8fxzLNGzqLegSaZ_41.248830_-95.851640@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109345,
+    "wof:geomhash":"3f9a2b8454782a64d47cefe2f07d2de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856932589
+        }
+    ],
+    "wof:id":856932589,
+    "wof:lastmodified":1464109345,
+    "wof:name":"T P's Automotive Svc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.85164,
+    41.24883,
+    -95.85164,
+    41.24883
+],
+  "geometry": {"coordinates":[-95.85164,41.24883],"type":"Point"}
+}

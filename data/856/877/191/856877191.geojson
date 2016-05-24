@@ -1,0 +1,68 @@
+{
+  "id": 856877191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.478185,42.519199,-96.478185,42.519199",
+    "geom:latitude":42.519199,
+    "geom:longitude":-96.478185,
+    "iso:country":"US",
+    "sg:address":"2367 Boies St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 2299",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mIRlMLMJdDeMIQphTeZwH_42.519199_-96.478185@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107038,
+    "wof:geomhash":"dc945d21a029f5f25c03da8af5135a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856877191
+        }
+    ],
+    "wof:id":856877191,
+    "wof:lastmodified":1464107038,
+    "wof:name":"Caldwell Co",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.478185,
+    42.519199,
+    -96.478185,
+    42.519199
+],
+  "geometry": {"coordinates":[-96.478185,42.519199],"type":"Point"}
+}

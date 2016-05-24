@@ -1,0 +1,73 @@
+{
+  "id": 856824935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619778,41.644101,-93.619778,41.644101",
+    "geom:latitude":41.644101,
+    "geom:longitude":-93.619778,
+    "iso:country":"US",
+    "sg:address":"25 NW Broadway Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 3537",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36TI3X80JCiuEZuo78g3L6_41.644101_-93.619778@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104300,
+    "wof:geomhash":"a3807e8958eea9c928fc4d8045ac6d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856824935
+        }
+    ],
+    "wof:id":856824935,
+    "wof:lastmodified":1464104300,
+    "wof:name":"Hill's Body Shop",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.619778,
+    41.644101,
+    -93.619778,
+    41.644101
+],
+  "geometry": {"coordinates":[-93.619778,41.644101],"type":"Point"}
+}

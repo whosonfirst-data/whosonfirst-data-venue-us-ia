@@ -1,0 +1,75 @@
+{
+  "id": 856794773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.955903,41.683241,-93.955903,41.683241",
+    "geom:latitude":41.683241,
+    "geom:longitude":-93.955903,
+    "iso:country":"US",
+    "sg:address":"902 Sycamore St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3513",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pGGObKYq2shMjH7xbDhrD_41.683241_-93.955903@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102967,
+    "wof:geomhash":"9858edd7954a94a56662c66de4f8b26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856794773
+        }
+    ],
+    "wof:id":856794773,
+    "wof:lastmodified":1464102967,
+    "wof:name":"DMC Mfg",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -93.955903,
+    41.683241,
+    -93.955903,
+    41.683241
+],
+  "geometry": {"coordinates":[-93.95590300000001,41.683241],"type":"Point"}
+}

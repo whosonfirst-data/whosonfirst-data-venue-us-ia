@@ -1,0 +1,71 @@
+{
+  "id": 857062533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.840152,41.222612,-95.840152,41.222612",
+    "geom:latitude":41.222612,
+    "geom:longitude":-95.840152,
+    "iso:country":"US",
+    "sg:address":"3804 Metro Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 309 3380",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AzdPi2OQQJmUCBVrLtkfH_41.222612_-95.840152@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115006,
+    "wof:geomhash":"3fe25559982a11699115af4eeb03b398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062533
+        }
+    ],
+    "wof:id":857062533,
+    "wof:lastmodified":1464115006,
+    "wof:name":"Target Stores",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -95.840152,
+    41.222612,
+    -95.840152,
+    41.222612
+],
+  "geometry": {"coordinates":[-95.840152,41.222612],"type":"Point"}
+}

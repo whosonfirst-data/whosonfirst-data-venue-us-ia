@@ -1,0 +1,71 @@
+{
+  "id": 856962645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397289,41.311068,-95.397289,41.311068",
+    "geom:latitude":41.311068,
+    "geom:longitude":-95.397289,
+    "iso:country":"US",
+    "sg:address":"200 Maple St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3181",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rff6iOydFjLyKR3PksVPE_41.311068_-95.397289@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110654,
+    "wof:geomhash":"6ba68176dff71dceb2458aa9ea770462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856962645
+        }
+    ],
+    "wof:id":856962645,
+    "wof:lastmodified":1464110654,
+    "wof:name":"Oakland Pump House",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -95.397289,
+    41.311068,
+    -95.397289,
+    41.311068
+],
+  "geometry": {"coordinates":[-95.397289,41.311068],"type":"Point"}
+}

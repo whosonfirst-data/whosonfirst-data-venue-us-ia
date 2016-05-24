@@ -1,0 +1,71 @@
+{
+  "id": 856922199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.219283,41.481464,-95.219283,41.481464",
+    "geom:latitude":41.481464,
+    "geom:longitude":-95.219283,
+    "iso:country":"US",
+    "sg:address":"610 Country St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3653",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "quilting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jBNtwPvHLaw4kYsfl7oCb_41.481464_-95.219283@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108921,
+    "wof:geomhash":"c137ea4ed677485cd227f26501b8706f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856922199
+        }
+    ],
+    "wof:id":856922199,
+    "wof:lastmodified":1464108921,
+    "wof:name":"Olde Time Quilting Shop",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilting"
+    ]
+},
+  "bbox": [
+    -95.219283,
+    41.481464,
+    -95.219283,
+    41.481464
+],
+  "geometry": {"coordinates":[-95.219283,41.481464],"type":"Point"}
+}

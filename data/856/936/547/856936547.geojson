@@ -1,0 +1,71 @@
+{
+  "id": 856936547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679078,42.467486,-95.679078,42.467486",
+    "geom:latitude":42.467486,
+    "geom:longitude":-95.679078,
+    "iso:country":"US",
+    "sg:address":"32 State St",
+    "sg:city":"Neptune",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 732 774 8388",
+    "sg:postcode":"51018",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72fj1Z3C5clgNIygKd7IHC_42.467486_-95.679078@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109497,
+    "wof:geomhash":"dd36e3ea514e4ef06a161b2190bc7e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856936547
+        }
+    ],
+    "wof:id":856936547,
+    "wof:lastmodified":1464109497,
+    "wof:name":"Alternate Cleaning",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.679078,
+    42.467486,
+    -95.679078,
+    42.467486
+],
+  "geometry": {"coordinates":[-95.679078,42.467486],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856787699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683013,41.978003,-91.683013,41.978003",
+    "geom:latitude":41.978003,
+    "geom:longitude":-91.683013,
+    "iso:country":"US",
+    "sg:address":"700 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3375",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PUqZMRX6d83SkouHJDc8S_41.978003_-91.683013@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102689,
+    "wof:geomhash":"fe57e9ed7654cb43669181e744231e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856787699
+        }
+    ],
+    "wof:id":856787699,
+    "wof:lastmodified":1464102689,
+    "wof:name":"Rod II",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.683013,
+    41.978003,
+    -91.683013,
+    41.978003
+],
+  "geometry": {"coordinates":[-91.683013,41.978003],"type":"Point"}
+}

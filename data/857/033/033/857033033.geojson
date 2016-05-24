@@ -1,0 +1,73 @@
+{
+  "id": 857033033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.85063,41.253361,-95.85063,41.253361",
+    "geom:latitude":41.253361,
+    "geom:longitude":-95.85063,
+    "iso:country":"US",
+    "sg:address":"701 S 4th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2484",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "methodist",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aUFcc1LJR9iSu6llRKC4t_41.253361_-95.850630@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113782,
+    "wof:geomhash":"61683d14a3bee06f85133f8953e520e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857033033
+        }
+    ],
+    "wof:id":857033033,
+    "wof:lastmodified":1464113782,
+    "wof:name":"Trinity United Methdst Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "methodist",
+        "church"
+    ]
+},
+  "bbox": [
+    -95.85063,
+    41.253361,
+    -95.85063,
+    41.253361
+],
+  "geometry": {"coordinates":[-95.85063,41.253361],"type":"Point"}
+}

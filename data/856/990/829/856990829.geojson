@@ -1,0 +1,73 @@
+{
+  "id": 856990829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.888928,41.615059,-93.888928,41.615059",
+    "geom:latitude":41.615059,
+    "geom:longitude":-93.888928,
+    "iso:country":"US",
+    "sg:address":"755 US Hwy 6",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 8575",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rkULApMsMc55MoiIEFpwc_41.615059_-93.888928@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112011,
+    "wof:geomhash":"1226ca44079f348f1b5106c0f48ae2aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856990829
+        }
+    ],
+    "wof:id":856990829,
+    "wof:lastmodified":1464112011,
+    "wof:name":"Deaton Truck & Auto",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.888928,
+    41.615059,
+    -93.888928,
+    41.615059
+],
+  "geometry": {"coordinates":[-93.88892800000001,41.615059],"type":"Point"}
+}

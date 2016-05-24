@@ -1,0 +1,73 @@
+{
+  "id": 856929059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.686812,41.883657,-93.686812,41.883657",
+    "geom:latitude":41.883657,
+    "geom:longitude":-93.686812,
+    "iso:country":"US",
+    "sg:address":"105 Greene St",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 685 2531",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GUWSB0QID57UNNvbXsYNr_41.883657_-93.686812@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109204,
+    "wof:geomhash":"7a7a3cc91e5c73bd5828f82a7fe090d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":856929059
+        }
+    ],
+    "wof:id":856929059,
+    "wof:lastmodified":1464109204,
+    "wof:name":"Slater Water Billing",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -93.686812,
+    41.883657,
+    -93.686812,
+    41.883657
+],
+  "geometry": {"coordinates":[-93.686812,41.883657],"type":"Point"}
+}

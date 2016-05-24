@@ -1,0 +1,71 @@
+{
+  "id": 856888825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.573952,41.357877,-93.573952,41.357877",
+    "geom:latitude":41.357877,
+    "geom:longitude":-93.573952,
+    "iso:country":"US",
+    "sg:address":"1003 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 1966",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73gea06v6PSFzMRFm8BfUO_41.357877_-93.573952@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107635,
+    "wof:geomhash":"57c6d72bfcf5de349a706e8f99c42e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856888825
+        }
+    ],
+    "wof:id":856888825,
+    "wof:lastmodified":1464107635,
+    "wof:name":"Ron's Automotive",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.573952,
+    41.357877,
+    -93.573952,
+    41.357877
+],
+  "geometry": {"coordinates":[-93.57395200000001,41.357877],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856953713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.647952,41.977339,-91.647952,41.977339",
+    "geom:latitude":41.977339,
+    "geom:longitude":-91.647952,
+    "iso:country":"US",
+    "sg:address":"1705 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8452",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E885gMiBqY6O581dBGWSQ_41.977339_-91.647952@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110263,
+    "wof:geomhash":"07a3d5e6809b02a1e6db225869d20b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856953713
+        }
+    ],
+    "wof:id":856953713,
+    "wof:lastmodified":1464110263,
+    "wof:name":"Oak Hill Cemetery",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -91.647952,
+    41.977339,
+    -91.647952,
+    41.977339
+],
+  "geometry": {"coordinates":[-91.647952,41.977339],"type":"Point"}
+}

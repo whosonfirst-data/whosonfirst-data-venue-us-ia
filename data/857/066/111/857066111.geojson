@@ -1,0 +1,73 @@
+{
+  "id": 857066111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6698,41.983799,-91.6698,41.983799",
+    "geom:latitude":41.983799,
+    "geom:longitude":-91.6698,
+    "iso:country":"US",
+    "sg:address":"500 Stickle Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5854",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LY0s7wISdn0m3NoK2QMG1_41.983799_-91.669800@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115139,
+    "wof:geomhash":"493135c061a7f36e2d913ca6c82f1c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857066111
+        }
+    ],
+    "wof:id":857066111,
+    "wof:lastmodified":1464115139,
+    "wof:name":"Stickle Enterprises Ltd",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self"
+    ]
+},
+  "bbox": [
+    -91.6698,
+    41.983799,
+    -91.6698,
+    41.983799
+],
+  "geometry": {"coordinates":[-91.6698,41.983799],"type":"Point"}
+}

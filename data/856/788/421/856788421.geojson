@@ -1,0 +1,73 @@
+{
+  "id": 856788421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656451,41.980475,-91.656451,41.980475",
+    "geom:latitude":41.980475,
+    "geom:longitude":-91.656451,
+    "iso:country":"US",
+    "sg:address":"411 10th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8265",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ZtagzLSiCJClkbRO1MPV_41.980475_-91.656451@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102723,
+    "wof:geomhash":"c17bf3e09d81487e05d2e3d3385ac801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856788421
+        }
+    ],
+    "wof:id":856788421,
+    "wof:lastmodified":1464102723,
+    "wof:name":"Weland Clinical Laboratories",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.656451,
+    41.980475,
+    -91.656451,
+    41.980475
+],
+  "geometry": {"coordinates":[-91.656451,41.980475],"type":"Point"}
+}

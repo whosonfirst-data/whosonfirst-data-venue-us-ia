@@ -1,0 +1,73 @@
+{
+  "id": 856791137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762897,41.239842,-95.762897,41.239842",
+    "geom:latitude":41.239842,
+    "geom:longitude":-95.762897,
+    "iso:country":"US",
+    "sg:address":"22109 Greenview Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 8409",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1On3GmNvp7DtOFVUuqbV3z_41.239842_-95.762897@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102823,
+    "wof:geomhash":"d981438966d48ce4873d8aecbc0dab01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856791137
+        }
+    ],
+    "wof:id":856791137,
+    "wof:lastmodified":1464102823,
+    "wof:name":"Dinville Farms",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.762897,
+    41.239842,
+    -95.762897,
+    41.239842
+],
+  "geometry": {"coordinates":[-95.762897,41.239842],"type":"Point"}
+}

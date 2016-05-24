@@ -1,0 +1,69 @@
+{
+  "id": 857070187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668198,41.945202,-91.668198,41.945202",
+    "geom:latitude":41.945202,
+    "geom:longitude":-91.668198,
+    "iso:country":"US",
+    "sg:address":"362 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3966",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Ov4RFQLXHw6J1YWQ6PrS_41.945202_-91.668198@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115343,
+    "wof:geomhash":"05e43e3a11fc72a865be3525ff0a0e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070187
+        }
+    ],
+    "wof:id":857070187,
+    "wof:lastmodified":1464115343,
+    "wof:name":"Wendy's Old Fashioned Hamburgers",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.668198,
+    41.945202,
+    -91.668198,
+    41.945202
+],
+  "geometry": {"coordinates":[-91.668198,41.945202],"type":"Point"}
+}

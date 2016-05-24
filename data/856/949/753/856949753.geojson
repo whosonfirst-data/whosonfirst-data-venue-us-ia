@@ -1,0 +1,71 @@
+{
+  "id": 856949753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.693743,42.016989,-91.693743,42.016989",
+    "geom:latitude":42.016989,
+    "geom:longitude":-91.693743,
+    "iso:country":"US",
+    "sg:address":"3613 Caribou Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3444",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Vm8KTN3KCgDl2bBbzOeR_42.016989_-91.693743@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110059,
+    "wof:geomhash":"bcf565c295ac4b13b363951fc4345c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856949753
+        }
+    ],
+    "wof:id":856949753,
+    "wof:lastmodified":1464110059,
+    "wof:name":"H Frank Bellon Jr Land Srvyr",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -91.693743,
+    42.016989,
+    -91.693743,
+    42.016989
+],
+  "geometry": {"coordinates":[-91.693743,42.016989],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856815009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.018809,41.620263,-94.018809,41.620263",
+    "geom:latitude":41.620263,
+    "geom:longitude":-94.018809,
+    "iso:country":"US",
+    "sg:address":"437 N 9th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4388",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l0XMvp05Y2HvmaLxX5ilH_41.620263_-94.018809@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103830,
+    "wof:geomhash":"40c9c0ab558d44985c13b5f7b031a5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856815009
+        }
+    ],
+    "wof:id":856815009,
+    "wof:lastmodified":1464103830,
+    "wof:name":"River Valley Builders LLC",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.018809,
+    41.620263,
+    -94.018809,
+    41.620263
+],
+  "geometry": {"coordinates":[-94.018809,41.620263],"type":"Point"}
+}

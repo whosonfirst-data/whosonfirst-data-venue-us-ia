@@ -1,0 +1,78 @@
+{
+  "id": 857073923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624485,41.506545,-90.624485,41.506545",
+    "geom:latitude":41.506545,
+    "geom:longitude":-90.624485,
+    "iso:country":"US",
+    "sg:address":"1220 Minnie Ave",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 5507",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rG7pltsR8DAZeiSE0wmWk_41.506545_-90.624485@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115519,
+    "wof:geomhash":"6822a4a5c2fe2b23a2cfd71751fdd063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857073923
+        }
+    ],
+    "wof:id":857073923,
+    "wof:lastmodified":1464115519,
+    "wof:name":"Davenport City of",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -90.624485,
+    41.506545,
+    -90.624485,
+    41.506545
+],
+  "geometry": {"coordinates":[-90.62448500000001,41.506545],"type":"Point"}
+}

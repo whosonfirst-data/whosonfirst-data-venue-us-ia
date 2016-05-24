@@ -1,0 +1,71 @@
+{
+  "id": 856785593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.424559,41.19293,-95.424559,41.19293",
+    "geom:latitude":41.19293,
+    "geom:longitude":-95.424559,
+    "iso:country":"US",
+    "sg:address":"322 Main St",
+    "sg:city":"Macedonia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 486 2323",
+    "sg:postcode":"51549",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MtnIUpQkIa8jcEMUypyWK_41.192930_-95.424559@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102597,
+    "wof:geomhash":"76c229979861dde98e6ade62a82bb31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856785593
+        }
+    ],
+    "wof:id":856785593,
+    "wof:lastmodified":1464102597,
+    "wof:name":"Macedonia City Hall",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.424559,
+    41.19293,
+    -95.424559,
+    41.19293
+],
+  "geometry": {"coordinates":[-95.424559,41.19293],"type":"Point"}
+}

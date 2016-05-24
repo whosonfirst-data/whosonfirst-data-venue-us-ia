@@ -1,0 +1,73 @@
+{
+  "id": 856979363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.551147,41.668636,-91.551147,41.668636",
+    "geom:latitude":41.668636,
+    "geom:longitude":-91.551147,
+    "iso:country":"US",
+    "sg:address":"324 Lee St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 6614",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QEpmEcC9hWR0dd3rw0lWx_41.668636_-91.551147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111426,
+    "wof:geomhash":"cd18f5161860e7800ad1ca8c1d292c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896465,
+            "region_id":85688713,
+            "venue_id":856979363
+        }
+    ],
+    "wof:id":856979363,
+    "wof:lastmodified":1464111426,
+    "wof:name":"Pro Home Inspections",
+    "wof:parent_id":85896465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -91.551147,
+    41.668636,
+    -91.551147,
+    41.668636
+],
+  "geometry": {"coordinates":[-91.551147,41.668636],"type":"Point"}
+}

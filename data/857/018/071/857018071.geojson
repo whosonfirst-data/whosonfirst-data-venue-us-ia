@@ -1,0 +1,73 @@
+{
+  "id": 857018071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.741078,42.099902,-91.741078,42.099902",
+    "geom:latitude":42.099902,
+    "geom:longitude":-91.741078,
+    "iso:country":"US",
+    "sg:address":"11000 Feather Ridge Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1331",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2auXKv20W3si6YRCsDXGnP_42.099902_-91.741078@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113120,
+    "wof:geomhash":"66675fee70adc54f691d6261cce94146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857018071
+        }
+    ],
+    "wof:id":857018071,
+    "wof:lastmodified":1464113120,
+    "wof:name":"Stan Coleman",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.741078,
+    42.099902,
+    -91.741078,
+    42.099902
+],
+  "geometry": {"coordinates":[-91.741078,42.099902],"type":"Point"}
+}

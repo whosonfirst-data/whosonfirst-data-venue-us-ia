@@ -1,0 +1,71 @@
+{
+  "id": 856891281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505381,41.632271,-91.505381,41.632271",
+    "geom:latitude":41.632271,
+    "geom:longitude":-91.505381,
+    "iso:country":"US",
+    "sg:address":"23 Amber Ln",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 321 8383",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lsEn3aFzgJkd84aTit75v_41.632271_-91.505381@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107735,
+    "wof:geomhash":"21ffed93d902b8b6282aa9999a4dd04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856891281
+        }
+    ],
+    "wof:id":856891281,
+    "wof:lastmodified":1464107735,
+    "wof:name":"I C Cab",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.505381,
+    41.632271,
+    -91.505381,
+    41.632271
+],
+  "geometry": {"coordinates":[-91.505381,41.632271],"type":"Point"}
+}

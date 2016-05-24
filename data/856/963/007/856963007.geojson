@@ -1,0 +1,71 @@
+{
+  "id": 856963007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854345,41.219611,-95.854345,41.219611",
+    "geom:latitude":41.219611,
+    "geom:longitude":-95.854345,
+    "iso:country":"US",
+    "sg:address":"602 W South Omaha Bridge Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 0326",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CFOzi4SEbl0tWeptWbkdC_41.219611_-95.854345@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110668,
+    "wof:geomhash":"083c7e6f5862d3ea6f797aa2f3719e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856963007
+        }
+    ],
+    "wof:id":856963007,
+    "wof:lastmodified":1464110668,
+    "wof:name":"275 Truck Svc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.854345,
+    41.219611,
+    -95.854345,
+    41.219611
+],
+  "geometry": {"coordinates":[-95.854345,41.219611],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856811823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.019763,41.618279,-94.019763,41.618279",
+    "geom:latitude":41.618279,
+    "geom:longitude":-94.019763,
+    "iso:country":"US",
+    "sg:address":"918 Court St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 6992",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "govt",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xl5PlEnOg2u6HOxYNdtq3_41.618279_-94.019763@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103708,
+    "wof:geomhash":"830b3c0c7d5f7019d62eb26386763567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856811823
+        }
+    ],
+    "wof:id":856811823,
+    "wof:lastmodified":1464103708,
+    "wof:name":"Dallas County Drivers License",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "program"
+    ]
+},
+  "bbox": [
+    -94.019763,
+    41.618279,
+    -94.019763,
+    41.618279
+],
+  "geometry": {"coordinates":[-94.019763,41.618279],"type":"Point"}
+}

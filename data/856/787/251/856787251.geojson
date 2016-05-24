@@ -1,0 +1,69 @@
+{
+  "id": 856787251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.708964,41.574997,-93.708964,41.574997",
+    "geom:latitude":41.574997,
+    "geom:longitude":-93.708964,
+    "iso:country":"US",
+    "sg:address":"430 5th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 255 6471",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77hON3wGT0Y9BmqHxJjWUC_41.574997_-93.708964@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102668,
+    "wof:geomhash":"2ee464fd590cba483208c22b675fbaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856787251
+        }
+    ],
+    "wof:id":856787251,
+    "wof:lastmodified":1464102668,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.708964,
+    41.574997,
+    -93.708964,
+    41.574997
+],
+  "geometry": {"coordinates":[-93.70896399999999,41.574997],"type":"Point"}
+}

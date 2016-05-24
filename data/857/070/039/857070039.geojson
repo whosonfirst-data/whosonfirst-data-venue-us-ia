@@ -1,0 +1,74 @@
+{
+  "id": 857070039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.65426,41.937725,-91.65426,41.937725",
+    "geom:latitude":41.937725,
+    "geom:longitude":-91.65426,
+    "iso:country":"US",
+    "sg:address":"250 41st Avenue Dr SW Ste B",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3260",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.tailsawaggn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NG2PMwknHumqlHzD1nsSR_41.937725_-91.654260@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115333,
+    "wof:geomhash":"b8e3c713934dec4f9d0dbc3778ced3ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070039
+        }
+    ],
+    "wof:id":857070039,
+    "wof:lastmodified":1464115333,
+    "wof:name":"Tails A Wagg'n Daycare",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.65426,
+    41.937725,
+    -91.65426,
+    41.937725
+],
+  "geometry": {"coordinates":[-91.65425999999999,41.937725],"type":"Point"}
+}

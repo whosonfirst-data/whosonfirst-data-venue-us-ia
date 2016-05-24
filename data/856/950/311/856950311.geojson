@@ -1,0 +1,73 @@
+{
+  "id": 856950311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854011,41.225448,-95.854011,41.225448",
+    "geom:latitude":41.225448,
+    "geom:longitude":-95.854011,
+    "iso:country":"US",
+    "sg:address":"1011 34th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2800",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0792AsIS6yZopix6qSTHjU_41.225448_-95.854011@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110100,
+    "wof:geomhash":"85d754d882dfb03086f091ad3226226d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856950311
+        }
+    ],
+    "wof:id":856950311,
+    "wof:lastmodified":1464110100,
+    "wof:name":"Sheridan Auto Ctr",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.854011,
+    41.225448,
+    -95.854011,
+    41.225448
+],
+  "geometry": {"coordinates":[-95.854011,41.225448],"type":"Point"}
+}

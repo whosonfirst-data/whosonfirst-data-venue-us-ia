@@ -1,0 +1,73 @@
+{
+  "id": 856918887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.404504,42.501898,-96.404504,42.501898",
+    "geom:latitude":42.501898,
+    "geom:longitude":-96.404504,
+    "iso:country":"US",
+    "sg:address":"521 11th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0906",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xLxd6Ymu9DuTCGUIYqf2d_42.501898_-96.404504@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108767,
+    "wof:geomhash":"381faf0347e7da6c12c0741548c7d8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856918887
+        }
+    ],
+    "wof:id":856918887,
+    "wof:lastmodified":1464108767,
+    "wof:name":"Hair Works Studio",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.404504,
+    42.501898,
+    -96.404504,
+    42.501898
+],
+  "geometry": {"coordinates":[-96.404504,42.501898],"type":"Point"}
+}

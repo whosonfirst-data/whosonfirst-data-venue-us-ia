@@ -1,0 +1,73 @@
+{
+  "id": 856922771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.874594,41.230292,-95.874594,41.230292",
+    "geom:latitude":41.230292,
+    "geom:longitude":-95.874594,
+    "iso:country":"US",
+    "sg:address":"3140 S 21st St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 0922",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oyIwwz1Vad016vyyVfEMd_41.230292_-95.874594@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108941,
+    "wof:geomhash":"d6dd6b015296fa6324602a5200f32b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856922771
+        }
+    ],
+    "wof:id":856922771,
+    "wof:lastmodified":1464108941,
+    "wof:name":"B & K Mobil Home Repair",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.874594,
+    41.230292,
+    -95.874594,
+    41.230292
+],
+  "geometry": {"coordinates":[-95.874594,41.230292],"type":"Point"}
+}

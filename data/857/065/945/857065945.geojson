@@ -1,0 +1,87 @@
+{
+  "id": 857065945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615576,42.031372,-91.615576,42.031372",
+    "geom:latitude":42.031372,
+    "geom:longitude":-91.615576,
+    "iso:country":"US",
+    "sg:address":"915 Blairs Ferry Rd NE",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9265",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "conditioning/hvac",
+        "heating",
+        "contractor",
+        "home",
+        "air",
+        "carpet"
+    ],
+    "sg:website":"www.servicemastersaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BXcB1onDcJqBiBnAyUEKL_42.031372_-91.615576@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115134,
+    "wof:geomhash":"fd0fa1799eff688be7c70519eec5d340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065945
+        }
+    ],
+    "wof:id":857065945,
+    "wof:lastmodified":1464115134,
+    "wof:name":"Servicemaster by Avenue of the Saints",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning/hvac",
+        "heating",
+        "contractor",
+        "home",
+        "air",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -91.615576,
+    42.031372,
+    -91.615576,
+    42.031372
+],
+  "geometry": {"coordinates":[-91.615576,42.031372],"type":"Point"}
+}

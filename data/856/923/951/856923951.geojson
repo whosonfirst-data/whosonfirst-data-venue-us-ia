@@ -1,0 +1,68 @@
+{
+  "id": 856923951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668909,41.977288,-91.668909,41.977288",
+    "geom:latitude":41.977288,
+    "geom:longitude":-91.668909,
+    "iso:country":"US",
+    "sg:address":"102 1st St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5544",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YRE0AstadbJU7i9HuRTVQ_41.977288_-91.668909@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108999,
+    "wof:geomhash":"0d0f333e744d83d1629e572eac220c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856923951
+        }
+    ],
+    "wof:id":856923951,
+    "wof:lastmodified":1464108999,
+    "wof:name":"Shear Happenings",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.668909,
+    41.977288,
+    -91.668909,
+    41.977288
+],
+  "geometry": {"coordinates":[-91.668909,41.977288],"type":"Point"}
+}

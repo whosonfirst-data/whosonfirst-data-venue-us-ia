@@ -1,0 +1,66 @@
+{
+  "id": 856785283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.353766,42.47057,-96.353766,42.47057",
+    "geom:latitude":42.47057,
+    "geom:longitude":-96.353766,
+    "iso:country":"US",
+    "sg:address":"4112 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 3498",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52x28yiZAA5FgJ6JBPIt6P_42.470570_-96.353766@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102586,
+    "wof:geomhash":"9f976d7f96126688ee4845ed9947305a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856785283
+        }
+    ],
+    "wof:id":856785283,
+    "wof:lastmodified":1464102586,
+    "wof:name":"Davids Watch Repair",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.353766,
+    42.47057,
+    -96.353766,
+    42.47057
+],
+  "geometry": {"coordinates":[-96.35376599999999,42.47057],"type":"Point"}
+}

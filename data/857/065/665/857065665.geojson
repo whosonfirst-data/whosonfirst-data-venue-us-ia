@@ -1,0 +1,73 @@
+{
+  "id": 857065665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598,42.021,-91.598,42.021",
+    "geom:latitude":42.021,
+    "geom:longitude":-91.598,
+    "iso:country":"US",
+    "sg:address":"915 S 11th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1627",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G8T2aL0hTCJKkRf1akmTf_42.021000_-91.598000@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115121,
+    "wof:geomhash":"146763afdf58eff5e56918d59daa722d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065665
+        }
+    ],
+    "wof:id":857065665,
+    "wof:lastmodified":1464115121,
+    "wof:name":"Tastee Freeze",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -91.598,
+    42.021,
+    -91.598,
+    42.021
+],
+  "geometry": {"coordinates":[-91.598,42.021],"type":"Point"}
+}

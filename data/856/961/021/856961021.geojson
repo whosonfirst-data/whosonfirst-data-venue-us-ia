@@ -1,0 +1,69 @@
+{
+  "id": 856961021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.679357,41.478806,-93.679357,41.478806",
+    "geom:latitude":41.478806,
+    "geom:longitude":-93.679357,
+    "iso:country":"US",
+    "sg:address":"929 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 4124",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zNxsKaIY70KXFfWmFmhCL_41.478806_-93.679357@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110577,
+    "wof:geomhash":"a834103354dfb6f94865af7e55202478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856961021
+        }
+    ],
+    "wof:id":856961021,
+    "wof:lastmodified":1464110577,
+    "wof:name":"Norwalk Veterinary Clinic",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.679357,
+    41.478806,
+    -93.679357,
+    41.478806
+],
+  "geometry": {"coordinates":[-93.679357,41.478806],"type":"Point"}
+}

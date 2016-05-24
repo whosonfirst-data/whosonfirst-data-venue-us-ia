@@ -1,0 +1,71 @@
+{
+  "id": 856787365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.02435,41.693853,-94.02435,41.693853",
+    "geom:latitude":41.693853,
+    "geom:longitude":-94.02435,
+    "iso:country":"US",
+    "sg:address":"2351 N Ave",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3642",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TK37BuCMWfkGkYyVH2bvl_41.693853_-94.024350@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102675,
+    "wof:geomhash":"ea52bcc6ff713c6626d0522b2d79dc27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856787365
+        }
+    ],
+    "wof:id":856787365,
+    "wof:lastmodified":1464102675,
+    "wof:name":"Brad Sommers Construction",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.02435,
+    41.693853,
+    -94.02435,
+    41.693853
+],
+  "geometry": {"coordinates":[-94.02435,41.693853],"type":"Point"}
+}

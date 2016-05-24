@@ -1,0 +1,73 @@
+{
+  "id": 857019539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.365101,42.523973,-96.365101,42.523973",
+    "geom:latitude":42.523973,
+    "geom:longitude":-96.365101,
+    "iso:country":"US",
+    "sg:address":"3104 N US Hwy 75",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 293 0326",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YVdIOzr8jeTKFO4Ts457l_42.523973_-96.365101@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113180,
+    "wof:geomhash":"bef5a39ed6753c8de49dd03120d1e5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857019539
+        }
+    ],
+    "wof:id":857019539,
+    "wof:lastmodified":1464113180,
+    "wof:name":"Robson Enterprises Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.365101,
+    42.523973,
+    -96.365101,
+    42.523973
+],
+  "geometry": {"coordinates":[-96.365101,42.523973],"type":"Point"}
+}

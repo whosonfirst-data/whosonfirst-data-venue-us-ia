@@ -1,0 +1,73 @@
+{
+  "id": 856964839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56949,42.043899,-91.56949,42.043899",
+    "geom:latitude":42.043899,
+    "geom:longitude":-91.56949,
+    "iso:country":"US",
+    "sg:address":"2095 Winchester Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 8726",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i6p8LHieklSsL1s2HyFE6_42.043899_-91.569490@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110742,
+    "wof:geomhash":"85afb101dbc98a9290782d0944427cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856964839
+        }
+    ],
+    "wof:id":856964839,
+    "wof:lastmodified":1464110742,
+    "wof:name":"Tech Alliance",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -91.56949,
+    42.043899,
+    -91.56949,
+    42.043899
+],
+  "geometry": {"coordinates":[-91.56949,42.043899],"type":"Point"}
+}

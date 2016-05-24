@@ -1,0 +1,71 @@
+{
+  "id": 856838031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.832384,41.251706,-95.832384,41.251706",
+    "geom:latitude":41.251706,
+    "geom:longitude":-95.832384,
+    "iso:country":"US",
+    "sg:address":"1329 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0468",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kV5jMTOABJQxCzOHaGTib_41.251706_-95.832384@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104916,
+    "wof:geomhash":"8ab588486f8d39f318ae0879aa84a043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856838031
+        }
+    ],
+    "wof:id":856838031,
+    "wof:lastmodified":1464104916,
+    "wof:name":"Avh Hammond Studio",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -95.832384,
+    41.251706,
+    -95.832384,
+    41.251706
+],
+  "geometry": {"coordinates":[-95.832384,41.251706],"type":"Point"}
+}

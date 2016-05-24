@@ -1,0 +1,77 @@
+{
+  "id": 856816579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530151,41.655397,-91.530151,41.655397",
+    "geom:latitude":41.655397,
+    "geom:longitude":-91.530151,
+    "iso:country":"US",
+    "sg:address":"408 S Gilbert St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 7939",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16EdfaxGerCzwZLaePD9za_41.655397_-91.530151@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103893,
+    "wof:geomhash":"69124d152fd1a350bef9ad0e91cfa491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856816579
+        }
+    ],
+    "wof:id":856816579,
+    "wof:lastmodified":1464103893,
+    "wof:name":"Bio Life Plasma Svc",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.530151,
+    41.655397,
+    -91.530151,
+    41.655397
+],
+  "geometry": {"coordinates":[-91.530151,41.655397],"type":"Point"}
+}

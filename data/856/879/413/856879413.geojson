@@ -1,0 +1,73 @@
+{
+  "id": 856879413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.513678,41.506054,-95.513678,41.506054",
+    "geom:latitude":41.506054,
+    "geom:longitude":-95.513678,
+    "iso:country":"US",
+    "sg:address":"35453 York Rd",
+    "sg:city":"Shelby",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 544 2552",
+    "sg:postcode":"51570",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RPRbmtMadBXri2zDwTaZJ_41.506054_-95.513678@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107131,
+    "wof:geomhash":"a53b56fdd4f550f5569430b10ce96963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856879413
+        }
+    ],
+    "wof:id":856879413,
+    "wof:lastmodified":1464107131,
+    "wof:name":"Sharon Nelson",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.513678,
+    41.506054,
+    -95.513678,
+    41.506054
+],
+  "geometry": {"coordinates":[-95.513678,41.506054],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856865129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.889699,41.252119,-95.889699,41.252119",
+    "geom:latitude":41.252119,
+    "geom:longitude":-95.889699,
+    "iso:country":"US",
+    "sg:address":"1020 Ash St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3511",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CWbo01TlIinNWQFWRxVKE_41.252119_-95.889699@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106214,
+    "wof:geomhash":"8c280f25243c627da3d65e9af877a76b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856865129
+        }
+    ],
+    "wof:id":856865129,
+    "wof:lastmodified":1464106214,
+    "wof:name":"Cobra's R-C Club",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.889699,
+    41.252119,
+    -95.889699,
+    41.252119
+],
+  "geometry": {"coordinates":[-95.88969899999999,41.252119],"type":"Point"}
+}

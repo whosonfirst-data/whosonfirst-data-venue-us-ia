@@ -1,0 +1,73 @@
+{
+  "id": 856868825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.773365,41.652586,-93.773365,41.652586",
+    "geom:latitude":41.652586,
+    "geom:longitude":-93.773365,
+    "iso:country":"US",
+    "sg:address":"5084 NW 111th Dr",
+    "sg:city":"Grimes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 986 0341",
+    "sg:postcode":"50111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944147,
+        102086603,
+        85896483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YtSOrOmjBmPu6qvQgduzq_41.652586_-93.773365@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106443,
+    "wof:geomhash":"337451a45b1a25f6c801374f04b8d2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944147,
+            "neighbourhood_id":85896483,
+            "region_id":85688713,
+            "venue_id":856868825
+        }
+    ],
+    "wof:id":856868825,
+    "wof:lastmodified":1464106443,
+    "wof:name":"Kaman Industrial Tech",
+    "wof:parent_id":85896483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.773365,
+    41.652586,
+    -93.773365,
+    41.652586
+],
+  "geometry": {"coordinates":[-93.773365,41.652586],"type":"Point"}
+}

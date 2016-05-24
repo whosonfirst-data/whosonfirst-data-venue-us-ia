@@ -1,0 +1,73 @@
+{
+  "id": 857020495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.073566,42.299645,-96.073566,42.299645",
+    "geom:latitude":42.299645,
+    "geom:longitude":-96.073566,
+    "iso:country":"US",
+    "sg:address":"2728 280th St",
+    "sg:city":"Hornick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 876 2890",
+    "sg:postcode":"51026",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FO2AInB4RFHq0UgkFE72t_42.299645_-96.073566@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113210,
+    "wof:geomhash":"deda8b7cc3a0a835dc81ff62bfe6d4bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857020495
+        }
+    ],
+    "wof:id":857020495,
+    "wof:lastmodified":1464113210,
+    "wof:name":"Hammond Drywall",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.073566,
+    42.299645,
+    -96.073566,
+    42.299645
+],
+  "geometry": {"coordinates":[-96.073566,42.299645],"type":"Point"}
+}

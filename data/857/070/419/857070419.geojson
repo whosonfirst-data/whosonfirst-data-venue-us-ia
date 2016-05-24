@@ -1,0 +1,73 @@
+{
+  "id": 857070419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679954,41.970481,-91.679954,41.970481",
+    "geom:latitude":41.970481,
+    "geom:longitude":-91.679954,
+    "iso:country":"US",
+    "sg:address":"524 8th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1224",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C5s54HUpUKyz7OST0bCT5_41.970481_-91.679954@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115350,
+    "wof:geomhash":"f30cf48820a3f40b2d5ead47503bdb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857070419
+        }
+    ],
+    "wof:id":857070419,
+    "wof:lastmodified":1464115350,
+    "wof:name":"Mercy Medical Center",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.679954,
+    41.970481,
+    -91.679954,
+    41.970481
+],
+  "geometry": {"coordinates":[-91.679954,41.970481],"type":"Point"}
+}

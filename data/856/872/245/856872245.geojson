@@ -1,0 +1,71 @@
+{
+  "id": 856872245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.921973,41.857717,-93.921973,41.857717",
+    "geom:latitude":41.857717,
+    "geom:longitude":-93.921973,
+    "iso:country":"US",
+    "sg:address":"101 S Main St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2315",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tpFP12NcqDprR1Vc7okoD_41.857717_-93.921973@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106761,
+    "wof:geomhash":"49928a318ed14213ef86ae60c16374d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856872245
+        }
+    ],
+    "wof:id":856872245,
+    "wof:lastmodified":1464106761,
+    "wof:name":"Ultimate Outdoor Power Equip",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -93.921973,
+    41.857717,
+    -93.921973,
+    41.857717
+],
+  "geometry": {"coordinates":[-93.92197299999999,41.857717],"type":"Point"}
+}

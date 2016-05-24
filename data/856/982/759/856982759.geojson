@@ -1,0 +1,71 @@
+{
+  "id": 856982759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.830768,41.286955,-95.830768,41.286955",
+    "geom:latitude":41.286955,
+    "geom:longitude":-95.830768,
+    "iso:country":"US",
+    "sg:address":"320 Spencer Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 9845",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1riW4UfaW3uF0EnwrLWumj_41.286955_-95.830768@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111605,
+    "wof:geomhash":"10ad42ae78f023d34ffca0f3f248da8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856982759
+        }
+    ],
+    "wof:id":856982759,
+    "wof:lastmodified":1464111605,
+    "wof:name":"Accent Tree Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -95.830768,
+    41.286955,
+    -95.830768,
+    41.286955
+],
+  "geometry": {"coordinates":[-95.83076800000001,41.286955],"type":"Point"}
+}

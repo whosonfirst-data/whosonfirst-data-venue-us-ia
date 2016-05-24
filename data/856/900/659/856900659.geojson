@@ -1,0 +1,75 @@
+{
+  "id": 856900659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.458679,42.404524,-92.458679,42.404524",
+    "geom:latitude":42.404524,
+    "geom:longitude":-92.458679,
+    "iso:country":"US",
+    "sg:address":"305 Eldora Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 988 9228",
+    "sg:postcode":"50643",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JdiYJvAYVOQPQidgmXoXL_42.404524_-92.458679@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108073,
+    "wof:geomhash":"68b2704a7c01c10999e310d1bdec92df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856900659
+        }
+    ],
+    "wof:id":856900659,
+    "wof:lastmodified":1464108073,
+    "wof:name":"Karr's Construction",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.458679,
+    42.404524,
+    -92.458679,
+    42.404524
+],
+  "geometry": {"coordinates":[-92.458679,42.404524],"type":"Point"}
+}

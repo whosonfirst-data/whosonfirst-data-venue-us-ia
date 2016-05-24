@@ -1,0 +1,74 @@
+{
+  "id": 857057199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.824391,41.76415,-93.824391,41.76415",
+    "geom:latitude":41.76415,
+    "geom:longitude":-93.824391,
+    "iso:country":"US",
+    "sg:address":"1802 Sycamore St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/grant/225923-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2843",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3meYGpzTtmbtnITdNB20QB_41.764150_-93.824391@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114796,
+    "wof:geomhash":"d3053a631a0abc70d3ee13058ec8395e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057199
+        }
+    ],
+    "wof:id":857057199,
+    "wof:lastmodified":1464114796,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.824391,
+    41.76415,
+    -93.824391,
+    41.76415
+],
+  "geometry": {"coordinates":[-93.82439100000001,41.76415],"type":"Point"}
+}

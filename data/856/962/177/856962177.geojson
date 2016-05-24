@@ -1,0 +1,71 @@
+{
+  "id": 856962177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.874704,41.614863,-93.874704,41.614863",
+    "geom:latitude":41.614863,
+    "geom:longitude":-93.874704,
+    "iso:country":"US",
+    "sg:address":"280 US Hwy 6",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 5559",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05bfbB6iV0TqMIdDjnsCiR_41.614863_-93.874704@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110639,
+    "wof:geomhash":"158d975437f9d197a586cbd96dcdb654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856962177
+        }
+    ],
+    "wof:id":856962177,
+    "wof:lastmodified":1464110639,
+    "wof:name":"Philly's Finest",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -93.874704,
+    41.614863,
+    -93.874704,
+    41.614863
+],
+  "geometry": {"coordinates":[-93.87470399999999,41.614863],"type":"Point"}
+}

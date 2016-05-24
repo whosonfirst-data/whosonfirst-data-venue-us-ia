@@ -1,0 +1,75 @@
+{
+  "id": 856796169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.727881,41.562637,-93.727881,41.562637",
+    "geom:latitude":41.562637,
+    "geom:longitude":-93.727881,
+    "iso:country":"US",
+    "sg:address":"515 S 18th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 309 0154",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q01b32xVb87lCwutmGlOn_41.562637_-93.727881@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103026,
+    "wof:geomhash":"7a76379c17769e616a3e8d8daea49c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896521,
+            "region_id":85688713,
+            "venue_id":856796169
+        }
+    ],
+    "wof:id":856796169,
+    "wof:lastmodified":1464103026,
+    "wof:name":"Quality Ford",
+    "wof:parent_id":85896521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.727881,
+    41.562637,
+    -93.727881,
+    41.562637
+],
+  "geometry": {"coordinates":[-93.727881,41.562637],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856995719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.689473,42.077038,-91.689473,42.077038",
+    "geom:latitude":42.077038,
+    "geom:longitude":-91.689473,
+    "iso:country":"US",
+    "sg:address":"180 Morgan Ct",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1133",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14SojQUX9pGfHDaJu9t6Fc_42.077038_-91.689473@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112202,
+    "wof:geomhash":"865cea7337e12c21db9e2a1626d068eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856995719
+        }
+    ],
+    "wof:id":856995719,
+    "wof:lastmodified":1464112202,
+    "wof:name":"Spotlight Images",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -91.689473,
+    42.077038,
+    -91.689473,
+    42.077038
+],
+  "geometry": {"coordinates":[-91.68947300000001,42.077038],"type":"Point"}
+}

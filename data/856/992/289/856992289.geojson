@@ -1,0 +1,71 @@
+{
+  "id": 856992289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.381756,41.917906,-91.381756,41.917906",
+    "geom:latitude":41.917906,
+    "geom:longitude":-91.381756,
+    "iso:country":"US",
+    "sg:address":"315 US Hwy 30",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 3401",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51VmgXdxMCDvkzmVt9k5wh_41.917906_-91.381756@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112062,
+    "wof:geomhash":"24c52add5c9391a46e72cb40cfa1fb64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856992289
+        }
+    ],
+    "wof:id":856992289,
+    "wof:lastmodified":1464112062,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.381756,
+    41.917906,
+    -91.381756,
+    41.917906
+],
+  "geometry": {"coordinates":[-91.381756,41.917906],"type":"Point"}
+}

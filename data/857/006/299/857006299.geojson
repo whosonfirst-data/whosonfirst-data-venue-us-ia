@@ -1,0 +1,71 @@
+{
+  "id": 857006299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.92984,42.22774,-95.92984,42.22774",
+    "geom:latitude":42.22774,
+    "geom:longitude":-95.92984,
+    "iso:country":"US",
+    "sg:address":"110 Jackson St",
+    "sg:city":"Smithland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 889 2220",
+    "sg:postcode":"51056",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VCg6rsPIBdk6xBUwrMsMH_42.227740_-95.929840@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112617,
+    "wof:geomhash":"509bb9473f47c7c73a3517e9b9f9ce03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857006299
+        }
+    ],
+    "wof:id":857006299,
+    "wof:lastmodified":1464112617,
+    "wof:name":"Smithland City Hall",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.92984,
+    42.22774,
+    -95.92984,
+    42.22774
+],
+  "geometry": {"coordinates":[-95.92984,42.22774],"type":"Point"}
+}

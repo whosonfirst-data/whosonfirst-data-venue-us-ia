@@ -1,0 +1,66 @@
+{
+  "id": 856889853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.884449,41.614895,-93.884449,41.614895",
+    "geom:latitude":41.614895,
+    "geom:longitude":-93.884449,
+    "iso:country":"US",
+    "sg:address":"500 US Hwy 6",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 9820",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fAsMS0i4bP1jdaH3oI7LA_41.614895_-93.884449@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107678,
+    "wof:geomhash":"e3e9f8382a52c432de3f094e622f4f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856889853
+        }
+    ],
+    "wof:id":856889853,
+    "wof:lastmodified":1464107678,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.884449,
+    41.614895,
+    -93.884449,
+    41.614895
+],
+  "geometry": {"coordinates":[-93.884449,41.614895],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856887317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.767724,41.600443,-93.767724,41.600443",
+    "geom:latitude":41.600443,
+    "geom:longitude":-93.767724,
+    "iso:country":"US",
+    "sg:address":"11101 University Ave",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 457 1381",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33bcfoqEqDGl8RlHD44eZd_41.600443_-93.767724@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107570,
+    "wof:geomhash":"81e50fc1d51710243bc698d8fe276e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896537,
+            "region_id":85688713,
+            "venue_id":856887317
+        }
+    ],
+    "wof:id":856887317,
+    "wof:lastmodified":1464107570,
+    "wof:name":"Banfield The Pet Hospital",
+    "wof:parent_id":85896537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.767724,
+    41.600443,
+    -93.767724,
+    41.600443
+],
+  "geometry": {"coordinates":[-93.767724,41.600443],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857053749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.603104,42.0331,-91.603104,42.0331",
+    "geom:latitude":42.0331,
+    "geom:longitude":-91.603104,
+    "iso:country":"US",
+    "sg:address":"694 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 4292",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NqgwNPGX0cEaGhk6bL58P_42.033377_-91.603617@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114648,
+    "wof:geomhash":"814d6a7360533e7940b9992d2488451c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857053749
+        }
+    ],
+    "wof:id":857053749,
+    "wof:lastmodified":1464114648,
+    "wof:name":"Total Eclipse Tanning Studio",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -91.603104,
+    42.0331,
+    -91.603104,
+    42.0331
+],
+  "geometry": {"coordinates":[-91.603104,42.0331],"type":"Point"}
+}

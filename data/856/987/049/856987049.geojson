@@ -1,0 +1,71 @@
+{
+  "id": 856987049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.338185,42.473332,-96.338185,42.473332",
+    "geom:latitude":42.473332,
+    "geom:longitude":-96.338185,
+    "iso:country":"US",
+    "sg:address":"1600 S Olive St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 2460",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E2JS16A3bZalwugKUxPgP_42.473332_-96.338185@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111833,
+    "wof:geomhash":"0742e811ba51c1e0e97c1f23f42adaff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856987049
+        }
+    ],
+    "wof:id":856987049,
+    "wof:lastmodified":1464111833,
+    "wof:name":"J L Nyreen & Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -96.338185,
+    42.473332,
+    -96.338185,
+    42.473332
+],
+  "geometry": {"coordinates":[-96.338185,42.473332],"type":"Point"}
+}

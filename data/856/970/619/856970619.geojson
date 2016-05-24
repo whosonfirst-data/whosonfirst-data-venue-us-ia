@@ -1,0 +1,71 @@
+{
+  "id": 856970619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.63157,41.943209,-91.63157,41.943209",
+    "geom:latitude":41.943209,
+    "geom:longitude":-91.63157,
+    "iso:country":"US",
+    "sg:address":"2949 Old River Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4700",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OSE4kZfrB853e20pNF17k_41.943209_-91.631570@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111007,
+    "wof:geomhash":"fcaa900cc4a37749f84df476f0d58734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856970619
+        }
+    ],
+    "wof:id":856970619,
+    "wof:lastmodified":1464111007,
+    "wof:name":"Done Done Svc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.63157,
+    41.943209,
+    -91.63157,
+    41.943209
+],
+  "geometry": {"coordinates":[-91.63157,41.943209],"type":"Point"}
+}

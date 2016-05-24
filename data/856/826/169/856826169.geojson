@@ -1,0 +1,71 @@
+{
+  "id": 856826169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.807573,41.250573,-95.807573,41.250573",
+    "geom:latitude":41.250573,
+    "geom:longitude":-95.807573,
+    "iso:country":"US",
+    "sg:address":"200 Kingsridge Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7585",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ai5Es1lNShvAVM2Dk9bF0_41.250573_-95.807573@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104353,
+    "wof:geomhash":"8bba5a29dab5276898d4568fdf0f1b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856826169
+        }
+    ],
+    "wof:id":856826169,
+    "wof:lastmodified":1464104353,
+    "wof:name":"Jack Hanson Photography",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -95.807573,
+    41.250573,
+    -95.807573,
+    41.250573
+],
+  "geometry": {"coordinates":[-95.807573,41.250573],"type":"Point"}
+}

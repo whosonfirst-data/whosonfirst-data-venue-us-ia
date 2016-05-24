@@ -1,0 +1,71 @@
+{
+  "id": 856892887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.419351,41.919854,-91.419351,41.919854",
+    "geom:latitude":41.919854,
+    "geom:longitude":-91.419351,
+    "iso:country":"US",
+    "sg:address":"417 1st Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8451",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KqeUPglZ9WSiYcvIbibxf_41.919854_-91.419351@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107790,
+    "wof:geomhash":"edae0c314c53ca41d84eeec58227139e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856892887
+        }
+    ],
+    "wof:id":856892887,
+    "wof:lastmodified":1464107790,
+    "wof:name":"Douglas C Easker DDS",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.419351,
+    41.919854,
+    -91.419351,
+    41.919854
+],
+  "geometry": {"coordinates":[-91.41935100000001,41.919854],"type":"Point"}
+}

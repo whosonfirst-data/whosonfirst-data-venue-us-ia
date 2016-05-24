@@ -1,0 +1,74 @@
+{
+  "id": 857069385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659103,42.0103,-91.659103,42.0103",
+    "geom:latitude":42.0103,
+    "geom:longitude":-91.659103,
+    "iso:country":"US",
+    "sg:address":"1531 32nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 247 1264",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.familyvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5An9cHC1eLFigoAr7HcuQC_42.010300_-91.659103@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115302,
+    "wof:geomhash":"deb095563abf53618a6039fc2c227e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069385
+        }
+    ],
+    "wof:id":857069385,
+    "wof:lastmodified":1464115302,
+    "wof:name":"Family Video",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -91.659103,
+    42.0103,
+    -91.659103,
+    42.0103
+],
+  "geometry": {"coordinates":[-91.659103,42.0103],"type":"Point"}
+}

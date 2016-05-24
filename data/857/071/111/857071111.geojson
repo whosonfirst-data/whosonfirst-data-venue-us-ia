@@ -1,0 +1,77 @@
+{
+  "id": 857071111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.704192,42.005026,-91.704192,42.005026",
+    "geom:latitude":42.005026,
+    "geom:longitude":-91.704192,
+    "iso:country":"US",
+    "sg:address":"2418 Ellis Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2318",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bh02DZzY70mtgi9yuqLlP_42.005026_-91.704192@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115379,
+    "wof:geomhash":"3f4273b9b2a5855be2dacc29c33c063d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071111
+        }
+    ],
+    "wof:id":857071111,
+    "wof:lastmodified":1464115379,
+    "wof:name":"Cedar Rapids Community School District",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.704192,
+    42.005026,
+    -91.704192,
+    42.005026
+],
+  "geometry": {"coordinates":[-91.70419200000001,42.005026],"type":"Point"}
+}

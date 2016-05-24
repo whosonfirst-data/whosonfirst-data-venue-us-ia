@@ -1,0 +1,71 @@
+{
+  "id": 856787807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.34534,42.449069,-96.34534,42.449069",
+    "geom:latitude":42.449069,
+    "geom:longitude":-96.34534,
+    "iso:country":"US",
+    "sg:address":"3417 S Lakeport St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 0296",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lQ0M4ggB5t3NM6rzPoH0p_42.449069_-96.345340@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102695,
+    "wof:geomhash":"bfcfda6cf2c99ebefb324732b875586c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856787807
+        }
+    ],
+    "wof:id":856787807,
+    "wof:lastmodified":1464102695,
+    "wof:name":"Taco San Pedro",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.34534,
+    42.449069,
+    -96.34534,
+    42.449069
+],
+  "geometry": {"coordinates":[-96.34533999999999,42.449069],"type":"Point"}
+}

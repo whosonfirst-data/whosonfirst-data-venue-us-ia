@@ -1,0 +1,73 @@
+{
+  "id": 856984935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.377436,42.490481,-96.377436,42.490481",
+    "geom:latitude":42.490481,
+    "geom:longitude":-96.377436,
+    "iso:country":"US",
+    "sg:address":"117 S Westcott St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 8388",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jGUkbjJP8D7jOFruttKV5_42.490481_-96.377436@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111737,
+    "wof:geomhash":"08bcd2c78ed5b7de55cff21d965335f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856984935
+        }
+    ],
+    "wof:id":856984935,
+    "wof:lastmodified":1464111737,
+    "wof:name":"ABC Cars & Trucks",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.377436,
+    42.490481,
+    -96.377436,
+    42.490481
+],
+  "geometry": {"coordinates":[-96.377436,42.490481],"type":"Point"}
+}

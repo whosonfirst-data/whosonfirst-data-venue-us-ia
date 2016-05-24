@@ -1,0 +1,71 @@
+{
+  "id": 857007187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.227774,42.232571,-96.227774,42.232571",
+    "geom:latitude":42.232571,
+    "geom:longitude":-96.227774,
+    "iso:country":"US",
+    "sg:address":"323 4th St",
+    "sg:city":"Sloan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 428 3177",
+    "sg:postcode":"51055",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uHGdQlKsrXzjnyPls702j_42.232571_-96.227774@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112651,
+    "wof:geomhash":"8055ec10d901cd72b2401f4be7d00bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857007187
+        }
+    ],
+    "wof:id":857007187,
+    "wof:lastmodified":1464112651,
+    "wof:name":"Westwood Animal Hospital",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -96.227774,
+    42.232571,
+    -96.227774,
+    42.232571
+],
+  "geometry": {"coordinates":[-96.227774,42.232571],"type":"Point"}
+}

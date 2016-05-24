@@ -1,0 +1,82 @@
+{
+  "id": 857008333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.512663,41.651111,-91.512663,41.651111",
+    "geom:latitude":41.651111,
+    "geom:longitude":-91.512663,
+    "iso:country":"US",
+    "sg:address":"832 Dearborn St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 5872",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fd6SnQvdZopjg0Bggt8IG_41.651111_-91.512663@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112712,
+    "wof:geomhash":"528ae5fca2080225b1c5e074263fbc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":857008333
+        }
+    ],
+    "wof:id":857008333,
+    "wof:lastmodified":1464112712,
+    "wof:name":"Craig Wolffis Builder",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.512663,
+    41.651111,
+    -91.512663,
+    41.651111
+],
+  "geometry": {"coordinates":[-91.512663,41.651111],"type":"Point"}
+}

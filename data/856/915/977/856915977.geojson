@@ -1,0 +1,73 @@
+{
+  "id": 856915977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560902,41.721405,-91.560902,41.721405",
+    "geom:latitude":41.721405,
+    "geom:longitude":-91.560902,
+    "iso:country":"US",
+    "sg:address":"2916 Rustic Ridge Rd NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 4035",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896473,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f4fSzD0h6oyxWbbqUM5Qa_41.721405_-91.560902@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108657,
+    "wof:geomhash":"3aa9da0e433609a3cfeb77245e25690d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896473,
+            "region_id":85688713,
+            "venue_id":856915977
+        }
+    ],
+    "wof:id":856915977,
+    "wof:lastmodified":1464108657,
+    "wof:name":"Steve's House Garden & Lawn",
+    "wof:parent_id":85896473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -91.560902,
+    41.721405,
+    -91.560902,
+    41.721405
+],
+  "geometry": {"coordinates":[-91.560902,41.721405],"type":"Point"}
+}

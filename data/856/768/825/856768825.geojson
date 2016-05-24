@@ -1,0 +1,71 @@
+{
+  "id": 856768825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.735395,42.043889,-91.735395,42.043889",
+    "geom:latitude":42.043889,
+    "geom:longitude":-91.735395,
+    "iso:country":"US",
+    "sg:address":"5105 Blairs Ferry Ln",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 1919",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01LquMvWfELjVhKFpu4bUb_42.043889_-91.735395@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102176,
+    "wof:geomhash":"40515bfff10ebc63789c3465669d3086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856768825
+        }
+    ],
+    "wof:id":856768825,
+    "wof:lastmodified":1464102176,
+    "wof:name":"Ross Remodel",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.735395,
+    42.043889,
+    -91.735395,
+    42.043889
+],
+  "geometry": {"coordinates":[-91.735395,42.043889],"type":"Point"}
+}

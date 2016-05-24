@@ -1,0 +1,67 @@
+{
+  "id": 856976853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.879209,41.238252,-95.879209,41.238252",
+    "geom:latitude":41.238252,
+    "geom:longitude":-95.879209,
+    "iso:country":"US",
+    "sg:address":"2620 S 24th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 9052",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:website":"www.sappbrosts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64fF1r53Agy3mTTrxRPMGr_41.238252_-95.879209@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111304,
+    "wof:geomhash":"984da4512bc69f38ad7816e76a5a6fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856976853
+        }
+    ],
+    "wof:id":856976853,
+    "wof:lastmodified":1464111304,
+    "wof:name":"Embers",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.879209,
+    41.238252,
+    -95.879209,
+    41.238252
+],
+  "geometry": {"coordinates":[-95.879209,41.238252],"type":"Point"}
+}

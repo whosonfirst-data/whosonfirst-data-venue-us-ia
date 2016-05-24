@@ -1,0 +1,71 @@
+{
+  "id": 856918477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.809942,41.27544,-95.809942,41.27544",
+    "geom:latitude":41.27544,
+    "geom:longitude":-95.809942,
+    "iso:country":"US",
+    "sg:address":"2009 Sherwood Ct",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7231",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GfMlg1TUvIJilUzfqfuXp_41.275440_-95.809942@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108748,
+    "wof:geomhash":"8fc362b00ec289385178471908342ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856918477
+        }
+    ],
+    "wof:id":856918477,
+    "wof:lastmodified":1464108748,
+    "wof:name":"Sherwood Apartments",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.809942,
+    41.27544,
+    -95.809942,
+    41.27544
+],
+  "geometry": {"coordinates":[-95.80994200000001,41.27544],"type":"Point"}
+}

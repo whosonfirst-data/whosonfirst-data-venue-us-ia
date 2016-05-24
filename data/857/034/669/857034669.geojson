@@ -1,0 +1,73 @@
+{
+  "id": 857034669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.58402,42.031534,-91.58402,42.031534",
+    "geom:latitude":42.031534,
+    "geom:longitude":-91.58402,
+    "iso:country":"US",
+    "sg:address":"2694 5th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 1684",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GP1j94BlVshWU5qHkQbDD_42.031534_-91.584020@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113862,
+    "wof:geomhash":"35f5776110504931ede6b6c5a888b38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857034669
+        }
+    ],
+    "wof:id":857034669,
+    "wof:lastmodified":1464113862,
+    "wof:name":"God Speed Automotive",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.58402,
+    42.031534,
+    -91.58402,
+    42.031534
+],
+  "geometry": {"coordinates":[-91.58402,42.031534],"type":"Point"}
+}

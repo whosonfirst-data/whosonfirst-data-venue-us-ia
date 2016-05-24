@@ -1,0 +1,68 @@
+{
+  "id": 856767419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.407912,42.494044,-96.407912,42.494044",
+    "geom:latitude":42.494044,
+    "geom:longitude":-96.407912,
+    "iso:country":"US",
+    "sg:address":"202 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 9106",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jSiRqhdsNaJfuPz6JRIf2_42.494044_-96.407912@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102141,
+    "wof:geomhash":"c1d7249b1a416b3c9d567a3c2f3223fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856767419
+        }
+    ],
+    "wof:id":856767419,
+    "wof:lastmodified":1464102141,
+    "wof:name":"Fourth Street Cafe",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.407912,
+    42.494044,
+    -96.407912,
+    42.494044
+],
+  "geometry": {"coordinates":[-96.407912,42.494044],"type":"Point"}
+}

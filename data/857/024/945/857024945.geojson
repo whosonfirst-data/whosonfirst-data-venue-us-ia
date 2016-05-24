@@ -1,0 +1,75 @@
+{
+  "id": 857024945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540378,41.66807,-91.540378,41.66807",
+    "geom:latitude":41.66807,
+    "geom:longitude":-91.540378,
+    "iso:country":"US",
+    "sg:address":"309 N Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 6079",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s9H6b1aX6fe6EmYYkA3vz_41.668070_-91.540378@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113411,
+    "wof:geomhash":"d6e281e64c9c7eb4a9d4ca4cfd040dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":857024945
+        }
+    ],
+    "wof:id":857024945,
+    "wof:lastmodified":1464113411,
+    "wof:name":"Delta Chi Fraternity",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -91.540378,
+    41.66807,
+    -91.540378,
+    41.66807
+],
+  "geometry": {"coordinates":[-91.540378,41.66807],"type":"Point"}
+}

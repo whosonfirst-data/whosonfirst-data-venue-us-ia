@@ -1,0 +1,75 @@
+{
+  "id": 856912483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.646723,41.498985,-90.646723,41.498985",
+    "geom:latitude":41.498985,
+    "geom:longitude":-90.646723,
+    "iso:country":"US",
+    "sg:address":"4812 Kimmel Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 322 4812",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "skateboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yWtgHEgp7UXDVlmxpl80g_41.498985_-90.646723@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108521,
+    "wof:geomhash":"37983d3dda151af96456e412c3cce628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856912483
+        }
+    ],
+    "wof:id":856912483,
+    "wof:lastmodified":1464108521,
+    "wof:name":"Rampage Skate Shop",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skateboard"
+    ]
+},
+  "bbox": [
+    -90.646723,
+    41.498985,
+    -90.646723,
+    41.498985
+],
+  "geometry": {"coordinates":[-90.64672299999999,41.498985],"type":"Point"}
+}

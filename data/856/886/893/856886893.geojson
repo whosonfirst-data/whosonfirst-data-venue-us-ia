@@ -1,0 +1,71 @@
+{
+  "id": 856886893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.631836,41.985784,-91.631836,41.985784",
+    "geom:latitude":41.985784,
+    "geom:longitude":-91.631836,
+    "iso:country":"US",
+    "sg:address":"367 Woodland Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1981",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qXsgPLUFExKU8WdBfzyin_41.985784_-91.631836@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107552,
+    "wof:geomhash":"fde8d3ca4ccf025c00af047497aff2c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856886893
+        }
+    ],
+    "wof:id":856886893,
+    "wof:lastmodified":1464107552,
+    "wof:name":"Blaine V Houmes MD PC",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.631836,
+    41.985784,
+    -91.631836,
+    41.985784
+],
+  "geometry": {"coordinates":[-91.63183600000001,41.985784],"type":"Point"}
+}

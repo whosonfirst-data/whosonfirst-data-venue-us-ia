@@ -1,0 +1,73 @@
+{
+  "id": 856789043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.163788,41.746407,-94.163788,41.746407",
+    "geom:latitude":41.746407,
+    "geom:longitude":-94.163788,
+    "iso:country":"US",
+    "sg:address":"1622 200th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4035",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_184FJiQDyzcmMoSI4pwFdx_41.746407_-94.163788@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102745,
+    "wof:geomhash":"a28bc8f3652fa9b8dbf989299e711867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856789043
+        }
+    ],
+    "wof:id":856789043,
+    "wof:lastmodified":1464102745,
+    "wof:name":"Dale England",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.163788,
+    41.746407,
+    -94.163788,
+    41.746407
+],
+  "geometry": {"coordinates":[-94.163788,41.746407],"type":"Point"}
+}

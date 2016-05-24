@@ -1,0 +1,77 @@
+{
+  "id": 857071209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7015,41.974499,-91.7015,41.974499",
+    "geom:latitude":41.974499,
+    "geom:longitude":-91.7015,
+    "iso:country":"US",
+    "sg:address":"2200 1st Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2463",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I7qUjyf6gfCtFOPJ5Fcpa_41.974499_-91.701500@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115382,
+    "wof:geomhash":"2ab58b8392124403cbdb5d5bc2dbee1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857071209
+        }
+    ],
+    "wof:id":857071209,
+    "wof:lastmodified":1464115382,
+    "wof:name":"Cleveland Elementary School",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.7015,
+    41.974499,
+    -91.7015,
+    41.974499
+],
+  "geometry": {"coordinates":[-91.7015,41.974499],"type":"Point"}
+}

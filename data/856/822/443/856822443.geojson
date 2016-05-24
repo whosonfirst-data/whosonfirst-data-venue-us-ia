@@ -1,0 +1,76 @@
+{
+  "id": 856822443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.695782,41.90467,-91.695782,41.90467",
+    "geom:latitude":41.90467,
+    "geom:longitude":-91.695782,
+    "iso:country":"US",
+    "sg:address":"7700 18th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 4000",
+    "sg:postcode":"52338",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "sg:website":"www.nordstrom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hqV6oG1kCHWgQQhmVwhRK_41.904670_-91.695782@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104205,
+    "wof:geomhash":"548fd7001292a2f6fb0a2e9306296478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856822443
+        }
+    ],
+    "wof:id":856822443,
+    "wof:lastmodified":1464104205,
+    "wof:name":"Nordstrom Direct",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -91.695782,
+    41.90467,
+    -91.695782,
+    41.90467
+],
+  "geometry": {"coordinates":[-91.69578199999999,41.90467],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856932925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105089,41.840376,-94.105089,41.840376",
+    "geom:latitude":41.840376,
+    "geom:longitude":-94.105089,
+    "iso:country":"US",
+    "sg:address":"1218 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 9027",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dd5G7bKBZjgIaioxmo9se_41.840376_-94.105089@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109356,
+    "wof:geomhash":"989f3df9002ff37179889dc064062d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856932925
+        }
+    ],
+    "wof:id":856932925,
+    "wof:lastmodified":1464109356,
+    "wof:name":"Res-Care Dallas County Comm",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -94.105089,
+    41.840376,
+    -94.105089,
+    41.840376
+],
+  "geometry": {"coordinates":[-94.10508900000001,41.840376],"type":"Point"}
+}

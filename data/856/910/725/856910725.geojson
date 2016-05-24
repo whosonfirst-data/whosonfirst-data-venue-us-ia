@@ -1,0 +1,71 @@
+{
+  "id": 856910725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.388845,42.353783,-96.388845,42.353783",
+    "geom:latitude":42.353783,
+    "geom:longitude":-96.388845,
+    "iso:country":"US",
+    "sg:address":"2416 Allison Ave",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 4379",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T7I28CRXrCPvLLrkx9eJ0_42.353783_-96.388845@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108457,
+    "wof:geomhash":"6bcbf58db487dbdcf5aa2bd5a61d432c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856910725
+        }
+    ],
+    "wof:id":856910725,
+    "wof:lastmodified":1464108457,
+    "wof:name":"Jacks Sales",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -96.388845,
+    42.353783,
+    -96.388845,
+    42.353783
+],
+  "geometry": {"coordinates":[-96.388845,42.353783],"type":"Point"}
+}

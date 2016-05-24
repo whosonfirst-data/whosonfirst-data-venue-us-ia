@@ -1,0 +1,73 @@
+{
+  "id": 857063041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.900221,41.262067,-95.900221,41.262067",
+    "geom:latitude":41.262067,
+    "geom:longitude":-95.900221,
+    "iso:country":"US",
+    "sg:address":"3434 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8274",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RoB8nVCJmFAdZbob6NNI6_41.262067_-95.900221@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115023,
+    "wof:geomhash":"a8141e1defc6eb9b50dcf7f27ec6c3e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063041
+        }
+    ],
+    "wof:id":857063041,
+    "wof:lastmodified":1464115023,
+    "wof:name":"Jennie Edmundson Hospital",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -95.900221,
+    41.262067,
+    -95.900221,
+    41.262067
+],
+  "geometry": {"coordinates":[-95.900221,41.262067],"type":"Point"}
+}

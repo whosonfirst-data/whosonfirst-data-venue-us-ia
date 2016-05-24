@@ -1,0 +1,74 @@
+{
+  "id": 857059475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658693,41.924511,-91.658693,41.924511",
+    "geom:latitude":41.924511,
+    "geom:longitude":-91.658693,
+    "iso:country":"US",
+    "sg:address":"35 Miller Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/154484-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 3899",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78p39Tx9suhc5XsdPAStbs_41.924511_-91.658693@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114879,
+    "wof:geomhash":"376e9ff9274ab4eeff242e7c9bda6149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857059475
+        }
+    ],
+    "wof:id":857059475,
+    "wof:lastmodified":1464114879,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.658693,
+    41.924511,
+    -91.658693,
+    41.924511
+],
+  "geometry": {"coordinates":[-91.658693,41.924511],"type":"Point"}
+}

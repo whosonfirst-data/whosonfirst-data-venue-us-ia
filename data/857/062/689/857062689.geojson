@@ -1,0 +1,66 @@
+{
+  "id": 857062689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902192,41.257796,-95.902192,41.257796",
+    "geom:latitude":41.257796,
+    "geom:longitude":-95.902192,
+    "iso:country":"US",
+    "sg:address":"430 S 35th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4303",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eDcq16SYvMjAAikqVrjCC_41.257796_-95.902192@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115011,
+    "wof:geomhash":"d9ae3f35b1e3f133d0e4b9b75e9c29a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062689
+        }
+    ],
+    "wof:id":857062689,
+    "wof:lastmodified":1464115011,
+    "wof:name":"D & J's Fuel Stop",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.902192,
+    41.257796,
+    -95.902192,
+    41.257796
+],
+  "geometry": {"coordinates":[-95.902192,41.257796],"type":"Point"}
+}

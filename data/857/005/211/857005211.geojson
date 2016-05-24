@@ -1,0 +1,71 @@
+{
+  "id": 857005211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.636146,41.984013,-91.636146,41.984013",
+    "geom:latitude":41.984013,
+    "geom:longitude":-91.636146,
+    "iso:country":"US",
+    "sg:address":"2214 Meadowbrook Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2560",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41XA111J6QGo13sDtCeBsH_41.984013_-91.636146@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112577,
+    "wof:geomhash":"d3bd0d6f2eb8c80f9b159830ad180075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857005211
+        }
+    ],
+    "wof:id":857005211,
+    "wof:lastmodified":1464112577,
+    "wof:name":"Hinker Decorating",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.636146,
+    41.984013,
+    -91.636146,
+    41.984013
+],
+  "geometry": {"coordinates":[-91.636146,41.984013],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857018131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.675986,41.482593,-93.675986,41.482593",
+    "geom:latitude":41.482593,
+    "geom:longitude":-93.675986,
+    "iso:country":"US",
+    "sg:address":"815 High Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 4269",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_634ch3BpoKEy2KNVens6LR_41.482593_-93.675986@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113123,
+    "wof:geomhash":"de5ad69ad6f16cf0c1cd0c38df713026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857018131
+        }
+    ],
+    "wof:id":857018131,
+    "wof:lastmodified":1464113123,
+    "wof:name":"Regency Care Ctr",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.675986,
+    41.482593,
+    -93.675986,
+    41.482593
+],
+  "geometry": {"coordinates":[-93.67598599999999,41.482593],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857069189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666115,42.022428,-91.666115,42.022428",
+    "geom:latitude":42.022428,
+    "geom:longitude":-91.666115,
+    "iso:country":"US",
+    "sg:address":"4357 Czech Ln NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 8565",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qz5ErCOyhgO4qPVQXAeVl_42.022428_-91.666115@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115295,
+    "wof:geomhash":"5739c09a25076713199bb616f9ade94d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069189
+        }
+    ],
+    "wof:id":857069189,
+    "wof:lastmodified":1464115295,
+    "wof:name":"Citywide Cleaners",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.666115,
+    42.022428,
+    -91.666115,
+    42.022428
+],
+  "geometry": {"coordinates":[-91.666115,42.022428],"type":"Point"}
+}

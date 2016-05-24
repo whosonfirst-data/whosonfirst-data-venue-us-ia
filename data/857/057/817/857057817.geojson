@@ -1,0 +1,78 @@
+{
+  "id": 857057817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.606104,41.628107,-93.606104,41.628107",
+    "geom:latitude":41.628107,
+    "geom:longitude":-93.606104,
+    "iso:country":"US",
+    "sg:address":"850 E Euclid Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/lee/180884-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 8063",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ni4dqrndu59Tl13pioTPg_41.628107_-93.606104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114816,
+    "wof:geomhash":"092ae2e18d13796216ab955c0f9dba95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":857057817
+        }
+    ],
+    "wof:id":857057817,
+    "wof:lastmodified":1464114816,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -93.606104,
+    41.628107,
+    -93.606104,
+    41.628107
+],
+  "geometry": {"coordinates":[-93.606104,41.628107],"type":"Point"}
+}

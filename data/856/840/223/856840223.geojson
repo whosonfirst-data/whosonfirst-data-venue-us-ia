@@ -1,0 +1,71 @@
+{
+  "id": 856840223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627807,42.027714,-91.627807,42.027714",
+    "geom:latitude":42.027714,
+    "geom:longitude":-91.627807,
+    "iso:country":"US",
+    "sg:address":"151 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1998",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZtQwavhgICntFGETTkxVV_42.027714_-91.627807@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105014,
+    "wof:geomhash":"61a412a6d70d9e4874157dc838b8773a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856840223
+        }
+    ],
+    "wof:id":856840223,
+    "wof:lastmodified":1464105014,
+    "wof:name":"Household Finance",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -91.627807,
+    42.027714,
+    -91.627807,
+    42.027714
+],
+  "geometry": {"coordinates":[-91.627807,42.027714],"type":"Point"}
+}

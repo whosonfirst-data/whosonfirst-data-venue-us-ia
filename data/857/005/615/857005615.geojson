@@ -1,0 +1,71 @@
+{
+  "id": 857005615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.840886,41.418458,-95.840886,41.418458",
+    "geom:latitude":41.418458,
+    "geom:longitude":-95.840886,
+    "iso:country":"US",
+    "sg:address":"28465 185th St",
+    "sg:city":"Honey Creek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3089",
+    "sg:postcode":"51542",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_316qYOjpywm7SZK2Ynzo43_41.418458_-95.840886@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112590,
+    "wof:geomhash":"556ece10753f8416bdac3973e2e4e800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857005615
+        }
+    ],
+    "wof:id":857005615,
+    "wof:lastmodified":1464112590,
+    "wof:name":"Macs Home Improvement & Repair",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.840886,
+    41.418458,
+    -95.840886,
+    41.418458
+],
+  "geometry": {"coordinates":[-95.840886,41.418458],"type":"Point"}
+}

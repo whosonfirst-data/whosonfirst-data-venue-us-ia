@@ -1,0 +1,71 @@
+{
+  "id": 856820459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.991241,41.535593,-93.991241,41.535593",
+    "geom:latitude":41.535593,
+    "geom:longitude":-93.991241,
+    "iso:country":"US",
+    "sg:address":"2484 347th St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 9066",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xIv7OeYoCCC2efJhYiq86_41.535593_-93.991241@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104121,
+    "wof:geomhash":"e160d87a3c47ed5db2e69eb75bd04d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856820459
+        }
+    ],
+    "wof:id":856820459,
+    "wof:lastmodified":1464104121,
+    "wof:name":"Brennan's Flower Farm Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -93.991241,
+    41.535593,
+    -93.991241,
+    41.535593
+],
+  "geometry": {"coordinates":[-93.991241,41.535593],"type":"Point"}
+}

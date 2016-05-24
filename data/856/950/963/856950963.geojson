@@ -1,0 +1,73 @@
+{
+  "id": 856950963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.641092,41.994572,-91.641092,41.994572",
+    "geom:latitude":41.994572,
+    "geom:longitude":-91.641092,
+    "iso:country":"US",
+    "sg:address":"1940 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5151",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09smw6qYVq7S2FZU2JONBx_41.994572_-91.641092@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110121,
+    "wof:geomhash":"377ec621df4d3e3e503f3f5424b20a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856950963
+        }
+    ],
+    "wof:id":856950963,
+    "wof:lastmodified":1464110121,
+    "wof:name":"Manor Care Health Svc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.641092,
+    41.994572,
+    -91.641092,
+    41.994572
+],
+  "geometry": {"coordinates":[-91.641092,41.994572],"type":"Point"}
+}

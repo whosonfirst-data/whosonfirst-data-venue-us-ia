@@ -1,0 +1,66 @@
+{
+  "id": 857048219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.871803,41.262001,-95.871803,41.262001",
+    "geom:latitude":41.262001,
+    "geom:longitude":-95.871803,
+    "iso:country":"US",
+    "sg:address":"1816 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1418",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MfQRwhUKwNlmmRzD4hnp4_41.261957_-95.871967@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114417,
+    "wof:geomhash":"b417183c45c0f1adf49f8640a73273bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857048219
+        }
+    ],
+    "wof:id":857048219,
+    "wof:lastmodified":1464114417,
+    "wof:name":"Bluffs Foot Clinic",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.871803,
+    41.262001,
+    -95.871803,
+    41.262001
+],
+  "geometry": {"coordinates":[-95.871803,41.262001],"type":"Point"}
+}

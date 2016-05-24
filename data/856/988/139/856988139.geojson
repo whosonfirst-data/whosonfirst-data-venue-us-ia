@@ -1,0 +1,73 @@
+{
+  "id": 856988139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.39792,41.302725,-95.39792,41.302725",
+    "geom:latitude":41.302725,
+    "geom:longitude":-95.39792,
+    "iso:country":"US",
+    "sg:address":"403 S Gates St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3255",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I3WFgsA7yG6fxzI7N9s4s_41.302725_-95.397920@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111875,
+    "wof:geomhash":"303eefd5f8516d165b5b47496049deb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856988139
+        }
+    ],
+    "wof:id":856988139,
+    "wof:lastmodified":1464111875,
+    "wof:name":"Sadie White",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.39792,
+    41.302725,
+    -95.39792,
+    41.302725
+],
+  "geometry": {"coordinates":[-95.39792,41.302725],"type":"Point"}
+}

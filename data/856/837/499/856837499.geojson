@@ -1,0 +1,68 @@
+{
+  "id": 856837499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.180148,43.045054,-91.180148,43.045054",
+    "geom:latitude":43.045054,
+    "geom:longitude":-91.180148,
+    "iso:country":"US",
+    "sg:address":"104 North St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 2014",
+    "sg:postcode":"52158",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wH6UL5enaLrFFM3gTmu9H_43.045054_-91.180148@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104891,
+    "wof:geomhash":"fc345bc4f270c57907f892fcdd4b3095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":856837499
+        }
+    ],
+    "wof:id":856837499,
+    "wof:lastmodified":1464104891,
+    "wof:name":"Hair Hut",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.180148,
+    43.045054,
+    -91.180148,
+    43.045054
+],
+  "geometry": {"coordinates":[-91.180148,43.045054],"type":"Point"}
+}

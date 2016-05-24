@@ -1,0 +1,74 @@
+{
+  "id": 857059477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715943,41.974844,-91.715943,41.974844",
+    "geom:latitude":41.974844,
+    "geom:longitude":-91.715943,
+    "iso:country":"US",
+    "sg:address":"324 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/154483-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2849",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cB7qmgY5xZx5cdrdKoKI8_41.974844_-91.715943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114879,
+    "wof:geomhash":"8053d3640ffd020b1a1f7d8147f9f9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857059477
+        }
+    ],
+    "wof:id":857059477,
+    "wof:lastmodified":1464114879,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.715943,
+    41.974844,
+    -91.715943,
+    41.974844
+],
+  "geometry": {"coordinates":[-91.715943,41.974844],"type":"Point"}
+}

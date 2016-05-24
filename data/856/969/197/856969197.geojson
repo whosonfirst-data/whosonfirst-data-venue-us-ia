@@ -1,0 +1,75 @@
+{
+  "id": 856969197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.62807,41.595239,-93.62807,41.595239",
+    "geom:latitude":41.595239,
+    "geom:longitude":-93.62807,
+    "iso:country":"US",
+    "sg:address":"901 8th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 8185",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RLxNUgUWGzToxdFC1xCXu_41.595239_-93.628070@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110934,
+    "wof:geomhash":"169a3530ca3f56a1f9698d10a9818cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896427,
+            "region_id":85688713,
+            "venue_id":856969197
+        }
+    ],
+    "wof:id":856969197,
+    "wof:lastmodified":1464110934,
+    "wof:name":"Beckley Automotive Svc",
+    "wof:parent_id":85896427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.62807,
+    41.595239,
+    -93.62807,
+    41.595239
+],
+  "geometry": {"coordinates":[-93.62806999999999,41.595239],"type":"Point"}
+}

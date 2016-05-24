@@ -1,0 +1,71 @@
+{
+  "id": 856830493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.026031,41.611063,-94.026031,41.611063",
+    "geom:latitude":41.611063,
+    "geom:longitude":-94.026031,
+    "iso:country":"US",
+    "sg:address":"735 S 14th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4259",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0K9YoYjScpxypu2eogd0_41.611063_-94.026031@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104530,
+    "wof:geomhash":"258b43def289f15226c5f411d7fe7184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856830493
+        }
+    ],
+    "wof:id":856830493,
+    "wof:lastmodified":1464104530,
+    "wof:name":"Mc Calley Funeral Home",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -94.026031,
+    41.611063,
+    -94.026031,
+    41.611063
+],
+  "geometry": {"coordinates":[-94.026031,41.611063],"type":"Point"}
+}

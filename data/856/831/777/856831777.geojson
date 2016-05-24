@@ -1,0 +1,73 @@
+{
+  "id": 856831777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682523,41.914219,-91.682523,41.914219",
+    "geom:latitude":41.914219,
+    "geom:longitude":-91.682523,
+    "iso:country":"US",
+    "sg:address":"1125 66th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5581",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vD7gSGvCIJEPCrkQqJhct_41.914219_-91.682523@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104595,
+    "wof:geomhash":"dd34bdeafed0155ab7625de2f8933a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856831777
+        }
+    ],
+    "wof:id":856831777,
+    "wof:lastmodified":1464104595,
+    "wof:name":"Seegers Truck & Trailer Repair",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.682523,
+    41.914219,
+    -91.682523,
+    41.914219
+],
+  "geometry": {"coordinates":[-91.682523,41.914219],"type":"Point"}
+}

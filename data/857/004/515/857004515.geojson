@@ -1,0 +1,71 @@
+{
+  "id": 857004515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.820558,41.284166,-95.820558,41.284166",
+    "geom:latitude":41.284166,
+    "geom:longitude":-95.820558,
+    "iso:country":"US",
+    "sg:address":"811 Mc Kenzie Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 0941",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bw8XNnKZCdmvG0Uob0RoY_41.284166_-95.820558@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112553,
+    "wof:geomhash":"620d2749d0eac71f5d9e56462b3762dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857004515
+        }
+    ],
+    "wof:id":857004515,
+    "wof:lastmodified":1464112553,
+    "wof:name":"Quick Construction",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.820558,
+    41.284166,
+    -95.820558,
+    41.284166
+],
+  "geometry": {"coordinates":[-95.82055800000001,41.284166],"type":"Point"}
+}

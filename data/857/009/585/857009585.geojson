@@ -1,0 +1,75 @@
+{
+  "id": 857009585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.198138,43.025225,-91.198138,43.025225",
+    "geom:latitude":43.025225,
+    "geom:longitude":-91.198138,
+    "iso:country":"US",
+    "sg:address":"30197 Eagle Dr",
+    "sg:city":"Mc Gregor",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 3864",
+    "sg:postcode":"52157",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QyLk2bX7o6JxODbtrruXo_43.025225_-91.198138@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112766,
+    "wof:geomhash":"150ba61737240777f8e32d1ff46d90b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":857009585
+        }
+    ],
+    "wof:id":857009585,
+    "wof:lastmodified":1464112766,
+    "wof:name":"Tom Sauer",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.198138,
+    43.025225,
+    -91.198138,
+    43.025225
+],
+  "geometry": {"coordinates":[-91.198138,43.025225],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857027829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.645108,41.533739,-93.645108,41.533739",
+    "geom:latitude":41.533739,
+    "geom:longitude":-93.645108,
+    "iso:country":"US",
+    "sg:address":"5600 Fleur Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 256 5330",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525803,
+        85896397,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85688713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58kSdYFBlKeAXTHviECSRw_41.533739_-93.645108@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113540,
+    "wof:geomhash":"cf7db9d38a7870613177d7cf8feefabf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525803,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896397,
+            "region_id":85688713,
+            "venue_id":857027829
+        }
+    ],
+    "wof:id":857027829,
+    "wof:lastmodified":1464113540,
+    "wof:name":"Signature Flight Support",
+    "wof:parent_id":102525803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -93.645108,
+    41.533739,
+    -93.645108,
+    41.533739
+],
+  "geometry": {"coordinates":[-93.64510799999999,41.533739],"type":"Point"}
+}

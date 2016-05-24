@@ -1,0 +1,73 @@
+{
+  "id": 856977429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672804,42.051807,-91.672804,42.051807",
+    "geom:latitude":42.051807,
+    "geom:longitude":-91.672804,
+    "iso:country":"US",
+    "sg:address":"1405 Robins Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6596",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77IgtTDr6sI94Y4emlq8ks_42.051807_-91.672804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111324,
+    "wof:geomhash":"5fc6d387edf96edcf042044e15590877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856977429
+        }
+    ],
+    "wof:id":856977429,
+    "wof:lastmodified":1464111324,
+    "wof:name":"Brown Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.672804,
+    42.051807,
+    -91.672804,
+    42.051807
+],
+  "geometry": {"coordinates":[-91.672804,42.051807],"type":"Point"}
+}

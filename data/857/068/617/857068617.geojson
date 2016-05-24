@@ -1,0 +1,72 @@
+{
+  "id": 857068617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664673,42.02971,-91.664673,42.02971",
+    "geom:latitude":42.02971,
+    "geom:longitude":-91.664673,
+    "iso:country":"US",
+    "sg:address":"1853 51st St NE Ste 1",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0709",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.abodeconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hfxHgOVsL8W081A5UFG8F_42.029710_-91.664673@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115272,
+    "wof:geomhash":"45bb92d211b7cf6a5859203757325220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068617
+        }
+    ],
+    "wof:id":857068617,
+    "wof:lastmodified":1464115272,
+    "wof:name":"Abode Construction",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.664673,
+    42.02971,
+    -91.664673,
+    42.02971
+],
+  "geometry": {"coordinates":[-91.66467299999999,42.02971],"type":"Point"}
+}

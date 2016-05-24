@@ -1,0 +1,73 @@
+{
+  "id": 856801895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.600489,42.041323,-91.600489,42.041323",
+    "geom:latitude":42.041323,
+    "geom:longitude":-91.600489,
+    "iso:country":"US",
+    "sg:address":"900 17th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1958",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f97I4lLnaLDsI4e1QlGpN_42.041323_-91.600489@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103269,
+    "wof:geomhash":"673a139470f643febae378d3b92b0e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856801895
+        }
+    ],
+    "wof:id":856801895,
+    "wof:lastmodified":1464103269,
+    "wof:name":"Robert Schuler",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -91.600489,
+    42.041323,
+    -91.600489,
+    42.041323
+],
+  "geometry": {"coordinates":[-91.600489,42.041323],"type":"Point"}
+}

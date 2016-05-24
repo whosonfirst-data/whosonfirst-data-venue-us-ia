@@ -1,0 +1,71 @@
+{
+  "id": 856898031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620708,41.668471,-93.620708,41.668471",
+    "geom:latitude":41.668471,
+    "geom:longitude":-93.620708,
+    "iso:country":"US",
+    "sg:address":"5940 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 1100",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lf8H7zSbM53mF3LtQk7Cc_41.668471_-93.620708@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107982,
+    "wof:geomhash":"b9f24512f0ce5884e21332008bb8c550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856898031
+        }
+    ],
+    "wof:id":856898031,
+    "wof:lastmodified":1464107982,
+    "wof:name":"D & D Propeller Repair",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -93.620708,
+    41.668471,
+    -93.620708,
+    41.668471
+],
+  "geometry": {"coordinates":[-93.62070799999999,41.668471],"type":"Point"}
+}

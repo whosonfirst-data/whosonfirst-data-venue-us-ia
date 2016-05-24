@@ -1,0 +1,74 @@
+{
+  "id": 857059447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655612,41.937607,-91.655612,41.937607",
+    "geom:latitude":41.937607,
+    "geom:longitude":-91.655612,
+    "iso:country":"US",
+    "sg:address":"130 41st Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/225799-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 247 1399",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62WNaKprB340t7eYZILYwA_41.937607_-91.655612@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114878,
+    "wof:geomhash":"e8d1da81efbdf650a5c35ef1b323a63b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857059447
+        }
+    ],
+    "wof:id":857059447,
+    "wof:lastmodified":1464114878,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.655612,
+    41.937607,
+    -91.655612,
+    41.937607
+],
+  "geometry": {"coordinates":[-91.655612,41.937607],"type":"Point"}
+}

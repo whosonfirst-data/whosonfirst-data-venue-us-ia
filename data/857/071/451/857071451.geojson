@@ -1,0 +1,66 @@
+{
+  "id": 857071451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.701401,42.0308,-91.701401,42.0308",
+    "geom:latitude":42.0308,
+    "geom:longitude":-91.701401,
+    "iso:country":"US",
+    "sg:address":"5000 Edgewood Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8693",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30vYlLHAzHvhsiQffwuSa7_42.030800_-91.701401@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115395,
+    "wof:geomhash":"40e1619fbe4050547ca6ad3c2ef7f713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857071451
+        }
+    ],
+    "wof:id":857071451,
+    "wof:lastmodified":1464115395,
+    "wof:name":"Commercial Federal Bank",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.701401,
+    42.0308,
+    -91.701401,
+    42.0308
+],
+  "geometry": {"coordinates":[-91.701401,42.0308],"type":"Point"}
+}

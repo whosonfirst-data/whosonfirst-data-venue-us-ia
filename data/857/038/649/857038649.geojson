@@ -1,0 +1,72 @@
+{
+  "id": 857038649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740069,41.976398,-91.740069,41.976398",
+    "geom:latitude":41.976398,
+    "geom:longitude":-91.740069,
+    "iso:country":"US",
+    "sg:address":"441 W Post Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2375",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.cr.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13dBDBbtblRvVRiEnuuETN_41.975963_-91.740035@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114036,
+    "wof:geomhash":"cb04eab74fdf07cd935206b5b547a87d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857038649
+        }
+    ],
+    "wof:id":857038649,
+    "wof:lastmodified":1464114036,
+    "wof:name":"Truman Elementary School",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.740069,
+    41.976398,
+    -91.740069,
+    41.976398
+],
+  "geometry": {"coordinates":[-91.74006900000001,41.976398],"type":"Point"}
+}

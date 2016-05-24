@@ -1,0 +1,77 @@
+{
+  "id": 856803887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.563091,41.681558,-91.563091,41.681558",
+    "geom:latitude":41.681558,
+    "geom:longitude":-91.563091,
+    "iso:country":"US",
+    "sg:address":"709 E 2nd Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 3005",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lx9bg1gfVCLMaYeODlia9_41.681558_-91.563091@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103357,
+    "wof:geomhash":"16129b153455a8f4761d1f0d846215f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":856803887
+        }
+    ],
+    "wof:id":856803887,
+    "wof:lastmodified":1464103357,
+    "wof:name":"Just Dogs Play Care Ctr",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.563091,
+    41.681558,
+    -91.563091,
+    41.681558
+],
+  "geometry": {"coordinates":[-91.563091,41.681558],"type":"Point"}
+}

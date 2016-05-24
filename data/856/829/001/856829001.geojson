@@ -1,0 +1,79 @@
+{
+  "id": 856829001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.393539,42.495252,-96.393539,42.495252",
+    "geom:latitude":42.495252,
+    "geom:longitude":-96.393539,
+    "iso:country":"US",
+    "sg:address":"407 Floyd Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 224 2845",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "care",
+        "health",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6esTEo8FzsIxxYfxR4R4Th_42.495252_-96.393539@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104471,
+    "wof:geomhash":"b9150c99b7b147425721c52223f3762a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856829001
+        }
+    ],
+    "wof:id":856829001,
+    "wof:lastmodified":1464104471,
+    "wof:name":"Continue CARE",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "care",
+        "health",
+        "home"
+    ]
+},
+  "bbox": [
+    -96.393539,
+    42.495252,
+    -96.393539,
+    42.495252
+],
+  "geometry": {"coordinates":[-96.393539,42.495252],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856806461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.640552,41.498807,-90.640552,41.498807",
+    "geom:latitude":41.498807,
+    "geom:longitude":-90.640552,
+    "iso:country":"US",
+    "sg:address":"4611 Kimmel Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 5226",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l3t6wpmxrGYgk9JtpX1wT_41.498807_-90.640552@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103472,
+    "wof:geomhash":"a6e7db6c6bac4265aa7ba3caded5e2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856806461
+        }
+    ],
+    "wof:id":856806461,
+    "wof:lastmodified":1464103472,
+    "wof:name":"Catch-Up Logistics",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.640552,
+    41.498807,
+    -90.640552,
+    41.498807
+],
+  "geometry": {"coordinates":[-90.640552,41.498807],"type":"Point"}
+}

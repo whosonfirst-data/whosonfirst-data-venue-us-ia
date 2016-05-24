@@ -1,0 +1,66 @@
+{
+  "id": 856983559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.914538,41.295877,-95.914538,41.295877",
+    "geom:latitude":41.295877,
+    "geom:longitude":-95.914538,
+    "iso:country":"US",
+    "sg:address":"4310 N 12th St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6502",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aUkOYmvrUJjK4dJXwi1Cb_41.295877_-95.914538@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111663,
+    "wof:geomhash":"4b103ab5389403520b0efa18deb09c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856983559
+        }
+    ],
+    "wof:id":856983559,
+    "wof:lastmodified":1464111663,
+    "wof:name":"Sandys Specialties",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.914538,
+    41.295877,
+    -95.914538,
+    41.295877
+],
+  "geometry": {"coordinates":[-95.91453799999999,41.295877],"type":"Point"}
+}

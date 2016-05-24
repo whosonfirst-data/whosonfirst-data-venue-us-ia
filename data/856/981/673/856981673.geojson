@@ -1,0 +1,71 @@
+{
+  "id": 856981673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.625194,42.048176,-91.625194,42.048176",
+    "geom:latitude":42.048176,
+    "geom:longitude":-91.625194,
+    "iso:country":"US",
+    "sg:address":"7015 Brentwood Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0534",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uf0wIycAt37D5b45kGdYs_42.048176_-91.625194@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111539,
+    "wof:geomhash":"94195848251128e0f23916feb5f8563f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856981673
+        }
+    ],
+    "wof:id":856981673,
+    "wof:lastmodified":1464111539,
+    "wof:name":"Longevity",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.625194,
+    42.048176,
+    -91.625194,
+    42.048176
+],
+  "geometry": {"coordinates":[-91.62519399999999,42.048176],"type":"Point"}
+}

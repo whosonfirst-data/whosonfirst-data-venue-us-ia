@@ -1,0 +1,71 @@
+{
+  "id": 857069697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634499,42.009899,-91.634499,42.009899",
+    "geom:latitude":42.009899,
+    "geom:longitude":-91.634499,
+    "iso:country":"US",
+    "sg:address":"123 32nd Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8125",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lWgyqmOKDPYt1CnzVqVQs_42.009899_-91.634499@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115312,
+    "wof:geomhash":"3745613df064089c9a6770f9865cfb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069697
+        }
+    ],
+    "wof:id":857069697,
+    "wof:lastmodified":1464115312,
+    "wof:name":"Ogden & Adams Lumber",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.634499,
+    42.009899,
+    -91.634499,
+    42.009899
+],
+  "geometry": {"coordinates":[-91.63449900000001,42.009899],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856832581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.592941,41.717418,-93.592941,41.717418",
+    "geom:latitude":41.717418,
+    "geom:longitude":-93.592941,
+    "iso:country":"US",
+    "sg:address":"1105 SE Cortina Dr",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 965 8615",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JfzJXUdZzkZKfW6z9fkrw_41.717418_-93.592941@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104639,
+    "wof:geomhash":"b500c7d8cdc15470836120b52d7ceae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896327,
+            "region_id":85688713,
+            "venue_id":856832581
+        }
+    ],
+    "wof:id":856832581,
+    "wof:lastmodified":1464104639,
+    "wof:name":"Mat Downstairs & Frame",
+    "wof:parent_id":85896327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.592941,
+    41.717418,
+    -93.592941,
+    41.717418
+],
+  "geometry": {"coordinates":[-93.592941,41.717418],"type":"Point"}
+}

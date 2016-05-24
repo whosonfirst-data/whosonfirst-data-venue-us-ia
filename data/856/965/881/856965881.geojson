@@ -1,0 +1,73 @@
+{
+  "id": 856965881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.520867,42.053886,-91.520867,42.053886",
+    "geom:latitude":42.053886,
+    "geom:longitude":-91.520867,
+    "iso:country":"US",
+    "sg:address":"2642 Hindman Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0903",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VczINKfKdapGaWPGuiPIn_42.053886_-91.520867@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110789,
+    "wof:geomhash":"237d327338c6d520ee9722e0d3f7288b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856965881
+        }
+    ],
+    "wof:id":856965881,
+    "wof:lastmodified":1464110789,
+    "wof:name":"Jeff Pospisil",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.520867,
+    42.053886,
+    -91.520867,
+    42.053886
+],
+  "geometry": {"coordinates":[-91.520867,42.053886],"type":"Point"}
+}

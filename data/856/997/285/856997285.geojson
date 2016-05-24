@@ -1,0 +1,68 @@
+{
+  "id": 856997285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.628245,41.678577,-93.628245,41.678577",
+    "geom:latitude":41.678577,
+    "geom:longitude":-93.628245,
+    "iso:country":"US",
+    "sg:address":"6543 NW 5th Ct",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 2169",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85945067,
+        102086603,
+        85847289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cid9VujJ4mAbJiGbYyike_41.678577_-93.628245@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112266,
+    "wof:geomhash":"8319454032c886c6fa33d0c51e1ea9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85945067,
+            "neighbourhood_id":85847289,
+            "region_id":85688713,
+            "venue_id":856997285
+        }
+    ],
+    "wof:id":856997285,
+    "wof:lastmodified":1464112266,
+    "wof:name":"Summit K9 Training",
+    "wof:parent_id":85847289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.628245,
+    41.678577,
+    -93.628245,
+    41.678577
+],
+  "geometry": {"coordinates":[-93.62824500000001,41.678577],"type":"Point"}
+}

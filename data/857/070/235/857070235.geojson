@@ -1,0 +1,74 @@
+{
+  "id": 857070235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.65471,41.937732,-91.65471,41.937732",
+    "geom:latitude":41.937732,
+    "geom:longitude":-91.65471,
+    "iso:country":"US",
+    "sg:address":"210 41st Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4139",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.tailsawaggn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FdfSoMsUUM9AurHf3xKIb_41.937732_-91.654710@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115344,
+    "wof:geomhash":"cbdb7f2e942b5f31a0cc73fb529bf072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070235
+        }
+    ],
+    "wof:id":857070235,
+    "wof:lastmodified":1464115344,
+    "wof:name":"Tails A Wagg'n Pet Resort",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.65471,
+    41.937732,
+    -91.65471,
+    41.937732
+],
+  "geometry": {"coordinates":[-91.65470999999999,41.937732],"type":"Point"}
+}

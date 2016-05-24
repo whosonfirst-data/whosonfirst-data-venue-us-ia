@@ -1,0 +1,84 @@
+{
+  "id": 857063383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.846932,41.261728,-95.846932,41.261728",
+    "geom:latitude":41.261728,
+    "geom:longitude":-95.846932,
+    "iso:country":"US",
+    "sg:address":"300 W Broadway Ste 712",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Playing Field",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 2561",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "fitness"
+    ],
+    "sg:website":"prairielandschiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gHCuzUpRNo6rewKY0HR1y_41.261728_-95.846932@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115035,
+    "wof:geomhash":"e4775da3e94fed565e45ce719bc6f553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063383
+        }
+    ],
+    "wof:id":857063383,
+    "wof:lastmodified":1464115035,
+    "wof:name":"Prairielands Chiropractic Clinic",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -95.846932,
+    41.261728,
+    -95.846932,
+    41.261728
+],
+  "geometry": {"coordinates":[-95.846932,41.261728],"type":"Point"}
+}

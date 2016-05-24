@@ -1,0 +1,66 @@
+{
+  "id": 857068115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.639099,42.006199,-91.639099,42.006199",
+    "geom:latitude":42.006199,
+    "geom:longitude":-91.639099,
+    "iso:country":"US",
+    "sg:address":"2701 1st Ave SE Ste 104",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5561",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NlXXM4vlRaWlQVplEd4Oe_42.006199_-91.639099@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115245,
+    "wof:geomhash":"6113f9afbf607eed0f34f2f4ea4488fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068115
+        }
+    ],
+    "wof:id":857068115,
+    "wof:lastmodified":1464115245,
+    "wof:name":"Dental Care Associates PC",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.639099,
+    42.006199,
+    -91.639099,
+    42.006199
+],
+  "geometry": {"coordinates":[-91.639099,42.006199],"type":"Point"}
+}

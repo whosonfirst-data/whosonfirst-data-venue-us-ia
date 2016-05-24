@@ -1,0 +1,71 @@
+{
+  "id": 857033915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.577492,42.044948,-91.577492,42.044948",
+    "geom:latitude":42.044948,
+    "geom:longitude":-91.577492,
+    "iso:country":"US",
+    "sg:address":"2225 Charleston Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 721 2601",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wmeTzEK0N5uSwblbnn33D_42.044948_-91.577492@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113817,
+    "wof:geomhash":"fc66d5dfc1bd86f64de0331d789ab972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857033915
+        }
+    ],
+    "wof:id":857033915,
+    "wof:lastmodified":1464113817,
+    "wof:name":"Doug Gire Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.577492,
+    42.044948,
+    -91.577492,
+    42.044948
+],
+  "geometry": {"coordinates":[-91.57749200000001,42.044948],"type":"Point"}
+}

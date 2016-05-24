@@ -1,0 +1,71 @@
+{
+  "id": 856987961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.940188,41.550142,-93.940188,41.550142",
+    "geom:latitude":41.550142,
+    "geom:longitude":-93.940188,
+    "iso:country":"US",
+    "sg:address":"2815 337th Ct",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 2513",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T4BLr6rJw66mCgq62mlWZ_41.550142_-93.940188@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111869,
+    "wof:geomhash":"313130982a3071ded4337e8631375d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856987961
+        }
+    ],
+    "wof:id":856987961,
+    "wof:lastmodified":1464111869,
+    "wof:name":"Uniquely Catered",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -93.940188,
+    41.550142,
+    -93.940188,
+    41.550142
+],
+  "geometry": {"coordinates":[-93.94018800000001,41.550142],"type":"Point"}
+}

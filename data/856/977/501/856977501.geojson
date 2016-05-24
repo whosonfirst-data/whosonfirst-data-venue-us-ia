@@ -1,0 +1,71 @@
+{
+  "id": 856977501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.75448,42.080478,-91.75448,42.080478",
+    "geom:latitude":42.080478,
+    "geom:longitude":-91.75448,
+    "iso:country":"US",
+    "sg:address":"7912 Morris Hills Rd",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4142",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TjCnMh1yZGsLdaMIQ07bn_42.080478_-91.754480@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111327,
+    "wof:geomhash":"98394f1eb78d256447e0c1953d63930d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856977501
+        }
+    ],
+    "wof:id":856977501,
+    "wof:lastmodified":1464111327,
+    "wof:name":"Miene Septic Svc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -91.75448,
+    42.080478,
+    -91.75448,
+    42.080478
+],
+  "geometry": {"coordinates":[-91.75448,42.080478],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856892005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865088,41.257167,-95.865088,41.257167",
+    "geom:latitude":41.257167,
+    "geom:longitude":-95.865088,
+    "iso:country":"US",
+    "sg:address":"1422 5th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 1303",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "x"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQ7yRQdB43eIZBSDpCiZn_41.257167_-95.865088@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107761,
+    "wof:geomhash":"c9d0ceaa9875ce8b74faff2ab2834a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856892005
+        }
+    ],
+    "wof:id":856892005,
+    "wof:lastmodified":1464107761,
+    "wof:name":"Midwest Industrial X-Ray Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x"
+    ]
+},
+  "bbox": [
+    -95.865088,
+    41.257167,
+    -95.865088,
+    41.257167
+],
+  "geometry": {"coordinates":[-95.865088,41.257167],"type":"Point"}
+}

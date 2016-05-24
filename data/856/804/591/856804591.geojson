@@ -1,0 +1,83 @@
+{
+  "id": 856804591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673164,41.97431,-91.673164,41.97431",
+    "geom:latitude":41.97431,
+    "geom:longitude":-91.673164,
+    "iso:country":"US",
+    "sg:address":"108 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5826",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wapeLjiR14BTWNoyaLjml_41.974310_-91.673164@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103385,
+    "wof:geomhash":"c2c31a0d933f40cd54772cff5942c8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856804591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856804591
+        }
+    ],
+    "wof:id":856804591,
+    "wof:lastmodified":1464103385,
+    "wof:name":"AAA Lederman Bail Bonds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -91.673164,
+    41.97431,
+    -91.673164,
+    41.97431
+],
+  "geometry": {"coordinates":[-91.673164,41.97431],"type":"Point"}
+}

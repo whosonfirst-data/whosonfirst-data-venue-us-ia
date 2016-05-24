@@ -1,0 +1,73 @@
+{
+  "id": 857001541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.722676,41.98564,-91.722676,41.98564",
+    "geom:latitude":41.98564,
+    "geom:longitude":-91.722676,
+    "iso:country":"US",
+    "sg:address":"4007 Jackson Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9053",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BnbGHzaEgZmQ8VJfT4PYB_41.985640_-91.722676@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112426,
+    "wof:geomhash":"c258da69824396de2a4be223b650671c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857001541
+        }
+    ],
+    "wof:id":857001541,
+    "wof:lastmodified":1464112426,
+    "wof:name":"David Masonry Const",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.722676,
+    41.98564,
+    -91.722676,
+    41.98564
+],
+  "geometry": {"coordinates":[-91.72267600000001,41.98564],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856803427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.866424,42.388269,-95.866424,42.388269",
+    "geom:latitude":42.388269,
+    "geom:longitude":-95.866424,
+    "iso:country":"US",
+    "sg:address":"201 E Main St",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 5521",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PpeFI7tQNGt6uAshaANGg_42.388269_-95.866424@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103339,
+    "wof:geomhash":"0f1ab4db2ef8eae1fa2f75efa5616484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856803427
+        }
+    ],
+    "wof:id":856803427,
+    "wof:lastmodified":1464103339,
+    "wof:name":"Little Country Store",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.866424,
+    42.388269,
+    -95.866424,
+    42.388269
+],
+  "geometry": {"coordinates":[-95.86642399999999,42.388269],"type":"Point"}
+}

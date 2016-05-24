@@ -1,0 +1,73 @@
+{
+  "id": 856869775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.385617,41.894292,-91.385617,41.894292",
+    "geom:latitude":41.894292,
+    "geom:longitude":-91.385617,
+    "iso:country":"US",
+    "sg:address":"382 Sutliff Rd",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2364",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rZixvNSbojTbYKXSAr0Ci_41.894292_-91.385617@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106499,
+    "wof:geomhash":"c619e75b2f1a85422be93ce2cbe5cc71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856869775
+        }
+    ],
+    "wof:id":856869775,
+    "wof:lastmodified":1464106499,
+    "wof:name":"Sutliff Cider Co",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.385617,
+    41.894292,
+    -91.385617,
+    41.894292
+],
+  "geometry": {"coordinates":[-91.385617,41.894292],"type":"Point"}
+}

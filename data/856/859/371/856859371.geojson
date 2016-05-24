@@ -1,0 +1,71 @@
+{
+  "id": 856859371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648669,42.040142,-91.648669,42.040142",
+    "geom:latitude":42.040142,
+    "geom:longitude":-91.648669,
+    "iso:country":"US",
+    "sg:address":"6045 Rockwell Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2727",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ObIWNV36mZj7dGVIr9GV4_42.040142_-91.648669@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105967,
+    "wof:geomhash":"c0f6a8afcace1452065b75206a162cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856859371
+        }
+    ],
+    "wof:id":856859371,
+    "wof:lastmodified":1464105967,
+    "wof:name":"Sieh & Co PC",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -91.648669,
+    42.040142,
+    -91.648669,
+    42.040142
+],
+  "geometry": {"coordinates":[-91.648669,42.040142],"type":"Point"}
+}

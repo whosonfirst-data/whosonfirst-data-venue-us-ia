@@ -1,0 +1,66 @@
+{
+  "id": 857062795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.855202,41.228199,-95.855202,41.228199",
+    "geom:latitude":41.228199,
+    "geom:longitude":-95.855202,
+    "iso:country":"US",
+    "sg:address":"807 32nd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 3300",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06c1NKoYl0CGa7VxYH6FOs_41.228199_-95.855202@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115015,
+    "wof:geomhash":"ac71dccbeea09a1359e7a6cc7c21b1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062795
+        }
+    ],
+    "wof:id":857062795,
+    "wof:lastmodified":1464115015,
+    "wof:name":"Acme Real Estate",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.855202,
+    41.228199,
+    -95.855202,
+    41.228199
+],
+  "geometry": {"coordinates":[-95.85520200000001,41.228199],"type":"Point"}
+}

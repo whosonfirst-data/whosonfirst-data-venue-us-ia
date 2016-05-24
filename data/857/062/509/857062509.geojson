@@ -1,0 +1,73 @@
+{
+  "id": 857062509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.872446,41.261907,-95.872446,41.261907",
+    "geom:latitude":41.261907,
+    "geom:longitude":-95.872446,
+    "iso:country":"US",
+    "sg:address":"1922 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 9045",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FPyW1JSoCjGWGDKYWWN4I_41.261907_-95.872446@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115005,
+    "wof:geomhash":"4c910ecc341c501cfadf2a11417a2469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062509
+        }
+    ],
+    "wof:id":857062509,
+    "wof:lastmodified":1464115005,
+    "wof:name":"Comic City Arcade",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -95.872446,
+    41.261907,
+    -95.872446,
+    41.261907
+],
+  "geometry": {"coordinates":[-95.872446,41.261907],"type":"Point"}
+}

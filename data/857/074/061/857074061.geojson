@@ -1,0 +1,80 @@
+{
+  "id": 857074061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.651308,41.486928,-90.651308,41.486928",
+    "geom:latitude":41.486928,
+    "geom:longitude":-90.651308,
+    "iso:country":"US",
+    "sg:address":"5319 Rockingham Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 4056",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "moving-self",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kyeL0R6Dof3ngJ3Ay3i1R_41.486928_-90.651308@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115524,
+    "wof:geomhash":"2ae4f5cc7a61c0970caae07cdf1e5b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857074061
+        }
+    ],
+    "wof:id":857074061,
+    "wof:lastmodified":1464115524,
+    "wof:name":"McCoy Nationalease",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "truck"
+    ]
+},
+  "bbox": [
+    -90.651308,
+    41.486928,
+    -90.651308,
+    41.486928
+],
+  "geometry": {"coordinates":[-90.651308,41.486928],"type":"Point"}
+}

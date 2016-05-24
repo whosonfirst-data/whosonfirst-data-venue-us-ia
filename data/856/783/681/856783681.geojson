@@ -1,0 +1,73 @@
+{
+  "id": 856783681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.416652,42.502333,-96.416652,42.502333",
+    "geom:latitude":42.502333,
+    "geom:longitude":-96.416652,
+    "iso:country":"US",
+    "sg:address":"701 W 7th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 2408",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vqVT7k8ZyO7K6Er9iLI0n_42.502333_-96.416652@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102515,
+    "wof:geomhash":"ce8f6bef0f2c6bb10025112ce940cdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856783681
+        }
+    ],
+    "wof:id":856783681,
+    "wof:lastmodified":1464102515,
+    "wof:name":"West 7th Street Auto Svc Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.416652,
+    42.502333,
+    -96.416652,
+    42.502333
+],
+  "geometry": {"coordinates":[-96.416652,42.502333],"type":"Point"}
+}

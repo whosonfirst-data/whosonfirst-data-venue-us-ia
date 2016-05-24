@@ -1,0 +1,75 @@
+{
+  "id": 857028585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.584727,41.708615,-93.584727,41.708615",
+    "geom:latitude":41.708615,
+    "geom:longitude":-93.584727,
+    "iso:country":"US",
+    "sg:address":"1118 SE Lorenz Dr",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 7215",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bij4FERpp4J8X08CePu00_41.708615_-93.584727@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113578,
+    "wof:geomhash":"3bb9ad9ae36102c532369534fbef1cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896319,
+            "region_id":85688713,
+            "venue_id":857028585
+        }
+    ],
+    "wof:id":857028585,
+    "wof:lastmodified":1464113578,
+    "wof:name":"Innovative Mechanical Svc",
+    "wof:parent_id":85896319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.584727,
+    41.708615,
+    -93.584727,
+    41.708615
+],
+  "geometry": {"coordinates":[-93.584727,41.708615],"type":"Point"}
+}

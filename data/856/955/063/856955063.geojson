@@ -1,0 +1,71 @@
+{
+  "id": 856955063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.643833,41.864896,-91.643833,41.864896",
+    "geom:latitude":41.864896,
+    "geom:longitude":-91.643833,
+    "iso:country":"US",
+    "sg:address":"1107 Western College Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 7168",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944173,
+        102086417,
+        85848627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NT2cK8aZINC7qDFmIlo0A_41.864896_-91.643833@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110325,
+    "wof:geomhash":"4de10f8b4fb56a263c1dcfc04dbe4d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944173,
+            "neighbourhood_id":85848627,
+            "region_id":85688713,
+            "venue_id":856955063
+        }
+    ],
+    "wof:id":856955063,
+    "wof:lastmodified":1464110325,
+    "wof:name":"Dels Auto Body",
+    "wof:parent_id":85848627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.643833,
+    41.864896,
+    -91.643833,
+    41.864896
+],
+  "geometry": {"coordinates":[-91.643833,41.864896],"type":"Point"}
+}

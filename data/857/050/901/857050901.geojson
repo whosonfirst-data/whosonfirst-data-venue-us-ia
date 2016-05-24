@@ -1,0 +1,71 @@
+{
+  "id": 857050901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901901,41.260601,-95.901901,41.260601",
+    "geom:latitude":41.260601,
+    "geom:longitude":-95.901901,
+    "iso:country":"US",
+    "sg:address":"127 S 35th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7500",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mtyF6n3ouRPllLTlSciRd_41.260053_-95.901968@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114545,
+    "wof:geomhash":"b87fa3b34829e9b2eb612cd4b7e498f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857050901
+        }
+    ],
+    "wof:id":857050901,
+    "wof:lastmodified":1464114545,
+    "wof:name":"Financial Express Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -95.901901,
+    41.260601,
+    -95.901901,
+    41.260601
+],
+  "geometry": {"coordinates":[-95.901901,41.260601],"type":"Point"}
+}

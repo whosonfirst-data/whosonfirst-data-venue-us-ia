@@ -1,0 +1,71 @@
+{
+  "id": 857071139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7062,41.9804,-91.7062,41.9804",
+    "geom:latitude":41.9804,
+    "geom:longitude":-91.7062,
+    "iso:country":"US",
+    "sg:address":"3200 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1947",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BAumAWXddbtLvcqhllRmx_41.980400_-91.706200@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115380,
+    "wof:geomhash":"448015003885764f7283167fde6c8126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071139
+        }
+    ],
+    "wof:id":857071139,
+    "wof:lastmodified":1464115380,
+    "wof:name":"Family Foot Care Center Plc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [
+    -91.7062,
+    41.9804,
+    -91.7062,
+    41.9804
+],
+  "geometry": {"coordinates":[-91.7062,41.9804],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857069869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.628098,41.9757,-91.628098,41.9757",
+    "geom:latitude":41.9757,
+    "geom:longitude":-91.628098,
+    "iso:country":"US",
+    "sg:address":"1030 Memorial Dr SE Ofc",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8444",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D7RgOch08r2zvKE1KhGvk_41.975700_-91.628098@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115327,
+    "wof:geomhash":"9e14acaa977cd24a9f652ef0ebd62712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069869
+        }
+    ],
+    "wof:id":857069869,
+    "wof:lastmodified":1464115327,
+    "wof:name":"Meadows Apartments",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.628098,
+    41.9757,
+    -91.628098,
+    41.9757
+],
+  "geometry": {"coordinates":[-91.62809799999999,41.9757],"type":"Point"}
+}

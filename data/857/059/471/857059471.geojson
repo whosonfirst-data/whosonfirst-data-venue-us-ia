@@ -1,0 +1,75 @@
+{
+  "id": 857059471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676346,41.943041,-91.676346,41.943041",
+    "geom:latitude":41.943041,
+    "geom:longitude":-91.676346,
+    "iso:country":"US",
+    "sg:address":"610 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/202647-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yOf3lfaZemWvovcVI6E7x_41.943041_-91.676346@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114879,
+    "wof:geomhash":"2a12fd99c0b9bc1e26480d9c894946d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857059471
+        }
+    ],
+    "wof:id":857059471,
+    "wof:lastmodified":1464114879,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.676346,
+    41.943041,
+    -91.676346,
+    41.943041
+],
+  "geometry": {"coordinates":[-91.676346,41.943041],"type":"Point"}
+}

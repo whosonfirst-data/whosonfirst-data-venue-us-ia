@@ -1,0 +1,73 @@
+{
+  "id": 856830211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.393377,42.494064,-96.393377,42.494064",
+    "geom:latitude":42.494064,
+    "geom:longitude":-96.393377,
+    "iso:country":"US",
+    "sg:address":"316 Floyd Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1938",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sBMjVuufKMLb1QvhbJked_42.494064_-96.393377@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104519,
+    "wof:geomhash":"aa9a3392ef7c34c0ba8670e144233e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856830211
+        }
+    ],
+    "wof:id":856830211,
+    "wof:lastmodified":1464104519,
+    "wof:name":"Action Moving & Storage",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -96.393377,
+    42.494064,
+    -96.393377,
+    42.494064
+],
+  "geometry": {"coordinates":[-96.393377,42.494064],"type":"Point"}
+}

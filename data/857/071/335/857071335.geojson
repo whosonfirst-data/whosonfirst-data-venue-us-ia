@@ -1,0 +1,71 @@
+{
+  "id": 857071335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715797,41.974998,-91.715797,41.974998",
+    "geom:latitude":41.974998,
+    "geom:longitude":-91.715797,
+    "iso:country":"US",
+    "sg:address":"340 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2837",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55GYyQLxFHrWpUI5ROYWoX_41.974998_-91.715797@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115391,
+    "wof:geomhash":"9badd701f1ebd16efdb02c87eb824712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071335
+        }
+    ],
+    "wof:id":857071335,
+    "wof:lastmodified":1464115391,
+    "wof:name":"Edgewood Hardware Store",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.715797,
+    41.974998,
+    -91.715797,
+    41.974998
+],
+  "geometry": {"coordinates":[-91.71579699999999,41.974998],"type":"Point"}
+}

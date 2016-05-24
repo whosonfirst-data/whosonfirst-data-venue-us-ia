@@ -1,0 +1,72 @@
+{
+  "id": 856878807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.644168,42.028269,-91.644168,42.028269",
+    "geom:latitude":42.028269,
+    "geom:longitude":-91.644168,
+    "iso:country":"US",
+    "sg:address":"727 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9570",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.eastview.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oHjdb3g0Ohu8Hy1NWQJsr_42.028269_-91.644168@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107110,
+    "wof:geomhash":"1e410ea9803c607d629bd7db496faeef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856878807
+        }
+    ],
+    "wof:id":856878807,
+    "wof:lastmodified":1464107110,
+    "wof:name":"Eastview Christian Church",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.644168,
+    42.028269,
+    -91.644168,
+    42.028269
+],
+  "geometry": {"coordinates":[-91.64416799999999,42.028269],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856884913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.368285,42.430377,-96.368285,42.430377",
+    "geom:latitude":42.430377,
+    "geom:longitude":-96.368285,
+    "iso:country":"US",
+    "sg:address":"4400 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 6500",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.wilsontrailer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H8TxZUJrua4zLnK8hdKyJ_42.430377_-96.368285@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107466,
+    "wof:geomhash":"c76709181f57ee7a4a38dfec11348b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856884913
+        }
+    ],
+    "wof:id":856884913,
+    "wof:lastmodified":1464107466,
+    "wof:name":"Wilson Trailer Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.368285,
+    42.430377,
+    -96.368285,
+    42.430377
+],
+  "geometry": {"coordinates":[-96.368285,42.430377],"type":"Point"}
+}

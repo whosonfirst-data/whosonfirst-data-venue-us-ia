@@ -1,0 +1,75 @@
+{
+  "id": 857052469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.640701,41.995098,-91.640701,41.995098",
+    "geom:latitude":41.995098,
+    "geom:longitude":-91.640701,
+    "iso:country":"US",
+    "sg:address":"118 20th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2123",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor",
+        "doctor",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A4Aya64q8vleDLW18O63Z_41.995464_-91.641541@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114595,
+    "wof:geomhash":"5e63a94377cf2f8bb06451d40bf88bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857052469
+        }
+    ],
+    "wof:id":857052469,
+    "wof:lastmodified":1464114595,
+    "wof:name":"B & B Precision Painting",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "doctor",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -91.640701,
+    41.995098,
+    -91.640701,
+    41.995098
+],
+  "geometry": {"coordinates":[-91.64070100000001,41.995098],"type":"Point"}
+}

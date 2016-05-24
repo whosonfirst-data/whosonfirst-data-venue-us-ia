@@ -1,0 +1,77 @@
+{
+  "id": 857074001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6386,41.500359,-90.6386,41.500359",
+    "geom:latitude":41.500359,
+    "geom:longitude":-90.6386,
+    "iso:country":"US",
+    "sg:address":"1905 S Stark St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 322 1791",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55VE6LDARKZSjm71mPUixJ_41.500359_-90.638600@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115522,
+    "wof:geomhash":"135943827303f8e4691c74e5e4cf9bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857074001
+        }
+    ],
+    "wof:id":857074001,
+    "wof:lastmodified":1464115522,
+    "wof:name":"Dr Pepper Snapple Group",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -90.6386,
+    41.500359,
+    -90.6386,
+    41.500359
+],
+  "geometry": {"coordinates":[-90.6386,41.500359],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856911243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.568671,42.03255,-91.568671,42.03255",
+    "geom:latitude":42.03255,
+    "geom:longitude":-91.568671,
+    "iso:country":"US",
+    "sg:address":"203 Derek Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 3800",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4piIpWiRhGWGDfKy7bNbs8_42.032550_-91.568671@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108473,
+    "wof:geomhash":"c86de0f1e922eda13db60edcc72d60e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856911243
+        }
+    ],
+    "wof:id":856911243,
+    "wof:lastmodified":1464108473,
+    "wof:name":"Westons Word Works",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -91.568671,
+    42.03255,
+    -91.568671,
+    42.03255
+],
+  "geometry": {"coordinates":[-91.56867099999999,42.03255],"type":"Point"}
+}

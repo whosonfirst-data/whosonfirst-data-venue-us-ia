@@ -1,0 +1,71 @@
+{
+  "id": 856959941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.48144,41.648145,-93.48144,41.648145",
+    "geom:latitude":41.648145,
+    "geom:longitude":-93.48144,
+    "iso:country":"US",
+    "sg:address":"1509 4th St SW",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 967 2442",
+    "sg:postcode":"50009",
+    "sg:province":"IA",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944133,
+        102086603,
+        85896309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V91sEV4ot1VWSwrPp7PhF_41.648145_-93.481440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110543,
+    "wof:geomhash":"03137e0aad2ab8005a7a53d61beb9b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944133,
+            "neighbourhood_id":85896309,
+            "region_id":85688713,
+            "venue_id":856959941
+        }
+    ],
+    "wof:id":856959941,
+    "wof:lastmodified":1464110543,
+    "wof:name":"Out Of The Wood",
+    "wof:parent_id":85896309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -93.48144,
+    41.648145,
+    -93.48144,
+    41.648145
+],
+  "geometry": {"coordinates":[-93.48144000000001,41.648145],"type":"Point"}
+}

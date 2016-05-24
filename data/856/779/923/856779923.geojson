@@ -1,0 +1,75 @@
+{
+  "id": 856779923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.609713,41.515865,-90.609713,41.515865",
+    "geom:latitude":41.515865,
+    "geom:longitude":-90.609713,
+    "iso:country":"US",
+    "sg:address":"2201 Rockingham Rd",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 322 8152",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xjH8o66YtrljaitjnpJmb_41.515865_-90.609713@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102440,
+    "wof:geomhash":"15cc5bae2b13be60a9506068641d239d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856779923
+        }
+    ],
+    "wof:id":856779923,
+    "wof:lastmodified":1464102440,
+    "wof:name":"Midwest Auto Care",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.609713,
+    41.515865,
+    -90.609713,
+    41.515865
+],
+  "geometry": {"coordinates":[-90.609713,41.515865],"type":"Point"}
+}

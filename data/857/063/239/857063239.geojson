@@ -1,0 +1,77 @@
+{
+  "id": 857063239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.84849,41.255394,-95.84849,41.255394",
+    "geom:latitude":41.255394,
+    "geom:longitude":-95.84849,
+    "iso:country":"US",
+    "sg:address":"313 Story St Ste 1",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 6655",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.oursaviorscb.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mwYcxkeaKAgt5iA6XAGsd_41.255394_-95.848490@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115030,
+    "wof:geomhash":"f5edb5e3d1b184ea24f3fb1611ab6ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063239
+        }
+    ],
+    "wof:id":857063239,
+    "wof:lastmodified":1464115030,
+    "wof:name":"Our Savior's Lutheran Church Elca",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.84849,
+    41.255394,
+    -95.84849,
+    41.255394
+],
+  "geometry": {"coordinates":[-95.84849,41.255394],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857069771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.597801,41.9771,-91.597801,41.9771",
+    "geom:latitude":41.9771,
+    "geom:longitude":-91.597801,
+    "iso:country":"US",
+    "sg:address":"4217 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1764",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v7vNr3ltq5XDsFOdxDRTs_41.977100_-91.597801@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115320,
+    "wof:geomhash":"6f911191e16bc32b0dc32f266c652077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069771
+        }
+    ],
+    "wof:id":857069771,
+    "wof:lastmodified":1464115320,
+    "wof:name":"Mt Vernon Road Tire Co",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.597801,
+    41.9771,
+    -91.597801,
+    41.9771
+],
+  "geometry": {"coordinates":[-91.597801,41.9771],"type":"Point"}
+}

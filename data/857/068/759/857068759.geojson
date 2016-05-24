@@ -1,0 +1,67 @@
+{
+  "id": 857068759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662077,42.010437,-91.662077,42.010437",
+    "geom:latitude":42.010437,
+    "geom:longitude":-91.662077,
+    "iso:country":"US",
+    "sg:address":"1615 32nd St NE Ste 1",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 2323",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.premierdds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sMteVqgyNlW9nyHh0TGPq_42.010437_-91.662077@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115280,
+    "wof:geomhash":"2391ae50b90631179a37621db0d2a18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068759
+        }
+    ],
+    "wof:id":857068759,
+    "wof:lastmodified":1464115280,
+    "wof:name":"Premier Dental",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.662077,
+    42.010437,
+    -91.662077,
+    42.010437
+],
+  "geometry": {"coordinates":[-91.662077,42.010437],"type":"Point"}
+}

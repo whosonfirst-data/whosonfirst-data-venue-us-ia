@@ -1,0 +1,71 @@
+{
+  "id": 856991447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.575622,41.738405,-91.575622,41.738405",
+    "geom:latitude":41.738405,
+    "geom:longitude":-91.575622,
+    "iso:country":"US",
+    "sg:address":"2698 N Liberty Rd NE",
+    "sg:city":"North Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 665 8111",
+    "sg:postcode":"52317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896499,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zOdeJAfWptwINnayk7fFX_41.738405_-91.575622@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112031,
+    "wof:geomhash":"4bb737d94a6a91219ca2bf71f7a6c7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896499,
+            "region_id":85688713,
+            "venue_id":856991447
+        }
+    ],
+    "wof:id":856991447,
+    "wof:lastmodified":1464112031,
+    "wof:name":"Baxter Construction Inc",
+    "wof:parent_id":85896499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.575622,
+    41.738405,
+    -91.575622,
+    41.738405
+],
+  "geometry": {"coordinates":[-91.575622,41.738405],"type":"Point"}
+}

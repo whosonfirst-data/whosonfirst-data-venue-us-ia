@@ -1,0 +1,73 @@
+{
+  "id": 856938543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724476,41.959134,-91.724476,41.959134",
+    "geom:latitude":41.959134,
+    "geom:longitude":-91.724476,
+    "iso:country":"US",
+    "sg:address":"4049 21st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 9442",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06wnItrlh1kHTq6UZq8F04_41.959134_-91.724476@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109601,
+    "wof:geomhash":"762d755cb540a87ddfcbf15585a388a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856938543
+        }
+    ],
+    "wof:id":856938543,
+    "wof:lastmodified":1464109601,
+    "wof:name":"Heritage Micro Film Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -91.724476,
+    41.959134,
+    -91.724476,
+    41.959134
+],
+  "geometry": {"coordinates":[-91.724476,41.959134],"type":"Point"}
+}

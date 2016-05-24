@@ -1,0 +1,73 @@
+{
+  "id": 856830011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850947,41.256153,-95.850947,41.256153",
+    "geom:latitude":41.256153,
+    "geom:longitude":-95.850947,
+    "iso:country":"US",
+    "sg:address":"509 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 6914",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IrhM5Xf7J00O2btKggf4V_41.256153_-95.850947@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104512,
+    "wof:geomhash":"d2d81d971d0eacf7fcd4571011da803e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856830011
+        }
+    ],
+    "wof:id":856830011,
+    "wof:lastmodified":1464104512,
+    "wof:name":"Richardson Sales & Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -95.850947,
+    41.256153,
+    -95.850947,
+    41.256153
+],
+  "geometry": {"coordinates":[-95.85094700000001,41.256153],"type":"Point"}
+}

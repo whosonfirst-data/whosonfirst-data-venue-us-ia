@@ -1,0 +1,73 @@
+{
+  "id": 857033089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.770565,41.264236,-95.770565,41.264236",
+    "geom:latitude":41.264236,
+    "geom:longitude":-95.770565,
+    "iso:country":"US",
+    "sg:address":"21855 McPherson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4590",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yVK35yVI5OazQHZu5iRTK_41.264236_-95.770565@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113784,
+    "wof:geomhash":"33f49425d342a12c335a5a539ef26c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857033089
+        }
+    ],
+    "wof:id":857033089,
+    "wof:lastmodified":1464113784,
+    "wof:name":"ABC Electric Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.770565,
+    41.264236,
+    -95.770565,
+    41.264236
+],
+  "geometry": {"coordinates":[-95.770565,41.264236],"type":"Point"}
+}

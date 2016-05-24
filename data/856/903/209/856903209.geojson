@@ -1,0 +1,71 @@
+{
+  "id": 856903209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.78737,42.474862,-95.78737,42.474862",
+    "geom:latitude":42.474862,
+    "geom:longitude":-95.78737,
+    "iso:country":"US",
+    "sg:address":"302 5th St",
+    "sg:city":"Correctionville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 372 4401",
+    "sg:postcode":"51016",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jlyeb5M90oocx2QuPNWA2_42.474862_-95.787370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108163,
+    "wof:geomhash":"e40594fbe01b2cac7b80e33ca6ebe5ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856903209
+        }
+    ],
+    "wof:id":856903209,
+    "wof:lastmodified":1464108163,
+    "wof:name":"Barker Funeral Homes",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -95.78737,
+    42.474862,
+    -95.78737,
+    42.474862
+],
+  "geometry": {"coordinates":[-95.78737,42.474862],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856822089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.69617,41.981085,-91.69617,41.981085",
+    "geom:latitude":41.981085,
+    "geom:longitude":-91.69617,
+    "iso:country":"US",
+    "sg:address":"801 18th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0176",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51yauM4cGlW3bIpMzshw29_41.981085_-91.696170@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104190,
+    "wof:geomhash":"1569350afb1d443ddb123a2c9d364fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856822089
+        }
+    ],
+    "wof:id":856822089,
+    "wof:lastmodified":1464104190,
+    "wof:name":"Ricks Lawn & Leaf",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.69617,
+    41.981085,
+    -91.69617,
+    41.981085
+],
+  "geometry": {"coordinates":[-91.69617,41.981085],"type":"Point"}
+}

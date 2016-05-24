@@ -1,0 +1,73 @@
+{
+  "id": 857002647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.562302,41.36033,-93.562302,41.36033",
+    "geom:latitude":41.36033,
+    "geom:longitude":-93.562302,
+    "iso:country":"US",
+    "sg:address":"101 N Buxton St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9029",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "smoke",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfatfe1muKA3denbgTrJB_41.360330_-93.562302@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112476,
+    "wof:geomhash":"b175e383f7f1e05ca017ab69df2e2d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857002647
+        }
+    ],
+    "wof:id":857002647,
+    "wof:lastmodified":1464112476,
+    "wof:name":"Corner Sundry Store",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "smoke",
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.562302,
+    41.36033,
+    -93.562302,
+    41.36033
+],
+  "geometry": {"coordinates":[-93.562302,41.36033],"type":"Point"}
+}

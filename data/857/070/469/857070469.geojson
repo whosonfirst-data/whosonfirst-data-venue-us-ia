@@ -1,0 +1,71 @@
+{
+  "id": 857070469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740402,41.957298,-91.740402,41.957298",
+    "geom:latitude":41.957298,
+    "geom:longitude":-91.740402,
+    "iso:country":"US",
+    "sg:address":"2201 W Post Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 4444",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bHe8D4UZQwJjmhLVLAlxn_41.957298_-91.740402@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115358,
+    "wof:geomhash":"5b53cbb2da645f1b8dc27310caf98011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070469
+        }
+    ],
+    "wof:id":857070469,
+    "wof:lastmodified":1464115358,
+    "wof:name":"Adams West Post Storage",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self"
+    ]
+},
+  "bbox": [
+    -91.740402,
+    41.957298,
+    -91.740402,
+    41.957298
+],
+  "geometry": {"coordinates":[-91.740402,41.957298],"type":"Point"}
+}

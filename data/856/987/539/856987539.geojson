@@ -1,0 +1,71 @@
+{
+  "id": 856987539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.603155,42.073948,-91.603155,42.073948",
+    "geom:latitude":42.073948,
+    "geom:longitude":-91.603155,
+    "iso:country":"US",
+    "sg:address":"5531 Cimarron Ct",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 651 4488",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VGGubdyr6asC3ebSrlReZ_42.073948_-91.603155@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111855,
+    "wof:geomhash":"0c0098adddee12ed76f6046dc43206f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856987539
+        }
+    ],
+    "wof:id":856987539,
+    "wof:lastmodified":1464111855,
+    "wof:name":"Cutting Edge Rescue Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.603155,
+    42.073948,
+    -91.603155,
+    42.073948
+],
+  "geometry": {"coordinates":[-91.603155,42.073948],"type":"Point"}
+}

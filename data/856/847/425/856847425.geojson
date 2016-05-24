@@ -1,0 +1,83 @@
+{
+  "id": 856847425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673702,41.972955,-91.673702,41.972955",
+    "geom:latitude":41.972955,
+    "geom:longitude":-91.673702,
+    "iso:country":"US",
+    "sg:address":"218 4th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5841",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "label"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jnDaV9kAOG2rm6yjlALY7_41.972955_-91.673702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105360,
+    "wof:geomhash":"601a57ac51e970449f963a8ad8aa5812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856847425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856847425
+        }
+    ],
+    "wof:id":856847425,
+    "wof:lastmodified":1464105360,
+    "wof:name":"R H Ink LTD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "label"
+    ]
+},
+  "bbox": [
+    -91.673702,
+    41.972955,
+    -91.673702,
+    41.972955
+],
+  "geometry": {"coordinates":[-91.67370200000001,41.972955],"type":"Point"}
+}

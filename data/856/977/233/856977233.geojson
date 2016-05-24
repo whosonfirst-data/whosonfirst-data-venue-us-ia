@@ -1,0 +1,75 @@
+{
+  "id": 856977233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598601,42.031442,-91.598601,42.031442",
+    "geom:latitude":42.031442,
+    "geom:longitude":-91.598601,
+    "iso:country":"US",
+    "sg:address":"1055 5th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 6812",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "house",
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HFC70IxsINZyzg1aaoQTL_42.031442_-91.598601@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111318,
+    "wof:geomhash":"72a673c2159040a2fd38d755a9ffb4c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856977233
+        }
+    ],
+    "wof:id":856977233,
+    "wof:lastmodified":1464111318,
+    "wof:name":"Andrews Brothers House Moving",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "mover"
+    ]
+},
+  "bbox": [
+    -91.598601,
+    42.031442,
+    -91.598601,
+    42.031442
+],
+  "geometry": {"coordinates":[-91.598601,42.031442],"type":"Point"}
+}

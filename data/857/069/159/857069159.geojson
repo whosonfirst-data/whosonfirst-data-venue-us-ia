@@ -1,0 +1,73 @@
+{
+  "id": 857069159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6446,41.993999,-91.6446,41.993999",
+    "geom:latitude":41.993999,
+    "geom:longitude":-91.6446,
+    "iso:country":"US",
+    "sg:address":"1935 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7108",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X5l0hVjn4VudkAMbsXRN5_41.993999_-91.644600@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115294,
+    "wof:geomhash":"72978745d7c581a4937e2a0864bee5ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069159
+        }
+    ],
+    "wof:id":857069159,
+    "wof:lastmodified":1464115294,
+    "wof:name":"Milden Gary D Dr DDS",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.6446,
+    41.993999,
+    -91.6446,
+    41.993999
+],
+  "geometry": {"coordinates":[-91.6446,41.993999],"type":"Point"}
+}

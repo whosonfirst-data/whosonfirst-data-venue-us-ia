@@ -1,0 +1,73 @@
+{
+  "id": 857052947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.727097,41.9785,-91.727097,41.9785",
+    "geom:latitude":41.9785,
+    "geom:longitude":-91.727097,
+    "iso:country":"US",
+    "sg:address":"4312 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7111",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f1vRXSIB62FDQdv8tGSk0_41.978478_-91.727205@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114618,
+    "wof:geomhash":"f783c66d9759b576b9a553865c787b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857052947
+        }
+    ],
+    "wof:id":857052947,
+    "wof:lastmodified":1464114618,
+    "wof:name":"Sedlo-Check Home Inspection",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -91.727097,
+    41.9785,
+    -91.727097,
+    41.9785
+],
+  "geometry": {"coordinates":[-91.727097,41.9785],"type":"Point"}
+}

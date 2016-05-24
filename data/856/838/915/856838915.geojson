@@ -1,0 +1,73 @@
+{
+  "id": 856838915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.544782,41.589078,-93.544782,41.589078",
+    "geom:latitude":41.589078,
+    "geom:longitude":-93.544782,
+    "iso:country":"US",
+    "sg:address":"3601 E Court Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 248 6325",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4trlcgv2XXHv7UXjay8KOK_41.589078_-93.544782@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104958,
+    "wof:geomhash":"f09d8a37fa318b97ee64c5c806648f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856838915
+        }
+    ],
+    "wof:id":856838915,
+    "wof:lastmodified":1464104958,
+    "wof:name":"Des Moines' Municipal Cemetery",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -93.544782,
+    41.589078,
+    -93.544782,
+    41.589078
+],
+  "geometry": {"coordinates":[-93.544782,41.589078],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856966827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.987354,41.535131,-93.987354,41.535131",
+    "geom:latitude":41.535131,
+    "geom:longitude":-93.987354,
+    "iso:country":"US",
+    "sg:address":"2510 347th St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 9346",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aMnZocel6g7RJCdBaoAQP_41.535131_-93.987354@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110820,
+    "wof:geomhash":"3b971190412710591b88d7d8a278b567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856966827
+        }
+    ],
+    "wof:id":856966827,
+    "wof:lastmodified":1464110820,
+    "wof:name":"Hof Studios",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -93.987354,
+    41.535131,
+    -93.987354,
+    41.535131
+],
+  "geometry": {"coordinates":[-93.987354,41.535131],"type":"Point"}
+}

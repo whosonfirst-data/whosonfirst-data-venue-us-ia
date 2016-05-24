@@ -1,0 +1,71 @@
+{
+  "id": 857004125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.501525,41.551189,-91.501525,41.551189",
+    "geom:latitude":41.551189,
+    "geom:longitude":-91.501525,
+    "iso:country":"US",
+    "sg:address":"5247 Sand Rd SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 9301",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BZypvawSAhQ5kuRS79NYL_41.551189_-91.501525@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112526,
+    "wof:geomhash":"9a19207e29dab4bcbed4e8348a67c720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":857004125
+        }
+    ],
+    "wof:id":857004125,
+    "wof:lastmodified":1464112526,
+    "wof:name":"Musser Concrete",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.501525,
+    41.551189,
+    -91.501525,
+    41.551189
+],
+  "geometry": {"coordinates":[-91.501525,41.551189],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856905445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.803421,42.247991,-91.803421,42.247991",
+    "geom:latitude":42.247991,
+    "geom:longitude":-91.803421,
+    "iso:country":"US",
+    "sg:address":"4453 Mills Rd",
+    "sg:city":"Walker",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 448 4375",
+    "sg:postcode":"52352",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62uIpviY5gsmyWRoRiEz9B_42.247991_-91.803421@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108247,
+    "wof:geomhash":"3515419c7cda05debea750a21c7eeac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856905445
+        }
+    ],
+    "wof:id":856905445,
+    "wof:lastmodified":1464108247,
+    "wof:name":"Glenn Mills",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.803421,
+    42.247991,
+    -91.803421,
+    42.247991
+],
+  "geometry": {"coordinates":[-91.803421,42.247991],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857062649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854225,41.26028,-95.854225,41.26028",
+    "geom:latitude":41.26028,
+    "geom:longitude":-95.854225,
+    "iso:country":"US",
+    "sg:address":"710 1st Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 1877",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yI4oByedP5RK1wNLptPp0_41.260280_-95.854225@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115010,
+    "wof:geomhash":"efa6a81fe68b892448d661ab5e550507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062649
+        }
+    ],
+    "wof:id":857062649,
+    "wof:lastmodified":1464115010,
+    "wof:name":"Heartland Child Development",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -95.854225,
+    41.26028,
+    -95.854225,
+    41.26028
+],
+  "geometry": {"coordinates":[-95.854225,41.26028],"type":"Point"}
+}

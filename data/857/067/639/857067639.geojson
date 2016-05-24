@@ -1,0 +1,78 @@
+{
+  "id": 857067639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662727,42.001596,-91.662727,42.001596",
+    "geom:latitude":42.001596,
+    "geom:longitude":-91.662727,
+    "iso:country":"US",
+    "sg:address":"1221 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1199",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RVCFO4kq9tVuBygDX0WPj_42.001596_-91.662727@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115208,
+    "wof:geomhash":"8289bfb983bbdccdbe4ef2d5b2800919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067639
+        }
+    ],
+    "wof:id":857067639,
+    "wof:lastmodified":1464115208,
+    "wof:name":"Damsteegt Don C PHD",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -91.662727,
+    42.001596,
+    -91.662727,
+    42.001596
+],
+  "geometry": {"coordinates":[-91.662727,42.001596],"type":"Point"}
+}

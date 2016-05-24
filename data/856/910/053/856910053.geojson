@@ -1,0 +1,80 @@
+{
+  "id": 856910053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.379712,42.501139,-96.379712,42.501139",
+    "geom:latitude":42.501139,
+    "geom:longitude":-96.379712,
+    "iso:country":"US",
+    "sg:address":"1112 Fowler St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 2066",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Vwmvwj3d70AE26fmritK_42.501139_-96.379712@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108423,
+    "wof:geomhash":"950775b79fd61b7e2fe2682039c2e75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856910053
+        }
+    ],
+    "wof:id":856910053,
+    "wof:lastmodified":1464108423,
+    "wof:name":"United Center Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [
+    -96.379712,
+    42.501139,
+    -96.379712,
+    42.501139
+],
+  "geometry": {"coordinates":[-96.379712,42.501139],"type":"Point"}
+}

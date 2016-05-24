@@ -1,0 +1,68 @@
+{
+  "id": 856855603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677226,41.980752,-91.677226,41.980752",
+    "geom:latitude":41.980752,
+    "geom:longitude":-91.677226,
+    "iso:country":"US",
+    "sg:address":"828 3rd St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 4373",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JQp9y4iqDIvWfEqZHYxtS_41.980752_-91.677226@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105782,
+    "wof:geomhash":"07b9edd05d5dd6a8f5444a66123e79d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856855603
+        }
+    ],
+    "wof:id":856855603,
+    "wof:lastmodified":1464105782,
+    "wof:name":"American Hotel Svc",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.677226,
+    41.980752,
+    -91.677226,
+    41.980752
+],
+  "geometry": {"coordinates":[-91.677226,41.980752],"type":"Point"}
+}

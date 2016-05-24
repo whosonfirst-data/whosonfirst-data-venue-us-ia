@@ -1,0 +1,73 @@
+{
+  "id": 856920909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629182,41.999535,-91.629182,41.999535",
+    "geom:latitude":41.999535,
+    "geom:longitude":-91.629182,
+    "iso:country":"US",
+    "sg:address":"311 23rd Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 862 1288",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lVEuVJdl2lqvMtF7GojBT_41.999535_-91.629182@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108859,
+    "wof:geomhash":"65fd2fb03ecc5d5a1d4d01ed5494192c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856920909
+        }
+    ],
+    "wof:id":856920909,
+    "wof:lastmodified":1464108859,
+    "wof:name":"M & M Lighting Sales Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -91.629182,
+    41.999535,
+    -91.629182,
+    41.999535
+],
+  "geometry": {"coordinates":[-91.629182,41.999535],"type":"Point"}
+}

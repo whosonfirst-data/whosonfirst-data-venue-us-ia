@@ -1,0 +1,71 @@
+{
+  "id": 856880315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.339454,41.478585,-95.339454,41.478585",
+    "geom:latitude":41.478585,
+    "geom:longitude":-95.339454,
+    "iso:country":"US",
+    "sg:address":"304 N Elm St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6945",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BbfcXAKbFiV0QGJxhjXjm_41.478585_-95.339454@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107168,
+    "wof:geomhash":"e86095eccec2810f1a5fb6e9841b6bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856880315
+        }
+    ],
+    "wof:id":856880315,
+    "wof:lastmodified":1464107168,
+    "wof:name":"United Church Of Avoca",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.339454,
+    41.478585,
+    -95.339454,
+    41.478585
+],
+  "geometry": {"coordinates":[-95.339454,41.478585],"type":"Point"}
+}

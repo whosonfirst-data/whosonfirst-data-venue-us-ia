@@ -1,0 +1,73 @@
+{
+  "id": 856896761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.578088,42.050486,-91.578088,42.050486",
+    "geom:latitude":42.050486,
+    "geom:longitude":-91.578088,
+    "iso:country":"US",
+    "sg:address":"2975 Baker St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7540",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59L6dPTxqhT846swh6re1r_42.050486_-91.578088@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107931,
+    "wof:geomhash":"ce1dc7b4779ef0d96f3cdc9fd2f9275d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856896761
+        }
+    ],
+    "wof:id":856896761,
+    "wof:lastmodified":1464107931,
+    "wof:name":"Enjoy World of Soy",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.578088,
+    42.050486,
+    -91.578088,
+    42.050486
+],
+  "geometry": {"coordinates":[-91.57808799999999,42.050486],"type":"Point"}
+}

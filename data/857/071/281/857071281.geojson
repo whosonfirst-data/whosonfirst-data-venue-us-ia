@@ -1,0 +1,67 @@
+{
+  "id": 857071281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.73165,41.968978,-91.73165,41.968978",
+    "geom:latitude":41.968978,
+    "geom:longitude":-91.73165,
+    "iso:country":"US",
+    "sg:address":"151 Jacolyn Dr NW Ste D",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1164",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:website":"www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w3mBSLg4mbPQ1jijbdgdo_41.968978_-91.731650@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115384,
+    "wof:geomhash":"bebd9d74c8d504b14593eb8d704e2d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071281
+        }
+    ],
+    "wof:id":857071281,
+    "wof:lastmodified":1464115384,
+    "wof:name":"Dollar General Store",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73165,
+    41.968978,
+    -91.73165,
+    41.968978
+],
+  "geometry": {"coordinates":[-91.73165,41.968978],"type":"Point"}
+}

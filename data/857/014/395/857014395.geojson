@@ -1,0 +1,71 @@
+{
+  "id": 857014395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658232,42.039725,-91.658232,42.039725",
+    "geom:latitude":42.039725,
+    "geom:longitude":-91.658232,
+    "iso:country":"US",
+    "sg:address":"6300 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 7801",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jEzG9WJk5PNTw92XVR5MM_42.039725_-91.658232@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112960,
+    "wof:geomhash":"c2027c1de751c6dbbd0b9669cf03d3d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857014395
+        }
+    ],
+    "wof:id":857014395,
+    "wof:lastmodified":1464112960,
+    "wof:name":"AT&T Broadband",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -91.658232,
+    42.039725,
+    -91.658232,
+    42.039725
+],
+  "geometry": {"coordinates":[-91.658232,42.039725],"type":"Point"}
+}

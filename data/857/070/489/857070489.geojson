@@ -1,0 +1,84 @@
+{
+  "id": 857070489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673883,41.975053,-91.673883,41.975053",
+    "geom:latitude":41.975053,
+    "geom:longitude":-91.673883,
+    "iso:country":"US",
+    "sg:address":"208 2nd Avenue",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0606",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.thepianolounge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HwL1mVUp7spjRtEcbtQqw_41.975053_-91.673883@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115358,
+    "wof:geomhash":"62d364caeee193e30eda0a01243830e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857070489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857070489
+        }
+    ],
+    "wof:id":857070489,
+    "wof:lastmodified":1464115358,
+    "wof:name":"Piano Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -91.673883,
+    41.975053,
+    -91.673883,
+    41.975053
+],
+  "geometry": {"coordinates":[-91.673883,41.975053],"type":"Point"}
+}

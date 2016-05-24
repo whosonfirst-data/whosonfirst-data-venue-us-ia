@@ -1,0 +1,71 @@
+{
+  "id": 856798815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543772,41.949985,-91.543772,41.949985",
+    "geom:latitude":41.949985,
+    "geom:longitude":-91.543772,
+    "iso:country":"US",
+    "sg:address":"1832 Ridgeview Ct",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5152",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62gNnh8Gu1gcepaz21O0lA_41.949985_-91.543772@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103149,
+    "wof:geomhash":"c7ecb2b1ed448f91b5b51cc508830038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856798815
+        }
+    ],
+    "wof:id":856798815,
+    "wof:lastmodified":1464103149,
+    "wof:name":"Nielsen Network",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -91.543772,
+    41.949985,
+    -91.543772,
+    41.949985
+],
+  "geometry": {"coordinates":[-91.543772,41.949985],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856897305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.576767,41.35709,-93.576767,41.35709",
+    "geom:latitude":41.35709,
+    "geom:longitude":-93.576767,
+    "iso:country":"US",
+    "sg:address":"1206 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4780",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LwnyN31jZO1FxjCSN9hA9_41.357090_-93.576767@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107956,
+    "wof:geomhash":"1a3cc7bda3e8524943f0f17e7f523ba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856897305
+        }
+    ],
+    "wof:id":856897305,
+    "wof:lastmodified":1464107956,
+    "wof:name":"Champlin Sales",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.576767,
+    41.35709,
+    -93.576767,
+    41.35709
+],
+  "geometry": {"coordinates":[-93.576767,41.35709],"type":"Point"}
+}

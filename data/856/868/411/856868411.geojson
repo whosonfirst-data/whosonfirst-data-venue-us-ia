@@ -1,0 +1,75 @@
+{
+  "id": 856868411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653391,42.042937,-91.653391,42.042937",
+    "geom:latitude":42.042937,
+    "geom:longitude":-91.653391,
+    "iso:country":"US",
+    "sg:address":"1100 A'Hearn Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8696",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SJXhUoY5eYc5bjEdLq9Sh_42.042937_-91.653391@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106413,
+    "wof:geomhash":"e699afdcded432f163378d920ed21925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856868411
+        }
+    ],
+    "wof:id":856868411,
+    "wof:lastmodified":1464106413,
+    "wof:name":"Metro Youth Football Assn",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.653391,
+    42.042937,
+    -91.653391,
+    42.042937
+],
+  "geometry": {"coordinates":[-91.653391,42.042937],"type":"Point"}
+}

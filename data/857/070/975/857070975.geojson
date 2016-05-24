@@ -1,0 +1,71 @@
+{
+  "id": 857070975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.637497,41.944698,-91.637497,41.944698",
+    "geom:latitude":41.944698,
+    "geom:longitude":-91.637497,
+    "iso:country":"US",
+    "sg:address":"3303 Ely Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 2985",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R2EFwof8MDzVt3q1IxIPt_41.944698_-91.637497@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115374,
+    "wof:geomhash":"814c1efdc05cdc6153585f0aa263a514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070975
+        }
+    ],
+    "wof:id":857070975,
+    "wof:lastmodified":1464115374,
+    "wof:name":"Cedar Acres Custom Meat Processing Plant",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.637497,
+    41.944698,
+    -91.637497,
+    41.944698
+],
+  "geometry": {"coordinates":[-91.637497,41.944698],"type":"Point"}
+}

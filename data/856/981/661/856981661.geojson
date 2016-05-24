@@ -1,0 +1,67 @@
+{
+  "id": 856981661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.603163,42.03412,-91.603163,42.03412",
+    "geom:latitude":42.03412,
+    "geom:longitude":-91.603163,
+    "iso:country":"US",
+    "sg:address":"645 8th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 9627",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:website":"www.waterbeck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EHS2vwzj1Zd2A9oKQ8Ke5_42.034120_-91.603163@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111539,
+    "wof:geomhash":"b6517a0a61dbb8bd273c4acb5828fdfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856981661
+        }
+    ],
+    "wof:id":856981661,
+    "wof:lastmodified":1464111539,
+    "wof:name":"Waterbeck Realty",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.603163,
+    42.03412,
+    -91.603163,
+    42.03412
+],
+  "geometry": {"coordinates":[-91.603163,42.03412],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856792091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.602955,41.439628,-95.602955,41.439628",
+    "geom:latitude":41.439628,
+    "geom:longitude":-95.602955,
+    "iso:country":"US",
+    "sg:address":"29357 310th St",
+    "sg:city":"Neola",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 485 2295",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jvnRr2H0oDSpzK1k9i2Pi_41.439628_-95.602955@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102859,
+    "wof:geomhash":"ccb93a444061904e12b7b76fd43906ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856792091
+        }
+    ],
+    "wof:id":856792091,
+    "wof:lastmodified":1464102859,
+    "wof:name":"Arrowhead Park",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -95.602955,
+    41.439628,
+    -95.602955,
+    41.439628
+],
+  "geometry": {"coordinates":[-95.60295499999999,41.439628],"type":"Point"}
+}

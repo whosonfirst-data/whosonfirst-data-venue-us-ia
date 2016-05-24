@@ -1,0 +1,71 @@
+{
+  "id": 857064003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.839973,41.31041,-95.839973,41.31041",
+    "geom:latitude":41.31041,
+    "geom:longitude":-95.839973,
+    "iso:country":"US",
+    "sg:address":"20270 Old Lincoln Hwy",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2027",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WBzzn7Ib95Hqgyx3OU2f8_41.310410_-95.839973@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115062,
+    "wof:geomhash":"65476707ae7998de1c59b08309a06fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857064003
+        }
+    ],
+    "wof:id":857064003,
+    "wof:lastmodified":1464115062,
+    "wof:name":"Mile A Way Hall",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -95.839973,
+    41.31041,
+    -95.839973,
+    41.31041
+],
+  "geometry": {"coordinates":[-95.839973,41.31041],"type":"Point"}
+}

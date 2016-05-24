@@ -1,0 +1,71 @@
+{
+  "id": 856784209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.525668,42.203049,-91.525668,42.203049",
+    "geom:latitude":42.203049,
+    "geom:longitude":-91.525668,
+    "iso:country":"US",
+    "sg:address":"302 E Maple St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 1012",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5swncNTSnJSBYU70rYescY_42.203049_-91.525668@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102533,
+    "wof:geomhash":"37f739495dafc2fe67ece7479b837242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856784209
+        }
+    ],
+    "wof:id":856784209,
+    "wof:lastmodified":1464102533,
+    "wof:name":"G G's Gifts & Baskets",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.525668,
+    42.203049,
+    -91.525668,
+    42.203049
+],
+  "geometry": {"coordinates":[-91.525668,42.203049],"type":"Point"}
+}

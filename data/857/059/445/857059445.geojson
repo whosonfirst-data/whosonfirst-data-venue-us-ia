@@ -1,0 +1,74 @@
+{
+  "id": 857059445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716276,41.957615,-91.716276,41.957615",
+    "geom:latitude":41.957615,
+    "geom:longitude":-91.716276,
+    "iso:country":"US",
+    "sg:address":"2315 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/105574-pancheros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7900",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XQCQn6W7uq9YSYKikxy8g_41.957615_-91.716276@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114878,
+    "wof:geomhash":"b409260b8f20bdbfd0b9eb8b7de23be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857059445
+        }
+    ],
+    "wof:id":857059445,
+    "wof:lastmodified":1464114878,
+    "wof:name":"Panchero's",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.716276,
+    41.957615,
+    -91.716276,
+    41.957615
+],
+  "geometry": {"coordinates":[-91.71627599999999,41.957615],"type":"Point"}
+}

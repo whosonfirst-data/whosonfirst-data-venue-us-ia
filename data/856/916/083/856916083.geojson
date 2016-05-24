@@ -1,0 +1,71 @@
+{
+  "id": 856916083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.53059,42.281098,-91.53059,42.281098",
+    "geom:latitude":42.281098,
+    "geom:longitude":-91.53059,
+    "iso:country":"US",
+    "sg:address":"202 E Main St",
+    "sg:city":"Coggon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 435 2292",
+    "sg:postcode":"52218",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J2Vb9kiCWDNnZGIGAp9MR_42.281098_-91.530590@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108660,
+    "wof:geomhash":"d3a75d08bef4d7a86ecbf35341c85ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856916083
+        }
+    ],
+    "wof:id":856916083,
+    "wof:lastmodified":1464108660,
+    "wof:name":"Calvary Baptist Church",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.53059,
+    42.281098,
+    -91.53059,
+    42.281098
+],
+  "geometry": {"coordinates":[-91.53059,42.281098],"type":"Point"}
+}

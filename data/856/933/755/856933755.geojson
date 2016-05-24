@@ -1,0 +1,77 @@
+{
+  "id": 856933755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56309,41.681324,-91.56309,41.681324",
+    "geom:latitude":41.681324,
+    "geom:longitude":-91.56309,
+    "iso:country":"US",
+    "sg:address":"725 E 2nd Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7001",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22LVzlj18S1hX614DbU6Oq_41.681324_-91.563090@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109384,
+    "wof:geomhash":"1005ec924b38def081673b9c27559b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":856933755
+        }
+    ],
+    "wof:id":856933755,
+    "wof:lastmodified":1464109384,
+    "wof:name":"Thompson Cabinets & Constr",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.56309,
+    41.681324,
+    -91.56309,
+    41.681324
+],
+  "geometry": {"coordinates":[-91.56309,41.681324],"type":"Point"}
+}

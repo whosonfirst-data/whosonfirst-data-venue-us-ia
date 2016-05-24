@@ -1,0 +1,73 @@
+{
+  "id": 856975903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.712764,41.988858,-91.712764,41.988858",
+    "geom:latitude":41.988858,
+    "geom:longitude":-91.712764,
+    "iso:country":"US",
+    "sg:address":"1323 Hillside Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 9435",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wWiN0dkh16gvSN8YkZrGw_41.988858_-91.712764@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111263,
+    "wof:geomhash":"606f912ca2fad979f0f09a57d8aaea01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856975903
+        }
+    ],
+    "wof:id":856975903,
+    "wof:lastmodified":1464111263,
+    "wof:name":"ARA Construction",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.712764,
+    41.988858,
+    -91.712764,
+    41.988858
+],
+  "geometry": {"coordinates":[-91.71276400000001,41.988858],"type":"Point"}
+}

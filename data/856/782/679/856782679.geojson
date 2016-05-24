@@ -1,0 +1,71 @@
+{
+  "id": 856782679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.352246,42.398493,-96.352246,42.398493",
+    "geom:latitude":42.398493,
+    "geom:longitude":-96.352246,
+    "iso:country":"US",
+    "sg:address":"152 Gaul Dr",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 2874",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JbC9zAzji84RDPuGIGGfg_42.398493_-96.352246@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102493,
+    "wof:geomhash":"f766417ac8455ca2a1f74f1fbe530ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856782679
+        }
+    ],
+    "wof:id":856782679,
+    "wof:lastmodified":1464102493,
+    "wof:name":"Bush Cleaners",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -96.352246,
+    42.398493,
+    -96.352246,
+    42.398493
+],
+  "geometry": {"coordinates":[-96.35224599999999,42.398493],"type":"Point"}
+}

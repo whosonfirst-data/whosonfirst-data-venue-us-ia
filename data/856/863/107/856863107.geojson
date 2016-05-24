@@ -1,0 +1,68 @@
+{
+  "id": 856863107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677167,41.961502,-91.677167,41.961502",
+    "geom:latitude":41.961502,
+    "geom:longitude":-91.677167,
+    "iso:country":"US",
+    "sg:address":"1616 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4606",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jmGJztp2MU78b49jaeN5k_41.961502_-91.677167@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106120,
+    "wof:geomhash":"b2dc8655e0f5d5deacd4b1d97517fc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856863107
+        }
+    ],
+    "wof:id":856863107,
+    "wof:lastmodified":1464106120,
+    "wof:name":"Deli-N-Brew",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.677167,
+    41.961502,
+    -91.677167,
+    41.961502
+],
+  "geometry": {"coordinates":[-91.677167,41.961502],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856777889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.542803,41.652741,-91.542803,41.652741",
+    "geom:latitude":41.652741,
+    "geom:longitude":-91.542803,
+    "iso:country":"US",
+    "sg:address":"530 Olive St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 2003",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ufywq7LzzxZgpRqLXuT5V_41.652741_-91.542803@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102388,
+    "wof:geomhash":"f709757afa4fb49923469e034236c3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856777889
+        }
+    ],
+    "wof:id":856777889,
+    "wof:lastmodified":1464102388,
+    "wof:name":"International Art Exchange",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.542803,
+    41.652741,
+    -91.542803,
+    41.652741
+],
+  "geometry": {"coordinates":[-91.54280300000001,41.652741],"type":"Point"}
+}

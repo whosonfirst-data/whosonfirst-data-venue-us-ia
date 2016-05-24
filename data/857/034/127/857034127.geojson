@@ -1,0 +1,73 @@
+{
+  "id": 857034127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621732,42.033327,-91.621732,42.033327",
+    "geom:latitude":42.033327,
+    "geom:longitude":-91.621732,
+    "iso:country":"US",
+    "sg:address":"600 Lindale Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1514",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYpEWCx8wvKP7SFpkITUF_42.033327_-91.621732@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113825,
+    "wof:geomhash":"c75ef5a1d4aab4db91f3026ab7668541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857034127
+        }
+    ],
+    "wof:id":857034127,
+    "wof:lastmodified":1464113825,
+    "wof:name":"Marion Awesome Car Wash",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.621732,
+    42.033327,
+    -91.621732,
+    42.033327
+],
+  "geometry": {"coordinates":[-91.62173199999999,42.033327],"type":"Point"}
+}

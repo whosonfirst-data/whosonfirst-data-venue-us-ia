@@ -1,0 +1,73 @@
+{
+  "id": 856810781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.637002,41.94464,-91.637002,41.94464",
+    "geom:latitude":41.94464,
+    "geom:longitude":-91.637002,
+    "iso:country":"US",
+    "sg:address":"3303 Ely Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3774",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JajH62MOsvRFEIoyu7toV_41.944640_-91.637002@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103665,
+    "wof:geomhash":"0d886c7c1ac50f2fbfc12d62d6dd1b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856810781
+        }
+    ],
+    "wof:id":856810781,
+    "wof:lastmodified":1464103665,
+    "wof:name":"Wesley Vondracek",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.637002,
+    41.94464,
+    -91.637002,
+    41.94464
+],
+  "geometry": {"coordinates":[-91.637002,41.94464],"type":"Point"}
+}

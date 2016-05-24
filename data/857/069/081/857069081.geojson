@@ -1,0 +1,71 @@
+{
+  "id": 857069081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664803,42.019501,-91.664803,42.019501",
+    "geom:latitude":42.019501,
+    "geom:longitude":-91.664803,
+    "iso:country":"US",
+    "sg:address":"3970 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9858",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YmZQZPOihbbDXfUJjGUWu_42.019501_-91.664803@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115291,
+    "wof:geomhash":"e980fd45f26277e4f511740aeb75923b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069081
+        }
+    ],
+    "wof:id":857069081,
+    "wof:lastmodified":1464115291,
+    "wof:name":"Red Lion Lounge",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -91.664803,
+    42.019501,
+    -91.664803,
+    42.019501
+],
+  "geometry": {"coordinates":[-91.66480300000001,42.019501],"type":"Point"}
+}

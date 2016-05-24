@@ -1,0 +1,80 @@
+{
+  "id": 857071097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715897,41.976101,-91.715897,41.976101",
+    "geom:latitude":41.976101,
+    "geom:longitude":-91.715897,
+    "iso:country":"US",
+    "sg:address":"400 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7759",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JRA4mxbz7UWWNnluTk40f_41.976101_-91.715897@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115379,
+    "wof:geomhash":"c5d6ba4c6beddb756b1b305b6583c85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071097
+        }
+    ],
+    "wof:id":857071097,
+    "wof:lastmodified":1464115379,
+    "wof:name":"Winterowd Darrell Dr DVM",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.715897,
+    41.976101,
+    -91.715897,
+    41.976101
+],
+  "geometry": {"coordinates":[-91.715897,41.976101],"type":"Point"}
+}

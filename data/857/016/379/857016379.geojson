@@ -1,0 +1,73 @@
+{
+  "id": 857016379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.57437,42.029309,-91.57437,42.029309",
+    "geom:latitude":42.029309,
+    "geom:longitude":-91.57437,
+    "iso:country":"US",
+    "sg:address":"120 35th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6970",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56rdOLpIgUhQfWSopTyhFk_42.029309_-91.574370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113051,
+    "wof:geomhash":"2d314f120f00ed1766d6677ab770dd89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857016379
+        }
+    ],
+    "wof:id":857016379,
+    "wof:lastmodified":1464113051,
+    "wof:name":"Delaney & Kelly Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.57437,
+    42.029309,
+    -91.57437,
+    42.029309
+],
+  "geometry": {"coordinates":[-91.57437,42.029309],"type":"Point"}
+}

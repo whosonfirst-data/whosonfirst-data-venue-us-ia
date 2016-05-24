@@ -1,0 +1,73 @@
+{
+  "id": 856878513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849926,41.260001,-95.849926,41.260001",
+    "geom:latitude":41.260001,
+    "geom:longitude":-95.849926,
+    "iso:country":"US",
+    "sg:address":"33 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 9551",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hp6YaCmhRtDv6S94nUIJR_41.260001_-95.849926@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107099,
+    "wof:geomhash":"0aebf3a969b8ad401c0e125463faacba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856878513
+        }
+    ],
+    "wof:id":856878513,
+    "wof:lastmodified":1464107099,
+    "wof:name":"Dance Co",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -95.849926,
+    41.260001,
+    -95.849926,
+    41.260001
+],
+  "geometry": {"coordinates":[-95.849926,41.260001],"type":"Point"}
+}

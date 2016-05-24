@@ -1,0 +1,72 @@
+{
+  "id": 857057345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.43957,41.290503,-93.43957,41.290503",
+    "geom:latitude":41.290503,
+    "geom:longitude":-93.43957,
+    "iso:country":"US",
+    "sg:address":"426 N 2nd St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/belmont/226000-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6973",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QWgboSlAKtGKeA0DrvWTd_41.290503_-93.439570@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114801,
+    "wof:geomhash":"a611764c6ff8588f8ed524e4ccc98d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857057345
+        }
+    ],
+    "wof:id":857057345,
+    "wof:lastmodified":1464114801,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.43957,
+    41.290503,
+    -93.43957,
+    41.290503
+],
+  "geometry": {"coordinates":[-93.43957,41.290503],"type":"Point"}
+}

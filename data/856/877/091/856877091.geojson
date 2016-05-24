@@ -1,0 +1,73 @@
+{
+  "id": 856877091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851676,41.218128,-95.851676,41.218128",
+    "geom:latitude":41.218128,
+    "geom:longitude":-95.851676,
+    "iso:country":"US",
+    "sg:address":"1021 Wright Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2858",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kZB3yp6AT7wdwiHlOUtjk_41.218128_-95.851676@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107035,
+    "wof:geomhash":"1bce3f91e89d45bb68976a14e1c17345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856877091
+        }
+    ],
+    "wof:id":856877091,
+    "wof:lastmodified":1464107035,
+    "wof:name":"JNJ Steel",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -95.851676,
+    41.218128,
+    -95.851676,
+    41.218128
+],
+  "geometry": {"coordinates":[-95.851676,41.218128],"type":"Point"}
+}

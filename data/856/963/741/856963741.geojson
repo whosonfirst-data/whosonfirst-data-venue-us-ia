@@ -1,0 +1,73 @@
+{
+  "id": 856963741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.840098,41.598725,-93.840098,41.598725",
+    "geom:latitude":41.598725,
+    "geom:longitude":-93.840098,
+    "iso:country":"US",
+    "sg:address":"9602 Bishop Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 401 7000",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mzr2i08Qr1lAtK2P0N0TQ_41.598725_-93.840098@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110692,
+    "wof:geomhash":"085c968aec065c4f8df4c631130a6c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856963741
+        }
+    ],
+    "wof:id":856963741,
+    "wof:lastmodified":1464110692,
+    "wof:name":"West Park",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -93.840098,
+    41.598725,
+    -93.840098,
+    41.598725
+],
+  "geometry": {"coordinates":[-93.840098,41.598725],"type":"Point"}
+}

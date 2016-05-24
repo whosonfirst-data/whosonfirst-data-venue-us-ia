@@ -1,0 +1,71 @@
+{
+  "id": 856907779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.863942,41.284248,-95.863942,41.284248",
+    "geom:latitude":41.284248,
+    "geom:longitude":-95.863942,
+    "iso:country":"US",
+    "sg:address":"1400 Big Lake Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 4788",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i9JdeDaWQSyUcNOcPVAG9_41.284248_-95.863942@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108335,
+    "wof:geomhash":"c2d6014118143bbf3da2dd4842b792aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856907779
+        }
+    ],
+    "wof:id":856907779,
+    "wof:lastmodified":1464108335,
+    "wof:name":"Sheriff Dept-Corrections Jail",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -95.863942,
+    41.284248,
+    -95.863942,
+    41.284248
+],
+  "geometry": {"coordinates":[-95.86394199999999,41.284248],"type":"Point"}
+}

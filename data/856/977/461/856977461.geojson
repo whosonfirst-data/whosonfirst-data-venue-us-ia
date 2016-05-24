@@ -1,0 +1,77 @@
+{
+  "id": 856977461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56769,41.676513,-91.56769,41.676513",
+    "geom:latitude":41.676513,
+    "geom:longitude":-91.56769,
+    "iso:country":"US",
+    "sg:address":"199 6th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3772",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "manages",
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D9eacCudBzWuoRAT7qHN6_41.676513_-91.567690@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111325,
+    "wof:geomhash":"697a193b2d6ea797b6cf1fedca9a5b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856977461
+        }
+    ],
+    "wof:id":856977461,
+    "wof:lastmodified":1464111325,
+    "wof:name":"Scotch Pine Apartments",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manages",
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -91.56769,
+    41.676513,
+    -91.56769,
+    41.676513
+],
+  "geometry": {"coordinates":[-91.56769,41.676513],"type":"Point"}
+}

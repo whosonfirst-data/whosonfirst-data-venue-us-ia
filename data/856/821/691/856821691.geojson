@@ -1,0 +1,73 @@
+{
+  "id": 856821691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.970063,41.757361,-93.970063,41.757361",
+    "geom:latitude":41.757361,
+    "geom:longitude":-93.970063,
+    "iso:country":"US",
+    "sg:address":"1887 Quinlan Ave",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2770",
+    "sg:postcode":"50167",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G0C92cTW6fvRyO7qmRRUo_41.757361_-93.970063@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104176,
+    "wof:geomhash":"2f5b44820f395ed1282073680810b78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856821691
+        }
+    ],
+    "wof:id":856821691,
+    "wof:lastmodified":1464104176,
+    "wof:name":"Jon West Farm",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.970063,
+    41.757361,
+    -93.970063,
+    41.757361
+],
+  "geometry": {"coordinates":[-93.970063,41.757361],"type":"Point"}
+}

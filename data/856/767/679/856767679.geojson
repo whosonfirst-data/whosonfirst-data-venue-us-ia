@@ -1,0 +1,71 @@
+{
+  "id": 856767679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.41889,41.923338,-91.41889,41.923338",
+    "geom:latitude":41.923338,
+    "geom:longitude":-91.41889,
+    "iso:country":"US",
+    "sg:address":"217 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8320",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K7oDQfb3xXlBkQ83by2Oz_41.923338_-91.418890@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102150,
+    "wof:geomhash":"ceca348242e107788aaf5fa69886f3f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856767679
+        }
+    ],
+    "wof:id":856767679,
+    "wof:lastmodified":1464102150,
+    "wof:name":"Mount Vernon Fire Dept",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.41889,
+    41.923338,
+    -91.41889,
+    41.923338
+],
+  "geometry": {"coordinates":[-91.41889,41.923338],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856995583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.767612,41.605295,-93.767612,41.605295",
+    "geom:latitude":41.605295,
+    "geom:longitude":-93.767612,
+    "iso:country":"US",
+    "sg:address":"10833 Cedarwood Dr",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 6498",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01TgGoZb4sygBh4khLvScd_41.605295_-93.767612@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112196,
+    "wof:geomhash":"06a11df878089a28cfb899e64989ad18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896343,
+            "region_id":85688713,
+            "venue_id":856995583
+        }
+    ],
+    "wof:id":856995583,
+    "wof:lastmodified":1464112196,
+    "wof:name":"Nabil Faltas Inc",
+    "wof:parent_id":85896343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.767612,
+    41.605295,
+    -93.767612,
+    41.605295
+],
+  "geometry": {"coordinates":[-93.767612,41.605295],"type":"Point"}
+}

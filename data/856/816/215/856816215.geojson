@@ -1,0 +1,81 @@
+{
+  "id": 856816215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.89506,41.746569,-93.89506,41.746569",
+    "geom:latitude":41.746569,
+    "geom:longitude":-93.89506,
+    "iso:country":"US",
+    "sg:address":"2991 200th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2767",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hog",
+        "corn",
+        "soybean",
+        "chicken",
+        "or",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ethOQhaOcbOOAUJAJO2iI_41.746569_-93.895060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103880,
+    "wof:geomhash":"b3731fff96749daa6ee6b1f6caf22585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856816215
+        }
+    ],
+    "wof:id":856816215,
+    "wof:lastmodified":1464103880,
+    "wof:name":"Jeff Hansen",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hog",
+        "corn",
+        "soybean",
+        "chicken",
+        "or",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -93.89506,
+    41.746569,
+    -93.89506,
+    41.746569
+],
+  "geometry": {"coordinates":[-93.89506,41.746569],"type":"Point"}
+}

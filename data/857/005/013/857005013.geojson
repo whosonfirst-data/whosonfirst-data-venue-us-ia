@@ -1,0 +1,73 @@
+{
+  "id": 857005013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.626751,41.490394,-90.626751,41.490394",
+    "geom:latitude":41.490394,
+    "geom:longitude":-90.626751,
+    "iso:country":"US",
+    "sg:address":"2606 S Concord St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 326 7877",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pm4sP24hZ7NVbTwqjKZPP_41.490394_-90.626751@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112571,
+    "wof:geomhash":"d6872a0c64763c9f84c26d66c01f06f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857005013
+        }
+    ],
+    "wof:id":857005013,
+    "wof:lastmodified":1464112571,
+    "wof:name":"Davenport Waste Water Trtmnt",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -90.626751,
+    41.490394,
+    -90.626751,
+    41.490394
+],
+  "geometry": {"coordinates":[-90.626751,41.490394],"type":"Point"}
+}

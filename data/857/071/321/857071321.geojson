@@ -1,0 +1,66 @@
+{
+  "id": 857071321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.732201,41.969898,-91.732201,41.969898",
+    "geom:latitude":41.969898,
+    "geom:longitude":-91.732201,
+    "iso:country":"US",
+    "sg:address":"120 Jacolyn Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1831",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17gbbyB5LlPCIRURBcIep7_41.969898_-91.732201@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115391,
+    "wof:geomhash":"7f3a898093925881b84506b9f148197f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071321
+        }
+    ],
+    "wof:id":857071321,
+    "wof:lastmodified":1464115391,
+    "wof:name":"B & L Transmission Service",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.732201,
+    41.969898,
+    -91.732201,
+    41.969898
+],
+  "geometry": {"coordinates":[-91.732201,41.969898],"type":"Point"}
+}

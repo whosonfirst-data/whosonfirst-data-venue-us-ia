@@ -1,0 +1,75 @@
+{
+  "id": 857002415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530359,41.663487,-91.530359,41.663487",
+    "geom:latitude":41.663487,
+    "geom:longitude":-91.530359,
+    "iso:country":"US",
+    "sg:address":"321 E Market St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 1860",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YcgCWUziDGc69eFuwbxcd_41.663487_-91.530359@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112463,
+    "wof:geomhash":"c5c3eadde6cb85d81932af7909442be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":857002415
+        }
+    ],
+    "wof:id":857002415,
+    "wof:lastmodified":1464112463,
+    "wof:name":"William L Dull MD",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.530359,
+    41.663487,
+    -91.530359,
+    41.663487
+],
+  "geometry": {"coordinates":[-91.530359,41.663487],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856891947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.242495,42.482481,-96.242495,42.482481",
+    "geom:latitude":42.482481,
+    "geom:longitude":-96.242495,
+    "iso:country":"US",
+    "sg:address":"7660 Correctionville Rd",
+    "sg:city":"Lawton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 5633",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eRtWaSoxm9PTfm7SyC6KP_42.482481_-96.242495@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107759,
+    "wof:geomhash":"2126d1a34362fdf550c624c20395f8f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856891947
+        }
+    ],
+    "wof:id":856891947,
+    "wof:lastmodified":1464107759,
+    "wof:name":"Naurkal Construction",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.242495,
+    42.482481,
+    -96.242495,
+    42.482481
+],
+  "geometry": {"coordinates":[-96.24249500000001,42.482481],"type":"Point"}
+}

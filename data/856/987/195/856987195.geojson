@@ -1,0 +1,69 @@
+{
+  "id": 856987195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.403368,42.49025,-96.403368,42.49025",
+    "geom:latitude":42.49025,
+    "geom:longitude":-96.403368,
+    "iso:country":"US",
+    "sg:address":"130 Nebraska St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 1550",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:website":"www.bestwestern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_327maXVftfpoO5YGw5BdD9_42.490250_-96.403368@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111838,
+    "wof:geomhash":"f5612c5cb436382af3081b04ed34ab79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856987195
+        }
+    ],
+    "wof:id":856987195,
+    "wof:lastmodified":1464111838,
+    "wof:name":"Best Western Inn",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.403368,
+    42.49025,
+    -96.403368,
+    42.49025
+],
+  "geometry": {"coordinates":[-96.403368,42.49025],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856918289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.351881,42.456266,-92.351881,42.456266",
+    "geom:latitude":42.456266,
+    "geom:longitude":-92.351881,
+    "iso:country":"US",
+    "sg:address":"102 E Tower Park Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 226 6111",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uGjIfCX57LFFC9F34LvwM_42.456266_-92.351881@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108742,
+    "wof:geomhash":"0f165964f902a13df5c8f3b185f29183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856918289
+        }
+    ],
+    "wof:id":856918289,
+    "wof:lastmodified":1464108742,
+    "wof:name":"Burger King",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.351881,
+    42.456266,
+    -92.351881,
+    42.456266
+],
+  "geometry": {"coordinates":[-92.35188100000001,42.456266],"type":"Point"}
+}

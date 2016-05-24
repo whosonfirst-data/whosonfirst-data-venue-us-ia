@@ -1,0 +1,73 @@
+{
+  "id": 856914869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599393,42.033017,-91.599393,42.033017",
+    "geom:latitude":42.033017,
+    "geom:longitude":-91.599393,
+    "iso:country":"US",
+    "sg:address":"642 10th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 0913",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04DWf78JAn82ZHsqcQNg7u_42.033017_-91.599393@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108616,
+    "wof:geomhash":"42606e6ef79657c4b599c62bcfedad8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856914869
+        }
+    ],
+    "wof:id":856914869,
+    "wof:lastmodified":1464108616,
+    "wof:name":"Prime Lending",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -91.599393,
+    42.033017,
+    -91.599393,
+    42.033017
+],
+  "geometry": {"coordinates":[-91.59939300000001,42.033017],"type":"Point"}
+}

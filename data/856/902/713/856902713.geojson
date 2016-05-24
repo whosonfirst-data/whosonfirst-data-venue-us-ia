@@ -1,0 +1,75 @@
+{
+  "id": 856902713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619828,41.603244,-93.619828,41.603244",
+    "geom:latitude":41.603244,
+    "geom:longitude":-93.619828,
+    "iso:country":"US",
+    "sg:address":"1320 2nd Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 6768",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "lamp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yffj9QbWaYMZavsuUOed5_41.603244_-93.619828@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108147,
+    "wof:geomhash":"ba1df86929d6749c6dc45d72d33644d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896413,
+            "region_id":85688713,
+            "venue_id":856902713
+        }
+    ],
+    "wof:id":856902713,
+    "wof:lastmodified":1464108147,
+    "wof:name":"Hansen Lighting Inc",
+    "wof:parent_id":85896413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lamp"
+    ]
+},
+  "bbox": [
+    -93.619828,
+    41.603244,
+    -93.619828,
+    41.603244
+],
+  "geometry": {"coordinates":[-93.619828,41.603244],"type":"Point"}
+}

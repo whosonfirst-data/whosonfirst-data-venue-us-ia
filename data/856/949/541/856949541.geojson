@@ -1,0 +1,73 @@
+{
+  "id": 856949541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71475,42.064914,-91.71475,42.064914",
+    "geom:latitude":42.064914,
+    "geom:longitude":-91.71475,
+    "iso:country":"US",
+    "sg:address":"2780 Tower Dr",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 8945",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3urjw3mPELu8KAy0AyEmrD_42.064914_-91.714750@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110052,
+    "wof:geomhash":"68453ddb78ca6f1433ae7a941e759252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856949541
+        }
+    ],
+    "wof:id":856949541,
+    "wof:lastmodified":1464110052,
+    "wof:name":"Wood Working Etc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.71475,
+    42.064914,
+    -91.71475,
+    42.064914
+],
+  "geometry": {"coordinates":[-91.71475,42.064914],"type":"Point"}
+}

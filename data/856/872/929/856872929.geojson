@@ -1,0 +1,73 @@
+{
+  "id": 856872929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.602951,41.748733,-91.602951,41.748733",
+    "geom:latitude":41.748733,
+    "geom:longitude":-91.602951,
+    "iso:country":"US",
+    "sg:address":"70 Circle Dr",
+    "sg:city":"North Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 626 7055",
+    "sg:postcode":"52317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944175,
+        102086417,
+        85896497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vJIAlFt8xTzZDUQj1UQLY_41.748733_-91.602951@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106808,
+    "wof:geomhash":"ef4d2210743d79eb37bab9788acc3748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944175,
+            "neighbourhood_id":85896497,
+            "region_id":85688713,
+            "venue_id":856872929
+        }
+    ],
+    "wof:id":856872929,
+    "wof:lastmodified":1464106808,
+    "wof:name":"Abel's Catering",
+    "wof:parent_id":85896497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.602951,
+    41.748733,
+    -91.602951,
+    41.748733
+],
+  "geometry": {"coordinates":[-91.602951,41.748733],"type":"Point"}
+}

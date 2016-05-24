@@ -1,0 +1,71 @@
+{
+  "id": 856929023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.787265,41.820328,-93.787265,41.820328",
+    "geom:latitude":41.820328,
+    "geom:longitude":-93.787265,
+    "iso:country":"US",
+    "sg:address":"11832 NW 142nd Ave",
+    "sg:city":"Polk City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 249 2543",
+    "sg:postcode":"50226",
+    "sg:province":"IA",
+    "sg:tags":[
+        "layer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A6Lxvzd954dYHvPod5HnF_41.820328_-93.787265@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109203,
+    "wof:geomhash":"6180375e76362e522c5f1670d58a2aac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":856929023
+        }
+    ],
+    "wof:id":856929023,
+    "wof:lastmodified":1464109203,
+    "wof:name":"Hanes Carpet Svc",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "layer",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -93.787265,
+    41.820328,
+    -93.787265,
+    41.820328
+],
+  "geometry": {"coordinates":[-93.787265,41.820328],"type":"Point"}
+}

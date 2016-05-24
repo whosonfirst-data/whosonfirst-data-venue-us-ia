@@ -1,0 +1,71 @@
+{
+  "id": 856956041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.856064,41.243899,-95.856064,41.243899",
+    "geom:latitude":41.243899,
+    "geom:longitude":-95.856064,
+    "iso:country":"US",
+    "sg:address":"1817 S 8th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3688",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NbbFX25lZ0wdklKWAJj0n_41.243899_-95.856064@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110384,
+    "wof:geomhash":"12c26524e20a3be97b0cfb7d832bfa56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856956041
+        }
+    ],
+    "wof:id":856956041,
+    "wof:lastmodified":1464110384,
+    "wof:name":"Im Construction Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.856064,
+    41.243899,
+    -95.856064,
+    41.243899
+],
+  "geometry": {"coordinates":[-95.856064,41.243899],"type":"Point"}
+}

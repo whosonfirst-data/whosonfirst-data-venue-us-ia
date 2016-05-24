@@ -1,0 +1,80 @@
+{
+  "id": 857064179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.829903,41.272301,-95.829903,41.272301",
+    "geom:latitude":41.272301,
+    "geom:longitude":-95.829903,
+    "iso:country":"US",
+    "sg:address":"40 Northcrest Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7589",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral",
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5baoHpLlW1VupX1ukaluVg_41.272301_-95.829903@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115068,
+    "wof:geomhash":"be33eb9f7957630b69ac708810315b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064179
+        }
+    ],
+    "wof:id":857064179,
+    "wof:lastmodified":1464115068,
+    "wof:name":"Stuntz Wendell R Dr DDS",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral",
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -95.829903,
+    41.272301,
+    -95.829903,
+    41.272301
+],
+  "geometry": {"coordinates":[-95.829903,41.272301],"type":"Point"}
+}

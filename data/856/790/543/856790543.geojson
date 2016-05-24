@@ -1,0 +1,73 @@
+{
+  "id": 856790543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.781061,41.928329,-91.781061,41.928329",
+    "geom:latitude":41.928329,
+    "geom:longitude":-91.781061,
+    "iso:country":"US",
+    "sg:address":"94 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2433",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KGQx8lQV3CmHSwEDIn8Ed_41.928329_-91.781061@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102802,
+    "wof:geomhash":"f15c1645b847d27b98551a839168e629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856790543
+        }
+    ],
+    "wof:id":856790543,
+    "wof:lastmodified":1464102802,
+    "wof:name":"DBS Auto Sales",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.781061,
+    41.928329,
+    -91.781061,
+    41.928329
+],
+  "geometry": {"coordinates":[-91.78106099999999,41.928329],"type":"Point"}
+}

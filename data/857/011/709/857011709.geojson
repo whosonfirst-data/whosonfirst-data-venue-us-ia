@@ -1,0 +1,71 @@
+{
+  "id": 857011709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.019837,41.618279,-94.019837,41.618279",
+    "geom:latitude":41.618279,
+    "geom:longitude":-94.019837,
+    "iso:country":"US",
+    "sg:address":"910 Court St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 1849",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ir3viVMtPGqDA8n4ycQd_41.618279_-94.019837@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112850,
+    "wof:geomhash":"1dd2d55c5aa1ae460009b163c2f05355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857011709
+        }
+    ],
+    "wof:id":857011709,
+    "wof:lastmodified":1464112850,
+    "wof:name":"Adel Printing",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -94.019837,
+    41.618279,
+    -94.019837,
+    41.618279
+],
+  "geometry": {"coordinates":[-94.019837,41.618279],"type":"Point"}
+}

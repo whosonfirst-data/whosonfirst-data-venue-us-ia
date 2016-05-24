@@ -1,0 +1,87 @@
+{
+  "id": 857058001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736747,41.606259,-93.736747,41.606259",
+    "geom:latitude":41.606259,
+    "geom:longitude":-93.736747,
+    "iso:country":"US",
+    "sg:address":"1650 NW 86th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/114652-brueggers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 4444",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SSc5mbnrfLazXIRarAGjX_41.606259_-93.736747@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114824,
+    "wof:geomhash":"8bdc9c268357c1033829f18cedb3a195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896357,
+            "region_id":85688713,
+            "venue_id":857058001
+        }
+    ],
+    "wof:id":857058001,
+    "wof:lastmodified":1464114824,
+    "wof:name":"Bruegger's",
+    "wof:parent_id":85896357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -93.736747,
+    41.606259,
+    -93.736747,
+    41.606259
+],
+  "geometry": {"coordinates":[-93.73674699999999,41.606259],"type":"Point"}
+}

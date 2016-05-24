@@ -1,0 +1,75 @@
+{
+  "id": 856805939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.857646,41.245709,-95.857646,41.245709",
+    "geom:latitude":41.245709,
+    "geom:longitude":-95.857646,
+    "iso:country":"US",
+    "sg:address":"1604 S 9th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9528",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "plastering",
+        "drywall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PwZ5RGkX3iYHvaTtu9BBq_41.245709_-95.857646@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103454,
+    "wof:geomhash":"2736c455f133fe46b1c709f97091d666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856805939
+        }
+    ],
+    "wof:id":856805939,
+    "wof:lastmodified":1464103454,
+    "wof:name":"Wickman Drywall",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "plastering",
+        "drywall"
+    ]
+},
+  "bbox": [
+    -95.857646,
+    41.245709,
+    -95.857646,
+    41.245709
+],
+  "geometry": {"coordinates":[-95.857646,41.245709],"type":"Point"}
+}

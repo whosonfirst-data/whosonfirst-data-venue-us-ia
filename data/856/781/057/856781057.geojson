@@ -1,0 +1,73 @@
+{
+  "id": 856781057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901163,41.261999,-95.901163,41.261999",
+    "geom:latitude":41.261999,
+    "geom:longitude":-95.901163,
+    "iso:country":"US",
+    "sg:address":"3434 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 0022",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ur3Tp16hHtA1OzVNvEcYx_41.261999_-95.901163@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102461,
+    "wof:geomhash":"363e1ae118ce1485c663a5dfc2b89b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856781057
+        }
+    ],
+    "wof:id":856781057,
+    "wof:lastmodified":1464102461,
+    "wof:name":"Bluffs Family Health Care",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.901163,
+    41.261999,
+    -95.901163,
+    41.261999
+],
+  "geometry": {"coordinates":[-95.901163,41.261999],"type":"Point"}
+}

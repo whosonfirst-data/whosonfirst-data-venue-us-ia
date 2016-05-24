@@ -1,0 +1,71 @@
+{
+  "id": 856816671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.227308,41.519014,-94.227308,41.519014",
+    "geom:latitude":41.519014,
+    "geom:longitude":-94.227308,
+    "iso:country":"US",
+    "sg:address":"814 Washington St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4621",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72SX0gNBjcPlhpbYDsuGqg_41.519014_-94.227308@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103898,
+    "wof:geomhash":"c83c5dcadddec07228aa20a097d816a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856816671
+        }
+    ],
+    "wof:id":856816671,
+    "wof:lastmodified":1464103898,
+    "wof:name":"Kuhn Funeral Homes",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -94.227308,
+    41.519014,
+    -94.227308,
+    41.519014
+],
+  "geometry": {"coordinates":[-94.22730799999999,41.519014],"type":"Point"}
+}

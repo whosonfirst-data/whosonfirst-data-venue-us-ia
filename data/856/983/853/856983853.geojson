@@ -1,0 +1,73 @@
+{
+  "id": 856983853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.41914,41.919897,-91.41914,41.919897",
+    "geom:latitude":41.919897,
+    "geom:longitude":-91.41914,
+    "iso:country":"US",
+    "sg:address":"402 1st Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6111",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iDnvMQJ0gkWHW6nCLuTpU_41.919897_-91.419140@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111672,
+    "wof:geomhash":"a1075c5e48785f3390530e1ef9e4c10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856983853
+        }
+    ],
+    "wof:id":856983853,
+    "wof:lastmodified":1464111672,
+    "wof:name":"Travel Co",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -91.41914,
+    41.919897,
+    -91.41914,
+    41.919897
+],
+  "geometry": {"coordinates":[-91.41914,41.919897],"type":"Point"}
+}

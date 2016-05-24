@@ -1,0 +1,73 @@
+{
+  "id": 856937243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894102,41.261877,-95.894102,41.261877",
+    "geom:latitude":41.261877,
+    "geom:longitude":-95.894102,
+    "iso:country":"US",
+    "sg:address":"3003 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 0704",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vy25UTnpAnaCUnwekCyRl_41.261877_-95.894102@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109525,
+    "wof:geomhash":"4a09dcf52d8058d953123a27d6facd4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856937243
+        }
+    ],
+    "wof:id":856937243,
+    "wof:lastmodified":1464109525,
+    "wof:name":"Gorilla Wash",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.894102,
+    41.261877,
+    -95.894102,
+    41.261877
+],
+  "geometry": {"coordinates":[-95.894102,41.261877],"type":"Point"}
+}

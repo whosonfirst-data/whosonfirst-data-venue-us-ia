@@ -1,0 +1,71 @@
+{
+  "id": 856866223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.576673,41.363504,-93.576673,41.363504",
+    "geom:latitude":41.363504,
+    "geom:longitude":-93.576673,
+    "iso:country":"US",
+    "sg:address":"1200 W Clinton Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 7270",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product",
+        "wood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aispz6G20bWKJWnWD2c9T_41.363504_-93.576673@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106282,
+    "wof:geomhash":"9bab6589cf3d21ef2567d99e7817850f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856866223
+        }
+    ],
+    "wof:id":856866223,
+    "wof:lastmodified":1464106282,
+    "wof:name":"M & N Wood Products",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "wood"
+    ]
+},
+  "bbox": [
+    -93.576673,
+    41.363504,
+    -93.576673,
+    41.363504
+],
+  "geometry": {"coordinates":[-93.576673,41.363504],"type":"Point"}
+}

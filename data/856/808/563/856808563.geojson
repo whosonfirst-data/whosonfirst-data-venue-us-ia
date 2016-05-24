@@ -1,0 +1,78 @@
+{
+  "id": 856808563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.642569,41.589598,-93.642569,41.589598",
+    "geom:latitude":41.589598,
+    "geom:longitude":-93.642569,
+    "iso:country":"US",
+    "sg:address":"640 19th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 727 2300",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "sg:website":"www.americanbusinessphones.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oz7ZQ5ctsKziZ7YCMpNsz_41.589598_-93.642569@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103567,
+    "wof:geomhash":"ebf03dad09ccac2b811cad5a3b0e3e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856808563
+        }
+    ],
+    "wof:id":856808563,
+    "wof:lastmodified":1464103567,
+    "wof:name":"American Business Phones",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -93.642569,
+    41.589598,
+    -93.642569,
+    41.589598
+],
+  "geometry": {"coordinates":[-93.64256899999999,41.589598],"type":"Point"}
+}

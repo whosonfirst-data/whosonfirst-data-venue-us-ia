@@ -1,0 +1,73 @@
+{
+  "id": 857001819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653021,41.982372,-91.653021,41.982372",
+    "geom:latitude":41.982372,
+    "geom:longitude":-91.653021,
+    "iso:country":"US",
+    "sg:address":"1220 5th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8701",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jInzN9D57qs3lsYGhEAZa_41.982372_-91.653021@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112434,
+    "wof:geomhash":"443e9e7dc2d2190ad6f169f06444f67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857001819
+        }
+    ],
+    "wof:id":857001819,
+    "wof:lastmodified":1464112434,
+    "wof:name":"S T L Care Company",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -91.653021,
+    41.982372,
+    -91.653021,
+    41.982372
+],
+  "geometry": {"coordinates":[-91.653021,41.982372],"type":"Point"}
+}

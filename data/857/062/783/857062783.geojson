@@ -1,0 +1,72 @@
+{
+  "id": 857062783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.882401,41.2621,-95.882401,41.2621",
+    "geom:latitude":41.2621,
+    "geom:longitude":-95.882401,
+    "iso:country":"US",
+    "sg:address":"2508 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 2266",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lyprFBYV9NzkiE2sMlUBZ_41.262100_-95.882401@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115014,
+    "wof:geomhash":"022a70739d82409bd774c0e7631937c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062783
+        }
+    ],
+    "wof:id":857062783,
+    "wof:lastmodified":1464115014,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -95.882401,
+    41.2621,
+    -95.882401,
+    41.2621
+],
+  "geometry": {"coordinates":[-95.882401,41.2621],"type":"Point"}
+}

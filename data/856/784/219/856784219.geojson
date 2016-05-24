@@ -1,0 +1,71 @@
+{
+  "id": 856784219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.251043,41.403883,-95.251043,41.403883",
+    "geom:latitude":41.403883,
+    "geom:longitude":-95.251043,
+    "iso:country":"US",
+    "sg:address":"26947 490th St",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3933",
+    "sg:postcode":"51536",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ocqRxgBwryu2yh1DYLfx1_41.403883_-95.251043@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102533,
+    "wof:geomhash":"9d863ae9787b548fee6366783923e240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856784219
+        }
+    ],
+    "wof:id":856784219,
+    "wof:lastmodified":1464102533,
+    "wof:name":"All Climate Heating & Air",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.251043,
+    41.403883,
+    -95.251043,
+    41.403883
+],
+  "geometry": {"coordinates":[-95.251043,41.403883],"type":"Point"}
+}

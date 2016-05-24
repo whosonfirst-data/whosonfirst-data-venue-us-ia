@@ -1,0 +1,68 @@
+{
+  "id": 857070515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673486,41.944262,-91.673486,41.944262",
+    "geom:latitude":41.944262,
+    "geom:longitude":-91.673486,
+    "iso:country":"US",
+    "sg:address":"500 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 1200",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FVzPXPfqxLRSK3nuskySq_41.944262_-91.673486@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115359,
+    "wof:geomhash":"c16364cf3c9d5fe8266c034e8100719b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070515
+        }
+    ],
+    "wof:id":857070515,
+    "wof:lastmodified":1464115359,
+    "wof:name":"Wells Fargo Bank Na",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.673486,
+    41.944262,
+    -91.673486,
+    41.944262
+],
+  "geometry": {"coordinates":[-91.673486,41.944262],"type":"Point"}
+}

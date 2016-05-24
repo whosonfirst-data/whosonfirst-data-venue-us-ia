@@ -1,0 +1,71 @@
+{
+  "id": 856794253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.74917,41.963917,-91.74917,41.963917",
+    "geom:latitude":41.963917,
+    "geom:longitude":-91.74917,
+    "iso:country":"US",
+    "sg:address":"5913 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7607",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O8XiRXdcUo4n1VkkuxFpM_41.963917_-91.749170@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102947,
+    "wof:geomhash":"ddbc92568c3ad379d1ab723c0cf34691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856794253
+        }
+    ],
+    "wof:id":856794253,
+    "wof:lastmodified":1464102947,
+    "wof:name":"Automotive Physical Damage",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -91.74917,
+    41.963917,
+    -91.74917,
+    41.963917
+],
+  "geometry": {"coordinates":[-91.74917000000001,41.963917],"type":"Point"}
+}

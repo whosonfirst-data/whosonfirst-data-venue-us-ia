@@ -1,0 +1,73 @@
+{
+  "id": 856868647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608275,41.994194,-91.608275,41.994194",
+    "geom:latitude":41.994194,
+    "geom:longitude":-91.608275,
+    "iso:country":"US",
+    "sg:address":"2035 Sunland Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5359",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broadcast",
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zzhmfWep85nr1d2koPZel_41.994194_-91.608275@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106430,
+    "wof:geomhash":"b546f9a7dd312e02080786f5128a090f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856868647
+        }
+    ],
+    "wof:id":856868647,
+    "wof:lastmodified":1464106430,
+    "wof:name":"Rob Brooks Sports Network",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "reporting"
+    ]
+},
+  "bbox": [
+    -91.608275,
+    41.994194,
+    -91.608275,
+    41.994194
+],
+  "geometry": {"coordinates":[-91.60827500000001,41.994194],"type":"Point"}
+}

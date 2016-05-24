@@ -1,0 +1,71 @@
+{
+  "id": 856864939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.226053,41.51815,-94.226053,41.51815",
+    "geom:latitude":41.51815,
+    "geom:longitude":-94.226053,
+    "iso:country":"US",
+    "sg:address":"911 State St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4210",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40pJpUsrkadipUVYwBrayQ_41.518150_-94.226053@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106199,
+    "wof:geomhash":"ad543369d9518432be9b859a9d48f065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856864939
+        }
+    ],
+    "wof:id":856864939,
+    "wof:lastmodified":1464106199,
+    "wof:name":"Dexter City Hall",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -94.226053,
+    41.51815,
+    -94.226053,
+    41.51815
+],
+  "geometry": {"coordinates":[-94.22605299999999,41.51815],"type":"Point"}
+}

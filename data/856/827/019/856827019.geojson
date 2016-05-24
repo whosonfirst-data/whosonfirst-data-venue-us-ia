@@ -1,0 +1,73 @@
+{
+  "id": 856827019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.845996,41.262141,-95.845996,41.262141",
+    "geom:latitude":41.262141,
+    "geom:longitude":-95.845996,
+    "iso:country":"US",
+    "sg:address":"300 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 242 2161",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ftJsuq0HhYoN6V4F5ZEeS_41.262141_-95.845996@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104394,
+    "wof:geomhash":"2126e328141ce1b4153931ba24bb819b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856827019
+        }
+    ],
+    "wof:id":856827019,
+    "wof:lastmodified":1464104394,
+    "wof:name":"Iowa Lottery",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -95.845996,
+    41.262141,
+    -95.845996,
+    41.262141
+],
+  "geometry": {"coordinates":[-95.845996,41.262141],"type":"Point"}
+}

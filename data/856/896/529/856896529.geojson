@@ -1,0 +1,77 @@
+{
+  "id": 856896529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.697732,41.656785,-93.697732,41.656785",
+    "geom:latitude":41.656785,
+    "geom:longitude":-93.697732,
+    "iso:country":"US",
+    "sg:address":"5356 Merle Hay Rd",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 2244",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zo5DdW7GS6loLaz9ExFXV_41.656785_-93.697732@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107920,
+    "wof:geomhash":"36252c14d1b4eef6817501e6adfec194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896485,
+            "region_id":85688713,
+            "venue_id":856896529
+        }
+    ],
+    "wof:id":856896529,
+    "wof:lastmodified":1464107920,
+    "wof:name":"Jim's Repair Svc",
+    "wof:parent_id":85896485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -93.697732,
+    41.656785,
+    -93.697732,
+    41.656785
+],
+  "geometry": {"coordinates":[-93.697732,41.656785],"type":"Point"}
+}

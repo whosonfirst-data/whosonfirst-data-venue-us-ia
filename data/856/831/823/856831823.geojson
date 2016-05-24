@@ -1,0 +1,71 @@
+{
+  "id": 856831823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837846,41.218078,-95.837846,41.218078",
+    "geom:latitude":41.218078,
+    "geom:longitude":-95.837846,
+    "iso:country":"US",
+    "sg:address":"829 E South Omaha Bridge Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 9461",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IQnylzUOnJgt18qtAxc25_41.218078_-95.837846@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104597,
+    "wof:geomhash":"e2d295a3f988680a97dab50fc3dcc51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856831823
+        }
+    ],
+    "wof:id":856831823,
+    "wof:lastmodified":1464104597,
+    "wof:name":"BP",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -95.837846,
+    41.218078,
+    -95.837846,
+    41.218078
+],
+  "geometry": {"coordinates":[-95.837846,41.218078],"type":"Point"}
+}

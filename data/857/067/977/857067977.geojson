@@ -1,0 +1,75 @@
+{
+  "id": 857067977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665025,41.998624,-91.665025,41.998624",
+    "geom:latitude":41.998624,
+    "geom:longitude":-91.665025,
+    "iso:country":"US",
+    "sg:address":"1125 Hubbard Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0244",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zDid5HeRHeTDfpw3w3ftR_41.998624_-91.665025@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115239,
+    "wof:geomhash":"3585331a94d63e907ba6dfd4aa9a08e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067977
+        }
+    ],
+    "wof:id":857067977,
+    "wof:lastmodified":1464115239,
+    "wof:name":"Midwest Sound Company",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -91.665025,
+    41.998624,
+    -91.665025,
+    41.998624
+],
+  "geometry": {"coordinates":[-91.665025,41.998624],"type":"Point"}
+}

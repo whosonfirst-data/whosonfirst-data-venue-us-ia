@@ -1,0 +1,71 @@
+{
+  "id": 857007031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.42433,41.194168,-95.42433,41.194168",
+    "geom:latitude":41.194168,
+    "geom:longitude":-95.42433,
+    "iso:country":"US",
+    "sg:address":"308 Evans St",
+    "sg:city":"Macedonia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 486 2266",
+    "sg:postcode":"51549",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l19PQXtGOrJwWNp9arf8J_41.194168_-95.424330@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112646,
+    "wof:geomhash":"c7bee969ad0c02c9c44a69a2fb6d37ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857007031
+        }
+    ],
+    "wof:id":857007031,
+    "wof:lastmodified":1464112646,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.42433,
+    41.194168,
+    -95.42433,
+    41.194168
+],
+  "geometry": {"coordinates":[-95.42433,41.194168],"type":"Point"}
+}

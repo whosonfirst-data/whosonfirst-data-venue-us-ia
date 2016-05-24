@@ -1,0 +1,71 @@
+{
+  "id": 856967595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684125,42.038281,-91.684125,42.038281",
+    "geom:latitude":42.038281,
+    "geom:longitude":-91.684125,
+    "iso:country":"US",
+    "sg:address":"1092 Eisenhower Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1580",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26eSkRyh9S1CW1GmS17z8Z_42.038281_-91.684125@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110852,
+    "wof:geomhash":"f349f0ef5f3b9dd2afa4d5a3d984032e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856967595
+        }
+    ],
+    "wof:id":856967595,
+    "wof:lastmodified":1464110852,
+    "wof:name":"White Glove Movers",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -91.684125,
+    42.038281,
+    -91.684125,
+    42.038281
+],
+  "geometry": {"coordinates":[-91.68412499999999,42.038281],"type":"Point"}
+}

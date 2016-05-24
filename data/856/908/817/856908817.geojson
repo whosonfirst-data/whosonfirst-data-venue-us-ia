@@ -1,0 +1,71 @@
+{
+  "id": 856908817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.086872,41.825604,-94.086872,41.825604",
+    "geom:latitude":41.825604,
+    "geom:longitude":-94.086872,
+    "iso:country":"US",
+    "sg:address":"1428 K Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2138",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110RA7d4Jk2nwP2Z7v2dxJ_41.825604_-94.086872@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108377,
+    "wof:geomhash":"d8d7436bbaedfcee41dc6bec968707f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856908817
+        }
+    ],
+    "wof:id":856908817,
+    "wof:lastmodified":1464108377,
+    "wof:name":"Perry Transport Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.086872,
+    41.825604,
+    -94.086872,
+    41.825604
+],
+  "geometry": {"coordinates":[-94.086872,41.825604],"type":"Point"}
+}

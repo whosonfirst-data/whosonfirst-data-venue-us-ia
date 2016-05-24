@@ -1,0 +1,73 @@
+{
+  "id": 856937719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651968,41.977827,-91.651968,41.977827",
+    "geom:latitude":41.977827,
+    "geom:longitude":-91.651968,
+    "iso:country":"US",
+    "sg:address":"1052 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 0144",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VAi2kZuqhkz01qgMiKELT_41.977827_-91.651968@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109547,
+    "wof:geomhash":"060398a0471441dfea60dfd3fba97bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856937719
+        }
+    ],
+    "wof:id":856937719,
+    "wof:lastmodified":1464109547,
+    "wof:name":"Olde Towne Gifts & More",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.651968,
+    41.977827,
+    -91.651968,
+    41.977827
+],
+  "geometry": {"coordinates":[-91.651968,41.977827],"type":"Point"}
+}

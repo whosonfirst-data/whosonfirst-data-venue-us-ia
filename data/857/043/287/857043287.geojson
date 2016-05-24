@@ -1,0 +1,72 @@
+{
+  "id": 857043287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.747704,41.965099,-91.747704,41.965099",
+    "geom:latitude":41.965099,
+    "geom:longitude":-91.747704,
+    "iso:country":"US",
+    "sg:address":"470 Quail Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 6334",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.pheasantrunapt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SQBF7kOAbLedni0inXLN0_41.964906_-91.747456@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114209,
+    "wof:geomhash":"48e2e5f285256307cf7a010051b5c63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857043287
+        }
+    ],
+    "wof:id":857043287,
+    "wof:lastmodified":1464114209,
+    "wof:name":"Pheasant Run Apartments",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.747704,
+    41.965099,
+    -91.747704,
+    41.965099
+],
+  "geometry": {"coordinates":[-91.747704,41.965099],"type":"Point"}
+}

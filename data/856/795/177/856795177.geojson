@@ -1,0 +1,68 @@
+{
+  "id": 856795177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.558897,41.646866,-91.558897,41.646866",
+    "geom:latitude":41.646866,
+    "geom:longitude":-91.558897,
+    "iso:country":"US",
+    "sg:address":"1014 Sunset St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 466 1054",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qAV2XFKfHckuFHUEdF3tx_41.646866_-91.558897@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102982,
+    "wof:geomhash":"89ae758e42da388edcf788c67126d0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":856795177
+        }
+    ],
+    "wof:id":856795177,
+    "wof:lastmodified":1464102982,
+    "wof:name":"Church In Iowa City Inc",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.558897,
+    41.646866,
+    -91.558897,
+    41.646866
+],
+  "geometry": {"coordinates":[-91.558897,41.646866],"type":"Point"}
+}

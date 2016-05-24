@@ -1,0 +1,73 @@
+{
+  "id": 856798149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624403,41.978775,-91.624403,41.978775",
+    "geom:latitude":41.978775,
+    "geom:longitude":-91.624403,
+    "iso:country":"US",
+    "sg:address":"2936 Dalewood Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5965",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X5o8nuzx8fXUfqS4QHGcm_41.978775_-91.624403@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103115,
+    "wof:geomhash":"643568652612457119a97460c2f625ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856798149
+        }
+    ],
+    "wof:id":856798149,
+    "wof:lastmodified":1464103115,
+    "wof:name":"Premier Painting",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.624403,
+    41.978775,
+    -91.624403,
+    41.978775
+],
+  "geometry": {"coordinates":[-91.624403,41.978775],"type":"Point"}
+}

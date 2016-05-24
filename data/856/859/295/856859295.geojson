@@ -1,0 +1,72 @@
+{
+  "id": 856859295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.604651,41.998616,-91.604651,41.998616",
+    "geom:latitude":41.998616,
+    "geom:longitude":-91.604651,
+    "iso:country":"US",
+    "sg:address":"3963 Highlands Ln SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0212",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant"
+    ],
+    "sg:website":"www.qed.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R9RtJwGQSRuwakzhH3Y2T_41.998616_-91.604651@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105964,
+    "wof:geomhash":"f8d4f686b6be9bcf10adafdd81d0a2ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856859295
+        }
+    ],
+    "wof:id":856859295,
+    "wof:lastmodified":1464105964,
+    "wof:name":"Qed Systems",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -91.604651,
+    41.998616,
+    -91.604651,
+    41.998616
+],
+  "geometry": {"coordinates":[-91.604651,41.998616],"type":"Point"}
+}

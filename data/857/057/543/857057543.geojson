@@ -1,0 +1,74 @@
+{
+  "id": 857057543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.807045,41.589137,-93.807045,41.589137",
+    "geom:latitude":41.589137,
+    "geom:longitude":-93.807045,
+    "iso:country":"US",
+    "sg:address":"7253 Vista Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/boone/96154-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 457 9100",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51CxbgbJ1fCaxRKFROn1c4_41.589137_-93.807045@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114807,
+    "wof:geomhash":"2929c93f5ce14e50e31932c9436cc7f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857057543
+        }
+    ],
+    "wof:id":857057543,
+    "wof:lastmodified":1464114807,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.807045,
+    41.589137,
+    -93.807045,
+    41.589137
+],
+  "geometry": {"coordinates":[-93.807045,41.589137],"type":"Point"}
+}

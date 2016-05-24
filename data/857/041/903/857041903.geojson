@@ -1,0 +1,69 @@
+{
+  "id": 857041903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.488197,41.494301,-93.488197,41.494301",
+    "geom:latitude":41.494301,
+    "geom:longitude":-93.488197,
+    "iso:country":"US",
+    "sg:address":"550 S 2nd St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 4075",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dgu6drrrxcZhkIAElMaUB_41.494579_-93.488120@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114151,
+    "wof:geomhash":"8290e534ab314842edec4bbf3e244087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857041903
+        }
+    ],
+    "wof:id":857041903,
+    "wof:lastmodified":1464114151,
+    "wof:name":"Carlisle Veterinary Clinic",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.488197,
+    41.494301,
+    -93.488197,
+    41.494301
+],
+  "geometry": {"coordinates":[-93.488197,41.494301],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856859055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.547477,41.464144,-95.547477,41.464144",
+    "geom:latitude":41.464144,
+    "geom:longitude":-95.547477,
+    "iso:country":"US",
+    "sg:address":"130 Hillside Dr",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2252",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o0U00HyiQqUHsQWoAo00T_41.464144_-95.547477@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105953,
+    "wof:geomhash":"1bffeaa901a7207b7624c05cc1a312e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856859055
+        }
+    ],
+    "wof:id":856859055,
+    "wof:lastmodified":1464105953,
+    "wof:name":"Wedel Dental Labs",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -95.547477,
+    41.464144,
+    -95.547477,
+    41.464144
+],
+  "geometry": {"coordinates":[-95.547477,41.464144],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857012701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.404968,42.498501,-96.404968,42.498501",
+    "geom:latitude":42.498501,
+    "geom:longitude":-96.404968,
+    "iso:country":"US",
+    "sg:address":"701 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 293 1705",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uuNcpl03uLv7j4Pww5kTm_42.498501_-96.404968@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112896,
+    "wof:geomhash":"121153884dc808c4347385d3ff3f91ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857012701
+        }
+    ],
+    "wof:id":857012701,
+    "wof:lastmodified":1464112896,
+    "wof:name":"Project Compass",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -96.404968,
+    42.498501,
+    -96.404968,
+    42.498501
+],
+  "geometry": {"coordinates":[-96.404968,42.498501],"type":"Point"}
+}

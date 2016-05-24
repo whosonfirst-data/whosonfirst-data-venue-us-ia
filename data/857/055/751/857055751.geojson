@@ -1,0 +1,72 @@
+{
+  "id": 857055751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.848503,41.249901,-95.848503,41.249901",
+    "geom:latitude":41.249901,
+    "geom:longitude":-95.848503,
+    "iso:country":"US",
+    "sg:address":"1229 S 3rd St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 2147",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.cbvetclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7giGYxm1vDmbTFFiMUVROq_41.249840_-95.848550@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114739,
+    "wof:geomhash":"ab6401bf655fe08e2c9fefdfca219541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857055751
+        }
+    ],
+    "wof:id":857055751,
+    "wof:lastmodified":1464114739,
+    "wof:name":"Council Bluffs Veterinary Clinic",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.848503,
+    41.249901,
+    -95.848503,
+    41.249901
+],
+  "geometry": {"coordinates":[-95.84850299999999,41.249901],"type":"Point"}
+}

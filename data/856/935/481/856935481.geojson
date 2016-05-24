@@ -1,0 +1,73 @@
+{
+  "id": 856935481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.50444,41.642663,-91.50444,41.642663",
+    "geom:latitude":41.642663,
+    "geom:longitude":-91.50444,
+    "iso:country":"US",
+    "sg:address":"1700 S 1st Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3913",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gV4EHDg7IRJ2ce1mufOkx_41.642663_-91.504440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109452,
+    "wof:geomhash":"64c6a0f36b49a6cab1487c5166d50cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896445,
+            "region_id":85688713,
+            "venue_id":856935481
+        }
+    ],
+    "wof:id":856935481,
+    "wof:lastmodified":1464109452,
+    "wof:name":"Smith Accounting",
+    "wof:parent_id":85896445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -91.50444,
+    41.642663,
+    -91.50444,
+    41.642663
+],
+  "geometry": {"coordinates":[-91.50444,41.642663],"type":"Point"}
+}

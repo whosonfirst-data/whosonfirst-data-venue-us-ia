@@ -1,0 +1,69 @@
+{
+  "id": 857070815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715136,41.96369,-91.715136,41.96369",
+    "geom:latitude":41.96369,
+    "geom:longitude":-91.715136,
+    "iso:country":"US",
+    "sg:address":"3330 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 731 0036",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:website":"www.quiktrip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SUJM0TQo2xiSIF5Ffre9i_41.963690_-91.715136@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115369,
+    "wof:geomhash":"4d6071c99ac90f1db3a6167f1bb3c02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070815
+        }
+    ],
+    "wof:id":857070815,
+    "wof:lastmodified":1464115369,
+    "wof:name":"Quick Trip",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.715136,
+    41.96369,
+    -91.715136,
+    41.96369
+],
+  "geometry": {"coordinates":[-91.715136,41.96369],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856988939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.597726,41.633089,-93.597726,41.633089",
+    "geom:latitude":41.633089,
+    "geom:longitude":-93.597726,
+    "iso:country":"US",
+    "sg:address":"1511 E Madison Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 266 7256",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jwwyXZEWnpq9DzmFgEqub_41.633089_-93.597726@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111907,
+    "wof:geomhash":"659fb130f6fb64ec96de74be409aba74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856988939
+        }
+    ],
+    "wof:id":856988939,
+    "wof:lastmodified":1464111907,
+    "wof:name":"Chuck & Larry's Transmissions",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.597726,
+    41.633089,
+    -93.597726,
+    41.633089
+],
+  "geometry": {"coordinates":[-93.59772599999999,41.633089],"type":"Point"}
+}

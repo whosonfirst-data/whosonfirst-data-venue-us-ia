@@ -1,0 +1,66 @@
+{
+  "id": 857070551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653,41.9375,-91.653,41.9375",
+    "geom:latitude":41.9375,
+    "geom:longitude":-91.653,
+    "iso:country":"US",
+    "sg:address":"400 41st Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 4248",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69SLfoZN0Me8PJMmf2d71p_41.937500_-91.653000@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115360,
+    "wof:geomhash":"174b2dbecc69c56b33e4460ee1ee05d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070551
+        }
+    ],
+    "wof:id":857070551,
+    "wof:lastmodified":1464115360,
+    "wof:name":"K's Acres Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.653,
+    41.9375,
+    -91.653,
+    41.9375
+],
+  "geometry": {"coordinates":[-91.65300000000001,41.9375],"type":"Point"}
+}

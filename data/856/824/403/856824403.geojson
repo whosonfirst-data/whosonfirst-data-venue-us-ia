@@ -1,0 +1,73 @@
+{
+  "id": 856824403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.84284,41.263905,-95.84284,41.263905",
+    "geom:latitude":41.263905,
+    "geom:longitude":-95.84284,
+    "iso:country":"US",
+    "sg:address":"100 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4478",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39VkOIr1wNQcrNlZUd9NLR_41.263905_-95.842840@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104281,
+    "wof:geomhash":"4d87e16b3a4e1fd9c1d814bbc869258a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856824403
+        }
+    ],
+    "wof:id":856824403,
+    "wof:lastmodified":1464104281,
+    "wof:name":"Kids Counseling",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.84284,
+    41.263905,
+    -95.84284,
+    41.263905
+],
+  "geometry": {"coordinates":[-95.84284,41.263905],"type":"Point"}
+}

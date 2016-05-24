@@ -1,0 +1,71 @@
+{
+  "id": 857058767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849557,41.228839,-95.849557,41.228839",
+    "geom:latitude":41.228839,
+    "geom:longitude":-95.849557,
+    "iso:country":"US",
+    "sg:address":"3150 Dial Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/lewis/196113-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EUlwlZd81v10KcxikIdKU_41.228839_-95.849557@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114855,
+    "wof:geomhash":"0e6ffc04bdb531fe1cc42e1519d42cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857058767
+        }
+    ],
+    "wof:id":857058767,
+    "wof:lastmodified":1464114855,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.849557,
+    41.228839,
+    -95.849557,
+    41.228839
+],
+  "geometry": {"coordinates":[-95.849557,41.228839],"type":"Point"}
+}

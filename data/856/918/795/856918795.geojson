@@ -1,0 +1,71 @@
+{
+  "id": 856918795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724814,41.972899,-91.724814,41.972899",
+    "geom:latitude":41.972899,
+    "geom:longitude":-91.724814,
+    "iso:country":"US",
+    "sg:address":"3919 Cox Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 622 2630",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UEaePUR5mD8RGYUFtIntU_41.972899_-91.724814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108764,
+    "wof:geomhash":"ebf147049c7cefd79a88490c7e4be555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856918795
+        }
+    ],
+    "wof:id":856918795,
+    "wof:lastmodified":1464108764,
+    "wof:name":"Stump Stuff",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.724814,
+    41.972899,
+    -91.724814,
+    41.972899
+],
+  "geometry": {"coordinates":[-91.72481399999999,41.972899],"type":"Point"}
+}

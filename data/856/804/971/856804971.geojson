@@ -1,0 +1,71 @@
+{
+  "id": 856804971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909352,41.297675,-95.909352,41.297675",
+    "geom:latitude":41.297675,
+    "geom:longitude":-95.909352,
+    "iso:country":"US",
+    "sg:address":"1650 Ave Q",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6440",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05qjRgvzhTFcGPDiKx9iz6_41.297675_-95.909352@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103403,
+    "wof:geomhash":"acc08cbaafdd2c42ebb0714f33f42814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856804971
+        }
+    ],
+    "wof:id":856804971,
+    "wof:lastmodified":1464103403,
+    "wof:name":"Lakeview Bible Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.909352,
+    41.297675,
+    -95.909352,
+    41.297675
+],
+  "geometry": {"coordinates":[-95.909352,41.297675],"type":"Point"}
+}

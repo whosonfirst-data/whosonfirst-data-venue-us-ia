@@ -1,0 +1,78 @@
+{
+  "id": 857057515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.751554,41.595479,-93.751554,41.595479",
+    "geom:latitude":41.595479,
+    "geom:longitude":-93.751554,
+    "iso:country":"US",
+    "sg:address":"1551 Valley West Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/246185-maid-rite/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 309 5495",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l929vJlnR5cQHrf7q41mV_41.595479_-93.751554@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114806,
+    "wof:geomhash":"d557bf4f29a26f270683d00fbb45fe97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896539,
+            "region_id":85688713,
+            "venue_id":857057515
+        }
+    ],
+    "wof:id":857057515,
+    "wof:lastmodified":1464114806,
+    "wof:name":"Maid-rite",
+    "wof:parent_id":85896539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.751554,
+    41.595479,
+    -93.751554,
+    41.595479
+],
+  "geometry": {"coordinates":[-93.751554,41.595479],"type":"Point"}
+}

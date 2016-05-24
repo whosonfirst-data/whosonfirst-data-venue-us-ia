@@ -1,0 +1,80 @@
+{
+  "id": 857067735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665001,41.995602,-91.665001,41.995602",
+    "geom:latitude":41.995602,
+    "geom:longitude":-91.665001,
+    "iso:country":"US",
+    "sg:address":"1136 H Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9855",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "cosmetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49AchrwJCv89brUupsuW9F_41.995602_-91.665001@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115213,
+    "wof:geomhash":"8795db26fc6b50b2c8983097aa7b0b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067735
+        }
+    ],
+    "wof:id":857067735,
+    "wof:lastmodified":1464115213,
+    "wof:name":"Birchansky Lee MD Abes",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -91.665001,
+    41.995602,
+    -91.665001,
+    41.995602
+],
+  "geometry": {"coordinates":[-91.665001,41.995602],"type":"Point"}
+}

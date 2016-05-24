@@ -1,0 +1,71 @@
+{
+  "id": 856951473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678133,41.387052,-95.678133,41.387052",
+    "geom:latitude":41.387052,
+    "geom:longitude":-95.678133,
+    "iso:country":"US",
+    "sg:address":"311 3rd St",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2201",
+    "sg:postcode":"51576",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e5tMbE9oT3xvGM6WWl5nk_41.387052_-95.678133@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110143,
+    "wof:geomhash":"c911660395a87c2240fd9597d1230a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856951473
+        }
+    ],
+    "wof:id":856951473,
+    "wof:lastmodified":1464110143,
+    "wof:name":"Eaglewood Court Apartments",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.678133,
+    41.387052,
+    -95.678133,
+    41.387052
+],
+  "geometry": {"coordinates":[-95.678133,41.387052],"type":"Point"}
+}

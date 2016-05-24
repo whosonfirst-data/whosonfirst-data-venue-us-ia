@@ -1,0 +1,68 @@
+{
+  "id": 856857503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417913,42.52178,-96.417913,42.52178",
+    "geom:latitude":42.52178,
+    "geom:longitude":-96.417913,
+    "iso:country":"US",
+    "sg:address":"2916 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 1621",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WXfIlGE85XYn0TUdgunta_42.521780_-96.417913@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105861,
+    "wof:geomhash":"15abea5c6a26d9b15befaa6f5238ec2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856857503
+        }
+    ],
+    "wof:id":856857503,
+    "wof:lastmodified":1464105861,
+    "wof:name":"Siouxland Podiatry Assoc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.417913,
+    42.52178,
+    -96.417913,
+    42.52178
+],
+  "geometry": {"coordinates":[-96.417913,42.52178],"type":"Point"}
+}

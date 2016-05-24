@@ -1,0 +1,74 @@
+{
+  "id": 857051011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676697,41.945801,-91.676697,41.945801",
+    "geom:latitude":41.945801,
+    "geom:longitude":-91.676697,
+    "iso:country":"US",
+    "sg:address":"3120 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9927",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "sg:website":"www.checkerstavern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oi8UsZg54F926SzflsS2F_41.945826_-91.676546@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114548,
+    "wof:geomhash":"2c01f23e74571cd985c8750d1b919722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857051011
+        }
+    ],
+    "wof:id":857051011,
+    "wof:lastmodified":1464114548,
+    "wof:name":"Checkers Tavern",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -91.676697,
+    41.945801,
+    -91.676697,
+    41.945801
+],
+  "geometry": {"coordinates":[-91.676697,41.945801],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857071399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6557,41.960953,-91.6557,41.960953",
+    "geom:latitude":41.960953,
+    "geom:longitude":-91.6557,
+    "iso:country":"US",
+    "sg:address":"206 Collins Rd NE Ste 102",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7576",
+    "sg:postcode":"52410",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46HSG75qL3uhypO6UAIvJo_41.960953_-91.655700@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115393,
+    "wof:geomhash":"97496db8b52712f29e722f7d1a86e665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857071399
+        }
+    ],
+    "wof:id":857071399,
+    "wof:lastmodified":1464115393,
+    "wof:name":"Healthsource",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -91.6557,
+    41.960953,
+    -91.6557,
+    41.960953
+],
+  "geometry": {"coordinates":[-91.6557,41.960953],"type":"Point"}
+}

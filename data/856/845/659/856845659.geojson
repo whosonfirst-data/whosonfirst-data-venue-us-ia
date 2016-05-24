@@ -1,0 +1,71 @@
+{
+  "id": 856845659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.884837,41.216709,-95.884837,41.216709",
+    "geom:latitude":41.216709,
+    "geom:longitude":-95.884837,
+    "iso:country":"US",
+    "sg:address":"2405 W South Omaha Bridge Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 9112",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RDngRe6j1YDSNqsE2NQhu_41.216709_-95.884837@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105266,
+    "wof:geomhash":"81933599799aa3c0404c2ef52dba316e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856845659
+        }
+    ],
+    "wof:id":856845659,
+    "wof:lastmodified":1464105266,
+    "wof:name":"Twin Cities Christian Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.884837,
+    41.216709,
+    -95.884837,
+    41.216709
+],
+  "geometry": {"coordinates":[-95.884837,41.216709],"type":"Point"}
+}

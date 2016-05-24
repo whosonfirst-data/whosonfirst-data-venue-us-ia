@@ -1,0 +1,73 @@
+{
+  "id": 856818105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.606339,41.519874,-93.606339,41.519874",
+    "geom:latitude":41.519874,
+    "geom:longitude":-93.606339,
+    "iso:country":"US",
+    "sg:address":"7975 SE 5th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 256 4302",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11PW0I3S9bZe9Fra7Ilv6m_41.519874_-93.606339@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103968,
+    "wof:geomhash":"35a849e23afcfde2530ac5d13c7a0e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":856818105
+        }
+    ],
+    "wof:id":856818105,
+    "wof:lastmodified":1464103968,
+    "wof:name":"Church Of Victory",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.606339,
+    41.519874,
+    -93.606339,
+    41.519874
+],
+  "geometry": {"coordinates":[-93.60633900000001,41.519874],"type":"Point"}
+}

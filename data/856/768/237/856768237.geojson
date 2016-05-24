@@ -1,0 +1,75 @@
+{
+  "id": 856768237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.494006,41.640247,-91.494006,41.640247",
+    "geom:latitude":41.640247,
+    "geom:longitude":-91.494006,
+    "iso:country":"US",
+    "sg:address":"3001 Industrial Park Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 6109",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cartage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gSu0W2PNvTz3PRSWXgh7i_41.640247_-91.494006@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102165,
+    "wof:geomhash":"b5f0a820936fa69fee777ec9116fb549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896445,
+            "region_id":85688713,
+            "venue_id":856768237
+        }
+    ],
+    "wof:id":856768237,
+    "wof:lastmodified":1464102165,
+    "wof:name":"Schweinfurth Transfer Inc",
+    "wof:parent_id":85896445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cartage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.494006,
+    41.640247,
+    -91.494006,
+    41.640247
+],
+  "geometry": {"coordinates":[-91.494006,41.640247],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856906597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.73946,41.184881,-95.73946,41.184881",
+    "geom:latitude":41.184881,
+    "geom:longitude":-95.73946,
+    "iso:country":"US",
+    "sg:address":"11055 Dumfries Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 1930",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IuO9RktX6Qji7Z0oXekSk_41.184881_-95.739460@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108289,
+    "wof:geomhash":"ac823cf06e4302ea253f36946d4a5ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856906597
+        }
+    ],
+    "wof:id":856906597,
+    "wof:lastmodified":1464108289,
+    "wof:name":"St Paul's Evangelical Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.73946,
+    41.184881,
+    -95.73946,
+    41.184881
+],
+  "geometry": {"coordinates":[-95.73945999999999,41.184881],"type":"Point"}
+}

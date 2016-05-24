@@ -1,0 +1,75 @@
+{
+  "id": 856919567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.422961,42.494284,-96.422961,42.494284",
+    "geom:latitude":42.494284,
+    "geom:longitude":-96.422961,
+    "iso:country":"US",
+    "sg:address":"1219 Tri View Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 8354",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zyFTiyKfHStkpph6FRLac_42.494284_-96.422961@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108795,
+    "wof:geomhash":"e547b4106adbc69bc8d7049c382ccd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856919567
+        }
+    ],
+    "wof:id":856919567,
+    "wof:lastmodified":1464108795,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.422961,
+    42.494284,
+    -96.422961,
+    42.494284
+],
+  "geometry": {"coordinates":[-96.422961,42.494284],"type":"Point"}
+}

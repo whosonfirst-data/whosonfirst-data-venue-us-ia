@@ -1,0 +1,77 @@
+{
+  "id": 857069345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653397,41.9902,-91.653397,41.9902",
+    "geom:latitude":41.9902,
+    "geom:longitude":-91.653397,
+    "iso:country":"US",
+    "sg:address":"1500 B Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2475",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tI0W6i99YwKvcjWrwhkkB_41.990200_-91.653397@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115300,
+    "wof:geomhash":"52744c2a2d06829dcc3ff08b2db774ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857069345
+        }
+    ],
+    "wof:id":857069345,
+    "wof:lastmodified":1464115300,
+    "wof:name":"Polk Elementary School",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.653397,
+    41.9902,
+    -91.653397,
+    41.9902
+],
+  "geometry": {"coordinates":[-91.653397,41.9902],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857031109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.388649,41.919509,-91.388649,41.919509",
+    "geom:latitude":41.919509,
+    "geom:longitude":-91.388649,
+    "iso:country":"US",
+    "sg:address":"235 School St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2106",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KuB5kEWOffXmcCYe9ZjQm_41.919509_-91.388649@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113708,
+    "wof:geomhash":"1f77768e213680014b7e1e154a1d61d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857031109
+        }
+    ],
+    "wof:id":857031109,
+    "wof:lastmodified":1464113708,
+    "wof:name":"Lisbon Community High School",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.388649,
+    41.919509,
+    -91.388649,
+    41.919509
+],
+  "geometry": {"coordinates":[-91.388649,41.919509],"type":"Point"}
+}

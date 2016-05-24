@@ -1,0 +1,71 @@
+{
+  "id": 857020965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.68606,42.039778,-91.68606,42.039778",
+    "geom:latitude":42.039778,
+    "geom:longitude":-91.68606,
+    "iso:country":"US",
+    "sg:address":"1035 Cress Pkwy",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1418",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lp9gojtyFcsRJR2nwUaPo_42.039778_-91.686060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113227,
+    "wof:geomhash":"a8cbcd0df8f3c6bd272c5973a8d92593",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857020965
+        }
+    ],
+    "wof:id":857020965,
+    "wof:lastmodified":1464113227,
+    "wof:name":"Houtz Trucking",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.68606,
+    42.039778,
+    -91.68606,
+    42.039778
+],
+  "geometry": {"coordinates":[-91.68606,42.039778],"type":"Point"}
+}

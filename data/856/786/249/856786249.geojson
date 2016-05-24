@@ -1,0 +1,75 @@
+{
+  "id": 856786249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.79138,41.210244,-95.79138,41.210244",
+    "geom:latitude":41.210244,
+    "geom:longitude":-95.79138,
+    "iso:country":"US",
+    "sg:address":"13396 US Hwy 275",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2892",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TQl19C0BwUlfYuge9U17y_41.210244_-95.791380@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102625,
+    "wof:geomhash":"fd24ae8807bdc4044424dd6770357d4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856786249
+        }
+    ],
+    "wof:id":856786249,
+    "wof:lastmodified":1464102625,
+    "wof:name":"Tastee Treet",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -95.79138,
+    41.210244,
+    -95.79138,
+    41.210244
+],
+  "geometry": {"coordinates":[-95.79138,41.210244],"type":"Point"}
+}

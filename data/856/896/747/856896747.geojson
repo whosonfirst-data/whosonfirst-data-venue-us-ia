@@ -1,0 +1,73 @@
+{
+  "id": 856896747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.680486,41.977913,-91.680486,41.977913",
+    "geom:latitude":41.977913,
+    "geom:longitude":-91.680486,
+    "iso:country":"US",
+    "sg:address":"509 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1368",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ARLVpvjBvwWVan8kgxBKa_41.977913_-91.680486@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107931,
+    "wof:geomhash":"4ec1a4ce527830da772d3708dde450e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856896747
+        }
+    ],
+    "wof:id":856896747,
+    "wof:lastmodified":1464107931,
+    "wof:name":"H & H Radiator Shop",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.680486,
+    41.977913,
+    -91.680486,
+    41.977913
+],
+  "geometry": {"coordinates":[-91.680486,41.977913],"type":"Point"}
+}

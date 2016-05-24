@@ -1,0 +1,71 @@
+{
+  "id": 857067487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.701103,42.0172,-91.701103,42.0172",
+    "geom:latitude":42.0172,
+    "geom:longitude":-91.701103,
+    "iso:country":"US",
+    "sg:address":"3801 River Ridge Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 9157",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tyZk51WOhVSUoXdc2Wy4A_42.017200_-91.701103@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115203,
+    "wof:geomhash":"03cbeb7f35b4e5df144f2560b59468a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857067487
+        }
+    ],
+    "wof:id":857067487,
+    "wof:lastmodified":1464115203,
+    "wof:name":"Sattler Jim Inc Custom Homes",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.701103,
+    42.0172,
+    -91.701103,
+    42.0172
+],
+  "geometry": {"coordinates":[-91.701103,42.0172],"type":"Point"}
+}

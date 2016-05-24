@@ -1,0 +1,71 @@
+{
+  "id": 856769137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659425,42.00678,-91.659425,42.00678",
+    "geom:latitude":42.00678,
+    "geom:longitude":-91.659425,
+    "iso:country":"US",
+    "sg:address":"1515 29th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5420",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aodUcS9Q4qgZokDMpI8S7_42.006780_-91.659425@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102189,
+    "wof:geomhash":"1f80f6d193db474177ea06040e01200e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856769137
+        }
+    ],
+    "wof:id":856769137,
+    "wof:lastmodified":1464102189,
+    "wof:name":"Word Of God Lutheran Church",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.659425,
+    42.00678,
+    -91.659425,
+    42.00678
+],
+  "geometry": {"coordinates":[-91.659425,42.00678],"type":"Point"}
+}

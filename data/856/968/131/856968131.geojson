@@ -1,0 +1,73 @@
+{
+  "id": 856968131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.353005,42.473756,-96.353005,42.473756",
+    "geom:latitude":42.473756,
+    "geom:longitude":-96.353005,
+    "iso:country":"US",
+    "sg:address":"1600 S Patterson St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 1753",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AOR1Y0M7tcNSU7Zv4M6Ng_42.473756_-96.353005@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110876,
+    "wof:geomhash":"9eaac238b01acf94dd976c7cba882747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856968131
+        }
+    ],
+    "wof:id":856968131,
+    "wof:lastmodified":1464110876,
+    "wof:name":"Airlink Services Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.353005,
+    42.473756,
+    -96.353005,
+    42.473756
+],
+  "geometry": {"coordinates":[-96.353005,42.473756],"type":"Point"}
+}

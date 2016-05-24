@@ -1,0 +1,76 @@
+{
+  "id": 856798727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.866349,42.38821,-95.866349,42.38821",
+    "geom:latitude":42.38821,
+    "geom:longitude":-95.866349,
+    "iso:country":"US",
+    "sg:address":"106 S 2nd Ave",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 5223",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F5oPtoIKgjdvbfX1Z3rGe_42.388210_-95.866349@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103146,
+    "wof:geomhash":"222be95040a7f96d44773fbf048d0a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856798727
+        }
+    ],
+    "wof:id":856798727,
+    "wof:lastmodified":1464103146,
+    "wof:name":"Home Shop",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.866349,
+    42.38821,
+    -95.866349,
+    42.38821
+],
+  "geometry": {"coordinates":[-95.866349,42.38821],"type":"Point"}
+}

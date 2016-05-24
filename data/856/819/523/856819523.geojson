@@ -1,0 +1,74 @@
+{
+  "id": 856819523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881749,41.278181,-95.881749,41.278181",
+    "geom:latitude":41.278181,
+    "geom:longitude":-95.881749,
+    "iso:country":"US",
+    "sg:address":"2000 N 25th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1006",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.cbwaterworks.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SglpmHfimTsIXa7f5uetm_41.278181_-95.881749@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104037,
+    "wof:geomhash":"1e1bab956c08e2ba7251a049f598f21c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856819523
+        }
+    ],
+    "wof:id":856819523,
+    "wof:lastmodified":1464104037,
+    "wof:name":"Council Bluffs Water Works",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -95.881749,
+    41.278181,
+    -95.881749,
+    41.278181
+],
+  "geometry": {"coordinates":[-95.881749,41.278181],"type":"Point"}
+}

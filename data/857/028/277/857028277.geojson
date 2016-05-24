@@ -1,0 +1,73 @@
+{
+  "id": 857028277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.350388,42.452334,-96.350388,42.452334",
+    "geom:latitude":42.452334,
+    "geom:longitude":-96.350388,
+    "iso:country":"US",
+    "sg:address":"4316 Lincoln Way",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 6579",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "installation",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W2aSdH8YaGNGxPKioCacH_42.452334_-96.350388@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113559,
+    "wof:geomhash":"9271fe3f6e89dc4c10d702100a4dca30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857028277
+        }
+    ],
+    "wof:id":857028277,
+    "wof:lastmodified":1464113559,
+    "wof:name":"Tom Brown Drapery Installation",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -96.350388,
+    42.452334,
+    -96.350388,
+    42.452334
+],
+  "geometry": {"coordinates":[-96.350388,42.452334],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857064295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916298,41.284801,-95.916298,41.284801",
+    "geom:latitude":41.284801,
+    "geom:longitude":-95.916298,
+    "iso:country":"US",
+    "sg:address":"1204 Locust St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6070",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.peoplesnb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YWffLAUpGCtRbzF1C6l4e_41.284801_-95.916298@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115072,
+    "wof:geomhash":"6ac0314330835d5460b306843c5d25b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064295
+        }
+    ],
+    "wof:id":857064295,
+    "wof:lastmodified":1464115072,
+    "wof:name":"Peoples National Bank",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -95.916298,
+    41.284801,
+    -95.916298,
+    41.284801
+],
+  "geometry": {"coordinates":[-95.916298,41.284801],"type":"Point"}
+}

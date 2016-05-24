@@ -1,0 +1,66 @@
+{
+  "id": 856849981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.521983,42.206116,-91.521983,42.206116",
+    "geom:latitude":42.206116,
+    "geom:longitude":-91.521983,
+    "iso:country":"US",
+    "sg:address":"627 State St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6335",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yhzKFuxoFX1kYYiuiE90A_42.206116_-91.521983@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105520,
+    "wof:geomhash":"2dce8963b0110b2615ede4aae3f45f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856849981
+        }
+    ],
+    "wof:id":856849981,
+    "wof:lastmodified":1464105520,
+    "wof:name":"Cathleens Flower Shop",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.521983,
+    42.206116,
+    -91.521983,
+    42.206116
+],
+  "geometry": {"coordinates":[-91.52198300000001,42.206116],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856933769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.613033,41.23241,-95.613033,41.23241",
+    "geom:latitude":41.23241,
+    "geom:longitude":-95.613033,
+    "iso:country":"US",
+    "sg:address":"2 W Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3411",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vs5r0z06ccPdH7NMVS8bq_41.232410_-95.613033@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109385,
+    "wof:geomhash":"11a13ee87905c7f8d1a1fed8ca7471ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856933769
+        }
+    ],
+    "wof:id":856933769,
+    "wof:lastmodified":1464109385,
+    "wof:name":"Andersen's Service",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -95.613033,
+    41.23241,
+    -95.613033,
+    41.23241
+],
+  "geometry": {"coordinates":[-95.613033,41.23241],"type":"Point"}
+}

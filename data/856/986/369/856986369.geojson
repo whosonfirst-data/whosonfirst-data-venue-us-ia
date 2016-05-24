@@ -1,0 +1,73 @@
+{
+  "id": 856986369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672999,42.047081,-91.672999,42.047081",
+    "geom:latitude":42.047081,
+    "geom:longitude":-91.672999,
+    "iso:country":"US",
+    "sg:address":"990 Robins Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5353",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BQHZYCNB2ouu4dsncPff5_42.047081_-91.672999@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111810,
+    "wof:geomhash":"d2bd2ce819748788215be7af3e1bef85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856986369
+        }
+    ],
+    "wof:id":856986369,
+    "wof:lastmodified":1464111810,
+    "wof:name":"M & M Auto Sales",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.672999,
+    42.047081,
+    -91.672999,
+    42.047081
+],
+  "geometry": {"coordinates":[-91.672999,42.047081],"type":"Point"}
+}

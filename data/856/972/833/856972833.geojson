@@ -1,0 +1,75 @@
+{
+  "id": 856972833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.596208,42.04307,-91.596208,42.04307",
+    "geom:latitude":42.04307,
+    "geom:longitude":-91.596208,
+    "iso:country":"US",
+    "sg:address":"1290 McGowan Blvd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 431 1002",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XtXl3c2WbWHKTVoiCYYeA_42.043070_-91.596208@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111097,
+    "wof:geomhash":"09de800257b174e26af1485f270804bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856972833
+        }
+    ],
+    "wof:id":856972833,
+    "wof:lastmodified":1464111097,
+    "wof:name":"DEK Solutions",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.596208,
+    42.04307,
+    -91.596208,
+    42.04307
+],
+  "geometry": {"coordinates":[-91.596208,42.04307],"type":"Point"}
+}

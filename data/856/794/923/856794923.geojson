@@ -1,0 +1,79 @@
+{
+  "id": 856794923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.547058,41.477309,-95.547058,41.477309",
+    "geom:latitude":41.477309,
+    "geom:longitude":-95.547058,
+    "iso:country":"US",
+    "sg:address":"32758 Westgate Rd",
+    "sg:city":"Minden",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 483 2292",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feedlot",
+        "hog",
+        "corn",
+        "or",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Phj0oqStfQOaCFEiVhgYW_41.477309_-95.547058@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102972,
+    "wof:geomhash":"63a2e84c4e0d3497c4e5a211b35e20fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856794923
+        }
+    ],
+    "wof:id":856794923,
+    "wof:lastmodified":1464102972,
+    "wof:name":"Brian Flemming",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "hog",
+        "corn",
+        "or",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -95.547058,
+    41.477309,
+    -95.547058,
+    41.477309
+],
+  "geometry": {"coordinates":[-95.54705800000001,41.477309],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856836169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.826314,41.617715,-93.826314,41.617715",
+    "geom:latitude":41.617715,
+    "geom:longitude":-93.826314,
+    "iso:country":"US",
+    "sg:address":"15133 Sheridan Ave",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 3508",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uWBKpM5mK5RXlSOtp4bd0_41.617715_-93.826314@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104831,
+    "wof:geomhash":"0a98f4b91a263ac96b41bed6bc64a640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856836169
+        }
+    ],
+    "wof:id":856836169,
+    "wof:lastmodified":1464104831,
+    "wof:name":"Charm Connection",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.826314,
+    41.617715,
+    -93.826314,
+    41.617715
+],
+  "geometry": {"coordinates":[-93.826314,41.617715],"type":"Point"}
+}

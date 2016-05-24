@@ -1,0 +1,73 @@
+{
+  "id": 856968755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.606601,41.978248,-91.606601,41.978248",
+    "geom:latitude":41.978248,
+    "geom:longitude":-91.606601,
+    "iso:country":"US",
+    "sg:address":"756 E Post Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7267",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jUR3aS2ZnF3VV0GN3ejtw_41.978248_-91.606601@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110899,
+    "wof:geomhash":"055a82caf50688ad4b34e71d93bd3258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856968755
+        }
+    ],
+    "wof:id":856968755,
+    "wof:lastmodified":1464110899,
+    "wof:name":"Rick Freese Well Drilling",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -91.606601,
+    41.978248,
+    -91.606601,
+    41.978248
+],
+  "geometry": {"coordinates":[-91.606601,41.978248],"type":"Point"}
+}

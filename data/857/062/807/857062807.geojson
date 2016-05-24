@@ -1,0 +1,85 @@
+{
+  "id": 857062807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8936,41.2258,-95.8936,41.2258",
+    "geom:latitude":41.2258,
+    "geom:longitude":-95.8936,
+    "iso:country":"US",
+    "sg:address":"3434 Richard Downing Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 4900",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "tour",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2673mW7d0OSUPJnV6gzhbU_41.225800_-95.893600@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115015,
+    "wof:geomhash":"c1c1aef502253ca221125e50f7a0b7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062807
+        }
+    ],
+    "wof:id":857062807,
+    "wof:lastmodified":1464115015,
+    "wof:name":"Western Historic Trails Center",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "tour",
+        "historical"
+    ]
+},
+  "bbox": [
+    -95.8936,
+    41.2258,
+    -95.8936,
+    41.2258
+],
+  "geometry": {"coordinates":[-95.89360000000001,41.2258],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856830983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.1961,41.592391,-94.1961,41.592391",
+    "geom:latitude":41.592391,
+    "geom:longitude":-94.1961,
+    "iso:country":"US",
+    "sg:address":"1013 1st St",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 833 2301",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m3jXtK3nKMLyTy4vTvjY9_41.592391_-94.196100@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104551,
+    "wof:geomhash":"8f2e1fc6749ab451fc37e674a23dc008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856830983
+        }
+    ],
+    "wof:id":856830983,
+    "wof:lastmodified":1464104551,
+    "wof:name":"Redfield Medical Clinic",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.1961,
+    41.592391,
+    -94.1961,
+    41.592391
+],
+  "geometry": {"coordinates":[-94.1961,41.592391],"type":"Point"}
+}

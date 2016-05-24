@@ -1,0 +1,72 @@
+{
+  "id": 857062633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854103,41.230301,-95.854103,41.230301",
+    "geom:latitude":41.230301,
+    "geom:longitude":-95.854103,
+    "iso:country":"US",
+    "sg:address":"3001 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 3617",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58OpKGgjGvSEFzezekZFxo_41.230301_-95.854103@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115009,
+    "wof:geomhash":"203d99bb858ca8ee7046fefd0e174908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062633
+        }
+    ],
+    "wof:id":857062633,
+    "wof:lastmodified":1464115009,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -95.854103,
+    41.230301,
+    -95.854103,
+    41.230301
+],
+  "geometry": {"coordinates":[-95.85410299999999,41.230301],"type":"Point"}
+}

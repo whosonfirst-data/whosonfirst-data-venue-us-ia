@@ -1,0 +1,73 @@
+{
+  "id": 856989689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.58995,41.645386,-91.58995,41.645386",
+    "geom:latitude":41.645386,
+    "geom:longitude":-91.58995,
+    "iso:country":"US",
+    "sg:address":"3315 Rohret Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 1345",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WYRxl4TOte5Y6rePe57OX_41.645386_-91.589950@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111956,
+    "wof:geomhash":"192117100e01cd90eba09a515cd1209d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":856989689
+        }
+    ],
+    "wof:id":856989689,
+    "wof:lastmodified":1464111956,
+    "wof:name":"Valucon Inc",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.58995,
+    41.645386,
+    -91.58995,
+    41.645386
+],
+  "geometry": {"coordinates":[-91.58995,41.645386],"type":"Point"}
+}

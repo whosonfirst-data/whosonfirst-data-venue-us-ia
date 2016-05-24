@@ -1,0 +1,66 @@
+{
+  "id": 857065593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773824,41.929693,-91.773824,41.929693",
+    "geom:latitude":41.929693,
+    "geom:longitude":-91.773824,
+    "iso:country":"US",
+    "sg:address":"305 80th Street Ct",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 845 5150",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yw22enq9el8YDXNxHCNcP_41.929693_-91.773824@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115119,
+    "wof:geomhash":"cdf1fa32df7b4c639e9a06bf5d44800b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065593
+        }
+    ],
+    "wof:id":857065593,
+    "wof:lastmodified":1464115119,
+    "wof:name":"Global Automotive Services",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.773824,
+    41.929693,
+    -91.773824,
+    41.929693
+],
+  "geometry": {"coordinates":[-91.773824,41.929693],"type":"Point"}
+}

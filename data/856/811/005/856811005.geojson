@@ -1,0 +1,73 @@
+{
+  "id": 856811005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890609,41.261887,-95.890609,41.261887",
+    "geom:latitude":41.261887,
+    "geom:longitude":-95.890609,
+    "iso:country":"US",
+    "sg:address":"2811 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 9024",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u3kQulGiRtx9T3PkzsMB6_41.261887_-95.890609@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103672,
+    "wof:geomhash":"3b249e49510f9efdcc67763cc34791fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856811005
+        }
+    ],
+    "wof:id":856811005,
+    "wof:lastmodified":1464103672,
+    "wof:name":"Autozone",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -95.890609,
+    41.261887,
+    -95.890609,
+    41.261887
+],
+  "geometry": {"coordinates":[-95.890609,41.261887],"type":"Point"}
+}

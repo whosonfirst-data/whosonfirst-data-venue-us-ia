@@ -1,0 +1,74 @@
+{
+  "id": 856961905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736518,41.659116,-93.736518,41.659116",
+    "geom:latitude":41.659116,
+    "geom:longitude":-93.736518,
+    "iso:country":"US",
+    "sg:address":"5440 NW 86th St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 0300",
+    "sg:postcode":"50131",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.dahlsfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944149,
+        102086603,
+        85896489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YwFNdOzU75BVQtDLXq4Jk_41.659116_-93.736518@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110630,
+    "wof:geomhash":"c65ddcd51d24fd59ce5af7fee16a606b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944149,
+            "neighbourhood_id":85896489,
+            "region_id":85688713,
+            "venue_id":856961905
+        }
+    ],
+    "wof:id":856961905,
+    "wof:lastmodified":1464110630,
+    "wof:name":"Dahl's Food Marts",
+    "wof:parent_id":85896489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.736518,
+    41.659116,
+    -93.736518,
+    41.659116
+],
+  "geometry": {"coordinates":[-93.736518,41.659116],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857068265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665335,42.020768,-91.665335,42.020768",
+    "geom:latitude":42.020768,
+    "geom:longitude":-91.665335,
+    "iso:country":"US",
+    "sg:address":"4111 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 261 0725",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rjc5jp5060phfQIng2HaQ_42.020768_-91.665335@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115251,
+    "wof:geomhash":"2391678cbc5b71bedd7e50fe47f68f8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068265
+        }
+    ],
+    "wof:id":857068265,
+    "wof:lastmodified":1464115251,
+    "wof:name":"Golden Nails",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.665335,
+    42.020768,
+    -91.665335,
+    42.020768
+],
+  "geometry": {"coordinates":[-91.665335,42.020768],"type":"Point"}
+}

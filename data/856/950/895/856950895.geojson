@@ -1,0 +1,71 @@
+{
+  "id": 856950895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.737528,41.962233,-91.737528,41.962233",
+    "geom:latitude":41.962233,
+    "geom:longitude":-91.737528,
+    "iso:country":"US",
+    "sg:address":"5202 18th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1817",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eYzrzo9jNFyw7FQp2Y5RJ_41.962233_-91.737528@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110119,
+    "wof:geomhash":"d11411aa2028331b294d567a2e3f18df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856950895
+        }
+    ],
+    "wof:id":856950895,
+    "wof:lastmodified":1464110119,
+    "wof:name":"Superior Janitorial Svc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.737528,
+    41.962233,
+    -91.737528,
+    41.962233
+],
+  "geometry": {"coordinates":[-91.737528,41.962233],"type":"Point"}
+}

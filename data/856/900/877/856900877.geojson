@@ -1,0 +1,73 @@
+{
+  "id": 856900877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.63235,41.501439,-90.63235,41.501439",
+    "geom:latitude":41.501439,
+    "geom:longitude":-90.63235,
+    "iso:country":"US",
+    "sg:address":"3863 W River Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 345 6005",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RCjSandW7kZRLDCB3EFHH_41.501439_-90.632350@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108086,
+    "wof:geomhash":"3b130b0611becdcdf84e1471bf12f41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856900877
+        }
+    ],
+    "wof:id":856900877,
+    "wof:lastmodified":1464108086,
+    "wof:name":"Blachowski Trucking",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.63235,
+    41.501439,
+    -90.63235,
+    41.501439
+],
+  "geometry": {"coordinates":[-90.63235,41.501439],"type":"Point"}
+}

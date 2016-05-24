@@ -1,0 +1,74 @@
+{
+  "id": 857025197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.404997,42.507915,-96.404997,42.507915",
+    "geom:latitude":42.507915,
+    "geom:longitude":-96.404997,
+    "iso:country":"US",
+    "sg:address":"1622 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 6171",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "comic"
+    ],
+    "sg:website":"www.acmefirst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FOKl1eHUCDcS79G8WjmH1_42.507915_-96.404997@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113424,
+    "wof:geomhash":"785500eccdcb36ecd5afe94abadb976d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857025197
+        }
+    ],
+    "wof:id":857025197,
+    "wof:lastmodified":1464113424,
+    "wof:name":"Acme Comics & Collectibles",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -96.404997,
+    42.507915,
+    -96.404997,
+    42.507915
+],
+  "geometry": {"coordinates":[-96.40499699999999,42.507915],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856922709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716394,41.956726,-91.716394,41.956726",
+    "geom:latitude":41.956726,
+    "geom:longitude":-91.716394,
+    "iso:country":"US",
+    "sg:address":"2040 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 654 8446",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xvOKEnDCf4H8vfYIztwP3_41.956726_-91.716394@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108939,
+    "wof:geomhash":"c15df71bd8ed4a0343c9e6058f9ad007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856922709
+        }
+    ],
+    "wof:id":856922709,
+    "wof:lastmodified":1464108939,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.716394,
+    41.956726,
+    -91.716394,
+    41.956726
+],
+  "geometry": {"coordinates":[-91.71639399999999,41.956726],"type":"Point"}
+}

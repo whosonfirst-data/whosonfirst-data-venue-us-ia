@@ -1,0 +1,71 @@
+{
+  "id": 856804819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.628017,41.974244,-91.628017,41.974244",
+    "geom:latitude":41.974244,
+    "geom:longitude":-91.628017,
+    "iso:country":"US",
+    "sg:address":"1030 Memorial Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 4217",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DyP1Zb4WT7uXoqlF8dVLX_41.974244_-91.628017@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103394,
+    "wof:geomhash":"386c16aad16aa82c8f4027b605fd5075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856804819
+        }
+    ],
+    "wof:id":856804819,
+    "wof:lastmodified":1464103394,
+    "wof:name":"Simons Drywall",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.628017,
+    41.974244,
+    -91.628017,
+    41.974244
+],
+  "geometry": {"coordinates":[-91.628017,41.974244],"type":"Point"}
+}

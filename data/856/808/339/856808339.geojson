@@ -1,0 +1,71 @@
+{
+  "id": 856808339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663975,41.999623,-91.663975,41.999623",
+    "geom:latitude":41.999623,
+    "geom:longitude":-91.663975,
+    "iso:country":"US",
+    "sg:address":"1036 12th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0634",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sfd5Z2QeDPkJQW3IRKBve_41.999623_-91.663975@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103548,
+    "wof:geomhash":"dea3ae46a8cc61a4aebeb194800a9b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856808339
+        }
+    ],
+    "wof:id":856808339,
+    "wof:lastmodified":1464103548,
+    "wof:name":"Maximum Office Cleaners",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.663975,
+    41.999623,
+    -91.663975,
+    41.999623
+],
+  "geometry": {"coordinates":[-91.66397499999999,41.999623],"type":"Point"}
+}

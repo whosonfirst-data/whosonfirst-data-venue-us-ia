@@ -1,0 +1,73 @@
+{
+  "id": 856800307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.012554,41.534454,-94.012554,41.534454",
+    "geom:latitude":41.534454,
+    "geom:longitude":-94.012554,
+    "iso:country":"US",
+    "sg:address":"909 Guthrie St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2179",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JYrUfryMOOLvCAOFgRVdi_41.534454_-94.012554@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103209,
+    "wof:geomhash":"6798ddeccdddd5cfbb1ae29b26a9db6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856800307
+        }
+    ],
+    "wof:id":856800307,
+    "wof:lastmodified":1464103209,
+    "wof:name":"Pro Electric Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.012554,
+    41.534454,
+    -94.012554,
+    41.534454
+],
+  "geometry": {"coordinates":[-94.01255399999999,41.534454],"type":"Point"}
+}

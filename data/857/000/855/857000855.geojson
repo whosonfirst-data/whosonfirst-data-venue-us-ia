@@ -1,0 +1,73 @@
+{
+  "id": 857000855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860387,41.248569,-95.860387,41.248569",
+    "geom:latitude":41.248569,
+    "geom:longitude":-95.860387,
+    "iso:country":"US",
+    "sg:address":"1005 14th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8054",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UFOZKV5SGzIJM41LF3oSt_41.248569_-95.860387@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112396,
+    "wof:geomhash":"913ba23b6d6c54724ea3801f272f8dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857000855
+        }
+    ],
+    "wof:id":857000855,
+    "wof:lastmodified":1464112396,
+    "wof:name":"Peterson Carpentry",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.860387,
+    41.248569,
+    -95.860387,
+    41.248569
+],
+  "geometry": {"coordinates":[-95.860387,41.248569],"type":"Point"}
+}

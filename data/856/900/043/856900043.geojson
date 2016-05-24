@@ -1,0 +1,77 @@
+{
+  "id": 856900043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683318,41.962999,-91.683318,41.962999",
+    "geom:latitude":41.962999,
+    "geom:longitude":-91.683318,
+    "iso:country":"US",
+    "sg:address":"926 15th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7460",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HXDeldqHalFC6ZAIdTTvI_41.962999_-91.683318@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108052,
+    "wof:geomhash":"176b63cbb977c200124d65519c6a56b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856900043
+        }
+    ],
+    "wof:id":856900043,
+    "wof:lastmodified":1464108052,
+    "wof:name":"Daves Hauling Solutions",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.683318,
+    41.962999,
+    -91.683318,
+    41.962999
+],
+  "geometry": {"coordinates":[-91.683318,41.962999],"type":"Point"}
+}

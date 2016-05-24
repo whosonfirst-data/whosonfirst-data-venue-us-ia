@@ -1,0 +1,71 @@
+{
+  "id": 856782335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.536134,41.950326,-91.536134,41.950326",
+    "geom:latitude":41.950326,
+    "geom:longitude":-91.536134,
+    "iso:country":"US",
+    "sg:address":"211 Angle St",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8077",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KY3i4wnnGXLxnP0HlhNqn_41.950326_-91.536134@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102486,
+    "wof:geomhash":"92128b9b5d03e78d5b253a1a58cbb3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856782335
+        }
+    ],
+    "wof:id":856782335,
+    "wof:lastmodified":1464102486,
+    "wof:name":"Bertram United Methodist Chr",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.536134,
+    41.950326,
+    -91.536134,
+    41.950326
+],
+  "geometry": {"coordinates":[-91.536134,41.950326],"type":"Point"}
+}

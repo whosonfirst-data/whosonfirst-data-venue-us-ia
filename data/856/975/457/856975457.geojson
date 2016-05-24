@@ -1,0 +1,79 @@
+{
+  "id": 856975457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.565741,41.638398,-91.565741,41.638398",
+    "geom:latitude":41.638398,
+    "geom:longitude":-91.565741,
+    "iso:country":"US",
+    "sg:address":"76 Westside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 1818",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "radiation",
+        "medical",
+        "safety",
+        "physics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zYRDijgCWS5XkDRfsSlxx_41.638398_-91.565741@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111232,
+    "wof:geomhash":"87b3cd72ff5359968385cdb42aa903bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896457,
+            "region_id":85688713,
+            "venue_id":856975457
+        }
+    ],
+    "wof:id":856975457,
+    "wof:lastmodified":1464111232,
+    "wof:name":"Health Physics Associates",
+    "wof:parent_id":85896457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiation",
+        "medical",
+        "safety",
+        "physics"
+    ]
+},
+  "bbox": [
+    -91.565741,
+    41.638398,
+    -91.565741,
+    41.638398
+],
+  "geometry": {"coordinates":[-91.565741,41.638398],"type":"Point"}
+}

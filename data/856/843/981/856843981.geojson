@@ -1,0 +1,71 @@
+{
+  "id": 856843981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.78271,41.919136,-91.78271,41.919136",
+    "geom:latitude":41.919136,
+    "geom:longitude":-91.78271,
+    "iso:country":"US",
+    "sg:address":"111 Main St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 227 7017",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UFzVZ5uuFC7ulr3BRCXVO_41.919136_-91.782710@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105172,
+    "wof:geomhash":"f9ba358b609a9ddbaa6b75af4c42e6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856843981
+        }
+    ],
+    "wof:id":856843981,
+    "wof:lastmodified":1464105172,
+    "wof:name":"By The Foot",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -91.78271,
+    41.919136,
+    -91.78271,
+    41.919136
+],
+  "geometry": {"coordinates":[-91.78270999999999,41.919136],"type":"Point"}
+}

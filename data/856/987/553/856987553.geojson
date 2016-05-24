@@ -1,0 +1,73 @@
+{
+  "id": 856987553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892359,41.252886,-95.892359,41.252886",
+    "geom:latitude":41.252886,
+    "geom:longitude":-95.892359,
+    "iso:country":"US",
+    "sg:address":"926 Spruce St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 0187",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XftPYNvkMXfNpOBLCancr_41.252886_-95.892359@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111856,
+    "wof:geomhash":"d248bfbe776d47aa006cd20937bcb232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856987553
+        }
+    ],
+    "wof:id":856987553,
+    "wof:lastmodified":1464111856,
+    "wof:name":"United Roofing",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.892359,
+    41.252886,
+    -95.892359,
+    41.252886
+],
+  "geometry": {"coordinates":[-95.892359,41.252886],"type":"Point"}
+}

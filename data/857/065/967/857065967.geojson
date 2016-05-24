@@ -1,0 +1,66 @@
+{
+  "id": 857065967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.612801,42.030602,-91.612801,42.030602",
+    "geom:latitude":42.030602,
+    "geom:longitude":-91.612801,
+    "iso:country":"US",
+    "sg:address":"343 Marion Blvd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6601",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AupDKz06sAVy7tOusGzgN_42.030602_-91.612801@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115134,
+    "wof:geomhash":"060ff588e1e2cb21a6eadc8e99a1da79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065967
+        }
+    ],
+    "wof:id":857065967,
+    "wof:lastmodified":1464115134,
+    "wof:name":"Marion Parks & Recreation",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.612801,
+    42.030602,
+    -91.612801,
+    42.030602
+],
+  "geometry": {"coordinates":[-91.612801,42.030602],"type":"Point"}
+}

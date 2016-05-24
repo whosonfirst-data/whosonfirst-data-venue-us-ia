@@ -1,0 +1,73 @@
+{
+  "id": 856931189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.693671,41.541031,-93.693671,41.541031",
+    "geom:latitude":41.541031,
+    "geom:longitude":-93.693671,
+    "iso:country":"US",
+    "sg:address":"3901 SW 56th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 4682",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yPwOJUALqavTJKUh0zFbm_41.541031_-93.693671@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109291,
+    "wof:geomhash":"8e5d8238c9d15c686e4983236555548e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877107,
+            "region_id":85688713,
+            "venue_id":856931189
+        }
+    ],
+    "wof:id":856931189,
+    "wof:lastmodified":1464109291,
+    "wof:name":"Green Chris Contractor Inc",
+    "wof:parent_id":85877107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.693671,
+    41.541031,
+    -93.693671,
+    41.541031
+],
+  "geometry": {"coordinates":[-93.69367099999999,41.541031],"type":"Point"}
+}

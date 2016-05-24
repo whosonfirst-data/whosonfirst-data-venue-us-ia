@@ -1,0 +1,74 @@
+{
+  "id": 857062571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901901,41.250801,-95.901901,41.250801",
+    "geom:latitude":41.250801,
+    "geom:longitude":-95.901901,
+    "iso:country":"US",
+    "sg:address":"1207 S 35th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5456",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "traditional",
+        "american"
+    ],
+    "sg:website":"www.tishs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W8jttAIceqMyYvBOwKd5f_41.250801_-95.901901@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115007,
+    "wof:geomhash":"e865b884593d707a7356db0bd7509d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062571
+        }
+    ],
+    "wof:id":857062571,
+    "wof:lastmodified":1464115007,
+    "wof:name":"Tish's",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.901901,
+    41.250801,
+    -95.901901,
+    41.250801
+],
+  "geometry": {"coordinates":[-95.901901,41.250801],"type":"Point"}
+}

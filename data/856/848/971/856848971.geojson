@@ -1,0 +1,73 @@
+{
+  "id": 856848971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.428549,42.512075,-96.428549,42.512075",
+    "geom:latitude":42.512075,
+    "geom:longitude":-96.428549,
+    "iso:country":"US",
+    "sg:address":"2060 Ross St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 3642",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uPmq9RDdp9WfaavlaOMrc_42.512075_-96.428549@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105467,
+    "wof:geomhash":"02a7792c6e1b415280e3945c06be91bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856848971
+        }
+    ],
+    "wof:id":856848971,
+    "wof:lastmodified":1464105467,
+    "wof:name":"Auto Service Ctr",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.428549,
+    42.512075,
+    -96.428549,
+    42.512075
+],
+  "geometry": {"coordinates":[-96.428549,42.512075],"type":"Point"}
+}

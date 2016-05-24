@@ -1,0 +1,73 @@
+{
+  "id": 856818869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.622824,41.73193,-93.622824,41.73193",
+    "geom:latitude":41.73193,
+    "geom:longitude":-93.622824,
+    "iso:country":"US",
+    "sg:address":"1702 W 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 2833",
+    "sg:postcode":"50023",
+    "sg:province":"IA",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wd1y2UZQkCG8CJlLbM2Ll_41.731930_-93.622824@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103997,
+    "wof:geomhash":"df5b79e4bde0bd3f86827bedb68ac1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896323,
+            "region_id":85688713,
+            "venue_id":856818869
+        }
+    ],
+    "wof:id":856818869,
+    "wof:lastmodified":1464103997,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85896323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -93.622824,
+    41.73193,
+    -93.622824,
+    41.73193
+],
+  "geometry": {"coordinates":[-93.62282399999999,41.73193],"type":"Point"}
+}

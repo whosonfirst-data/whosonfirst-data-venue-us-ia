@@ -1,0 +1,71 @@
+{
+  "id": 856903073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627033,42.027829,-91.627033,42.027829",
+    "geom:latitude":42.027829,
+    "geom:longitude":-91.627033,
+    "iso:country":"US",
+    "sg:address":"166 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 3785",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FbEAIYwF2tvUv7hLwoOr6_42.027829_-91.627033@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108158,
+    "wof:geomhash":"65c3cab5fd461047d2b82ed2ff713f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856903073
+        }
+    ],
+    "wof:id":856903073,
+    "wof:lastmodified":1464108158,
+    "wof:name":"Family Christian Book Store",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.627033,
+    42.027829,
+    -91.627033,
+    42.027829
+],
+  "geometry": {"coordinates":[-91.627033,42.027829],"type":"Point"}
+}

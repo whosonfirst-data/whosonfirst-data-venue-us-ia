@@ -1,0 +1,73 @@
+{
+  "id": 856843471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.336278,41.488281,-95.336278,41.488281",
+    "geom:latitude":41.488281,
+    "geom:longitude":-95.336278,
+    "iso:country":"US",
+    "sg:address":"1311 US Hwy 59",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2655",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P6bHjx7tXGs63o545cBIc_41.488281_-95.336278@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105151,
+    "wof:geomhash":"8e3fea8bb17a56e64f8cccf684e7c5ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856843471
+        }
+    ],
+    "wof:id":856843471,
+    "wof:lastmodified":1464105151,
+    "wof:name":"Highway Commission Garage",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.336278,
+    41.488281,
+    -95.336278,
+    41.488281
+],
+  "geometry": {"coordinates":[-95.33627799999999,41.488281],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856822619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909579,41.267991,-95.909579,41.267991",
+    "geom:latitude":41.267991,
+    "geom:longitude":-95.909579,
+    "iso:country":"US",
+    "sg:address":"3778 Ave G",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6079",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ur3ATY6AvUdxT03KzKwlQ_41.267991_-95.909579@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104212,
+    "wof:geomhash":"d5e934e7db9354ba7c1f4438871332f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856822619
+        }
+    ],
+    "wof:id":856822619,
+    "wof:lastmodified":1464104212,
+    "wof:name":"Westend Service",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.909579,
+    41.267991,
+    -95.909579,
+    41.267991
+],
+  "geometry": {"coordinates":[-95.90957899999999,41.267991],"type":"Point"}
+}

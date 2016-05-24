@@ -1,0 +1,75 @@
+{
+  "id": 856838145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.678708,41.88379,-93.678708,41.88379",
+    "geom:latitude":41.88379,
+    "geom:longitude":-93.678708,
+    "iso:country":"US",
+    "sg:address":"101 1st Ave N",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 685 3233",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j6maVc43AkO56lEdHMFa6_41.883790_-93.678708@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104920,
+    "wof:geomhash":"cf0601d2999154770d4f231f715b2a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":856838145
+        }
+    ],
+    "wof:id":856838145,
+    "wof:lastmodified":1464104920,
+    "wof:name":"Hammond's Housing",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -93.678708,
+    41.88379,
+    -93.678708,
+    41.88379
+],
+  "geometry": {"coordinates":[-93.678708,41.88379],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857009711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715901,41.978916,-91.715901,41.978916",
+    "geom:latitude":41.978916,
+    "geom:longitude":-91.715901,
+    "iso:country":"US",
+    "sg:address":"621 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8222",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48JZlYKpl1FZtmAoZFTq6g_41.978916_-91.715901@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112776,
+    "wof:geomhash":"89d68b0339dd8b0f7b2753b64bdcef6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857009711
+        }
+    ],
+    "wof:id":857009711,
+    "wof:lastmodified":1464112776,
+    "wof:name":"Edgewood Baptist Church",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.715901,
+    41.978916,
+    -91.715901,
+    41.978916
+],
+  "geometry": {"coordinates":[-91.715901,41.978916],"type":"Point"}
+}

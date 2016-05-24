@@ -1,0 +1,71 @@
+{
+  "id": 856779391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558369,41.367491,-93.558369,41.367491",
+    "geom:latitude":41.367491,
+    "geom:longitude":-93.558369,
+    "iso:country":"US",
+    "sg:address":"800 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9120",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Na51GDKmUFX5d2rWetSBC_41.367491_-93.558369@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102425,
+    "wof:geomhash":"7986194b02215b89945549a87cc10dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856779391
+        }
+    ],
+    "wof:id":856779391,
+    "wof:lastmodified":1464102425,
+    "wof:name":"Executive Laserwash",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.558369,
+    41.367491,
+    -93.558369,
+    41.367491
+],
+  "geometry": {"coordinates":[-93.558369,41.367491],"type":"Point"}
+}

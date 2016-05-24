@@ -1,0 +1,71 @@
+{
+  "id": 856809071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.569195,41.364534,-93.569195,41.364534",
+    "geom:latitude":41.364534,
+    "geom:longitude":-93.569195,
+    "iso:country":"US",
+    "sg:address":"714 W Detroit Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9422",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZwKNAwEDlMWUldXq4TD0_41.364534_-93.569195@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103589,
+    "wof:geomhash":"c20ec97f3d40b1783a0f0eaa8537bd83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856809071
+        }
+    ],
+    "wof:id":856809071,
+    "wof:lastmodified":1464103589,
+    "wof:name":"Indianola Swimming Pool",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -93.569195,
+    41.364534,
+    -93.569195,
+    41.364534
+],
+  "geometry": {"coordinates":[-93.56919499999999,41.364534],"type":"Point"}
+}

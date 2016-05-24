@@ -1,0 +1,73 @@
+{
+  "id": 856837093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.387628,42.50185,-96.387628,42.50185",
+    "geom:latitude":42.50185,
+    "geom:longitude":-96.387628,
+    "iso:country":"US",
+    "sg:address":"1710 11th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 2752",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XI6N2v2L5MDtfm1EWDmxR_42.501850_-96.387628@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104870,
+    "wof:geomhash":"e2a12999cc6a4d83f2ace638a8a4aac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856837093
+        }
+    ],
+    "wof:id":856837093,
+    "wof:lastmodified":1464104870,
+    "wof:name":"D & J Truck & Trailer Repair",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -96.387628,
+    42.50185,
+    -96.387628,
+    42.50185
+],
+  "geometry": {"coordinates":[-96.38762800000001,42.50185],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856872849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.704968,41.978201,-91.704968,41.978201",
+    "geom:latitude":41.978201,
+    "geom:longitude":-91.704968,
+    "iso:country":"US",
+    "sg:address":"2200 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3055",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jDRvp9DTdppKSc7SuooQE_41.978201_-91.704968@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106805,
+    "wof:geomhash":"dfa4476162177961e71e6367fcfb738a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856872849
+        }
+    ],
+    "wof:id":856872849,
+    "wof:lastmodified":1464106805,
+    "wof:name":"Sunshine Care",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.704968,
+    41.978201,
+    -91.704968,
+    41.978201
+],
+  "geometry": {"coordinates":[-91.70496799999999,41.978201],"type":"Point"}
+}

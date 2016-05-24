@@ -1,0 +1,66 @@
+{
+  "id": 857006407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.401951,41.301241,-95.401951,41.301241",
+    "geom:latitude":41.301241,
+    "geom:longitude":-95.401951,
+    "iso:country":"US",
+    "sg:address":"501 Pioneer Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6457",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zXlSSACFk9VL7FXJzf03W_41.301241_-95.401951@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112621,
+    "wof:geomhash":"3c7d68c640b2dc695a96a3163ed6db2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857006407
+        }
+    ],
+    "wof:id":857006407,
+    "wof:lastmodified":1464112621,
+    "wof:name":"Oakland State Bank",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.401951,
+    41.301241,
+    -95.401951,
+    41.301241
+],
+  "geometry": {"coordinates":[-95.401951,41.301241],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856848643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.477513,42.52237,-96.477513,42.52237",
+    "geom:latitude":42.52237,
+    "geom:longitude":-96.477513,
+    "iso:country":"US",
+    "sg:address":"5307 Military Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1337",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MRexMi5IK166vcBjBZANm_42.522370_-96.477513@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105434,
+    "wof:geomhash":"ad242fe61805a47a941eaea2ed663432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856848643
+        }
+    ],
+    "wof:id":856848643,
+    "wof:lastmodified":1464105434,
+    "wof:name":"Harveys",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.477513,
+    42.52237,
+    -96.477513,
+    42.52237
+],
+  "geometry": {"coordinates":[-96.477513,42.52237],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856774313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.661833,41.708918,-93.661833,41.708918",
+    "geom:latitude":41.708918,
+    "geom:longitude":-93.661833,
+    "iso:country":"US",
+    "sg:address":"3280 NW 81st Ln",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 238 3761",
+    "sg:postcode":"50023",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896325,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tfhpWJDAQbaq5xf2Z9ojx_41.708918_-93.661833@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102313,
+    "wof:geomhash":"e84b5f9e2ed889e3f97d71aa9697e036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896325,
+            "region_id":85688713,
+            "venue_id":856774313
+        }
+    ],
+    "wof:id":856774313,
+    "wof:lastmodified":1464102313,
+    "wof:name":"Downing Development LTD",
+    "wof:parent_id":85896325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.661833,
+    41.708918,
+    -93.661833,
+    41.708918
+],
+  "geometry": {"coordinates":[-93.661833,41.708918],"type":"Point"}
+}

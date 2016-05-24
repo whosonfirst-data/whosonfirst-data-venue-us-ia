@@ -1,0 +1,70 @@
+{
+  "id": 856995695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.545332,41.369039,-93.545332,41.369039",
+    "geom:latitude":41.369039,
+    "geom:longitude":-93.545332,
+    "iso:country":"US",
+    "sg:address":"1112 E Iowa Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6548",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.indianolachurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qrsOu9YT5qv7bdcOavx88_41.369039_-93.545332@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112201,
+    "wof:geomhash":"4f46cb5d1325ab092064bf97e450da2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856995695
+        }
+    ],
+    "wof:id":856995695,
+    "wof:lastmodified":1464112201,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.545332,
+    41.369039,
+    -93.545332,
+    41.369039
+],
+  "geometry": {"coordinates":[-93.545332,41.369039],"type":"Point"}
+}

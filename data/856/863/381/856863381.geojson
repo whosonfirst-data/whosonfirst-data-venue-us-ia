@@ -1,0 +1,71 @@
+{
+  "id": 856863381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.441173,41.287296,-93.441173,41.287296",
+    "geom:latitude":41.287296,
+    "geom:longitude":-93.441173,
+    "iso:country":"US",
+    "sg:address":"323 Main St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 7093",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a415ved9xK1hbZVtTvkjt_41.287296_-93.441173@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106130,
+    "wof:geomhash":"f589eeee8203d2cb004923d9a667d826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856863381
+        }
+    ],
+    "wof:id":856863381,
+    "wof:lastmodified":1464106130,
+    "wof:name":"Tomin Repair & Towing",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.441173,
+    41.287296,
+    -93.441173,
+    41.287296
+],
+  "geometry": {"coordinates":[-93.44117300000001,41.287296],"type":"Point"}
+}

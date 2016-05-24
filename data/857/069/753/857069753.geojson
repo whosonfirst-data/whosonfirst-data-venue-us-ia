@@ -1,0 +1,73 @@
+{
+  "id": 857069753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629344,41.979267,-91.629344,41.979267",
+    "geom:latitude":41.979267,
+    "geom:longitude":-91.629344,
+    "iso:country":"US",
+    "sg:address":"710 Grant Wood Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 560 1001",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11SoY2ybgygpq56e1d4tvJ_41.979267_-91.629344@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115319,
+    "wof:geomhash":"e04107d29fe17156225a2f301b0a1ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069753
+        }
+    ],
+    "wof:id":857069753,
+    "wof:lastmodified":1464115319,
+    "wof:name":"Terry Steinbach",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -91.629344,
+    41.979267,
+    -91.629344,
+    41.979267
+],
+  "geometry": {"coordinates":[-91.629344,41.979267],"type":"Point"}
+}

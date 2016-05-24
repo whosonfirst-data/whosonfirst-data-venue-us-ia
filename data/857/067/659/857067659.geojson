@@ -1,0 +1,79 @@
+{
+  "id": 857067659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665703,42.021599,-91.665703,42.021599",
+    "geom:latitude":42.021599,
+    "geom:longitude":-91.665703,
+    "iso:country":"US",
+    "sg:address":"1946 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3210",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore",
+        "market"
+    ],
+    "sg:website":"www.clarksrx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S8vtQVaxJnhdRhR2iOc5O_42.021599_-91.665703@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115210,
+    "wof:geomhash":"c9c7ff5b611db4d56a40c0e5c4487405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067659
+        }
+    ],
+    "wof:id":857067659,
+    "wof:lastmodified":1464115210,
+    "wof:name":"Clark's Pharmacy",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore",
+        "market"
+    ]
+},
+  "bbox": [
+    -91.665703,
+    42.021599,
+    -91.665703,
+    42.021599
+],
+  "geometry": {"coordinates":[-91.66570299999999,42.021599],"type":"Point"}
+}

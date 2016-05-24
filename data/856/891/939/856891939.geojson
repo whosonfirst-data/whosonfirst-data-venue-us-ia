@@ -1,0 +1,71 @@
+{
+  "id": 856891939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.588926,42.022693,-91.588926,42.022693",
+    "geom:latitude":42.022693,
+    "geom:longitude":-91.588926,
+    "iso:country":"US",
+    "sg:address":"760 S 22nd St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1275",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uRY0PeOMLqOhbc0yktL4V_42.022693_-91.588926@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107758,
+    "wof:geomhash":"b4f5dfb2c9c10d042a9a085a5c9b54a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856891939
+        }
+    ],
+    "wof:id":856891939,
+    "wof:lastmodified":1464107758,
+    "wof:name":"Cahalan Brothers",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.588926,
+    42.022693,
+    -91.588926,
+    42.022693
+],
+  "geometry": {"coordinates":[-91.588926,42.022693],"type":"Point"}
+}

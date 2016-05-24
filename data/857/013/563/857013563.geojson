@@ -1,0 +1,71 @@
+{
+  "id": 857013563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.215699,41.447155,-95.215699,41.447155",
+    "geom:latitude":41.447155,
+    "geom:longitude":-95.215699,
+    "iso:country":"US",
+    "sg:address":"50833 State Hwy 83",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3607",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z2miYahQIUARecMehPIqV_41.447155_-95.215699@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112929,
+    "wof:geomhash":"bc3c31d3829e1a26cb6b2c785b5f327f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857013563
+        }
+    ],
+    "wof:id":857013563,
+    "wof:lastmodified":1464112929,
+    "wof:name":"Osborn Auction Co",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -95.215699,
+    41.447155,
+    -95.215699,
+    41.447155
+],
+  "geometry": {"coordinates":[-95.215699,41.447155],"type":"Point"}
+}

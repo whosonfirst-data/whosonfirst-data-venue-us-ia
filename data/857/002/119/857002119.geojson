@@ -1,0 +1,71 @@
+{
+  "id": 857002119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.63726,42.036916,-91.63726,42.036916",
+    "geom:latitude":42.036916,
+    "geom:longitude":-91.63726,
+    "iso:country":"US",
+    "sg:address":"319 Greenfield St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1652",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QrUqfNrZ7xzHCcwi9OvYT_42.036916_-91.637260@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112454,
+    "wof:geomhash":"5cc16d2fbbb90dd219333f7efc8b2113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857002119
+        }
+    ],
+    "wof:id":857002119,
+    "wof:lastmodified":1464112454,
+    "wof:name":"Terry Hamilton",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -91.63726,
+    42.036916,
+    -91.63726,
+    42.036916
+],
+  "geometry": {"coordinates":[-91.63726,42.036916],"type":"Point"}
+}

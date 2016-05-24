@@ -1,0 +1,73 @@
+{
+  "id": 856952807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633522,42.009717,-91.633522,42.009717",
+    "geom:latitude":42.009717,
+    "geom:longitude":-91.633522,
+    "iso:country":"US",
+    "sg:address":"201 32nd Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 533 4701",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cpE4g70FGn1ni9Vm1HBCM_42.009717_-91.633522@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110201,
+    "wof:geomhash":"6fc09d5bf3f9ed3ae4734c99a4c79c91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856952807
+        }
+    ],
+    "wof:id":856952807,
+    "wof:lastmodified":1464110201,
+    "wof:name":"D & A Fabrication",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -91.633522,
+    42.009717,
+    -91.633522,
+    42.009717
+],
+  "geometry": {"coordinates":[-91.633522,42.009717],"type":"Point"}
+}

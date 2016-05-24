@@ -1,0 +1,71 @@
+{
+  "id": 856925789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.830708,41.24597,-95.830708,41.24597",
+    "geom:latitude":41.24597,
+    "geom:longitude":-95.830708,
+    "iso:country":"US",
+    "sg:address":"16 Connie Cir",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3422",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xhWCoPXMdbX4UQGCHjMcE_41.245970_-95.830708@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109077,
+    "wof:geomhash":"e16e72f66595835907870b3f6a56cc1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856925789
+        }
+    ],
+    "wof:id":856925789,
+    "wof:lastmodified":1464109077,
+    "wof:name":"Hovinga Photography",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -95.830708,
+    41.24597,
+    -95.830708,
+    41.24597
+],
+  "geometry": {"coordinates":[-95.830708,41.24597],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856893205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530913,41.654472,-91.530913,41.654472",
+    "geom:latitude":41.654472,
+    "geom:longitude":-91.530913,
+    "iso:country":"US",
+    "sg:address":"310 E Prentiss St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 0012",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VVmeVmt4i8oiiZOcSBJbe_41.654472_-91.530913@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107800,
+    "wof:geomhash":"34d740a14c170eb307479ca6444b3573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856893205
+        }
+    ],
+    "wof:id":856893205,
+    "wof:lastmodified":1464107800,
+    "wof:name":"Regal Vending & Amusements",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -91.530913,
+    41.654472,
+    -91.530913,
+    41.654472
+],
+  "geometry": {"coordinates":[-91.530913,41.654472],"type":"Point"}
+}

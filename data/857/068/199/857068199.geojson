@@ -1,0 +1,72 @@
+{
+  "id": 857068199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6642,42.014099,-91.6642,42.014099",
+    "geom:latitude":42.014099,
+    "geom:longitude":-91.6642,
+    "iso:country":"US",
+    "sg:address":"3358 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0990",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.papajohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TYDedCFaH5b2tCFGAbn7P_42.014099_-91.664200@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115249,
+    "wof:geomhash":"f0a6e42d985271005a1471c33fd0c5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068199
+        }
+    ],
+    "wof:id":857068199,
+    "wof:lastmodified":1464115249,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.6642,
+    42.014099,
+    -91.6642,
+    42.014099
+],
+  "geometry": {"coordinates":[-91.66419999999999,42.014099],"type":"Point"}
+}

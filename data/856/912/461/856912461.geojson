@@ -1,0 +1,71 @@
+{
+  "id": 856912461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.697036,42.100916,-91.697036,42.100916",
+    "geom:latitude":42.100916,
+    "geom:longitude":-91.697036,
+    "iso:country":"US",
+    "sg:address":"3264 N Center Point Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5502",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tr5ldVGSgJ1YmT4edjYLz_42.100916_-91.697036@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108521,
+    "wof:geomhash":"4fc4bb9894f4416662142ea07b4d0a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856912461
+        }
+    ],
+    "wof:id":856912461,
+    "wof:lastmodified":1464108521,
+    "wof:name":"Toddville Church Of Christ",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.697036,
+    42.100916,
+    -91.697036,
+    42.100916
+],
+  "geometry": {"coordinates":[-91.697036,42.100916],"type":"Point"}
+}

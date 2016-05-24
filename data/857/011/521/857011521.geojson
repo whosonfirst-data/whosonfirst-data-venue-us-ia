@@ -1,0 +1,72 @@
+{
+  "id": 857011521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657858,42.011775,-91.657858,42.011775",
+    "geom:latitude":42.011775,
+    "geom:longitude":-91.657858,
+    "iso:country":"US",
+    "sg:address":"3235 Oakland Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7756",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.hyvee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IVfm9en40GZxK677znAMH_42.011775_-91.657858@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112834,
+    "wof:geomhash":"7467c903f7ae65a247cc8539e8e6e116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857011521
+        }
+    ],
+    "wof:id":857011521,
+    "wof:lastmodified":1464112834,
+    "wof:name":"Hy-Vee Food Stores",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.657858,
+    42.011775,
+    -91.657858,
+    42.011775
+],
+  "geometry": {"coordinates":[-91.657858,42.011775],"type":"Point"}
+}

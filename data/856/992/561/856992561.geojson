@@ -1,0 +1,71 @@
+{
+  "id": 856992561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.195963,41.590527,-94.195963,41.590527",
+    "geom:latitude":41.590527,
+    "geom:longitude":-94.195963,
+    "iso:country":"US",
+    "sg:address":"808 1st St",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 833 2600",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ySOhQceDVY0VselRKLGxo_41.590527_-94.195963@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112073,
+    "wof:geomhash":"433c75680e50b029d08dff8d1e74b86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856992561
+        }
+    ],
+    "wof:id":856992561,
+    "wof:lastmodified":1464112073,
+    "wof:name":"Redfield Water Plant",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -94.195963,
+    41.590527,
+    -94.195963,
+    41.590527
+],
+  "geometry": {"coordinates":[-94.19596300000001,41.590527],"type":"Point"}
+}

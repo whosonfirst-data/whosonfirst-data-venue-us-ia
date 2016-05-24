@@ -1,0 +1,74 @@
+{
+  "id": 856827033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.597375,41.982545,-91.597375,41.982545",
+    "geom:latitude":41.982545,
+    "geom:longitude":-91.597375,
+    "iso:country":"US",
+    "sg:address":"5200 Broadview Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3906",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "sg:website":"www.descriptor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H1QtWa9KhdWWyaMQYCyqy_41.982545_-91.597375@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104394,
+    "wof:geomhash":"219dded732a8f25f91a878c652520d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856827033
+        }
+    ],
+    "wof:id":856827033,
+    "wof:lastmodified":1464104394,
+    "wof:name":"Descriptor Systems",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -91.597375,
+    41.982545,
+    -91.597375,
+    41.982545
+],
+  "geometry": {"coordinates":[-91.597375,41.982545],"type":"Point"}
+}

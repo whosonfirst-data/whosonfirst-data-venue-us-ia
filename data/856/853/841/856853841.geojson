@@ -1,0 +1,75 @@
+{
+  "id": 856853841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.592682,41.356276,-93.592682,41.356276",
+    "geom:latitude":41.356276,
+    "geom:longitude":-93.592682,
+    "iso:country":"US",
+    "sg:address":"2406 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 0575",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CoWsmNFim3eIxdqS34AxF_41.356276_-93.592682@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105714,
+    "wof:geomhash":"35d03f2bbd1ff61a7c007accd41a6afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856853841
+        }
+    ],
+    "wof:id":856853841,
+    "wof:lastmodified":1464105714,
+    "wof:name":"Gene's Truck & Van Outfitters",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -93.592682,
+    41.356276,
+    -93.592682,
+    41.356276
+],
+  "geometry": {"coordinates":[-93.592682,41.356276],"type":"Point"}
+}

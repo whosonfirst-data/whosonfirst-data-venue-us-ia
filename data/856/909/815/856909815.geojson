@@ -1,0 +1,73 @@
+{
+  "id": 856909815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.816139,41.600524,-93.816139,41.600524",
+    "geom:latitude":41.600524,
+    "geom:longitude":-93.816139,
+    "iso:country":"US",
+    "sg:address":"14407 University Ave",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 1286",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tC2hop0zmz91mZ3qoeqFX_41.600524_-93.816139@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108415,
+    "wof:geomhash":"3161218787db248cc017b9f03121a310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856909815
+        }
+    ],
+    "wof:id":856909815,
+    "wof:lastmodified":1464108415,
+    "wof:name":"Bryan Crow Construction Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.816139,
+    41.600524,
+    -93.816139,
+    41.600524
+],
+  "geometry": {"coordinates":[-93.81613900000001,41.600524],"type":"Point"}
+}

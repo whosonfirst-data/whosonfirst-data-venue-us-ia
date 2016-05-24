@@ -1,0 +1,71 @@
+{
+  "id": 856904655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.810994,41.582467,-93.810994,41.582467",
+    "geom:latitude":41.582467,
+    "geom:longitude":-93.810994,
+    "iso:country":"US",
+    "sg:address":"7450 Ashworth Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 327 0905",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43EtbrCVWEc1LJRr0SAIGG_41.582467_-93.810994@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108218,
+    "wof:geomhash":"4aded4bff68027625f6ebddad1a36d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856904655
+        }
+    ],
+    "wof:id":856904655,
+    "wof:lastmodified":1464108218,
+    "wof:name":"Ricks Garage",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.810994,
+    41.582467,
+    -93.810994,
+    41.582467
+],
+  "geometry": {"coordinates":[-93.81099399999999,41.582467],"type":"Point"}
+}

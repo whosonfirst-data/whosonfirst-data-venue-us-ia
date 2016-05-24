@@ -1,0 +1,73 @@
+{
+  "id": 856851331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.419002,41.928678,-91.419002,41.928678",
+    "geom:latitude":41.928678,
+    "geom:longitude":-91.419002,
+    "iso:country":"US",
+    "sg:address":"725 5th Ave N",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8410",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GkJviupXkxXaublxrvZwO_41.928678_-91.419002@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105593,
+    "wof:geomhash":"bc3863a6097495975fd1922d31745119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856851331
+        }
+    ],
+    "wof:id":856851331,
+    "wof:lastmodified":1464105593,
+    "wof:name":"Reiter & Assoc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -91.419002,
+    41.928678,
+    -91.419002,
+    41.928678
+],
+  "geometry": {"coordinates":[-91.41900200000001,41.928678],"type":"Point"}
+}

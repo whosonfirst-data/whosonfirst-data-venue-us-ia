@@ -1,0 +1,73 @@
+{
+  "id": 856914095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.788743,41.927374,-91.788743,41.927374",
+    "geom:latitude":41.927374,
+    "geom:longitude":-91.788743,
+    "iso:country":"US",
+    "sg:address":"253 W Cemetery Rd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 8094",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49SBPbNZnZP84Z6AVvH8kq_41.927374_-91.788743@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108592,
+    "wof:geomhash":"8cae725395a64619287cd61949f734c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856914095
+        }
+    ],
+    "wof:id":856914095,
+    "wof:lastmodified":1464108592,
+    "wof:name":"Olson Farms",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.788743,
+    41.927374,
+    -91.788743,
+    41.927374
+],
+  "geometry": {"coordinates":[-91.788743,41.927374],"type":"Point"}
+}

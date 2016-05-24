@@ -1,0 +1,74 @@
+{
+  "id": 856921461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.106544,41.833107,-94.106544,41.833107",
+    "geom:latitude":41.833107,
+    "geom:longitude":-94.106544,
+    "iso:country":"US",
+    "sg:address":"400 1st Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3564",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.mckeeauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aHfD4IWo2IfVpUe2HcriF_41.833107_-94.106544@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108891,
+    "wof:geomhash":"139ca33f7fd2a66eb4223a81fb2ba47c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856921461
+        }
+    ],
+    "wof:id":856921461,
+    "wof:lastmodified":1464108891,
+    "wof:name":"Mc Kee Auto Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.106544,
+    41.833107,
+    -94.106544,
+    41.833107
+],
+  "geometry": {"coordinates":[-94.106544,41.833107],"type":"Point"}
+}

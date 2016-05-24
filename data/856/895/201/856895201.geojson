@@ -1,0 +1,71 @@
+{
+  "id": 856895201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524757,41.707716,-91.524757,41.707716",
+    "geom:latitude":41.707716,
+    "geom:longitude":-91.524757,
+    "iso:country":"US",
+    "sg:address":"3995 Roberts Ridge NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 631 1919",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "new",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896479,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35VKFMatYjDIdvOYeN0mrS_41.707716_-91.524757@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107871,
+    "wof:geomhash":"af1318e53c9e5f8804316dccf54b10d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896479,
+            "region_id":85688713,
+            "venue_id":856895201
+        }
+    ],
+    "wof:id":856895201,
+    "wof:lastmodified":1464107871,
+    "wof:name":"Stellar Homes",
+    "wof:parent_id":85896479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "home"
+    ]
+},
+  "bbox": [
+    -91.524757,
+    41.707716,
+    -91.524757,
+    41.707716
+],
+  "geometry": {"coordinates":[-91.52475699999999,41.707716],"type":"Point"}
+}

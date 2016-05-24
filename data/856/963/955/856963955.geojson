@@ -1,0 +1,73 @@
+{
+  "id": 856963955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.569803,41.643691,-91.569803,41.643691",
+    "geom:latitude":41.643691,
+    "geom:longitude":-91.569803,
+    "iso:country":"US",
+    "sg:address":"1314 Burry Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3141",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fblMZfmLSKGx3tYxVb5CU_41.643691_-91.569803@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110705,
+    "wof:geomhash":"ef55e2e03fbd78b278be96d1a5e9db20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896457,
+            "region_id":85688713,
+            "venue_id":856963955
+        }
+    ],
+    "wof:id":856963955,
+    "wof:lastmodified":1464110705,
+    "wof:name":"John Roffman Construction",
+    "wof:parent_id":85896457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -91.569803,
+    41.643691,
+    -91.569803,
+    41.643691
+],
+  "geometry": {"coordinates":[-91.56980299999999,41.643691],"type":"Point"}
+}

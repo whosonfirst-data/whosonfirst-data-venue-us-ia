@@ -1,0 +1,68 @@
+{
+  "id": 856922341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.566553,41.673693,-91.566553,41.673693",
+    "geom:latitude":41.673693,
+    "geom:longitude":-91.566553,
+    "iso:country":"US",
+    "sg:address":"105 5th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 1731",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qGGAjl4SHCsXJrMIIAzDP_41.673693_-91.566553@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108927,
+    "wof:geomhash":"c0b917951ec48e7644ef9bcb0252e872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856922341
+        }
+    ],
+    "wof:id":856922341,
+    "wof:lastmodified":1464108927,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.566553,
+    41.673693,
+    -91.566553,
+    41.673693
+],
+  "geometry": {"coordinates":[-91.566553,41.673693],"type":"Point"}
+}

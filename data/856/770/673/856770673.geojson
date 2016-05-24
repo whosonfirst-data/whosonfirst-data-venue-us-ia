@@ -1,0 +1,71 @@
+{
+  "id": 856770673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.22685,41.480305,-95.22685,41.480305",
+    "geom:latitude":41.480305,
+    "geom:longitude":-95.22685,
+    "iso:country":"US",
+    "sg:address":"705 Oak St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 2126",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fKfTwOm0vpVbZbJiZhSvx_41.480305_-95.226850@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102223,
+    "wof:geomhash":"a95b8fc9bc9ab5f612fd0d30e7d660e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856770673
+        }
+    ],
+    "wof:id":856770673,
+    "wof:lastmodified":1464102223,
+    "wof:name":"Pottawattamie County Engineers",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -95.22685,
+    41.480305,
+    -95.22685,
+    41.480305
+],
+  "geometry": {"coordinates":[-95.22685,41.480305],"type":"Point"}
+}

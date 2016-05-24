@@ -1,0 +1,73 @@
+{
+  "id": 856788551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.589413,41.717217,-93.589413,41.717217",
+    "geom:latitude":41.717217,
+    "geom:longitude":-93.589413,
+    "iso:country":"US",
+    "sg:address":"1422 SE Waywin Dr",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 963 8946",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tJHkR1YKy3lCNIbHu6hl4_41.717217_-93.589413@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102728,
+    "wof:geomhash":"42e60fc5022f3646a71ce4bc38444f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896313,
+            "region_id":85688713,
+            "venue_id":856788551
+        }
+    ],
+    "wof:id":856788551,
+    "wof:lastmodified":1464102728,
+    "wof:name":"PTL Vending",
+    "wof:parent_id":85896313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -93.589413,
+    41.717217,
+    -93.589413,
+    41.717217
+],
+  "geometry": {"coordinates":[-93.58941299999999,41.717217],"type":"Point"}
+}

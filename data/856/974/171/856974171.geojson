@@ -1,0 +1,73 @@
+{
+  "id": 856974171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.712168,41.974525,-91.712168,41.974525",
+    "geom:latitude":41.974525,
+    "geom:longitude":-91.712168,
+    "iso:country":"US",
+    "sg:address":"3005 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1527",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EzOXmd2RByCiRRYz84KSW_41.974525_-91.712168@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111172,
+    "wof:geomhash":"33760ba84ba06c2129f3834eea964b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856974171
+        }
+    ],
+    "wof:id":856974171,
+    "wof:lastmodified":1464111172,
+    "wof:name":"Mueller Tax Svc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -91.712168,
+    41.974525,
+    -91.712168,
+    41.974525
+],
+  "geometry": {"coordinates":[-91.71216800000001,41.974525],"type":"Point"}
+}

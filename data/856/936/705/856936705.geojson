@@ -1,0 +1,73 @@
+{
+  "id": 856936705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.417298,41.238273,-95.417298,41.238273",
+    "geom:latitude":41.238273,
+    "geom:longitude":-95.417298,
+    "iso:country":"US",
+    "sg:address":"423 High St",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 3686",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mfg",
+        "ophthalmic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mVG815pA0c9Bvd6vAxkGA_41.238273_-95.417298@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109502,
+    "wof:geomhash":"50fd4aee8b1d2e77909e2a06e370b5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856936705
+        }
+    ],
+    "wof:id":856936705,
+    "wof:lastmodified":1464109502,
+    "wof:name":"Terron Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "ophthalmic"
+    ]
+},
+  "bbox": [
+    -95.417298,
+    41.238273,
+    -95.417298,
+    41.238273
+],
+  "geometry": {"coordinates":[-95.417298,41.238273],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857065565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.782097,41.905701,-91.782097,41.905701",
+    "geom:latitude":41.905701,
+    "geom:longitude":-91.782097,
+    "iso:country":"US",
+    "sg:address":"400 Highland Ave",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2295",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xBTpJQkTRFKgxVPxPBpuV_41.905701_-91.782097@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115118,
+    "wof:geomhash":"175f1517ce48a01037d8045ca0692967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065565
+        }
+    ],
+    "wof:id":857065565,
+    "wof:lastmodified":1464115118,
+    "wof:name":"Fairfax Car Wash",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.782097,
+    41.905701,
+    -91.782097,
+    41.905701
+],
+  "geometry": {"coordinates":[-91.78209699999999,41.905701],"type":"Point"}
+}

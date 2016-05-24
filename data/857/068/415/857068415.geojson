@@ -1,0 +1,67 @@
+{
+  "id": 857068415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.700245,42.016616,-91.700245,42.016616",
+    "geom:latitude":42.016616,
+    "geom:longitude":-91.700245,
+    "iso:country":"US",
+    "sg:address":"4205 Glass Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0110",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.pediatric-center.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dkG7v4ErNJ2SJbZiZrPKf_42.016616_-91.700245@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115257,
+    "wof:geomhash":"e5513924280b604b42cb553fb41f193a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857068415
+        }
+    ],
+    "wof:id":857068415,
+    "wof:lastmodified":1464115257,
+    "wof:name":"Pediatric Center PC",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.700245,
+    42.016616,
+    -91.700245,
+    42.016616
+],
+  "geometry": {"coordinates":[-91.700245,42.016616],"type":"Point"}
+}

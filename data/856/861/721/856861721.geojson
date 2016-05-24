@@ -1,0 +1,73 @@
+{
+  "id": 856861721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.712578,41.59184,-93.712578,41.59184",
+    "geom:latitude":41.59184,
+    "geom:longitude":-93.712578,
+    "iso:country":"US",
+    "sg:address":"1100 Hoak Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 1584",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truss"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gsXgMZUoM7BwqqNtpDCHC_41.591840_-93.712578@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106064,
+    "wof:geomhash":"235df6c7aa94a0c6429ba78989dc15b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877113,
+            "region_id":85688713,
+            "venue_id":856861721
+        }
+    ],
+    "wof:id":856861721,
+    "wof:lastmodified":1464106064,
+    "wof:name":"Wheeler Consolidated Inc",
+    "wof:parent_id":85877113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truss"
+    ]
+},
+  "bbox": [
+    -93.712578,
+    41.59184,
+    -93.712578,
+    41.59184
+],
+  "geometry": {"coordinates":[-93.71257799999999,41.59184],"type":"Point"}
+}

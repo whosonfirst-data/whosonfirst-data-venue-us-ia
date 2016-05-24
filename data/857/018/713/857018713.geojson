@@ -1,0 +1,73 @@
+{
+  "id": 857018713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850587,41.251712,-95.850587,41.251712",
+    "geom:latitude":41.251712,
+    "geom:longitude":-95.850587,
+    "iso:country":"US",
+    "sg:address":"1023 S 4th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6301",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "processor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RYxpKf7gGfJBxg5DFzqB1_41.251712_-95.850587@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113141,
+    "wof:geomhash":"afcf4e11a2b8bf04a89809e6590e02a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857018713
+        }
+    ],
+    "wof:id":857018713,
+    "wof:lastmodified":1464113141,
+    "wof:name":"Con Agra Foods",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "processor"
+    ]
+},
+  "bbox": [
+    -95.850587,
+    41.251712,
+    -95.850587,
+    41.251712
+],
+  "geometry": {"coordinates":[-95.850587,41.251712],"type":"Point"}
+}

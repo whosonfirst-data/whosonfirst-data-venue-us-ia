@@ -1,0 +1,71 @@
+{
+  "id": 856845511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.669864,42.067391,-91.669864,42.067391",
+    "geom:latitude":42.067391,
+    "geom:longitude":-91.669864,
+    "iso:country":"US",
+    "sg:address":"800 Rickey Allen Dr",
+    "sg:city":"Robins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4734",
+    "sg:postcode":"52328",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cYaer6p1P93orYtMXKRWt_42.067391_-91.669864@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105259,
+    "wof:geomhash":"04486a544a5c8036209236812d1ad52a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856845511
+        }
+    ],
+    "wof:id":856845511,
+    "wof:lastmodified":1464105259,
+    "wof:name":"Crosser Homes Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.669864,
+    42.067391,
+    -91.669864,
+    42.067391
+],
+  "geometry": {"coordinates":[-91.669864,42.067391],"type":"Point"}
+}

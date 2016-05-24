@@ -1,0 +1,70 @@
+{
+  "id": 856873355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.777342,41.777272,-93.777342,41.777272",
+    "geom:latitude":41.777272,
+    "geom:longitude":-93.777342,
+    "iso:country":"US",
+    "sg:address":"11407 NW Jester Park Dr",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 323 5300",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county"
+    ],
+    "sg:website":"www.conservationboard.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VTrGP9LbBWeqHpbXe7Msl_41.777272_-93.777342@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106832,
+    "wof:geomhash":"e536fd4ebbbbca0a41fd87eacf46cf0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":856873355
+        }
+    ],
+    "wof:id":856873355,
+    "wof:lastmodified":1464106832,
+    "wof:name":"Polk County Conservation Board",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -93.777342,
+    41.777272,
+    -93.777342,
+    41.777272
+],
+  "geometry": {"coordinates":[-93.777342,41.777272],"type":"Point"}
+}

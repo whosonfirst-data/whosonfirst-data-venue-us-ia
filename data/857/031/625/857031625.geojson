@@ -1,0 +1,71 @@
+{
+  "id": 857031625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.334996,41.466688,-93.334996,41.466688",
+    "geom:latitude":41.466688,
+    "geom:longitude":-93.334996,
+    "iso:country":"US",
+    "sg:address":"2446 Cleveland St",
+    "sg:city":"Swan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 2684",
+    "sg:postcode":"50252",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2txOcm6DvJXrQUEIIUE8gm_41.466688_-93.334996@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113730,
+    "wof:geomhash":"6452552adcf192bf7a35a87184dec321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857031625
+        }
+    ],
+    "wof:id":857031625,
+    "wof:lastmodified":1464113730,
+    "wof:name":"MPS Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.334996,
+    41.466688,
+    -93.334996,
+    41.466688
+],
+  "geometry": {"coordinates":[-93.334996,41.466688],"type":"Point"}
+}

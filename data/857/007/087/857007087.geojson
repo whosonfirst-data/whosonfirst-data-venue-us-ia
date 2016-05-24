@@ -1,0 +1,71 @@
+{
+  "id": 857007087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.429516,41.928638,-91.429516,41.928638",
+    "geom:latitude":41.928638,
+    "geom:longitude":-91.429516,
+    "iso:country":"US",
+    "sg:address":"1309 Bryant Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8947",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HIcc2u0H7zFVf3F152JAJ_41.928638_-91.429516@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112648,
+    "wof:geomhash":"3ef482b08ea8ed370f7f029cc5d69eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857007087
+        }
+    ],
+    "wof:id":857007087,
+    "wof:lastmodified":1464112648,
+    "wof:name":"Lawsons Remodeling",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.429516,
+    41.928638,
+    -91.429516,
+    41.928638
+],
+  "geometry": {"coordinates":[-91.42951600000001,41.928638],"type":"Point"}
+}

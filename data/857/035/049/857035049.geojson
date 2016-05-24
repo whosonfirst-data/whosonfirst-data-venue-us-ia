@@ -1,0 +1,76 @@
+{
+  "id": 857035049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.3963,42.492369,-96.3963,42.492369",
+    "geom:latitude":42.492369,
+    "geom:longitude":-96.3963,
+    "iso:country":"US",
+    "sg:address":"214 Court St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 4000",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "sg:website":"www.statesteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_367mx60QD48h7tfNsRg1Iq_42.492369_-96.396300@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113885,
+    "wof:geomhash":"b1e11f7a7954c45b388ec0df9d2de5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857035049
+        }
+    ],
+    "wof:id":857035049,
+    "wof:lastmodified":1464113885,
+    "wof:name":"State Steel Supply Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -96.3963,
+    42.492369,
+    -96.3963,
+    42.492369
+],
+  "geometry": {"coordinates":[-96.3963,42.492369],"type":"Point"}
+}

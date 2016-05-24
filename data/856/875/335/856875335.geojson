@@ -1,0 +1,71 @@
+{
+  "id": 856875335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.741075,41.977775,-91.741075,41.977775",
+    "geom:latitude":41.977775,
+    "geom:longitude":-91.741075,
+    "iso:country":"US",
+    "sg:address":"5410 D Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 431 7097",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "flooring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SR7fF1g4nhgNcbeDTIDR0_41.977775_-91.741075@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106958,
+    "wof:geomhash":"228372b53a664a32362c8fb2f1008245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856875335
+        }
+    ],
+    "wof:id":856875335,
+    "wof:lastmodified":1464106958,
+    "wof:name":"Midstates Flooring",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flooring"
+    ]
+},
+  "bbox": [
+    -91.741075,
+    41.977775,
+    -91.741075,
+    41.977775
+],
+  "geometry": {"coordinates":[-91.741075,41.977775],"type":"Point"}
+}

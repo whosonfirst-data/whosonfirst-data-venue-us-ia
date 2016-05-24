@@ -1,0 +1,69 @@
+{
+  "id": 856848769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.674908,41.502723,-93.674908,41.502723",
+    "geom:latitude":41.502723,
+    "geom:longitude":-93.674908,
+    "iso:country":"US",
+    "sg:address":"9087 Woodmayr Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 4455",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10TulHfKuhTPbWfNTeYAFC_41.502723_-93.674908@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105449,
+    "wof:geomhash":"dc3b08dcd7b9eef24d2661d9c71e32d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856848769
+        }
+    ],
+    "wof:id":856848769,
+    "wof:lastmodified":1464105449,
+    "wof:name":"Printing Connection",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -93.674908,
+    41.502723,
+    -93.674908,
+    41.502723
+],
+  "geometry": {"coordinates":[-93.674908,41.502723],"type":"Point"}
+}

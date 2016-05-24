@@ -1,0 +1,68 @@
+{
+  "id": 857031659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405008,42.494214,-96.405008,42.494214",
+    "geom:latitude":42.494214,
+    "geom:longitude":-96.405008,
+    "iso:country":"US",
+    "sg:address":"407 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 4111",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wBLDgldvXENCgnxkK8Pps_42.494214_-96.405008@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113731,
+    "wof:geomhash":"9a61616f8eccb4d5e591148af2111c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857031659
+        }
+    ],
+    "wof:id":857031659,
+    "wof:lastmodified":1464113731,
+    "wof:name":"Younkers",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.405008,
+    42.494214,
+    -96.405008,
+    42.494214
+],
+  "geometry": {"coordinates":[-96.405008,42.494214],"type":"Point"}
+}

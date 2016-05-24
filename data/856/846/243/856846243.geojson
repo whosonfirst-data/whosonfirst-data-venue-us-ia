@@ -1,0 +1,73 @@
+{
+  "id": 856846243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.69219,42.051293,-91.69219,42.051293",
+    "geom:latitude":42.051293,
+    "geom:longitude":-91.69219,
+    "iso:country":"US",
+    "sg:address":"1403 Mitchell Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 4644",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ksX9wbNFEjVqKG7FLnNQQ_42.051293_-91.692190@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105305,
+    "wof:geomhash":"61eb86b1c29f765e87b84d61a13ba6e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856846243
+        }
+    ],
+    "wof:id":856846243,
+    "wof:lastmodified":1464105305,
+    "wof:name":"Mid-Iowa Technology",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.69219,
+    42.051293,
+    -91.69219,
+    42.051293
+],
+  "geometry": {"coordinates":[-91.69219,42.051293],"type":"Point"}
+}

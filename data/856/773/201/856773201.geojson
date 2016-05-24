@@ -1,0 +1,75 @@
+{
+  "id": 856773201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36965,42.442026,-96.36965,42.442026",
+    "geom:latitude":42.442026,
+    "geom:longitude":-96.36965,
+    "iso:country":"US",
+    "sg:address":"3701 Southgate Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 0015",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D46glUJDISBsHbKTDaUHJ_42.442026_-96.369650@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102281,
+    "wof:geomhash":"9b1fee5e382f53204d781fbcccf206ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856773201
+        }
+    ],
+    "wof:id":856773201,
+    "wof:lastmodified":1464102281,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.36965,
+    42.442026,
+    -96.36965,
+    42.442026
+],
+  "geometry": {"coordinates":[-96.36964999999999,42.442026],"type":"Point"}
+}

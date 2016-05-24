@@ -1,0 +1,71 @@
+{
+  "id": 857063805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854973,41.263626,-95.854973,41.263626",
+    "geom:latitude":41.263626,
+    "geom:longitude":-95.854973,
+    "iso:country":"US",
+    "sg:address":"747 S Washington Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 256 4000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZM7NhKKldj1ADDuOXQKqv_41.263626_-95.854973@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115056,
+    "wof:geomhash":"ed6c2ef0d5eecb413ffc3c7177e73f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063805
+        }
+    ],
+    "wof:id":857063805,
+    "wof:lastmodified":1464115056,
+    "wof:name":"Montgomery's Furniture Gallery Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -95.854973,
+    41.263626,
+    -95.854973,
+    41.263626
+],
+  "geometry": {"coordinates":[-95.854973,41.263626],"type":"Point"}
+}

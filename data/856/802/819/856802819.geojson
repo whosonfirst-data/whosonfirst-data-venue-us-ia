@@ -1,0 +1,73 @@
+{
+  "id": 856802819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.579058,42.040814,-91.579058,42.040814",
+    "geom:latitude":42.040814,
+    "geom:longitude":-91.579058,
+    "iso:country":"US",
+    "sg:address":"1605 31st St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Adult",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0040",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35kXwWfigJeCYtoGh8Ak6j_42.040814_-91.579058@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103316,
+    "wof:geomhash":"36966f84329acb7602e4366ccc00c6f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856802819
+        }
+    ],
+    "wof:id":856802819,
+    "wof:lastmodified":1464103316,
+    "wof:name":"Compatible Connections",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -91.579058,
+    42.040814,
+    -91.579058,
+    42.040814
+],
+  "geometry": {"coordinates":[-91.579058,42.040814],"type":"Point"}
+}

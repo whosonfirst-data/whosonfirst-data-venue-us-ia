@@ -1,0 +1,73 @@
+{
+  "id": 857070519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.720367,41.948276,-91.720367,41.948276",
+    "geom:latitude":41.948276,
+    "geom:longitude":-91.720367,
+    "iso:country":"US",
+    "sg:address":"3005 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1700",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k5maI2WXVUwR3L2Mzg6bq_41.948276_-91.720367@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115359,
+    "wof:geomhash":"578a1694de86fd3f6f14c66e00f727fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070519
+        }
+    ],
+    "wof:id":857070519,
+    "wof:lastmodified":1464115359,
+    "wof:name":"T and T Cuts",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -91.720367,
+    41.948276,
+    -91.720367,
+    41.948276
+],
+  "geometry": {"coordinates":[-91.720367,41.948276],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857060111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.58211,41.731295,-93.58211,41.731295",
+    "geom:latitude":41.731295,
+    "geom:longitude":-93.58211,
+    "iso:country":"US",
+    "sg:address":"1017 E 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/crocker/158440-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 1135",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KJwUWAMMrjWo2mmY0Rgnf_41.731803_-93.581984@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114898,
+    "wof:geomhash":"032c8c35a47e92521b6e0e6fcca76c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":857060111
+        }
+    ],
+    "wof:id":857060111,
+    "wof:lastmodified":1464114898,
+    "wof:name":"Arby's",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.58211,
+    41.731295,
+    -93.58211,
+    41.731295
+],
+  "geometry": {"coordinates":[-93.58211,41.731295],"type":"Point"}
+}

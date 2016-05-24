@@ -1,0 +1,76 @@
+{
+  "id": 857057159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.461956,41.687625,-93.461956,41.687625",
+    "geom:latitude":41.687625,
+    "geom:longitude":-93.461956,
+    "iso:country":"US",
+    "sg:address":"1455 Grant St S",
+    "sg:city":"Bondurant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/clay/225783-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 957 8173",
+    "sg:postcode":"50035",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944137,
+        102086603,
+        85896339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x2SYMtPOAfOqlea99gVMR_41.687625_-93.461956@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114790,
+    "wof:geomhash":"e390c5ada222a9cc5c11bd24b04e0215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944137,
+            "neighbourhood_id":85896339,
+            "region_id":85688713,
+            "venue_id":857057159
+        }
+    ],
+    "wof:id":857057159,
+    "wof:lastmodified":1464114790,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.461956,
+    41.687625,
+    -93.461956,
+    41.687625
+],
+  "geometry": {"coordinates":[-93.461956,41.687625],"type":"Point"}
+}

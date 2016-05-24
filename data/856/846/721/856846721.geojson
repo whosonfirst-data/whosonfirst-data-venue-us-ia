@@ -1,0 +1,77 @@
+{
+  "id": 856846721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.437487,41.936386,-91.437487,41.936386",
+    "geom:latitude":41.936386,
+    "geom:longitude":-91.437487,
+    "iso:country":"US",
+    "sg:address":"775 W Mount Vernon Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6791",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mail",
+        "switch",
+        "order",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KjTSJvieNQSn6noSTHv15_41.936386_-91.437487@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105327,
+    "wof:geomhash":"b74f090e184bc76fc03bc14445353b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856846721
+        }
+    ],
+    "wof:id":856846721,
+    "wof:lastmodified":1464105327,
+    "wof:name":"Ard Products",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "switch",
+        "order",
+        "plate"
+    ]
+},
+  "bbox": [
+    -91.437487,
+    41.936386,
+    -91.437487,
+    41.936386
+],
+  "geometry": {"coordinates":[-91.437487,41.936386],"type":"Point"}
+}

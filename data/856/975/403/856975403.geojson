@@ -1,0 +1,71 @@
+{
+  "id": 856975403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.674909,41.484041,-93.674909,41.484041",
+    "geom:latitude":41.484041,
+    "geom:longitude":-93.674909,
+    "iso:country":"US",
+    "sg:address":"1501 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 4454",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25oHpp1kznLEemvtIIPsAx_41.484041_-93.674909@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111225,
+    "wof:geomhash":"6d99d310b632ada588834b93a658ba15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856975403
+        }
+    ],
+    "wof:id":856975403,
+    "wof:lastmodified":1464111225,
+    "wof:name":"Four Seasons Auto Wash",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.674909,
+    41.484041,
+    -93.674909,
+    41.484041
+],
+  "geometry": {"coordinates":[-93.674909,41.484041],"type":"Point"}
+}

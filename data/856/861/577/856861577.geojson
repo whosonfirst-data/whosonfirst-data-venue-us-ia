@@ -1,0 +1,73 @@
+{
+  "id": 856861577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.415071,41.924286,-91.415071,41.924286",
+    "geom:latitude":41.924286,
+    "geom:longitude":-91.415071,
+    "iso:country":"US",
+    "sg:address":"337 State Hwy 1 S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6057",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAW5ypBuImE556oR8gmgP_41.924286_-91.415071@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106058,
+    "wof:geomhash":"23aecc504676e56311bedeea138153b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856861577
+        }
+    ],
+    "wof:id":856861577,
+    "wof:lastmodified":1464106058,
+    "wof:name":"F J Meyer Construction Co",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.415071,
+    41.924286,
+    -91.415071,
+    41.924286
+],
+  "geometry": {"coordinates":[-91.415071,41.924286],"type":"Point"}
+}

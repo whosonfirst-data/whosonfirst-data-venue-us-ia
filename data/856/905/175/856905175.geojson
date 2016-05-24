@@ -1,0 +1,75 @@
+{
+  "id": 856905175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.692866,41.962262,-91.692866,41.962262",
+    "geom:latitude":41.962262,
+    "geom:longitude":-91.692866,
+    "iso:country":"US",
+    "sg:address":"1740 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2058",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xYLeAf7LZD7cue4ALKJuk_41.962262_-91.692866@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108237,
+    "wof:geomhash":"37d0728d510d2fe1ad87dec5a160bcb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856905175
+        }
+    ],
+    "wof:id":856905175,
+    "wof:lastmodified":1464108237,
+    "wof:name":"Todd's Auto Sales",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.692866,
+    41.962262,
+    -91.692866,
+    41.962262
+],
+  "geometry": {"coordinates":[-91.692866,41.962262],"type":"Point"}
+}

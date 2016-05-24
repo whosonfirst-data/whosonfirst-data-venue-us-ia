@@ -1,0 +1,73 @@
+{
+  "id": 856943617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.474269,42.513805,-96.474269,42.513805",
+    "geom:latitude":42.513805,
+    "geom:longitude":-96.474269,
+    "iso:country":"US",
+    "sg:address":"1924 Riverside Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1637",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V6qChLdxxXnpzM9jTlnyb_42.513805_-96.474269@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109831,
+    "wof:geomhash":"47989b4962c2ed633dfe0b023c45fb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856943617
+        }
+    ],
+    "wof:id":856943617,
+    "wof:lastmodified":1464109831,
+    "wof:name":"Automotive Associates",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -96.474269,
+    42.513805,
+    -96.474269,
+    42.513805
+],
+  "geometry": {"coordinates":[-96.47426900000001,42.513805],"type":"Point"}
+}

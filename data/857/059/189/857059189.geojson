@@ -1,0 +1,75 @@
+{
+  "id": 857059189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.566037,41.676938,-91.566037,41.676938",
+    "geom:latitude":41.676938,
+    "geom:longitude":-91.566037,
+    "iso:country":"US",
+    "sg:address":"618 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/west-lucas/202660-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_717xUW0uZw4h0OzCHhLyoQ_41.676938_-91.566037@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114869,
+    "wof:geomhash":"912bb8b2a44def4e222c6d36c82bfa5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":857059189
+        }
+    ],
+    "wof:id":857059189,
+    "wof:lastmodified":1464114869,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.566037,
+    41.676938,
+    -91.566037,
+    41.676938
+],
+  "geometry": {"coordinates":[-91.56603699999999,41.676938],"type":"Point"}
+}

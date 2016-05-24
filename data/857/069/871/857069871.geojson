@@ -1,0 +1,76 @@
+{
+  "id": 857069871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6259,41.9786,-91.6259,41.9786",
+    "geom:latitude":41.9786,
+    "geom:longitude":-91.6259,
+    "iso:country":"US",
+    "sg:address":"720 29th St SE Ste 1",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 4110",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.crareacatholic.com/allsaints",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yif79GxwRDxuYiMAEERro_41.978600_-91.625900@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115327,
+    "wof:geomhash":"bdbaa6827501faa83a04c7022621e275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069871
+        }
+    ],
+    "wof:id":857069871,
+    "wof:lastmodified":1464115327,
+    "wof:name":"All Saints Schools",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.6259,
+    41.9786,
+    -91.6259,
+    41.9786
+],
+  "geometry": {"coordinates":[-91.6259,41.9786],"type":"Point"}
+}

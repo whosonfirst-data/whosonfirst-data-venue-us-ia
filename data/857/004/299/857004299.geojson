@@ -1,0 +1,71 @@
+{
+  "id": 857004299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.830675,41.259466,-95.830675,41.259466",
+    "geom:latitude":41.259466,
+    "geom:longitude":-95.830675,
+    "iso:country":"US",
+    "sg:address":"10 Scarlet Oaks Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1323",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VIU0B4WYJRJTRAmjS5NPI_41.259466_-95.830675@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112537,
+    "wof:geomhash":"1b2262d3382402139d6b4fc62c2df5dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857004299
+        }
+    ],
+    "wof:id":857004299,
+    "wof:lastmodified":1464112537,
+    "wof:name":"Thats My Type",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -95.830675,
+    41.259466,
+    -95.830675,
+    41.259466
+],
+  "geometry": {"coordinates":[-95.830675,41.259466],"type":"Point"}
+}

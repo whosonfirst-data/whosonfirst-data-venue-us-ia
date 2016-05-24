@@ -1,0 +1,69 @@
+{
+  "id": 857001709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.542043,41.371314,-93.542043,41.371314",
+    "geom:latitude":41.371314,
+    "geom:longitude":-93.542043,
+    "iso:country":"US",
+    "sg:address":"1200 N 14th St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 0501",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ljt59s6nnJke5FX1qfL4R_41.371314_-93.542043@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112431,
+    "wof:geomhash":"36d2df9cd260f10722f98207bc9ef322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857001709
+        }
+    ],
+    "wof:id":857001709,
+    "wof:lastmodified":1464112431,
+    "wof:name":"Bort's Custom Cabinets",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -93.542043,
+    41.371314,
+    -93.542043,
+    41.371314
+],
+  "geometry": {"coordinates":[-93.54204300000001,41.371314],"type":"Point"}
+}

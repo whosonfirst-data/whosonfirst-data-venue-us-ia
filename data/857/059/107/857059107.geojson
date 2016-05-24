@@ -1,0 +1,86 @@
+{
+  "id": 857059107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534388,41.661196,-91.534388,41.661196",
+    "geom:latitude":41.661196,
+    "geom:longitude":-91.534388,
+    "iso:country":"US",
+    "sg:address":"113 Iowa Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/102784-the-pita-pit/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 7482",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "salad",
+        "soup",
+        "eastern",
+        "mediterranean",
+        "middle",
+        "american",
+        "greek"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nA84Aha47uiorR2zRnuoM_41.661196_-91.534388@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114866,
+    "wof:geomhash":"1c5051b0a834a16a8a9f8ef81c7fda6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857059107
+        }
+    ],
+    "wof:id":857059107,
+    "wof:lastmodified":1464114866,
+    "wof:name":"The Pita Pit",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "soup",
+        "eastern",
+        "mediterranean",
+        "middle",
+        "american",
+        "greek"
+    ]
+},
+  "bbox": [
+    -91.534388,
+    41.661196,
+    -91.534388,
+    41.661196
+],
+  "geometry": {"coordinates":[-91.53438800000001,41.661196],"type":"Point"}
+}

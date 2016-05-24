@@ -1,0 +1,71 @@
+{
+  "id": 856829445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.565911,41.355101,-93.565911,41.355101",
+    "geom:latitude":41.355101,
+    "geom:longitude":-93.565911,
+    "iso:country":"US",
+    "sg:address":"413 W 5th Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6326",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ypEa2mX7DwFXyXlz7Vcg_41.355101_-93.565911@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104493,
+    "wof:geomhash":"7ce93df293f88f6f02d8a4c85bec2179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856829445
+        }
+    ],
+    "wof:id":856829445,
+    "wof:lastmodified":1464104493,
+    "wof:name":"Warren County Auto Lock Svc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -93.565911,
+    41.355101,
+    -93.565911,
+    41.355101
+],
+  "geometry": {"coordinates":[-93.565911,41.355101],"type":"Point"}
+}

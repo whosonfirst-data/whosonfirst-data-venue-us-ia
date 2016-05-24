@@ -1,0 +1,71 @@
+{
+  "id": 856926725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.853076,41.25614,-95.853076,41.25614",
+    "geom:latitude":41.25614,
+    "geom:longitude":-95.853076,
+    "iso:country":"US",
+    "sg:address":"504 S 6th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3516",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SXYyFgPuOWQ9kyLOBX62e_41.256140_-95.853076@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109116,
+    "wof:geomhash":"34ef384b6949429c07400950904b94db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856926725
+        }
+    ],
+    "wof:id":856926725,
+    "wof:lastmodified":1464109116,
+    "wof:name":"First Church-Christ Scientist",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.853076,
+    41.25614,
+    -95.853076,
+    41.25614
+],
+  "geometry": {"coordinates":[-95.853076,41.25614],"type":"Point"}
+}

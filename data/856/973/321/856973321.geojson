@@ -1,0 +1,73 @@
+{
+  "id": 856973321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.370355,42.421898,-96.370355,42.421898",
+    "geom:latitude":42.421898,
+    "geom:longitude":-96.370355,
+    "iso:country":"US",
+    "sg:address":"2801 Blvd of Champions",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 5895",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P28nwJsh2Imd4EMPsixYY_42.421898_-96.370355@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111120,
+    "wof:geomhash":"688e13a225fb6c3c5d104a42d601746e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856973321
+        }
+    ],
+    "wof:id":856973321,
+    "wof:lastmodified":1464111120,
+    "wof:name":"Schwan's Sales Enterprises",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -96.370355,
+    42.421898,
+    -96.370355,
+    42.421898
+],
+  "geometry": {"coordinates":[-96.370355,42.421898],"type":"Point"}
+}

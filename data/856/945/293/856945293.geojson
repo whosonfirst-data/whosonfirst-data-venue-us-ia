@@ -1,0 +1,71 @@
+{
+  "id": 856945293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.840025,41.265875,-95.840025,41.265875",
+    "geom:latitude":41.265875,
+    "geom:longitude":-95.840025,
+    "iso:country":"US",
+    "sg:address":"530 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8393",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a7ymtnEP6vNl0mH5GAOtW_41.265875_-95.840025@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109896,
+    "wof:geomhash":"e77e8b12657b91ca16c74fcfdac7f0fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856945293
+        }
+    ],
+    "wof:id":856945293,
+    "wof:lastmodified":1464109896,
+    "wof:name":"Audiology Services & Hearing",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -95.840025,
+    41.265875,
+    -95.840025,
+    41.265875
+],
+  "geometry": {"coordinates":[-95.840025,41.265875],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857037733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.882896,41.259701,-95.882896,41.259701",
+    "geom:latitude":41.259701,
+    "geom:longitude":-95.882896,
+    "iso:country":"US",
+    "sg:address":"2541 2nd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 9274",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R9QNqIVr604psS9t2H41A_41.259712_-95.883604@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114000,
+    "wof:geomhash":"bbe22c8318304b525f4ada9283995570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857037733
+        }
+    ],
+    "wof:id":857037733,
+    "wof:lastmodified":1464114000,
+    "wof:name":"Riverside Car Wash",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.882896,
+    41.259701,
+    -95.882896,
+    41.259701
+],
+  "geometry": {"coordinates":[-95.882896,41.259701],"type":"Point"}
+}

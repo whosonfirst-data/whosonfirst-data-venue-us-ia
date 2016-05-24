@@ -1,0 +1,71 @@
+{
+  "id": 857018335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.644502,41.890401,-91.644502,41.890401",
+    "geom:latitude":41.890401,
+    "geom:longitude":-91.644502,
+    "iso:country":"US",
+    "sg:address":"1600 Wright Brothers Blvd E",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 3288",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mc79QGLaEQVDFlpqlOLjr_41.890401_-91.644502@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113129,
+    "wof:geomhash":"f01d021f57415e7ee8cba892d3bc30c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857018335
+        }
+    ],
+    "wof:id":857018335,
+    "wof:lastmodified":1464113129,
+    "wof:name":"Central City Car Wash",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.644502,
+    41.890401,
+    -91.644502,
+    41.890401
+],
+  "geometry": {"coordinates":[-91.644502,41.890401],"type":"Point"}
+}

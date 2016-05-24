@@ -1,0 +1,74 @@
+{
+  "id": 856993229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.419939,41.923962,-91.419939,41.923962",
+    "geom:latitude":41.923962,
+    "geom:longitude":-91.419939,
+    "iso:country":"US",
+    "sg:address":"311 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8214",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.mountvernoniowa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dveRwEqQVeoyAiPtokqHZ_41.923962_-91.419939@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112117,
+    "wof:geomhash":"b3ea00d0da2ec4a8cb266c665e9b3a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856993229
+        }
+    ],
+    "wof:id":856993229,
+    "wof:lastmodified":1464112117,
+    "wof:name":"Mount Vernon Chamber-Commerce",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -91.419939,
+    41.923962,
+    -91.419939,
+    41.923962
+],
+  "geometry": {"coordinates":[-91.419939,41.923962],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856887069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659314,42.046728,-91.659314,42.046728",
+    "geom:latitude":42.046728,
+    "geom:longitude":-91.659314,
+    "iso:country":"US",
+    "sg:address":"6617 Kingswood Ln NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 533 0918",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MVmTuY4ZBQhZ25TrosIPI_42.046728_-91.659314@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107562,
+    "wof:geomhash":"d62dfad7121bdcd6e9722d6d64faae5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856887069
+        }
+    ],
+    "wof:id":856887069,
+    "wof:lastmodified":1464107562,
+    "wof:name":"Tom's Patch & Repair",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -91.659314,
+    42.046728,
+    -91.659314,
+    42.046728
+],
+  "geometry": {"coordinates":[-91.65931399999999,42.046728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856866633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.304035,41.217927,-95.304035,41.217927",
+    "geom:latitude":41.217927,
+    "geom:longitude":-95.304035,
+    "iso:country":"US",
+    "sg:address":"46326 Chestnut Rd",
+    "sg:city":"Griswold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 3493",
+    "sg:postcode":"51535",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aGnyn2NKwFR2OiqSprpxd_41.217927_-95.304035@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106298,
+    "wof:geomhash":"c3e2fe00e6ea8ebb6ee897d45a3afeb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856866633
+        }
+    ],
+    "wof:id":856866633,
+    "wof:lastmodified":1464106298,
+    "wof:name":"Ray Shannon",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.304035,
+    41.217927,
+    -95.304035,
+    41.217927
+],
+  "geometry": {"coordinates":[-95.304035,41.217927],"type":"Point"}
+}

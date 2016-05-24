@@ -1,0 +1,71 @@
+{
+  "id": 856826243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633094,41.890105,-91.633094,41.890105",
+    "geom:latitude":41.890105,
+    "geom:longitude":-91.633094,
+    "iso:country":"US",
+    "sg:address":"3001 Wright Brothers Blvd E",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 4500",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lwn9xxZO1C5NkWVCIU7Fr_41.890105_-91.633094@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104355,
+    "wof:geomhash":"3625cadd2e20676ede417f65d2adaf6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856826243
+        }
+    ],
+    "wof:id":856826243,
+    "wof:lastmodified":1464104355,
+    "wof:name":"Airport National Public Golf",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -91.633094,
+    41.890105,
+    -91.633094,
+    41.890105
+],
+  "geometry": {"coordinates":[-91.633094,41.890105],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856889081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.418997,41.928963,-91.418997,41.928963",
+    "geom:latitude":41.928963,
+    "geom:longitude":-91.418997,
+    "iso:country":"US",
+    "sg:address":"703 5th Ave N",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6732",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g6ATeEO5phLWwX28f75Gf_41.928963_-91.418997@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107646,
+    "wof:geomhash":"ffc1f945940d3d4f12b0f04883f5ca53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856889081
+        }
+    ],
+    "wof:id":856889081,
+    "wof:lastmodified":1464107646,
+    "wof:name":"Heartland String Bass Shop",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -91.418997,
+    41.928963,
+    -91.418997,
+    41.928963
+],
+  "geometry": {"coordinates":[-91.418997,41.928963],"type":"Point"}
+}

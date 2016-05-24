@@ -1,0 +1,71 @@
+{
+  "id": 856912087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.494993,41.498454,-93.494993,41.498454",
+    "geom:latitude":41.498454,
+    "geom:longitude":-93.494993,
+    "iso:country":"US",
+    "sg:address":"840 School St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3912",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CS2tz2yZDHn4FmjpFPWqa_41.498454_-93.494993@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108508,
+    "wof:geomhash":"6a5713b263e901207e5b0d7ff670e7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856912087
+        }
+    ],
+    "wof:id":856912087,
+    "wof:lastmodified":1464108508,
+    "wof:name":"Hunt Standard Svc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.494993,
+    41.498454,
+    -93.494993,
+    41.498454
+],
+  "geometry": {"coordinates":[-93.49499299999999,41.498454],"type":"Point"}
+}

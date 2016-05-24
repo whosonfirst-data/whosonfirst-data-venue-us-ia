@@ -1,0 +1,71 @@
+{
+  "id": 856980589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.362544,42.466372,-96.362544,42.466372",
+    "geom:latitude":42.466372,
+    "geom:longitude":-96.362544,
+    "iso:country":"US",
+    "sg:address":"3419 7th Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 0778",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N4cVqZXisx5GGHjuK9tla_42.466372_-96.362544@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111486,
+    "wof:geomhash":"49c54d5765dbf77a5df28026422067f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856980589
+        }
+    ],
+    "wof:id":856980589,
+    "wof:lastmodified":1464111486,
+    "wof:name":"Sarah's Stitches",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -96.362544,
+    42.466372,
+    -96.362544,
+    42.466372
+],
+  "geometry": {"coordinates":[-96.362544,42.466372],"type":"Point"}
+}

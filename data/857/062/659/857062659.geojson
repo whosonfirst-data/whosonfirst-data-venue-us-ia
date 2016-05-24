@@ -1,0 +1,71 @@
+{
+  "id": 857062659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.847582,41.212407,-95.847582,41.212407",
+    "geom:latitude":41.212407,
+    "geom:longitude":-95.847582,
+    "iso:country":"US",
+    "sg:address":"4624 Navajo St Apt 15",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 9596",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3faNa97Fyf7S2ZnFkF4QuG_41.212407_-95.847582@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115010,
+    "wof:geomhash":"bdda2045a5ecf060cc97d449a6f79b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062659
+        }
+    ],
+    "wof:id":857062659,
+    "wof:lastmodified":1464115010,
+    "wof:name":"Fontenelle Tours",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour"
+    ]
+},
+  "bbox": [
+    -95.847582,
+    41.212407,
+    -95.847582,
+    41.212407
+],
+  "geometry": {"coordinates":[-95.847582,41.212407],"type":"Point"}
+}

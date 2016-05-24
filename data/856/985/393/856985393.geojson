@@ -1,0 +1,73 @@
+{
+  "id": 856985393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.393537,42.469373,-92.393537,42.469373",
+    "geom:latitude":42.469373,
+    "geom:longitude":-92.393537,
+    "iso:country":"US",
+    "sg:address":"1901 W Ridgeway Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 234 2277",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PAMJc6UFt8idqbxMHQOt1_42.469373_-92.393537@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111761,
+    "wof:geomhash":"fd407e37b674af730fb2011ccac656b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856985393
+        }
+    ],
+    "wof:id":856985393,
+    "wof:lastmodified":1464111761,
+    "wof:name":"Crowns By Box",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.393537,
+    42.469373,
+    -92.393537,
+    42.469373
+],
+  "geometry": {"coordinates":[-92.39353699999999,42.469373],"type":"Point"}
+}

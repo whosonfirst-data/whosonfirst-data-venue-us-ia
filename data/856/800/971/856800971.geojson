@@ -1,0 +1,71 @@
+{
+  "id": 856800971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.748288,41.969668,-91.748288,41.969668",
+    "geom:latitude":41.969668,
+    "geom:longitude":-91.748288,
+    "iso:country":"US",
+    "sg:address":"6028 Crestridge Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 261 0632",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23wKCY7JyTlnCrZZZOhLqK_41.969668_-91.748288@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103234,
+    "wof:geomhash":"65be9babe4c072026d8461548b44f411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856800971
+        }
+    ],
+    "wof:id":856800971,
+    "wof:lastmodified":1464103234,
+    "wof:name":"Cindy's Cleaning Co",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.748288,
+    41.969668,
+    -91.748288,
+    41.969668
+],
+  "geometry": {"coordinates":[-91.748288,41.969668],"type":"Point"}
+}

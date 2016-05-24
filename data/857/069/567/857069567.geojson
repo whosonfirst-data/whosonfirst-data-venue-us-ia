@@ -1,0 +1,73 @@
+{
+  "id": 857069567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652901,41.986401,-91.652901,41.986401",
+    "geom:latitude":41.986401,
+    "geom:longitude":-91.652901,
+    "iso:country":"US",
+    "sg:address":"1400 2nd Ave SE Apt 101",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4121",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57eXuUwSCeo33INmuaw6cg_41.986401_-91.652901@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115307,
+    "wof:geomhash":"9811784583c8bfbd9cba64b5f6a1e1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857069567
+        }
+    ],
+    "wof:id":857069567,
+    "wof:lastmodified":1464115307,
+    "wof:name":"Commonwealth Apartments",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.652901,
+    41.986401,
+    -91.652901,
+    41.986401
+],
+  "geometry": {"coordinates":[-91.652901,41.986401],"type":"Point"}
+}

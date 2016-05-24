@@ -1,0 +1,77 @@
+{
+  "id": 856850147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.730316,41.602956,-93.730316,41.602956",
+    "geom:latitude":41.602956,
+    "geom:longitude":-93.730316,
+    "iso:country":"US",
+    "sg:address":"8383 University Blvd",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 457 3884",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sSyYfZsEdkwupEnXPxzWC_41.602956_-93.730316@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105528,
+    "wof:geomhash":"24c2fd793b81376eff33a4e581e866e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856850147
+        }
+    ],
+    "wof:id":856850147,
+    "wof:lastmodified":1464105528,
+    "wof:name":"Greenbelt Kennels",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -93.730316,
+    41.602956,
+    -93.730316,
+    41.602956
+],
+  "geometry": {"coordinates":[-93.730316,41.602956],"type":"Point"}
+}

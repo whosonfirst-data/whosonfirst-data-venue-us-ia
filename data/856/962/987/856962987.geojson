@@ -1,0 +1,75 @@
+{
+  "id": 856962987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661523,41.980236,-91.661523,41.980236",
+    "geom:latitude":41.980236,
+    "geom:longitude":-91.661523,
+    "iso:country":"US",
+    "sg:address":"209 7th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5145",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JFjF8GZtnJVfY7erw9ceb_41.980236_-91.661523@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110665,
+    "wof:geomhash":"59518874875d4a33172878bd36df2f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856962987
+        }
+    ],
+    "wof:id":856962987,
+    "wof:lastmodified":1464110665,
+    "wof:name":"Vacuum Cleaners Sales & Svc",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -91.661523,
+    41.980236,
+    -91.661523,
+    41.980236
+],
+  "geometry": {"coordinates":[-91.661523,41.980236],"type":"Point"}
+}

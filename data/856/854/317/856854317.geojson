@@ -1,0 +1,73 @@
+{
+  "id": 856854317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.403835,42.110722,-91.403835,42.110722",
+    "geom:latitude":42.110722,
+    "geom:longitude":-91.403835,
+    "iso:country":"US",
+    "sg:address":"3555 Shaw Rd",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7436",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Hush8fHZ7M2U65zj1Wtw_42.110722_-91.403835@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105730,
+    "wof:geomhash":"03f303d658203fc858aa301409e22f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856854317
+        }
+    ],
+    "wof:id":856854317,
+    "wof:lastmodified":1464105730,
+    "wof:name":"Hoddy Gates Electrical Svc Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.403835,
+    42.110722,
+    -91.403835,
+    42.110722
+],
+  "geometry": {"coordinates":[-91.403835,42.110722],"type":"Point"}
+}

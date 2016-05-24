@@ -1,0 +1,71 @@
+{
+  "id": 856923267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.596892,42.034175,-91.596892,42.034175",
+    "geom:latitude":42.034175,
+    "geom:longitude":-91.596892,
+    "iso:country":"US",
+    "sg:address":"1100 8th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1581",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T7JM6776IotMxejz0WNbk_42.034175_-91.596892@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108972,
+    "wof:geomhash":"24e39d42d818c630096f078e8f6db647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856923267
+        }
+    ],
+    "wof:id":856923267,
+    "wof:lastmodified":1464108972,
+    "wof:name":"Marion City Building Dept",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.596892,
+    42.034175,
+    -91.596892,
+    42.034175
+],
+  "geometry": {"coordinates":[-91.596892,42.034175],"type":"Point"}
+}

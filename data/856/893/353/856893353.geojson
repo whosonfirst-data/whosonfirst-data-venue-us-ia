@@ -1,0 +1,73 @@
+{
+  "id": 856893353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105089,41.840293,-94.105089,41.840293",
+    "geom:latitude":41.840293,
+    "geom:longitude":-94.105089,
+    "iso:country":"US",
+    "sg:address":"1226 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4601",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pxonsr51YlAYccuCsxnIM_41.840293_-94.105089@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107805,
+    "wof:geomhash":"532834a2ec2ea3bad9de1ab40a5f3aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856893353
+        }
+    ],
+    "wof:id":856893353,
+    "wof:lastmodified":1464107805,
+    "wof:name":"Perry Chamber Of Commerce",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -94.105089,
+    41.840293,
+    -94.105089,
+    41.840293
+],
+  "geometry": {"coordinates":[-94.10508900000001,41.840293],"type":"Point"}
+}

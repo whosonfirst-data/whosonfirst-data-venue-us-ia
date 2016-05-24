@@ -1,0 +1,68 @@
+{
+  "id": 856922169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.552475,41.65697,-91.552475,41.65697",
+    "geom:latitude":41.65697,
+    "geom:longitude":-91.552475,
+    "iso:country":"US",
+    "sg:address":"1006 Melrose Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 9938",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5koBwrnfRp5KwFMKT3EL14_41.656970_-91.552475@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108920,
+    "wof:geomhash":"6845f932591e81b078e75428620daa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896465,
+            "region_id":85688713,
+            "venue_id":856922169
+        }
+    ],
+    "wof:id":856922169,
+    "wof:lastmodified":1464108920,
+    "wof:name":"Taste On Melrose",
+    "wof:parent_id":85896465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.552475,
+    41.65697,
+    -91.552475,
+    41.65697
+],
+  "geometry": {"coordinates":[-91.552475,41.65697],"type":"Point"}
+}

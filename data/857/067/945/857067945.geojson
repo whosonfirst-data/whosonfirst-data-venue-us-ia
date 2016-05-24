@@ -1,0 +1,73 @@
+{
+  "id": 857067945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653503,42.021099,-91.653503,42.021099",
+    "geom:latitude":42.021099,
+    "geom:longitude":-91.653503,
+    "iso:country":"US",
+    "sg:address":"1201 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6152",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FhI1ueyOb1qFc82PUuokQ_42.021099_-91.653503@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115233,
+    "wof:geomhash":"a4b997523a4deff6d58c9c81538209eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067945
+        }
+    ],
+    "wof:id":857067945,
+    "wof:lastmodified":1464115233,
+    "wof:name":"Collins Jeannie Dr DDS",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.653503,
+    42.021099,
+    -91.653503,
+    42.021099
+],
+  "geometry": {"coordinates":[-91.653503,42.021099],"type":"Point"}
+}

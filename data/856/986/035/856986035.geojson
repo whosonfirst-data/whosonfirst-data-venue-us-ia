@@ -1,0 +1,71 @@
+{
+  "id": 856986035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.723195,41.980245,-91.723195,41.980245",
+    "geom:latitude":41.980245,
+    "geom:longitude":-91.723195,
+    "iso:country":"US",
+    "sg:address":"3750 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8794",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48M27DwBXPgQ6PAd9CsYzg_41.980245_-91.723195@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111796,
+    "wof:geomhash":"8aa6caedb01e0da8c7c9a044f7cd7614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856986035
+        }
+    ],
+    "wof:id":856986035,
+    "wof:lastmodified":1464111796,
+    "wof:name":"Church Of The King",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.723195,
+    41.980245,
+    -91.723195,
+    41.980245
+],
+  "geometry": {"coordinates":[-91.723195,41.980245],"type":"Point"}
+}

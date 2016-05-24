@@ -1,0 +1,73 @@
+{
+  "id": 856833981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.343795,41.473715,-95.343795,41.473715",
+    "geom:latitude":41.473715,
+    "geom:longitude":-95.343795,
+    "iso:country":"US",
+    "sg:address":"606 W Ellsworth St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6421",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RA1GQgmzSG16vvNnZdY7O_41.473715_-95.343795@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104704,
+    "wof:geomhash":"be49e78dfd64343c0f6656df681a0fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856833981
+        }
+    ],
+    "wof:id":856833981,
+    "wof:lastmodified":1464104704,
+    "wof:name":"Dave's Place",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.343795,
+    41.473715,
+    -95.343795,
+    41.473715
+],
+  "geometry": {"coordinates":[-95.343795,41.473715],"type":"Point"}
+}

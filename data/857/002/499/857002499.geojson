@@ -1,0 +1,73 @@
+{
+  "id": 857002499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.357525,42.473707,-96.357525,42.473707",
+    "geom:latitude":42.473707,
+    "geom:longitude":-96.357525,
+    "iso:country":"US",
+    "sg:address":"1501 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 5665",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_749okv9oXPIZyNolpsrtyS_42.473707_-96.357525@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112471,
+    "wof:geomhash":"e9a653169fc0635d19f9604c0d9e745f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857002499
+        }
+    ],
+    "wof:id":857002499,
+    "wof:lastmodified":1464112471,
+    "wof:name":"KMSC",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -96.357525,
+    42.473707,
+    -96.357525,
+    42.473707
+],
+  "geometry": {"coordinates":[-96.357525,42.473707],"type":"Point"}
+}

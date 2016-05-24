@@ -1,0 +1,73 @@
+{
+  "id": 856911107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.341883,42.405895,-96.341883,42.405895",
+    "geom:latitude":42.405895,
+    "geom:longitude":-96.341883,
+    "iso:country":"US",
+    "sg:address":"2706 Ivanhoe Dr",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 4129",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fTW2AspJIHNKu34NSIEvJ_42.405895_-96.341883@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108469,
+    "wof:geomhash":"6c00a71b2609060a49920f3dece01784",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856911107
+        }
+    ],
+    "wof:id":856911107,
+    "wof:lastmodified":1464108469,
+    "wof:name":"Cathy's Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.341883,
+    42.405895,
+    -96.341883,
+    42.405895
+],
+  "geometry": {"coordinates":[-96.341883,42.405895],"type":"Point"}
+}

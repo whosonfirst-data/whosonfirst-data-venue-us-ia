@@ -1,0 +1,68 @@
+{
+  "id": 856872383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.598253,41.52625,-93.598253,41.52625",
+    "geom:latitude":41.52625,
+    "geom:longitude":-93.598253,
+    "iso:country":"US",
+    "sg:address":"1201 E Army Post Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 287 6611",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54qUOhjZrNB1tV1rNKSIYx_41.526250_-93.598253@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106778,
+    "wof:geomhash":"839b8b629ef2e1bb3c7ecae31a99fb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":856872383
+        }
+    ],
+    "wof:id":856872383,
+    "wof:lastmodified":1464106778,
+    "wof:name":"Crimmins Cattle Co Restaurant",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.598253,
+    41.52625,
+    -93.598253,
+    41.52625
+],
+  "geometry": {"coordinates":[-93.598253,41.52625],"type":"Point"}
+}

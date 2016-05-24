@@ -1,0 +1,75 @@
+{
+  "id": 856996645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.595162,41.681353,-91.595162,41.681353",
+    "geom:latitude":41.681353,
+    "geom:longitude":-91.595162,
+    "iso:country":"US",
+    "sg:address":"2035 2nd St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 4214",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16ix5UVGKLu2olORVE7fBR_41.681353_-91.595162@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112246,
+    "wof:geomhash":"a9830d556fd1759fd9e61f0bf4077815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896371,
+            "region_id":85688713,
+            "venue_id":856996645
+        }
+    ],
+    "wof:id":856996645,
+    "wof:lastmodified":1464112246,
+    "wof:name":"Espresso Oasis Inc",
+    "wof:parent_id":85896371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -91.595162,
+    41.681353,
+    -91.595162,
+    41.681353
+],
+  "geometry": {"coordinates":[-91.595162,41.681353],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856931279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.423434,41.916201,-91.423434,41.916201",
+    "geom:latitude":41.916201,
+    "geom:longitude":-91.423434,
+    "iso:country":"US",
+    "sg:address":"323 US Hwy 30 W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 9101",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KC8ycin4jVxcaUIAP0syW_41.916201_-91.423434@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109294,
+    "wof:geomhash":"f4ea122e0dc4fe34ce1ccf2f9688a396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856931279
+        }
+    ],
+    "wof:id":856931279,
+    "wof:lastmodified":1464109294,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.423434,
+    41.916201,
+    -91.423434,
+    41.916201
+],
+  "geometry": {"coordinates":[-91.423434,41.916201],"type":"Point"}
+}

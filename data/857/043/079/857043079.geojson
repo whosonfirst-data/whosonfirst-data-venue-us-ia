@@ -1,0 +1,71 @@
+{
+  "id": 857043079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664398,42.0159,-91.664398,42.0159",
+    "geom:latitude":42.0159,
+    "geom:longitude":-91.664398,
+    "iso:country":"US",
+    "sg:address":"3605 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 9741",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QOYUmRL01b3HVvHPRbTnT_42.015840_-91.664257@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114198,
+    "wof:geomhash":"ae16ceadc5ef66e6b32b2e519a1f9220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857043079
+        }
+    ],
+    "wof:id":857043079,
+    "wof:lastmodified":1464114198,
+    "wof:name":"Cedar Valley Family Dentistry P C",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.664398,
+    42.0159,
+    -91.664398,
+    42.0159
+],
+  "geometry": {"coordinates":[-91.66439800000001,42.0159],"type":"Point"}
+}

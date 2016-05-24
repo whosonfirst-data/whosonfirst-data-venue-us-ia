@@ -1,0 +1,73 @@
+{
+  "id": 856838897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.485264,41.525539,-91.485264,41.525539",
+    "geom:latitude":41.525539,
+    "geom:longitude":-91.485264,
+    "iso:country":"US",
+    "sg:address":"4586 560th St SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 2743",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qma9JAaqV8aRQG33TnWta_41.525539_-91.485264@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104957,
+    "wof:geomhash":"e510628c330b26938067658ffa5a4197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856838897
+        }
+    ],
+    "wof:id":856838897,
+    "wof:lastmodified":1464104957,
+    "wof:name":"A2Z Mechanical Contractors",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.485264,
+    41.525539,
+    -91.485264,
+    41.525539
+],
+  "geometry": {"coordinates":[-91.485264,41.525539],"type":"Point"}
+}

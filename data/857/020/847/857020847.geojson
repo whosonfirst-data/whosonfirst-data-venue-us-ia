@@ -1,0 +1,73 @@
+{
+  "id": 857020847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.728147,41.97361,-91.728147,41.97361",
+    "geom:latitude":41.97361,
+    "geom:longitude":-91.728147,
+    "iso:country":"US",
+    "sg:address":"245 Lynda Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2085",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZMSY31m9Y3rlZ6sLHPfAX_41.973610_-91.728147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113223,
+    "wof:geomhash":"83ecae284470603af15605eff2d7c77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857020847
+        }
+    ],
+    "wof:id":857020847,
+    "wof:lastmodified":1464113223,
+    "wof:name":"Leo's Heating & Air Cond Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.728147,
+    41.97361,
+    -91.728147,
+    41.97361
+],
+  "geometry": {"coordinates":[-91.72814700000001,41.97361],"type":"Point"}
+}

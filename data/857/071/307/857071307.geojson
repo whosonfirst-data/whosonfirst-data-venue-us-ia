@@ -1,0 +1,71 @@
+{
+  "id": 857071307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.734596,41.968102,-91.734596,41.968102",
+    "geom:latitude":41.968102,
+    "geom:longitude":-91.734596,
+    "iso:country":"US",
+    "sg:address":"4920 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5540",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bankruptcy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SqpcIXRcjMSEgXVjqAivu_41.968102_-91.734596@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115385,
+    "wof:geomhash":"278f686220ead7281078ef1e5794d58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071307
+        }
+    ],
+    "wof:id":857071307,
+    "wof:lastmodified":1464115385,
+    "wof:name":"Dolezal Kenneth F",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bankruptcy"
+    ]
+},
+  "bbox": [
+    -91.734596,
+    41.968102,
+    -91.734596,
+    41.968102
+],
+  "geometry": {"coordinates":[-91.734596,41.968102],"type":"Point"}
+}

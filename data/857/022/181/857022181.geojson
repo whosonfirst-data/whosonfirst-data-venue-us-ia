@@ -1,0 +1,73 @@
+{
+  "id": 857022181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.642286,41.982466,-91.642286,41.982466",
+    "geom:latitude":41.982466,
+    "geom:longitude":-91.642286,
+    "iso:country":"US",
+    "sg:address":"1906 5th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2910",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_700GFZv0tQB9tfhfdglNQO_41.982466_-91.642286@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113284,
+    "wof:geomhash":"1c911319b9b916728c38a464a81de07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857022181
+        }
+    ],
+    "wof:id":857022181,
+    "wof:lastmodified":1464113284,
+    "wof:name":"GM & Associates",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -91.642286,
+    41.982466,
+    -91.642286,
+    41.982466
+],
+  "geometry": {"coordinates":[-91.642286,41.982466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856822925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629493,41.98075,-91.629493,41.98075",
+    "geom:latitude":41.98075,
+    "geom:longitude":-91.629493,
+    "iso:country":"US",
+    "sg:address":"626 Grant Wood Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5543",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cnqH4SAPDOGyfOq6dFEyv_41.980750_-91.629493@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104223,
+    "wof:geomhash":"97d85183ec2ba1caa21ddd525bae7635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856822925
+        }
+    ],
+    "wof:id":856822925,
+    "wof:lastmodified":1464104223,
+    "wof:name":"Architectural Design",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -91.629493,
+    41.98075,
+    -91.629493,
+    41.98075
+],
+  "geometry": {"coordinates":[-91.629493,41.98075],"type":"Point"}
+}

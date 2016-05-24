@@ -1,0 +1,71 @@
+{
+  "id": 856885669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535694,41.634968,-91.535694,41.634968",
+    "geom:latitude":41.634968,
+    "geom:longitude":-91.535694,
+    "iso:country":"US",
+    "sg:address":"26 Commercial Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 5853",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cSgKtwqAQxM1eBvEDcjEK_41.634968_-91.535694@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107500,
+    "wof:geomhash":"48aded07e2d52be1ece2f0374cb44743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856885669
+        }
+    ],
+    "wof:id":856885669,
+    "wof:lastmodified":1464107500,
+    "wof:name":"Ahrens Laser Screed Co",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.535694,
+    41.634968,
+    -91.535694,
+    41.634968
+],
+  "geometry": {"coordinates":[-91.53569400000001,41.634968],"type":"Point"}
+}

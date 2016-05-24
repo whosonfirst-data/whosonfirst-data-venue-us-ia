@@ -1,0 +1,86 @@
+{
+  "id": 857059457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715956,41.95486,-91.715956,41.95486",
+    "geom:latitude":41.95486,
+    "geom:longitude":-91.715956,
+    "iso:country":"US",
+    "sg:address":"2545 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/95604-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0077",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fyFIawpvxt2wkb4q4aidG_41.954860_-91.715956@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114878,
+    "wof:geomhash":"bc3b92fa4d510fbd4a3f3a9c9c06e23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857059457
+        }
+    ],
+    "wof:id":857059457,
+    "wof:lastmodified":1464114878,
+    "wof:name":"IHOP",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -91.715956,
+    41.95486,
+    -91.715956,
+    41.95486
+],
+  "geometry": {"coordinates":[-91.71595600000001,41.95486],"type":"Point"}
+}

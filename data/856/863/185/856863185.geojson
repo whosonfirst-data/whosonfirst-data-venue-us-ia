@@ -1,0 +1,73 @@
+{
+  "id": 856863185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.742866,41.556261,-93.742866,41.556261",
+    "geom:latitude":41.556261,
+    "geom:longitude":-93.742866,
+    "iso:country":"US",
+    "sg:address":"816 S 26th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 6879",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Su2lofSHwWqFi9oJHgkbD_41.556261_-93.742866@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106123,
+    "wof:geomhash":"d3c493ba01af651cfdecd01eff00ff15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896521,
+            "region_id":85688713,
+            "venue_id":856863185
+        }
+    ],
+    "wof:id":856863185,
+    "wof:lastmodified":1464106123,
+    "wof:name":"Vandee Enterprise",
+    "wof:parent_id":85896521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.742866,
+    41.556261,
+    -93.742866,
+    41.556261
+],
+  "geometry": {"coordinates":[-93.74286600000001,41.556261],"type":"Point"}
+}

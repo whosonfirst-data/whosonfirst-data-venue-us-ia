@@ -1,0 +1,78 @@
+{
+  "id": 857069477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655216,41.979537,-91.655216,41.979537",
+    "geom:latitude":41.979537,
+    "geom:longitude":-91.655216,
+    "iso:country":"US",
+    "sg:address":"620 10th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2348",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.cr.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rvHgqxUEEXijAwn7Jk36B_41.979537_-91.655216@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115304,
+    "wof:geomhash":"fe56afa02d4d761435f9f41120e52f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069477
+        }
+    ],
+    "wof:id":857069477,
+    "wof:lastmodified":1464115304,
+    "wof:name":"McKinley Middle School",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.655216,
+    41.979537,
+    -91.655216,
+    41.979537
+],
+  "geometry": {"coordinates":[-91.655216,41.979537],"type":"Point"}
+}

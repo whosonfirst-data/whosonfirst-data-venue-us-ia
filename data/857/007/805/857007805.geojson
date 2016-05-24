@@ -1,0 +1,71 @@
+{
+  "id": 857007805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.670819,41.468103,-93.670819,41.468103",
+    "geom:latitude":41.468103,
+    "geom:longitude":-93.670819,
+    "iso:country":"US",
+    "sg:address":"1523 Wright Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 4948",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mHXauQLeNISEvyMJEES68_41.468103_-93.670819@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112690,
+    "wof:geomhash":"aa3506ce74885eee73b83820eb4703db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857007805
+        }
+    ],
+    "wof:id":857007805,
+    "wof:lastmodified":1464112690,
+    "wof:name":"Ted Onstot",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.670819,
+    41.468103,
+    -93.670819,
+    41.468103
+],
+  "geometry": {"coordinates":[-93.67081899999999,41.468103],"type":"Point"}
+}

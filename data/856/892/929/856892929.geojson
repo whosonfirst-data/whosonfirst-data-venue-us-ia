@@ -1,0 +1,75 @@
+{
+  "id": 856892929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.755761,41.608912,-93.755761,41.608912",
+    "geom:latitude":41.608912,
+    "geom:longitude":-93.755761,
+    "iso:country":"US",
+    "sg:address":"2100 NW 100th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 0351",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50wNSIr6gfdGaI1Sne3wH8_41.608912_-93.755761@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107791,
+    "wof:geomhash":"80c7f29ecbb76a4f65ae8f2d99f9b19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896343,
+            "region_id":85688713,
+            "venue_id":856892929
+        }
+    ],
+    "wof:id":856892929,
+    "wof:lastmodified":1464107791,
+    "wof:name":"Jane Schrader MD",
+    "wof:parent_id":85896343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.755761,
+    41.608912,
+    -93.755761,
+    41.608912
+],
+  "geometry": {"coordinates":[-93.75576100000001,41.608912],"type":"Point"}
+}

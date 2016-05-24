@@ -1,0 +1,68 @@
+{
+  "id": 856873379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530383,41.659971,-91.530383,41.659971",
+    "geom:latitude":41.659971,
+    "geom:longitude":-91.530383,
+    "iso:country":"US",
+    "sg:address":"319 E Washington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7600",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mhPImfkcTR23kaKKmBXfZ_41.659971_-91.530383@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106833,
+    "wof:geomhash":"beee2a05ddb74bc086300e7b38f340c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856873379
+        }
+    ],
+    "wof:id":856873379,
+    "wof:lastmodified":1464106833,
+    "wof:name":"Burns & Burns",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.530383,
+    41.659971,
+    -91.530383,
+    41.659971
+],
+  "geometry": {"coordinates":[-91.530383,41.659971],"type":"Point"}
+}

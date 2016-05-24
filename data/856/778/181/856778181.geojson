@@ -1,0 +1,73 @@
+{
+  "id": 856778181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656587,41.917725,-91.656587,41.917725",
+    "geom:latitude":41.917725,
+    "geom:longitude":-91.656587,
+    "iso:country":"US",
+    "sg:address":"6301 Kirkwood Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0462",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2zNX3UC7nS5c74LZqkgF_41.917725_-91.656587@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102394,
+    "wof:geomhash":"e1994326451811a44cc26193163295a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856778181
+        }
+    ],
+    "wof:id":856778181,
+    "wof:lastmodified":1464102394,
+    "wof:name":"Bluestem Solid Waste Agency",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program"
+    ]
+},
+  "bbox": [
+    -91.656587,
+    41.917725,
+    -91.656587,
+    41.917725
+],
+  "geometry": {"coordinates":[-91.656587,41.917725],"type":"Point"}
+}

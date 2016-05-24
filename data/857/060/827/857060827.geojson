@@ -1,0 +1,85 @@
+{
+  "id": 857060827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540352,41.65284,-91.540352,41.65284",
+    "geom:latitude":41.65284,
+    "geom:longitude":-91.540352,
+    "iso:country":"US",
+    "sg:address":"526 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/172750-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 9238",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0alye7hYgisUvQENK5q04l_41.652491_-91.540309@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114929,
+    "wof:geomhash":"097a39868e4da6153ab701359e83404a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857060827
+        }
+    ],
+    "wof:id":857060827,
+    "wof:lastmodified":1464114929,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -91.540352,
+    41.65284,
+    -91.540352,
+    41.65284
+],
+  "geometry": {"coordinates":[-91.540352,41.65284],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857068801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6474,41.993801,-91.6474,41.993801",
+    "geom:latitude":41.993801,
+    "geom:longitude":-91.6474,
+    "iso:country":"US",
+    "sg:address":"1650 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3937",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "ophthalmologist"
+    ],
+    "sg:website":"www.iowa-eye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EGq2TSHbNwfi1m1nSqO8w_41.993801_-91.647400@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115282,
+    "wof:geomhash":"9d60f143d6da0d96c4485813575db044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068801
+        }
+    ],
+    "wof:id":857068801,
+    "wof:lastmodified":1464115282,
+    "wof:name":"Knudtson Kenneth MD",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist"
+    ]
+},
+  "bbox": [
+    -91.6474,
+    41.993801,
+    -91.6474,
+    41.993801
+],
+  "geometry": {"coordinates":[-91.6474,41.993801],"type":"Point"}
+}

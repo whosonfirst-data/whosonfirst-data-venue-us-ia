@@ -1,0 +1,66 @@
+{
+  "id": 856976233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.774444,41.931086,-91.774444,41.931086",
+    "geom:latitude":41.931086,
+    "geom:longitude":-91.774444,
+    "iso:country":"US",
+    "sg:address":"85 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2860",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61VOHzkM1o72iuXLMYPi8t_41.931086_-91.774444@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111276,
+    "wof:geomhash":"00823753aa657813b458e888d8ff6bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856976233
+        }
+    ],
+    "wof:id":856976233,
+    "wof:lastmodified":1464111276,
+    "wof:name":"Fairfax Handi Mart",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.774444,
+    41.931086,
+    -91.774444,
+    41.931086
+],
+  "geometry": {"coordinates":[-91.774444,41.931086],"type":"Point"}
+}

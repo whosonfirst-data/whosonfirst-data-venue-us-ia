@@ -1,0 +1,76 @@
+{
+  "id": 857064371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.677092,41.387131,-95.677092,41.387131",
+    "geom:latitude":41.387131,
+    "geom:longitude":-95.677092,
+    "iso:country":"US",
+    "sg:address":"142 3rd St",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 3233",
+    "sg:postcode":"51576",
+    "sg:province":"IA",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U4QUwfAZUwPO9DsjAuB23_41.387131_-95.677092@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115074,
+    "wof:geomhash":"eb5c000f5ff96d4b181961f8eece5b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857064371
+        }
+    ],
+    "wof:id":857064371,
+    "wof:lastmodified":1464115074,
+    "wof:name":"Pottawattamie County Animal Control",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -95.677092,
+    41.387131,
+    -95.677092,
+    41.387131
+],
+  "geometry": {"coordinates":[-95.677092,41.387131],"type":"Point"}
+}

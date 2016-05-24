@@ -1,0 +1,71 @@
+{
+  "id": 857062833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.877146,41.262047,-95.877146,41.262047",
+    "geom:latitude":41.262047,
+    "geom:longitude":-95.877146,
+    "iso:country":"US",
+    "sg:address":"2210 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 3990",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iRF6I05wbrPaIktrEPUkk_41.262047_-95.877146@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115016,
+    "wof:geomhash":"3cba933f73e6887206e94d144a36e564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062833
+        }
+    ],
+    "wof:id":857062833,
+    "wof:lastmodified":1464115016,
+    "wof:name":"Mexico Lindo",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.877146,
+    41.262047,
+    -95.877146,
+    41.262047
+],
+  "geometry": {"coordinates":[-95.877146,41.262047],"type":"Point"}
+}

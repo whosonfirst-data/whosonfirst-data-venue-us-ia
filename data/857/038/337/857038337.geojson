@@ -1,0 +1,73 @@
+{
+  "id": 857038337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.850098,41.2561,-95.850098,41.2561",
+    "geom:latitude":41.2561,
+    "geom:longitude":-95.850098,
+    "iso:country":"US",
+    "sg:address":"530 S 4th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 8731",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bookstore",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yEIU9iUPRFFIIfpfZS076_41.256066_-95.850106@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114025,
+    "wof:geomhash":"a5d02470ec815228e8242053329fa800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857038337
+        }
+    ],
+    "wof:id":857038337,
+    "wof:lastmodified":1464114025,
+    "wof:name":"Kanesville Kollectables",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "music"
+    ]
+},
+  "bbox": [
+    -95.850098,
+    41.2561,
+    -95.850098,
+    41.2561
+],
+  "geometry": {"coordinates":[-95.850098,41.2561],"type":"Point"}
+}

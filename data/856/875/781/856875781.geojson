@@ -1,0 +1,71 @@
+{
+  "id": 856875781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.22206,41.476875,-95.22206,41.476875",
+    "geom:latitude":41.476875,
+    "geom:longitude":-95.22206,
+    "iso:country":"US",
+    "sg:address":"229 Antique City Dr",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3443",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00jHYtKu3bx54kXLH2rDMx_41.476875_-95.222060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106976,
+    "wof:geomhash":"1197648cddc557409e165c7d3e4f835d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856875781
+        }
+    ],
+    "wof:id":856875781,
+    "wof:lastmodified":1464106976,
+    "wof:name":"Walnut City Clerk",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.22206,
+    41.476875,
+    -95.22206,
+    41.476875
+],
+  "geometry": {"coordinates":[-95.22206,41.476875],"type":"Point"}
+}

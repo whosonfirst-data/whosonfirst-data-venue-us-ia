@@ -1,0 +1,66 @@
+{
+  "id": 856983471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.856067,41.256121,-95.856067,41.256121",
+    "geom:latitude":41.256121,
+    "geom:longitude":-95.856067,
+    "iso:country":"US",
+    "sg:address":"500 S 8th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3478",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vMOr0QJyEu8PkTMX8VEPC_41.256121_-95.856067@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111659,
+    "wof:geomhash":"003e4086ea01105a56d924f87756f812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856983471
+        }
+    ],
+    "wof:id":856983471,
+    "wof:lastmodified":1464111659,
+    "wof:name":"Southwest Iowa Assn-Realtors",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.856067,
+    41.256121,
+    -95.856067,
+    41.256121
+],
+  "geometry": {"coordinates":[-95.856067,41.256121],"type":"Point"}
+}

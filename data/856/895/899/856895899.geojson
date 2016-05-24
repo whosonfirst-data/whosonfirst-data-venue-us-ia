@@ -1,0 +1,73 @@
+{
+  "id": 856895899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.40646,42.50582,-96.40646,42.50582",
+    "geom:latitude":42.50582,
+    "geom:longitude":-96.40646,
+    "iso:country":"US",
+    "sg:address":"1522 Douglas St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 5964",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UZGvXfUscYFLk1YG9ZXEW_42.505820_-96.406460@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107898,
+    "wof:geomhash":"327c79814044540a1365b53e909288e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856895899
+        }
+    ],
+    "wof:id":856895899,
+    "wof:lastmodified":1464107898,
+    "wof:name":"Mt Olive Baptist Church",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.40646,
+    42.50582,
+    -96.40646,
+    42.50582
+],
+  "geometry": {"coordinates":[-96.40646,42.50582],"type":"Point"}
+}

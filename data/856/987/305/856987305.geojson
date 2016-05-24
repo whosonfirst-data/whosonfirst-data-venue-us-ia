@@ -1,0 +1,66 @@
+{
+  "id": 856987305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648044,42.150969,-91.648044,42.150969",
+    "geom:latitude":42.150969,
+    "geom:longitude":-91.648044,
+    "iso:country":"US",
+    "sg:address":"4182 C Ave Exn",
+    "sg:city":"Alburnett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 842 2729",
+    "sg:postcode":"52202",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TehCZ2EkGtL8j4l0B8Bc4_42.150969_-91.648044@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111847,
+    "wof:geomhash":"5c31b4df6a1abf6290bce23d9b9b64c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856987305
+        }
+    ],
+    "wof:id":856987305,
+    "wof:lastmodified":1464111847,
+    "wof:name":"Lasting Expressions Florals",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.648044,
+    42.150969,
+    -91.648044,
+    42.150969
+],
+  "geometry": {"coordinates":[-91.648044,42.150969],"type":"Point"}
+}

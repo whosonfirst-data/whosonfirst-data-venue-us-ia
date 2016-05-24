@@ -1,0 +1,79 @@
+{
+  "id": 857066519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668248,41.976832,-91.668248,41.976832",
+    "geom:latitude":41.976832,
+    "geom:longitude":-91.668248,
+    "iso:country":"US",
+    "sg:address":"200 1st St SE Suite 101",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6442",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"palacebarbershopsalonspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hKnS6k75HPfQLNNEA4AHX_41.976832_-91.668248@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115153,
+    "wof:geomhash":"97845167cc11995043fe517362975493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066519
+        }
+    ],
+    "wof:id":857066519,
+    "wof:lastmodified":1464115153,
+    "wof:name":"Palace Barber Shop",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -91.668248,
+    41.976832,
+    -91.668248,
+    41.976832
+],
+  "geometry": {"coordinates":[-91.66824800000001,41.976832],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857065793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.604103,42.0341,-91.604103,42.0341",
+    "geom:latitude":42.0341,
+    "geom:longitude":-91.604103,
+    "iso:country":"US",
+    "sg:address":"808 6th St Ste 1",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7037",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H1V0k0Dx6pNkh6asvImV9_42.034100_-91.604103@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115128,
+    "wof:geomhash":"879f51b3f18a560f59e726ec4f6d571b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065793
+        }
+    ],
+    "wof:id":857065793,
+    "wof:lastmodified":1464115128,
+    "wof:name":"Marion Times the",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -91.604103,
+    42.0341,
+    -91.604103,
+    42.0341
+],
+  "geometry": {"coordinates":[-91.60410299999999,42.0341],"type":"Point"}
+}

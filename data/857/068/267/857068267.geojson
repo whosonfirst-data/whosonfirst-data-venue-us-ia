@@ -1,0 +1,71 @@
+{
+  "id": 857068267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651001,42.007599,-91.651001,42.007599",
+    "geom:latitude":42.007599,
+    "geom:longitude":-91.651001,
+    "iso:country":"US",
+    "sg:address":"1100 Staub Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 8209",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QZbFreKQqa3WgjDWwJ5I4_42.007599_-91.651001@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115251,
+    "wof:geomhash":"0531bf2e0d626dc58a26717f78480ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068267
+        }
+    ],
+    "wof:id":857068267,
+    "wof:lastmodified":1464115251,
+    "wof:name":"Kimbree Carpet Cleaning",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -91.651001,
+    42.007599,
+    -91.651001,
+    42.007599
+],
+  "geometry": {"coordinates":[-91.65100099999999,42.007599],"type":"Point"}
+}

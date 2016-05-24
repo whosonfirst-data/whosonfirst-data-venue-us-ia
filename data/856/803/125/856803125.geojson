@@ -1,0 +1,73 @@
+{
+  "id": 856803125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.208236,41.346352,-95.208236,41.346352",
+    "geom:latitude":41.346352,
+    "geom:longitude":-95.208236,
+    "iso:country":"US",
+    "sg:address":"51297 Juniper Rd",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3175",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16VKgeVgqCmXxQYzGOvXSU_41.346352_-95.208236@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103327,
+    "wof:geomhash":"a55de6d090dcbfdf815e7361a75366d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856803125
+        }
+    ],
+    "wof:id":856803125,
+    "wof:lastmodified":1464103327,
+    "wof:name":"Crested Ranch",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.208236,
+    41.346352,
+    -95.208236,
+    41.346352
+],
+  "geometry": {"coordinates":[-95.208236,41.346352],"type":"Point"}
+}

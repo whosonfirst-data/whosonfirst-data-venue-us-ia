@@ -1,0 +1,73 @@
+{
+  "id": 856836433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.842169,41.261621,-95.842169,41.261621",
+    "geom:latitude":41.261621,
+    "geom:longitude":-95.842169,
+    "iso:country":"US",
+    "sg:address":"122 S 1st St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 642 3111",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I9F79ifHcnGTmlB32dls4_41.261621_-95.842169@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104846,
+    "wof:geomhash":"330a791172c2b9e2d28727c93629f948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856836433
+        }
+    ],
+    "wof:id":856836433,
+    "wof:lastmodified":1464104846,
+    "wof:name":"Mo Valley Grain Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -95.842169,
+    41.261621,
+    -95.842169,
+    41.261621
+],
+  "geometry": {"coordinates":[-95.842169,41.261621],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857070079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.700104,41.962399,-91.700104,41.962399",
+    "geom:latitude":41.962399,
+    "geom:longitude":-91.700104,
+    "iso:country":"US",
+    "sg:address":"2001 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5196",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G6OczSeH3wJ6fRkB3mgiM_41.962399_-91.700104@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115334,
+    "wof:geomhash":"167cc13e0344585e9565ab2115e19728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070079
+        }
+    ],
+    "wof:id":857070079,
+    "wof:lastmodified":1464115334,
+    "wof:name":"Wonder Hostess Thrift Shop",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.700104,
+    41.962399,
+    -91.700104,
+    41.962399
+],
+  "geometry": {"coordinates":[-91.700104,41.962399],"type":"Point"}
+}

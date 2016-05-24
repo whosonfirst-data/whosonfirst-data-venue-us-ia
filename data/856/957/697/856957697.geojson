@@ -1,0 +1,71 @@
+{
+  "id": 856957697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.816944,41.239148,-95.816944,41.239148",
+    "geom:latitude":41.239148,
+    "geom:longitude":-95.816944,
+    "iso:country":"US",
+    "sg:address":"2223 Valley View Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7189",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73E8C4xGM7oBNyHi5Uhc3L_41.239148_-95.816944@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110455,
+    "wof:geomhash":"3d665bd1761e054f316b08c68ab9382e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856957697
+        }
+    ],
+    "wof:id":856957697,
+    "wof:lastmodified":1464110455,
+    "wof:name":"Reasonable Roofing",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.816944,
+    41.239148,
+    -95.816944,
+    41.239148
+],
+  "geometry": {"coordinates":[-95.81694400000001,41.239148],"type":"Point"}
+}

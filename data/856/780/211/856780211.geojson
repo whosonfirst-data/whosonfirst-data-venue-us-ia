@@ -1,0 +1,73 @@
+{
+  "id": 856780211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.592334,41.699,-91.592334,41.699",
+    "geom:latitude":41.699,
+    "geom:longitude":-91.592334,
+    "iso:country":"US",
+    "sg:address":"2013 N Ridge Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 9194",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jWxm3MfXYMcUQNmE4mBTT_41.699000_-91.592334@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102446,
+    "wof:geomhash":"958c80caea2ff6ed96c3b40b23be0225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896365,
+            "region_id":85688713,
+            "venue_id":856780211
+        }
+    ],
+    "wof:id":856780211,
+    "wof:lastmodified":1464102446,
+    "wof:name":"Catharine J Farinelli DDS",
+    "wof:parent_id":85896365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.592334,
+    41.699,
+    -91.592334,
+    41.699
+],
+  "geometry": {"coordinates":[-91.59233399999999,41.699],"type":"Point"}
+}

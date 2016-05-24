@@ -1,0 +1,71 @@
+{
+  "id": 857011765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854776,41.251571,-95.854776,41.251571",
+    "geom:latitude":41.251571,
+    "geom:longitude":-95.854776,
+    "iso:country":"US",
+    "sg:address":"1000 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2927",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kqzKNlvzIVdRGUuuAYswl_41.251571_-95.854776@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112851,
+    "wof:geomhash":"dc74284a2ab4fd03a63321a8cabf35b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857011765
+        }
+    ],
+    "wof:id":857011765,
+    "wof:lastmodified":1464112851,
+    "wof:name":"Amerco Feed Co",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -95.854776,
+    41.251571,
+    -95.854776,
+    41.251571
+],
+  "geometry": {"coordinates":[-95.854776,41.251571],"type":"Point"}
+}

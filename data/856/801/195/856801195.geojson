@@ -1,0 +1,73 @@
+{
+  "id": 856801195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.735892,41.629071,-93.735892,41.629071",
+    "geom:latitude":41.629071,
+    "geom:longitude":-93.735892,
+    "iso:country":"US",
+    "sg:address":"8400 Douglas Ave",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 000 1111",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PB5twXRDSLQBsLMvHn4tl_41.629071_-93.735892@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103242,
+    "wof:geomhash":"81b7980a25e00c6a3c72fa15b45f6949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896505,
+            "region_id":85688713,
+            "venue_id":856801195
+        }
+    ],
+    "wof:id":856801195,
+    "wof:lastmodified":1464103242,
+    "wof:name":"Aldi",
+    "wof:parent_id":85896505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.735892,
+    41.629071,
+    -93.735892,
+    41.629071
+],
+  "geometry": {"coordinates":[-93.73589200000001,41.629071],"type":"Point"}
+}

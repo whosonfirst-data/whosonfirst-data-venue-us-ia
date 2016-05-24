@@ -1,0 +1,67 @@
+{
+  "id": 856887737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.356006,42.470774,-96.356006,42.470774",
+    "geom:latitude":42.470774,
+    "geom:longitude":-96.356006,
+    "iso:country":"US",
+    "sg:address":"1901 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 5333",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:website":"www.morningsidebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56BHdQqyJaQJaCEBJzqPkc_42.470774_-96.356006@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107591,
+    "wof:geomhash":"88c4c84c3805e3ab4030a8378d8e72af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856887737
+        }
+    ],
+    "wof:id":856887737,
+    "wof:lastmodified":1464107591,
+    "wof:name":"Morningside Bank & Trust",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.356006,
+    42.470774,
+    -96.356006,
+    42.470774
+],
+  "geometry": {"coordinates":[-96.35600599999999,42.470774],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857043343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.613602,42.0303,-91.613602,42.0303",
+    "geom:latitude":42.0303,
+    "geom:longitude":-91.613602,
+    "iso:country":"US",
+    "sg:address":"380 Marion Blvd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 4873",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TCOamO9F8yYP2UQjrGwnS_42.029833_-91.614261@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114211,
+    "wof:geomhash":"5f13ef7ef417fb7153fbd32ca20daa13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857043343
+        }
+    ],
+    "wof:id":857043343,
+    "wof:lastmodified":1464114211,
+    "wof:name":"Linn Animal Hospital",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.613602,
+    42.0303,
+    -91.613602,
+    42.0303
+],
+  "geometry": {"coordinates":[-91.613602,42.0303],"type":"Point"}
+}

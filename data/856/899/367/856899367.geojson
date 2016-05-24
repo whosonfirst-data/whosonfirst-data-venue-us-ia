@@ -1,0 +1,75 @@
+{
+  "id": 856899367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676111,42.041215,-91.676111,42.041215",
+    "geom:latitude":42.041215,
+    "geom:longitude":-91.676111,
+    "iso:country":"US",
+    "sg:address":"99 N Center Point Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9441",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ezoCfnYnMxxDL2yz9brKo_42.041215_-91.676111@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108030,
+    "wof:geomhash":"0b73c5609d01c6d27f9bbdd61c7747d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856899367
+        }
+    ],
+    "wof:id":856899367,
+    "wof:lastmodified":1464108030,
+    "wof:name":"Woofers & Whiskers",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.676111,
+    42.041215,
+    -91.676111,
+    42.041215
+],
+  "geometry": {"coordinates":[-91.67611100000001,42.041215],"type":"Point"}
+}

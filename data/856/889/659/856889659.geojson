@@ -1,0 +1,73 @@
+{
+  "id": 856889659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.617053,41.232488,-95.617053,41.232488",
+    "geom:latitude":41.232488,
+    "geom:longitude":-95.617053,
+    "iso:country":"US",
+    "sg:address":"16 W Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3715",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2An9jFgsJb4bkacRMbZUVf_41.232488_-95.617053@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107671,
+    "wof:geomhash":"a70fb41fa75c67678e86b22f9023fe4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856889659
+        }
+    ],
+    "wof:id":856889659,
+    "wof:lastmodified":1464107671,
+    "wof:name":"Lustgraaf Garage",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.617053,
+    41.232488,
+    -95.617053,
+    41.232488
+],
+  "geometry": {"coordinates":[-95.617053,41.232488],"type":"Point"}
+}

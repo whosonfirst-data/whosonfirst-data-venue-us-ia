@@ -1,0 +1,73 @@
+{
+  "id": 856972045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653168,42.020125,-91.653168,42.020125",
+    "geom:latitude":42.020125,
+    "geom:longitude":-91.653168,
+    "iso:country":"US",
+    "sg:address":"1100 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 9300",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rheH3mPE1sUR7OBsCqhA0_42.020125_-91.653168@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111061,
+    "wof:geomhash":"3e06e3daeaf0b04c1e7c32a417eaa0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856972045
+        }
+    ],
+    "wof:id":856972045,
+    "wof:lastmodified":1464111061,
+    "wof:name":"Regency Commercial Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.653168,
+    42.020125,
+    -91.653168,
+    42.020125
+],
+  "geometry": {"coordinates":[-91.65316799999999,42.020125],"type":"Point"}
+}

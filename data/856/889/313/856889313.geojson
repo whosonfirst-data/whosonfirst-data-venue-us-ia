@@ -1,0 +1,77 @@
+{
+  "id": 856889313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.449043,42.499491,-96.449043,42.499491",
+    "geom:latitude":42.499491,
+    "geom:longitude":-96.449043,
+    "iso:country":"US",
+    "sg:address":"3200 W 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 4578",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xxFXIPI6U15WwUdq6BZsp_42.499491_-96.449043@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107659,
+    "wof:geomhash":"99a0351a258459352bff099579c6445c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856889313
+        }
+    ],
+    "wof:id":856889313,
+    "wof:lastmodified":1464107659,
+    "wof:name":"Jackson Recovery Ctr",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -96.449043,
+    42.499491,
+    -96.449043,
+    42.499491
+],
+  "geometry": {"coordinates":[-96.449043,42.499491],"type":"Point"}
+}

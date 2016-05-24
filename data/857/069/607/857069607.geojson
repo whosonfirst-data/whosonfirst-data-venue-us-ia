@@ -1,0 +1,71 @@
+{
+  "id": 857069607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.642502,41.986301,-91.642502,41.986301",
+    "geom:latitude":41.986301,
+    "geom:longitude":-91.642502,
+    "iso:country":"US",
+    "sg:address":"355 19th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 3085",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G1zUk0PLZ7L0S5UwzNdgr_41.986301_-91.642502@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115309,
+    "wof:geomhash":"cf65a895f6a55450285fdc9bc9daf1cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069607
+        }
+    ],
+    "wof:id":857069607,
+    "wof:lastmodified":1464115309,
+    "wof:name":"Precious Gems Childcare & Learning Center",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -91.642502,
+    41.986301,
+    -91.642502,
+    41.986301
+],
+  "geometry": {"coordinates":[-91.64250199999999,41.986301],"type":"Point"}
+}

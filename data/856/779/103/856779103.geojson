@@ -1,0 +1,73 @@
+{
+  "id": 856779103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.603587,41.621982,-93.603587,41.621982",
+    "geom:latitude":41.621982,
+    "geom:longitude":-93.603587,
+    "iso:country":"US",
+    "sg:address":"2930 E 13th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 266 8074",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TzuxFFgOUgzY6WvzbbsLI_41.621982_-93.603587@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102412,
+    "wof:geomhash":"60a40bbd13b3176f029e3aff435305ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856779103
+        }
+    ],
+    "wof:id":856779103,
+    "wof:lastmodified":1464102412,
+    "wof:name":"Grandview Lutheran Church",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.603587,
+    41.621982,
+    -93.603587,
+    41.621982
+],
+  "geometry": {"coordinates":[-93.603587,41.621982],"type":"Point"}
+}

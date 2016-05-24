@@ -1,0 +1,68 @@
+{
+  "id": 856893349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.395965,42.511972,-96.395965,42.511972",
+    "geom:latitude":42.511972,
+    "geom:longitude":-96.395965,
+    "iso:country":"US",
+    "sg:address":"1906 Court St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 2668",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yj7a4ElEMUAUS2Jt0fOxg_42.511972_-96.395965@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107804,
+    "wof:geomhash":"576f29d897f69d2b2033a812a89e34c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856893349
+        }
+    ],
+    "wof:id":856893349,
+    "wof:lastmodified":1464107804,
+    "wof:name":"L & K Laundromat",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.395965,
+    42.511972,
+    -96.395965,
+    42.511972
+],
+  "geometry": {"coordinates":[-96.395965,42.511972],"type":"Point"}
+}

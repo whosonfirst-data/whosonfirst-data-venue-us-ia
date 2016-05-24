@@ -1,0 +1,66 @@
+{
+  "id": 856866513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.016192,41.615268,-94.016192,41.615268",
+    "geom:latitude":41.615268,
+    "geom:longitude":-94.016192,
+    "iso:country":"US",
+    "sg:address":"309 S 7th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4411",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wP1M8vHqWa19bABkJpFQq_41.615268_-94.016192@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106293,
+    "wof:geomhash":"a93fd2448b29cf86da33069cd792f900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856866513
+        }
+    ],
+    "wof:id":856866513,
+    "wof:lastmodified":1464106293,
+    "wof:name":"Adel Dance Studio",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.016192,
+    41.615268,
+    -94.016192,
+    41.615268
+],
+  "geometry": {"coordinates":[-94.016192,41.615268],"type":"Point"}
+}

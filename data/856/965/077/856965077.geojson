@@ -1,0 +1,73 @@
+{
+  "id": 856965077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.886291,41.253673,-95.886291,41.253673",
+    "geom:latitude":41.253673,
+    "geom:longitude":-95.886291,
+    "iso:country":"US",
+    "sg:address":"2626 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7467",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55MH8y9F1M2OajP5gEuiqp_41.253673_-95.886291@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110749,
+    "wof:geomhash":"b524d19ed1add1a4a0f91a2ffaa516e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856965077
+        }
+    ],
+    "wof:id":856965077,
+    "wof:lastmodified":1464110749,
+    "wof:name":"American Pumping Svc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.886291,
+    41.253673,
+    -95.886291,
+    41.253673
+],
+  "geometry": {"coordinates":[-95.886291,41.253673],"type":"Point"}
+}

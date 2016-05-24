@@ -1,0 +1,67 @@
+{
+  "id": 856849631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.880671,41.56035,-93.880671,41.56035",
+    "geom:latitude":41.56035,
+    "geom:longitude":-93.880671,
+    "iso:country":"US",
+    "sg:address":"3309 Ute Ave",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 8237",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:website":"www.rubesmeat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eNs8f21AJsqwxfxiUpnYL_41.560350_-93.880671@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105501,
+    "wof:geomhash":"5f3a3e2f18399ec7a5748006810834ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856849631
+        }
+    ],
+    "wof:id":856849631,
+    "wof:lastmodified":1464105501,
+    "wof:name":"Rube's Steakhouse & Lounge",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.880671,
+    41.56035,
+    -93.880671,
+    41.56035
+],
+  "geometry": {"coordinates":[-93.88067100000001,41.56035],"type":"Point"}
+}

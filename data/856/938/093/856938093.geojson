@@ -1,0 +1,75 @@
+{
+  "id": 856938093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.411035,42.486703,-92.411035,42.486703",
+    "geom:latitude":42.486703,
+    "geom:longitude":-92.411035,
+    "iso:country":"US",
+    "sg:address":"5810 Prairie St",
+    "sg:city":"Cedar Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 277 5579",
+    "sg:postcode":"50613",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p84pWPsMgJ7CxnabjlD7z_42.486703_-92.411035@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109561,
+    "wof:geomhash":"aa0c8dc49d6babfacae638493b2bf41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856938093
+        }
+    ],
+    "wof:id":856938093,
+    "wof:lastmodified":1464109561,
+    "wof:name":"Weber Electric Inc",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.411035,
+    42.486703,
+    -92.411035,
+    42.486703
+],
+  "geometry": {"coordinates":[-92.411035,42.486703],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856887473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.950547,41.724661,-93.950547,41.724661",
+    "geom:latitude":41.724661,
+    "geom:longitude":-93.950547,
+    "iso:country":"US",
+    "sg:address":"2189 R Ave",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 4108",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sVx06trWWg5shfxtgRR3d_41.724661_-93.950547@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107582,
+    "wof:geomhash":"f78fc4fc54abc671a981ad4ad957ae3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856887473
+        }
+    ],
+    "wof:id":856887473,
+    "wof:lastmodified":1464107582,
+    "wof:name":"Dallas Ctr Car Wash",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.950547,
+    41.724661,
+    -93.950547,
+    41.724661
+],
+  "geometry": {"coordinates":[-93.950547,41.724661],"type":"Point"}
+}

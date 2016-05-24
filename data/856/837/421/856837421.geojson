@@ -1,0 +1,73 @@
+{
+  "id": 856837421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417157,42.496224,-96.417157,42.496224",
+    "geom:latitude":42.496224,
+    "geom:longitude":-96.417157,
+    "iso:country":"US",
+    "sg:address":"420 W 2nd St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 4299",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w1BnXVYiJIlXeLjxitzEF_42.496224_-96.417157@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104882,
+    "wof:geomhash":"58bbc5b7a771066b96d2ed544140f756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856837421
+        }
+    ],
+    "wof:id":856837421,
+    "wof:lastmodified":1464104882,
+    "wof:name":"A1 Preferred F D C C",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.417157,
+    42.496224,
+    -96.417157,
+    42.496224
+],
+  "geometry": {"coordinates":[-96.417157,42.496224],"type":"Point"}
+}

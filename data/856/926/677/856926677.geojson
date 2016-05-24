@@ -1,0 +1,73 @@
+{
+  "id": 856926677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.095908,42.231432,-96.095908,42.231432",
+    "geom:latitude":42.231432,
+    "geom:longitude":-96.095908,
+    "iso:country":"US",
+    "sg:address":"401 4th Ave",
+    "sg:city":"Hornick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 874 3375",
+    "sg:postcode":"51026",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lqyWsHGvL5DD2rcflwZZO_42.231432_-96.095908@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109114,
+    "wof:geomhash":"8f49453d43a98801c1695cad936417a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856926677
+        }
+    ],
+    "wof:id":856926677,
+    "wof:lastmodified":1464109114,
+    "wof:name":"Teel Heating & Air Cond",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.095908,
+    42.231432,
+    -96.095908,
+    42.231432
+],
+  "geometry": {"coordinates":[-96.09590799999999,42.231432],"type":"Point"}
+}

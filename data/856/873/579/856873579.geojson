@@ -1,0 +1,73 @@
+{
+  "id": 856873579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.708579,41.958907,-91.708579,41.958907",
+    "geom:latitude":41.958907,
+    "geom:longitude":-91.708579,
+    "iso:country":"US",
+    "sg:address":"2624 Willow St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7534",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28r8qfzAqzkAfeliOCI7WP_41.958907_-91.708579@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106842,
+    "wof:geomhash":"6d9f8dc46660a885e5e535d484fcecb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856873579
+        }
+    ],
+    "wof:id":856873579,
+    "wof:lastmodified":1464106842,
+    "wof:name":"Classic Landscapes",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -91.708579,
+    41.958907,
+    -91.708579,
+    41.958907
+],
+  "geometry": {"coordinates":[-91.708579,41.958907],"type":"Point"}
+}

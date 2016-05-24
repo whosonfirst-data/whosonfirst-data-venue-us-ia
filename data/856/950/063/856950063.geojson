@@ -1,0 +1,73 @@
+{
+  "id": 856950063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.782266,41.927544,-91.782266,41.927544",
+    "geom:latitude":41.927544,
+    "geom:longitude":-91.782266,
+    "iso:country":"US",
+    "sg:address":"102 W Cemetery Rd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2415",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eua7DNETmZhaGaahU8GLT_41.927544_-91.782266@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110082,
+    "wof:geomhash":"ab0f9cd2ab8d57c656e1c07e22c5b162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856950063
+        }
+    ],
+    "wof:id":856950063,
+    "wof:lastmodified":1464110082,
+    "wof:name":"Intermectechnologies EMC",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric"
+    ]
+},
+  "bbox": [
+    -91.782266,
+    41.927544,
+    -91.782266,
+    41.927544
+],
+  "geometry": {"coordinates":[-91.78226600000001,41.927544],"type":"Point"}
+}

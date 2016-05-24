@@ -1,0 +1,73 @@
+{
+  "id": 856858807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.728429,42.040516,-91.728429,42.040516",
+    "geom:latitude":42.040516,
+    "geom:longitude":-91.728429,
+    "iso:country":"US",
+    "sg:address":"4680 Leprechaun Ln",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1866",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Wf3oPWRZkcy8wR7rTLFM_42.040516_-91.728429@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105929,
+    "wof:geomhash":"1d1891282690aaf354b65d962a61d44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856858807
+        }
+    ],
+    "wof:id":856858807,
+    "wof:lastmodified":1464105929,
+    "wof:name":"Doyle Construction",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.728429,
+    42.040516,
+    -91.728429,
+    42.040516
+],
+  "geometry": {"coordinates":[-91.72842900000001,42.040516],"type":"Point"}
+}

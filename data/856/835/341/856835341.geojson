@@ -1,0 +1,71 @@
+{
+  "id": 856835341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881977,41.258912,-95.881977,41.258912",
+    "geom:latitude":41.258912,
+    "geom:longitude":-95.881977,
+    "iso:country":"US",
+    "sg:address":"208 S 25th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 8900",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cdLrpIkkbgstAo0J1hIfw_41.258912_-95.881977@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104771,
+    "wof:geomhash":"46f3a7455447c02a31576944a2b97daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856835341
+        }
+    ],
+    "wof:id":856835341,
+    "wof:lastmodified":1464104771,
+    "wof:name":"Transitions",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.881977,
+    41.258912,
+    -95.881977,
+    41.258912
+],
+  "geometry": {"coordinates":[-95.88197700000001,41.258912],"type":"Point"}
+}

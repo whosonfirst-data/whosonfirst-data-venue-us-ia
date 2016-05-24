@@ -1,0 +1,73 @@
+{
+  "id": 856809597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.674284,42.02157,-91.674284,42.02157",
+    "geom:latitude":42.02157,
+    "geom:longitude":-91.674284,
+    "iso:country":"US",
+    "sg:address":"2121 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6752",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uQnwlxq2B0nP7A60TLUNC_42.021570_-91.674284@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103614,
+    "wof:geomhash":"149249b374b0d655add9e5db23c1fd76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856809597
+        }
+    ],
+    "wof:id":856809597,
+    "wof:lastmodified":1464103614,
+    "wof:name":"Cedar Valley Equipment Co",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -91.674284,
+    42.02157,
+    -91.674284,
+    42.02157
+],
+  "geometry": {"coordinates":[-91.674284,42.02157],"type":"Point"}
+}

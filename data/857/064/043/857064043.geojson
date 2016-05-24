@@ -1,0 +1,71 @@
+{
+  "id": 857064043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.825383,41.254442,-95.825383,41.254442",
+    "geom:latitude":41.254442,
+    "geom:longitude":-95.825383,
+    "iso:country":"US",
+    "sg:address":"901 Franklin Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 4780",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62hznqReT5OlMaOCELURmo_41.254442_-95.825383@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115064,
+    "wof:geomhash":"2336c7995504c95b89568cd2d9da0d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064043
+        }
+    ],
+    "wof:id":857064043,
+    "wof:lastmodified":1464115064,
+    "wof:name":"Deerfield Apartments",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.825383,
+    41.254442,
+    -95.825383,
+    41.254442
+],
+  "geometry": {"coordinates":[-95.825383,41.254442],"type":"Point"}
+}

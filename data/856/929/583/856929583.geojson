@@ -1,0 +1,75 @@
+{
+  "id": 856929583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.608421,41.603815,-93.608421,41.603815",
+    "geom:latitude":41.603815,
+    "geom:longitude":-93.608421,
+    "iso:country":"US",
+    "sg:address":"701 Riverview St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 266 1106",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qg2Zz9OPFpHnZrqlqtnm7_41.603815_-93.608421@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109231,
+    "wof:geomhash":"d874e856d76f9dd0356d4d4394bbef40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896409,
+            "region_id":85688713,
+            "venue_id":856929583
+        }
+    ],
+    "wof:id":856929583,
+    "wof:lastmodified":1464109231,
+    "wof:name":"Riverview Care Ctr",
+    "wof:parent_id":85896409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.608421,
+    41.603815,
+    -93.608421,
+    41.603815
+],
+  "geometry": {"coordinates":[-93.60842100000001,41.603815],"type":"Point"}
+}

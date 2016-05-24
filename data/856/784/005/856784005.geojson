@@ -1,0 +1,72 @@
+{
+  "id": 856784005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.104916,41.840636,-94.104916,41.840636",
+    "geom:latitude":41.840636,
+    "geom:longitude":-94.104916,
+    "iso:country":"US",
+    "sg:address":"1224 Lucinda St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2215",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.perryfcc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zba0O0GJTpnWKTUEHdJen_41.840636_-94.104916@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102525,
+    "wof:geomhash":"95c9880a7f08edabb324e4135578eb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856784005
+        }
+    ],
+    "wof:id":856784005,
+    "wof:lastmodified":1464102525,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.104916,
+    41.840636,
+    -94.104916,
+    41.840636
+],
+  "geometry": {"coordinates":[-94.104916,41.840636],"type":"Point"}
+}

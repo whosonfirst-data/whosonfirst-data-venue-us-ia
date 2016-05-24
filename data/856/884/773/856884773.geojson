@@ -1,0 +1,75 @@
+{
+  "id": 856884773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661165,41.984261,-91.661165,41.984261",
+    "geom:latitude":41.984261,
+    "geom:longitude":-91.661165,
+    "iso:country":"US",
+    "sg:address":"855 A Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 5684",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I74F232k7v9kGxCdd5yOs_41.984261_-91.661165@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107456,
+    "wof:geomhash":"8a81b72cb635014bf49f60aef69abb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856884773
+        }
+    ],
+    "wof:id":856884773,
+    "wof:lastmodified":1464107456,
+    "wof:name":"Family Development Ctr",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.661165,
+    41.984261,
+    -91.661165,
+    41.984261
+],
+  "geometry": {"coordinates":[-91.661165,41.984261],"type":"Point"}
+}

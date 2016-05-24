@@ -1,0 +1,77 @@
+{
+  "id": 856966605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.536308,41.654537,-91.536308,41.654537",
+    "geom:latitude":41.654537,
+    "geom:longitude":-91.536308,
+    "iso:country":"US",
+    "sg:address":"511 S Capitol St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 356 6028",
+    "sg:postcode":"52244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "safety",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VcWSFoD94hvoZol9dQK9J_41.654537_-91.536308@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110812,
+    "wof:geomhash":"01b48c65f77d71c0b1e1a3968395dc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856966605
+        }
+    ],
+    "wof:id":856966605,
+    "wof:lastmodified":1464110812,
+    "wof:name":"Johnson County Emergency Mgmt",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "safety",
+        "order"
+    ]
+},
+  "bbox": [
+    -91.536308,
+    41.654537,
+    -91.536308,
+    41.654537
+],
+  "geometry": {"coordinates":[-91.53630800000001,41.654537],"type":"Point"}
+}

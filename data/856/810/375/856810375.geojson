@@ -1,0 +1,73 @@
+{
+  "id": 856810375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.845926,41.262274,-95.845926,41.262274",
+    "geom:latitude":41.262274,
+    "geom:longitude":-95.845926,
+    "iso:country":"US",
+    "sg:address":"146 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3977",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tgv3OGhM8vfIhg7kpIhMS_41.262274_-95.845926@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103651,
+    "wof:geomhash":"623b3b81789528da3c2316e0426d9033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856810375
+        }
+    ],
+    "wof:id":856810375,
+    "wof:lastmodified":1464103651,
+    "wof:name":"Oley Heating & Cooling",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.845926,
+    41.262274,
+    -95.845926,
+    41.262274
+],
+  "geometry": {"coordinates":[-95.84592600000001,41.262274],"type":"Point"}
+}

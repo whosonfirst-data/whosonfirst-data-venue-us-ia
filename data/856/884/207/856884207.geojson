@@ -1,0 +1,74 @@
+{
+  "id": 856884207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661469,42.021482,-91.661469,42.021482",
+    "geom:latitude":42.021482,
+    "geom:longitude":-91.661469,
+    "iso:country":"US",
+    "sg:address":"1642 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 743 3442",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "publisher",
+        "software"
+    ],
+    "sg:website":"www.findex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DNuue1gF6MIo9PoA29SC6_42.021482_-91.661469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107435,
+    "wof:geomhash":"8061bf8ad4007d57543cb545ab2a647a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856884207
+        }
+    ],
+    "wof:id":856884207,
+    "wof:lastmodified":1464107435,
+    "wof:name":"FINDEX.COM",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "software"
+    ]
+},
+  "bbox": [
+    -91.661469,
+    42.021482,
+    -91.661469,
+    42.021482
+],
+  "geometry": {"coordinates":[-91.661469,42.021482],"type":"Point"}
+}

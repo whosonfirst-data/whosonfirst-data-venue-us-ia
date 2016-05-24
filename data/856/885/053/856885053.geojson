@@ -1,0 +1,73 @@
+{
+  "id": 856885053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.144218,41.791307,-94.144218,41.791307",
+    "geom:latitude":41.791307,
+    "geom:longitude":-94.144218,
+    "iso:country":"US",
+    "sg:address":"1704 170th Pl",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5507",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hqNkp8Vfy71RRqsYzKSD3_41.791307_-94.144218@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107471,
+    "wof:geomhash":"44e91fc509d4513030ab07f60b53147a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856885053
+        }
+    ],
+    "wof:id":856885053,
+    "wof:lastmodified":1464107471,
+    "wof:name":"DJC Stores Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.144218,
+    41.791307,
+    -94.144218,
+    41.791307
+],
+  "geometry": {"coordinates":[-94.144218,41.791307],"type":"Point"}
+}

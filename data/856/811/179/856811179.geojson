@@ -1,0 +1,74 @@
+{
+  "id": 856811179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.624701,41.62219,-93.624701,41.62219",
+    "geom:latitude":41.62219,
+    "geom:longitude":-93.624701,
+    "iso:country":"US",
+    "sg:address":"3007 6th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 6800",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.hansenprinting.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05qfVm0jaCfPT17LmtsDiG_41.622190_-93.624701@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103679,
+    "wof:geomhash":"e354738849cd7ec820ed183593e405ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856811179
+        }
+    ],
+    "wof:id":856811179,
+    "wof:lastmodified":1464103679,
+    "wof:name":"Hansen Printing Inc",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -93.624701,
+    41.62219,
+    -93.624701,
+    41.62219
+],
+  "geometry": {"coordinates":[-93.624701,41.62219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856774111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652366,42.012823,-91.652366,42.012823",
+    "geom:latitude":42.012823,
+    "geom:longitude":-91.652366,
+    "iso:country":"US",
+    "sg:address":"3336 Prairie Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 7571",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pEBC5DFLOnntDLnvlig8E_42.012823_-91.652366@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102304,
+    "wof:geomhash":"bbee18510d61382589e6581d4a789a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856774111
+        }
+    ],
+    "wof:id":856774111,
+    "wof:lastmodified":1464102304,
+    "wof:name":"Prairie Drive Full Gospel Chr",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.652366,
+    42.012823,
+    -91.652366,
+    42.012823
+],
+  "geometry": {"coordinates":[-91.652366,42.012823],"type":"Point"}
+}

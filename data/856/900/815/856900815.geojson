@@ -1,0 +1,73 @@
+{
+  "id": 856900815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.620556,41.507613,-90.620556,41.507613",
+    "geom:latitude":41.507613,
+    "geom:longitude":-90.620556,
+    "iso:country":"US",
+    "sg:address":"1011 Floral Ln",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 333 4550",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DsoxjFXklcxXTJPj2nkj3_41.507613_-90.620556@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108083,
+    "wof:geomhash":"ae0934dfa8cb49d45141da32c5ab4db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856900815
+        }
+    ],
+    "wof:id":856900815,
+    "wof:lastmodified":1464108083,
+    "wof:name":"U S Leasing Co",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.620556,
+    41.507613,
+    -90.620556,
+    41.507613
+],
+  "geometry": {"coordinates":[-90.62055599999999,41.507613],"type":"Point"}
+}

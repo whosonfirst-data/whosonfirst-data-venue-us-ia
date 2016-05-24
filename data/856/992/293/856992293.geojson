@@ -1,0 +1,73 @@
+{
+  "id": 856992293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625832,41.600523,-93.625832,41.600523",
+    "geom:latitude":41.600523,
+    "geom:longitude":-93.625832,
+    "iso:country":"US",
+    "sg:address":"1188 6th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 3055",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tRt0RsGGpcke49sqBk30Y_41.600523_-93.625832@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112063,
+    "wof:geomhash":"3d1a17c5607909abcc0b3106a789a013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896427,
+            "region_id":85688713,
+            "venue_id":856992293
+        }
+    ],
+    "wof:id":856992293,
+    "wof:lastmodified":1464112063,
+    "wof:name":"Mercy Home Respiratory Care",
+    "wof:parent_id":85896427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -93.625832,
+    41.600523,
+    -93.625832,
+    41.600523
+],
+  "geometry": {"coordinates":[-93.625832,41.600523],"type":"Point"}
+}

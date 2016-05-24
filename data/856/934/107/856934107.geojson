@@ -1,0 +1,69 @@
+{
+  "id": 856934107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.506301,41.664205,-91.506301,41.664205",
+    "geom:latitude":41.664205,
+    "geom:longitude":-91.506301,
+    "iso:country":"US",
+    "sg:address":"2120 Rochester Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 5739",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:website":"www.regina.pvt.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ru5PD8QyzwlNDMabb93Rw_41.664205_-91.506301@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109395,
+    "wof:geomhash":"95030d6a85165023413120d92c61fc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896447,
+            "region_id":85688713,
+            "venue_id":856934107
+        }
+    ],
+    "wof:id":856934107,
+    "wof:lastmodified":1464109395,
+    "wof:name":"Regina Elementary School",
+    "wof:parent_id":85896447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.506301,
+    41.664205,
+    -91.506301,
+    41.664205
+],
+  "geometry": {"coordinates":[-91.50630099999999,41.664205],"type":"Point"}
+}

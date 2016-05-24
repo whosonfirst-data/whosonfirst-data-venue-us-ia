@@ -1,0 +1,73 @@
+{
+  "id": 856943795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.709403,41.993481,-91.709403,41.993481",
+    "geom:latitude":41.993481,
+    "geom:longitude":-91.709403,
+    "iso:country":"US",
+    "sg:address":"2704 Q Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9713",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSFiIZHqaStlq7aDN5lOF_41.993481_-91.709403@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109842,
+    "wof:geomhash":"fb070d8bfcf8973be6d29ced84e3c59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856943795
+        }
+    ],
+    "wof:id":856943795,
+    "wof:lastmodified":1464109842,
+    "wof:name":"Whittle Concessions",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.709403,
+    41.993481,
+    -91.709403,
+    41.993481
+],
+  "geometry": {"coordinates":[-91.70940299999999,41.993481],"type":"Point"}
+}

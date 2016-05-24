@@ -1,0 +1,71 @@
+{
+  "id": 856992859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648754,41.936812,-91.648754,41.936812",
+    "geom:latitude":41.936812,
+    "geom:longitude":-91.648754,
+    "iso:country":"US",
+    "sg:address":"4200 Thomas Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 8881",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_215KKaz1oCNh3uagQMgrxI_41.936812_-91.648754@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112100,
+    "wof:geomhash":"e21e2be04be74353ac4bd7910b3f1710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856992859
+        }
+    ],
+    "wof:id":856992859,
+    "wof:lastmodified":1464112100,
+    "wof:name":"R H Hummer Jr Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.648754,
+    41.936812,
+    -91.648754,
+    41.936812
+],
+  "geometry": {"coordinates":[-91.648754,41.936812],"type":"Point"}
+}

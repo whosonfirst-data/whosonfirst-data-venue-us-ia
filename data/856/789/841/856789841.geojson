@@ -1,0 +1,71 @@
+{
+  "id": 856789841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.158876,41.59698,-94.158876,41.59698",
+    "geom:latitude":41.59698,
+    "geom:longitude":-94.158876,
+    "iso:country":"US",
+    "sg:address":"1654 US Hwy 6",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 833 2322",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M3Mt97fAbK2k9j04PNDfQ_41.596980_-94.158876@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102773,
+    "wof:geomhash":"fe9dd69e294ddabe0c50b7bcac43b4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856789841
+        }
+    ],
+    "wof:id":856789841,
+    "wof:lastmodified":1464102773,
+    "wof:name":"Hy Vac Lab Eggs Co",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -94.158876,
+    41.59698,
+    -94.158876,
+    41.59698
+],
+  "geometry": {"coordinates":[-94.15887600000001,41.59698],"type":"Point"}
+}

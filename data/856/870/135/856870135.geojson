@@ -1,0 +1,73 @@
+{
+  "id": 856870135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505116,41.650172,-91.505116,41.650172",
+    "geom:latitude":41.650172,
+    "geom:longitude":-91.505116,
+    "iso:country":"US",
+    "sg:address":"2026 Muscatine Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 3538",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73XtUEQVQxTvQhFUjDKE2I_41.650172_-91.505116@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106523,
+    "wof:geomhash":"cff42bc191627cad6c91cba5cce3f183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856870135
+        }
+    ],
+    "wof:id":856870135,
+    "wof:lastmodified":1464106523,
+    "wof:name":"Sebastian's Tree Svc",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -91.505116,
+    41.650172,
+    -91.505116,
+    41.650172
+],
+  "geometry": {"coordinates":[-91.505116,41.650172],"type":"Point"}
+}

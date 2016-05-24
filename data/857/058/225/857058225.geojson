@@ -1,0 +1,76 @@
+{
+  "id": 857058225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.441955,42.485399,-92.441955,42.485399",
+    "geom:latitude":42.485399,
+    "geom:longitude":-92.441955,
+    "iso:country":"US",
+    "sg:address":"525 Brandilynn Blvd",
+    "sg:city":"Cedar Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-falls/120790-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 277 7496",
+    "sg:postcode":"50613",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IBR98uCk7LT23djtT6K1A_42.485399_-92.441955@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114832,
+    "wof:geomhash":"8fcf4e2a7dd3953398e24be050ee5b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":857058225
+        }
+    ],
+    "wof:id":857058225,
+    "wof:lastmodified":1464114832,
+    "wof:name":"Subway",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.441955,
+    42.485399,
+    -92.441955,
+    42.485399
+],
+  "geometry": {"coordinates":[-92.44195499999999,42.485399],"type":"Point"}
+}

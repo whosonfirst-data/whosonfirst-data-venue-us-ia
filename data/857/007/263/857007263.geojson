@@ -1,0 +1,73 @@
+{
+  "id": 857007263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.675583,41.482986,-93.675583,41.482986",
+    "geom:latitude":41.482986,
+    "geom:longitude":-93.675583,
+    "iso:country":"US",
+    "sg:address":"1801 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0901",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z5PEKjbLBH9nxihZeFElP_41.482986_-93.675583@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112654,
+    "wof:geomhash":"ded1ec0d346b8e792f72d9544dfdd919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857007263
+        }
+    ],
+    "wof:id":857007263,
+    "wof:lastmodified":1464112654,
+    "wof:name":"Serendipity Preschool",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -93.675583,
+    41.482986,
+    -93.675583,
+    41.482986
+],
+  "geometry": {"coordinates":[-93.675583,41.482986],"type":"Point"}
+}

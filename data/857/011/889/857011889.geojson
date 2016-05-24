@@ -1,0 +1,75 @@
+{
+  "id": 857011889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.665335,41.999583,-91.665335,41.999583",
+    "geom:latitude":41.999583,
+    "geom:longitude":-91.665335,
+    "iso:country":"US",
+    "sg:address":"1113 J Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 3394",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1avg7dTTtvpRRhbNuyXVEY_41.999583_-91.665335@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112855,
+    "wof:geomhash":"d6d8445c84e58db8b81c35584dcca3f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857011889
+        }
+    ],
+    "wof:id":857011889,
+    "wof:lastmodified":1464112855,
+    "wof:name":"Selective Performance Auto",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.665335,
+    41.999583,
+    -91.665335,
+    41.999583
+],
+  "geometry": {"coordinates":[-91.665335,41.999583],"type":"Point"}
+}

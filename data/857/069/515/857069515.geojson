@@ -1,0 +1,82 @@
+{
+  "id": 857069515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629242,41.976767,-91.629242,41.976767",
+    "geom:latitude":41.976767,
+    "geom:longitude":-91.629242,
+    "iso:country":"US",
+    "sg:address":"2405 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 7556",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yagc890iaipTwg1kEBOgt_41.976767_-91.629242@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115306,
+    "wof:geomhash":"0c1ddd738c2438c3317973d56c151fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069515
+        }
+    ],
+    "wof:id":857069515,
+    "wof:lastmodified":1464115306,
+    "wof:name":"Hy-Vee Drugstore",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.629242,
+    41.976767,
+    -91.629242,
+    41.976767
+],
+  "geometry": {"coordinates":[-91.629242,41.976767],"type":"Point"}
+}

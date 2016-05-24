@@ -1,0 +1,73 @@
+{
+  "id": 857002937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.691382,41.555674,-93.691382,41.555674",
+    "geom:latitude":41.555674,
+    "geom:longitude":-93.691382,
+    "iso:country":"US",
+    "sg:address":"5171 Park Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 283 1768",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "soccer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tEH07Vr3XG5fWJCnuRVkP_41.555674_-93.691382@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112484,
+    "wof:geomhash":"eb840c32798c41bca59e052b5e9911c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877107,
+            "region_id":85688713,
+            "venue_id":857002937
+        }
+    ],
+    "wof:id":857002937,
+    "wof:lastmodified":1464112484,
+    "wof:name":"Soccer South Soccer Club",
+    "wof:parent_id":85877107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer"
+    ]
+},
+  "bbox": [
+    -93.691382,
+    41.555674,
+    -93.691382,
+    41.555674
+],
+  "geometry": {"coordinates":[-93.691382,41.555674],"type":"Point"}
+}

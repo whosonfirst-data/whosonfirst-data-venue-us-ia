@@ -1,0 +1,75 @@
+{
+  "id": 857049811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8909,41.259499,-95.8909,41.259499",
+    "geom:latitude":41.259499,
+    "geom:longitude":-95.8909,
+    "iso:country":"US",
+    "sg:address":"200 S 29th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5801",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A0aw6lGk9R4G9imRMlQmo_41.258891_-95.890763@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114480,
+    "wof:geomhash":"734ba8a25bce2fc75466b785aad8c960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857049811
+        }
+    ],
+    "wof:id":857049811,
+    "wof:lastmodified":1464114480,
+    "wof:name":"Higginbotham Bradley D DDS",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral",
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.8909,
+    41.259499,
+    -95.8909,
+    41.259499
+],
+  "geometry": {"coordinates":[-95.8909,41.259499],"type":"Point"}
+}

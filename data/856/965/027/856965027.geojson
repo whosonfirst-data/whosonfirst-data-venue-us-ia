@@ -1,0 +1,79 @@
+{
+  "id": 856965027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.622197,41.597325,-93.622197,41.597325",
+    "geom:latitude":41.597325,
+    "geom:longitude":-93.622197,
+    "iso:country":"US",
+    "sg:address":"330 Laurel St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 643 8611",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "clinic",
+        "surgeon",
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fVTtDH2H7CM0zu3ZSROeS_41.597325_-93.622197@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110748,
+    "wof:geomhash":"0e621333040899d2beb2f304d45c9754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896427,
+            "region_id":85688713,
+            "venue_id":856965027
+        }
+    ],
+    "wof:id":856965027,
+    "wof:lastmodified":1464110748,
+    "wof:name":"Mercy Central Pediatric Clinic",
+    "wof:parent_id":85896427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic",
+        "surgeon",
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -93.622197,
+    41.597325,
+    -93.622197,
+    41.597325
+],
+  "geometry": {"coordinates":[-93.622197,41.597325],"type":"Point"}
+}

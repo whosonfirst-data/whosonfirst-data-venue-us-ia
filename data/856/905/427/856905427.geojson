@@ -1,0 +1,69 @@
+{
+  "id": 856905427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558469,41.370485,-93.558469,41.370485",
+    "geom:latitude":41.370485,
+    "geom:longitude":-93.558469,
+    "iso:country":"US",
+    "sg:address":"1115 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 3077",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OgU9BFx5rckdIpPxJ5yqu_41.370485_-93.558469@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108247,
+    "wof:geomhash":"25dc7bc1ab799e30fa0d89983c64b71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856905427
+        }
+    ],
+    "wof:id":856905427,
+    "wof:lastmodified":1464108247,
+    "wof:name":"Iowa Accounting & Tax Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -93.558469,
+    41.370485,
+    -93.558469,
+    41.370485
+],
+  "geometry": {"coordinates":[-93.558469,41.370485],"type":"Point"}
+}

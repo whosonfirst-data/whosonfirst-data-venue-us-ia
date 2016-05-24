@@ -1,0 +1,73 @@
+{
+  "id": 856812445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.338825,41.475534,-95.338825,41.475534",
+    "geom:latitude":41.475534,
+    "geom:longitude":-95.338825,
+    "iso:country":"US",
+    "sg:address":"322 W Lyon St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2371",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G4azdg7EpmCjUk7rz6yoo_41.475534_-95.338825@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103730,
+    "wof:geomhash":"39d625893c906a5b2bc32bc4415c71a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856812445
+        }
+    ],
+    "wof:id":856812445,
+    "wof:lastmodified":1464103730,
+    "wof:name":"Madden Akers Auto & Truck Rpr",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.338825,
+    41.475534,
+    -95.338825,
+    41.475534
+],
+  "geometry": {"coordinates":[-95.338825,41.475534],"type":"Point"}
+}

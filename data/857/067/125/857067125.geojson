@@ -1,0 +1,89 @@
+{
+  "id": 857067125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661618,41.978687,-91.661618,41.978687",
+    "geom:latitude":41.978687,
+    "geom:longitude":-91.661618,
+    "iso:country":"US",
+    "sg:address":"4 Avenue & 6 St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 1458",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "day",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D9SYRtJIr8hgJVbMeYI3S_41.978687_-91.661618@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115183,
+    "wof:geomhash":"120dc01706d7ee34f50bf2e4cf37fc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857067125
+        }
+    ],
+    "wof:id":857067125,
+    "wof:lastmodified":1464115183,
+    "wof:name":"Wise Buys Resale Shop",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "day",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.661618,
+    41.978687,
+    -91.661618,
+    41.978687
+],
+  "geometry": {"coordinates":[-91.661618,41.978687],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856994033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534475,41.665488,-91.534475,41.665488",
+    "geom:latitude":41.665488,
+    "geom:longitude":-91.534475,
+    "iso:country":"US",
+    "sg:address":"328 N Clinton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 3135",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sorority"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cwmNYEsuH6Z2k9He7CbTi_41.665488_-91.534475@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112142,
+    "wof:geomhash":"9a00d8a65bb1a41a84febede6773dd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856994033
+        }
+    ],
+    "wof:id":856994033,
+    "wof:lastmodified":1464112142,
+    "wof:name":"Gamma Phi Beta Sorority",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority"
+    ]
+},
+  "bbox": [
+    -91.534475,
+    41.665488,
+    -91.534475,
+    41.665488
+],
+  "geometry": {"coordinates":[-91.534475,41.665488],"type":"Point"}
+}

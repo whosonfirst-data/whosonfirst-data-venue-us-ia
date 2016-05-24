@@ -1,0 +1,76 @@
+{
+  "id": 857069615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660815,41.982305,-91.660815,41.982305",
+    "geom:latitude":41.982305,
+    "geom:longitude":-91.660815,
+    "iso:country":"US",
+    "sg:address":"810 Second Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7503",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"www.crma.org/Content/Grant-Wood/...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r2C1n1HOSusGjOpXgThc1_41.982305_-91.660815@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115309,
+    "wof:geomhash":"1dc7c07de28e62cb665a88548a0050d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857069615
+        }
+    ],
+    "wof:id":857069615,
+    "wof:lastmodified":1464115309,
+    "wof:name":"Grant Wood Studio",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -91.660815,
+    41.982305,
+    -91.660815,
+    41.982305
+],
+  "geometry": {"coordinates":[-91.660815,41.982305],"type":"Point"}
+}

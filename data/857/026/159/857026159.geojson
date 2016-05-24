@@ -1,0 +1,73 @@
+{
+  "id": 857026159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.447556,42.485826,-92.447556,42.485826",
+    "geom:latitude":42.485826,
+    "geom:longitude":-92.447556,
+    "iso:country":"US",
+    "sg:address":"5614 Nordic Dr",
+    "sg:city":"Cedar Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 266 3591",
+    "sg:postcode":"50613",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N54iJuCrnGszHCjBqbBFw_42.485826_-92.447556@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113463,
+    "wof:geomhash":"e697005ae5dfb9de22b8ee6f73c26f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":857026159
+        }
+    ],
+    "wof:id":857026159,
+    "wof:lastmodified":1464113463,
+    "wof:name":"Blue Line Moving & Storage Inc",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -92.447556,
+    42.485826,
+    -92.447556,
+    42.485826
+],
+  "geometry": {"coordinates":[-92.44755600000001,42.485826],"type":"Point"}
+}

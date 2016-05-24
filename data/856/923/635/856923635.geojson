@@ -1,0 +1,71 @@
+{
+  "id": 856923635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.589064,42.076874,-91.589064,42.076874",
+    "geom:latitude":42.076874,
+    "geom:longitude":-91.589064,
+    "iso:country":"US",
+    "sg:address":"5865 Winslow Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 5928",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6juaiXNYBHLwld0oVMd8Ih_42.076874_-91.589064@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108988,
+    "wof:geomhash":"0628b5dd42497f5f9cc15a37f9534ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856923635
+        }
+    ],
+    "wof:id":856923635,
+    "wof:lastmodified":1464108988,
+    "wof:name":"Gregory Helton",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -91.589064,
+    42.076874,
+    -91.589064,
+    42.076874
+],
+  "geometry": {"coordinates":[-91.58906399999999,42.076874],"type":"Point"}
+}

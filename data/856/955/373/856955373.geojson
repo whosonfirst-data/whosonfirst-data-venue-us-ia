@@ -1,0 +1,71 @@
+{
+  "id": 856955373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.644952,41.993479,-91.644952,41.993479",
+    "geom:latitude":41.993479,
+    "geom:longitude":-91.644952,
+    "iso:country":"US",
+    "sg:address":"124 19th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0452",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40FPNbU1MBYmf4Y5BSIner_41.993479_-91.644952@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110340,
+    "wof:geomhash":"d1d92db5bd5c49eb32a88d78c76575e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856955373
+        }
+    ],
+    "wof:id":856955373,
+    "wof:lastmodified":1464110340,
+    "wof:name":"Odd Fellows Main Lodge",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -91.644952,
+    41.993479,
+    -91.644952,
+    41.993479
+],
+  "geometry": {"coordinates":[-91.644952,41.993479],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856946113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397441,41.309221,-95.397441,41.309221",
+    "geom:latitude":41.309221,
+    "geom:longitude":-95.397441,
+    "iso:country":"US",
+    "sg:address":"302 Oakland Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6828",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zjMNU7zpryt7V9THHNxud_41.309221_-95.397441@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109924,
+    "wof:geomhash":"e4012784527fd5a21565c141b925c5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856946113
+        }
+    ],
+    "wof:id":856946113,
+    "wof:lastmodified":1464109924,
+    "wof:name":"First Congregational Church",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.397441,
+    41.309221,
+    -95.397441,
+    41.309221
+],
+  "geometry": {"coordinates":[-95.397441,41.309221],"type":"Point"}
+}

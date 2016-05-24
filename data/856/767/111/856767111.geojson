@@ -1,0 +1,73 @@
+{
+  "id": 856767111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.241423,41.517855,-94.241423,41.517855",
+    "geom:latitude":41.517855,
+    "geom:longitude":-94.241423,
+    "iso:country":"US",
+    "sg:address":"426 State St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4540",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k9Sualt9e7ZxE1A66y8tP_41.517855_-94.241423@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102125,
+    "wof:geomhash":"f4fc17e2b475ea96cee62ca21dbda90f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856767111
+        }
+    ],
+    "wof:id":856767111,
+    "wof:lastmodified":1464102125,
+    "wof:name":"Drew's Chocolates",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -94.241423,
+    41.517855,
+    -94.241423,
+    41.517855
+],
+  "geometry": {"coordinates":[-94.241423,41.517855],"type":"Point"}
+}

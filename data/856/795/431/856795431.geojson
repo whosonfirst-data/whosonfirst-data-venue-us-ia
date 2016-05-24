@@ -1,0 +1,71 @@
+{
+  "id": 856795431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.538684,41.630686,-91.538684,41.630686",
+    "geom:latitude":41.630686,
+    "geom:longitude":-91.538684,
+    "iso:country":"US",
+    "sg:address":"2450 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3141",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yvpgUE7xKKOa5NtRXnhSo_41.630686_-91.538684@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102992,
+    "wof:geomhash":"8e978a19340c64278b15b90040403823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856795431
+        }
+    ],
+    "wof:id":856795431,
+    "wof:lastmodified":1464102992,
+    "wof:name":"John Roffman Construction",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.538684,
+    41.630686,
+    -91.538684,
+    41.630686
+],
+  "geometry": {"coordinates":[-91.538684,41.630686],"type":"Point"}
+}

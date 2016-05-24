@@ -1,0 +1,73 @@
+{
+  "id": 857043161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648804,41.972401,-91.648804,41.972401",
+    "geom:latitude":41.972401,
+    "geom:longitude":-91.648804,
+    "iso:country":"US",
+    "sg:address":"1301 15th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6378",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RLAc88ZKAmGki8KsvUzlO_41.971837_-91.649036@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114206,
+    "wof:geomhash":"1f2e409acf7f75c45cb1bb1b9cf4fbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857043161
+        }
+    ],
+    "wof:id":857043161,
+    "wof:lastmodified":1464114206,
+    "wof:name":"Oak Hill Manor",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.648804,
+    41.972401,
+    -91.648804,
+    41.972401
+],
+  "geometry": {"coordinates":[-91.648804,41.972401],"type":"Point"}
+}

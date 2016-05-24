@@ -1,0 +1,71 @@
+{
+  "id": 856807615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.350712,42.547402,-96.350712,42.547402",
+    "geom:latitude":42.547402,
+    "geom:longitude":-96.350712,
+    "iso:country":"US",
+    "sg:address":"4701 Floyd Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 4250",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SjcAxSNN3YY6c18IDxSF7_42.547402_-96.350712@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103517,
+    "wof:geomhash":"cdfa31feda2265ea543c17ca702cf68a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856807615
+        }
+    ],
+    "wof:id":856807615,
+    "wof:lastmodified":1464103517,
+    "wof:name":"Leroy N Mead",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -96.350712,
+    42.547402,
+    -96.350712,
+    42.547402
+],
+  "geometry": {"coordinates":[-96.350712,42.547402],"type":"Point"}
+}

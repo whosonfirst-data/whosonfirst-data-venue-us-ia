@@ -1,0 +1,71 @@
+{
+  "id": 856822717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.417812,41.922734,-91.417812,41.922734",
+    "geom:latitude":41.922734,
+    "geom:longitude":-91.417812,
+    "iso:country":"US",
+    "sg:address":"125 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 9463",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_531C30HQRcNJty3lQg7kEA_41.922734_-91.417812@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104215,
+    "wof:geomhash":"355dc8b6cfe11817dcd0cc197e4a93e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856822717
+        }
+    ],
+    "wof:id":856822717,
+    "wof:lastmodified":1464104215,
+    "wof:name":"Devine Wines Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [
+    -91.417812,
+    41.922734,
+    -91.417812,
+    41.922734
+],
+  "geometry": {"coordinates":[-91.417812,41.922734],"type":"Point"}
+}

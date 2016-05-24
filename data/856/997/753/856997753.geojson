@@ -1,0 +1,71 @@
+{
+  "id": 856997753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.741152,41.973871,-91.741152,41.973871",
+    "geom:latitude":41.973871,
+    "geom:longitude":-91.741152,
+    "iso:country":"US",
+    "sg:address":"188 Carter St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3503",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QjkAtml1RtqZb4xo4xZa3_41.973871_-91.741152@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112281,
+    "wof:geomhash":"45599cb6726f8f8a7c24cb3dd58abf5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856997753
+        }
+    ],
+    "wof:id":856997753,
+    "wof:lastmodified":1464112281,
+    "wof:name":"Ralph Rhiner Photography",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -91.741152,
+    41.973871,
+    -91.741152,
+    41.973871
+],
+  "geometry": {"coordinates":[-91.741152,41.973871],"type":"Point"}
+}

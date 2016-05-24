@@ -1,0 +1,84 @@
+{
+  "id": 856819405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.366012,42.515179,-96.366012,42.515179",
+    "geom:latitude":42.515179,
+    "geom:longitude":-96.366012,
+    "iso:country":"US",
+    "sg:address":"3319 Northbrook Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 293 1200",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L1Q2CC46vf0p557yqOcod_42.515179_-96.366012@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104030,
+    "wof:geomhash":"277e8f9b5257bf49520e1098827b8e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856819405
+        }
+    ],
+    "wof:id":856819405,
+    "wof:lastmodified":1464104030,
+    "wof:name":"Three Rivers Transportation",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.366012,
+    42.515179,
+    -96.366012,
+    42.515179
+],
+  "geometry": {"coordinates":[-96.366012,42.515179],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857065553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.781898,41.927502,-91.781898,41.927502",
+    "geom:latitude":41.927502,
+    "geom:longitude":-91.781898,
+    "iso:country":"US",
+    "sg:address":"21 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 3434",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.walnrepair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qshEZohXrnr2sSFBBCiKQ_41.927502_-91.781898@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115118,
+    "wof:geomhash":"b450f09147c0eb5b51fa637cf20182ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065553
+        }
+    ],
+    "wof:id":857065553,
+    "wof:lastmodified":1464115118,
+    "wof:name":"Waln Repair & Collision Center",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.781898,
+    41.927502,
+    -91.781898,
+    41.927502
+],
+  "geometry": {"coordinates":[-91.781898,41.927502],"type":"Point"}
+}

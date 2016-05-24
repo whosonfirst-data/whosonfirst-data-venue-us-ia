@@ -1,0 +1,75 @@
+{
+  "id": 856909851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.883628,41.255444,-95.883628,41.255444",
+    "geom:latitude":41.255444,
+    "geom:longitude":-95.883628,
+    "iso:country":"US",
+    "sg:address":"2540 7th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8936",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trade",
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G8UTBbHzwLCwhjweLtsHp_41.255444_-95.883628@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108416,
+    "wof:geomhash":"b04d3cc4df873b65c2bebd463f49e7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856909851
+        }
+    ],
+    "wof:id":856909851,
+    "wof:lastmodified":1464108416,
+    "wof:name":"Floyd's Portable Welding",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.883628,
+    41.255444,
+    -95.883628,
+    41.255444
+],
+  "geometry": {"coordinates":[-95.883628,41.255444],"type":"Point"}
+}

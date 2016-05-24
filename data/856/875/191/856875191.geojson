@@ -1,0 +1,66 @@
+{
+  "id": 856875191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.843418,41.600406,-93.843418,41.600406",
+    "geom:latitude":41.600406,
+    "geom:longitude":-93.843418,
+    "iso:country":"US",
+    "sg:address":"1955 E University Ave",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 9753",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v3qq5ejiqJfGm2YLNNo2Y_41.600406_-93.843418@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106951,
+    "wof:geomhash":"741498e3328a0ca3252d58f444834f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856875191
+        }
+    ],
+    "wof:id":856875191,
+    "wof:lastmodified":1464106951,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.843418,
+    41.600406,
+    -93.843418,
+    41.600406
+],
+  "geometry": {"coordinates":[-93.843418,41.600406],"type":"Point"}
+}

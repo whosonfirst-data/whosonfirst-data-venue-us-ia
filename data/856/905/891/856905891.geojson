@@ -1,0 +1,73 @@
+{
+  "id": 856905891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.815796,41.606687,-93.815796,41.606687",
+    "geom:latitude":41.606687,
+    "geom:longitude":-93.815796,
+    "iso:country":"US",
+    "sg:address":"2925 Timberline Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 5818",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "build"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dl0dCzmqBlNlHOEQjEpbN_41.606687_-93.815796@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108263,
+    "wof:geomhash":"9bc73479d7de01cb0aaf71a125f73532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856905891
+        }
+    ],
+    "wof:id":856905891,
+    "wof:lastmodified":1464108263,
+    "wof:name":"Barnett Smith Homes",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "build"
+    ]
+},
+  "bbox": [
+    -93.815796,
+    41.606687,
+    -93.815796,
+    41.606687
+],
+  "geometry": {"coordinates":[-93.81579600000001,41.606687],"type":"Point"}
+}

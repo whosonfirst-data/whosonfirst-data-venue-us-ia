@@ -1,0 +1,73 @@
+{
+  "id": 856785407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894132,41.253834,-95.894132,41.253834",
+    "geom:latitude":41.253834,
+    "geom:longitude":-95.894132,
+    "iso:country":"US",
+    "sg:address":"821 S 31st St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5232",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i00Qfr8gmrqMVe8ggXl5F_41.253834_-95.894132@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102591,
+    "wof:geomhash":"cf96fb7f5f83e0c138d6f13228cce247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856785407
+        }
+    ],
+    "wof:id":856785407,
+    "wof:lastmodified":1464102591,
+    "wof:name":"Mohr Drywall",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.894132,
+    41.253834,
+    -95.894132,
+    41.253834
+],
+  "geometry": {"coordinates":[-95.894132,41.253834],"type":"Point"}
+}

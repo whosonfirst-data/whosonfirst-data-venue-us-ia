@@ -1,0 +1,67 @@
+{
+  "id": 857005627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.628308,42.027885,-91.628308,42.027885",
+    "geom:latitude":42.027885,
+    "geom:longitude":-91.628308,
+    "iso:country":"US",
+    "sg:address":"180 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6303",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VGh5MWasWi0HjzvR6lgLL_42.027885_-91.628308@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112590,
+    "wof:geomhash":"3fb7b05180a6d81dedfac08fb311a7c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857005627
+        }
+    ],
+    "wof:id":857005627,
+    "wof:lastmodified":1464112590,
+    "wof:name":"Kmart",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.628308,
+    42.027885,
+    -91.628308,
+    42.027885
+],
+  "geometry": {"coordinates":[-91.628308,42.027885],"type":"Point"}
+}

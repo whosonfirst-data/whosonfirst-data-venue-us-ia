@@ -1,0 +1,75 @@
+{
+  "id": 856905657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.529015,41.664729,-91.529015,41.664729",
+    "geom:latitude":41.664729,
+    "geom:longitude":-91.529015,
+    "iso:country":"US",
+    "sg:address":"432 E Bloomington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7941",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W7B4YdGImdSeGh2nMQiyN_41.664729_-91.529015@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108255,
+    "wof:geomhash":"bf85e88eebe6ad7a629f5b3554dd3322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856905657
+        }
+    ],
+    "wof:id":856905657,
+    "wof:lastmodified":1464108255,
+    "wof:name":"J C Brown MD",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.529015,
+    41.664729,
+    -91.529015,
+    41.664729
+],
+  "geometry": {"coordinates":[-91.529015,41.664729],"type":"Point"}
+}

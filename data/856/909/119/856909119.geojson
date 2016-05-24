@@ -1,0 +1,73 @@
+{
+  "id": 856909119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.708814,41.57541,-93.708814,41.57541",
+    "geom:latitude":41.57541,
+    "geom:longitude":-93.708814,
+    "iso:country":"US",
+    "sg:address":"405 5th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 274 8631",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QWM9wbaBpdbKNJ1LDy33J_41.575410_-93.708814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108387,
+    "wof:geomhash":"f0966e0d940a9955060522f5b7ef8ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856909119
+        }
+    ],
+    "wof:id":856909119,
+    "wof:lastmodified":1464108387,
+    "wof:name":"Village Blacksmith",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -93.708814,
+    41.57541,
+    -93.708814,
+    41.57541
+],
+  "geometry": {"coordinates":[-93.708814,41.57541],"type":"Point"}
+}

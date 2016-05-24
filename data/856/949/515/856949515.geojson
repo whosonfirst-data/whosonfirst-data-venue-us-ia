@@ -1,0 +1,75 @@
+{
+  "id": 856949515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.564244,42.032517,-91.564244,42.032517",
+    "geom:latitude":42.032517,
+    "geom:longitude":-91.564244,
+    "iso:country":"US",
+    "sg:address":"438 Erin Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1239",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JTTIXDStsKWavVP1mm38o_42.032517_-91.564244@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110052,
+    "wof:geomhash":"3008ff3745fb4569ec25ab41829da219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856949515
+        }
+    ],
+    "wof:id":856949515,
+    "wof:lastmodified":1464110052,
+    "wof:name":"D & M Trucking",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.564244,
+    42.032517,
+    -91.564244,
+    42.032517
+],
+  "geometry": {"coordinates":[-91.564244,42.032517],"type":"Point"}
+}

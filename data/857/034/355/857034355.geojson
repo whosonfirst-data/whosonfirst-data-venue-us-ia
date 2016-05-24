@@ -1,0 +1,71 @@
+{
+  "id": 857034355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559581,41.356241,-93.559581,41.356241",
+    "geom:latitude":41.356241,
+    "geom:longitude":-93.559581,
+    "iso:country":"US",
+    "sg:address":"400 S 1st St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 0991",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d214rlv85Dx9To65zj7MG_41.356241_-93.559581@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113841,
+    "wof:geomhash":"192e0c5d70acf4987ad7e5729c302436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857034355
+        }
+    ],
+    "wof:id":857034355,
+    "wof:lastmodified":1464113841,
+    "wof:name":"Perfection Painting",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.559581,
+    41.356241,
+    -93.559581,
+    41.356241
+],
+  "geometry": {"coordinates":[-93.55958099999999,41.356241],"type":"Point"}
+}

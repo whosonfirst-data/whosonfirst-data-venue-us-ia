@@ -1,0 +1,77 @@
+{
+  "id": 856905835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.556582,41.605149,-93.556582,41.605149",
+    "geom:latitude":41.605149,
+    "geom:longitude":-93.556582,
+    "iso:country":"US",
+    "sg:address":"3104 Cleveland Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 266 2764",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j7jgCKpd5BcudiSANbfTh_41.605149_-93.556582@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108261,
+    "wof:geomhash":"05fdba5451727dc87697d0fe6653fad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896393,
+            "region_id":85688713,
+            "venue_id":856905835
+        }
+    ],
+    "wof:id":856905835,
+    "wof:lastmodified":1464108261,
+    "wof:name":"Bob's Lawn Care & Landscaping",
+    "wof:parent_id":85896393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -93.556582,
+    41.605149,
+    -93.556582,
+    41.605149
+],
+  "geometry": {"coordinates":[-93.55658200000001,41.605149],"type":"Point"}
+}

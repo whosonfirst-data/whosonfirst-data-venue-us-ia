@@ -1,0 +1,73 @@
+{
+  "id": 857069989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678541,41.887613,-91.678541,41.887613",
+    "geom:latitude":41.887613,
+    "geom:longitude":-91.678541,
+    "iso:country":"US",
+    "sg:address":"755 Capital Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 5161",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5brOeFGKqVGmWFg8EwErrf_41.887613_-91.678541@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115331,
+    "wof:geomhash":"ade5251024e1918035ee49cf67e41aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857069989
+        }
+    ],
+    "wof:id":857069989,
+    "wof:lastmodified":1464115331,
+    "wof:name":"Eastern Iowa Veterinary Specialty Center",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.678541,
+    41.887613,
+    -91.678541,
+    41.887613
+],
+  "geometry": {"coordinates":[-91.678541,41.887613],"type":"Point"}
+}

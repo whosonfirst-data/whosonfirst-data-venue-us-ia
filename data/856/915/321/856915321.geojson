@@ -1,0 +1,73 @@
+{
+  "id": 856915321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.869143,41.616475,-93.869143,41.616475",
+    "geom:latitude":41.616475,
+    "geom:longitude":-93.869143,
+    "iso:country":"US",
+    "sg:address":"75 NE Venture Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 0310",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ppGWyf9muEpL8tw05GRZI_41.616475_-93.869143@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108631,
+    "wof:geomhash":"e1c7a8e5e7e75d0aa19dea051d646fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856915321
+        }
+    ],
+    "wof:id":856915321,
+    "wof:lastmodified":1464108631,
+    "wof:name":"Jacobs Gymnastics",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -93.869143,
+    41.616475,
+    -93.869143,
+    41.616475
+],
+  "geometry": {"coordinates":[-93.86914299999999,41.616475],"type":"Point"}
+}

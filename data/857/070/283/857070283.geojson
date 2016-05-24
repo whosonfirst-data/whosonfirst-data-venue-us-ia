@@ -1,0 +1,90 @@
+{
+  "id": 857070283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716207,41.955266,-91.716207,41.955266",
+    "geom:latitude":41.955266,
+    "geom:longitude":-91.716207,
+    "iso:country":"US",
+    "sg:address":"2400 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0777",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "furniture",
+        "clothing",
+        "gear",
+        "women's"
+    ],
+    "sg:website":"www.JCPenney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UQpnm1TTZBhmaSa4EbNUN_41.955266_-91.716207@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115346,
+    "wof:geomhash":"31ca93e9e01b1349c9cc076a487b73ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070283
+        }
+    ],
+    "wof:id":857070283,
+    "wof:lastmodified":1464115346,
+    "wof:name":"JCPenney",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture",
+        "clothing",
+        "gear",
+        "women's"
+    ]
+},
+  "bbox": [
+    -91.716207,
+    41.955266,
+    -91.716207,
+    41.955266
+],
+  "geometry": {"coordinates":[-91.716207,41.955266],"type":"Point"}
+}

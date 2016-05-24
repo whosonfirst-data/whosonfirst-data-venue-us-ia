@@ -1,0 +1,71 @@
+{
+  "id": 857060879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627116,42.023095,-91.627116,42.023095",
+    "geom:latitude":42.023095,
+    "geom:longitude":-91.627116,
+    "iso:country":"US",
+    "sg:address":"4444 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/196107-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XMTxVEJ0kzm5RKeMe5qiq_42.023096_-91.627068@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114931,
+    "wof:geomhash":"8b0e5e70b97c26d1ce934c778e8a0fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857060879
+        }
+    ],
+    "wof:id":857060879,
+    "wof:lastmodified":1464114931,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.627116,
+    42.023095,
+    -91.627116,
+    42.023095
+],
+  "geometry": {"coordinates":[-91.627116,42.023095],"type":"Point"}
+}

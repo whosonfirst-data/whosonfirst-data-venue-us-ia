@@ -1,0 +1,75 @@
+{
+  "id": 856926145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.683404,41.877927,-93.683404,41.877927",
+    "geom:latitude":41.877927,
+    "geom:longitude":-93.683404,
+    "iso:country":"US",
+    "sg:address":"407 6th Ave",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 685 4421",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JlrzotxZy1JU0KJqgwlH0_41.877927_-93.683404@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109094,
+    "wof:geomhash":"aaf85241f87cb440536362f89efd4394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":856926145
+        }
+    ],
+    "wof:id":856926145,
+    "wof:lastmodified":1464109094,
+    "wof:name":"Masons Standard Service",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -93.683404,
+    41.877927,
+    -93.683404,
+    41.877927
+],
+  "geometry": {"coordinates":[-93.683404,41.877927],"type":"Point"}
+}

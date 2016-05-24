@@ -1,0 +1,66 @@
+{
+  "id": 856981087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655122,41.994079,-91.655122,41.994079",
+    "geom:latitude":41.994079,
+    "geom:longitude":-91.655122,
+    "iso:country":"US",
+    "sg:address":"608 16th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0554",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21jXk7WRP3oM1WfXUsOr7i_41.994079_-91.655122@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111510,
+    "wof:geomhash":"17bf7e68c7b104e3bad5cb73f1de81c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856981087
+        }
+    ],
+    "wof:id":856981087,
+    "wof:lastmodified":1464111510,
+    "wof:name":"Paddy O Rourks Bar & Grill",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.655122,
+    41.994079,
+    -91.655122,
+    41.994079
+],
+  "geometry": {"coordinates":[-91.65512200000001,41.994079],"type":"Point"}
+}

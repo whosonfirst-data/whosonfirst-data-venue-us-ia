@@ -1,0 +1,76 @@
+{
+  "id": 857058803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.336359,41.489024,-95.336359,41.489024",
+    "geom:latitude":41.489024,
+    "geom:longitude":-95.336359,
+    "iso:country":"US",
+    "sg:address":"1599 N Chestnut St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/knox/246187-maid-rite/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 3500",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nl3gMCHdWEmh0U2QI0L0B_41.489024_-95.336359@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114856,
+    "wof:geomhash":"d8d0a4fc63e3227c9c9342c9036af29d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857058803
+        }
+    ],
+    "wof:id":857058803,
+    "wof:lastmodified":1464114856,
+    "wof:name":"Maid-rite",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.336359,
+    41.489024,
+    -95.336359,
+    41.489024
+],
+  "geometry": {"coordinates":[-95.336359,41.489024],"type":"Point"}
+}

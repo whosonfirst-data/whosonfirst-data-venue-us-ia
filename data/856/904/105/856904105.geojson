@@ -1,0 +1,71 @@
+{
+  "id": 856904105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.385614,41.189627,-93.385614,41.189627",
+    "geom:latitude":41.189627,
+    "geom:longitude":-93.385614,
+    "iso:country":"US",
+    "sg:address":"125 W Main St",
+    "sg:city":"Lacona",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 534 3391",
+    "sg:postcode":"50139",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zA2YJdxiA23hemDKLSaUV_41.189627_-93.385614@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108196,
+    "wof:geomhash":"427a0468e4ade84c470161f14578483a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856904105
+        }
+    ],
+    "wof:id":856904105,
+    "wof:lastmodified":1464108196,
+    "wof:name":"Nolte Machine & Tool",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.385614,
+    41.189627,
+    -93.385614,
+    41.189627
+],
+  "geometry": {"coordinates":[-93.385614,41.189627],"type":"Point"}
+}

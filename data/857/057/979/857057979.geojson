@@ -1,0 +1,76 @@
+{
+  "id": 857057979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.827491,41.6147,-93.827491,41.6147",
+    "geom:latitude":41.6147,
+    "geom:longitude":-93.827491,
+    "iso:country":"US",
+    "sg:address":"15900 Hickman Rd",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/180878-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 2055",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DL67LvDycEyotU7OXvW1E_41.614700_-93.827491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114824,
+    "wof:geomhash":"ce45e8dab83b8b8800a37177132c1f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057979
+        }
+    ],
+    "wof:id":857057979,
+    "wof:lastmodified":1464114824,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -93.827491,
+    41.6147,
+    -93.827491,
+    41.6147
+],
+  "geometry": {"coordinates":[-93.82749099999999,41.6147],"type":"Point"}
+}

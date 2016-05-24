@@ -1,0 +1,71 @@
+{
+  "id": 856802257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528415,42.207361,-91.528415,42.207361",
+    "geom:latitude":42.207361,
+    "geom:longitude":-91.528415,
+    "iso:country":"US",
+    "sg:address":"201 N 1st St",
+    "sg:city":"Hills",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 679 3197",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I0bXIMgoVBMItR9qsuvQn_42.207361_-91.528415@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103281,
+    "wof:geomhash":"a275e8af20552df9b2aee920e917e7c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856802257
+        }
+    ],
+    "wof:id":856802257,
+    "wof:lastmodified":1464103281,
+    "wof:name":"Hills City Clerk",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.528415,
+    42.207361,
+    -91.528415,
+    42.207361
+],
+  "geometry": {"coordinates":[-91.528415,42.207361],"type":"Point"}
+}

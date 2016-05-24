@@ -1,0 +1,71 @@
+{
+  "id": 856930775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.768889,41.207325,-95.768889,41.207325",
+    "geom:latitude":41.207325,
+    "geom:longitude":-95.768889,
+    "iso:country":"US",
+    "sg:address":"1688 Rolling Hills Loop",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 9009",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53VvRHgHqTLgSW5J5tlA0d_41.207325_-95.768889@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109277,
+    "wof:geomhash":"9a425eae2119bd0ed97ed445cb6548a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856930775
+        }
+    ],
+    "wof:id":856930775,
+    "wof:lastmodified":1464109277,
+    "wof:name":"Rogers Surveying",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -95.768889,
+    41.207325,
+    -95.768889,
+    41.207325
+],
+  "geometry": {"coordinates":[-95.768889,41.207325],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856906607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.381804,41.921079,-91.381804,41.921079",
+    "geom:latitude":41.921079,
+    "geom:longitude":-91.381804,
+    "iso:country":"US",
+    "sg:address":"311 E Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2929",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WZR1DeCF2ZzstbvlFzM4V_41.921079_-91.381804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108289,
+    "wof:geomhash":"f2adbc0e77cfe73e89c992e71bc665a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856906607
+        }
+    ],
+    "wof:id":856906607,
+    "wof:lastmodified":1464108289,
+    "wof:name":"JKL Construction Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.381804,
+    41.921079,
+    -91.381804,
+    41.921079
+],
+  "geometry": {"coordinates":[-91.381804,41.921079],"type":"Point"}
+}

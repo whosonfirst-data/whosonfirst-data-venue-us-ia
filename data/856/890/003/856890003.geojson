@@ -1,0 +1,75 @@
+{
+  "id": 856890003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.400194,42.520584,-96.400194,42.520584",
+    "geom:latitude":42.520584,
+    "geom:longitude":-96.400194,
+    "iso:country":"US",
+    "sg:address":"810 29th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 4415",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cSQws8XgcezUzpJggI44G_42.520584_-96.400194@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107685,
+    "wof:geomhash":"4171d768c291432f12d6905428c42637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856890003
+        }
+    ],
+    "wof:id":856890003,
+    "wof:lastmodified":1464107685,
+    "wof:name":"Bruce Meyer Productions",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -96.400194,
+    42.520584,
+    -96.400194,
+    42.520584
+],
+  "geometry": {"coordinates":[-96.400194,42.520584],"type":"Point"}
+}

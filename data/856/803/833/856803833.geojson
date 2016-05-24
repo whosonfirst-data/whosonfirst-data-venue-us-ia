@@ -1,0 +1,71 @@
+{
+  "id": 856803833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.719744,42.097307,-91.719744,42.097307",
+    "geom:latitude":42.097307,
+    "geom:longitude":-91.719744,
+    "iso:country":"US",
+    "sg:address":"3637 5th St",
+    "sg:city":"Toddville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4660",
+    "sg:postcode":"52341",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ebwa0WbAJePa110QNxwM5_42.097307_-91.719744@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103353,
+    "wof:geomhash":"3561a0a4533f3b251c64106449f5cf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856803833
+        }
+    ],
+    "wof:id":856803833,
+    "wof:lastmodified":1464103353,
+    "wof:name":"Larry Larson Painting",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.719744,
+    42.097307,
+    -91.719744,
+    42.097307
+],
+  "geometry": {"coordinates":[-91.71974400000001,42.097307],"type":"Point"}
+}

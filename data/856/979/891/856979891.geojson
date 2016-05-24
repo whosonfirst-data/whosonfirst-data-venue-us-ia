@@ -1,0 +1,73 @@
+{
+  "id": 856979891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.680643,41.973997,-91.680643,41.973997",
+    "geom:latitude":41.973997,
+    "geom:longitude":-91.680643,
+    "iso:country":"US",
+    "sg:address":"614 1st Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5057",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38JxBSF4sX5oPOnGgcZBKF_41.973997_-91.680643@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111455,
+    "wof:geomhash":"08d45dddc6f35950b4dfda0eae28c7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856979891
+        }
+    ],
+    "wof:id":856979891,
+    "wof:lastmodified":1464111455,
+    "wof:name":"Pro Nails",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.680643,
+    41.973997,
+    -91.680643,
+    41.973997
+],
+  "geometry": {"coordinates":[-91.680643,41.973997],"type":"Point"}
+}

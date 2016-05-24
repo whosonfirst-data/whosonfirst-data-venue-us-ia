@@ -1,0 +1,71 @@
+{
+  "id": 856840259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558108,41.34724,-93.558108,41.34724",
+    "geom:latitude":41.34724,
+    "geom:longitude":-93.558108,
+    "iso:country":"US",
+    "sg:address":"1306 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 962 1234",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CeqMkaEWuZsi8MadcT9oK_41.347240_-93.558108@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105015,
+    "wof:geomhash":"c551ec375c6d944e42c81014918020d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856840259
+        }
+    ],
+    "wof:id":856840259,
+    "wof:lastmodified":1464105015,
+    "wof:name":"Barker Implement & Motor Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -93.558108,
+    41.34724,
+    -93.558108,
+    41.34724
+],
+  "geometry": {"coordinates":[-93.558108,41.34724],"type":"Point"}
+}

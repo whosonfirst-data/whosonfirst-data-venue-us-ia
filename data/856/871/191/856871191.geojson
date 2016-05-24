@@ -1,0 +1,73 @@
+{
+  "id": 856871191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625736,41.609979,-93.625736,41.609979",
+    "geom:latitude":41.609979,
+    "geom:longitude":-93.625736,
+    "iso:country":"US",
+    "sg:address":"1717 6th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 4398",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XQr0v4m6Pj7MQKWb2MF1B_41.609979_-93.625736@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106676,
+    "wof:geomhash":"30ae264059806ed2991372ce3837a51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856871191
+        }
+    ],
+    "wof:id":856871191,
+    "wof:lastmodified":1464106676,
+    "wof:name":"Apartments Of River Trace",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.625736,
+    41.609979,
+    -93.625736,
+    41.609979
+],
+  "geometry": {"coordinates":[-93.625736,41.609979],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856984911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.588539,41.648687,-91.588539,41.648687",
+    "geom:latitude":41.648687,
+    "geom:longitude":-91.588539,
+    "iso:country":"US",
+    "sg:address":"1145 Duck Creek Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 8002",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "opportunity",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q3K4gBPG9MG1L23jYJnnE_41.648687_-91.588539@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111737,
+    "wof:geomhash":"c0f6626ce274fe5f881f43959bb3a305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":856984911
+        }
+    ],
+    "wof:id":856984911,
+    "wof:lastmodified":1464111737,
+    "wof:name":"Your Right Hand Co",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "opportunity",
+        "care"
+    ]
+},
+  "bbox": [
+    -91.588539,
+    41.648687,
+    -91.588539,
+    41.648687
+],
+  "geometry": {"coordinates":[-91.588539,41.648687],"type":"Point"}
+}

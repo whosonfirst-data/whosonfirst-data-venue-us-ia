@@ -1,0 +1,73 @@
+{
+  "id": 856944811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654555,41.929395,-91.654555,41.929395",
+    "geom:latitude":41.929395,
+    "geom:longitude":-91.654555,
+    "iso:country":"US",
+    "sg:address":"200 50th Avenue Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 4000",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mail",
+        "presorting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EiVXA4xKK5VldcpeDaq2U_41.929395_-91.654555@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109881,
+    "wof:geomhash":"ed74357d571f89db78e2867a63775013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856944811
+        }
+    ],
+    "wof:id":856944811,
+    "wof:lastmodified":1464109881,
+    "wof:name":"PSI Group Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "presorting"
+    ]
+},
+  "bbox": [
+    -91.654555,
+    41.929395,
+    -91.654555,
+    41.929395
+],
+  "geometry": {"coordinates":[-91.654555,41.929395],"type":"Point"}
+}

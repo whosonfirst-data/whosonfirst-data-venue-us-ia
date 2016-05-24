@@ -1,0 +1,71 @@
+{
+  "id": 856945015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.00948,41.531563,-94.00948,41.531563",
+    "geom:latitude":41.531563,
+    "geom:longitude":-94.00948,
+    "iso:country":"US",
+    "sg:address":"616 Dallas St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 5653",
+    "sg:postcode":"50069",
+    "sg:province":"IA",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JJCOalSnzqf5brnryepg7_41.531563_-94.009480@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109887,
+    "wof:geomhash":"2ecea77eb57d88e322e11e2f184dea56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856945015
+        }
+    ],
+    "wof:id":856945015,
+    "wof:lastmodified":1464109887,
+    "wof:name":"Crocker Claims Svc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -94.00948,
+    41.531563,
+    -94.00948,
+    41.531563
+],
+  "geometry": {"coordinates":[-94.00948,41.531563],"type":"Point"}
+}

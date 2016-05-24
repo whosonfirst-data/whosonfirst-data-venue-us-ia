@@ -1,0 +1,77 @@
+{
+  "id": 857064243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.911517,41.282368,-95.911517,41.282368",
+    "geom:latitude":41.282368,
+    "geom:longitude":-95.911517,
+    "iso:country":"US",
+    "sg:address":"2510 Abbott Plaza",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 4900",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.holidayinnexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TgrOfunbFzvYd3H2OgBdh_41.282368_-95.911517@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115071,
+    "wof:geomhash":"aa975659424112fe5490791eb19eec6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064243
+        }
+    ],
+    "wof:id":857064243,
+    "wof:lastmodified":1464115071,
+    "wof:name":"Holiday Inn Express Hotel & Suites Carter Lake Omaha Airport",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -95.911517,
+    41.282368,
+    -95.911517,
+    41.282368
+],
+  "geometry": {"coordinates":[-95.911517,41.282368],"type":"Point"}
+}

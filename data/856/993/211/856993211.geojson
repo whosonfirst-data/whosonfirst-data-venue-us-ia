@@ -1,0 +1,71 @@
+{
+  "id": 856993211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.584189,41.357499,-93.584189,41.357499",
+    "geom:latitude":41.357499,
+    "geom:longitude":-93.584189,
+    "iso:country":"US",
+    "sg:address":"101 S Kenwood Blvd",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5516",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MHviJLSYhkLggzLSuqHG2_41.357499_-93.584189@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112116,
+    "wof:geomhash":"3905804f9e12379eaefc392c0279546a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856993211
+        }
+    ],
+    "wof:id":856993211,
+    "wof:lastmodified":1464112116,
+    "wof:name":"A & J Dry Wall Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.584189,
+    41.357499,
+    -93.584189,
+    41.357499
+],
+  "geometry": {"coordinates":[-93.58418899999999,41.357499],"type":"Point"}
+}

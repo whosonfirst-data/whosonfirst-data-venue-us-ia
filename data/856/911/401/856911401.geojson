@@ -1,0 +1,73 @@
+{
+  "id": 856911401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893434,42.285263,-95.893434,42.285263",
+    "geom:latitude":42.285263,
+    "geom:longitude":-95.893434,
+    "iso:country":"US",
+    "sg:address":"205 Washington St",
+    "sg:city":"Oto",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 827 4136",
+    "sg:postcode":"51044",
+    "sg:province":"IA",
+    "sg:tags":[
+        "road",
+        "oiling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lIvmyJRvRwvXWFSzYyt2j_42.285263_-95.893434@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108478,
+    "wof:geomhash":"41a3c11d9b2b8ebae1729fdedbcf587c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856911401
+        }
+    ],
+    "wof:id":856911401,
+    "wof:lastmodified":1464108478,
+    "wof:name":"County Garage",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "oiling"
+    ]
+},
+  "bbox": [
+    -95.893434,
+    42.285263,
+    -95.893434,
+    42.285263
+],
+  "geometry": {"coordinates":[-95.893434,42.285263],"type":"Point"}
+}

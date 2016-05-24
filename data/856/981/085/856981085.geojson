@@ -1,0 +1,71 @@
+{
+  "id": 856981085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.016346,41.618299,-94.016346,41.618299",
+    "geom:latitude":41.618299,
+    "geom:longitude":-94.016346,
+    "iso:country":"US",
+    "sg:address":"706 Court St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5400",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oVsvDMv3WDS02bnIyU1zw_41.618299_-94.016346@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111510,
+    "wof:geomhash":"9fcd46efd9dcce034a9cbc78bf764ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856981085
+        }
+    ],
+    "wof:id":856981085,
+    "wof:lastmodified":1464111510,
+    "wof:name":"Westergaard Advertising",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -94.016346,
+    41.618299,
+    -94.016346,
+    41.618299
+],
+  "geometry": {"coordinates":[-94.016346,41.618299],"type":"Point"}
+}

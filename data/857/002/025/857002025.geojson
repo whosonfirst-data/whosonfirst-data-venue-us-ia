@@ -1,0 +1,71 @@
+{
+  "id": 857002025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.907041,41.265538,-95.907041,41.265538",
+    "geom:latitude":41.265538,
+    "geom:longitude":-95.907041,
+    "iso:country":"US",
+    "sg:address":"3612 Ave D",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 9635",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I5KUiEg8QRxtNigsl2jhb_41.265538_-95.907041@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112451,
+    "wof:geomhash":"1915433f9fb428e33efa1a9995f0fb6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857002025
+        }
+    ],
+    "wof:id":857002025,
+    "wof:lastmodified":1464112451,
+    "wof:name":"Parks Trucking",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.907041,
+    41.265538,
+    -95.907041,
+    41.265538
+],
+  "geometry": {"coordinates":[-95.90704100000001,41.265538],"type":"Point"}
+}

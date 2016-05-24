@@ -1,0 +1,72 @@
+{
+  "id": 856800437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638883,41.995916,-91.638883,41.995916",
+    "geom:latitude":41.995916,
+    "geom:longitude":-91.638883,
+    "iso:country":"US",
+    "sg:address":"2007 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0101",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.bradleyriley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fhIGt6h29c2uGyNKtkSmA_41.995916_-91.638883@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103213,
+    "wof:geomhash":"3f29f33ad87067716943fb8f141c7241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856800437
+        }
+    ],
+    "wof:id":856800437,
+    "wof:lastmodified":1464103213,
+    "wof:name":"Bradley & Riley",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.638883,
+    41.995916,
+    -91.638883,
+    41.995916
+],
+  "geometry": {"coordinates":[-91.63888300000001,41.995916],"type":"Point"}
+}

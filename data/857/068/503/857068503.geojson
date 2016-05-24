@@ -1,0 +1,76 @@
+{
+  "id": 857068503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6633,42.011002,-91.6633,42.011002",
+    "geom:latitude":42.011002,
+    "geom:longitude":-91.6633,
+    "iso:country":"US",
+    "sg:address":"3210 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1324",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HLuLsf2mGlfBGDXFIH2IX_42.011002_-91.663300@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115260,
+    "wof:geomhash":"d8790b1d58b3591e3a556a9bec00b016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068503
+        }
+    ],
+    "wof:id":857068503,
+    "wof:lastmodified":1464115260,
+    "wof:name":"Nadia's Salon & Spa",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6633,
+    42.011002,
+    -91.6633,
+    42.011002
+],
+  "geometry": {"coordinates":[-91.66330000000001,42.011002],"type":"Point"}
+}

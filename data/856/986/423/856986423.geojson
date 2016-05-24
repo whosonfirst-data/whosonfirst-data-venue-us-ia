@@ -1,0 +1,71 @@
+{
+  "id": 856986423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.784747,42.476569,-95.784747,42.476569",
+    "geom:latitude":42.476569,
+    "geom:longitude":-95.784747,
+    "iso:country":"US",
+    "sg:address":"501 6th St",
+    "sg:city":"Correctionville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 372 4540",
+    "sg:postcode":"51016",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z2Y50nyvgtamEF9WHyAZP_42.476569_-95.784747@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111811,
+    "wof:geomhash":"2ef75fa9928efb6765d826aaa0d2c69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856986423
+        }
+    ],
+    "wof:id":856986423,
+    "wof:lastmodified":1464111811,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.784747,
+    42.476569,
+    -95.784747,
+    42.476569
+],
+  "geometry": {"coordinates":[-95.784747,42.476569],"type":"Point"}
+}

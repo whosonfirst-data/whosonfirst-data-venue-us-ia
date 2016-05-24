@@ -1,0 +1,73 @@
+{
+  "id": 856899635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.764083,41.967414,-91.764083,41.967414",
+    "geom:latitude":41.967414,
+    "geom:longitude":-91.764083,
+    "iso:country":"US",
+    "sg:address":"311 Rockhurst Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 265 7895",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "occupational",
+        "therapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YyZjvu2SBFyLBHry6fJfp_41.967414_-91.764083@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108038,
+    "wof:geomhash":"06c38c8a3d9ee1d10784db985b756629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856899635
+        }
+    ],
+    "wof:id":856899635,
+    "wof:lastmodified":1464108038,
+    "wof:name":"Pediatric Therapy Specialists",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "therapist"
+    ]
+},
+  "bbox": [
+    -91.764083,
+    41.967414,
+    -91.764083,
+    41.967414
+],
+  "geometry": {"coordinates":[-91.764083,41.967414],"type":"Point"}
+}

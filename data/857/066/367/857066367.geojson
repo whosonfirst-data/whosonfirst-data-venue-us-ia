@@ -1,0 +1,80 @@
+{
+  "id": 857066367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666853,41.977154,-91.666853,41.977154",
+    "geom:latitude":41.977154,
+    "geom:longitude":-91.666853,
+    "iso:country":"US",
+    "sg:address":"210 3rd Ave SE Ste D",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 4777",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "barbeque",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gpaxPXhs17MEUq1cAgAH4_41.977154_-91.666853@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115148,
+    "wof:geomhash":"fc6f91e98c62e7dbbbe6ba64e319634c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066367
+        }
+    ],
+    "wof:id":857066367,
+    "wof:lastmodified":1464115148,
+    "wof:name":"Austin Blues Bbq",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.666853,
+    41.977154,
+    -91.666853,
+    41.977154
+],
+  "geometry": {"coordinates":[-91.666853,41.977154],"type":"Point"}
+}

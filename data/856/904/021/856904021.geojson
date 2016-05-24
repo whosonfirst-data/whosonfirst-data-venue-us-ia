@@ -1,0 +1,82 @@
+{
+  "id": 856904021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.703499,41.582695,-93.703499,41.582695",
+    "geom:latitude":41.582695,
+    "geom:longitude":-93.703499,
+    "iso:country":"US",
+    "sg:address":"338 Grand Ave",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 633 2969",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GknomeeE1KyEANUfpxPlf_41.582695_-93.703499@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108193,
+    "wof:geomhash":"460a8d6202473ba72bdba44e4468fcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877113,
+            "region_id":85688713,
+            "venue_id":856904021
+        }
+    ],
+    "wof:id":856904021,
+    "wof:lastmodified":1464108193,
+    "wof:name":"A-Kleen Sweep Vacuum Center",
+    "wof:parent_id":85877113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -93.703499,
+    41.582695,
+    -93.703499,
+    41.582695
+],
+  "geometry": {"coordinates":[-93.70349899999999,41.582695],"type":"Point"}
+}

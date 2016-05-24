@@ -1,0 +1,68 @@
+{
+  "id": 856899091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.565569,41.671503,-91.565569,41.671503",
+    "geom:latitude":41.671503,
+    "geom:longitude":-91.565569,
+    "iso:country":"US",
+    "sg:address":"302 1st Ave",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 8175",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xlsaaVGrFeEAzQQTdwVeZ_41.671503_-91.565569@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108020,
+    "wof:geomhash":"1c92713c495d18a65e85c747c2937f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856899091
+        }
+    ],
+    "wof:id":856899091,
+    "wof:lastmodified":1464108020,
+    "wof:name":"Bigelow Jim Insurance Agency",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.565569,
+    41.671503,
+    -91.565569,
+    41.671503
+],
+  "geometry": {"coordinates":[-91.565569,41.671503],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856793001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.546241,41.696872,-91.546241,41.696872",
+    "geom:latitude":41.696872,
+    "geom:longitude":-91.546241,
+    "iso:country":"US",
+    "sg:address":"3240 Dubuque St NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 3446",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896479,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1otDHQvnZ8MXl9zV7DqgNy_41.696872_-91.546241@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102897,
+    "wof:geomhash":"1642964611e636b282b0bea6583f8bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896479,
+            "region_id":85688713,
+            "venue_id":856793001
+        }
+    ],
+    "wof:id":856793001,
+    "wof:lastmodified":1464102897,
+    "wof:name":"Florence Bozek",
+    "wof:parent_id":85896479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.546241,
+    41.696872,
+    -91.546241,
+    41.696872
+],
+  "geometry": {"coordinates":[-91.54624099999999,41.696872],"type":"Point"}
+}

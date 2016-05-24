@@ -1,0 +1,75 @@
+{
+  "id": 857068003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661598,41.9841,-91.661598,41.9841",
+    "geom:latitude":41.9841,
+    "geom:longitude":-91.661598,
+    "iso:country":"US",
+    "sg:address":"855 A Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0200",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uP88CmWrM72LviP6332XJ_41.984100_-91.661598@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115240,
+    "wof:geomhash":"6d5d673fa467a39cc7411f42d383ccda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857068003
+        }
+    ],
+    "wof:id":857068003,
+    "wof:lastmodified":1464115240,
+    "wof:name":"Bhan Varsha MD Jr",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -91.661598,
+    41.9841,
+    -91.661598,
+    41.9841
+],
+  "geometry": {"coordinates":[-91.661598,41.9841],"type":"Point"}
+}

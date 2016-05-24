@@ -1,0 +1,73 @@
+{
+  "id": 856832251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.587365,42.037402,-91.587365,42.037402",
+    "geom:latitude":42.037402,
+    "geom:longitude":-91.587365,
+    "iso:country":"US",
+    "sg:address":"2230 11th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 9557",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xvp3G4cXpJqIG6EgZCRoZ_42.037402_-91.587365@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104620,
+    "wof:geomhash":"ca314c76955b6190a760891ac5ffbe8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856832251
+        }
+    ],
+    "wof:id":856832251,
+    "wof:lastmodified":1464104620,
+    "wof:name":"Dan Bry Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.587365,
+    42.037402,
+    -91.587365,
+    42.037402
+],
+  "geometry": {"coordinates":[-91.58736500000001,42.037402],"type":"Point"}
+}

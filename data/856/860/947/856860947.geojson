@@ -1,0 +1,69 @@
+{
+  "id": 856860947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439608,41.285299,-93.439608,41.285299",
+    "geom:latitude":41.285299,
+    "geom:longitude":-93.439608,
+    "iso:country":"US",
+    "sg:address":"204 S 2nd St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6973",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OQL8ePRDJDngFq17NO0BZ_41.285299_-93.439608@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106035,
+    "wof:geomhash":"515272e6555f7562142adc5e3037a62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856860947
+        }
+    ],
+    "wof:id":856860947,
+    "wof:lastmodified":1464106035,
+    "wof:name":"Casey's Carry Out Pizza",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.439608,
+    41.285299,
+    -93.439608,
+    41.285299
+],
+  "geometry": {"coordinates":[-93.43960800000001,41.285299],"type":"Point"}
+}

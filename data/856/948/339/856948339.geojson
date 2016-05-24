@@ -1,0 +1,71 @@
+{
+  "id": 856948339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.52151,41.707377,-91.52151,41.707377",
+    "geom:latitude":41.707377,
+    "geom:longitude":-91.52151,
+    "iso:country":"US",
+    "sg:address":"4212 Sue Linda Cir NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 5720",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896479,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KqbjzSpvW0Yq2253VVFeW_41.707377_-91.521510@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110010,
+    "wof:geomhash":"ec57a34462f413501a896fa80f105a66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896479,
+            "region_id":85688713,
+            "venue_id":856948339
+        }
+    ],
+    "wof:id":856948339,
+    "wof:lastmodified":1464110010,
+    "wof:name":"Boyd Crosby Construction",
+    "wof:parent_id":85896479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.52151,
+    41.707377,
+    -91.52151,
+    41.707377
+],
+  "geometry": {"coordinates":[-91.52151000000001,41.707377],"type":"Point"}
+}

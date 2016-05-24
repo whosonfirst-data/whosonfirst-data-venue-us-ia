@@ -1,0 +1,76 @@
+{
+  "id": 857071077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6838,41.984299,-91.6838,41.984299",
+    "geom:latitude":41.984299,
+    "geom:longitude":-91.6838,
+    "iso:country":"US",
+    "sg:address":"1201 8th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3284",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.caninecornerandcatstoo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D4QGbgSSAZjKm2NiwFu4u_41.984299_-91.683800@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115378,
+    "wof:geomhash":"4b11575b45b92f10798703f64a19678e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071077
+        }
+    ],
+    "wof:id":857071077,
+    "wof:lastmodified":1464115378,
+    "wof:name":"Canine Corner and Cats Too",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.6838,
+    41.984299,
+    -91.6838,
+    41.984299
+],
+  "geometry": {"coordinates":[-91.68380000000001,41.984299],"type":"Point"}
+}

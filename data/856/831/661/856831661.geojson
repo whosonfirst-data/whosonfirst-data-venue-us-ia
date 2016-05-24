@@ -1,0 +1,68 @@
+{
+  "id": 856831661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.536397,41.602364,-93.536397,41.602364",
+    "geom:latitude":41.602364,
+    "geom:longitude":-93.536397,
+    "iso:country":"US",
+    "sg:address":"4035 Mahaska Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 5934",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BPrnEjyEV6ebUvVbXrnwF_41.602364_-93.536397@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104586,
+    "wof:geomhash":"c86ce3d44a3d36fde07de34c53617d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877111,
+            "region_id":85688713,
+            "venue_id":856831661
+        }
+    ],
+    "wof:id":856831661,
+    "wof:lastmodified":1464104586,
+    "wof:name":"Benchtop Bonsai",
+    "wof:parent_id":85877111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.536397,
+    41.602364,
+    -93.536397,
+    41.602364
+],
+  "geometry": {"coordinates":[-93.53639699999999,41.602364],"type":"Point"}
+}

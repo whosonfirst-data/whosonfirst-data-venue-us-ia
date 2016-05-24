@@ -1,0 +1,71 @@
+{
+  "id": 856970049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.922051,41.857575,-93.922051,41.857575",
+    "geom:latitude":41.857575,
+    "geom:longitude":-93.922051,
+    "iso:country":"US",
+    "sg:address":"114 S Main St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2000",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PeLzPVQgixVh9UZLgJtHp_41.857575_-93.922051@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110974,
+    "wof:geomhash":"c891b22d0d4b2ac43932181bd7cb5df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856970049
+        }
+    ],
+    "wof:id":856970049,
+    "wof:lastmodified":1464110974,
+    "wof:name":"Shawd Publishing Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -93.922051,
+    41.857575,
+    -93.922051,
+    41.857575
+],
+  "geometry": {"coordinates":[-93.922051,41.857575],"type":"Point"}
+}

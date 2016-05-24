@@ -1,0 +1,71 @@
+{
+  "id": 856930057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.833008,41.47745,-95.833008,41.47745",
+    "geom:latitude":41.47745,
+    "geom:longitude":-95.833008,
+    "iso:country":"US",
+    "sg:address":"32072 185th St",
+    "sg:city":"Missouri Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 642 3037",
+    "sg:postcode":"51555",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oufDT2qO0PbCBU8nC67FR_41.477450_-95.833008@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109248,
+    "wof:geomhash":"fdcb73a162fbd2f17b456ac053d46693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856930057
+        }
+    ],
+    "wof:id":856930057,
+    "wof:lastmodified":1464109248,
+    "wof:name":"Green Renovations",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.833008,
+    41.47745,
+    -95.833008,
+    41.47745
+],
+  "geometry": {"coordinates":[-95.83300800000001,41.47745],"type":"Point"}
+}

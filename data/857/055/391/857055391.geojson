@@ -1,0 +1,74 @@
+{
+  "id": 857055391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653504,41.98468,-91.653504,41.98468",
+    "geom:latitude":41.98468,
+    "geom:longitude":-91.653504,
+    "iso:country":"US",
+    "sg:address":"1285 3rd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7185",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.crwpc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cbmNEMNTfg0pRodHsvkZ4_41.984506_-91.653585@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114721,
+    "wof:geomhash":"a63880ae371790551e76146d06cdbb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857055391
+        }
+    ],
+    "wof:id":857055391,
+    "wof:lastmodified":1464114721,
+    "wof:name":"Westminster Presbyterian Church",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.653504,
+    41.98468,
+    -91.653504,
+    41.98468
+],
+  "geometry": {"coordinates":[-91.653504,41.98468],"type":"Point"}
+}

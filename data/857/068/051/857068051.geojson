@@ -1,0 +1,75 @@
+{
+  "id": 857068051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.635098,42.008981,-91.635098,42.008981",
+    "geom:latitude":42.008981,
+    "geom:longitude":-91.635098,
+    "iso:country":"US",
+    "sg:address":"3132 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2738",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SNfLmKj8KG0zcWuYiitSw_42.008981_-91.635098@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115242,
+    "wof:geomhash":"0a2eab30702a11bea3dfa57681b18d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068051
+        }
+    ],
+    "wof:id":857068051,
+    "wof:lastmodified":1464115242,
+    "wof:name":"Discount Liquor",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -91.635098,
+    42.008981,
+    -91.635098,
+    42.008981
+],
+  "geometry": {"coordinates":[-91.635098,42.008981],"type":"Point"}
+}

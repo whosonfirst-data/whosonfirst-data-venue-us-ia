@@ -1,0 +1,73 @@
+{
+  "id": 856986953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.792647,41.292234,-95.792647,41.292234",
+    "geom:latitude":41.292234,
+    "geom:longitude":-95.792647,
+    "iso:country":"US",
+    "sg:address":"1951 Jennings Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3703",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KUluQeO8jGOas8xQtlutG_41.292234_-95.792647@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111829,
+    "wof:geomhash":"724ca3593266409b9260483056d27a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856986953
+        }
+    ],
+    "wof:id":856986953,
+    "wof:lastmodified":1464111829,
+    "wof:name":"Liberty Homes Inc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -95.792647,
+    41.292234,
+    -95.792647,
+    41.292234
+],
+  "geometry": {"coordinates":[-95.792647,41.292234],"type":"Point"}
+}

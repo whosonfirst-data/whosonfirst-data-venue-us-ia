@@ -1,0 +1,71 @@
+{
+  "id": 856977191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.552117,41.716381,-91.552117,41.716381",
+    "geom:latitude":41.716381,
+    "geom:longitude":-91.552117,
+    "iso:country":"US",
+    "sg:address":"2987 Dubuque St NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 2679",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896473,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vwDastar7BLfQisvvg7Al_41.716381_-91.552117@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111316,
+    "wof:geomhash":"247ed961a737ca5514b95d6c191036c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896473,
+            "region_id":85688713,
+            "venue_id":856977191
+        }
+    ],
+    "wof:id":856977191,
+    "wof:lastmodified":1464111316,
+    "wof:name":"M & M Drywall",
+    "wof:parent_id":85896473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.552117,
+    41.716381,
+    -91.552117,
+    41.716381
+],
+  "geometry": {"coordinates":[-91.552117,41.716381],"type":"Point"}
+}

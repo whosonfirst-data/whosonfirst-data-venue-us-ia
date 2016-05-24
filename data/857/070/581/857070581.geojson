@@ -1,0 +1,72 @@
+{
+  "id": 857070581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.74119,41.963343,-91.74119,41.963343",
+    "geom:latitude":41.963343,
+    "geom:longitude":-91.74119,
+    "iso:country":"US",
+    "sg:address":"5415 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2698",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.cassillmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RgJ1pE9VaNqt6MI2zsPN2_41.963343_-91.741190@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115361,
+    "wof:geomhash":"5e80714c67c698012d261fc08ea08b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070581
+        }
+    ],
+    "wof:id":857070581,
+    "wof:lastmodified":1464115361,
+    "wof:name":"Cassill Motors",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -91.74119,
+    41.963343,
+    -91.74119,
+    41.963343
+],
+  "geometry": {"coordinates":[-91.74119,41.963343],"type":"Point"}
+}

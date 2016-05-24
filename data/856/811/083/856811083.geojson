@@ -1,0 +1,68 @@
+{
+  "id": 856811083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.742289,41.601138,-93.742289,41.601138",
+    "geom:latitude":41.601138,
+    "geom:longitude":-93.742289,
+    "iso:country":"US",
+    "sg:address":"1333 NW 90th St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 221 2202",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ge3n9yczRArhLn3K5Vxxa_41.601138_-93.742289@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103676,
+    "wof:geomhash":"c92b7093cb02302597261e9249399525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856811083
+        }
+    ],
+    "wof:id":856811083,
+    "wof:lastmodified":1464103676,
+    "wof:name":"DCSS",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.742289,
+    41.601138,
+    -93.742289,
+    41.601138
+],
+  "geometry": {"coordinates":[-93.742289,41.601138],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856952151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.387594,42.494369,-96.387594,42.494369",
+    "geom:latitude":42.494369,
+    "geom:longitude":-96.387594,
+    "iso:country":"US",
+    "sg:address":"1715 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 2000",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mUwDYhmEYKQHUB34hERA4_42.494369_-96.387594@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110173,
+    "wof:geomhash":"7bfdba7b2cf9170f51e4399209bf824c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856952151
+        }
+    ],
+    "wof:id":856952151,
+    "wof:lastmodified":1464110173,
+    "wof:name":"Kalins Indoor Comfort",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.387594,
+    42.494369,
+    -96.387594,
+    42.494369
+],
+  "geometry": {"coordinates":[-96.38759400000001,42.494369],"type":"Point"}
+}

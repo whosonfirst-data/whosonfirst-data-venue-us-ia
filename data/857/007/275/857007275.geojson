@@ -1,0 +1,75 @@
+{
+  "id": 857007275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.541631,41.174519,-95.541631,41.174519",
+    "geom:latitude":41.174519,
+    "geom:longitude":-95.541631,
+    "iso:country":"US",
+    "sg:address":"34025 Aspen Rd",
+    "sg:city":"Macedonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 486 2442",
+    "sg:postcode":"51549",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3epvp6SO5zT0j2QxfCDxFv_41.174519_-95.541631@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112655,
+    "wof:geomhash":"a2a34e9de40b62bf45887bf9bd3f8e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857007275
+        }
+    ],
+    "wof:id":857007275,
+    "wof:lastmodified":1464112655,
+    "wof:name":"C & S Electric",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -95.541631,
+    41.174519,
+    -95.541631,
+    41.174519
+],
+  "geometry": {"coordinates":[-95.541631,41.174519],"type":"Point"}
+}

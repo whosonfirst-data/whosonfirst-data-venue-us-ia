@@ -1,0 +1,75 @@
+{
+  "id": 856977991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439677,41.287155,-93.439677,41.287155",
+    "geom:latitude":41.287155,
+    "geom:longitude":-93.439677,
+    "iso:country":"US",
+    "sg:address":"214 Main St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6231",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "frozen",
+        "food",
+        "locker",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28AqVVOGp5seVkts8B2kE6_41.287155_-93.439677@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111355,
+    "wof:geomhash":"94bc3347e7904e7b468ea19f7cddf840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856977991
+        }
+    ],
+    "wof:id":856977991,
+    "wof:lastmodified":1464111355,
+    "wof:name":"Milo Locker Svc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "food",
+        "locker",
+        "plant"
+    ]
+},
+  "bbox": [
+    -93.439677,
+    41.287155,
+    -93.439677,
+    41.287155
+],
+  "geometry": {"coordinates":[-93.439677,41.287155],"type":"Point"}
+}

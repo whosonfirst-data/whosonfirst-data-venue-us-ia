@@ -1,0 +1,71 @@
+{
+  "id": 856995715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.356949,42.430273,-92.356949,42.430273",
+    "geom:latitude":42.430273,
+    "geom:longitude":-92.356949,
+    "iso:country":"US",
+    "sg:address":"5870 Kimball Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 232 1842",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kP5I1cQkcPBX6KiHb7erR_42.430273_-92.356949@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112201,
+    "wof:geomhash":"c474658a938b790884520d0c9f6c68b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856995715
+        }
+    ],
+    "wof:id":856995715,
+    "wof:lastmodified":1464112201,
+    "wof:name":"Waterloo Archery",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -92.356949,
+    42.430273,
+    -92.356949,
+    42.430273
+],
+  "geometry": {"coordinates":[-92.356949,42.430273],"type":"Point"}
+}

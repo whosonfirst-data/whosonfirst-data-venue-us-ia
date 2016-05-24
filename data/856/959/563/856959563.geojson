@@ -1,0 +1,71 @@
+{
+  "id": 856959563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.579766,41.96165,-91.579766,41.96165",
+    "geom:latitude":41.96165,
+    "geom:longitude":-91.579766,
+    "iso:country":"US",
+    "sg:address":"1401 Cedar Bend Ln SW",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 7373",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M7O7bVvseINa5uaUjxY4u_41.961650_-91.579766@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110526,
+    "wof:geomhash":"dec35ecb18aefc6efc1e6472b6842d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856959563
+        }
+    ],
+    "wof:id":856959563,
+    "wof:lastmodified":1464110526,
+    "wof:name":"Animal Control Of Cedar Rapids",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.579766,
+    41.96165,
+    -91.579766,
+    41.96165
+],
+  "geometry": {"coordinates":[-91.57976600000001,41.96165],"type":"Point"}
+}

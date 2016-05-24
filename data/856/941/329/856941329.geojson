@@ -1,0 +1,77 @@
+{
+  "id": 856941329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.374527,42.490276,-96.374527,42.490276",
+    "geom:latitude":42.490276,
+    "geom:longitude":-96.374527,
+    "iso:country":"US",
+    "sg:address":"2603 Correctionville Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 2566",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O75SSnI7T0fd1F89q6CMy_42.490276_-96.374527@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109735,
+    "wof:geomhash":"32ab623dd7af018b05f3f06d1a6e4c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856941329
+        }
+    ],
+    "wof:id":856941329,
+    "wof:lastmodified":1464109735,
+    "wof:name":"Canine Chateau",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.374527,
+    42.490276,
+    -96.374527,
+    42.490276
+],
+  "geometry": {"coordinates":[-96.374527,42.490276],"type":"Point"}
+}

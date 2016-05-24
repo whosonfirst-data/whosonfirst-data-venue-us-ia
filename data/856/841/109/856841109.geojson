@@ -1,0 +1,71 @@
+{
+  "id": 856841109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629769,41.988026,-91.629769,41.988026",
+    "geom:latitude":41.988026,
+    "geom:longitude":-91.629769,
+    "iso:country":"US",
+    "sg:address":"19 Blake Ct SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5004",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OCaS7WQZ6kEXMxKug6qLY_41.988026_-91.629769@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105044,
+    "wof:geomhash":"248ffb4b39dde6db4bf315a17e1bd84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856841109
+        }
+    ],
+    "wof:id":856841109,
+    "wof:lastmodified":1464105044,
+    "wof:name":"Ronald G Nelson PHD",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -91.629769,
+    41.988026,
+    -91.629769,
+    41.988026
+],
+  "geometry": {"coordinates":[-91.629769,41.988026],"type":"Point"}
+}

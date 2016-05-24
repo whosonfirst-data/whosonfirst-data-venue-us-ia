@@ -1,0 +1,68 @@
+{
+  "id": 856957353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.500845,41.649636,-91.500845,41.649636",
+    "geom:latitude":41.649636,
+    "geom:longitude":-91.500845,
+    "iso:country":"US",
+    "sg:address":"2306 Muscatine Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 3526",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NzvmxZ9qsujonYtpKecjV_41.649636_-91.500845@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110439,
+    "wof:geomhash":"d5c25843e0af12c3a61b5ac872cec9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856957353
+        }
+    ],
+    "wof:id":856957353,
+    "wof:lastmodified":1464110439,
+    "wof:name":"Towncrest Pharmacy",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.500845,
+    41.649636,
+    -91.500845,
+    41.649636
+],
+  "geometry": {"coordinates":[-91.500845,41.649636],"type":"Point"}
+}

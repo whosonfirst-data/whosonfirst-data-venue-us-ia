@@ -1,0 +1,73 @@
+{
+  "id": 857022773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.877049,41.261914,-95.877049,41.261914",
+    "geom:latitude":41.261914,
+    "geom:longitude":-95.877049,
+    "iso:country":"US",
+    "sg:address":"2100 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 6990",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ORUdtDyQYH6X1uA1x7MdV_41.261914_-95.877049@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113308,
+    "wof:geomhash":"20d423b5fce97e16f7638b0299f4af1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857022773
+        }
+    ],
+    "wof:id":857022773,
+    "wof:lastmodified":1464113308,
+    "wof:name":"Computer Resources Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.877049,
+    41.261914,
+    -95.877049,
+    41.261914
+],
+  "geometry": {"coordinates":[-95.877049,41.261914],"type":"Point"}
+}

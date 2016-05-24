@@ -1,0 +1,72 @@
+{
+  "id": 856895015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.223481,41.477299,-95.223481,41.477299",
+    "geom:latitude":41.477299,
+    "geom:longitude":-95.223481,
+    "iso:country":"US",
+    "sg:address":"510 Highland St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3000",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.walnutel.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MqFBd80VuCN56aEAdH6tw_41.477299_-95.223481@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107865,
+    "wof:geomhash":"94c04d0f96c38bd0ed845af74643b849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856895015
+        }
+    ],
+    "wof:id":856895015,
+    "wof:lastmodified":1464107865,
+    "wof:name":"Walnut Communications",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -95.223481,
+    41.477299,
+    -95.223481,
+    41.477299
+],
+  "geometry": {"coordinates":[-95.22348100000001,41.477299],"type":"Point"}
+}

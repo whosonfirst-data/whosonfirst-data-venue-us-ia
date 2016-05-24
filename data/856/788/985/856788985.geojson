@@ -1,0 +1,73 @@
+{
+  "id": 856788985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.397825,42.489833,-96.397825,42.489833",
+    "geom:latitude":42.489833,
+    "geom:longitude":-96.397825,
+    "iso:country":"US",
+    "sg:address":"901 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1664",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jtgvnYxitCRxjXJ8wxaGG_42.489833_-96.397825@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102743,
+    "wof:geomhash":"3cc6d3b293861f2efff7edea44117829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856788985
+        }
+    ],
+    "wof:id":856788985,
+    "wof:lastmodified":1464102743,
+    "wof:name":"Loanmax",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -96.397825,
+    42.489833,
+    -96.397825,
+    42.489833
+],
+  "geometry": {"coordinates":[-96.397825,42.489833],"type":"Point"}
+}

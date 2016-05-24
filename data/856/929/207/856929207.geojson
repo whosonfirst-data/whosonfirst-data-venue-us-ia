@@ -1,0 +1,71 @@
+{
+  "id": 856929207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.670778,42.039189,-91.670778,42.039189",
+    "geom:latitude":42.039189,
+    "geom:longitude":-91.670778,
+    "iso:country":"US",
+    "sg:address":"103 Oak St",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7720",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sJssEekgPxtp0l2stlCkD_42.039189_-91.670778@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109219,
+    "wof:geomhash":"f498642d4f872133a29fe58618a47227",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856929207
+        }
+    ],
+    "wof:id":856929207,
+    "wof:lastmodified":1464109219,
+    "wof:name":"Lawrence Industries",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -91.670778,
+    42.039189,
+    -91.670778,
+    42.039189
+],
+  "geometry": {"coordinates":[-91.670778,42.039189],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856933457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.634865,42.010746,-91.634865,42.010746",
+    "geom:latitude":42.010746,
+    "geom:longitude":-91.634865,
+    "iso:country":"US",
+    "sg:address":"3221 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0242",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yb7v8JCYKnOSHYidtBRb7_42.010746_-91.634865@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109375,
+    "wof:geomhash":"f226e4d2ba6b94bb344dde0c2888c60e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856933457
+        }
+    ],
+    "wof:id":856933457,
+    "wof:lastmodified":1464109375,
+    "wof:name":"Mediterranean Treasures",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.634865,
+    42.010746,
+    -91.634865,
+    42.010746
+],
+  "geometry": {"coordinates":[-91.634865,42.010746],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856998821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.604002,41.511236,-90.604002,41.511236",
+    "geom:latitude":41.511236,
+    "geom:longitude":-90.604002,
+    "iso:country":"US",
+    "sg:address":"2134 W River Dr",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 4446",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SpZ72N0Ppzl7LmlVGtcgL_41.511236_-90.604002@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112320,
+    "wof:geomhash":"c81b1e6eed5c344e9c9e6af59626427f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856998821
+        }
+    ],
+    "wof:id":856998821,
+    "wof:lastmodified":1464112320,
+    "wof:name":"Pet Pals",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -90.604002,
+    41.511236,
+    -90.604002,
+    41.511236
+],
+  "geometry": {"coordinates":[-90.60400199999999,41.511236],"type":"Point"}
+}

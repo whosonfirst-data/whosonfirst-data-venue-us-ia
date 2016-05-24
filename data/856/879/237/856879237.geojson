@@ -1,0 +1,73 @@
+{
+  "id": 856879237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.164326,41.660894,-94.164326,41.660894",
+    "geom:latitude":41.660894,
+    "geom:longitude":-94.164326,
+    "iso:country":"US",
+    "sg:address":"2583 G Ave",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 833 2354",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cuFCff69hnBNEQn34MnKm_41.660894_-94.164326@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107124,
+    "wof:geomhash":"525432ec4da57957c11952fb8ca2abb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856879237
+        }
+    ],
+    "wof:id":856879237,
+    "wof:lastmodified":1464107124,
+    "wof:name":"Benn H Nelson",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -94.164326,
+    41.660894,
+    -94.164326,
+    41.660894
+],
+  "geometry": {"coordinates":[-94.164326,41.660894],"type":"Point"}
+}

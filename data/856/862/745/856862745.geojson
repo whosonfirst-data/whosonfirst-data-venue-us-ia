@@ -1,0 +1,73 @@
+{
+  "id": 856862745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645246,41.983454,-91.645246,41.983454",
+    "geom:latitude":41.983454,
+    "geom:longitude":-91.645246,
+    "iso:country":"US",
+    "sg:address":"1739 4th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5389",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fQPRA5CGtWLd6t8GLTH8P_41.983454_-91.645246@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106107,
+    "wof:geomhash":"fc5ebd806fe65eb654613ca08d66c19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856862745
+        }
+    ],
+    "wof:id":856862745,
+    "wof:lastmodified":1464106107,
+    "wof:name":"Master Bath Refinishings",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.645246,
+    41.983454,
+    -91.645246,
+    41.983454
+],
+  "geometry": {"coordinates":[-91.645246,41.983454],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856803139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.636597,41.586103,-93.636597,41.586103",
+    "geom:latitude":41.586103,
+    "geom:longitude":-93.636597,
+    "iso:country":"US",
+    "sg:address":"1430 Linden St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 246 9991",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.scottysbodyshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uSKmCDldooqJahQBx0IcA_41.586103_-93.636597@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103328,
+    "wof:geomhash":"ffb7b3aa4b6e4692ea184cba001aae8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856803139
+        }
+    ],
+    "wof:id":856803139,
+    "wof:lastmodified":1464103328,
+    "wof:name":"Scotty's Body Shop",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.636597,
+    41.586103,
+    -93.636597,
+    41.586103
+],
+  "geometry": {"coordinates":[-93.63659699999999,41.586103],"type":"Point"}
+}

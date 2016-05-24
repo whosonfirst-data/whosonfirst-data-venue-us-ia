@@ -1,0 +1,73 @@
+{
+  "id": 856788447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662157,42.047047,-91.662157,42.047047",
+    "geom:latitude":42.047047,
+    "geom:longitude":-91.662157,
+    "iso:country":"US",
+    "sg:address":"6809 Arbor Ln NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 2855",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4avxcVI7untDMfJCVRPzOM_42.047047_-91.662157@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102725,
+    "wof:geomhash":"7530cb4e12fded4874bbc5f872fdff0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856788447
+        }
+    ],
+    "wof:id":856788447,
+    "wof:lastmodified":1464102725,
+    "wof:name":"Heartland Security Svc Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -91.662157,
+    42.047047,
+    -91.662157,
+    42.047047
+],
+  "geometry": {"coordinates":[-91.66215699999999,42.047047],"type":"Point"}
+}

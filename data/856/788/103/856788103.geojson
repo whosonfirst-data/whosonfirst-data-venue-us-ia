@@ -1,0 +1,73 @@
+{
+  "id": 856788103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.003522,41.791541,-94.003522,41.791541",
+    "geom:latitude":41.791541,
+    "geom:longitude":-94.003522,
+    "iso:country":"US",
+    "sg:address":"2429 170th St",
+    "sg:city":"Bouton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2397",
+    "sg:postcode":"50039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62QUepAfOCjiZ8S7doL98C_41.791541_-94.003522@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102711,
+    "wof:geomhash":"d0be6fbf8ea88d0f0ae86ff487614f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856788103
+        }
+    ],
+    "wof:id":856788103,
+    "wof:lastmodified":1464102711,
+    "wof:name":"Renshaw Farms Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.003522,
+    41.791541,
+    -94.003522,
+    41.791541
+],
+  "geometry": {"coordinates":[-94.003522,41.791541],"type":"Point"}
+}

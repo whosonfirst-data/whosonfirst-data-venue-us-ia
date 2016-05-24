@@ -1,0 +1,74 @@
+{
+  "id": 856997805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.018804,41.619113,-94.018804,41.619113",
+    "geom:latitude":41.619113,
+    "geom:longitude":-94.018804,
+    "iso:country":"US",
+    "sg:address":"207 N 9th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 5060",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "sg:website":"www.co.dallas.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39jCgAsW5Wcc6GIlzm3fcC_41.619113_-94.018804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112283,
+    "wof:geomhash":"7af1cdbae1537dbd664816d9b7f759c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856997805
+        }
+    ],
+    "wof:id":856997805,
+    "wof:lastmodified":1464112283,
+    "wof:name":"Dallas County Attorney",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -94.018804,
+    41.619113,
+    -94.018804,
+    41.619113
+],
+  "geometry": {"coordinates":[-94.018804,41.619113],"type":"Point"}
+}

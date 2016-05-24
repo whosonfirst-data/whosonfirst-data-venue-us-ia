@@ -1,0 +1,71 @@
+{
+  "id": 856849681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.363166,42.436324,-96.363166,42.436324",
+    "geom:latitude":42.436324,
+    "geom:longitude":-96.363166,
+    "iso:country":"US",
+    "sg:address":"3420 Singing Hills Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 2112",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2REpm7jmV97FfVcz7gFFi3_42.436324_-96.363166@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105502,
+    "wof:geomhash":"d496a7df7c667be765aac85e958713bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856849681
+        }
+    ],
+    "wof:id":856849681,
+    "wof:lastmodified":1464105502,
+    "wof:name":"Murphy USA",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.363166,
+    42.436324,
+    -96.363166,
+    42.436324
+],
+  "geometry": {"coordinates":[-96.36316600000001,42.436324],"type":"Point"}
+}

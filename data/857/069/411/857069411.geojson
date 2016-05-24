@@ -1,0 +1,67 @@
+{
+  "id": 857069411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629581,42.030169,-91.629581,42.030169",
+    "geom:latitude":42.030169,
+    "geom:longitude":-91.629581,
+    "iso:country":"US",
+    "sg:address":"5250 N Park Pl NE Ste 114",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 310 8148",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.coberlychiro.webs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LWVf9eMRdgqKfRPoatjj3_42.030169_-91.629581@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115303,
+    "wof:geomhash":"a9027cbd25112801abc945bd9c6dd6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069411
+        }
+    ],
+    "wof:id":857069411,
+    "wof:lastmodified":1464115303,
+    "wof:name":"Coberly Chiropractic",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.629581,
+    42.030169,
+    -91.629581,
+    42.030169
+],
+  "geometry": {"coordinates":[-91.629581,42.030169],"type":"Point"}
+}

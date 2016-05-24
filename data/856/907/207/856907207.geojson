@@ -1,0 +1,75 @@
+{
+  "id": 856907207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.796036,42.062329,-91.796036,42.062329",
+    "geom:latitude":42.062329,
+    "geom:longitude":-91.796036,
+    "iso:country":"US",
+    "sg:address":"125 Dry Creek Ct",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 851 2242",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O789jM4XPg2gkYR2VWzou_42.062329_-91.796036@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108309,
+    "wof:geomhash":"d6ce00b38f45fcc38f9e695543b0b2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856907207
+        }
+    ],
+    "wof:id":856907207,
+    "wof:lastmodified":1464108309,
+    "wof:name":"One Stop Auto Body",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.796036,
+    42.062329,
+    -91.796036,
+    42.062329
+],
+  "geometry": {"coordinates":[-91.796036,42.062329],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856798923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.76544,41.235013,-95.76544,41.235013",
+    "geom:latitude":41.235013,
+    "geom:longitude":-95.76544,
+    "iso:country":"US",
+    "sg:address":"15195 220th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7694",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aSvJqTqTgfv6oEN37eNY0_41.235013_-95.765440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103153,
+    "wof:geomhash":"3b375c687c2ab4383806ea29899fe45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856798923
+        }
+    ],
+    "wof:id":856798923,
+    "wof:lastmodified":1464103153,
+    "wof:name":"Driver Sewer & Water Svc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -95.76544,
+    41.235013,
+    -95.76544,
+    41.235013
+],
+  "geometry": {"coordinates":[-95.76544,41.235013],"type":"Point"}
+}

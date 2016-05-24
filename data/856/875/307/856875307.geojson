@@ -1,0 +1,75 @@
+{
+  "id": 856875307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.610438,41.590925,-93.610438,41.590925",
+    "geom:latitude":41.590925,
+    "geom:longitude":-93.610438,
+    "iso:country":"US",
+    "sg:address":"522 E Grand Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 246 8545",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XyKeGhP5yrA8gUQebr3t0_41.590925_-93.610438@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106957,
+    "wof:geomhash":"7f0a4b08847e32a749107f340393b41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896391,
+            "region_id":85688713,
+            "venue_id":856875307
+        }
+    ],
+    "wof:id":856875307,
+    "wof:lastmodified":1464106957,
+    "wof:name":"Bargain Basket",
+    "wof:parent_id":85896391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -93.610438,
+    41.590925,
+    -93.610438,
+    41.590925
+],
+  "geometry": {"coordinates":[-93.610438,41.590925],"type":"Point"}
+}

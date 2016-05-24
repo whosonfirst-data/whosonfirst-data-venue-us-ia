@@ -1,0 +1,75 @@
+{
+  "id": 856897693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.384622,42.494375,-96.384622,42.494375",
+    "geom:latitude":42.494375,
+    "geom:longitude":-96.384622,
+    "iso:country":"US",
+    "sg:address":"1921 4th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 3860",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NzEdcOWTCNn8vhewczXdP_42.494375_-96.384622@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107969,
+    "wof:geomhash":"06784c339b836da17d802f800e83f61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856897693
+        }
+    ],
+    "wof:id":856897693,
+    "wof:lastmodified":1464107969,
+    "wof:name":"Yanez's Auto Repair",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.384622,
+    42.494375,
+    -96.384622,
+    42.494375
+],
+  "geometry": {"coordinates":[-96.38462199999999,42.494375],"type":"Point"}
+}

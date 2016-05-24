@@ -1,0 +1,68 @@
+{
+  "id": 856994005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417896,42.502922,-96.417896,42.502922",
+    "geom:latitude":42.502922,
+    "geom:longitude":-96.417896,
+    "iso:country":"US",
+    "sg:address":"800 W 7th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 3937",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v2K5ufWyYzXf6xL2mAS28_42.502922_-96.417896@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112141,
+    "wof:geomhash":"bd827fda352279f4c58f6b38b84995f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856994005
+        }
+    ],
+    "wof:id":856994005,
+    "wof:lastmodified":1464112141,
+    "wof:name":"Dakao Restaurant",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.417896,
+    42.502922,
+    -96.417896,
+    42.502922
+],
+  "geometry": {"coordinates":[-96.417896,42.502922],"type":"Point"}
+}

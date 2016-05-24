@@ -1,0 +1,73 @@
+{
+  "id": 856941335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.62823,41.971771,-91.62823,41.971771",
+    "geom:latitude":41.971771,
+    "geom:longitude":-91.62823,
+    "iso:country":"US",
+    "sg:address":"1416 Memorial Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5499",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q38Y1cVyV0krkvHweNRtp_41.971771_-91.628230@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109735,
+    "wof:geomhash":"55228226d1d55f59a10bee0c6b26c578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856941335
+        }
+    ],
+    "wof:id":856941335,
+    "wof:lastmodified":1464109735,
+    "wof:name":"American Integrity Mortgage",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -91.62823,
+    41.971771,
+    -91.62823,
+    41.971771
+],
+  "geometry": {"coordinates":[-91.62823,41.971771],"type":"Point"}
+}

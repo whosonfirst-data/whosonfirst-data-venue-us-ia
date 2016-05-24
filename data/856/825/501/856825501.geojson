@@ -1,0 +1,77 @@
+{
+  "id": 856825501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.669808,41.983497,-91.669808,41.983497",
+    "geom:latitude":41.983497,
+    "geom:longitude":-91.669808,
+    "iso:country":"US",
+    "sg:address":"850 4th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0440",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "arrangement",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DXyYwqLG6Efe9nkaTk8Iw_41.983497_-91.669808@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104328,
+    "wof:geomhash":"623db970634253b036a6da7044b7dec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856825501
+        }
+    ],
+    "wof:id":856825501,
+    "wof:lastmodified":1464104328,
+    "wof:name":"Rail Intermodal Specialists",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "arrangement",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.669808,
+    41.983497,
+    -91.669808,
+    41.983497
+],
+  "geometry": {"coordinates":[-91.669808,41.983497],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856990795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.759271,42.004677,-91.759271,42.004677",
+    "geom:latitude":42.004677,
+    "geom:longitude":-91.759271,
+    "iso:country":"US",
+    "sg:address":"6602 Michael Rd",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8353",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVHPeafsWNFy5TdKHCEWM_42.004677_-91.759271@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112010,
+    "wof:geomhash":"ca573eaa9164036b78e79b315e30eb47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856990795
+        }
+    ],
+    "wof:id":856990795,
+    "wof:lastmodified":1464112010,
+    "wof:name":"Covingtons Corner Hair Design",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.759271,
+    42.004677,
+    -91.759271,
+    42.004677
+],
+  "geometry": {"coordinates":[-91.759271,42.004677],"type":"Point"}
+}

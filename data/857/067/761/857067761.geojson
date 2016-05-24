@@ -1,0 +1,81 @@
+{
+  "id": 857067761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663696,42.035099,-91.663696,42.035099",
+    "geom:latitude":42.035099,
+    "geom:longitude":-91.663696,
+    "iso:country":"US",
+    "sg:address":"1818 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3027",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.blairsferrypethospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16whObrxm5XPK4FHXylmgy_42.035099_-91.663696@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115214,
+    "wof:geomhash":"ba6f51fe20027945ab6cc2b83f761757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067761
+        }
+    ],
+    "wof:id":857067761,
+    "wof:lastmodified":1464115214,
+    "wof:name":"Lemme Charles Dr DVM",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.663696,
+    42.035099,
+    -91.663696,
+    42.035099
+],
+  "geometry": {"coordinates":[-91.663696,42.035099],"type":"Point"}
+}

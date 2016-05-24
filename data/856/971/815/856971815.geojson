@@ -1,0 +1,73 @@
+{
+  "id": 856971815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906083,41.255414,-95.906083,41.255414",
+    "geom:latitude":41.255414,
+    "geom:longitude":-95.906083,
+    "iso:country":"US",
+    "sg:address":"3611 7th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3221",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944293,
+        102086657,
+        85867053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PFyg2HSm8sl5dx46JoGCJ_41.255414_-95.906083@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111053,
+    "wof:geomhash":"c7680717f76eb1df1eb95ff25ee4a998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85867053,
+            "region_id":85688713,
+            "venue_id":856971815
+        }
+    ],
+    "wof:id":856971815,
+    "wof:lastmodified":1464111053,
+    "wof:name":"Kenny's Surveying",
+    "wof:parent_id":85867053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -95.906083,
+    41.255414,
+    -95.906083,
+    41.255414
+],
+  "geometry": {"coordinates":[-95.906083,41.255414],"type":"Point"}
+}

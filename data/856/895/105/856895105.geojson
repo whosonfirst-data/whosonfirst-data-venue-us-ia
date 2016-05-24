@@ -1,0 +1,73 @@
+{
+  "id": 856895105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.787333,42.475012,-95.787333,42.475012",
+    "geom:latitude":42.475012,
+    "geom:longitude":-95.787333,
+    "iso:country":"US",
+    "sg:address":"307 5th St",
+    "sg:city":"Correctionville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 372 4589",
+    "sg:postcode":"51016",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cVGdzeeyiJnsD8rt88p16_42.475012_-95.787333@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107868,
+    "wof:geomhash":"806e01f17882a8d196b034d661695884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856895105
+        }
+    ],
+    "wof:id":856895105,
+    "wof:lastmodified":1464107868,
+    "wof:name":"Joy Auto Supply Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -95.787333,
+    42.475012,
+    -95.787333,
+    42.475012
+],
+  "geometry": {"coordinates":[-95.787333,42.475012],"type":"Point"}
+}

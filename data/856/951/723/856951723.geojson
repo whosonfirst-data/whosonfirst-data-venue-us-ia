@@ -1,0 +1,75 @@
+{
+  "id": 856951723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.587556,42.031549,-91.587556,42.031549",
+    "geom:latitude":42.031549,
+    "geom:longitude":-91.587556,
+    "iso:country":"US",
+    "sg:address":"2442 5th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 3845",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bGGPnvUt2Sr6UBDCvERuC_42.031549_-91.587556@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110159,
+    "wof:geomhash":"8705c172594751c9f38adcbc964f4c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856951723
+        }
+    ],
+    "wof:id":856951723,
+    "wof:lastmodified":1464110159,
+    "wof:name":"Caldemeyer's Car Clean",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -91.587556,
+    42.031549,
+    -91.587556,
+    42.031549
+],
+  "geometry": {"coordinates":[-91.58755600000001,42.031549],"type":"Point"}
+}

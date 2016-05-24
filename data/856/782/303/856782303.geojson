@@ -1,0 +1,85 @@
+{
+  "id": 856782303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672485,41.975584,-91.672485,41.975584",
+    "geom:latitude":41.975584,
+    "geom:longitude":-91.672485,
+    "iso:country":"US",
+    "sg:address":"100 1st St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 5100",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0boB8jrIphxUX7vjPzQQen_41.975584_-91.672485@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102486,
+    "wof:geomhash":"5bcc5b5c83c928953df2fdb62a742736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856782303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856782303
+        }
+    ],
+    "wof:id":856782303,
+    "wof:lastmodified":1464102486,
+    "wof:name":"INSTITUTE-Social & Economic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -91.672485,
+    41.975584,
+    -91.672485,
+    41.975584
+],
+  "geometry": {"coordinates":[-91.67248499999999,41.975584],"type":"Point"}
+}

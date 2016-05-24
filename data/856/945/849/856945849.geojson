@@ -1,0 +1,71 @@
+{
+  "id": 856945849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.77572,41.912857,-91.77572,41.912857",
+    "geom:latitude":41.912857,
+    "geom:longitude":-91.77572,
+    "iso:country":"US",
+    "sg:address":"555 E Southview Rd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2260",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c5FIMqbwp9JCypc54PtjU_41.912857_-91.775720@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109915,
+    "wof:geomhash":"2380d7b9892870b37220d9560f8c77ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856945849
+        }
+    ],
+    "wof:id":856945849,
+    "wof:lastmodified":1464109915,
+    "wof:name":"Fairfax Greenhouses",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -91.77572,
+    41.912857,
+    -91.77572,
+    41.912857
+],
+  "geometry": {"coordinates":[-91.77572000000001,41.912857],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857070523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672798,41.975498,-91.672798,41.975498",
+    "geom:latitude":41.975498,
+    "geom:longitude":-91.672798,
+    "iso:country":"US",
+    "sg:address":"106 2nd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0283",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R9rWZlMhuL6pJ3v7OEInL_41.975498_-91.672798@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115359,
+    "wof:geomhash":"5d28c9826c13d576e74f4c96c192ce3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857070523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857070523
+        }
+    ],
+    "wof:id":857070523,
+    "wof:lastmodified":1464115359,
+    "wof:name":"Ilten's Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -91.672798,
+    41.975498,
+    -91.672798,
+    41.975498
+],
+  "geometry": {"coordinates":[-91.672798,41.975498],"type":"Point"}
+}

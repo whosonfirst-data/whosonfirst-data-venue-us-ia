@@ -1,0 +1,75 @@
+{
+  "id": 857070319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656922,41.924834,-91.656922,41.924834",
+    "geom:latitude":41.924834,
+    "geom:longitude":-91.656922,
+    "iso:country":"US",
+    "sg:address":"5400 Kirkwood Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 298 3406",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c59tPULAxA3UAwDDv11yq_41.924834_-91.656922@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115348,
+    "wof:geomhash":"1a5e8ad044f383db068e57510789c12e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070319
+        }
+    ],
+    "wof:id":857070319,
+    "wof:lastmodified":1464115348,
+    "wof:name":"Prairie Edge",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.656922,
+    41.924834,
+    -91.656922,
+    41.924834
+],
+  "geometry": {"coordinates":[-91.65692199999999,41.924834],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857019011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.459022,42.502483,-96.459022,42.502483",
+    "geom:latitude":42.502483,
+    "geom:longitude":-96.459022,
+    "iso:country":"US",
+    "sg:address":"507 Manchester Cir",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 251 9185",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JIoU5qepPtTeTVg5zGw01_42.502483_-96.459022@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113153,
+    "wof:geomhash":"5163c06fa3317cf1b837dd39eae905a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":857019011
+        }
+    ],
+    "wof:id":857019011,
+    "wof:lastmodified":1464113153,
+    "wof:name":"Expert Cleaning Inc",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.459022,
+    42.502483,
+    -96.459022,
+    42.502483
+],
+  "geometry": {"coordinates":[-96.459022,42.502483],"type":"Point"}
+}

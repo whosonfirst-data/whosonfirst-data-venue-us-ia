@@ -1,0 +1,74 @@
+{
+  "id": 857057107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.581184,41.711903,-93.581184,41.711903",
+    "geom:latitude":41.711903,
+    "geom:longitude":-93.581184,
+    "iso:country":"US",
+    "sg:address":"1745 SE Delaware Ave",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/douglas/118804-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 963 9253",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P83Lffpg4Vkh1XsGMIU92_41.711903_-93.581184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114788,
+    "wof:geomhash":"86dc33924975a3b22a673de557807af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896319,
+            "region_id":85688713,
+            "venue_id":857057107
+        }
+    ],
+    "wof:id":857057107,
+    "wof:lastmodified":1464114788,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85896319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -93.581184,
+    41.711903,
+    -93.581184,
+    41.711903
+],
+  "geometry": {"coordinates":[-93.58118399999999,41.711903],"type":"Point"}
+}

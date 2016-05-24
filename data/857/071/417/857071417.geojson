@@ -1,0 +1,67 @@
+{
+  "id": 857071417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.701033,42.034141,-91.701033,42.034141",
+    "geom:latitude":42.034141,
+    "geom:longitude":-91.701033,
+    "iso:country":"US",
+    "sg:address":"5555 Edgewood Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 7558",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:website":"www.caseys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fAHp2fY7o7IMI5kCjXpzi_42.034141_-91.701033@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115394,
+    "wof:geomhash":"7d47f743191f14c792e6a31cae335c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857071417
+        }
+    ],
+    "wof:id":857071417,
+    "wof:lastmodified":1464115394,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.701033,
+    42.034141,
+    -91.701033,
+    42.034141
+],
+  "geometry": {"coordinates":[-91.701033,42.034141],"type":"Point"}
+}

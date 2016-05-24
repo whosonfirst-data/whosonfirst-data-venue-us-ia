@@ -1,0 +1,71 @@
+{
+  "id": 856960157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.879333,41.265424,-95.879333,41.265424",
+    "geom:latitude":41.265424,
+    "geom:longitude":-95.879333,
+    "iso:country":"US",
+    "sg:address":"2324 Ave D",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3713",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tEX1w8abOu7tkOrBCmlKd_41.265424_-95.879333@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110550,
+    "wof:geomhash":"0f46f6daaf35b9dc419aae7068fad4d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856960157
+        }
+    ],
+    "wof:id":856960157,
+    "wof:lastmodified":1464110550,
+    "wof:name":"Anderson Painting",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.879333,
+    41.265424,
+    -95.879333,
+    41.265424
+],
+  "geometry": {"coordinates":[-95.879333,41.265424],"type":"Point"}
+}

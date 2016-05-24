@@ -1,0 +1,72 @@
+{
+  "id": 857067663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658302,42.029499,-91.658302,42.029499",
+    "geom:latitude":42.029499,
+    "geom:longitude":-91.658302,
+    "iso:country":"US",
+    "sg:address":"5040 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 8400",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.crbudgetcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7No4B57YpZY0YIHs5xx78o_42.029499_-91.658302@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115210,
+    "wof:geomhash":"3f0373154858de236cf72e201634801a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857067663
+        }
+    ],
+    "wof:id":857067663,
+    "wof:lastmodified":1464115210,
+    "wof:name":"Budget Car & Truck Rental",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -91.658302,
+    42.029499,
+    -91.658302,
+    42.029499
+],
+  "geometry": {"coordinates":[-91.65830200000001,42.029499],"type":"Point"}
+}

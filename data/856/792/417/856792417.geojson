@@ -1,0 +1,73 @@
+{
+  "id": 856792417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658202,42.056622,-91.658202,42.056622",
+    "geom:latitude":42.056622,
+    "geom:longitude":-91.658202,
+    "iso:country":"US",
+    "sg:address":"8300 Council St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 5173",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S5nQlEE12ybRN3ntJXjek_42.056622_-91.658202@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102876,
+    "wof:geomhash":"7ecea82ed98eec03a8512e4cf9d4fee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856792417
+        }
+    ],
+    "wof:id":856792417,
+    "wof:lastmodified":1464102876,
+    "wof:name":"Simplistic Treasures",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.658202,
+    42.056622,
+    -91.658202,
+    42.056622
+],
+  "geometry": {"coordinates":[-91.658202,42.056622],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856807763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.393538,42.49523,-96.393538,42.49523",
+    "geom:latitude":42.49523,
+    "geom:longitude":-96.393538,
+    "iso:country":"US",
+    "sg:address":"409 Floyd Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 7767",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PRfCP1c7cEfJddU1j41Pm_42.495230_-96.393538@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103522,
+    "wof:geomhash":"9bd1255e4b6358ad913da3514fd12561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856807763
+        }
+    ],
+    "wof:id":856807763,
+    "wof:lastmodified":1464103522,
+    "wof:name":"Sign Pro",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.393538,
+    42.49523,
+    -96.393538,
+    42.49523
+],
+  "geometry": {"coordinates":[-96.39353800000001,42.49523],"type":"Point"}
+}

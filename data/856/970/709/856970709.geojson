@@ -1,0 +1,71 @@
+{
+  "id": 856970709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867721,42.545237,-95.867721,42.545237",
+    "geom:latitude":42.545237,
+    "geom:longitude":-95.867721,
+    "iso:country":"US",
+    "sg:address":"211 Main St",
+    "sg:city":"Pierson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 375 5316",
+    "sg:postcode":"51048",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nm8py0WhHWAJHDjxgZmPH_42.545237_-95.867721@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111011,
+    "wof:geomhash":"ef0709831422efdf230dce09a249c1e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856970709
+        }
+    ],
+    "wof:id":856970709,
+    "wof:lastmodified":1464111011,
+    "wof:name":"Schieuer Woodworks",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -95.867721,
+    42.545237,
+    -95.867721,
+    42.545237
+],
+  "geometry": {"coordinates":[-95.867721,42.545237],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856967297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.885385,41.602259,-93.885385,41.602259",
+    "geom:latitude":41.602259,
+    "geom:longitude":-93.885385,
+    "iso:country":"US",
+    "sg:address":"1505 6th St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 5247",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04dC7YwHfwaqpsQyv4PDQs_41.602259_-93.885385@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110841,
+    "wof:geomhash":"87b1f3ba32277bb5c9508e85f734bccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856967297
+        }
+    ],
+    "wof:id":856967297,
+    "wof:lastmodified":1464110841,
+    "wof:name":"Sugar Creek Golf Course",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -93.885385,
+    41.602259,
+    -93.885385,
+    41.602259
+],
+  "geometry": {"coordinates":[-93.885385,41.602259],"type":"Point"}
+}

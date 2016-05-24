@@ -1,0 +1,73 @@
+{
+  "id": 856802143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627872,41.94329,-91.627872,41.94329",
+    "geom:latitude":41.94329,
+    "geom:longitude":-91.627872,
+    "iso:country":"US",
+    "sg:address":"2665 Old River Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 6474",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GKKfeiCOvQnDaN2BMUSsC_41.943290_-91.627872@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103277,
+    "wof:geomhash":"bc498444c17f0d7dd768c22f3eb23f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856802143
+        }
+    ],
+    "wof:id":856802143,
+    "wof:lastmodified":1464103277,
+    "wof:name":"Anne Duffield Construction Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.627872,
+    41.94329,
+    -91.627872,
+    41.94329
+],
+  "geometry": {"coordinates":[-91.627872,41.94329],"type":"Point"}
+}

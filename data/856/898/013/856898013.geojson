@@ -1,0 +1,66 @@
+{
+  "id": 856898013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.357323,42.408171,-92.357323,42.408171",
+    "geom:latitude":42.408171,
+    "geom:longitude":-92.357323,
+    "iso:country":"US",
+    "sg:address":"7438 Kimball Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 296 3944",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGAd3mfXf4xm5YYtyyk13_42.408171_-92.357323@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107981,
+    "wof:geomhash":"1dfb30aceaf940dc14c1734c8334021b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856898013
+        }
+    ],
+    "wof:id":856898013,
+    "wof:lastmodified":1464107981,
+    "wof:name":"Eagle Gun Shop",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.357323,
+    42.408171,
+    -92.357323,
+    42.408171
+],
+  "geometry": {"coordinates":[-92.35732299999999,42.408171],"type":"Point"}
+}

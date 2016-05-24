@@ -1,0 +1,83 @@
+{
+  "id": 857011661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.671537,41.971562,-91.671537,41.971562",
+    "geom:latitude":41.971562,
+    "geom:longitude":-91.671537,
+    "iso:country":"US",
+    "sg:address":"524 2nd St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1264",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WhvskCPrytN7fek9TS1cS_41.971562_-91.671537@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112848,
+    "wof:geomhash":"3a06ab878cca46a84e87ce54b6d84efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857011661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857011661
+        }
+    ],
+    "wof:id":857011661,
+    "wof:lastmodified":1464112848,
+    "wof:name":"Sizzrhandz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.671537,
+    41.971562,
+    -91.671537,
+    41.971562
+],
+  "geometry": {"coordinates":[-91.671537,41.971562],"type":"Point"}
+}

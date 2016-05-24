@@ -1,0 +1,71 @@
+{
+  "id": 857020643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633297,42.007208,-91.633297,42.007208",
+    "geom:latitude":42.007208,
+    "geom:longitude":-91.633297,
+    "iso:country":"US",
+    "sg:address":"137 30th Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9055",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e290BKp1VqWLylToK9HpF_42.007208_-91.633297@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113214,
+    "wof:geomhash":"d48b2fdd895b9aae59b381d4747aa91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857020643
+        }
+    ],
+    "wof:id":857020643,
+    "wof:lastmodified":1464113214,
+    "wof:name":"Alpha Omega Aircrafters Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft"
+    ]
+},
+  "bbox": [
+    -91.633297,
+    42.007208,
+    -91.633297,
+    42.007208
+],
+  "geometry": {"coordinates":[-91.633297,42.007208],"type":"Point"}
+}

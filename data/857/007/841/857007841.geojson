@@ -1,0 +1,75 @@
+{
+  "id": 857007841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.587629,41.731941,-93.587629,41.731941",
+    "geom:latitude":41.731941,
+    "geom:longitude":-93.587629,
+    "iso:country":"US",
+    "sg:address":"910 E 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 965 2300",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1guN61RvUdScD2VQbnqMM1_41.731941_-93.587629@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112691,
+    "wof:geomhash":"2451224f3618eaaeec1c5500166f43d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":857007841
+        }
+    ],
+    "wof:id":857007841,
+    "wof:lastmodified":1464112691,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -93.587629,
+    41.731941,
+    -93.587629,
+    41.731941
+],
+  "geometry": {"coordinates":[-93.58762900000001,41.731941],"type":"Point"}
+}

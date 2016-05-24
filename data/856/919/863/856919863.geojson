@@ -1,0 +1,73 @@
+{
+  "id": 856919863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.575128,41.292898,-95.575128,41.292898",
+    "geom:latitude":41.292898,
+    "geom:longitude":-95.575128,
+    "iso:country":"US",
+    "sg:address":"19236 320th St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2166",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BaipbX84z2l8LZObyZDS7_41.292898_-95.575128@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108804,
+    "wof:geomhash":"3157567e8122f889a239cf6defff479e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856919863
+        }
+    ],
+    "wof:id":856919863,
+    "wof:lastmodified":1464108804,
+    "wof:name":"Wiese Mechanical Inc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.575128,
+    41.292898,
+    -95.575128,
+    41.292898
+],
+  "geometry": {"coordinates":[-95.57512800000001,41.292898],"type":"Point"}
+}

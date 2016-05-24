@@ -1,0 +1,71 @@
+{
+  "id": 856840881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.017317,41.614462,-94.017317,41.614462",
+    "geom:latitude":41.614462,
+    "geom:longitude":-94.017317,
+    "iso:country":"US",
+    "sg:address":"718 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4001",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T0n3OPYEZ3g9Kuls6vsYW_41.614462_-94.017317@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105036,
+    "wof:geomhash":"a7c827b6793a90eb6aa355ef639048f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856840881
+        }
+    ],
+    "wof:id":856840881,
+    "wof:lastmodified":1464105036,
+    "wof:name":"Fuller Standard Svc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -94.017317,
+    41.614462,
+    -94.017317,
+    41.614462
+],
+  "geometry": {"coordinates":[-94.01731700000001,41.614462],"type":"Point"}
+}

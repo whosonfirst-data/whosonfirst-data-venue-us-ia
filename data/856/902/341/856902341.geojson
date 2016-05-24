@@ -1,0 +1,75 @@
+{
+  "id": 856902341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901931,41.369327,-95.901931,41.369327",
+    "geom:latitude":41.369327,
+    "geom:longitude":-95.901931,
+    "iso:country":"US",
+    "sg:address":"14388 Lace Ln",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 9373",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "grain",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u3IdOnMY6YWz12hRPF5ET_41.369327_-95.901931@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108136,
+    "wof:geomhash":"262e0a480bf39c91d834966c157a8609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872517,
+            "region_id":85688563,
+            "venue_id":856902341
+        }
+    ],
+    "wof:id":856902341,
+    "wof:lastmodified":1464108136,
+    "wof:name":"Cyclone Cattle Grain Co",
+    "wof:parent_id":85872517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "grain",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -95.901931,
+    41.369327,
+    -95.901931,
+    41.369327
+],
+  "geometry": {"coordinates":[-95.901931,41.369327],"type":"Point"}
+}

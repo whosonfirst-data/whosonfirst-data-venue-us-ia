@@ -1,0 +1,73 @@
+{
+  "id": 856924225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.958543,41.684434,-93.958543,41.684434",
+    "geom:latitude":41.684434,
+    "geom:longitude":-93.958543,
+    "iso:country":"US",
+    "sg:address":"1107 Walnut St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 4990",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50f60h79IhpP6SudkjGYX7_41.684434_-93.958543@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109011,
+    "wof:geomhash":"af1eeed58e8dd90d01fce0f9cd1e87d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856924225
+        }
+    ],
+    "wof:id":856924225,
+    "wof:lastmodified":1464109011,
+    "wof:name":"J D Turner Golf Group",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "golf"
+    ]
+},
+  "bbox": [
+    -93.958543,
+    41.684434,
+    -93.958543,
+    41.684434
+],
+  "geometry": {"coordinates":[-93.95854300000001,41.684434],"type":"Point"}
+}

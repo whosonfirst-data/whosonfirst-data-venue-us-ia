@@ -1,0 +1,71 @@
+{
+  "id": 856857803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.595279,41.64786,-91.595279,41.64786",
+    "geom:latitude":41.64786,
+    "geom:longitude":-91.595279,
+    "iso:country":"US",
+    "sg:address":"1104 Goldenrod Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 331 4873",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fs6ZwECHGJo5aDBQncFBi_41.647860_-91.595279@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105872,
+    "wof:geomhash":"4bdba77c46ffa2b71052bf741a87aea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":856857803
+        }
+    ],
+    "wof:id":856857803,
+    "wof:lastmodified":1464105872,
+    "wof:name":"Artisan Custom Homes",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.595279,
+    41.64786,
+    -91.595279,
+    41.64786
+],
+  "geometry": {"coordinates":[-91.595279,41.64786],"type":"Point"}
+}

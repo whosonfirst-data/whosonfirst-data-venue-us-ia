@@ -1,0 +1,73 @@
+{
+  "id": 857030663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.821765,41.26104,-95.821765,41.26104",
+    "geom:latitude":41.26104,
+    "geom:longitude":-95.821765,
+    "iso:country":"US",
+    "sg:address":"400 Gleason Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4517",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1scWSdMDMcaYI1uD1BGEyK_41.261040_-95.821765@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113682,
+    "wof:geomhash":"e16c6216c593237deb36c727108ae7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857030663
+        }
+    ],
+    "wof:id":857030663,
+    "wof:lastmodified":1464113682,
+    "wof:name":"KMA Radio Station",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -95.821765,
+    41.26104,
+    -95.821765,
+    41.26104
+],
+  "geometry": {"coordinates":[-95.821765,41.26104],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856858191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.409762,41.951116,-91.409762,41.951116",
+    "geom:latitude":41.951116,
+    "geom:longitude":-91.409762,
+    "iso:country":"US",
+    "sg:address":"1446 Ink Rd",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6615",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TBh6PIEaCVZbZ5AkVDeq6_41.951116_-91.409762@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105888,
+    "wof:geomhash":"1b634f54bf62b1250d9a39f3dccba4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856858191
+        }
+    ],
+    "wof:id":856858191,
+    "wof:lastmodified":1464105888,
+    "wof:name":"Lynch Trenching",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.409762,
+    41.951116,
+    -91.409762,
+    41.951116
+],
+  "geometry": {"coordinates":[-91.409762,41.951116],"type":"Point"}
+}

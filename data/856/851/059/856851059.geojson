@@ -1,0 +1,71 @@
+{
+  "id": 856851059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.824442,41.760988,-93.824442,41.760988",
+    "geom:latitude":41.760988,
+    "geom:longitude":-93.824442,
+    "iso:country":"US",
+    "sg:address":"1906 Sycamore St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2239",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oGGOC5dgpgg8DxdNwAVtS_41.760988_-93.824442@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105583,
+    "wof:geomhash":"aa44b826fd51459c5b06653b8835f736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856851059
+        }
+    ],
+    "wof:id":856851059,
+    "wof:lastmodified":1464105583,
+    "wof:name":"Assumption Church",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.824442,
+    41.760988,
+    -93.824442,
+    41.760988
+],
+  "geometry": {"coordinates":[-93.824442,41.760988],"type":"Point"}
+}

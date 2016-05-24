@@ -1,0 +1,78 @@
+{
+  "id": 857060833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540167,41.650003,-91.540167,41.650003",
+    "geom:latitude":41.650003,
+    "geom:longitude":-91.540167,
+    "iso:country":"US",
+    "sg:address":"840 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/180892-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 4282",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XTiKtfPPMCLosHjJwAyXX_41.649433_-91.540075@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114929,
+    "wof:geomhash":"2f5d196f40d0343cc6357b61f65a95fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857060833
+        }
+    ],
+    "wof:id":857060833,
+    "wof:lastmodified":1464114929,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -91.540167,
+    41.650003,
+    -91.540167,
+    41.650003
+],
+  "geometry": {"coordinates":[-91.540167,41.650003],"type":"Point"}
+}

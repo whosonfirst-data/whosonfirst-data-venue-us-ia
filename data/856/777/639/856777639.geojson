@@ -1,0 +1,75 @@
+{
+  "id": 856777639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.520191,41.581519,-93.520191,41.581519",
+    "geom:latitude":41.581519,
+    "geom:longitude":-93.520191,
+    "iso:country":"US",
+    "sg:address":"1100 S Pleasant Hill Blvd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 0126",
+    "sg:postcode":"50327",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EXMGpGZnEN1hCR8FS69rt_41.581519_-93.520191@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102381,
+    "wof:geomhash":"d910d56979b8271f5105e4a4ffe803a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856777639
+        }
+    ],
+    "wof:id":856777639,
+    "wof:lastmodified":1464102381,
+    "wof:name":"Peters Lawn & Landscaping",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.520191,
+    41.581519,
+    -93.520191,
+    41.581519
+],
+  "geometry": {"coordinates":[-93.520191,41.581519],"type":"Point"}
+}

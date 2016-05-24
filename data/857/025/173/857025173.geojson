@@ -1,0 +1,68 @@
+{
+  "id": 857025173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679321,41.892354,-91.679321,41.892354",
+    "geom:latitude":41.892354,
+    "geom:longitude":-91.679321,
+    "iso:country":"US",
+    "sg:address":"9100 Atlantic Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3789",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rqD3Q3L4FBGuCSpJFEvB3_41.892354_-91.679321@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113423,
+    "wof:geomhash":"499214eebbef499eba25a8da0e72a816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857025173
+        }
+    ],
+    "wof:id":857025173,
+    "wof:lastmodified":1464113423,
+    "wof:name":"Howard Johnson",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.679321,
+    41.892354,
+    -91.679321,
+    41.892354
+],
+  "geometry": {"coordinates":[-91.679321,41.892354],"type":"Point"}
+}

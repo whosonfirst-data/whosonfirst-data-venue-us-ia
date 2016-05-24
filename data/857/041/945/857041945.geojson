@@ -1,0 +1,75 @@
+{
+  "id": 857041945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645699,42.035,-91.645699,42.035",
+    "geom:latitude":42.035,
+    "geom:longitude":-91.645699,
+    "iso:country":"US",
+    "sg:address":"799 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0030",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dwRSwZ6fTJ8ALQEzYfxoA_42.035111_-91.646376@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114152,
+    "wof:geomhash":"690d1b3cd122a57cb85b43602c95c37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857041945
+        }
+    ],
+    "wof:id":857041945,
+    "wof:lastmodified":1464114152,
+    "wof:name":"Boubin Brake & Muffler Shop",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.645699,
+    42.035,
+    -91.645699,
+    42.035
+],
+  "geometry": {"coordinates":[-91.64569899999999,42.035],"type":"Point"}
+}

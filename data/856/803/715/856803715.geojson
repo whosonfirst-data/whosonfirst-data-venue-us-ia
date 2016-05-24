@@ -1,0 +1,66 @@
+{
+  "id": 856803715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.828994,41.280453,-95.828994,41.280453",
+    "geom:latitude":41.280453,
+    "geom:longitude":-95.828994,
+    "iso:country":"US",
+    "sg:address":"20 E Orchard Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5280",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vs0Sdzbv2yULjtJ3pxWuC_41.280453_-95.828994@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103349,
+    "wof:geomhash":"3253d41e817c07183d7ac1c3c4542185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856803715
+        }
+    ],
+    "wof:id":856803715,
+    "wof:lastmodified":1464103349,
+    "wof:name":"Zinger Upholstery",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.828994,
+    41.280453,
+    -95.828994,
+    41.280453
+],
+  "geometry": {"coordinates":[-95.82899399999999,41.280453],"type":"Point"}
+}

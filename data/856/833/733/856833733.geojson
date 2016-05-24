@@ -1,0 +1,74 @@
+{
+  "id": 856833733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673897,41.9255,-91.673897,41.9255",
+    "geom:latitude":41.9255,
+    "geom:longitude":-91.673897,
+    "iso:country":"US",
+    "sg:address":"325 Waconia Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5037",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing"
+    ],
+    "sg:website":"www.abcsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08pB39SfgcngOWZGg6omsy_41.925500_-91.673897@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104691,
+    "wof:geomhash":"fa7f1bdd19cf9a946716ad36983cc2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856833733
+        }
+    ],
+    "wof:id":856833733,
+    "wof:lastmodified":1464104691,
+    "wof:name":"ABC Supply Co",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing"
+    ]
+},
+  "bbox": [
+    -91.673897,
+    41.9255,
+    -91.673897,
+    41.9255
+],
+  "geometry": {"coordinates":[-91.673897,41.9255],"type":"Point"}
+}

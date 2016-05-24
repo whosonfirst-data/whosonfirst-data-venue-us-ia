@@ -1,0 +1,72 @@
+{
+  "id": 857063441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.826922,41.244133,-95.826922,41.244133",
+    "geom:latitude":41.244133,
+    "geom:longitude":-95.826922,
+    "iso:country":"US",
+    "sg:address":"1751 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 8144",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.charleys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AYQTqGtGJyourGyXH3bUH_41.244133_-95.826922@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115036,
+    "wof:geomhash":"64cbbed9e1b3815f111e8c2a787c1c96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063441
+        }
+    ],
+    "wof:id":857063441,
+    "wof:lastmodified":1464115036,
+    "wof:name":"Charley's Grilled Subs",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.826922,
+    41.244133,
+    -95.826922,
+    41.244133
+],
+  "geometry": {"coordinates":[-95.826922,41.244133],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857053681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716139,41.973238,-91.716139,41.973238",
+    "geom:latitude":41.973238,
+    "geom:longitude":-91.716139,
+    "iso:country":"US",
+    "sg:address":"212 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0241",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6myCkB0wT6qAsZcrRnt4Dk_41.973237_-91.716075@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114645,
+    "wof:geomhash":"5ab1a487c3e9425d4a37af7257b94d91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857053681
+        }
+    ],
+    "wof:id":857053681,
+    "wof:lastmodified":1464114645,
+    "wof:name":"AAA Lending",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -91.716139,
+    41.973238,
+    -91.716139,
+    41.973238
+],
+  "geometry": {"coordinates":[-91.716139,41.973238],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856969859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.421711,41.457689,-93.421711,41.457689",
+    "geom:latitude":41.457689,
+    "geom:longitude":-93.421711,
+    "iso:country":"US",
+    "sg:address":"2038 Delaware St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0049",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jDjkM3OdObngs4y9BeGHY_41.457689_-93.421711@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110968,
+    "wof:geomhash":"ed15e7686daa969890245998392a5a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856969859
+        }
+    ],
+    "wof:id":856969859,
+    "wof:lastmodified":1464110968,
+    "wof:name":"Pat Bruce",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.421711,
+    41.457689,
+    -93.421711,
+    41.457689
+],
+  "geometry": {"coordinates":[-93.421711,41.457689],"type":"Point"}
+}

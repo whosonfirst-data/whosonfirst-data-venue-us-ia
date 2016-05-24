@@ -1,0 +1,68 @@
+{
+  "id": 857026091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.532657,41.652319,-91.532657,41.652319",
+    "geom:latitude":41.652319,
+    "geom:longitude":-91.532657,
+    "iso:country":"US",
+    "sg:address":"206 Lafayette St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 7035",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J672fx930JZeaRroNxLPc_41.652319_-91.532657@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113461,
+    "wof:geomhash":"92c80a2b81f663e4bdae02609d2d3dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857026091
+        }
+    ],
+    "wof:id":857026091,
+    "wof:lastmodified":1464113461,
+    "wof:name":"Public Access Television",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.532657,
+    41.652319,
+    -91.532657,
+    41.652319
+],
+  "geometry": {"coordinates":[-91.532657,41.652319],"type":"Point"}
+}

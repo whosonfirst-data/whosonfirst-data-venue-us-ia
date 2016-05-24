@@ -1,0 +1,73 @@
+{
+  "id": 856839899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.405015,42.508846,-96.405015,42.508846",
+    "geom:latitude":42.508846,
+    "geom:longitude":-96.405015,
+    "iso:country":"US",
+    "sg:address":"1730 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0943",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fLpLTpnIfBPbLXU3ziUNI_42.508846_-96.405015@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105001,
+    "wof:geomhash":"57dec1f3d824b117b99a16ebdc93ed07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856839899
+        }
+    ],
+    "wof:id":856839899,
+    "wof:lastmodified":1464105001,
+    "wof:name":"Fareway Stores Inc",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.405015,
+    42.508846,
+    -96.405015,
+    42.508846
+],
+  "geometry": {"coordinates":[-96.40501500000001,42.508846],"type":"Point"}
+}

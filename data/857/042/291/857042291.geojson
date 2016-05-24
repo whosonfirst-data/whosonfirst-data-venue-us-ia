@@ -1,0 +1,73 @@
+{
+  "id": 857042291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661797,41.981098,-91.661797,41.981098",
+    "geom:latitude":41.981098,
+    "geom:longitude":-91.661797,
+    "iso:country":"US",
+    "sg:address":"702 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7219",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hPnh34SDFPMA2kbThimoO_41.981718_-91.661217@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114168,
+    "wof:geomhash":"2dcd37a7e343fe8f4ee15807b19b7b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857042291
+        }
+    ],
+    "wof:id":857042291,
+    "wof:lastmodified":1464114168,
+    "wof:name":"D & L Auto Service",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.661797,
+    41.981098,
+    -91.661797,
+    41.981098
+],
+  "geometry": {"coordinates":[-91.66179700000001,41.981098],"type":"Point"}
+}

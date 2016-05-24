@@ -1,0 +1,73 @@
+{
+  "id": 856870755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.640148,41.987459,-91.640148,41.987459",
+    "geom:latitude":41.987459,
+    "geom:longitude":-91.640148,
+    "iso:country":"US",
+    "sg:address":"348 20th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2259",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dairy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l96VFTHTTRcfJZZRMi1KF_41.987459_-91.640148@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106627,
+    "wof:geomhash":"586ecc370b9fb5ae874ef0e7f2797145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856870755
+        }
+    ],
+    "wof:id":856870755,
+    "wof:lastmodified":1464106627,
+    "wof:name":"Liquid Sampling Systems",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dairy"
+    ]
+},
+  "bbox": [
+    -91.640148,
+    41.987459,
+    -91.640148,
+    41.987459
+],
+  "geometry": {"coordinates":[-91.640148,41.987459],"type":"Point"}
+}

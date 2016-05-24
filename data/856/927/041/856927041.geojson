@@ -1,0 +1,71 @@
+{
+  "id": 856927041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.438297,41.287156,-93.438297,41.287156",
+    "geom:latitude":41.287156,
+    "geom:longitude":-93.438297,
+    "iso:country":"US",
+    "sg:address":"110 Main St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6943",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12b5vf4x5gj6OE6XJDMjUP_41.287156_-93.438297@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109126,
+    "wof:geomhash":"3a23ef971f85c02caa82a272e2527121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856927041
+        }
+    ],
+    "wof:id":856927041,
+    "wof:lastmodified":1464109126,
+    "wof:name":"S R Rodger's Electric & Plmbng",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.438297,
+    41.287156,
+    -93.438297,
+    41.287156
+],
+  "geometry": {"coordinates":[-93.43829700000001,41.287156],"type":"Point"}
+}

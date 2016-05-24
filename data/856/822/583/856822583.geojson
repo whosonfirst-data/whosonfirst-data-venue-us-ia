@@ -1,0 +1,71 @@
+{
+  "id": 856822583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.683,41.329063,-95.683,41.329063",
+    "geom:latitude":41.329063,
+    "geom:longitude":-95.683,
+    "iso:country":"US",
+    "sg:address":"321 Main St",
+    "sg:city":"Mc Clelland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2182",
+    "sg:postcode":"51548",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CLLBsZCqhXKcAMfatCeKT_41.329063_-95.683000@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104210,
+    "wof:geomhash":"34033aacddabdc4530bad92f5998e188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856822583
+        }
+    ],
+    "wof:id":856822583,
+    "wof:lastmodified":1464104210,
+    "wof:name":"Home Detailers",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.683,
+    41.329063,
+    -95.683,
+    41.329063
+],
+  "geometry": {"coordinates":[-95.68300000000001,41.329063],"type":"Point"}
+}

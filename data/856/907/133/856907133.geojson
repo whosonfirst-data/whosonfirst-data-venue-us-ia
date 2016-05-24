@@ -1,0 +1,73 @@
+{
+  "id": 856907133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619898,41.638202,-93.619898,41.638202",
+    "geom:latitude":41.638202,
+    "geom:longitude":-93.619898,
+    "iso:country":"US",
+    "sg:address":"4285 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 3390",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944061,
+        102086603,
+        85896373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77sxeGRh12A6SQ36ZN2NbR_41.638202_-93.619898@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108307,
+    "wof:geomhash":"0c7f7bcbb4b318e0076d755ceaeb4c35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896373,
+            "region_id":85688713,
+            "venue_id":856907133
+        }
+    ],
+    "wof:id":856907133,
+    "wof:lastmodified":1464108307,
+    "wof:name":"Secure Motors",
+    "wof:parent_id":85896373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.619898,
+    41.638202,
+    -93.619898,
+    41.638202
+],
+  "geometry": {"coordinates":[-93.61989800000001,41.638202],"type":"Point"}
+}

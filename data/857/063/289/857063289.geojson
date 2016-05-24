@@ -1,0 +1,71 @@
+{
+  "id": 857063289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.821503,41.2962,-95.821503,41.2962",
+    "geom:latitude":41.2962,
+    "geom:longitude":-95.821503,
+    "iso:country":"US",
+    "sg:address":"4 Ridge Dr W",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8877",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mbp9SGfLVwokDf4OjnqKC_41.296200_-95.821503@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115032,
+    "wof:geomhash":"802100e043d237c94b36b293d755bf64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063289
+        }
+    ],
+    "wof:id":857063289,
+    "wof:lastmodified":1464115032,
+    "wof:name":"Roth John M Contr",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.821503,
+    41.2962,
+    -95.821503,
+    41.2962
+],
+  "geometry": {"coordinates":[-95.82150300000001,41.2962],"type":"Point"}
+}

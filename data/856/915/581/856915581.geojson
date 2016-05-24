@@ -1,0 +1,71 @@
+{
+  "id": 856915581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773504,41.876547,-91.773504,41.876547",
+    "geom:latitude":41.876547,
+    "geom:longitude":-91.773504,
+    "iso:country":"US",
+    "sg:address":"7900 Walford Rd SW",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 3452",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WjifkUlhqeAP0srIwbon3_41.876547_-91.773504@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108643,
+    "wof:geomhash":"7f482c7a60d8d8d5045c3b2481ea895c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856915581
+        }
+    ],
+    "wof:id":856915581,
+    "wof:lastmodified":1464108643,
+    "wof:name":"Custom Glass Works Window Tint",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.773504,
+    41.876547,
+    -91.773504,
+    41.876547
+],
+  "geometry": {"coordinates":[-91.773504,41.876547],"type":"Point"}
+}

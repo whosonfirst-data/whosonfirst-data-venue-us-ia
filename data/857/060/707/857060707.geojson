@@ -1,0 +1,74 @@
+{
+  "id": 857060707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.842521,41.264093,-95.842521,41.264093",
+    "geom:latitude":41.264093,
+    "geom:longitude":-95.842521,
+    "iso:country":"US",
+    "sg:address":"217 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/96108-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5121",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dXPYmIPaO7G9yqmCaAXbl_41.264257_-95.842106@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114923,
+    "wof:geomhash":"c08f2b5e375c8012205f95411244fdfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857060707
+        }
+    ],
+    "wof:id":857060707,
+    "wof:lastmodified":1464114923,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.842521,
+    41.264093,
+    -95.842521,
+    41.264093
+],
+  "geometry": {"coordinates":[-95.842521,41.264093],"type":"Point"}
+}

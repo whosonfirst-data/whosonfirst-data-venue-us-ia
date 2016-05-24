@@ -1,0 +1,69 @@
+{
+  "id": 856988665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620092,41.648573,-93.620092,41.648573",
+    "geom:latitude":41.648573,
+    "geom:longitude":-93.620092,
+    "iso:country":"US",
+    "sg:address":"330 NW 48th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 251 4000",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tuQ9aoCwFB6AW1OxP4Msp_41.648573_-93.620092@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111897,
+    "wof:geomhash":"a8d8a09936581d4501e1ad9e5ef6bca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856988665
+        }
+    ],
+    "wof:id":856988665,
+    "wof:lastmodified":1464111897,
+    "wof:name":"Keepsake Portraits By Juli",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -93.620092,
+    41.648573,
+    -93.620092,
+    41.648573
+],
+  "geometry": {"coordinates":[-93.620092,41.648573],"type":"Point"}
+}

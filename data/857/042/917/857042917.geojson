@@ -1,0 +1,73 @@
+{
+  "id": 857042917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664902,42.018902,-91.664902,42.018902",
+    "geom:latitude":42.018902,
+    "geom:longitude":-91.664902,
+    "iso:country":"US",
+    "sg:address":"3937 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 1109",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P22xo41RQACNgVuocoJaQ_42.019434_-91.664779@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114193,
+    "wof:geomhash":"8df2cf7229cf6b5062913a4c5259967d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857042917
+        }
+    ],
+    "wof:id":857042917,
+    "wof:lastmodified":1464114193,
+    "wof:name":"Duds N Suds",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -91.664902,
+    42.018902,
+    -91.664902,
+    42.018902
+],
+  "geometry": {"coordinates":[-91.664902,42.018902],"type":"Point"}
+}

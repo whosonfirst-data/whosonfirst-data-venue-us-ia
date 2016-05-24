@@ -1,0 +1,73 @@
+{
+  "id": 857011271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.64143,42.046812,-91.64143,42.046812",
+    "geom:latitude":42.046812,
+    "geom:longitude":-91.64143,
+    "iso:country":"US",
+    "sg:address":"540 Boyson Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 3077",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AWM3XrfSlCsbHnF4Md7fG_42.046812_-91.641430@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112826,
+    "wof:geomhash":"f16138b2a13a9386e2175057444cdbce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857011271
+        }
+    ],
+    "wof:id":857011271,
+    "wof:lastmodified":1464112826,
+    "wof:name":"Total Wireless",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -91.64143,
+    42.046812,
+    -91.64143,
+    42.046812
+],
+  "geometry": {"coordinates":[-91.64143,42.046812],"type":"Point"}
+}

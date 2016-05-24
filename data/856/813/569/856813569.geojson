@@ -1,0 +1,73 @@
+{
+  "id": 856813569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.794092,41.262379,-95.794092,41.262379",
+    "geom:latitude":41.262379,
+    "geom:longitude":-95.794092,
+    "iso:country":"US",
+    "sg:address":"20497 McPherson Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 9642",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56lEFnjFZVnotaJwHVYxS4_41.262379_-95.794092@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103774,
+    "wof:geomhash":"e4c69e7012af89b4f84be1a98f369f01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856813569
+        }
+    ],
+    "wof:id":856813569,
+    "wof:lastmodified":1464103774,
+    "wof:name":"Randy's Repair & Svc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.794092,
+    41.262379,
+    -95.794092,
+    41.262379
+],
+  "geometry": {"coordinates":[-95.79409200000001,41.262379],"type":"Point"}
+}

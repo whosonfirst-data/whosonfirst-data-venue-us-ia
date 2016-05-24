@@ -1,0 +1,67 @@
+{
+  "id": 856820939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658798,42.021288,-91.658798,42.021288",
+    "geom:latitude":42.021288,
+    "geom:longitude":-91.658798,
+    "iso:country":"US",
+    "sg:address":"1519 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0400",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.aaa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vn6udUhs5cmi6jiCq1ddO_42.021288_-91.658798@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104150,
+    "wof:geomhash":"d189cbabc1a5e3b90d97daec9b6b5862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856820939
+        }
+    ],
+    "wof:id":856820939,
+    "wof:lastmodified":1464104150,
+    "wof:name":"AAA Insurance",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.658798,
+    42.021288,
+    -91.658798,
+    42.021288
+],
+  "geometry": {"coordinates":[-91.658798,42.021288],"type":"Point"}
+}

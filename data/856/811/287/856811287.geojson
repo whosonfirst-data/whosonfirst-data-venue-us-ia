@@ -1,0 +1,71 @@
+{
+  "id": 856811287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.485617,41.500353,-93.485617,41.500353",
+    "geom:latitude":41.500353,
+    "geom:longitude":-93.485617,
+    "iso:country":"US",
+    "sg:address":"270 Garfield St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 2772",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ko0L071K6Hp1dwx6rfu3T_41.500353_-93.485617@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103684,
+    "wof:geomhash":"b38297d186b6affff385ccefe34b5c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856811287
+        }
+    ],
+    "wof:id":856811287,
+    "wof:lastmodified":1464103684,
+    "wof:name":"Greenwood's Sewer Svc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.485617,
+    41.500353,
+    -93.485617,
+    41.500353
+],
+  "geometry": {"coordinates":[-93.485617,41.500353],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856964159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.904664,41.262814,-95.904664,41.262814",
+    "geom:latitude":41.262814,
+    "geom:longitude":-95.904664,
+    "iso:country":"US",
+    "sg:address":"3500 Ave A",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3566",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bR6tPew2ENmRUAiSyAykD_41.262814_-95.904664@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110712,
+    "wof:geomhash":"42025a87d0ae43b40aa46ecc62049298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856964159
+        }
+    ],
+    "wof:id":856964159,
+    "wof:lastmodified":1464110712,
+    "wof:name":"Lloyd's Phillips 66",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -95.904664,
+    41.262814,
+    -95.904664,
+    41.262814
+],
+  "geometry": {"coordinates":[-95.904664,41.262814],"type":"Point"}
+}

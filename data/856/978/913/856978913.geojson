@@ -1,0 +1,71 @@
+{
+  "id": 856978913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.01879,41.616113,-94.01879,41.616113",
+    "geom:latitude":41.616113,
+    "geom:longitude":-94.01879,
+    "iso:country":"US",
+    "sg:address":"218 S 9th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 1000",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u14NnlQJ7XUEDjCa5dPpx_41.616113_-94.018790@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111410,
+    "wof:geomhash":"7787cb8ea471feea0fe94bc64c9a5a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856978913
+        }
+    ],
+    "wof:id":856978913,
+    "wof:lastmodified":1464111410,
+    "wof:name":"Hefner Bergkamp",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -94.01879,
+    41.616113,
+    -94.01879,
+    41.616113
+],
+  "geometry": {"coordinates":[-94.01879,41.616113],"type":"Point"}
+}

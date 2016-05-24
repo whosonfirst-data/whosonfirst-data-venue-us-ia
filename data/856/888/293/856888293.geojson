@@ -1,0 +1,71 @@
+{
+  "id": 856888293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677568,42.056268,-91.677568,42.056268",
+    "geom:latitude":42.056268,
+    "geom:longitude":-91.677568,
+    "iso:country":"US",
+    "sg:address":"1605 Hawkeye Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6434",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VmRqc6hfuR4nnLrIxUsui_42.056268_-91.677568@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107614,
+    "wof:geomhash":"aa3ab7e8af11f9f68cfa874fd9725a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856888293
+        }
+    ],
+    "wof:id":856888293,
+    "wof:lastmodified":1464107614,
+    "wof:name":"United Parcel Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -91.677568,
+    42.056268,
+    -91.677568,
+    42.056268
+],
+  "geometry": {"coordinates":[-91.67756799999999,42.056268],"type":"Point"}
+}

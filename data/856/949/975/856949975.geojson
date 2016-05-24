@@ -1,0 +1,71 @@
+{
+  "id": 856949975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505644,41.861904,-91.505644,41.861904",
+    "geom:latitude":41.861904,
+    "geom:longitude":-91.505644,
+    "iso:country":"US",
+    "sg:address":"126 Hardshell Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 3666",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RjR2ABWxILpVIfspUepoY_41.861904_-91.505644@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110079,
+    "wof:geomhash":"0de3d14bbe348a2f7fd743ce50678297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856949975
+        }
+    ],
+    "wof:id":856949975,
+    "wof:lastmodified":1464110079,
+    "wof:name":"Eastern Iowa Spraying",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop"
+    ]
+},
+  "bbox": [
+    -91.505644,
+    41.861904,
+    -91.505644,
+    41.861904
+],
+  "geometry": {"coordinates":[-91.505644,41.861904],"type":"Point"}
+}

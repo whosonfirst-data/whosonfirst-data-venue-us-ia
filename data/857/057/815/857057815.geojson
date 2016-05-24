@@ -1,0 +1,76 @@
+{
+  "id": 857057815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.600925,41.628208,-93.600925,41.628208",
+    "geom:latitude":41.628208,
+    "geom:longitude":-93.600925,
+    "iso:country":"US",
+    "sg:address":"3600 E 14th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/lee/109330-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 9747",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PFLWgkZKZhj7K4BbV5KtR_41.628208_-93.600925@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114816,
+    "wof:geomhash":"6a38e3898f0085998289558ac7d47900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":857057815
+        }
+    ],
+    "wof:id":857057815,
+    "wof:lastmodified":1464114816,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.600925,
+    41.628208,
+    -93.600925,
+    41.628208
+],
+  "geometry": {"coordinates":[-93.600925,41.628208],"type":"Point"}
+}

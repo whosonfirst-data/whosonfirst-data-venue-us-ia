@@ -1,0 +1,99 @@
+{
+  "id": 857074021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.610582,41.51547,-90.610582,41.51547",
+    "geom:latitude":41.51547,
+    "geom:longitude":-90.610582,
+    "iso:country":"US",
+    "sg:address":"2255 ROCKINGHAM RD",
+    "sg:city":"DAVENPORT",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 8043",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "television",
+        "leasing",
+        "radio-renting",
+        "equipment",
+        "rental"
+    ],
+    "sg:website":"http://www.rentacenter.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sw51E64vdJXynzt547rxU_41.515470_-90.610582@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115523,
+    "wof:geomhash":"532d98bbcaed6cab1125b848c9f99aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857074021
+        }
+    ],
+    "wof:id":857074021,
+    "wof:lastmodified":1464115523,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "television",
+        "leasing",
+        "radio-renting",
+        "equipment",
+        "rental"
+    ]
+},
+  "bbox": [
+    -90.610582,
+    41.51547,
+    -90.610582,
+    41.51547
+],
+  "geometry": {"coordinates":[-90.61058199999999,41.51547],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857037747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618599,41.977501,-91.618599,41.977501",
+    "geom:latitude":41.977501,
+    "geom:longitude":-91.618599,
+    "iso:country":"US",
+    "sg:address":"806 34th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 0815",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "video",
+        "game",
+        "disc",
+        "leasing",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rD6GRfFRHBJkMeO9ob87y_41.977692_-91.618337@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114001,
+    "wof:geomhash":"781717458e318565efa77f16087f47f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857037747
+        }
+    ],
+    "wof:id":857037747,
+    "wof:lastmodified":1464114001,
+    "wof:name":"Mr Movies",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "game",
+        "disc",
+        "leasing",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.618599,
+    41.977501,
+    -91.618599,
+    41.977501
+],
+  "geometry": {"coordinates":[-91.618599,41.977501],"type":"Point"}
+}

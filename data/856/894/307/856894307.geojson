@@ -1,0 +1,71 @@
+{
+  "id": 856894307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.372365,42.427042,-96.372365,42.427042",
+    "geom:latitude":42.427042,
+    "geom:longitude":-96.372365,
+    "iso:country":"US",
+    "sg:address":"2651 Murray St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 0939",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bottle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xt0HUgNecSzumK1aiMKcY_42.427042_-96.372365@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107844,
+    "wof:geomhash":"59ac955a36838df90cb45dee6f3345f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856894307
+        }
+    ],
+    "wof:id":856894307,
+    "wof:lastmodified":1464107844,
+    "wof:name":"Ball Plastic Container Corp",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottle"
+    ]
+},
+  "bbox": [
+    -96.372365,
+    42.427042,
+    -96.372365,
+    42.427042
+],
+  "geometry": {"coordinates":[-96.372365,42.427042],"type":"Point"}
+}

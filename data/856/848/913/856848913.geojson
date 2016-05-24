@@ -1,0 +1,75 @@
+{
+  "id": 856848913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.829056,41.347013,-95.829056,41.347013",
+    "geom:latitude":41.347013,
+    "geom:longitude":-95.829056,
+    "iso:country":"US",
+    "sg:address":"22797 Valley Ln",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3785",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fg4MDGw4eV1BYY17sVSjf_41.347013_-95.829056@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105462,
+    "wof:geomhash":"179faff3c76f93ab0cbd3befe2196d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856848913
+        }
+    ],
+    "wof:id":856848913,
+    "wof:lastmodified":1464105462,
+    "wof:name":"Crescent Country Grooming",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.829056,
+    41.347013,
+    -95.829056,
+    41.347013
+],
+  "geometry": {"coordinates":[-95.82905599999999,41.347013],"type":"Point"}
+}

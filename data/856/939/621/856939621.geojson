@@ -1,0 +1,75 @@
+{
+  "id": 856939621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.639091,41.487245,-90.639091,41.487245",
+    "geom:latitude":41.487245,
+    "geom:longitude":-90.639091,
+    "iso:country":"US",
+    "sg:address":"4740 Wapello Ave",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 322 6077",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LBZc03duTciGs905USFJZ_41.487245_-90.639091@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109649,
+    "wof:geomhash":"a4e98f607723e2e617390e403d326816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856939621
+        }
+    ],
+    "wof:id":856939621,
+    "wof:lastmodified":1464109649,
+    "wof:name":"Bob Carter Excavating Inc",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.639091,
+    41.487245,
+    -90.639091,
+    41.487245
+],
+  "geometry": {"coordinates":[-90.63909099999999,41.487245],"type":"Point"}
+}

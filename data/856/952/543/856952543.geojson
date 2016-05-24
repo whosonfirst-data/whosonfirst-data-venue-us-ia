@@ -1,0 +1,73 @@
+{
+  "id": 856952543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.861397,41.253504,-95.861397,41.253504",
+    "geom:latitude":41.253504,
+    "geom:longitude":-95.861397,
+    "iso:country":"US",
+    "sg:address":"1120 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 9318",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zECTGa53CiTso1gXh2gZa_41.253504_-95.861397@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110187,
+    "wof:geomhash":"4d4d97d88cee3f20a644f02576cb8de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856952543
+        }
+    ],
+    "wof:id":856952543,
+    "wof:lastmodified":1464110187,
+    "wof:name":"Peterson Lawncare",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.861397,
+    41.253504,
+    -95.861397,
+    41.253504
+],
+  "geometry": {"coordinates":[-95.861397,41.253504],"type":"Point"}
+}

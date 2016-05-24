@@ -1,0 +1,73 @@
+{
+  "id": 856821557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.063085,41.534218,-94.063085,41.534218",
+    "geom:latitude":41.534218,
+    "geom:longitude":-94.063085,
+    "iso:country":"US",
+    "sg:address":"2143 350th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 240 9084",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ewM9NlgLcfBYSGFcFmM2H_41.534218_-94.063085@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104171,
+    "wof:geomhash":"f0deff0c8164d1886420ee04d753cf90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856821557
+        }
+    ],
+    "wof:id":856821557,
+    "wof:lastmodified":1464104171,
+    "wof:name":"Howard Belgarde Trkg",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.063085,
+    41.534218,
+    -94.063085,
+    41.534218
+],
+  "geometry": {"coordinates":[-94.063085,41.534218],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856901675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679532,41.984011,-91.679532,41.984011",
+    "geom:latitude":41.984011,
+    "geom:longitude":-91.679532,
+    "iso:country":"US",
+    "sg:address":"1131 5th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5796",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lxm4H8h4Om7hqE5q8tnAI_41.984011_-91.679532@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108114,
+    "wof:geomhash":"ea60465cf26ffabaf716d17445edf543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856901675
+        }
+    ],
+    "wof:id":856901675,
+    "wof:lastmodified":1464108114,
+    "wof:name":"Cedar Rapids Time Check Ctr",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.679532,
+    41.984011,
+    -91.679532,
+    41.984011
+],
+  "geometry": {"coordinates":[-91.67953199999999,41.984011],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856919945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.417959,42.518712,-96.417959,42.518712",
+    "geom:latitude":42.518712,
+    "geom:longitude":-96.417959,
+    "iso:country":"US",
+    "sg:address":"312 W 28th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 6404",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VTylWca0PbLVZGdiZ96wr_42.518712_-96.417959@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108807,
+    "wof:geomhash":"92fb90e9da0c8c67aafbe98829bc24f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856919945
+        }
+    ],
+    "wof:id":856919945,
+    "wof:lastmodified":1464108807,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.417959,
+    42.518712,
+    -96.417959,
+    42.518712
+],
+  "geometry": {"coordinates":[-96.417959,42.518712],"type":"Point"}
+}

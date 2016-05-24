@@ -1,0 +1,71 @@
+{
+  "id": 856850675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.787295,42.191844,-91.787295,42.191844",
+    "geom:latitude":42.191844,
+    "geom:longitude":-91.787295,
+    "iso:country":"US",
+    "sg:address":"908 Summit St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 2906",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bp2kZMY6Hn7phrNWdvMJ1_42.191844_-91.787295@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105556,
+    "wof:geomhash":"98707ea36cc7490f0d255e43eb8fc40b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856850675
+        }
+    ],
+    "wof:id":856850675,
+    "wof:lastmodified":1464105556,
+    "wof:name":"SW Construction",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.787295,
+    42.191844,
+    -91.787295,
+    42.191844
+],
+  "geometry": {"coordinates":[-91.787295,42.191844],"type":"Point"}
+}

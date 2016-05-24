@@ -1,0 +1,69 @@
+{
+  "id": 856841881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.556981,41.36019,-93.556981,41.36019",
+    "geom:latitude":41.36019,
+    "geom:longitude":-93.556981,
+    "iso:country":"US",
+    "sg:address":"303 E Salem Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 6700",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719nFe6hSuFY2Jueh4bBL2_41.360190_-93.556981@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105079,
+    "wof:geomhash":"6df1c13a1a16c59ceb2862cf939ee637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856841881
+        }
+    ],
+    "wof:id":856841881,
+    "wof:lastmodified":1464105079,
+    "wof:name":"Grimms Orthopedic Indianola",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -93.556981,
+    41.36019,
+    -93.556981,
+    41.36019
+],
+  "geometry": {"coordinates":[-93.55698099999999,41.36019],"type":"Point"}
+}

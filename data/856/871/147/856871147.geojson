@@ -1,0 +1,73 @@
+{
+  "id": 856871147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740319,41.963552,-91.740319,41.963552",
+    "geom:latitude":41.963552,
+    "geom:longitude":-91.740319,
+    "iso:country":"US",
+    "sg:address":"1613 W Post Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 4923",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Z69qeKZoosWwp5YAH7mQ_41.963552_-91.740319@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106671,
+    "wof:geomhash":"be88a8088efc7a1d7e5a0d68ae0749c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856871147
+        }
+    ],
+    "wof:id":856871147,
+    "wof:lastmodified":1464106671,
+    "wof:name":"Mike's Auto Svc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.740319,
+    41.963552,
+    -91.740319,
+    41.963552
+],
+  "geometry": {"coordinates":[-91.740319,41.963552],"type":"Point"}
+}

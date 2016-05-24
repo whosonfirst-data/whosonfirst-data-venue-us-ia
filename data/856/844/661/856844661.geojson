@@ -1,0 +1,66 @@
+{
+  "id": 856844661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.418642,41.921844,-91.418642,41.921844",
+    "geom:latitude":41.921844,
+    "geom:longitude":-91.418642,
+    "iso:country":"US",
+    "sg:address":"124 2nd St SW",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6123",
+    "sg:postcode":"52328",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09RZOSMaE8osoPxGHTpSj8_41.921844_-91.418642@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105215,
+    "wof:geomhash":"dbe6e7c1063308a1bc4d8e33a51ebc6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856844661
+        }
+    ],
+    "wof:id":856844661,
+    "wof:lastmodified":1464105215,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.418642,
+    41.921844,
+    -91.418642,
+    41.921844
+],
+  "geometry": {"coordinates":[-91.41864200000001,41.921844],"type":"Point"}
+}

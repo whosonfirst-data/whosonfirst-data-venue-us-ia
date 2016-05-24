@@ -1,0 +1,75 @@
+{
+  "id": 857069499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.630699,41.979,-91.630699,41.979",
+    "geom:latitude":41.979,
+    "geom:longitude":-91.630699,
+    "iso:country":"US",
+    "sg:address":"645 26th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2467",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56P4pzwhhMs0cmmWXMYkYn_41.979000_-91.630699@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115305,
+    "wof:geomhash":"46db66cf89d9508be93ef46b3d2eb5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069499
+        }
+    ],
+    "wof:id":857069499,
+    "wof:lastmodified":1464115305,
+    "wof:name":"Grant Wood Elementary School",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.630699,
+    41.979,
+    -91.630699,
+    41.979
+],
+  "geometry": {"coordinates":[-91.63069900000001,41.979],"type":"Point"}
+}

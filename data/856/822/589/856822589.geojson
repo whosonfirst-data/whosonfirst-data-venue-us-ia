@@ -1,0 +1,71 @@
+{
+  "id": 856822589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663078,42.019855,-91.663078,42.019855",
+    "geom:latitude":42.019855,
+    "geom:longitude":-91.663078,
+    "iso:country":"US",
+    "sg:address":"3969 Park Towne Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0982",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gX4eoozPfDDIquKx92KBE_42.019855_-91.663078@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104210,
+    "wof:geomhash":"9a5e949d08936e77ace864d136100881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856822589
+        }
+    ],
+    "wof:id":856822589,
+    "wof:lastmodified":1464104210,
+    "wof:name":"Appraisal Associates Co",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -91.663078,
+    42.019855,
+    -91.663078,
+    42.019855
+],
+  "geometry": {"coordinates":[-91.663078,42.019855],"type":"Point"}
+}

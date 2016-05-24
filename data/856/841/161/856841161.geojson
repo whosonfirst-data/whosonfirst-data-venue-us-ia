@@ -1,0 +1,71 @@
+{
+  "id": 856841161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.757606,41.206164,-95.757606,41.206164",
+    "geom:latitude":41.206164,
+    "geom:longitude":-95.757606,
+    "iso:country":"US",
+    "sg:address":"22602 Pioneer Trl",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 1024",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Wq0OBIEtNDq1BapzRoTe_41.206164_-95.757606@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105046,
+    "wof:geomhash":"c589f13db9470842eaf53f2ef3c87dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856841161
+        }
+    ],
+    "wof:id":856841161,
+    "wof:lastmodified":1464105046,
+    "wof:name":"Triple M Stable",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -95.757606,
+    41.206164,
+    -95.757606,
+    41.206164
+],
+  "geometry": {"coordinates":[-95.757606,41.206164],"type":"Point"}
+}

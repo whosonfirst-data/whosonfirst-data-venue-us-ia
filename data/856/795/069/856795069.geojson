@@ -1,0 +1,73 @@
+{
+  "id": 856795069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.336695,41.475506,-95.336695,41.475506",
+    "geom:latitude":41.475506,
+    "geom:longitude":-95.336695,
+    "iso:country":"US",
+    "sg:address":"115 W Lyon St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6371",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rejKetqgLneU0Ua6RKFec_41.475506_-95.336695@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102978,
+    "wof:geomhash":"164edecea07846b39f874f5b6adc871f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856795069
+        }
+    ],
+    "wof:id":856795069,
+    "wof:lastmodified":1464102978,
+    "wof:name":"Avoca Water Works",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -95.336695,
+    41.475506,
+    -95.336695,
+    41.475506
+],
+  "geometry": {"coordinates":[-95.33669500000001,41.475506],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856846339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718369,41.965533,-91.718369,41.965533",
+    "geom:latitude":41.965533,
+    "geom:longitude":-91.718369,
+    "iso:country":"US",
+    "sg:address":"3413 12th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9076",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apparel",
+        "bowling",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6am1kIyIfnEFUI67SWI9qz_41.965533_-91.718369@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105309,
+    "wof:geomhash":"1355c41122479a7dd8d1e9c8a3a7194c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856846339
+        }
+    ],
+    "wof:id":856846339,
+    "wof:lastmodified":1464105309,
+    "wof:name":"Professional Bowling Concepts",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "bowling",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -91.718369,
+    41.965533,
+    -91.718369,
+    41.965533
+],
+  "geometry": {"coordinates":[-91.718369,41.965533],"type":"Point"}
+}

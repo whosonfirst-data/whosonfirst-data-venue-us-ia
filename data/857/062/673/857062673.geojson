@@ -1,0 +1,72 @@
+{
+  "id": 857062673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.876683,41.230471,-95.876683,41.230471",
+    "geom:latitude":41.230471,
+    "geom:longitude":-95.876683,
+    "iso:country":"US",
+    "sg:address":"3271 Market Place Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 0377",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.shopko.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H8IIEevXKaCqSy4XAmgb8_41.230471_-95.876683@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115011,
+    "wof:geomhash":"70bf533aed963d13af0d845e557ce8de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062673
+        }
+    ],
+    "wof:id":857062673,
+    "wof:lastmodified":1464115011,
+    "wof:name":"Shopko Pharmacy",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -95.876683,
+    41.230471,
+    -95.876683,
+    41.230471
+],
+  "geometry": {"coordinates":[-95.876683,41.230471],"type":"Point"}
+}

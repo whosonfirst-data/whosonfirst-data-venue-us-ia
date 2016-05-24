@@ -1,0 +1,72 @@
+{
+  "id": 857039147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906258,41.237213,-95.906258,41.237213",
+    "geom:latitude":41.237213,
+    "geom:longitude":-95.906258,
+    "iso:country":"US",
+    "sg:address":"2202 River Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 8900",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.cateringbymainevent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ccCqyPG05Vr4n2rnXoBvs_41.237030_-95.906159@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114052,
+    "wof:geomhash":"01ae9f09a69aeb654d091b59721bafcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857039147
+        }
+    ],
+    "wof:id":857039147,
+    "wof:lastmodified":1464114052,
+    "wof:name":"Main Event Catering",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -95.906258,
+    41.237213,
+    -95.906258,
+    41.237213
+],
+  "geometry": {"coordinates":[-95.90625799999999,41.237213],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 857012811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.670157,41.971794,-91.670157,41.971794",
+    "geom:latitude":41.971794,
+    "geom:longitude":-91.670157,
+    "iso:country":"US",
+    "sg:address":"510 1st St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 4800",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "sg:website":"www.permarsecurity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t1IMcnBBogSMrIimGWkv1_41.971794_-91.670157@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112899,
+    "wof:geomhash":"d1936f350be9abbc00ccb05fbb56aa9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857012811
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857012811
+        }
+    ],
+    "wof:id":857012811,
+    "wof:lastmodified":1464112899,
+    "wof:name":"Per Mar Security Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -91.670157,
+    41.971794,
+    -91.670157,
+    41.971794
+],
+  "geometry": {"coordinates":[-91.670157,41.971794],"type":"Point"}
+}

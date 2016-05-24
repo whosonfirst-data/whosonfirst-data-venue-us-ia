@@ -1,0 +1,71 @@
+{
+  "id": 856817893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.480306,41.40488,-95.480306,41.40488",
+    "geom:latitude":41.40488,
+    "geom:longitude":-95.480306,
+    "iso:country":"US",
+    "sg:address":"36418 Pinoak Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 741 5683",
+    "sg:postcode":"51553",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gg3ZR9aaOJJ4hjiG57Pte_41.404880_-95.480306@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103960,
+    "wof:geomhash":"f4bd5969457ac8c93f667af21a4c9c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856817893
+        }
+    ],
+    "wof:id":856817893,
+    "wof:lastmodified":1464103960,
+    "wof:name":"Silver Creek Church",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.480306,
+    41.40488,
+    -95.480306,
+    41.40488
+],
+  "geometry": {"coordinates":[-95.480306,41.40488],"type":"Point"}
+}

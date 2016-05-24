@@ -1,0 +1,76 @@
+{
+  "id": 857071079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716114,41.974676,-91.716114,41.974676",
+    "geom:latitude":41.974676,
+    "geom:longitude":-91.716114,
+    "iso:country":"US",
+    "sg:address":"350 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 7509",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qxMimMDvgZafzajnVB6oY_41.974676_-91.716114@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115378,
+    "wof:geomhash":"7687a0a5a68e1c974def2f563e785383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071079
+        }
+    ],
+    "wof:id":857071079,
+    "wof:lastmodified":1464115378,
+    "wof:name":"Bushwood Sports Bar & Grill",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.716114,
+    41.974676,
+    -91.716114,
+    41.974676
+],
+  "geometry": {"coordinates":[-91.716114,41.974676],"type":"Point"}
+}

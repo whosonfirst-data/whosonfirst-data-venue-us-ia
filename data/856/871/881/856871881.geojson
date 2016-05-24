@@ -1,0 +1,75 @@
+{
+  "id": 856871881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657832,41.983565,-91.657832,41.983565",
+    "geom:latitude":41.983565,
+    "geom:longitude":-91.657832,
+    "iso:country":"US",
+    "sg:address":"1000 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 234 2128",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YBjtc0MeA07oPHsOO6gtz_41.983565_-91.657832@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106740,
+    "wof:geomhash":"83cf591095e50f88f519a3d7f1c77a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856871881
+        }
+    ],
+    "wof:id":856871881,
+    "wof:lastmodified":1464106740,
+    "wof:name":"Health Enterprises of Iowa",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -91.657832,
+    41.983565,
+    -91.657832,
+    41.983565
+],
+  "geometry": {"coordinates":[-91.657832,41.983565],"type":"Point"}
+}

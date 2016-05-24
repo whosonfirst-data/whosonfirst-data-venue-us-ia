@@ -1,0 +1,73 @@
+{
+  "id": 857015047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.68345,41.882762,-93.68345,41.882762",
+    "geom:latitude":41.882762,
+    "geom:longitude":-93.68345,
+    "iso:country":"US",
+    "sg:address":"401 Main St",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 228 3545",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mj0qIWmuNeviBjs5mv8Pg_41.882762_-93.683450@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112987,
+    "wof:geomhash":"67af63f5cdddd1a2792b9c03465fadec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":857015047
+        }
+    ],
+    "wof:id":857015047,
+    "wof:lastmodified":1464112987,
+    "wof:name":"Sievers Veterinary Clinic",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.68345,
+    41.882762,
+    -93.68345,
+    41.882762
+],
+  "geometry": {"coordinates":[-93.68344999999999,41.882762],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857013677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608847,41.974151,-91.608847,41.974151",
+    "geom:latitude":41.974151,
+    "geom:longitude":-91.608847,
+    "iso:country":"US",
+    "sg:address":"1000 42nd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6241",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2waqeEklRZmGJtxipvSVfA_41.974151_-91.608847@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112932,
+    "wof:geomhash":"ba06e72daa02c6a60104faf4c0b278ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857013677
+        }
+    ],
+    "wof:id":857013677,
+    "wof:lastmodified":1464112932,
+    "wof:name":"Hulholland Healing Ctr",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -91.608847,
+    41.974151,
+    -91.608847,
+    41.974151
+],
+  "geometry": {"coordinates":[-91.608847,41.974151],"type":"Point"}
+}

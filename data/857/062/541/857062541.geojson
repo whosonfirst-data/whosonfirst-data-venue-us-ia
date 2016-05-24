@@ -1,0 +1,66 @@
+{
+  "id": 857062541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865008,41.225423,-95.865008,41.225423",
+    "geom:latitude":41.225423,
+    "geom:longitude":-95.865008,
+    "iso:country":"US",
+    "sg:address":"1325 Lew Ross Rd Ste 2",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 4114",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xtm4foePTLvfxNiTAh18E_41.225423_-95.865008@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115006,
+    "wof:geomhash":"e87423e5937d51f34e02d8dacab9dbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062541
+        }
+    ],
+    "wof:id":857062541,
+    "wof:lastmodified":1464115006,
+    "wof:name":"Blue Sky Satellite",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.865008,
+    41.225423,
+    -95.865008,
+    41.225423
+],
+  "geometry": {"coordinates":[-95.865008,41.225423],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856780117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.755857,41.617816,-93.755857,41.617816",
+    "geom:latitude":41.617816,
+    "geom:longitude":-93.755857,
+    "iso:country":"US",
+    "sg:address":"2550 100th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 254 9258",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UcNwCBt5eTQvHkniO6Aaf_41.617816_-93.755857@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102444,
+    "wof:geomhash":"b2e15575dce51a7bbab2c0b64dc244c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896519,
+            "region_id":85688713,
+            "venue_id":856780117
+        }
+    ],
+    "wof:id":856780117,
+    "wof:lastmodified":1464102444,
+    "wof:name":"Wonder Bread & Hostess Cakes",
+    "wof:parent_id":85896519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -93.755857,
+    41.617816,
+    -93.755857,
+    41.617816
+],
+  "geometry": {"coordinates":[-93.75585700000001,41.617816],"type":"Point"}
+}

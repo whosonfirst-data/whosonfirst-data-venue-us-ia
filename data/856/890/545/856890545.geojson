@@ -1,0 +1,71 @@
+{
+  "id": 856890545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.872132,41.261883,-95.872132,41.261883",
+    "geom:latitude":41.261883,
+    "geom:longitude":-95.872132,
+    "iso:country":"US",
+    "sg:address":"1800 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4191",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E0fH5bCQrqGiehMGqvZxv_41.261883_-95.872132@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107711,
+    "wof:geomhash":"5c422de4007be39b561ebd222ef18096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856890545
+        }
+    ],
+    "wof:id":856890545,
+    "wof:lastmodified":1464107711,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -95.872132,
+    41.261883,
+    -95.872132,
+    41.261883
+],
+  "geometry": {"coordinates":[-95.87213199999999,41.261883],"type":"Point"}
+}

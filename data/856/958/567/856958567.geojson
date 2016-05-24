@@ -1,0 +1,75 @@
+{
+  "id": 856958567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867647,41.257191,-95.867647,41.257191",
+    "geom:latitude":41.257191,
+    "geom:longitude":-95.867647,
+    "iso:country":"US",
+    "sg:address":"410 S 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9979",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53K7dlPnn2uwvKygXU6cUN_41.257191_-95.867647@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110491,
+    "wof:geomhash":"2436c63618b089e00f95652a6aeb070c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856958567
+        }
+    ],
+    "wof:id":856958567,
+    "wof:lastmodified":1464110491,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -95.867647,
+    41.257191,
+    -95.867647,
+    41.257191
+],
+  "geometry": {"coordinates":[-95.86764700000001,41.257191],"type":"Point"}
+}

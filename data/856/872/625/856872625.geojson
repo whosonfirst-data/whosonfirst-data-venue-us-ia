@@ -1,0 +1,75 @@
+{
+  "id": 856872625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.427632,41.487156,-91.427632,41.487156",
+    "geom:latitude":41.487156,
+    "geom:longitude":-91.427632,
+    "iso:country":"US",
+    "sg:address":"105 W Jayne St",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 4504",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cOD2c5f0G2cbfQVoWl0pT_41.487156_-91.427632@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106795,
+    "wof:geomhash":"4a89db9b4f82edc9dd17c76727e87618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856872625
+        }
+    ],
+    "wof:id":856872625,
+    "wof:lastmodified":1464106795,
+    "wof:name":"Brenneman Auto Body",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.427632,
+    41.487156,
+    -91.427632,
+    41.487156
+],
+  "geometry": {"coordinates":[-91.427632,41.487156],"type":"Point"}
+}

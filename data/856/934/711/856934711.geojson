@@ -1,0 +1,75 @@
+{
+  "id": 856934711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.562084,41.717276,-93.562084,41.717276",
+    "geom:latitude":41.717276,
+    "geom:longitude":-93.562084,
+    "iso:country":"US",
+    "sg:address":"2643 NE 86th Ave",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 963 8364",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tile",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M3pCfbmHdky92n0hpcGie_41.717276_-93.562084@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109420,
+    "wof:geomhash":"2ba079d696d9dbf5cd24db0616f25909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896319,
+            "region_id":85688713,
+            "venue_id":856934711
+        }
+    ],
+    "wof:id":856934711,
+    "wof:lastmodified":1464109420,
+    "wof:name":"Heritage Ceramic Tile & Design",
+    "wof:parent_id":85896319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.562084,
+    41.717276,
+    -93.562084,
+    41.717276
+],
+  "geometry": {"coordinates":[-93.562084,41.717276],"type":"Point"}
+}

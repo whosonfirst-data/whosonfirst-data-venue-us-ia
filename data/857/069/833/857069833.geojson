@@ -1,0 +1,72 @@
+{
+  "id": 857069833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623722,41.97671,-91.623722,41.97671",
+    "geom:latitude":41.97671,
+    "geom:longitude":-91.623722,
+    "iso:country":"US",
+    "sg:address":"2711 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 3051",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RABAHHbelUCbiLmSxGmt0_41.976710_-91.623722@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115325,
+    "wof:geomhash":"f87ab334181e3c1e1f385d39ac5d290e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069833
+        }
+    ],
+    "wof:id":857069833,
+    "wof:lastmodified":1464115325,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -91.623722,
+    41.97671,
+    -91.623722,
+    41.97671
+],
+  "geometry": {"coordinates":[-91.623722,41.97671],"type":"Point"}
+}

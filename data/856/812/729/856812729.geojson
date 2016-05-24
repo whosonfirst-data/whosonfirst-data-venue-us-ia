@@ -1,0 +1,73 @@
+{
+  "id": 856812729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.49213,41.688155,-91.49213,41.688155",
+    "geom:latitude":41.688155,
+    "geom:longitude":-91.49213,
+    "iso:country":"US",
+    "sg:address":"2751 Northgate Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 5114",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s3Ijgi2jueoOA9J3bNMGA_41.688155_-91.492130@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103740,
+    "wof:geomhash":"f4bea5edabbc3def00a0cf3d868cb5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896449,
+            "region_id":85688713,
+            "venue_id":856812729
+        }
+    ],
+    "wof:id":856812729,
+    "wof:lastmodified":1464103740,
+    "wof:name":"Progressive Rehabilitation",
+    "wof:parent_id":85896449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -91.49213,
+    41.688155,
+    -91.49213,
+    41.688155
+],
+  "geometry": {"coordinates":[-91.49213,41.688155],"type":"Point"}
+}

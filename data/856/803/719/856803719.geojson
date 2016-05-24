@@ -1,0 +1,73 @@
+{
+  "id": 856803719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36108,42.546657,-96.36108,42.546657",
+    "geom:latitude":42.546657,
+    "geom:longitude":-96.36108,
+    "iso:country":"US",
+    "sg:address":"3925 45th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 5829",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cxjg7mLMvmCI35KSDDGfY_42.546657_-96.361080@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103349,
+    "wof:geomhash":"20bf53a73e2ccce6046ffa2cf15f2542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856803719
+        }
+    ],
+    "wof:id":856803719,
+    "wof:lastmodified":1464103349,
+    "wof:name":"Leads Swimming Pool",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.36108,
+    42.546657,
+    -96.36108,
+    42.546657
+],
+  "geometry": {"coordinates":[-96.36108,42.546657],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857059431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618232,41.976799,-91.618232,41.976799",
+    "geom:latitude":41.976799,
+    "geom:longitude":-91.618232,
+    "iso:country":"US",
+    "sg:address":"3030 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/160802-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 7179",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20NZeinZ8tGnOtpM1KXUfZ_41.976799_-91.618232@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114877,
+    "wof:geomhash":"f3a5b3c56796cc6272d3c102e0f7417f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857059431
+        }
+    ],
+    "wof:id":857059431,
+    "wof:lastmodified":1464114877,
+    "wof:name":"Burger King",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.618232,
+    41.976799,
+    -91.618232,
+    41.976799
+],
+  "geometry": {"coordinates":[-91.61823200000001,41.976799],"type":"Point"}
+}

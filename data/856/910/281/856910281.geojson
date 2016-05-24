@@ -1,0 +1,79 @@
+{
+  "id": 856910281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528969,41.649513,-91.528969,41.649513",
+    "geom:latitude":41.649513,
+    "geom:longitude":-91.528969,
+    "iso:country":"US",
+    "sg:address":"440 Kirkwood Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 7078",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BK99yaivZgkIjGQ3JBXAo_41.649513_-91.528969@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108430,
+    "wof:geomhash":"6fc4f1ea33351545587519c2cb306a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856910281
+        }
+    ],
+    "wof:id":856910281,
+    "wof:lastmodified":1464108430,
+    "wof:name":"Adult Marketplace",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.528969,
+    41.649513,
+    -91.528969,
+    41.649513
+],
+  "geometry": {"coordinates":[-91.528969,41.649513],"type":"Point"}
+}

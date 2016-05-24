@@ -1,0 +1,71 @@
+{
+  "id": 856977259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.104953,41.838565,-94.104953,41.838565",
+    "geom:latitude":41.838565,
+    "geom:longitude":-94.104953,
+    "iso:country":"US",
+    "sg:address":"1220 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4123",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zc5Y52T1LEbez5b2cZmaH_41.838565_-94.104953@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111319,
+    "wof:geomhash":"97447e36cb6e39f6135cf4754586c081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856977259
+        }
+    ],
+    "wof:id":856977259,
+    "wof:lastmodified":1464111319,
+    "wof:name":"Brian F Mc Garvey DDS",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.104953,
+    41.838565,
+    -94.104953,
+    41.838565
+],
+  "geometry": {"coordinates":[-94.10495299999999,41.838565],"type":"Point"}
+}

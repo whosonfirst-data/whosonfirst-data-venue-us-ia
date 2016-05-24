@@ -1,0 +1,71 @@
+{
+  "id": 856802663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.753277,41.236765,-95.753277,41.236765",
+    "geom:latitude":41.236765,
+    "geom:longitude":-95.753277,
+    "iso:country":"US",
+    "sg:address":"22657 James Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 659 7143",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wp38k8Gncjwt3w1ZkDIas_41.236765_-95.753277@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103306,
+    "wof:geomhash":"f5b011b2221f4434740be54fd9fbc969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856802663
+        }
+    ],
+    "wof:id":856802663,
+    "wof:lastmodified":1464103306,
+    "wof:name":"De-Fence Your Pet",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -95.753277,
+    41.236765,
+    -95.753277,
+    41.236765
+],
+  "geometry": {"coordinates":[-95.753277,41.236765],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857066587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.658699,41.968899,-91.658699,41.968899",
+    "geom:latitude":41.968899,
+    "geom:longitude":-91.658699,
+    "iso:country":"US",
+    "sg:address":"1260 2nd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8171",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KuA9f18DKw7z68grIiMsj_41.968899_-91.658699@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115160,
+    "wof:geomhash":"c687ffff3fc8794a4c7e20561060b6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857066587
+        }
+    ],
+    "wof:id":857066587,
+    "wof:lastmodified":1464115160,
+    "wof:name":"Physicians Clinic of Iowa PC Department of Urology",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.658699,
+    41.968899,
+    -91.658699,
+    41.968899
+],
+  "geometry": {"coordinates":[-91.658699,41.968899],"type":"Point"}
+}

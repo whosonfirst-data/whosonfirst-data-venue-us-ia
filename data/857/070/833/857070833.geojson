@@ -1,0 +1,74 @@
+{
+  "id": 857070833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.714228,41.964288,-91.714228,41.964288",
+    "geom:latitude":41.964288,
+    "geom:longitude":-91.714228,
+    "iso:country":"US",
+    "sg:address":"3200 16th Ave SW Ste E",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7272",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.papajohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OYgsvw32WvKEsXID28ibG_41.964288_-91.714228@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115370,
+    "wof:geomhash":"1648219ee1b51f99e1791eda188572fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070833
+        }
+    ],
+    "wof:id":857070833,
+    "wof:lastmodified":1464115370,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.714228,
+    41.964288,
+    -91.714228,
+    41.964288
+],
+  "geometry": {"coordinates":[-91.71422800000001,41.964288],"type":"Point"}
+}

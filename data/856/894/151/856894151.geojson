@@ -1,0 +1,77 @@
+{
+  "id": 856894151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.255702,42.547609,-96.255702,42.547609",
+    "geom:latitude":42.547609,
+    "geom:longitude":-96.255702,
+    "iso:country":"US",
+    "sg:address":"1779 110th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 4328",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b4VnZ21VJNcdgWUbR2nQ3_42.547609_-96.255702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107838,
+    "wof:geomhash":"1afbd881de3ca48024ec05a91d33ab7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856894151
+        }
+    ],
+    "wof:id":856894151,
+    "wof:lastmodified":1464107838,
+    "wof:name":"Anderson Heating & Cooling",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.255702,
+    42.547609,
+    -96.255702,
+    42.547609
+],
+  "geometry": {"coordinates":[-96.255702,42.547609],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857023405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.931078,41.838738,-93.931078,41.838738",
+    "geom:latitude":41.838738,
+    "geom:longitude":-93.931078,
+    "iso:country":"US",
+    "sg:address":"1385 S Ave",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 4268",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZrHQiOQeKTJzB7OUItpox_41.838738_-93.931078@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113328,
+    "wof:geomhash":"c235fc2359daf22ae61ce954e1784f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857023405
+        }
+    ],
+    "wof:id":857023405,
+    "wof:lastmodified":1464113328,
+    "wof:name":"Prairieland Herbs",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -93.931078,
+    41.838738,
+    -93.931078,
+    41.838738
+],
+  "geometry": {"coordinates":[-93.931078,41.838738],"type":"Point"}
+}

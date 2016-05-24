@@ -1,0 +1,75 @@
+{
+  "id": 856837399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599813,42.062801,-91.599813,42.062801",
+    "geom:latitude":42.062801,
+    "geom:longitude":-91.599813,
+    "iso:country":"US",
+    "sg:address":"4008 Bruce Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 7100",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CZMn85rPit57mS6k83HKe_42.062801_-91.599813@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104881,
+    "wof:geomhash":"a096672577a9f4d59a7479d10fdec6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856837399
+        }
+    ],
+    "wof:id":856837399,
+    "wof:lastmodified":1464104881,
+    "wof:name":"International Copier Exch Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -91.599813,
+    42.062801,
+    -91.599813,
+    42.062801
+],
+  "geometry": {"coordinates":[-91.599813,42.062801],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856913587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.58031,41.87065,-91.58031,41.87065",
+    "geom:latitude":41.87065,
+    "geom:longitude":-91.58031,
+    "iso:country":"US",
+    "sg:address":"1220 Pacific St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 3346",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mUeMzJ0hCDDhF55xXPrkp_41.870650_-91.580310@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108562,
+    "wof:geomhash":"3366cce8ef701ae87b4831f4d654cb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856913587
+        }
+    ],
+    "wof:id":856913587,
+    "wof:lastmodified":1464108562,
+    "wof:name":"Mht Trucking Inc",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.58031,
+    41.87065,
+    -91.58031,
+    41.87065
+],
+  "geometry": {"coordinates":[-91.58031,41.87065],"type":"Point"}
+}

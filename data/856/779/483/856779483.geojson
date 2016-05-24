@@ -1,0 +1,75 @@
+{
+  "id": 856779483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.695962,41.580353,-93.695962,41.580353",
+    "geom:latitude":41.580353,
+    "geom:longitude":-93.695962,
+    "iso:country":"US",
+    "sg:address":"333 58th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 279 8366",
+    "sg:postcode":"50312",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EP1c3eeezsB8NZOGqSlp8_41.580353_-93.695962@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102427,
+    "wof:geomhash":"dc6463f83d53241936e4e364e251b6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877117,
+            "region_id":85688713,
+            "venue_id":856779483
+        }
+    ],
+    "wof:id":856779483,
+    "wof:lastmodified":1464102427,
+    "wof:name":"Division 3 Constructors",
+    "wof:parent_id":85877117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.695962,
+    41.580353,
+    -93.695962,
+    41.580353
+],
+  "geometry": {"coordinates":[-93.69596199999999,41.580353],"type":"Point"}
+}

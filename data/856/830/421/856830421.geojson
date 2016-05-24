@@ -1,0 +1,68 @@
+{
+  "id": 856830421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.769497,41.595536,-93.769497,41.595536",
+    "geom:latitude":41.595536,
+    "geom:longitude":-93.769497,
+    "iso:country":"US",
+    "sg:address":"4949 Westown Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 221 6648",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m2StzREcMJBPWPknduz48_41.595536_-93.769497@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104528,
+    "wof:geomhash":"0be5e957a2012a286093d3c38e123bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896537,
+            "region_id":85688713,
+            "venue_id":856830421
+        }
+    ],
+    "wof:id":856830421,
+    "wof:lastmodified":1464104528,
+    "wof:name":"Dan Stanbrough",
+    "wof:parent_id":85896537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.769497,
+    41.595536,
+    -93.769497,
+    41.595536
+],
+  "geometry": {"coordinates":[-93.769497,41.595536],"type":"Point"}
+}

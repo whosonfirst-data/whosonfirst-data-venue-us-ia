@@ -1,0 +1,73 @@
+{
+  "id": 856848047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.616021,41.640594,-93.616021,41.640594",
+    "geom:latitude":41.640594,
+    "geom:longitude":-93.616021,
+    "iso:country":"US",
+    "sg:address":"260 NE 44th Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 1151",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944061,
+        102086603,
+        85896373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AfjKNXexWB2PDn5Q701nq_41.640594_-93.616021@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105396,
+    "wof:geomhash":"4341d14e3093eb3fd7db9c80d4917965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896373,
+            "region_id":85688713,
+            "venue_id":856848047
+        }
+    ],
+    "wof:id":856848047,
+    "wof:lastmodified":1464105396,
+    "wof:name":"Al De Carlo Demolition Co",
+    "wof:parent_id":85896373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.616021,
+    41.640594,
+    -93.616021,
+    41.640594
+],
+  "geometry": {"coordinates":[-93.616021,41.640594],"type":"Point"}
+}

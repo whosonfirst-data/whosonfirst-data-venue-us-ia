@@ -1,0 +1,73 @@
+{
+  "id": 856946095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.581144,41.720552,-93.581144,41.720552",
+    "geom:latitude":41.720552,
+    "geom:longitude":-93.581144,
+    "iso:country":"US",
+    "sg:address":"901 SE Delaware Ave",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 965 2515",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DNQt6Son4yuyE1t4nLo3M_41.720552_-93.581144@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109923,
+    "wof:geomhash":"634af67b84d48ee3133f2e6200dbef97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896313,
+            "region_id":85688713,
+            "venue_id":856946095
+        }
+    ],
+    "wof:id":856946095,
+    "wof:lastmodified":1464109923,
+    "wof:name":"Delaware Crossing Apartments",
+    "wof:parent_id":85896313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.581144,
+    41.720552,
+    -93.581144,
+    41.720552
+],
+  "geometry": {"coordinates":[-93.58114399999999,41.720552],"type":"Point"}
+}

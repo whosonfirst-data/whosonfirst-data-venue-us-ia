@@ -1,0 +1,73 @@
+{
+  "id": 857057495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.809096,41.588598,-93.809096,41.588598",
+    "geom:latitude":41.588598,
+    "geom:longitude":-93.809096,
+    "iso:country":"US",
+    "sg:address":"1320 Jordan Creek Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/boone/202758-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eCvqnbIt5eW2hjcm2rWCs_41.588598_-93.809096@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114806,
+    "wof:geomhash":"bdfa65d2facd1b1d874d24912d39bb3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857057495
+        }
+    ],
+    "wof:id":857057495,
+    "wof:lastmodified":1464114806,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.809096,
+    41.588598,
+    -93.809096,
+    41.588598
+],
+  "geometry": {"coordinates":[-93.809096,41.588598],"type":"Point"}
+}

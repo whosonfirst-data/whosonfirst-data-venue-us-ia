@@ -1,0 +1,75 @@
+{
+  "id": 857033611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676267,41.915184,-91.676267,41.915184",
+    "geom:latitude":41.915184,
+    "geom:longitude":-91.676267,
+    "iso:country":"US",
+    "sg:address":"6355 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 2255",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "heat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gUQUTvPyKoXin3fmeBnZw_41.915184_-91.676267@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113807,
+    "wof:geomhash":"82322f5294766be32d2d854510f64a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857033611
+        }
+    ],
+    "wof:id":857033611,
+    "wof:lastmodified":1464113807,
+    "wof:name":"Insulation Plus",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat"
+    ]
+},
+  "bbox": [
+    -91.676267,
+    41.915184,
+    -91.676267,
+    41.915184
+],
+  "geometry": {"coordinates":[-91.676267,41.915184],"type":"Point"}
+}

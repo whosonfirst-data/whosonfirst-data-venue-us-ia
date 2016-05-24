@@ -1,0 +1,73 @@
+{
+  "id": 856863761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.962442,41.688308,-93.962442,41.688308",
+    "geom:latitude":41.688308,
+    "geom:longitude":-93.962442,
+    "iso:country":"US",
+    "sg:address":"1403 Sugar Grove Ave",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3222",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rRaIi6xG4mtqa1TrVEPtJ_41.688308_-93.962442@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106148,
+    "wof:geomhash":"3fdc1463200bf2ee028acdec0001451b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856863761
+        }
+    ],
+    "wof:id":856863761,
+    "wof:lastmodified":1464106148,
+    "wof:name":"Luellen Brothers Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.962442,
+    41.688308,
+    -93.962442,
+    41.688308
+],
+  "geometry": {"coordinates":[-93.962442,41.688308],"type":"Point"}
+}

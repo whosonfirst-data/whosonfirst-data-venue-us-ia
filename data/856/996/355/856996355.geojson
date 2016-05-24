@@ -1,0 +1,73 @@
+{
+  "id": 856996355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.888494,41.610357,-93.888494,41.610357",
+    "geom:latitude":41.610357,
+    "geom:longitude":-93.888494,
+    "iso:country":"US",
+    "sg:address":"740 Locust St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4277",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yWfrYXO9htvGoH95UlGBG_41.610357_-93.888494@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112237,
+    "wof:geomhash":"21527b31143b1cc4ecc8bbb71e8285b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856996355
+        }
+    ],
+    "wof:id":856996355,
+    "wof:lastmodified":1464112237,
+    "wof:name":"Electro-Serv Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.888494,
+    41.610357,
+    -93.888494,
+    41.610357
+],
+  "geometry": {"coordinates":[-93.88849399999999,41.610357],"type":"Point"}
+}

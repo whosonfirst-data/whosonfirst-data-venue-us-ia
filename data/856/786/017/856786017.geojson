@@ -1,0 +1,72 @@
+{
+  "id": 856786017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.733727,41.968235,-91.733727,41.968235",
+    "geom:latitude":41.968235,
+    "geom:longitude":-91.733727,
+    "iso:country":"US",
+    "sg:address":"4700 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 6361",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.saintmarksumc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w84s8DWwpVV2I0vzjWaLj_41.968235_-91.733727@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102614,
+    "wof:geomhash":"92a796e66a421305707e4bbcfb535408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856786017
+        }
+    ],
+    "wof:id":856786017,
+    "wof:lastmodified":1464102614,
+    "wof:name":"St Mark's United Methodist",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.733727,
+    41.968235,
+    -91.733727,
+    41.968235
+],
+  "geometry": {"coordinates":[-91.733727,41.968235],"type":"Point"}
+}

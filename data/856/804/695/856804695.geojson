@@ -1,0 +1,71 @@
+{
+  "id": 856804695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.951083,41.531951,-93.951083,41.531951",
+    "geom:latitude":41.531951,
+    "geom:longitude":-93.951083,
+    "iso:country":"US",
+    "sg:address":"420 Mill St",
+    "sg:city":"Van Meter",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 996 2567",
+    "sg:postcode":"50261",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086603,
+        85896529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XW9GacrcKuR0XwchP4oPU_41.531951_-93.951083@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103389,
+    "wof:geomhash":"39d4b30b80a4524d9186a8355ef72c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896529,
+            "region_id":85688713,
+            "venue_id":856804695
+        }
+    ],
+    "wof:id":856804695,
+    "wof:lastmodified":1464103389,
+    "wof:name":"Hair Tech",
+    "wof:parent_id":85896529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.951083,
+    41.531951,
+    -93.951083,
+    41.531951
+],
+  "geometry": {"coordinates":[-93.951083,41.531951],"type":"Point"}
+}

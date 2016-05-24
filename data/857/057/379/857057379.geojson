@@ -1,0 +1,72 @@
+{
+  "id": 857057379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.675713,41.482831,-93.675713,41.482831",
+    "geom:latitude":41.482831,
+    "geom:longitude":-93.675713,
+    "iso:country":"US",
+    "sg:address":"1510 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/linn/226029-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0503",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZmTBsM0eYngOu68vAiVw7_41.482831_-93.675713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114802,
+    "wof:geomhash":"cf6cd038a09d48b7fd5a945744ac6a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857057379
+        }
+    ],
+    "wof:id":857057379,
+    "wof:lastmodified":1464114802,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.675713,
+    41.482831,
+    -93.675713,
+    41.482831
+],
+  "geometry": {"coordinates":[-93.675713,41.482831],"type":"Point"}
+}

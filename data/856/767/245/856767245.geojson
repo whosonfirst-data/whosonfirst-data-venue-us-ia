@@ -1,0 +1,73 @@
+{
+  "id": 856767245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.85037,41.347741,-95.85037,41.347741",
+    "geom:latitude":41.347741,
+    "geom:longitude":-95.85037,
+    "iso:country":"US",
+    "sg:address":"17298 Lapworth Ln",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3000",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78jW3mqmbam7dRPtRI1auQ_41.347741_-95.850370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102131,
+    "wof:geomhash":"1ed941b0f72bd030b4559d8ed52ecc61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856767245
+        }
+    ],
+    "wof:id":856767245,
+    "wof:lastmodified":1464102131,
+    "wof:name":"Leazenby Construction Inc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.85037,
+    41.347741,
+    -95.85037,
+    41.347741
+],
+  "geometry": {"coordinates":[-95.85037,41.347741],"type":"Point"}
+}

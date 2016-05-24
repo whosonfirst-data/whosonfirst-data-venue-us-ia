@@ -1,0 +1,68 @@
+{
+  "id": 856972025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.777356,41.658432,-93.777356,41.658432",
+    "geom:latitude":41.658432,
+    "geom:longitude":-93.777356,
+    "iso:country":"US",
+    "sg:address":"11500 NW 54th Ave",
+    "sg:city":"Grimes",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 986 3171",
+    "sg:postcode":"50111",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944147,
+        102086603,
+        85896483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02O1U8MInaX7GeK7kiggBH_41.658432_-93.777356@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111059,
+    "wof:geomhash":"d862b1e12a2bf9fadb598901ecb62e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944147,
+            "neighbourhood_id":85896483,
+            "region_id":85688713,
+            "venue_id":856972025
+        }
+    ],
+    "wof:id":856972025,
+    "wof:lastmodified":1464111059,
+    "wof:name":"Metro West Learning Academy",
+    "wof:parent_id":85896483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.777356,
+    41.658432,
+    -93.777356,
+    41.658432
+],
+  "geometry": {"coordinates":[-93.777356,41.658432],"type":"Point"}
+}

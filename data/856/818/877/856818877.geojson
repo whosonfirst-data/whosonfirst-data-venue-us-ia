@@ -1,0 +1,73 @@
+{
+  "id": 856818877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.36934,42.470114,-96.36934,42.470114",
+    "geom:latitude":42.470114,
+    "geom:longitude":-96.36934,
+    "iso:country":"US",
+    "sg:address":"1933 S Alice St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 9125",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49cdMnXUKoBKv40J3siMyu_42.470114_-96.369340@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103997,
+    "wof:geomhash":"00201fdd895ac5e77c25ff0c5b04ec1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856818877
+        }
+    ],
+    "wof:id":856818877,
+    "wof:lastmodified":1464103997,
+    "wof:name":"Dacotah House Apartments",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.36934,
+    42.470114,
+    -96.36934,
+    42.470114
+],
+  "geometry": {"coordinates":[-96.36933999999999,42.470114],"type":"Point"}
+}

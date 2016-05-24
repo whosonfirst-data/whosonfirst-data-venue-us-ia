@@ -1,0 +1,73 @@
+{
+  "id": 856845055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.482935,41.636319,-91.482935,41.636319",
+    "geom:latitude":41.636319,
+    "geom:longitude":-91.482935,
+    "iso:country":"US",
+    "sg:address":"2401 Scott Blvd SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 9000",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MR0SIQKDxzcArVkRhtx3N_41.636319_-91.482935@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105234,
+    "wof:geomhash":"3f8daae55bef2fd13ab85fb3b237e36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856845055
+        }
+    ],
+    "wof:id":856845055,
+    "wof:lastmodified":1464105234,
+    "wof:name":"Iowa City Cleanup & Transfer",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -91.482935,
+    41.636319,
+    -91.482935,
+    41.636319
+],
+  "geometry": {"coordinates":[-91.482935,41.636319],"type":"Point"}
+}

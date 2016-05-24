@@ -1,0 +1,71 @@
+{
+  "id": 856811829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.34734,41.299058,-93.34734,41.299058",
+    "geom:latitude":41.299058,
+    "geom:longitude":-93.34734,
+    "iso:country":"US",
+    "sg:address":"1534 240th Ave",
+    "sg:city":"Pleasantville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6342",
+    "sg:postcode":"50225",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fu0SekfrP6R8hou8DhQOQ_41.299058_-93.347340@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103708,
+    "wof:geomhash":"1bbd25c76cde871e5ade25da2abee120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856811829
+        }
+    ],
+    "wof:id":856811829,
+    "wof:lastmodified":1464103708,
+    "wof:name":"Alta Michener",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.34734,
+    41.299058,
+    -93.34734,
+    41.299058
+],
+  "geometry": {"coordinates":[-93.34734,41.299058],"type":"Point"}
+}

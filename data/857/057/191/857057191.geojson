@@ -1,0 +1,74 @@
+{
+  "id": 857057191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.958642,41.688244,-93.958642,41.688244",
+    "geom:latitude":41.688244,
+    "geom:longitude":-93.958642,
+    "iso:country":"US",
+    "sg:address":"1202 Sugar Grove Ave",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sugar-grove/225852-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3698",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BjFdUC1YCP2d2XJSzec0B_41.688244_-93.958642@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114796,
+    "wof:geomhash":"c2e77de3d4e2696ff2daa0354f7d0267",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057191
+        }
+    ],
+    "wof:id":857057191,
+    "wof:lastmodified":1464114796,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.958642,
+    41.688244,
+    -93.958642,
+    41.688244
+],
+  "geometry": {"coordinates":[-93.958642,41.688244],"type":"Point"}
+}

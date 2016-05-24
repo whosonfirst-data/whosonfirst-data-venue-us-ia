@@ -1,0 +1,71 @@
+{
+  "id": 856845003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.022723,41.617301,-94.022723,41.617301",
+    "geom:latitude":41.617301,
+    "geom:longitude":-94.022723,
+    "iso:country":"US",
+    "sg:address":"1112 Main St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3809",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NYrPrUpz9lOpzsjEnEpOR_41.617301_-94.022723@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105232,
+    "wof:geomhash":"9e223622786268bd5152153deacb45a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856845003
+        }
+    ],
+    "wof:id":856845003,
+    "wof:lastmodified":1464105232,
+    "wof:name":"Herff Jones Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -94.022723,
+    41.617301,
+    -94.022723,
+    41.617301
+],
+  "geometry": {"coordinates":[-94.022723,41.617301],"type":"Point"}
+}

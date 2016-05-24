@@ -1,0 +1,68 @@
+{
+  "id": 857012935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.416804,42.512541,-96.416804,42.512541",
+    "geom:latitude":42.512541,
+    "geom:longitude":-96.416804,
+    "iso:country":"US",
+    "sg:address":"2001 Hamilton Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 3241",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cdUx2c3RemACyuCR8uMSZ_42.512541_-96.416804@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112903,
+    "wof:geomhash":"e95ae4d3e7aa6efdc950336153961bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857012935
+        }
+    ],
+    "wof:id":857012935,
+    "wof:lastmodified":1464112903,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.416804,
+    42.512541,
+    -96.416804,
+    42.512541
+],
+  "geometry": {"coordinates":[-96.416804,42.512541],"type":"Point"}
+}

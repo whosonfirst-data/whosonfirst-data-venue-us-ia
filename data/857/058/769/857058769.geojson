@@ -1,0 +1,73 @@
+{
+  "id": 857058769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867664,41.261841,-95.867664,41.261841",
+    "geom:latitude":41.261841,
+    "geom:longitude":-95.867664,
+    "iso:country":"US",
+    "sg:address":"1607 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/202661-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VEAz5WVKfeWrp95vNB17h_41.261841_-95.867664@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114855,
+    "wof:geomhash":"b1645adea60c77f1eba51d32def8d6a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857058769
+        }
+    ],
+    "wof:id":857058769,
+    "wof:lastmodified":1464114855,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.867664,
+    41.261841,
+    -95.867664,
+    41.261841
+],
+  "geometry": {"coordinates":[-95.867664,41.261841],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857069443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.637901,41.977001,-91.637901,41.977001",
+    "geom:latitude":41.977001,
+    "geom:longitude":-91.637901,
+    "iso:country":"US",
+    "sg:address":"1910 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3010",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WfgOsH4jv6uAHByYPHGas_41.977001_-91.637901@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115303,
+    "wof:geomhash":"b5cadd52c4d1da28ca9036bfbc5eda91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069443
+        }
+    ],
+    "wof:id":857069443,
+    "wof:lastmodified":1464115303,
+    "wof:name":"Kays Kanine",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.637901,
+    41.977001,
+    -91.637901,
+    41.977001
+],
+  "geometry": {"coordinates":[-91.637901,41.977001],"type":"Point"}
+}

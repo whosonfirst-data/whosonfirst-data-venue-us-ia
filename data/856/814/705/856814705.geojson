@@ -1,0 +1,73 @@
+{
+  "id": 856814705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.746563,41.606293,-93.746563,41.606293",
+    "geom:latitude":41.606293,
+    "geom:longitude":-93.746563,
+    "iso:country":"US",
+    "sg:address":"1699 NW 93rd Ct",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 224 9689",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hbc1GFwebyVfmBWsOQiTg_41.606293_-93.746563@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103820,
+    "wof:geomhash":"eb9930c5e77852c8b67a4f44ce0974a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896539,
+            "region_id":85688713,
+            "venue_id":856814705
+        }
+    ],
+    "wof:id":856814705,
+    "wof:lastmodified":1464103820,
+    "wof:name":"Housewatchers & Pet Care",
+    "wof:parent_id":85896539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -93.746563,
+    41.606293,
+    -93.746563,
+    41.606293
+],
+  "geometry": {"coordinates":[-93.74656299999999,41.606293],"type":"Point"}
+}

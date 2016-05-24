@@ -1,0 +1,77 @@
+{
+  "id": 856823223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.646264,41.994202,-91.646264,41.994202",
+    "geom:latitude":41.994202,
+    "geom:longitude":-91.646264,
+    "iso:country":"US",
+    "sg:address":"1817 B Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2421",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46EU3LImNUF4JrlCIElbeV_41.994202_-91.646264@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104233,
+    "wof:geomhash":"fe1330de5e53ca0481f7181cd25f6ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856823223
+        }
+    ],
+    "wof:id":856823223,
+    "wof:lastmodified":1464104233,
+    "wof:name":"Cedar Valley Heating AC",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.646264,
+    41.994202,
+    -91.646264,
+    41.994202
+],
+  "geometry": {"coordinates":[-91.646264,41.994202],"type":"Point"}
+}

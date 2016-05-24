@@ -1,0 +1,75 @@
+{
+  "id": 856899359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.642261,41.488079,-90.642261,41.488079",
+    "geom:latitude":41.488079,
+    "geom:longitude":-90.642261,
+    "iso:country":"US",
+    "sg:address":"4505 Wapello Ave",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 4452",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MtnoFNDwkKVixFYICNOpy_41.488079_-90.642261@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108029,
+    "wof:geomhash":"3dc93ceb57913c2230d8abfb6cce8c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856899359
+        }
+    ],
+    "wof:id":856899359,
+    "wof:lastmodified":1464108029,
+    "wof:name":"Century Auto",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.642261,
+    41.488079,
+    -90.642261,
+    41.488079
+],
+  "geometry": {"coordinates":[-90.642261,41.488079],"type":"Point"}
+}

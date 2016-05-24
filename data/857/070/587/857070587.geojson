@@ -1,0 +1,75 @@
+{
+  "id": 857070587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.762725,41.967156,-91.762725,41.967156",
+    "geom:latitude":41.967156,
+    "geom:longitude":-91.762725,
+    "iso:country":"US",
+    "sg:address":"403 Westridge Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 265 4255",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "party",
+        "planning",
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g6u0mI8J6jxEP8tSA3LUQ_41.967156_-91.762725@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115362,
+    "wof:geomhash":"5b8794ca4f8e4317a88504ea81d4e7f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070587
+        }
+    ],
+    "wof:id":857070587,
+    "wof:lastmodified":1464115362,
+    "wof:name":"Creative Occasions",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -91.762725,
+    41.967156,
+    -91.762725,
+    41.967156
+],
+  "geometry": {"coordinates":[-91.762725,41.967156],"type":"Point"}
+}

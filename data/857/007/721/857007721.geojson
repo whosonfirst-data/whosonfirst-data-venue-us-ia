@@ -1,0 +1,75 @@
+{
+  "id": 857007721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.549773,41.647411,-91.549773,41.647411",
+    "geom:latitude":41.647411,
+    "geom:longitude":-91.549773,
+    "iso:country":"US",
+    "sg:address":"612 State Hwy 1",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 3886",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w6UPZTrh6bq7VCHqjiimH_41.647411_-91.549773@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112687,
+    "wof:geomhash":"a9e09bb5b4f0dfab447bbeba0178bb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":857007721
+        }
+    ],
+    "wof:id":857007721,
+    "wof:lastmodified":1464112687,
+    "wof:name":"Gluten Evolution",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -91.549773,
+    41.647411,
+    -91.549773,
+    41.647411
+],
+  "geometry": {"coordinates":[-91.549773,41.647411],"type":"Point"}
+}

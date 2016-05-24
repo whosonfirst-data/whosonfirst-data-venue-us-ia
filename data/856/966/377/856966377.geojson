@@ -1,0 +1,73 @@
+{
+  "id": 856966377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657765,41.913524,-91.657765,41.913524",
+    "geom:latitude":41.913524,
+    "geom:longitude":-91.657765,
+    "iso:country":"US",
+    "sg:address":"6625 Preston Terrace Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 1186",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bx7Y2OU9gF6QLP7MqWVMt_41.913524_-91.657765@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110805,
+    "wof:geomhash":"49f4c648f447962ec64e126a79f4bf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856966377
+        }
+    ],
+    "wof:id":856966377,
+    "wof:lastmodified":1464110805,
+    "wof:name":"All Season Janitorial",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.657765,
+    41.913524,
+    -91.657765,
+    41.913524
+],
+  "geometry": {"coordinates":[-91.657765,41.913524],"type":"Point"}
+}

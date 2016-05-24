@@ -1,0 +1,73 @@
+{
+  "id": 856827859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.567252,41.673768,-91.567252,41.673768",
+    "geom:latitude":41.673768,
+    "geom:longitude":-91.567252,
+    "iso:country":"US",
+    "sg:address":"115 5th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3414",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kgx8gWM6hX50rm8kw8RQ7_41.673768_-91.567252@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104424,
+    "wof:geomhash":"b917ae1e55a74ac7c5d6f5d20c9893aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":856827859
+        }
+    ],
+    "wof:id":856827859,
+    "wof:lastmodified":1464104424,
+    "wof:name":"Family Dental Ctr",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.567252,
+    41.673768,
+    -91.567252,
+    41.673768
+],
+  "geometry": {"coordinates":[-91.567252,41.673768],"type":"Point"}
+}

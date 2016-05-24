@@ -1,0 +1,78 @@
+{
+  "id": 856992065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.600708,41.678909,-93.600708,41.678909",
+    "geom:latitude":41.678909,
+    "geom:longitude":-93.600708,
+    "iso:country":"US",
+    "sg:address":"6450 NE 14th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 289 1370",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "sg:website":"www.dplmadvantage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85945067,
+        102086603,
+        85847289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04XcDkf7tFeqIpXHTSnTM8_41.678909_-93.600708@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112056,
+    "wof:geomhash":"5d4a0e8f4a8592dea1b10dd4f025bae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85945067,
+            "neighbourhood_id":85847289,
+            "region_id":85688713,
+            "venue_id":856992065
+        }
+    ],
+    "wof:id":856992065,
+    "wof:lastmodified":1464112056,
+    "wof:name":"Dennis Parking Lot Maintenance",
+    "wof:parent_id":85847289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -93.600708,
+    41.678909,
+    -93.600708,
+    41.678909
+],
+  "geometry": {"coordinates":[-93.600708,41.678909],"type":"Point"}
+}

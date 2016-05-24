@@ -1,0 +1,75 @@
+{
+  "id": 857021549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.181037,43.044527,-91.181037,43.044527",
+    "geom:latitude":43.044527,
+    "geom:longitude":-91.181037,
+    "iso:country":"US",
+    "sg:address":"216 Edgar St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 1200",
+    "sg:postcode":"52158",
+    "sg:province":"IA",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XUksUh7OnViKyY9aM6rdp_43.044527_-91.181037@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113257,
+    "wof:geomhash":"a3e3ad8062c7370902fd2162d8739788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":857021549
+        }
+    ],
+    "wof:id":857021549,
+    "wof:lastmodified":1464113257,
+    "wof:name":"City Of Marquette Tourist Info",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -91.181037,
+    43.044527,
+    -91.181037,
+    43.044527
+],
+  "geometry": {"coordinates":[-91.181037,43.044527],"type":"Point"}
+}

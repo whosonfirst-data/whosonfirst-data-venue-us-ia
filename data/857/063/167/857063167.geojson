@@ -1,0 +1,71 @@
+{
+  "id": 857063167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902298,41.2598,-95.902298,41.2598",
+    "geom:latitude":41.2598,
+    "geom:longitude":-95.902298,
+    "iso:country":"US",
+    "sg:address":"3524 2nd Ave Ofc",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 0684",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_774yJMXnSTNK3BtpAY43Wm_41.259800_-95.902298@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115027,
+    "wof:geomhash":"be62e035297904c89f8da2502893feed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063167
+        }
+    ],
+    "wof:id":857063167,
+    "wof:lastmodified":1464115027,
+    "wof:name":"Maple Park Apartments",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.902298,
+    41.2598,
+    -95.902298,
+    41.2598
+],
+  "geometry": {"coordinates":[-95.902298,41.2598],"type":"Point"}
+}

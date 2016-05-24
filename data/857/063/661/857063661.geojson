@@ -1,0 +1,73 @@
+{
+  "id": 857063661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8181,41.242401,-95.8181,41.242401",
+    "geom:latitude":41.242401,
+    "geom:longitude":-95.8181,
+    "iso:country":"US",
+    "sg:address":"1430 Valley View Ln",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7249",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qtm8bjs6rt0xEU3Q8gZHk_41.242401_-95.818100@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115044,
+    "wof:geomhash":"ccbc730f58b490eb1124704c80a5f97f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063661
+        }
+    ],
+    "wof:id":857063661,
+    "wof:lastmodified":1464115044,
+    "wof:name":"Cindy's Pet Grooming",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -95.8181,
+    41.242401,
+    -95.8181,
+    41.242401
+],
+  "geometry": {"coordinates":[-95.8181,41.242401],"type":"Point"}
+}

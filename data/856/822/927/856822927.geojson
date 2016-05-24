@@ -1,0 +1,73 @@
+{
+  "id": 856822927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105087,41.839462,-94.105087,41.839462",
+    "geom:latitude":41.839462,
+    "geom:longitude":-94.105087,
+    "iso:country":"US",
+    "sg:address":"1108 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5018",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g9OhdIuhJYNsOucNP8q3S_41.839462_-94.105087@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104223,
+    "wof:geomhash":"9d0891277dc887210b0f7eea5d9fbca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856822927
+        }
+    ],
+    "wof:id":856822927,
+    "wof:lastmodified":1464104223,
+    "wof:name":"Showtime Dance Studio",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -94.105087,
+    41.839462,
+    -94.105087,
+    41.839462
+],
+  "geometry": {"coordinates":[-94.105087,41.839462],"type":"Point"}
+}

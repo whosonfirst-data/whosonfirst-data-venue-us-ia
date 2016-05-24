@@ -1,0 +1,73 @@
+{
+  "id": 856890095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724203,41.959129,-91.724203,41.959129",
+    "geom:latitude":41.959129,
+    "geom:longitude":-91.724203,
+    "iso:country":"US",
+    "sg:address":"4089 21st Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 654 9195",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wgubaO6iWfhDnQsYMCtuZ_41.959129_-91.724203@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107688,
+    "wof:geomhash":"e5b9dd9359c2cae91bf34b0850bc42df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856890095
+        }
+    ],
+    "wof:id":856890095,
+    "wof:lastmodified":1464107688,
+    "wof:name":"Systems Unlimited",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -91.724203,
+    41.959129,
+    -91.724203,
+    41.959129
+],
+  "geometry": {"coordinates":[-91.724203,41.959129],"type":"Point"}
+}

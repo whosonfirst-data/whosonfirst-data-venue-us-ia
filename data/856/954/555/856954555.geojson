@@ -1,0 +1,73 @@
+{
+  "id": 856954555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.422032,41.925063,-91.422032,41.925063",
+    "geom:latitude":41.925063,
+    "geom:longitude":-91.422032,
+    "iso:country":"US",
+    "sg:address":"600 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 4499",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fEcoa4iesYoEZr5CF0qIg_41.925063_-91.422032@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110304,
+    "wof:geomhash":"93ddee06a99180955462b30902bcdd4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856954555
+        }
+    ],
+    "wof:id":856954555,
+    "wof:lastmodified":1464110304,
+    "wof:name":"Cornell College",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -91.422032,
+    41.925063,
+    -91.422032,
+    41.925063
+],
+  "geometry": {"coordinates":[-91.422032,41.925063],"type":"Point"}
+}

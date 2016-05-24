@@ -1,0 +1,73 @@
+{
+  "id": 856785161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.516764,41.508859,-93.516764,41.508859",
+    "geom:latitude":41.508859,
+    "geom:longitude":-93.516764,
+    "iso:country":"US",
+    "sg:address":"1526 State Hwy 5",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 2061",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yIlx3LeE3YPED8AhBg8oK_41.508859_-93.516764@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102580,
+    "wof:geomhash":"d97a638f5429b6ffbe169eaeedcb1c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856785161
+        }
+    ],
+    "wof:id":856785161,
+    "wof:lastmodified":1464102580,
+    "wof:name":"Transwood Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.516764,
+    41.508859,
+    -93.516764,
+    41.508859
+],
+  "geometry": {"coordinates":[-93.51676399999999,41.508859],"type":"Point"}
+}

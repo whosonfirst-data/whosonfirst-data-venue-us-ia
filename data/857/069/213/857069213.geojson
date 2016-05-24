@@ -1,0 +1,71 @@
+{
+  "id": 857069213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652,42.035301,-91.652,42.035301",
+    "geom:latitude":42.035301,
+    "geom:longitude":-91.652,
+    "iso:country":"US",
+    "sg:address":"1150 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 6557",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZTuDrbZy5PYDuMkCGxa4P_42.035301_-91.652000@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115296,
+    "wof:geomhash":"cab7502c04e42f2be7f670c0a24d6176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069213
+        }
+    ],
+    "wof:id":857069213,
+    "wof:lastmodified":1464115296,
+    "wof:name":"Northtowne Ltd Cycling & Fitness",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -91.652,
+    42.035301,
+    -91.652,
+    42.035301
+],
+  "geometry": {"coordinates":[-91.652,42.035301],"type":"Point"}
+}

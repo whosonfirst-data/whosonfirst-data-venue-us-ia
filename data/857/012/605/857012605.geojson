@@ -1,0 +1,75 @@
+{
+  "id": 857012605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.67612,41.555614,-93.67612,41.555614",
+    "geom:latitude":41.555614,
+    "geom:longitude":-93.67612,
+    "iso:country":"US",
+    "sg:address":"4333 Park Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 6312",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "diving",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ojl4kYTX24huwLu9apoQ8_41.555614_-93.676120@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112888,
+    "wof:geomhash":"1dd0516287e80ac1b450fa2177e4c569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877107,
+            "region_id":85688713,
+            "venue_id":857012605
+        }
+    ],
+    "wof:id":857012605,
+    "wof:lastmodified":1464112888,
+    "wof:name":"Matt Leydens Dive Shop",
+    "wof:parent_id":85877107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -93.67612,
+    41.555614,
+    -93.67612,
+    41.555614
+],
+  "geometry": {"coordinates":[-93.67612,41.555614],"type":"Point"}
+}

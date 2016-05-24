@@ -1,0 +1,73 @@
+{
+  "id": 856872239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.629376,41.600795,-93.629376,41.600795",
+    "geom:latitude":41.600795,
+    "geom:longitude":-93.629376,
+    "iso:country":"US",
+    "sg:address":"801 University Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 9696",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QgefDHPJpk6DcCDCiaptn_41.600795_-93.629376@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106761,
+    "wof:geomhash":"66051e6e9d4c7f5769b395ef2cf8d050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856872239
+        }
+    ],
+    "wof:id":856872239,
+    "wof:lastmodified":1464106761,
+    "wof:name":"Top Value Foods",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.629376,
+    41.600795,
+    -93.629376,
+    41.600795
+],
+  "geometry": {"coordinates":[-93.62937599999999,41.600795],"type":"Point"}
+}

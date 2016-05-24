@@ -1,0 +1,74 @@
+{
+  "id": 856944991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632511,42.019187,-91.632511,42.019187",
+    "geom:latitude":42.019187,
+    "geom:longitude":-91.632511,
+    "iso:country":"US",
+    "sg:address":"3917 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 369 0516",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.automartcr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tpIy9nTdMdIk4OikZXLKy_42.019187_-91.632511@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109887,
+    "wof:geomhash":"4d1d53d65419293751088c4e1d043e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856944991
+        }
+    ],
+    "wof:id":856944991,
+    "wof:lastmodified":1464109887,
+    "wof:name":"Auto Mart",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.632511,
+    42.019187,
+    -91.632511,
+    42.019187
+],
+  "geometry": {"coordinates":[-91.63251099999999,42.019187],"type":"Point"}
+}

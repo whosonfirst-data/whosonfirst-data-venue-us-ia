@@ -1,0 +1,76 @@
+{
+  "id": 856908573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.733663,41.598449,-93.733663,41.598449",
+    "geom:latitude":41.598449,
+    "geom:longitude":-93.733663,
+    "iso:country":"US",
+    "sg:address":"2101 Westown Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 2566",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.physicianseyeclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vR3nYbSJIDAoOggL1fBWT_41.598449_-93.733663@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108369,
+    "wof:geomhash":"592ce6fb3c31e9c40b4a07eafe02d729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856908573
+        }
+    ],
+    "wof:id":856908573,
+    "wof:lastmodified":1464108369,
+    "wof:name":"Physicians Eye Clinic",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.733663,
+    41.598449,
+    -93.733663,
+    41.598449
+],
+  "geometry": {"coordinates":[-93.73366300000001,41.598449],"type":"Point"}
+}

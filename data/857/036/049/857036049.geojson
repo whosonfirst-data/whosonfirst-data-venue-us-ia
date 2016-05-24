@@ -1,0 +1,72 @@
+{
+  "id": 857036049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6213,41.985298,-91.6213,41.985298",
+    "geom:latitude":41.985298,
+    "geom:longitude":-91.6213,
+    "iso:country":"US",
+    "sg:address":"3221 Lindsay Ln SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1261",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "sg:website":"www.templejudah.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05lIsrJWQtyvaIpSFoZeHk_41.985312_-91.620455@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464113934,
+    "wof:geomhash":"1016e8a4f1113639cd4bc0d5f8c20bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857036049
+        }
+    ],
+    "wof:id":857036049,
+    "wof:lastmodified":1464113934,
+    "wof:name":"Temple Judah",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synagogue"
+    ]
+},
+  "bbox": [
+    -91.6213,
+    41.985298,
+    -91.6213,
+    41.985298
+],
+  "geometry": {"coordinates":[-91.62130000000001,41.985298],"type":"Point"}
+}

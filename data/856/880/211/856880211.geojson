@@ -1,0 +1,73 @@
+{
+  "id": 856880211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.174694,43.023761,-91.174694,43.023761",
+    "geom:latitude":43.023761,
+    "geom:longitude":-91.174694,
+    "iso:country":"US",
+    "sg:address":"126 1st St",
+    "sg:city":"Mc Gregor",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 2258",
+    "sg:postcode":"52157",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RdW9RwmMGC1Ws08fgihh8_43.023761_-91.174694@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107164,
+    "wof:geomhash":"03b4790c969bd97fed1b3a274476f691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":856880211
+        }
+    ],
+    "wof:id":856880211,
+    "wof:lastmodified":1464107164,
+    "wof:name":"Mc Gregor Light Plant",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -91.174694,
+    43.023761,
+    -91.174694,
+    43.023761
+],
+  "geometry": {"coordinates":[-91.174694,43.023761],"type":"Point"}
+}

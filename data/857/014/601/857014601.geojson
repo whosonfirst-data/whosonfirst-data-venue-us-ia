@@ -1,0 +1,73 @@
+{
+  "id": 857014601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.861823,41.252412,-95.861823,41.252412",
+    "geom:latitude":41.252412,
+    "geom:longitude":-95.861823,
+    "iso:country":"US",
+    "sg:address":"1205 10th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3200",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m3RuobEyPcJu5K0wRcPyc_41.252412_-95.861823@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112972,
+    "wof:geomhash":"abd8c3ca812d7dd13f23e52f94b70af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857014601
+        }
+    ],
+    "wof:id":857014601,
+    "wof:lastmodified":1464112972,
+    "wof:name":"Bluffs Auto & Truck Parts",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -95.861823,
+    41.252412,
+    -95.861823,
+    41.252412
+],
+  "geometry": {"coordinates":[-95.861823,41.252412],"type":"Point"}
+}

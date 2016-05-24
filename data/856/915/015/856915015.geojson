@@ -1,0 +1,71 @@
+{
+  "id": 856915015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.33808,41.475522,-95.33808,41.475522",
+    "geom:latitude":41.475522,
+    "geom:longitude":-95.33808,
+    "iso:country":"US",
+    "sg:address":"219 W Lyon St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2462",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rsGLhkyt7d3v3yjM7q9pq_41.475522_-95.338080@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108620,
+    "wof:geomhash":"933e1810f62f101738d3f697d6f69b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856915015
+        }
+    ],
+    "wof:id":856915015,
+    "wof:lastmodified":1464108620,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.33808,
+    41.475522,
+    -95.33808,
+    41.475522
+],
+  "geometry": {"coordinates":[-95.33808000000001,41.475522],"type":"Point"}
+}

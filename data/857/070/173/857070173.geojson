@@ -1,0 +1,76 @@
+{
+  "id": 857070173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740248,41.959392,-91.740248,41.959392",
+    "geom:latitude":41.959392,
+    "geom:longitude":-91.740248,
+    "iso:country":"US",
+    "sg:address":"2005 West Post Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 2546",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xt0e9FTaGfTa4Og8SqWtm_41.959392_-91.740248@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115342,
+    "wof:geomhash":"25abeade5d835c81866a191b0618aba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070173
+        }
+    ],
+    "wof:id":857070173,
+    "wof:lastmodified":1464115342,
+    "wof:name":"Cute N Cuddlie Critters",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.740248,
+    41.959392,
+    -91.740248,
+    41.959392
+],
+  "geometry": {"coordinates":[-91.74024799999999,41.959392],"type":"Point"}
+}

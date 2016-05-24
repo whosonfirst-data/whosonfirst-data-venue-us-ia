@@ -1,0 +1,77 @@
+{
+  "id": 856883135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.424256,42.524066,-96.424256,42.524066",
+    "geom:latitude":42.524066,
+    "geom:longitude":-96.424256,
+    "iso:country":"US",
+    "sg:address":"3101 Isabella St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 2768",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VLHmctP7iGGy703FNJkRg_42.524066_-96.424256@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107355,
+    "wof:geomhash":"5a341b5fdefdd2d986dc761e861e4702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856883135
+        }
+    ],
+    "wof:id":856883135,
+    "wof:lastmodified":1464107355,
+    "wof:name":"M&M Pump Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -96.424256,
+    42.524066,
+    -96.424256,
+    42.524066
+],
+  "geometry": {"coordinates":[-96.424256,42.524066],"type":"Point"}
+}

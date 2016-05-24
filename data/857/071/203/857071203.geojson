@@ -1,0 +1,78 @@
+{
+  "id": 857071203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67714,41.978803,-91.67714,41.978803",
+    "geom:latitude":41.978803,
+    "geom:longitude":-91.67714,
+    "iso:country":"US",
+    "sg:address":"301 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1854",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SYfsq0EgBdiehsrXpBr4D_41.978803_-91.677140@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115382,
+    "wof:geomhash":"334984819709428ee0761b0723720c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857071203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071203
+        }
+    ],
+    "wof:id":857071203,
+    "wof:lastmodified":1464115382,
+    "wof:name":"Cedar River Landing Sports Bar & Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.67714,
+    41.978803,
+    -91.67714,
+    41.978803
+],
+  "geometry": {"coordinates":[-91.67713999999999,41.978803],"type":"Point"}
+}

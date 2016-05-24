@@ -1,0 +1,73 @@
+{
+  "id": 856908853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854715,41.292899,-95.854715,41.292899",
+    "geom:latitude":41.292899,
+    "geom:longitude":-95.854715,
+    "iso:country":"US",
+    "sg:address":"20474 Monument Rd",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0068",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U5hPrwe4zlhVHbQV7zy7j_41.292899_-95.854715@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108378,
+    "wof:geomhash":"5ba798181710ffec4e84951b97b362d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856908853
+        }
+    ],
+    "wof:id":856908853,
+    "wof:lastmodified":1464108378,
+    "wof:name":"R D Blue Construction Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.854715,
+    41.292899,
+    -95.854715,
+    41.292899
+],
+  "geometry": {"coordinates":[-95.854715,41.292899],"type":"Point"}
+}

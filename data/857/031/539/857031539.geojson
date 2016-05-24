@@ -1,0 +1,73 @@
+{
+  "id": 857031539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615225,41.951264,-91.615225,41.951264",
+    "geom:latitude":41.951264,
+    "geom:longitude":-91.615225,
+    "iso:country":"US",
+    "sg:address":"3601 Otis Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 0457",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D6jz6fPO00WEhN0lVA9AT_41.951264_-91.615225@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113727,
+    "wof:geomhash":"3b22a1864c3ecef69a560239f29b0198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857031539
+        }
+    ],
+    "wof:id":857031539,
+    "wof:lastmodified":1464113727,
+    "wof:name":"Mather Orchard",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -91.615225,
+    41.951264,
+    -91.615225,
+    41.951264
+],
+  "geometry": {"coordinates":[-91.615225,41.951264],"type":"Point"}
+}

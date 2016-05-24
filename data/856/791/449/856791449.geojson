@@ -1,0 +1,73 @@
+{
+  "id": 856791449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.74844,41.549418,-93.74844,41.549418",
+    "geom:latitude":41.549418,
+    "geom:longitude":-93.74844,
+    "iso:country":"US",
+    "sg:address":"3438 Scenic Vista Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 229 3710",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6psTonshSMoBGrXd0oju8Y_41.549418_-93.748440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102835,
+    "wof:geomhash":"d301c744c7e66da2819f87f2e500fa65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896521,
+            "region_id":85688713,
+            "venue_id":856791449
+        }
+    ],
+    "wof:id":856791449,
+    "wof:lastmodified":1464102835,
+    "wof:name":"Painting Pros",
+    "wof:parent_id":85896521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -93.74844,
+    41.549418,
+    -93.74844,
+    41.549418
+],
+  "geometry": {"coordinates":[-93.74844,41.549418],"type":"Point"}
+}

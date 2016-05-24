@@ -1,0 +1,71 @@
+{
+  "id": 856846383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.657134,42.012264,-91.657134,42.012264",
+    "geom:latitude":42.012264,
+    "geom:longitude":-91.657134,
+    "iso:country":"US",
+    "sg:address":"1234 Center St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 981 6160",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W584ssJ6d2zhz43mZPqwR_42.012264_-91.657134@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105311,
+    "wof:geomhash":"6c8a34dc0a4dca443a726292c47ccea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856846383
+        }
+    ],
+    "wof:id":856846383,
+    "wof:lastmodified":1464105311,
+    "wof:name":"Tim's Painting Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.657134,
+    42.012264,
+    -91.657134,
+    42.012264
+],
+  "geometry": {"coordinates":[-91.657134,42.012264],"type":"Point"}
+}

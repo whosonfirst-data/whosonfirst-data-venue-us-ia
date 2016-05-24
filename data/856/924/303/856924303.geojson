@@ -1,0 +1,75 @@
+{
+  "id": 856924303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.450325,41.439239,-91.450325,41.439239",
+    "geom:latitude":41.439239,
+    "geom:longitude":-91.450325,
+    "iso:country":"US",
+    "sg:address":"6780 Utah Ave SE",
+    "sg:city":"Lone Tree",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 629 4940",
+    "sg:postcode":"52755",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jtNPjnXXiIM1XTPEc16rO_41.439239_-91.450325@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109013,
+    "wof:geomhash":"0390fe4b083c82c0b77335b996e0e635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856924303
+        }
+    ],
+    "wof:id":856924303,
+    "wof:lastmodified":1464109013,
+    "wof:name":"Brenneman Trucking Co",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.450325,
+    41.439239,
+    -91.450325,
+    41.439239
+],
+  "geometry": {"coordinates":[-91.45032500000001,41.439239],"type":"Point"}
+}

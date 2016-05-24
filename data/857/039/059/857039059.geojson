@@ -1,0 +1,76 @@
+{
+  "id": 857039059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629303,42.011002,-91.629303,42.011002",
+    "geom:latitude":42.011002,
+    "geom:longitude":-91.629303,
+    "iso:country":"US",
+    "sg:address":"234 33rd Street Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 4971",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair",
+        "part",
+        "supply"
+    ],
+    "sg:website":"www.connectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BBg0H5hGK1S4xJW7fET2b_42.011129_-91.629715@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114048,
+    "wof:geomhash":"e4bb1854016cc75421759a0f82e2d689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857039059
+        }
+    ],
+    "wof:id":857039059,
+    "wof:lastmodified":1464114048,
+    "wof:name":"Connectronics",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "part",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.629303,
+    42.011002,
+    -91.629303,
+    42.011002
+],
+  "geometry": {"coordinates":[-91.62930299999999,42.011002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856922567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009543,41.48858,-96.009543,41.48858",
+    "geom:latitude":41.48858,
+    "geom:longitude":-96.009543,
+    "iso:country":"US",
+    "sg:address":"32801 Campground Ln",
+    "sg:city":"Missouri Valley",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 642 2069",
+    "sg:postcode":"51555",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IzFPdtzbb6Edj2d75ZiCn_41.488580_-96.009543@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108934,
+    "wof:geomhash":"28d1d3f66e83659025a04301164acfaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872517,
+            "region_id":85688563,
+            "venue_id":856922567
+        }
+    ],
+    "wof:id":856922567,
+    "wof:lastmodified":1464108934,
+    "wof:name":"Wilson Island Camping",
+    "wof:parent_id":85872517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -96.009543,
+    41.48858,
+    -96.009543,
+    41.48858
+],
+  "geometry": {"coordinates":[-96.00954299999999,41.48858],"type":"Point"}
+}

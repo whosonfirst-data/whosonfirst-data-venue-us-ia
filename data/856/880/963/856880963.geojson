@@ -1,0 +1,71 @@
+{
+  "id": 856880963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.817789,41.601606,-93.817789,41.601606",
+    "geom:latitude":41.601606,
+    "geom:longitude":-93.817789,
+    "iso:country":"US",
+    "sg:address":"1070 Brentwood Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 1775",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pTOISQZyzXvm8WtIvOj8U_41.601606_-93.817789@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107203,
+    "wof:geomhash":"a30cf5c666da6a9b0daceb8eaf66f568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856880963
+        }
+    ],
+    "wof:id":856880963,
+    "wof:lastmodified":1464107203,
+    "wof:name":"Broadway Builders Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.817789,
+    41.601606,
+    -93.817789,
+    41.601606
+],
+  "geometry": {"coordinates":[-93.817789,41.601606],"type":"Point"}
+}

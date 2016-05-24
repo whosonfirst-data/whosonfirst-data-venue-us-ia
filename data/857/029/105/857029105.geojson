@@ -1,0 +1,73 @@
+{
+  "id": 857029105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.754903,41.96943,-91.754903,41.96943",
+    "geom:latitude":41.96943,
+    "geom:longitude":-91.754903,
+    "iso:country":"US",
+    "sg:address":"751 Stoney Point Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0876",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61uccsNzqDGkoPiAxJzc6L_41.969430_-91.754903@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113618,
+    "wof:geomhash":"ff6421bb6a51b8e411665efa51f075f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857029105
+        }
+    ],
+    "wof:id":857029105,
+    "wof:lastmodified":1464113618,
+    "wof:name":"CECO-Chuck's Electrical Co",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.754903,
+    41.96943,
+    -91.754903,
+    41.96943
+],
+  "geometry": {"coordinates":[-91.754903,41.96943],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856902359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.503683,41.636981,-91.503683,41.636981",
+    "geom:latitude":41.636981,
+    "geom:longitude":-91.503683,
+    "iso:country":"US",
+    "sg:address":"2216 Arizona Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 341 9367",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LBZMwqv264LdlDNnyzLsv_41.636981_-91.503683@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108136,
+    "wof:geomhash":"303cd95bca2833485b4137315893a900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896445,
+            "region_id":85688713,
+            "venue_id":856902359
+        }
+    ],
+    "wof:id":856902359,
+    "wof:lastmodified":1464108136,
+    "wof:name":"Whitey's Towing & Starting Svc",
+    "wof:parent_id":85896445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -91.503683,
+    41.636981,
+    -91.503683,
+    41.636981
+],
+  "geometry": {"coordinates":[-91.503683,41.636981],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856839649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667621,41.942517,-91.667621,41.942517",
+    "geom:latitude":41.942517,
+    "geom:longitude":-91.667621,
+    "iso:country":"US",
+    "sg:address":"255 Classic Car Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8370",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wKDvtYo4CFE2i6nAff22C_41.942517_-91.667621@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104992,
+    "wof:geomhash":"08ee835972e36e7e9ecd63231615cf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856839649
+        }
+    ],
+    "wof:id":856839649,
+    "wof:lastmodified":1464104992,
+    "wof:name":"Prime Auto Collision Ctr",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.667621,
+    41.942517,
+    -91.667621,
+    41.942517
+],
+  "geometry": {"coordinates":[-91.667621,41.942517],"type":"Point"}
+}

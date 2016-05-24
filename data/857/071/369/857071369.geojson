@@ -1,0 +1,84 @@
+{
+  "id": 857071369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.712402,41.978298,-91.712402,41.978298",
+    "geom:latitude":41.978298,
+    "geom:longitude":-91.712402,
+    "iso:country":"US",
+    "sg:address":"3100 E Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1066",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counseling",
+        "practice",
+        "mental",
+        "family",
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xsldyqeVJRaBGFRqt3YJf_41.978298_-91.712402@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115392,
+    "wof:geomhash":"285acc001801cfd36cb792d24bec17ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071369
+        }
+    ],
+    "wof:id":857071369,
+    "wof:lastmodified":1464115392,
+    "wof:name":"Natvig Paul MD",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "practice",
+        "mental",
+        "family",
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -91.712402,
+    41.978298,
+    -91.712402,
+    41.978298
+],
+  "geometry": {"coordinates":[-91.712402,41.978298],"type":"Point"}
+}

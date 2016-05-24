@@ -1,0 +1,71 @@
+{
+  "id": 856875795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.842755,41.281841,-95.842755,41.281841",
+    "geom:latitude":41.281841,
+    "geom:longitude":-95.842755,
+    "iso:country":"US",
+    "sg:address":"45 Crestwood Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2181",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kFZ4SilW3WdG8jyFjKvwv_41.281841_-95.842755@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106976,
+    "wof:geomhash":"6fa88683bf9ac18a890e0e041cb89293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856875795
+        }
+    ],
+    "wof:id":856875795,
+    "wof:lastmodified":1464106976,
+    "wof:name":"Heartland Wellness",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -95.842755,
+    41.281841,
+    -95.842755,
+    41.281841
+],
+  "geometry": {"coordinates":[-95.842755,41.281841],"type":"Point"}
+}

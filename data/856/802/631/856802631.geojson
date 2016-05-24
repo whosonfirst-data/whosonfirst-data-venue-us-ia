@@ -1,0 +1,73 @@
+{
+  "id": 856802631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.431526,41.346772,-95.431526,41.346772",
+    "geom:latitude":41.346772,
+    "geom:longitude":-95.431526,
+    "iso:country":"US",
+    "sg:address":"39296 Juniper Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3289",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03DyYWj5olXkFTkICpqef1_41.346772_-95.431526@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103305,
+    "wof:geomhash":"97cb43e0ac0e3f507dbee9ec15bf912b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856802631
+        }
+    ],
+    "wof:id":856802631,
+    "wof:lastmodified":1464103305,
+    "wof:name":"Wayne Fritz",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.431526,
+    41.346772,
+    -95.431526,
+    41.346772
+],
+  "geometry": {"coordinates":[-95.43152600000001,41.346772],"type":"Point"}
+}

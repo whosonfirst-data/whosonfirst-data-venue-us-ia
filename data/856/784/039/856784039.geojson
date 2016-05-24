@@ -1,0 +1,71 @@
+{
+  "id": 856784039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608568,42.041542,-91.608568,42.041542",
+    "geom:latitude":42.041542,
+    "geom:longitude":-91.608568,
+    "iso:country":"US",
+    "sg:address":"275 Alburnett Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 5697",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77sD4lhTkdYEpfqqEhp8Nd_42.041542_-91.608568@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102527,
+    "wof:geomhash":"6d767ebf67330005feb0473115e70804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856784039
+        }
+    ],
+    "wof:id":856784039,
+    "wof:lastmodified":1464102527,
+    "wof:name":"Mc Donald Construction Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.608568,
+    42.041542,
+    -91.608568,
+    42.041542
+],
+  "geometry": {"coordinates":[-91.60856800000001,42.041542],"type":"Point"}
+}

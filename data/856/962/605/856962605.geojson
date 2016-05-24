@@ -1,0 +1,71 @@
+{
+  "id": 856962605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.776272,41.919172,-91.776272,41.919172",
+    "geom:latitude":41.919172,
+    "geom:longitude":-91.776272,
+    "iso:country":"US",
+    "sg:address":"505 Main St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 3365",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wIscHW6eKMKy8SiC9NS1n_41.919172_-91.776272@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110653,
+    "wof:geomhash":"55cdda4cca59995684bf2e704fcfd7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856962605
+        }
+    ],
+    "wof:id":856962605,
+    "wof:lastmodified":1464110653,
+    "wof:name":"All Purpose Construction",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.776272,
+    41.919172,
+    -91.776272,
+    41.919172
+],
+  "geometry": {"coordinates":[-91.77627200000001,41.919172],"type":"Point"}
+}

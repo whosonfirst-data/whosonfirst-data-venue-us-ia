@@ -1,0 +1,74 @@
+{
+  "id": 856901319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71959,41.962039,-91.71959,41.962039",
+    "geom:latitude":41.962039,
+    "geom:longitude":-91.71959,
+    "iso:country":"US",
+    "sg:address":"3420 18th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5700",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.oreillyauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S9zpJtA36ciuIwyyDhUkZ_41.962039_-91.719590@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108100,
+    "wof:geomhash":"e0d315fd1eec93e57f0512c67e17b2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856901319
+        }
+    ],
+    "wof:id":856901319,
+    "wof:lastmodified":1464108100,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -91.71959,
+    41.962039,
+    -91.71959,
+    41.962039
+],
+  "geometry": {"coordinates":[-91.71959,41.962039],"type":"Point"}
+}

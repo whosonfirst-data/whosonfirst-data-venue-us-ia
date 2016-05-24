@@ -1,0 +1,71 @@
+{
+  "id": 856950825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559519,41.375614,-93.559519,41.375614",
+    "geom:latitude":41.375614,
+    "geom:longitude":-93.559519,
+    "iso:country":"US",
+    "sg:address":"1517 N 1st St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9034",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NA9qA9LKJBqci44kDY7ii_41.375614_-93.559519@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110117,
+    "wof:geomhash":"24dc8f72f6a0475620c2bd00344e61c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856950825
+        }
+    ],
+    "wof:id":856950825,
+    "wof:lastmodified":1464110117,
+    "wof:name":"Peoples Mortgage Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -93.559519,
+    41.375614,
+    -93.559519,
+    41.375614
+],
+  "geometry": {"coordinates":[-93.55951899999999,41.375614],"type":"Point"}
+}

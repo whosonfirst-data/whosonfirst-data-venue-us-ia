@@ -1,0 +1,73 @@
+{
+  "id": 856944181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854645,41.257222,-95.854645,41.257222",
+    "geom:latitude":41.257222,
+    "geom:longitude":-95.854645,
+    "iso:country":"US",
+    "sg:address":"231 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 4416",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33RhYGU0CMgCjbBzhMb3C9_41.257222_-95.854645@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109859,
+    "wof:geomhash":"14a90d95892c0af8bbeebee65aad1109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856944181
+        }
+    ],
+    "wof:id":856944181,
+    "wof:lastmodified":1464109859,
+    "wof:name":"Micah House",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -95.854645,
+    41.257222,
+    -95.854645,
+    41.257222
+],
+  "geometry": {"coordinates":[-95.854645,41.257222],"type":"Point"}
+}

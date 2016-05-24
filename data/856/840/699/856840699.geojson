@@ -1,0 +1,73 @@
+{
+  "id": 856840699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648734,41.990241,-91.648734,41.990241",
+    "geom:latitude":41.990241,
+    "geom:longitude":-91.648734,
+    "iso:country":"US",
+    "sg:address":"1650 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3937",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FkXonJx0Ruhw4rMuvCt8s_41.990241_-91.648734@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105030,
+    "wof:geomhash":"e6873fd2255a149290c9de067acf8ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856840699
+        }
+    ],
+    "wof:id":856840699,
+    "wof:lastmodified":1464105030,
+    "wof:name":"Iowa Eye Ctr Optical",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.648734,
+    41.990241,
+    -91.648734,
+    41.990241
+],
+  "geometry": {"coordinates":[-91.648734,41.990241],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856950905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.685357,41.961968,-91.685357,41.961968",
+    "geom:latitude":41.961968,
+    "geom:longitude":-91.685357,
+    "iso:country":"US",
+    "sg:address":"1124 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 247 2292",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EPUCdJtWi2eOGOs8Dd6mm_41.961968_-91.685357@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110119,
+    "wof:geomhash":"075bc83bde08dc58b2c82b8a6a0ec3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856950905
+        }
+    ],
+    "wof:id":856950905,
+    "wof:lastmodified":1464110119,
+    "wof:name":"ACS All Custom Steel Fbrctn",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -91.685357,
+    41.961968,
+    -91.685357,
+    41.961968
+],
+  "geometry": {"coordinates":[-91.685357,41.961968],"type":"Point"}
+}

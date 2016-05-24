@@ -1,0 +1,71 @@
+{
+  "id": 857064035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.846397,41.261799,-95.846397,41.261799",
+    "geom:latitude":41.261799,
+    "geom:longitude":-95.846397,
+    "iso:country":"US",
+    "sg:address":"235 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 3344",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EDLBaFoEJomZxhxSYLawZ_41.261799_-95.846397@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115063,
+    "wof:geomhash":"8a59809bbe9f957c8d3c1c4c8f462545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064035
+        }
+    ],
+    "wof:id":857064035,
+    "wof:lastmodified":1464115063,
+    "wof:name":"Union Prescription Center",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -95.846397,
+    41.261799,
+    -95.846397,
+    41.261799
+],
+  "geometry": {"coordinates":[-95.846397,41.261799],"type":"Point"}
+}

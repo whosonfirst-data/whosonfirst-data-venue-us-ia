@@ -1,0 +1,75 @@
+{
+  "id": 856891427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.126472,41.688293,-94.126472,41.688293",
+    "geom:latitude":41.688293,
+    "geom:longitude":-94.126472,
+    "iso:country":"US",
+    "sg:address":"1734 240th St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3187",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chicken",
+        "corn",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19p0iQ0usvUAskPO9vHcUu_41.688293_-94.126472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107741,
+    "wof:geomhash":"5bbf0d50427faf46a14ba4c508d12baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856891427
+        }
+    ],
+    "wof:id":856891427,
+    "wof:lastmodified":1464107741,
+    "wof:name":"Fred Pifer",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "corn",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -94.126472,
+    41.688293,
+    -94.126472,
+    41.688293
+],
+  "geometry": {"coordinates":[-94.12647200000001,41.688293],"type":"Point"}
+}

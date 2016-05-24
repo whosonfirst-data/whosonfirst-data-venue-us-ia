@@ -1,0 +1,75 @@
+{
+  "id": 856773589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.571055,42.050094,-91.571055,42.050094",
+    "geom:latitude":42.050094,
+    "geom:longitude":-91.571055,
+    "iso:country":"US",
+    "sg:address":"2865 Highland Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1197",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uoiYJPc76gBIPS849Z7hE_42.050094_-91.571055@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102291,
+    "wof:geomhash":"ba261164b16c402eaa05b640f0171d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856773589
+        }
+    ],
+    "wof:id":856773589,
+    "wof:lastmodified":1464102291,
+    "wof:name":"C V Insulation Co",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.571055,
+    42.050094,
+    -91.571055,
+    42.050094
+],
+  "geometry": {"coordinates":[-91.571055,42.050094],"type":"Point"}
+}

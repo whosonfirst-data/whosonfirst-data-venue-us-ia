@@ -1,0 +1,76 @@
+{
+  "id": 857063633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.818234,41.280611,-95.818234,41.280611",
+    "geom:latitude":41.280611,
+    "geom:longitude":-95.818234,
+    "iso:country":"US",
+    "sg:address":"310 McKenzie Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 4269",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dROAKZE6NTDDXDf5VbDBd_41.280611_-95.818234@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115043,
+    "wof:geomhash":"b43737be2e659acd0a36cb6ef4d3a3bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063633
+        }
+    ],
+    "wof:id":857063633,
+    "wof:lastmodified":1464115043,
+    "wof:name":"Fareway Stores Meat Market",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.818234,
+    41.280611,
+    -95.818234,
+    41.280611
+],
+  "geometry": {"coordinates":[-95.818234,41.280611],"type":"Point"}
+}

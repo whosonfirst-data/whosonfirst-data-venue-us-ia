@@ -1,0 +1,75 @@
+{
+  "id": 856832501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.754883,41.642709,-93.754883,41.642709",
+    "geom:latitude":41.642709,
+    "geom:longitude":-93.754883,
+    "iso:country":"US",
+    "sg:address":"9919 Iltis Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 2015",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c6Gs3a3qk4rxtNJdvjTWu_41.642709_-93.754883@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104634,
+    "wof:geomhash":"6dfb47100fa4ef930bd574ed4ec98d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896507,
+            "region_id":85688713,
+            "venue_id":856832501
+        }
+    ],
+    "wof:id":856832501,
+    "wof:lastmodified":1464104634,
+    "wof:name":"Chase Homes",
+    "wof:parent_id":85896507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -93.754883,
+    41.642709,
+    -93.754883,
+    41.642709
+],
+  "geometry": {"coordinates":[-93.75488300000001,41.642709],"type":"Point"}
+}

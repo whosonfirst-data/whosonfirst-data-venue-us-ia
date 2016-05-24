@@ -1,0 +1,69 @@
+{
+  "id": 856975629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.676651,41.481462,-93.676651,41.481462",
+    "geom:latitude":41.481462,
+    "geom:longitude":-93.676651,
+    "iso:country":"US",
+    "sg:address":"1326 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0444",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o26xXnhNfpPrvENtGdomo_41.481462_-93.676651@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111243,
+    "wof:geomhash":"63172306e855357eca113b1fedcbb2ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856975629
+        }
+    ],
+    "wof:id":856975629,
+    "wof:lastmodified":1464111243,
+    "wof:name":"Sunset Dental Professionals",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.676651,
+    41.481462,
+    -93.676651,
+    41.481462
+],
+  "geometry": {"coordinates":[-93.67665100000001,41.481462],"type":"Point"}
+}

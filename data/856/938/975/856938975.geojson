@@ -1,0 +1,75 @@
+{
+  "id": 856938975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.623339,41.600455,-93.623339,41.600455",
+    "geom:latitude":41.600455,
+    "geom:longitude":-93.623339,
+    "iso:country":"US",
+    "sg:address":"303 University Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 4241",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RQuLP5qMbtvzP4Owkn9pG_41.600455_-93.623339@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109628,
+    "wof:geomhash":"8f7091c88097371a6f9048dd6c59c911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896413,
+            "region_id":85688713,
+            "venue_id":856938975
+        }
+    ],
+    "wof:id":856938975,
+    "wof:lastmodified":1464109628,
+    "wof:name":"Des Moines Ob & Gyn LLP",
+    "wof:parent_id":85896413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.623339,
+    41.600455,
+    -93.623339,
+    41.600455
+],
+  "geometry": {"coordinates":[-93.623339,41.600455],"type":"Point"}
+}

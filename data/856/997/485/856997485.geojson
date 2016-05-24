@@ -1,0 +1,71 @@
+{
+  "id": 856997485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.832665,41.579971,-93.832665,41.579971",
+    "geom:latitude":41.579971,
+    "geom:longitude":-93.832665,
+    "iso:country":"US",
+    "sg:address":"9391 Ashworth Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 1402",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vbMEzzRd0xoQSytiyv9XH_41.579971_-93.832665@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112272,
+    "wof:geomhash":"b57635da07d2e27beb1d5ef2fa0bd9e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856997485
+        }
+    ],
+    "wof:id":856997485,
+    "wof:lastmodified":1464112272,
+    "wof:name":"Maple Grove United Methodist",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.832665,
+    41.579971,
+    -93.832665,
+    41.579971
+],
+  "geometry": {"coordinates":[-93.83266500000001,41.579971],"type":"Point"}
+}

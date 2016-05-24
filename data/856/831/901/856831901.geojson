@@ -1,0 +1,73 @@
+{
+  "id": 856831901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.706199,41.572251,-93.706199,41.572251",
+    "geom:latitude":41.572251,
+    "geom:longitude":-93.706199,
+    "iso:country":"US",
+    "sg:address":"216 3rd St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 277 7124",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oAT3cvBDVrUPfRPud3svj_41.572251_-93.706199@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104601,
+    "wof:geomhash":"d09e89a7da3eebc699f2e95b3fa147ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856831901
+        }
+    ],
+    "wof:id":856831901,
+    "wof:lastmodified":1464104601,
+    "wof:name":"Ground Zero Landscaping",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -93.706199,
+    41.572251,
+    -93.706199,
+    41.572251
+],
+  "geometry": {"coordinates":[-93.706199,41.572251],"type":"Point"}
+}

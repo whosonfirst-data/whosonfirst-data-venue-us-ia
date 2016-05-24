@@ -1,0 +1,75 @@
+{
+  "id": 857062439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899598,41.259947,-95.899598,41.259947",
+    "geom:latitude":41.259947,
+    "geom:longitude":-95.899598,
+    "iso:country":"US",
+    "sg:address":"3406 2nd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 5305",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gOINwgrVAfgosjvPShJTe_41.259947_-95.899598@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115003,
+    "wof:geomhash":"19e5671cdb3f83517ae7cde44affbd74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062439
+        }
+    ],
+    "wof:id":857062439,
+    "wof:lastmodified":1464115003,
+    "wof:name":"Norm's Heating & Air Conditioning",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [
+    -95.899598,
+    41.259947,
+    -95.899598,
+    41.259947
+],
+  "geometry": {"coordinates":[-95.899598,41.259947],"type":"Point"}
+}

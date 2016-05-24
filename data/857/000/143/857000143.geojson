@@ -1,0 +1,74 @@
+{
+  "id": 857000143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.615623,41.592548,-93.615623,41.592548",
+    "geom:latitude":41.592548,
+    "geom:longitude":-93.615623,
+    "iso:country":"US",
+    "sg:address":"701 E 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 4288",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "sg:website":"www.kimcocorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WEnLgQRVegr5pkbM91XAr_41.592548_-93.615623@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112373,
+    "wof:geomhash":"44d8c5ef495e385772db98ff3d33341d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896409,
+            "region_id":85688713,
+            "venue_id":857000143
+        }
+    ],
+    "wof:id":857000143,
+    "wof:lastmodified":1464112373,
+    "wof:name":"Kimco Corp",
+    "wof:parent_id":85896409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -93.615623,
+    41.592548,
+    -93.615623,
+    41.592548
+],
+  "geometry": {"coordinates":[-93.615623,41.592548],"type":"Point"}
+}

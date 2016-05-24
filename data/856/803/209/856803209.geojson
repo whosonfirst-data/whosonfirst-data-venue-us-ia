@@ -1,0 +1,73 @@
+{
+  "id": 856803209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.46576,42.410609,-92.46576,42.410609",
+    "geom:latitude":42.410609,
+    "geom:longitude":-92.46576,
+    "iso:country":"US",
+    "sg:address":"7300 S Hudson Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 342 2005",
+    "sg:postcode":"50643",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EAwZH4uDdEqWtwE8WOQm9_42.410609_-92.465760@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103330,
+    "wof:geomhash":"ab6687a27d6adc0600757e030a35d73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856803209
+        }
+    ],
+    "wof:id":856803209,
+    "wof:lastmodified":1464103330,
+    "wof:name":"Hudson Oil Co",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.46576,
+    42.410609,
+    -92.46576,
+    42.410609
+],
+  "geometry": {"coordinates":[-92.46576,42.410609],"type":"Point"}
+}

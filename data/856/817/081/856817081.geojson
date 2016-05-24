@@ -1,0 +1,73 @@
+{
+  "id": 856817081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.35771,42.487069,-96.35771,42.487069",
+    "geom:latitude":42.487069,
+    "geom:longitude":-96.35771,
+    "iso:country":"US",
+    "sg:address":"400 S Mulberry St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0525",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SPvSaAJ3sCAANmg6yhGoI_42.487069_-96.357710@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103918,
+    "wof:geomhash":"3046c0e0a65bb11f73a96aa023115913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856817081
+        }
+    ],
+    "wof:id":856817081,
+    "wof:lastmodified":1464103918,
+    "wof:name":"Sioux City Steppers Dance Team",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -96.35771,
+    42.487069,
+    -96.35771,
+    42.487069
+],
+  "geometry": {"coordinates":[-96.35771,42.487069],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857037719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.713303,41.970501,-91.713303,41.970501",
+    "geom:latitude":41.970501,
+    "geom:longitude":-91.713303,
+    "iso:country":"US",
+    "sg:address":"3115 Sue Ln NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5061",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "management",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r0nBYpgJgYcZdoF7Weh8o_41.970560_-91.713481@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114000,
+    "wof:geomhash":"eae0c16ab49a87d127e22b2cfb0387f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857037719
+        }
+    ],
+    "wof:id":857037719,
+    "wof:lastmodified":1464114000,
+    "wof:name":"Pineview Property Management",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "property"
+    ]
+},
+  "bbox": [
+    -91.713303,
+    41.970501,
+    -91.713303,
+    41.970501
+],
+  "geometry": {"coordinates":[-91.713303,41.970501],"type":"Point"}
+}

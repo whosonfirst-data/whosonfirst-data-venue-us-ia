@@ -1,0 +1,75 @@
+{
+  "id": 857012567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.605457,41.709636,-91.605457,41.709636",
+    "geom:latitude":41.709636,
+    "geom:longitude":-91.605457,
+    "iso:country":"US",
+    "sg:address":"2658 Crosspark Rd",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 665 2868",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CbG4w8aGfppQGka6xfbID_41.709636_-91.605457@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112887,
+    "wof:geomhash":"351372ffcc7cf94a36120e16fe9a836c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896361,
+            "region_id":85688713,
+            "venue_id":857012567
+        }
+    ],
+    "wof:id":857012567,
+    "wof:lastmodified":1464112887,
+    "wof:name":"Police Law Institute",
+    "wof:parent_id":85896361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -91.605457,
+    41.709636,
+    -91.605457,
+    41.709636
+],
+  "geometry": {"coordinates":[-91.605457,41.709636],"type":"Point"}
+}

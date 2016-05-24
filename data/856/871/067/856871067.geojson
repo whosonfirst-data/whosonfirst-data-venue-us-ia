@@ -1,0 +1,73 @@
+{
+  "id": 856871067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.705715,41.974559,-91.705715,41.974559",
+    "geom:latitude":41.974559,
+    "geom:longitude":-91.705715,
+    "iso:country":"US",
+    "sg:address":"2300 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 2930",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0YiDESpd1CSXKkGsFyjq_41.974559_-91.705715@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106664,
+    "wof:geomhash":"22b6544f90f169bedaa62980ddc6fa1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856871067
+        }
+    ],
+    "wof:id":856871067,
+    "wof:lastmodified":1464106664,
+    "wof:name":"Northwest Station",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -91.705715,
+    41.974559,
+    -91.705715,
+    41.974559
+],
+  "geometry": {"coordinates":[-91.705715,41.974559],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856858625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656726,41.875875,-91.656726,41.875875",
+    "geom:latitude":41.875875,
+    "geom:longitude":-91.656726,
+    "iso:country":"US",
+    "sg:address":"117 Walford Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 3555",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85868925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71K4WKYKLJQhiX45wfLuGh_41.875875_-91.656726@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105917,
+    "wof:geomhash":"ea3adb657f6a8c79bbdb5feeb88c1539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85868925,
+            "region_id":85688713,
+            "venue_id":856858625
+        }
+    ],
+    "wof:id":856858625,
+    "wof:lastmodified":1464105917,
+    "wof:name":"River Basin Equine Veterinary",
+    "wof:parent_id":85868925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.656726,
+    41.875875,
+    -91.656726,
+    41.875875
+],
+  "geometry": {"coordinates":[-91.65672600000001,41.875875],"type":"Point"}
+}

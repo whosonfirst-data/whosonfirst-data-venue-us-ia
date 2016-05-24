@@ -1,0 +1,71 @@
+{
+  "id": 856970341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.621755,41.650397,-93.621755,41.650397",
+    "geom:latitude":41.650397,
+    "geom:longitude":-93.621755,
+    "iso:country":"US",
+    "sg:address":"330 NW 49th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 7400",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j0UevbPa75RYEokP9yCuZ_41.650397_-93.621755@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110997,
+    "wof:geomhash":"d6c070d67bf6fbc4e620ed8d0f8d5f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856970341
+        }
+    ],
+    "wof:id":856970341,
+    "wof:lastmodified":1464110997,
+    "wof:name":"Boats 4U",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -93.621755,
+    41.650397,
+    -93.621755,
+    41.650397
+],
+  "geometry": {"coordinates":[-93.62175499999999,41.650397],"type":"Point"}
+}

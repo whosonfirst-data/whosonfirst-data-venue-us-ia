@@ -1,0 +1,73 @@
+{
+  "id": 856950443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648228,41.890301,-91.648228,41.890301",
+    "geom:latitude":41.890301,
+    "geom:longitude":-91.648228,
+    "iso:country":"US",
+    "sg:address":"205 Wright Brothers Blvd E SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 2021",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85868925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RDUNPsETyMf64dpnAf7Ta_41.890301_-91.648228@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110104,
+    "wof:geomhash":"de52343f652aea06e7d8d4246eec05e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85868925,
+            "region_id":85688713,
+            "venue_id":856950443
+        }
+    ],
+    "wof:id":856950443,
+    "wof:lastmodified":1464110104,
+    "wof:name":"Town & Country Landscaping Inc",
+    "wof:parent_id":85868925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.648228,
+    41.890301,
+    -91.648228,
+    41.890301
+],
+  "geometry": {"coordinates":[-91.648228,41.890301],"type":"Point"}
+}

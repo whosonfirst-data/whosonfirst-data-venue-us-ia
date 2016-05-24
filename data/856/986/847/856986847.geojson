@@ -1,0 +1,71 @@
+{
+  "id": 856986847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837968,41.258699,-95.837968,41.258699",
+    "geom:latitude":41.258699,
+    "geom:longitude":-95.837968,
+    "iso:country":"US",
+    "sg:address":"611 Damon St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9518",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kXDxhwbbpYMK1u5zjycvA_41.258699_-95.837968@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111825,
+    "wof:geomhash":"fcde1317b918d4ddff07b580142fe449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856986847
+        }
+    ],
+    "wof:id":856986847,
+    "wof:lastmodified":1464111825,
+    "wof:name":"Exterior Designs",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -95.837968,
+    41.258699,
+    -95.837968,
+    41.258699
+],
+  "geometry": {"coordinates":[-95.837968,41.258699],"type":"Point"}
+}

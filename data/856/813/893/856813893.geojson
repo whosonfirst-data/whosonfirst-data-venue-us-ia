@@ -1,0 +1,73 @@
+{
+  "id": 856813893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652408,42.047426,-91.652408,42.047426",
+    "geom:latitude":42.047426,
+    "geom:longitude":-91.652408,
+    "iso:country":"US",
+    "sg:address":"1022 Doubletree Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 7892",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z0wES79X44SSr9pnW63cp_42.047426_-91.652408@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103785,
+    "wof:geomhash":"8ff3f49d8ccbdb337cfdfec152ac8cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856813893
+        }
+    ],
+    "wof:id":856813893,
+    "wof:lastmodified":1464103785,
+    "wof:name":"Cedar Rapids Auto Mall",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.652408,
+    42.047426,
+    -91.652408,
+    42.047426
+],
+  "geometry": {"coordinates":[-91.65240799999999,42.047426],"type":"Point"}
+}

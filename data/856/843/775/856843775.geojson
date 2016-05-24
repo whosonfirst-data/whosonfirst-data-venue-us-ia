@@ -1,0 +1,74 @@
+{
+  "id": 856843775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.750136,41.584798,-93.750136,41.584798",
+    "geom:latitude":41.584798,
+    "geom:longitude":-93.750136,
+    "iso:country":"US",
+    "sg:address":"3421 Ashworth Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 3420",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.wdm-ia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Osg0Y66I0uTuXC87VVYxt_41.584798_-93.750136@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105162,
+    "wof:geomhash":"166b9469bd15e5c0850e3f61a8c0554b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896523,
+            "region_id":85688713,
+            "venue_id":856843775
+        }
+    ],
+    "wof:id":856843775,
+    "wof:lastmodified":1464105162,
+    "wof:name":"West Des Moines Fire Dept",
+    "wof:parent_id":85896523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.750136,
+    41.584798,
+    -93.750136,
+    41.584798
+],
+  "geometry": {"coordinates":[-93.750136,41.584798],"type":"Point"}
+}

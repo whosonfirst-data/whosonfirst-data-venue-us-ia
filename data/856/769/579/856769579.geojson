@@ -1,0 +1,73 @@
+{
+  "id": 856769579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715169,41.969789,-91.715169,41.969789",
+    "geom:latitude":41.969789,
+    "geom:longitude":-91.715169,
+    "iso:country":"US",
+    "sg:address":"3013 Ravenwood Ter NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1419",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j7m3sqjbBz28EOP45OYZy_41.969789_-91.715169@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102197,
+    "wof:geomhash":"1960bc7c0e571b6a47575cc41e4a9cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856769579
+        }
+    ],
+    "wof:id":856769579,
+    "wof:lastmodified":1464102197,
+    "wof:name":"Master Guard Alarms Co",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.715169,
+    41.969789,
+    -91.715169,
+    41.969789
+],
+  "geometry": {"coordinates":[-91.715169,41.969789],"type":"Point"}
+}

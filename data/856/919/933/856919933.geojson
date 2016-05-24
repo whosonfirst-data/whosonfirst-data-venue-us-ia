@@ -1,0 +1,73 @@
+{
+  "id": 856919933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.423472,41.916054,-91.423472,41.916054",
+    "geom:latitude":41.916054,
+    "geom:longitude":-91.423472,
+    "iso:country":"US",
+    "sg:address":"320 US Hwy 30 W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6232",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g8u8LBDn0Kd4CQjZzOJgC_41.916054_-91.423472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108807,
+    "wof:geomhash":"28fdef2b0d09d061c56eea87cc31bbf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856919933
+        }
+    ],
+    "wof:id":856919933,
+    "wof:lastmodified":1464108807,
+    "wof:name":"Plaza Motors",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.423472,
+    41.916054,
+    -91.423472,
+    41.916054
+],
+  "geometry": {"coordinates":[-91.423472,41.916054],"type":"Point"}
+}

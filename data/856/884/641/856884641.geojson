@@ -1,0 +1,76 @@
+{
+  "id": 856884641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533272,41.651059,-91.533272,41.651059",
+    "geom:latitude":41.651059,
+    "geom:longitude":-91.533272,
+    "iso:country":"US",
+    "sg:address":"913 S Dubuque St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 356 6004",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "taxation"
+    ],
+    "sg:website":"www.jcauditor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dwLIw6Ghutte4aJweblqA_41.651059_-91.533272@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107451,
+    "wof:geomhash":"ddc74a0e48955ff7725f5b47794e4488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856884641
+        }
+    ],
+    "wof:id":856884641,
+    "wof:lastmodified":1464107451,
+    "wof:name":"Johnson County Auditor",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -91.533272,
+    41.651059,
+    -91.533272,
+    41.651059
+],
+  "geometry": {"coordinates":[-91.533272,41.651059],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856936451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.222423,41.445003,-95.222423,41.445003",
+    "geom:latitude":41.445003,
+    "geom:longitude":-95.222423,
+    "iso:country":"US",
+    "sg:address":"29488 505th St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3456",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qOaYfGTPgZku9PkV0yrLk_41.445003_-95.222423@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109493,
+    "wof:geomhash":"ec427a3c45f48dd191e3a14f3749a33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856936451
+        }
+    ],
+    "wof:id":856936451,
+    "wof:lastmodified":1464109493,
+    "wof:name":"Sievers Electric",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.222423,
+    41.445003,
+    -95.222423,
+    41.445003
+],
+  "geometry": {"coordinates":[-95.22242300000001,41.445003],"type":"Point"}
+}

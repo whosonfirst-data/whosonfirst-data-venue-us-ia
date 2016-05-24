@@ -1,0 +1,80 @@
+{
+  "id": 857071361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.718597,41.9748,-91.718597,41.9748",
+    "geom:latitude":41.9748,
+    "geom:longitude":-91.718597,
+    "iso:country":"US",
+    "sg:address":"3434 Midway Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7800",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuza6Kyo02ewsXvGxktMH_41.974800_-91.718597@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115392,
+    "wof:geomhash":"41820ea2512fdcd41b27ef97b70295c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071361
+        }
+    ],
+    "wof:id":857071361,
+    "wof:lastmodified":1464115392,
+    "wof:name":"Edgewood Animal Hospital",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -91.718597,
+    41.9748,
+    -91.718597,
+    41.9748
+],
+  "geometry": {"coordinates":[-91.718597,41.9748],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857057961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.82437,41.614838,-93.82437,41.614838",
+    "geom:latitude":41.614838,
+    "geom:longitude":-93.82437,
+    "iso:country":"US",
+    "sg:address":"15701 Hickman Rd",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/walnut/158455-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 2999",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wpRgyyuFa8PSrJeGksVjf_41.614838_-93.824370@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114822,
+    "wof:geomhash":"8f540e8c318bd623bbda7cc46affc5b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857057961
+        }
+    ],
+    "wof:id":857057961,
+    "wof:lastmodified":1464114822,
+    "wof:name":"Arby's",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.82437,
+    41.614838,
+    -93.82437,
+    41.614838
+],
+  "geometry": {"coordinates":[-93.82437,41.614838],"type":"Point"}
+}

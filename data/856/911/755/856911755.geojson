@@ -1,0 +1,71 @@
+{
+  "id": 856911755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.678739,41.475247,-93.678739,41.475247",
+    "geom:latitude":41.475247,
+    "geom:longitude":-93.678739,
+    "iso:country":"US",
+    "sg:address":"808 North Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 9021",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vZ1q9dRuSl2LcMpA2MXLV_41.475247_-93.678739@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108489,
+    "wof:geomhash":"dde4a00e0b69725c5905bab069b3a4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856911755
+        }
+    ],
+    "wof:id":856911755,
+    "wof:lastmodified":1464108489,
+    "wof:name":"Norwalk Mini-Storage",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.678739,
+    41.475247,
+    -93.678739,
+    41.475247
+],
+  "geometry": {"coordinates":[-93.67873899999999,41.475247],"type":"Point"}
+}

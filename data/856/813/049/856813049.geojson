@@ -1,0 +1,77 @@
+{
+  "id": 856813049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.336508,41.48125,-95.336508,41.48125",
+    "geom:latitude":41.48125,
+    "geom:longitude":-95.336508,
+    "iso:country":"US",
+    "sg:address":"508 N Chestnut St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 5150",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "gen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WRpGkkeiVvVE7mFpFrJmn_41.481250_-95.336508@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103753,
+    "wof:geomhash":"77362173deee1662fb40836788195cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856813049
+        }
+    ],
+    "wof:id":856813049,
+    "wof:lastmodified":1464103753,
+    "wof:name":"Stang's Body Shop",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "gen"
+    ]
+},
+  "bbox": [
+    -95.336508,
+    41.48125,
+    -95.336508,
+    41.48125
+],
+  "geometry": {"coordinates":[-95.33650799999999,41.48125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856832291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.545177,41.358086,-93.545177,41.358086",
+    "geom:latitude":41.358086,
+    "geom:longitude":-93.545177,
+    "iso:country":"US",
+    "sg:address":"1208 E 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8353",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cHtt1lcuEo6xFQoyxPtO6_41.358086_-93.545177@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104622,
+    "wof:geomhash":"def06b56d686bcf7516c64eb3b0148d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856832291
+        }
+    ],
+    "wof:id":856832291,
+    "wof:lastmodified":1464104622,
+    "wof:name":"Warren County Job Training",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -93.545177,
+    41.358086,
+    -93.545177,
+    41.358086
+],
+  "geometry": {"coordinates":[-93.545177,41.358086],"type":"Point"}
+}

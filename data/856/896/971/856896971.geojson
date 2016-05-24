@@ -1,0 +1,71 @@
+{
+  "id": 856896971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105089,41.840334,-94.105089,41.840334",
+    "geom:latitude":41.840334,
+    "geom:longitude":-94.105089,
+    "iso:country":"US",
+    "sg:address":"1222 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2141",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dfgkQ794OIVsHemMWBHiq_41.840334_-94.105089@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107939,
+    "wof:geomhash":"1293f4c3d9bab2b6e14a971adf27d0b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856896971
+        }
+    ],
+    "wof:id":856896971,
+    "wof:lastmodified":1464107939,
+    "wof:name":"Downtown Barber & Hairstylists",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.105089,
+    41.840334,
+    -94.105089,
+    41.840334
+],
+  "geometry": {"coordinates":[-94.10508900000001,41.840334],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 856849245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67153,41.977176,-91.67153,41.977176",
+    "geom:latitude":41.977176,
+    "geom:longitude":-91.67153,
+    "iso:country":"US",
+    "sg:address":"51 1st Avenue Brg",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5000",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69vniqF1kyiqVx6nQCW5jD_41.977176_-91.671530@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105487,
+    "wof:geomhash":"6aacafe683388b12b6152758caaaa365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856849245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856849245
+        }
+    ],
+    "wof:id":856849245,
+    "wof:lastmodified":1464105487,
+    "wof:name":"Cedar Rapids Human Resources",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.67153,
+    41.977176,
+    -91.67153,
+    41.977176
+],
+  "geometry": {"coordinates":[-91.67153,41.977176],"type":"Point"}
+}

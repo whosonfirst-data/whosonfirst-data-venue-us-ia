@@ -1,0 +1,71 @@
+{
+  "id": 856966385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.443388,42.06014,-91.443388,42.06014",
+    "geom:latitude":42.06014,
+    "geom:longitude":-91.443388,
+    "iso:country":"US",
+    "sg:address":"300 Broadway St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7500",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IbB8oZqkBqFuDHPUFXIKW_42.060140_-91.443388@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110805,
+    "wof:geomhash":"e7b1134f76eaee11633e30255b0721fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856966385
+        }
+    ],
+    "wof:id":856966385,
+    "wof:lastmodified":1464110805,
+    "wof:name":"Springville Fire Station",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.443388,
+    42.06014,
+    -91.443388,
+    42.06014
+],
+  "geometry": {"coordinates":[-91.443388,42.06014],"type":"Point"}
+}

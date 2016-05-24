@@ -1,0 +1,75 @@
+{
+  "id": 856799319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.458391,42.40663,-92.458391,42.40663",
+    "geom:latitude":42.40663,
+    "geom:longitude":-92.458391,
+    "iso:country":"US",
+    "sg:address":"603 5th St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 988 3582",
+    "sg:postcode":"50643",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61QXNreq4rPf3fk18I7wUE_42.406630_-92.458391@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103172,
+    "wof:geomhash":"28048a2a8acfad0c9fdf69476bede3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856799319
+        }
+    ],
+    "wof:id":856799319,
+    "wof:lastmodified":1464103172,
+    "wof:name":"Hudson Auto & Body Shop",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.458391,
+    42.40663,
+    -92.458391,
+    42.40663
+],
+  "geometry": {"coordinates":[-92.45839100000001,42.40663],"type":"Point"}
+}

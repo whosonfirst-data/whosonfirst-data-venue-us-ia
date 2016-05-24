@@ -1,0 +1,66 @@
+{
+  "id": 857063575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.835326,41.268258,-95.835326,41.268258",
+    "geom:latitude":41.268258,
+    "geom:longitude":-95.835326,
+    "iso:country":"US",
+    "sg:address":"201 Ridge St Ste 214",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 396 4320",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y4wdj2Cdm5P31vyxsEvrp_41.268258_-95.835326@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115042,
+    "wof:geomhash":"4389d99ba1ae6aad7d7bce0e861a9d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063575
+        }
+    ],
+    "wof:id":857063575,
+    "wof:lastmodified":1464115042,
+    "wof:name":"Whitehead Stacey MD",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.835326,
+    41.268258,
+    -95.835326,
+    41.268258
+],
+  "geometry": {"coordinates":[-95.83532599999999,41.268258],"type":"Point"}
+}

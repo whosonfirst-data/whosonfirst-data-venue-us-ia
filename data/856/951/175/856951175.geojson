@@ -1,0 +1,71 @@
+{
+  "id": 856951175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890739,41.245541,-95.890739,41.245541",
+    "geom:latitude":41.245541,
+    "geom:longitude":-95.890739,
+    "iso:country":"US",
+    "sg:address":"3322 Nebraska Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 3250",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DOJRcpvsV7p1NN2XpIcJW_41.245541_-95.890739@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110133,
+    "wof:geomhash":"c94b56d7d3818e211868e2aaefce6bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856951175
+        }
+    ],
+    "wof:id":856951175,
+    "wof:lastmodified":1464110133,
+    "wof:name":"Nes Trench Shoring",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.890739,
+    41.245541,
+    -95.890739,
+    41.245541
+],
+  "geometry": {"coordinates":[-95.890739,41.245541],"type":"Point"}
+}

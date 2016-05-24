@@ -1,0 +1,71 @@
+{
+  "id": 856987561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.398664,41.309058,-95.398664,41.309058",
+    "geom:latitude":41.309058,
+    "geom:longitude":-95.398664,
+    "iso:country":"US",
+    "sg:address":"219 Oakland Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6243",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k7P3fKYFqk2bQMahJahNw_41.309058_-95.398664@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111856,
+    "wof:geomhash":"6239ca3ad89416c607853136aac585e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856987561
+        }
+    ],
+    "wof:id":856987561,
+    "wof:lastmodified":1464111856,
+    "wof:name":"Vieth Funeral Home",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -95.398664,
+    41.309058,
+    -95.398664,
+    41.309058
+],
+  "geometry": {"coordinates":[-95.398664,41.309058],"type":"Point"}
+}

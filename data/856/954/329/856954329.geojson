@@ -1,0 +1,73 @@
+{
+  "id": 856954329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.888668,41.256248,-95.888668,41.256248",
+    "geom:latitude":41.256248,
+    "geom:longitude":-95.888668,
+    "iso:country":"US",
+    "sg:address":"2725 6th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 2278",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00RlSp0xOxTP5Yyk14oDnU_41.256248_-95.888668@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110297,
+    "wof:geomhash":"74fefc53accc409eaac220d0f7b69776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856954329
+        }
+    ],
+    "wof:id":856954329,
+    "wof:lastmodified":1464110297,
+    "wof:name":"KERN Rental Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -95.888668,
+    41.256248,
+    -95.888668,
+    41.256248
+],
+  "geometry": {"coordinates":[-95.888668,41.256248],"type":"Point"}
+}

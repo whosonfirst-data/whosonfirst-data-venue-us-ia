@@ -1,0 +1,71 @@
+{
+  "id": 856913237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.544721,41.379791,-93.544721,41.379791",
+    "geom:latitude":41.379791,
+    "geom:longitude":-93.544721,
+    "iso:country":"US",
+    "sg:address":"1205 E Hillcrest Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 0662",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BdZsL8CSPT4QdqZdZU7Rs_41.379791_-93.544721@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108550,
+    "wof:geomhash":"2639fe1cb9054b272b771db36293e70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856913237
+        }
+    ],
+    "wof:id":856913237,
+    "wof:lastmodified":1464108550,
+    "wof:name":"American Concrete Products Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -93.544721,
+    41.379791,
+    -93.544721,
+    41.379791
+],
+  "geometry": {"coordinates":[-93.544721,41.379791],"type":"Point"}
+}

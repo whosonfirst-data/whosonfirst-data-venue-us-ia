@@ -1,0 +1,73 @@
+{
+  "id": 856801229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.511463,41.583896,-91.511463,41.583896",
+    "geom:latitude":41.583896,
+    "geom:longitude":-91.511463,
+    "iso:country":"US",
+    "sg:address":"4299 480th St SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 9092",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lpAWENzHwiW2nLqWlDr8f_41.583896_-91.511463@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103243,
+    "wof:geomhash":"c095246f9b47247724a7d053f4fad7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856801229
+        }
+    ],
+    "wof:id":856801229,
+    "wof:lastmodified":1464103243,
+    "wof:name":"Donald R Robertson",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.511463,
+    41.583896,
+    -91.511463,
+    41.583896
+],
+  "geometry": {"coordinates":[-91.51146300000001,41.583896],"type":"Point"}
+}

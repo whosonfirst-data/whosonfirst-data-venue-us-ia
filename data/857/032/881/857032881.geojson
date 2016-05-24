@@ -1,0 +1,73 @@
+{
+  "id": 857032881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.588286,41.873644,-91.588286,41.873644",
+    "geom:latitude":41.873644,
+    "geom:longitude":-91.588286,
+    "iso:country":"US",
+    "sg:address":"1505 State St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 9060",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OgKq39nFje4qVYaKhK9xh_41.873644_-91.588286@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113774,
+    "wof:geomhash":"91abc6638bdcec575f4cb797c5b3bcf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857032881
+        }
+    ],
+    "wof:id":857032881,
+    "wof:lastmodified":1464113774,
+    "wof:name":"Central Minnesota Fabricating",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -91.588286,
+    41.873644,
+    -91.588286,
+    41.873644
+],
+  "geometry": {"coordinates":[-91.588286,41.873644],"type":"Point"}
+}

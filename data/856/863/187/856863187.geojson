@@ -1,0 +1,71 @@
+{
+  "id": 856863187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656738,42.030083,-91.656738,42.030083",
+    "geom:latitude":42.030083,
+    "geom:longitude":-91.656738,
+    "iso:country":"US",
+    "sg:address":"5011 Duffy Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 7455",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EatT6ZbjCFe69t2Ar0f6W_42.030083_-91.656738@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106123,
+    "wof:geomhash":"b2f56a19f73cbfda4aedf45e38e9c736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856863187
+        }
+    ],
+    "wof:id":856863187,
+    "wof:lastmodified":1464106123,
+    "wof:name":"Insty-Prints",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -91.656738,
+    42.030083,
+    -91.656738,
+    42.030083
+],
+  "geometry": {"coordinates":[-91.656738,42.030083],"type":"Point"}
+}

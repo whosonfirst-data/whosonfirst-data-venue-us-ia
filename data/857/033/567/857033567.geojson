@@ -1,0 +1,75 @@
+{
+  "id": 857033567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.385673,41.31438,-95.385673,41.31438",
+    "geom:latitude":41.31438,
+    "geom:longitude":-95.385673,
+    "iso:country":"US",
+    "sg:address":"902 Palmer St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 5505",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fy0Y0lsJWef3cvv9H660Z_41.314380_-95.385673@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113806,
+    "wof:geomhash":"3ad6e192116c1cac165397259df6ca91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857033567
+        }
+    ],
+    "wof:id":857033567,
+    "wof:lastmodified":1464113806,
+    "wof:name":"L & M Carpet Cleaning",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -95.385673,
+    41.31438,
+    -95.385673,
+    41.31438
+],
+  "geometry": {"coordinates":[-95.385673,41.31438],"type":"Point"}
+}

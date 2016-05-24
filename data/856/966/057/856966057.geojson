@@ -1,0 +1,75 @@
+{
+  "id": 856966057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.008732,41.852195,-94.008732,41.852195",
+    "geom:latitude":41.852195,
+    "geom:longitude":-94.008732,
+    "iso:country":"US",
+    "sg:address":"110 S Beaver Ave",
+    "sg:city":"Bouton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 676 2086",
+    "sg:postcode":"50039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gjVavaDsdXN4UqYfKLZ6t_41.852195_-94.008732@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110795,
+    "wof:geomhash":"3dde0eaad28d0e96320c1bc17b1e3d3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856966057
+        }
+    ],
+    "wof:id":856966057,
+    "wof:lastmodified":1464110795,
+    "wof:name":"ABS Ag Repair",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ]
+},
+  "bbox": [
+    -94.008732,
+    41.852195,
+    -94.008732,
+    41.852195
+],
+  "geometry": {"coordinates":[-94.00873199999999,41.852195],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856839361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.683061,41.975768,-91.683061,41.975768",
+    "geom:latitude":41.975768,
+    "geom:longitude":-91.683061,
+    "iso:country":"US",
+    "sg:address":"314 8th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 0160",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "recycling",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CukjUpLkZ26kCIF1SNAzr_41.975768_-91.683061@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104982,
+    "wof:geomhash":"726a8588db0c8763c929f84ebcddddbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856839361
+        }
+    ],
+    "wof:id":856839361,
+    "wof:lastmodified":1464104982,
+    "wof:name":"Metso Minerals Industries Inc",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "recycling",
+        "system"
+    ]
+},
+  "bbox": [
+    -91.683061,
+    41.975768,
+    -91.683061,
+    41.975768
+],
+  "geometry": {"coordinates":[-91.683061,41.975768],"type":"Point"}
+}

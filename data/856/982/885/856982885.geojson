@@ -1,0 +1,73 @@
+{
+  "id": 856982885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.678282,42.031252,-91.678282,42.031252",
+    "geom:latitude":42.031252,
+    "geom:longitude":-91.678282,
+    "iso:country":"US",
+    "sg:address":"4920 Blairs Forest Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 3725",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lBtXrArVl6RzFUEpCAoE3_42.031252_-91.678282@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111629,
+    "wof:geomhash":"bf0db665c42dbb1bf22d8f0525bbc892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856982885
+        }
+    ],
+    "wof:id":856982885,
+    "wof:lastmodified":1464111629,
+    "wof:name":"Environmental Products Corp",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.678282,
+    42.031252,
+    -91.678282,
+    42.031252
+],
+  "geometry": {"coordinates":[-91.678282,42.031252],"type":"Point"}
+}

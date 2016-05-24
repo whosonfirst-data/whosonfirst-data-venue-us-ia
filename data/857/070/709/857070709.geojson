@@ -1,0 +1,79 @@
+{
+  "id": 857070709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725776,41.965589,-91.725776,41.965589",
+    "geom:latitude":41.965589,
+    "geom:longitude":-91.725776,
+    "iso:country":"US",
+    "sg:address":"1211 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0701",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue",
+        "caterer"
+    ],
+    "sg:website":"www.dostalcatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56lBopCqcEHPkuguRZS11B_41.965589_-91.725776@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115365,
+    "wof:geomhash":"3a924ddb167d0582d5370c0a96411263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070709
+        }
+    ],
+    "wof:id":857070709,
+    "wof:lastmodified":1464115365,
+    "wof:name":"Dostal Catering Service",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.725776,
+    41.965589,
+    -91.725776,
+    41.965589
+],
+  "geometry": {"coordinates":[-91.725776,41.965589],"type":"Point"}
+}

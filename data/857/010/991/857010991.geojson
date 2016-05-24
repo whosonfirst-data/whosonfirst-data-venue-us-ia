@@ -1,0 +1,73 @@
+{
+  "id": 857010991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.723503,42.048983,-91.723503,42.048983",
+    "geom:latitude":42.048983,
+    "geom:longitude":-91.723503,
+    "iso:country":"US",
+    "sg:address":"5828 Shiloh Ln",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9546",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ixF6TLIMVz8Ugqr0RWlmT_42.048983_-91.723503@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112817,
+    "wof:geomhash":"d199f2e980b9f9a33c366360506f63f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857010991
+        }
+    ],
+    "wof:id":857010991,
+    "wof:lastmodified":1464112817,
+    "wof:name":"Wacker Electric",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.723503,
+    42.048983,
+    -91.723503,
+    42.048983
+],
+  "geometry": {"coordinates":[-91.72350299999999,42.048983],"type":"Point"}
+}

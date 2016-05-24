@@ -1,0 +1,71 @@
+{
+  "id": 857029727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.285847,41.259936,-95.285847,41.259936",
+    "geom:latitude":41.259936,
+    "geom:longitude":-95.285847,
+    "iso:country":"US",
+    "sg:address":"47750 Dogwood Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 778 4285",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18xV3l13TkCEOxHU2n5Q7M_41.259936_-95.285847@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113651,
+    "wof:geomhash":"7a0c69f776eb0e54cb5bbe19462b2a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857029727
+        }
+    ],
+    "wof:id":857029727,
+    "wof:lastmodified":1464113651,
+    "wof:name":"Cody Farms",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cattle"
+    ]
+},
+  "bbox": [
+    -95.285847,
+    41.259936,
+    -95.285847,
+    41.259936
+],
+  "geometry": {"coordinates":[-95.285847,41.259936],"type":"Point"}
+}

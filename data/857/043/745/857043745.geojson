@@ -1,0 +1,73 @@
+{
+  "id": 857043745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.855103,41.2616,-95.855103,41.2616",
+    "geom:latitude":41.2616,
+    "geom:longitude":-95.855103,
+    "iso:country":"US",
+    "sg:address":"717 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0746",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sporting",
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XNqiEBc8evBJxRnMwhGdC_41.261557_-95.854800@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114225,
+    "wof:geomhash":"544e7d362b4cf825e16a0a115d9addd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857043745
+        }
+    ],
+    "wof:id":857043745,
+    "wof:lastmodified":1464114225,
+    "wof:name":"Brown's Loans",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting",
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -95.855103,
+    41.2616,
+    -95.855103,
+    41.2616
+],
+  "geometry": {"coordinates":[-95.855103,41.2616],"type":"Point"}
+}

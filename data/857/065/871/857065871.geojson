@@ -1,0 +1,71 @@
+{
+  "id": 857065871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.605145,42.033331,-91.605145,42.033331",
+    "geom:latitude":42.033331,
+    "geom:longitude":-91.605145,
+    "iso:country":"US",
+    "sg:address":"505 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 1513",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oTl7POkXuv8Dxdm21h2wk_42.033331_-91.605145@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115131,
+    "wof:geomhash":"a3293532217f00f11ba37c1439868edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065871
+        }
+    ],
+    "wof:id":857065871,
+    "wof:lastmodified":1464115131,
+    "wof:name":"Yen Ching Restaurant",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -91.605145,
+    42.033331,
+    -91.605145,
+    42.033331
+],
+  "geometry": {"coordinates":[-91.60514499999999,42.033331],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856850513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.628505,42.022594,-91.628505,42.022594",
+    "geom:latitude":42.022594,
+    "geom:longitude":-91.628505,
+    "iso:country":"US",
+    "sg:address":"4225 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3694",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Yaf2oUmALRp5XW9QWqG2_42.022594_-91.628505@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105550,
+    "wof:geomhash":"aa3d351edcb3bddcc3983ada6b2e58bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856850513
+        }
+    ],
+    "wof:id":856850513,
+    "wof:lastmodified":1464105550,
+    "wof:name":"Doctors Court",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -91.628505,
+    42.022594,
+    -91.628505,
+    42.022594
+],
+  "geometry": {"coordinates":[-91.628505,42.022594],"type":"Point"}
+}

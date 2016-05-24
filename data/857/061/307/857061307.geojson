@@ -1,0 +1,74 @@
+{
+  "id": 857061307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.491096,41.496101,-93.491096,41.496101",
+    "geom:latitude":41.496101,
+    "geom:longitude":-93.491096,
+    "iso:country":"US",
+    "sg:address":"190 1 St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3431",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tcuMbgImKB8NouLTRQesG_41.496101_-93.491096@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114955,
+    "wof:geomhash":"4efff5942e568f10b074f84b36f93a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857061307
+        }
+    ],
+    "wof:id":857061307,
+    "wof:lastmodified":1464114955,
+    "wof:name":"Carlisle Food-Agi",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.491096,
+    41.496101,
+    -93.491096,
+    41.496101
+],
+  "geometry": {"coordinates":[-93.491096,41.496101],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857070539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656799,41.931198,-91.656799,41.931198",
+    "geom:latitude":41.931198,
+    "geom:longitude":-91.656799,
+    "iso:country":"US",
+    "sg:address":"4935 Bowling St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5159",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair",
+        "design",
+        "web"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J2FK43iKMB8wJUAeFxm0k_41.931198_-91.656799@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115360,
+    "wof:geomhash":"a600dec0b7ab4b4d347e0248cd6dd0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070539
+        }
+    ],
+    "wof:id":857070539,
+    "wof:lastmodified":1464115360,
+    "wof:name":"Todays Computers Business Center",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "design",
+        "web"
+    ]
+},
+  "bbox": [
+    -91.656799,
+    41.931198,
+    -91.656799,
+    41.931198
+],
+  "geometry": {"coordinates":[-91.65679900000001,41.931198],"type":"Point"}
+}

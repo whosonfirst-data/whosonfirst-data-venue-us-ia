@@ -1,0 +1,80 @@
+{
+  "id": 857071275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.720155,41.96756,-91.720155,41.96756",
+    "geom:latitude":41.96756,
+    "geom:longitude":-91.720155,
+    "iso:country":"US",
+    "sg:address":"3700 1st Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7818",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TZ7aLBwN1Y3KKL4AfbT2R_41.967560_-91.720155@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115384,
+    "wof:geomhash":"3e069f225d9bdf188611c64ee27ec534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071275
+        }
+    ],
+    "wof:id":857071275,
+    "wof:lastmodified":1464115384,
+    "wof:name":"St Jude Elementary",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.720155,
+    41.96756,
+    -91.720155,
+    41.96756
+],
+  "geometry": {"coordinates":[-91.72015500000001,41.96756],"type":"Point"}
+}

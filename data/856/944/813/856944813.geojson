@@ -1,0 +1,73 @@
+{
+  "id": 856944813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.847101,41.261613,-95.847101,41.261613",
+    "geom:latitude":41.261613,
+    "geom:longitude":-95.847101,
+    "iso:country":"US",
+    "sg:address":"201 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 9419",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fXjSb88WXiioDPP154k89_41.261613_-95.847101@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109881,
+    "wof:geomhash":"f47f799be8f2c23f1f095fbb98115573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856944813
+        }
+    ],
+    "wof:id":856944813,
+    "wof:lastmodified":1464109881,
+    "wof:name":"Hopp Physical Therapy",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -95.847101,
+    41.261613,
+    -95.847101,
+    41.261613
+],
+  "geometry": {"coordinates":[-95.84710099999999,41.261613],"type":"Point"}
+}

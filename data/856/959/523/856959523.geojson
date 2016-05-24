@@ -1,0 +1,73 @@
+{
+  "id": 856959523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069374,42.488685,-96.069374,42.488685",
+    "geom:latitude":42.488685,
+    "geom:longitude":-96.069374,
+    "iso:country":"US",
+    "sg:address":"410 Main St",
+    "sg:city":"Moville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 873 5225",
+    "sg:postcode":"51039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65f4eXZstB5uOeH1NuiS3i_42.488685_-96.069374@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110521,
+    "wof:geomhash":"66528afe1d5776eae00452a16da33ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856959523
+        }
+    ],
+    "wof:id":856959523,
+    "wof:lastmodified":1464110521,
+    "wof:name":"Moville Area Medical Clinic",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.069374,
+    42.488685,
+    -96.069374,
+    42.488685
+],
+  "geometry": {"coordinates":[-96.069374,42.488685],"type":"Point"}
+}

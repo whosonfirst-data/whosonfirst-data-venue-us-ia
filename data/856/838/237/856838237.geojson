@@ -1,0 +1,73 @@
+{
+  "id": 856838237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.109242,41.833174,-94.109242,41.833174",
+    "geom:latitude":41.833174,
+    "geom:longitude":-94.109242,
+    "iso:country":"US",
+    "sg:address":"904 Center St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 9517",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z4pCUDdSJRpzynIBiRl80_41.833174_-94.109242@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104924,
+    "wof:geomhash":"5de22d926b76187f00037d1bfe70c97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856838237
+        }
+    ],
+    "wof:id":856838237,
+    "wof:lastmodified":1464104924,
+    "wof:name":"Holcomb's Used Cars",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.109242,
+    41.833174,
+    -94.109242,
+    41.833174
+],
+  "geometry": {"coordinates":[-94.10924199999999,41.833174],"type":"Point"}
+}

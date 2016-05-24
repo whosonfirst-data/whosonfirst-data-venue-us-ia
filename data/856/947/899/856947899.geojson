@@ -1,0 +1,73 @@
+{
+  "id": 856947899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.178838,41.575686,-94.178838,41.575686",
+    "geom:latitude":41.575686,
+    "geom:longitude":-94.178838,
+    "iso:country":"US",
+    "sg:address":"3204 G Trl",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 225 3131",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yioMIVAsFn65gPPV7cp47_41.575686_-94.178838@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109996,
+    "wof:geomhash":"ebe9e993f1e18d4e73ca8400d9cf471b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856947899
+        }
+    ],
+    "wof:id":856947899,
+    "wof:lastmodified":1464109996,
+    "wof:name":"All Breed Obedience",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -94.178838,
+    41.575686,
+    -94.178838,
+    41.575686
+],
+  "geometry": {"coordinates":[-94.178838,41.575686],"type":"Point"}
+}

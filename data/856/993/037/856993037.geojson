@@ -1,0 +1,71 @@
+{
+  "id": 856993037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.299627,42.30855,-96.299627,42.30855",
+    "geom:latitude":42.30855,
+    "geom:longitude":-96.299627,
+    "iso:country":"US",
+    "sg:address":"1556 275th St",
+    "sg:city":"Salix",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 946 5495",
+    "sg:postcode":"51052",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hd3UTECg1osM3lMSQFXlw_42.308550_-96.299627@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112111,
+    "wof:geomhash":"1cb99d8a19a2a29e3effbd68cd9c8008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856993037
+        }
+    ],
+    "wof:id":856993037,
+    "wof:lastmodified":1464112111,
+    "wof:name":"Salix Grocery Store",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.299627,
+    42.30855,
+    -96.299627,
+    42.30855
+],
+  "geometry": {"coordinates":[-96.299627,42.30855],"type":"Point"}
+}

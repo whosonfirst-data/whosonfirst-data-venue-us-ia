@@ -1,0 +1,73 @@
+{
+  "id": 856813433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.222035,41.785128,-94.222035,41.785128",
+    "geom:latitude":41.785128,
+    "geom:longitude":-94.222035,
+    "iso:country":"US",
+    "sg:address":"1740 D Ave",
+    "sg:city":"Dawson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 428 8234",
+    "sg:postcode":"50066",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tQzZIuf0pKv6JdfnxdBqS_41.785128_-94.222035@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103769,
+    "wof:geomhash":"4cb386ac6e38e66e01de492f58990b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856813433
+        }
+    ],
+    "wof:id":856813433,
+    "wof:lastmodified":1464103769,
+    "wof:name":"Pat Summerson",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.222035,
+    41.785128,
+    -94.222035,
+    41.785128
+],
+  "geometry": {"coordinates":[-94.22203500000001,41.785128],"type":"Point"}
+}

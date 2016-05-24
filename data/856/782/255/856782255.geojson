@@ -1,0 +1,73 @@
+{
+  "id": 856782255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.510841,41.941157,-91.510841,41.941157",
+    "geom:latitude":41.941157,
+    "geom:longitude":-91.510841,
+    "iso:country":"US",
+    "sg:address":"1525 E Bertram Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8928",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qUoDoLY0VOwJay9KYbVbm_41.941157_-91.510841@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102485,
+    "wof:geomhash":"ab5cf78d667fdafbc6d9a6c92f2989b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856782255
+        }
+    ],
+    "wof:id":856782255,
+    "wof:lastmodified":1464102485,
+    "wof:name":"Doris Hinchliffe Farm",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.510841,
+    41.941157,
+    -91.510841,
+    41.941157
+],
+  "geometry": {"coordinates":[-91.510841,41.941157],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857070149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6745,41.892502,-91.6745,41.892502",
+    "geom:latitude":41.892502,
+    "geom:longitude":-91.6745,
+    "iso:country":"US",
+    "sg:address":"8710 Earhart Ln SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 841 4000",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "interior",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pyQ0kkAKyeoF2XRSTTqga_41.892502_-91.674500@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115341,
+    "wof:geomhash":"d632cca43bcd562b71c5f7b2b78059b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070149
+        }
+    ],
+    "wof:id":857070149,
+    "wof:lastmodified":1464115341,
+    "wof:name":"Howard R Green Co",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design"
+    ]
+},
+  "bbox": [
+    -91.6745,
+    41.892502,
+    -91.6745,
+    41.892502
+],
+  "geometry": {"coordinates":[-91.67449999999999,41.892502],"type":"Point"}
+}

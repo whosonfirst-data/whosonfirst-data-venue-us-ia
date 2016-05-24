@@ -1,0 +1,73 @@
+{
+  "id": 856957159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.512866,41.650495,-91.512866,41.650495",
+    "geom:latitude":41.650495,
+    "geom:longitude":-91.512866,
+    "iso:country":"US",
+    "sg:address":"1515 Jackson Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 9088",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IcgNomda5jUywfzKUoclS_41.650495_-91.512866@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110432,
+    "wof:geomhash":"e140c92ee544a8b10b5b410728cae394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896443,
+            "region_id":85688713,
+            "venue_id":856957159
+        }
+    ],
+    "wof:id":856957159,
+    "wof:lastmodified":1464110432,
+    "wof:name":"Dental Lab",
+    "wof:parent_id":85896443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.512866,
+    41.650495,
+    -91.512866,
+    41.650495
+],
+  "geometry": {"coordinates":[-91.512866,41.650495],"type":"Point"}
+}

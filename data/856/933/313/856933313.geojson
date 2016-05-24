@@ -1,0 +1,75 @@
+{
+  "id": 856933313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.538468,41.633813,-91.538468,41.633813",
+    "geom:latitude":41.633813,
+    "geom:longitude":-91.538468,
+    "iso:country":"US",
+    "sg:address":"2115 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 3811",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hH5SN8VAziQyYuaJuJ7Q2_41.633813_-91.538468@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109369,
+    "wof:geomhash":"68aee478a11a01109e5262e38a34b248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896453,
+            "region_id":85688713,
+            "venue_id":856933313
+        }
+    ],
+    "wof:id":856933313,
+    "wof:lastmodified":1464109369,
+    "wof:name":"Roe Heating & Refrigeration",
+    "wof:parent_id":85896453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.538468,
+    41.633813,
+    -91.538468,
+    41.633813
+],
+  "geometry": {"coordinates":[-91.53846799999999,41.633813],"type":"Point"}
+}

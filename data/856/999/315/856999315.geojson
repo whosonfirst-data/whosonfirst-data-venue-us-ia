@@ -1,0 +1,73 @@
+{
+  "id": 856999315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.71599,41.962252,-91.71599,41.962252",
+    "geom:latitude":41.962252,
+    "geom:longitude":-91.71599,
+    "iso:country":"US",
+    "sg:address":"1639 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0074",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Byc4cSfwy3Cl54cHCgqtX_41.962252_-91.715990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112336,
+    "wof:geomhash":"c7f396b0c2c999ae8e38a08f61d0fa03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856999315
+        }
+    ],
+    "wof:id":856999315,
+    "wof:lastmodified":1464112336,
+    "wof:name":"D & R Masonry",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.71599,
+    41.962252,
+    -91.71599,
+    41.962252
+],
+  "geometry": {"coordinates":[-91.71599000000001,41.962252],"type":"Point"}
+}

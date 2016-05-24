@@ -1,0 +1,73 @@
+{
+  "id": 856881115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543984,41.948035,-91.543984,41.948035",
+    "geom:latitude":41.948035,
+    "geom:longitude":-91.543984,
+    "iso:country":"US",
+    "sg:address":"1208 Woodland Dr",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 1259",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vefEDdD0dd531zx9XBUrL_41.948035_-91.543984@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107208,
+    "wof:geomhash":"4d16785fefa17249dad6d064de8d9d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856881115
+        }
+    ],
+    "wof:id":856881115,
+    "wof:lastmodified":1464107208,
+    "wof:name":"D R",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.543984,
+    41.948035,
+    -91.543984,
+    41.948035
+],
+  "geometry": {"coordinates":[-91.54398399999999,41.948035],"type":"Point"}
+}

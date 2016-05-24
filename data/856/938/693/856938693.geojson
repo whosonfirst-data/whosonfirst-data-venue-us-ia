@@ -1,0 +1,75 @@
+{
+  "id": 856938693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528242,42.20728,-91.528242,42.20728",
+    "geom:latitude":42.20728,
+    "geom:longitude":-91.528242,
+    "iso:country":"US",
+    "sg:address":"119 Grove St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 9904",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HFZoJXOSClCuD7lPSqU8z_42.207280_-91.528242@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109618,
+    "wof:geomhash":"f7fdcf904317023bb4e34c1848141fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856938693
+        }
+    ],
+    "wof:id":856938693,
+    "wof:lastmodified":1464109618,
+    "wof:name":"Jlc Transport Incorp",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.528242,
+    42.20728,
+    -91.528242,
+    42.20728
+],
+  "geometry": {"coordinates":[-91.52824200000001,42.20728],"type":"Point"}
+}

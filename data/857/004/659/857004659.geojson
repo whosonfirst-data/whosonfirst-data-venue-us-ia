@@ -1,0 +1,73 @@
+{
+  "id": 857004659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.808144,41.23854,-95.808144,41.23854",
+    "geom:latitude":41.23854,
+    "geom:longitude":-95.808144,
+    "iso:country":"US",
+    "sg:address":"2719 Tara Hills St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7213",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BTR9DnvxNHZ19rNbj9h12_41.238540_-95.808144@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112557,
+    "wof:geomhash":"377c92710a7b3378f11711bc330d4d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857004659
+        }
+    ],
+    "wof:id":857004659,
+    "wof:lastmodified":1464112557,
+    "wof:name":"Peterson Estates",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.808144,
+    41.23854,
+    -95.808144,
+    41.23854
+],
+  "geometry": {"coordinates":[-95.808144,41.23854],"type":"Point"}
+}

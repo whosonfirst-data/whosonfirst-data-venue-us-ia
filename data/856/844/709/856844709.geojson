@@ -1,0 +1,71 @@
+{
+  "id": 856844709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.550091,42.035099,-91.550091,42.035099",
+    "geom:latitude":42.035099,
+    "geom:longitude":-91.550091,
+    "iso:country":"US",
+    "sg:address":"2363 State Hwy 13",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 6118",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zSXW5OUfPdmqI2GCg82ar_42.035099_-91.550091@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105217,
+    "wof:geomhash":"98310754b6b418cda945d2fd65403035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856844709
+        }
+    ],
+    "wof:id":856844709,
+    "wof:lastmodified":1464105217,
+    "wof:name":"Baxter's Outside Rentals",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -91.550091,
+    42.035099,
+    -91.550091,
+    42.035099
+],
+  "geometry": {"coordinates":[-91.55009099999999,42.035099],"type":"Point"}
+}

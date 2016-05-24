@@ -1,0 +1,71 @@
+{
+  "id": 856865827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.840398,41.274705,-95.840398,41.274705",
+    "geom:latitude":41.274705,
+    "geom:longitude":-95.840398,
+    "iso:country":"US",
+    "sg:address":"157 Norton Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 6827",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ku92oZV5l3UKDWJK6nSfO_41.274705_-95.840398@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106249,
+    "wof:geomhash":"70b2343c572897832786ba7c3444b615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856865827
+        }
+    ],
+    "wof:id":856865827,
+    "wof:lastmodified":1464106249,
+    "wof:name":"Mike Whye Photographer",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -95.840398,
+    41.274705,
+    -95.840398,
+    41.274705
+],
+  "geometry": {"coordinates":[-95.84039799999999,41.274705],"type":"Point"}
+}

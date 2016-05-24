@@ -1,0 +1,73 @@
+{
+  "id": 856983315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618655,42.147052,-91.618655,42.147052",
+    "geom:latitude":42.147052,
+    "geom:longitude":-91.618655,
+    "iso:country":"US",
+    "sg:address":"239 S Main Ave",
+    "sg:city":"Alburnett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 842 9256",
+    "sg:postcode":"52202",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04yb0IdP2g716WsCErNTP4_42.147052_-91.618655@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111649,
+    "wof:geomhash":"51a9c866f04e74a0b9663e2459205889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856983315
+        }
+    ],
+    "wof:id":856983315,
+    "wof:lastmodified":1464111649,
+    "wof:name":"K & S Auto",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.618655,
+    42.147052,
+    -91.618655,
+    42.147052
+],
+  "geometry": {"coordinates":[-91.618655,42.147052],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856846019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.731869,41.969172,-91.731869,41.969172",
+    "geom:latitude":41.969172,
+    "geom:longitude":-91.731869,
+    "iso:country":"US",
+    "sg:address":"193 Jacolyn Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 654 8691",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wunMu5U4WiCm3XhC3lD7N_41.969172_-91.731869@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105285,
+    "wof:geomhash":"d3dde396d8195ffa6178a933e1f34d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856846019
+        }
+    ],
+    "wof:id":856846019,
+    "wof:lastmodified":1464105285,
+    "wof:name":"Mary's Home Cleaning",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.731869,
+    41.969172,
+    -91.731869,
+    41.969172
+],
+  "geometry": {"coordinates":[-91.731869,41.969172],"type":"Point"}
+}

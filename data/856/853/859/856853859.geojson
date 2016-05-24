@@ -1,0 +1,71 @@
+{
+  "id": 856853859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.838301,41.278025,-95.838301,41.278025",
+    "geom:latitude":41.278025,
+    "geom:longitude":-95.838301,
+    "iso:country":"US",
+    "sg:address":"116 Happy Hollow Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0280",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eZBH2OQFyWRmcoWJjyrtZ_41.278025_-95.838301@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105715,
+    "wof:geomhash":"01648d774f1eb1a6a02aabf25454da97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856853859
+        }
+    ],
+    "wof:id":856853859,
+    "wof:lastmodified":1464105715,
+    "wof:name":"Buckmaster Dry Wall Contr",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.838301,
+    41.278025,
+    -95.838301,
+    41.278025
+],
+  "geometry": {"coordinates":[-95.838301,41.278025],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856916807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397334,41.308259,-95.397334,41.308259",
+    "geom:latitude":41.308259,
+    "geom:longitude":-95.397334,
+    "iso:country":"US",
+    "sg:address":"107 S Main St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3490",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "gourmet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ptmx17Z14AFENuksXmtVY_41.308259_-95.397334@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108685,
+    "wof:geomhash":"46af88acd9ff794c15779f6c916eec36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856916807
+        }
+    ],
+    "wof:id":856916807,
+    "wof:lastmodified":1464108685,
+    "wof:name":"Putnam Gourmet Steaks",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.397334,
+    41.308259,
+    -95.397334,
+    41.308259
+],
+  "geometry": {"coordinates":[-95.397334,41.308259],"type":"Point"}
+}

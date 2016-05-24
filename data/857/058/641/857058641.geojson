@@ -1,0 +1,76 @@
+{
+  "id": 857058641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.46755,42.496833,-96.46755,42.496833",
+    "geom:latitude":42.496833,
+    "geom:longitude":-96.46755,
+    "iso:country":"US",
+    "sg:address":"1000 Riverside Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/226082-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 1760",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dl4yAChvWiyr44C3THjh1_42.496833_-96.467550@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114851,
+    "wof:geomhash":"c2453ec1d836dbdbcd6c6be39b0ba626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":857058641
+        }
+    ],
+    "wof:id":857058641,
+    "wof:lastmodified":1464114851,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.46755,
+    42.496833,
+    -96.46755,
+    42.496833
+],
+  "geometry": {"coordinates":[-96.46755,42.496833],"type":"Point"}
+}

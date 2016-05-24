@@ -1,0 +1,73 @@
+{
+  "id": 856843213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.613635,41.985982,-91.613635,41.985982",
+    "geom:latitude":41.985982,
+    "geom:longitude":-91.613635,
+    "iso:country":"US",
+    "sg:address":"365 Trailridge Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9706",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JY5miEbTOhuTiBO4Ffne9_41.985982_-91.613635@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105141,
+    "wof:geomhash":"2df9392bbb68d8f38d33c0b2e6c1b96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856843213
+        }
+    ],
+    "wof:id":856843213,
+    "wof:lastmodified":1464105141,
+    "wof:name":"Joan Stevens",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.613635,
+    41.985982,
+    -91.613635,
+    41.985982
+],
+  "geometry": {"coordinates":[-91.613635,41.985982],"type":"Point"}
+}

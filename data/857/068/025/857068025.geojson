@@ -1,0 +1,75 @@
+{
+  "id": 857068025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624067,42.023966,-91.624067,42.023966",
+    "geom:latitude":42.023966,
+    "geom:longitude":-91.624067,
+    "iso:country":"US",
+    "sg:address":"4651 1st Ave SE Ste 2",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1720",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wh5l6bS8opBYk0jtf2HOD_42.023966_-91.624067@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115241,
+    "wof:geomhash":"0e4e21d967163c0f80068bb246220379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068025
+        }
+    ],
+    "wof:id":857068025,
+    "wof:lastmodified":1464115241,
+    "wof:name":"Guitar Center Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -91.624067,
+    42.023966,
+    -91.624067,
+    42.023966
+],
+  "geometry": {"coordinates":[-91.624067,42.023966],"type":"Point"}
+}

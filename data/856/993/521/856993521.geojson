@@ -1,0 +1,71 @@
+{
+  "id": 856993521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.337467,42.469973,-96.337467,42.469973",
+    "geom:latitude":42.469973,
+    "geom:longitude":-96.337467,
+    "iso:country":"US",
+    "sg:address":"5408 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 1095",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bgpAUsW5Hsrn4MIYm1itL_42.469973_-96.337467@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112126,
+    "wof:geomhash":"872be68f4241f9a77187c34ee6b8a85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856993521
+        }
+    ],
+    "wof:id":856993521,
+    "wof:lastmodified":1464112126,
+    "wof:name":"Roger Jolly Tattoo",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -96.337467,
+    42.469973,
+    -96.337467,
+    42.469973
+],
+  "geometry": {"coordinates":[-96.337467,42.469973],"type":"Point"}
+}

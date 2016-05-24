@@ -1,0 +1,76 @@
+{
+  "id": 857060519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.352733,42.456772,-92.352733,42.456772",
+    "geom:latitude":42.456772,
+    "geom:longitude":-92.352733,
+    "iso:country":"US",
+    "sg:address":"207 E Tower Park Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/waterloo/124242-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 287 4433",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ocjbfaBp50XrzvWai2aQh_42.456452_-92.353082@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114917,
+    "wof:geomhash":"74e9d04141843c13a1bd108053f28f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":857060519
+        }
+    ],
+    "wof:id":857060519,
+    "wof:lastmodified":1464114917,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.352733,
+    42.456772,
+    -92.352733,
+    42.456772
+],
+  "geometry": {"coordinates":[-92.352733,42.456772],"type":"Point"}
+}

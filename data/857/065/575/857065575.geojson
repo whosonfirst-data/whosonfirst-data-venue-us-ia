@@ -1,0 +1,71 @@
+{
+  "id": 857065575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.77392,41.929967,-91.77392,41.929967",
+    "geom:latitude":41.929967,
+    "geom:longitude":-91.77392,
+    "iso:country":"US",
+    "sg:address":"320 80th Street Ct",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 845 7007",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trainer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cALpO2ANxhkgXxG8wvZ2K_41.929967_-91.773920@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115118,
+    "wof:geomhash":"6b52c438dc4acf6b3128bae961845de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065575
+        }
+    ],
+    "wof:id":857065575,
+    "wof:lastmodified":1464115118,
+    "wof:name":"Xpress Fitness Center",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer"
+    ]
+},
+  "bbox": [
+    -91.77392,
+    41.929967,
+    -91.77392,
+    41.929967
+],
+  "geometry": {"coordinates":[-91.77392,41.929967],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856988483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851099,41.256159,-95.851099,41.256159",
+    "geom:latitude":41.256159,
+    "geom:longitude":-95.851099,
+    "iso:country":"US",
+    "sg:address":"506 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 9760",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h82l3qbkQp4TGdaRla9uR_41.256159_-95.851099@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111891,
+    "wof:geomhash":"7efc4c55dbd6c354381a8fa4e7f2ee7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856988483
+        }
+    ],
+    "wof:id":856988483,
+    "wof:lastmodified":1464111891,
+    "wof:name":"Endless Trail Bike Shop",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.851099,
+    41.256159,
+    -95.851099,
+    41.256159
+],
+  "geometry": {"coordinates":[-95.851099,41.256159],"type":"Point"}
+}

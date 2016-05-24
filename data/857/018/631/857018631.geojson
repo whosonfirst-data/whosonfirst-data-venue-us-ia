@@ -1,0 +1,70 @@
+{
+  "id": 857018631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.402902,41.461421,-93.402902,41.461421",
+    "geom:latitude":41.461421,
+    "geom:longitude":-93.402902,
+    "iso:country":"US",
+    "sg:address":"315 N Vine St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3426",
+    "sg:postcode":"50118",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.hartfordupc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7berEarElcnCQ1lTz8wO4W_41.461421_-93.402902@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113138,
+    "wof:geomhash":"4f50bdda930a3da69bbbda4f97e9eb07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857018631
+        }
+    ],
+    "wof:id":857018631,
+    "wof:lastmodified":1464113138,
+    "wof:name":"Community United Presbyterian",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.402902,
+    41.461421,
+    -93.402902,
+    41.461421
+],
+  "geometry": {"coordinates":[-93.402902,41.461421],"type":"Point"}
+}

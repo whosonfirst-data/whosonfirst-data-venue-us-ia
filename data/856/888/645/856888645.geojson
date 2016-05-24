@@ -1,0 +1,73 @@
+{
+  "id": 856888645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619897,41.637288,-93.619897,41.637288",
+    "geom:latitude":41.637288,
+    "geom:longitude":-93.619897,
+    "iso:country":"US",
+    "sg:address":"4235 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 2303",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944061,
+        102086603,
+        85896373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nBUTHZZ34fXo32DY0HEqi_41.637288_-93.619897@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107629,
+    "wof:geomhash":"26c00c00021a3afc7982ba2d1cc2adc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896373,
+            "region_id":85688713,
+            "venue_id":856888645
+        }
+    ],
+    "wof:id":856888645,
+    "wof:lastmodified":1464107629,
+    "wof:name":"Ron's Auto Repair",
+    "wof:parent_id":85896373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.619897,
+    41.637288,
+    -93.619897,
+    41.637288
+],
+  "geometry": {"coordinates":[-93.61989699999999,41.637288],"type":"Point"}
+}

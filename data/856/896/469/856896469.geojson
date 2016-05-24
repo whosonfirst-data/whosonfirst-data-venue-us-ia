@@ -1,0 +1,71 @@
+{
+  "id": 856896469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.68039,41.475264,-93.68039,41.475264",
+    "geom:latitude":41.475264,
+    "geom:longitude":-93.68039,
+    "iso:country":"US",
+    "sg:address":"702 North Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 4209",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hLaMzlxzGx3uFYnPW5x0E_41.475264_-93.680390@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107918,
+    "wof:geomhash":"91305f4171ac1c788c7c7dcc7ee627d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856896469
+        }
+    ],
+    "wof:id":856896469,
+    "wof:lastmodified":1464107918,
+    "wof:name":"Harvey's Automotive & Machine",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -93.68039,
+    41.475264,
+    -93.68039,
+    41.475264
+],
+  "geometry": {"coordinates":[-93.68039,41.475264],"type":"Point"}
+}

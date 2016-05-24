@@ -1,0 +1,72 @@
+{
+  "id": 856925767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.67091,41.47539,-93.67091,41.47539",
+    "geom:latitude":41.47539,
+    "geom:longitude":-93.67091,
+    "iso:country":"US",
+    "sg:address":"1505 North Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 5115",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"www.dmtb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CccnghEpcSfQHuARBApLV_41.475390_-93.670910@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109076,
+    "wof:geomhash":"b54eb96f74d6d5eac666af2f8360e3a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856925767
+        }
+    ],
+    "wof:id":856925767,
+    "wof:lastmodified":1464109076,
+    "wof:name":"Des Moines Truck Brokers Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.67091,
+    41.47539,
+    -93.67091,
+    41.47539
+],
+  "geometry": {"coordinates":[-93.67091000000001,41.47539],"type":"Point"}
+}

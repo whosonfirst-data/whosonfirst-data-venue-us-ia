@@ -1,0 +1,71 @@
+{
+  "id": 856817647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.484997,41.504777,-93.484997,41.504777",
+    "geom:latitude":41.504777,
+    "geom:longitude":-93.484997,
+    "iso:country":"US",
+    "sg:address":"1 Park St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0125",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xMNyqIZBrxb0H0Z1jw2A6_41.504777_-93.484997@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103952,
+    "wof:geomhash":"a8c9a34b5fcd47b9db4fb9dc69126892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856817647
+        }
+    ],
+    "wof:id":856817647,
+    "wof:lastmodified":1464103952,
+    "wof:name":"Carlisle Water Treatment Plant",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -93.484997,
+    41.504777,
+    -93.484997,
+    41.504777
+],
+  "geometry": {"coordinates":[-93.48499700000001,41.504777],"type":"Point"}
+}

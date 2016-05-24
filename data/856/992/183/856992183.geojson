@@ -1,0 +1,75 @@
+{
+  "id": 856992183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.646924,41.585799,-93.646924,41.585799",
+    "geom:latitude":41.585799,
+    "geom:longitude":-93.646924,
+    "iso:country":"US",
+    "sg:address":"2212 Ingersoll Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 0725",
+    "sg:postcode":"50312",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NrlxCmRCNBP2tRODAEDdN_41.585799_-93.646924@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112059,
+    "wof:geomhash":"67a46dd20a2aac415842b8a02b6a84a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856992183
+        }
+    ],
+    "wof:id":856992183,
+    "wof:lastmodified":1464112059,
+    "wof:name":"Medically Yours-Medical Equip",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.646924,
+    41.585799,
+    -93.646924,
+    41.585799
+],
+  "geometry": {"coordinates":[-93.646924,41.585799],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856839233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.607793,42.055056,-91.607793,42.055056",
+    "geom:latitude":42.055056,
+    "geom:longitude":-91.607793,
+    "iso:country":"US",
+    "sg:address":"240 34th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 0109",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BoaqfWV88ETZJHG2fEOuX_42.055056_-91.607793@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104977,
+    "wof:geomhash":"ddd58ffc0c9ed2eb898a89f3633ac22a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856839233
+        }
+    ],
+    "wof:id":856839233,
+    "wof:lastmodified":1464104977,
+    "wof:name":"Wilson Homes",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -91.607793,
+    42.055056,
+    -91.607793,
+    42.055056
+],
+  "geometry": {"coordinates":[-91.607793,42.055056],"type":"Point"}
+}

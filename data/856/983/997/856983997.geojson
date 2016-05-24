@@ -1,0 +1,73 @@
+{
+  "id": 856983997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.085251,41.835408,-94.085251,41.835408",
+    "geom:latitude":41.835408,
+    "geom:longitude":-94.085251,
+    "iso:country":"US",
+    "sg:address":"2770 Summer Meadows Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4252",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pptegz9kvUzLqOnxazqQB_41.835408_-94.085251@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111682,
+    "wof:geomhash":"11b07d7f93120e19b1f9c6d4eea9223f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856983997
+        }
+    ],
+    "wof:id":856983997,
+    "wof:lastmodified":1464111682,
+    "wof:name":"Warren Burchfield",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -94.085251,
+    41.835408,
+    -94.085251,
+    41.835408
+],
+  "geometry": {"coordinates":[-94.085251,41.835408],"type":"Point"}
+}

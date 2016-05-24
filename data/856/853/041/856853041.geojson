@@ -1,0 +1,73 @@
+{
+  "id": 856853041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.590218,41.376207,-95.590218,41.376207",
+    "geom:latitude":41.376207,
+    "geom:longitude":-95.590218,
+    "iso:country":"US",
+    "sg:address":"31725 Magnolia Rd",
+    "sg:city":"Neola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 9460",
+    "sg:postcode":"51559",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gRRpzUJpZ0ZFBbeXe7vdi_41.376207_-95.590218@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105679,
+    "wof:geomhash":"71e47c421f90b7b72c4a96d2a19e368e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856853041
+        }
+    ],
+    "wof:id":856853041,
+    "wof:lastmodified":1464105679,
+    "wof:name":"Reliable Electric Service",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.590218,
+    41.376207,
+    -95.590218,
+    41.376207
+],
+  "geometry": {"coordinates":[-95.59021799999999,41.376207],"type":"Point"}
+}

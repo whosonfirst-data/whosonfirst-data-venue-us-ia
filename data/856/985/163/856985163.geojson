@@ -1,0 +1,71 @@
+{
+  "id": 856985163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903426,41.261841,-95.903426,41.261841",
+    "geom:latitude":41.261841,
+    "geom:longitude":-95.903426,
+    "iso:country":"US",
+    "sg:address":"3537 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0117",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eUimrk86DO7i4DoPRJVHf_41.261841_-95.903426@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111746,
+    "wof:geomhash":"1f7d58dcbcdccebf36c44087d9c05f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856985163
+        }
+    ],
+    "wof:id":856985163,
+    "wof:lastmodified":1464111746,
+    "wof:name":"Loanmax",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -95.903426,
+    41.261841,
+    -95.903426,
+    41.261841
+],
+  "geometry": {"coordinates":[-95.903426,41.261841],"type":"Point"}
+}

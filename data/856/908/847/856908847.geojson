@@ -1,0 +1,71 @@
+{
+  "id": 856908847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.029715,41.755739,-94.029715,41.755739",
+    "geom:latitude":41.755739,
+    "geom:longitude":-94.029715,
+    "iso:country":"US",
+    "sg:address":"301 Baker St",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2242",
+    "sg:postcode":"50167",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jce6011XdSnye6AftFirc_41.755739_-94.029715@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108378,
+    "wof:geomhash":"be90d2b764fa38eb7ce0be61285b728b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856908847
+        }
+    ],
+    "wof:id":856908847,
+    "wof:lastmodified":1464108378,
+    "wof:name":"Minburn Veterinary Clinic",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.029715,
+    41.755739,
+    -94.029715,
+    41.755739
+],
+  "geometry": {"coordinates":[-94.029715,41.755739],"type":"Point"}
+}

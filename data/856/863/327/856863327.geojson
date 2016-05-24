@@ -1,0 +1,71 @@
+{
+  "id": 856863327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.922076,41.85653,-93.922076,41.85653",
+    "geom:latitude":41.85653,
+    "geom:longitude":-93.922076,
+    "iso:country":"US",
+    "sg:address":"218 S Main St",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 4393",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01GEBT9vtUN8voLAfzRIyB_41.856530_-93.922076@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106128,
+    "wof:geomhash":"a5e905b3f81d25c9f46f98ac882d422c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856863327
+        }
+    ],
+    "wof:id":856863327,
+    "wof:lastmodified":1464106128,
+    "wof:name":"Woodward Social Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -93.922076,
+    41.85653,
+    -93.922076,
+    41.85653
+],
+  "geometry": {"coordinates":[-93.922076,41.85653],"type":"Point"}
+}

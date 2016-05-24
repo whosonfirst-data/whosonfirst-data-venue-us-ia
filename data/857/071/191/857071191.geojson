@@ -1,0 +1,67 @@
+{
+  "id": 857071191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716202,41.976601,-91.716202,41.976601",
+    "geom:latitude":41.976601,
+    "geom:longitude":-91.716202,
+    "iso:country":"US",
+    "sg:address":"425 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8141",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_659vM7cLh3Bf4PmQFXWVfm_41.976601_-91.716202@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115382,
+    "wof:geomhash":"2e03a98a8ae27e89d14df487a69e0526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071191
+        }
+    ],
+    "wof:id":857071191,
+    "wof:lastmodified":1464115382,
+    "wof:name":"Subway",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.716202,
+    41.976601,
+    -91.716202,
+    41.976601
+],
+  "geometry": {"coordinates":[-91.716202,41.976601],"type":"Point"}
+}

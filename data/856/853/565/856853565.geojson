@@ -1,0 +1,73 @@
+{
+  "id": 856853565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.58595,41.731795,-93.58595,41.731795",
+    "geom:latitude":41.731795,
+    "geom:longitude":-93.58595,
+    "iso:country":"US",
+    "sg:address":"817 E 1st St",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 7890",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c5BiOl0nTr2Au3LnHBbeu_41.731795_-93.585950@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105704,
+    "wof:geomhash":"cb021506155a7a713ebefe8bde3c0a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896317,
+            "region_id":85688713,
+            "venue_id":856853565
+        }
+    ],
+    "wof:id":856853565,
+    "wof:lastmodified":1464105704,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85896317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -93.58595,
+    41.731795,
+    -93.58595,
+    41.731795
+],
+  "geometry": {"coordinates":[-93.58595,41.731795],"type":"Point"}
+}

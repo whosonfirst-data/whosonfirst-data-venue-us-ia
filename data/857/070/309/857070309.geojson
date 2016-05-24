@@ -1,0 +1,71 @@
+{
+  "id": 857070309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.737801,41.963699,-91.737801,41.963699",
+    "geom:latitude":41.963699,
+    "geom:longitude":-91.737801,
+    "iso:country":"US",
+    "sg:address":"5175 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7272",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qR8LlsDB54nHW8lRRRDDM_41.963699_-91.737801@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115347,
+    "wof:geomhash":"cfc35bcb6bd6b394ccfc530dc4709321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070309
+        }
+    ],
+    "wof:id":857070309,
+    "wof:lastmodified":1464115347,
+    "wof:name":"Stetson Building Products",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.737801,
+    41.963699,
+    -91.737801,
+    41.963699
+],
+  "geometry": {"coordinates":[-91.737801,41.963699],"type":"Point"}
+}

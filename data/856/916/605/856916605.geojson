@@ -1,0 +1,73 @@
+{
+  "id": 856916605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.822444,41.602127,-93.822444,41.602127",
+    "geom:latitude":41.602127,
+    "geom:longitude":-93.822444,
+    "iso:country":"US",
+    "sg:address":"775 Walnut Ridge Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 238 9916",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mill",
+        "fabric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hUeReW8GlJewy8SwGehPP_41.602127_-93.822444@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108678,
+    "wof:geomhash":"8cb9a28e3f3cf399928dca7c24c5ff72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856916605
+        }
+    ],
+    "wof:id":856916605,
+    "wof:lastmodified":1464108678,
+    "wof:name":"Real Quilts",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "fabric"
+    ]
+},
+  "bbox": [
+    -93.822444,
+    41.602127,
+    -93.822444,
+    41.602127
+],
+  "geometry": {"coordinates":[-93.822444,41.602127],"type":"Point"}
+}

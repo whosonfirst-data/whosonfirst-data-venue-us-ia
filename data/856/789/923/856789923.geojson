@@ -1,0 +1,68 @@
+{
+  "id": 856789923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.62873,41.97686,-91.62873,41.97686",
+    "geom:latitude":41.97686,
+    "geom:longitude":-91.62873,
+    "iso:country":"US",
+    "sg:address":"2663 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1999",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K9Ymao6cpCuxLoMnUv7wl_41.976860_-91.628730@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102776,
+    "wof:geomhash":"aa2e8135c7eeb89cdd1921a1ff3a8293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856789923
+        }
+    ],
+    "wof:id":856789923,
+    "wof:lastmodified":1464102776,
+    "wof:name":"Basil's Mediterranean Pizza",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.62873,
+    41.97686,
+    -91.62873,
+    41.97686
+],
+  "geometry": {"coordinates":[-91.62873,41.97686],"type":"Point"}
+}

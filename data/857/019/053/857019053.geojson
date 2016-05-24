@@ -1,0 +1,77 @@
+{
+  "id": 857019053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.345781,42.470338,-96.345781,42.470338",
+    "geom:latitude":42.470338,
+    "geom:longitude":-96.345781,
+    "iso:country":"US",
+    "sg:address":"4700 Morningside Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 1511",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6prJeCholX8LdpQ8ySo6Hd_42.470338_-96.345781@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113156,
+    "wof:geomhash":"98de254caeda92a6a7b97032413b2d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857019053
+        }
+    ],
+    "wof:id":857019053,
+    "wof:lastmodified":1464113156,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.345781,
+    42.470338,
+    -96.345781,
+    42.470338
+],
+  "geometry": {"coordinates":[-96.345781,42.470338],"type":"Point"}
+}

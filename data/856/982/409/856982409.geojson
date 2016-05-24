@@ -1,0 +1,71 @@
+{
+  "id": 856982409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854875,41.24265,-95.854875,41.24265",
+    "geom:latitude":41.24265,
+    "geom:longitude":-95.854875,
+    "iso:country":"US",
+    "sg:address":"1900 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0901",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cUgFrZVrnCUzlG2uKG3F8_41.242650_-95.854875@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111582,
+    "wof:geomhash":"a9c13a4cacbc002bec81a95911b35f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856982409
+        }
+    ],
+    "wof:id":856982409,
+    "wof:lastmodified":1464111582,
+    "wof:name":"Bethany Presbyterian Church",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.854875,
+    41.24265,
+    -95.854875,
+    41.24265
+],
+  "geometry": {"coordinates":[-95.85487500000001,41.24265],"type":"Point"}
+}

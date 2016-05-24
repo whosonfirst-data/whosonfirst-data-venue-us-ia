@@ -1,0 +1,71 @@
+{
+  "id": 856829189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682475,41.525731,-91.682475,41.525731",
+    "geom:latitude":41.525731,
+    "geom:longitude":-91.682475,
+    "iso:country":"US",
+    "sg:address":"5592 Sharon Center Rd SW",
+    "sg:city":"Kalona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 656 3286",
+    "sg:postcode":"52247",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Kv9RPMIi62EuPCvzy6TA_41.525731_-91.682475@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104479,
+    "wof:geomhash":"45f2bc54d6c1793bb3aa840a0c79f389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856829189
+        }
+    ],
+    "wof:id":856829189,
+    "wof:lastmodified":1464104479,
+    "wof:name":"Schwartz Construction",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.682475,
+    41.525731,
+    -91.682475,
+    41.525731
+],
+  "geometry": {"coordinates":[-91.682475,41.525731],"type":"Point"}
+}

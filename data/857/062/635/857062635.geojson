@@ -1,0 +1,77 @@
+{
+  "id": 857062635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906911,41.240723,-95.906911,41.240723",
+    "geom:latitude":41.240723,
+    "geom:longitude":-95.906911,
+    "iso:country":"US",
+    "sg:address":"2202 River Road",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5050",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.holidayinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K867fYUfujoqApbKlwoL1_41.240723_-95.906911@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115010,
+    "wof:geomhash":"a9c36ad4e978499f81052284b7002b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062635
+        }
+    ],
+    "wof:id":857062635,
+    "wof:lastmodified":1464115010,
+    "wof:name":"Holiday Inn Hotel & Suites Council Bluffs-I-29",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -95.906911,
+    41.240723,
+    -95.906911,
+    41.240723
+],
+  "geometry": {"coordinates":[-95.90691099999999,41.240723],"type":"Point"}
+}

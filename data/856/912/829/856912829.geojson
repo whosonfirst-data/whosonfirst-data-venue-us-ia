@@ -1,0 +1,73 @@
+{
+  "id": 856912829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.022721,41.614155,-94.022721,41.614155",
+    "geom:latitude":41.614155,
+    "geom:longitude":-94.022721,
+    "iso:country":"US",
+    "sg:address":"1205 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3517",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SUlbttNS6wYQxSgk9MHBD_41.614155_-94.022721@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108536,
+    "wof:geomhash":"741d032e8e535899c307474921a87dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856912829
+        }
+    ],
+    "wof:id":856912829,
+    "wof:lastmodified":1464108536,
+    "wof:name":"Physical Therapy & Rehab Spec",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -94.022721,
+    41.614155,
+    -94.022721,
+    41.614155
+],
+  "geometry": {"coordinates":[-94.022721,41.614155],"type":"Point"}
+}

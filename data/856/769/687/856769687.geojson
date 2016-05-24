@@ -1,0 +1,73 @@
+{
+  "id": 856769687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682327,41.970832,-91.682327,41.970832",
+    "geom:latitude":41.970832,
+    "geom:longitude":-91.682327,
+    "iso:country":"US",
+    "sg:address":"835 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9519",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z03E7WGk6QDYfCkB7NmNk_41.970832_-91.682327@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102199,
+    "wof:geomhash":"de1e98f5ec8449e4e356c9ce1eec57c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856769687
+        }
+    ],
+    "wof:id":856769687,
+    "wof:lastmodified":1464102199,
+    "wof:name":"Neighborhood Sundries & Tavern",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -91.682327,
+    41.970832,
+    -91.682327,
+    41.970832
+],
+  "geometry": {"coordinates":[-91.682327,41.970832],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856933985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.857155,41.262624,-95.857155,41.262624",
+    "geom:latitude":41.262624,
+    "geom:longitude":-95.857155,
+    "iso:country":"US",
+    "sg:address":"829 Ave A",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7354",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wbrvKAiWYWeBpBWeZL9bd_41.262624_-95.857155@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109391,
+    "wof:geomhash":"99dbb78f0fa5070904c2ce0b42902456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856933985
+        }
+    ],
+    "wof:id":856933985,
+    "wof:lastmodified":1464109391,
+    "wof:name":"Catherine's Catering",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -95.857155,
+    41.262624,
+    -95.857155,
+    41.262624
+],
+  "geometry": {"coordinates":[-95.85715500000001,41.262624],"type":"Point"}
+}

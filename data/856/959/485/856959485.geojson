@@ -1,0 +1,71 @@
+{
+  "id": 856959485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558233,41.360361,-93.558233,41.360361",
+    "geom:latitude":41.360361,
+    "geom:longitude":-93.558233,
+    "iso:country":"US",
+    "sg:address":"108 N Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8448",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k5ARV6hsXMPnfVkjBG4CT_41.360361_-93.558233@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110520,
+    "wof:geomhash":"6d4a0208c8e50768ffcff0c7aa071947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856959485
+        }
+    ],
+    "wof:id":856959485,
+    "wof:lastmodified":1464110520,
+    "wof:name":"Mercy Indianola Medical Clinic",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.558233,
+    41.360361,
+    -93.558233,
+    41.360361
+],
+  "geometry": {"coordinates":[-93.558233,41.360361],"type":"Point"}
+}

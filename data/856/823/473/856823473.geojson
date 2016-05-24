@@ -1,0 +1,75 @@
+{
+  "id": 856823473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.412533,42.501562,-96.412533,42.501562",
+    "geom:latitude":42.501562,
+    "geom:longitude":-96.412533,
+    "iso:country":"US",
+    "sg:address":"418 W 8th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1667",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_084VoiW7pRmLGNHh71QGdq_42.501562_-96.412533@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104242,
+    "wof:geomhash":"ac42637f4acc4a8cda8da742a6746caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856823473
+        }
+    ],
+    "wof:id":856823473,
+    "wof:lastmodified":1464104242,
+    "wof:name":"Citaly Auto Repairs",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.412533,
+    42.501562,
+    -96.412533,
+    42.501562
+],
+  "geometry": {"coordinates":[-96.412533,42.501562],"type":"Point"}
+}

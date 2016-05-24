@@ -1,0 +1,68 @@
+{
+  "id": 856990327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.7392,41.600491,-93.7392,41.600491",
+    "geom:latitude":41.600491,
+    "geom:longitude":-93.7392,
+    "iso:country":"US",
+    "sg:address":"8801 University Ave",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 0888",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BjMgWxVxur0N4i9KTlXgT_41.600491_-93.739200@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111992,
+    "wof:geomhash":"09f86a3039f8e623cfae940782dd977d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856990327
+        }
+    ],
+    "wof:id":856990327,
+    "wof:lastmodified":1464111992,
+    "wof:name":"Buffet City",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.7392,
+    41.600491,
+    -93.7392,
+    41.600491
+],
+  "geometry": {"coordinates":[-93.7392,41.600491],"type":"Point"}
+}

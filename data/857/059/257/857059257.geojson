@@ -1,0 +1,88 @@
+{
+  "id": 857059257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.540352,41.648627,-91.540352,41.648627",
+    "geom:latitude":41.648627,
+    "geom:longitude":-91.540352,
+    "iso:country":"US",
+    "sg:address":"953 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/273014-zio-johnos-spaghetti-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 0011",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "salad",
+        "soup",
+        "gyro",
+        "calzones",
+        "american",
+        "pasta",
+        "pita",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NVGmkmdtkCYpyWn6g5qSv_41.648627_-91.540352@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114871,
+    "wof:geomhash":"416430c8b2a8e569c453f0fbb5eb557c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857059257
+        }
+    ],
+    "wof:id":857059257,
+    "wof:lastmodified":1464114871,
+    "wof:name":"Zio Johno's Spaghetti House",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "soup",
+        "gyro",
+        "calzones",
+        "american",
+        "pasta",
+        "pita",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.540352,
+    41.648627,
+    -91.540352,
+    41.648627
+],
+  "geometry": {"coordinates":[-91.540352,41.648627],"type":"Point"}
+}

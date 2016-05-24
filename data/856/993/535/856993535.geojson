@@ -1,0 +1,75 @@
+{
+  "id": 856993535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.611538,41.627633,-93.611538,41.627633",
+    "geom:latitude":41.627633,
+    "geom:longitude":-93.611538,
+    "iso:country":"US",
+    "sg:address":"3408 Amherst St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 6410",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rvdD6x3OeoH9cMlilguZy_41.627633_-93.611538@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112126,
+    "wof:geomhash":"1788c5e5aac4ec36b9046ec2c262f65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856993535
+        }
+    ],
+    "wof:id":856993535,
+    "wof:lastmodified":1464112126,
+    "wof:name":"Pedersen Automotive",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.611538,
+    41.627633,
+    -93.611538,
+    41.627633
+],
+  "geometry": {"coordinates":[-93.611538,41.627633],"type":"Point"}
+}

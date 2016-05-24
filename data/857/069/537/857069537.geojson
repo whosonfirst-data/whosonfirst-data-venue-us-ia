@@ -1,0 +1,71 @@
+{
+  "id": 857069537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.609596,41.976799,-91.609596,41.976799",
+    "geom:latitude":41.976799,
+    "geom:longitude":-91.609596,
+    "iso:country":"US",
+    "sg:address":"3500 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0474",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kiDoPMLxmetSs84Udiczw_41.976799_-91.609596@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115307,
+    "wof:geomhash":"fcc29134c824a6764ee8d9ff05e9f44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069537
+        }
+    ],
+    "wof:id":857069537,
+    "wof:lastmodified":1464115307,
+    "wof:name":"Johnson Donald B MD PC",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -91.609596,
+    41.976799,
+    -91.609596,
+    41.976799
+],
+  "geometry": {"coordinates":[-91.609596,41.976799],"type":"Point"}
+}

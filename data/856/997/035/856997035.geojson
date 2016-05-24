@@ -1,0 +1,71 @@
+{
+  "id": 856997035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890398,41.268189,-95.890398,41.268189",
+    "geom:latitude":41.268189,
+    "geom:longitude":-95.890398,
+    "iso:country":"US",
+    "sg:address":"2828 Ave G",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0432",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NVhVe8sAoqtV5MFlqat6A_41.268189_-95.890398@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112258,
+    "wof:geomhash":"64c3d8767f96e6eab7c7a7fa2bd878ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856997035
+        }
+    ],
+    "wof:id":856997035,
+    "wof:lastmodified":1464112258,
+    "wof:name":"Riverside Congeregation Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.890398,
+    41.268189,
+    -95.890398,
+    41.268189
+],
+  "geometry": {"coordinates":[-95.890398,41.268189],"type":"Point"}
+}

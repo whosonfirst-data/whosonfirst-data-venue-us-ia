@@ -1,0 +1,73 @@
+{
+  "id": 856931851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.573141,42.026431,-91.573141,42.026431",
+    "geom:latitude":42.026431,
+    "geom:longitude":-91.573141,
+    "iso:country":"US",
+    "sg:address":"3660 Industrial Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 1368",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZIBjs1LQkdzX4pWNGu3qZ_42.026431_-91.573141@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109312,
+    "wof:geomhash":"e3522576bd1096ed74a20463711b4c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856931851
+        }
+    ],
+    "wof:id":856931851,
+    "wof:lastmodified":1464109312,
+    "wof:name":"H & H Drywall",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.573141,
+    42.026431,
+    -91.573141,
+    42.026431
+],
+  "geometry": {"coordinates":[-91.57314100000001,42.026431],"type":"Point"}
+}

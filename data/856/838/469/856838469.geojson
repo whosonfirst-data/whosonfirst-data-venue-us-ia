@@ -1,0 +1,74 @@
+{
+  "id": 856838469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.610941,41.610873,-93.610941,41.610873",
+    "geom:latitude":41.610873,
+    "geom:longitude":-93.610941,
+    "iso:country":"US",
+    "sg:address":"1900 Saylor Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 261 7327",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "sg:website":"www.desmoinesrowing.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZkkbHJ4V2CI4qD3NbFTo2_41.610873_-93.610941@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104933,
+    "wof:geomhash":"ba817b7be47c9c10173da3d1056bdcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896407,
+            "region_id":85688713,
+            "venue_id":856838469
+        }
+    ],
+    "wof:id":856838469,
+    "wof:lastmodified":1464104933,
+    "wof:name":"Des Moines Rowing Club",
+    "wof:parent_id":85896407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -93.610941,
+    41.610873,
+    -93.610941,
+    41.610873
+],
+  "geometry": {"coordinates":[-93.610941,41.610873],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856944669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.502123,41.632095,-91.502123,41.632095",
+    "geom:latitude":41.632095,
+    "geom:longitude":-91.502123,
+    "iso:country":"US",
+    "sg:address":"2514 Nevada Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 4749",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pufeefT6GQQwq68jollSH_41.632095_-91.502123@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109875,
+    "wof:geomhash":"02084cc1a0e57f2ed90b44af2e3c8130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856944669
+        }
+    ],
+    "wof:id":856944669,
+    "wof:lastmodified":1464109875,
+    "wof:name":"Victory Temple Church Of The",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.502123,
+    41.632095,
+    -91.502123,
+    41.632095
+],
+  "geometry": {"coordinates":[-91.502123,41.632095],"type":"Point"}
+}

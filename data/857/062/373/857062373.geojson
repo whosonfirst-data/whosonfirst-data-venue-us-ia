@@ -1,0 +1,71 @@
+{
+  "id": 857062373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892583,41.261812,-95.892583,41.261812",
+    "geom:latitude":41.261812,
+    "geom:longitude":-95.892583,
+    "iso:country":"US",
+    "sg:address":"3011 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pawn Shop",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 5750",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hRr6LyFPwSV4PrZ2QMglC_41.261812_-95.892583@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115001,
+    "wof:geomhash":"9088b3da5e064804fcf4fcba62b2f735",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062373
+        }
+    ],
+    "wof:id":857062373,
+    "wof:lastmodified":1464115001,
+    "wof:name":"Metro Pawn and Loan",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.892583,
+    41.261812,
+    -95.892583,
+    41.261812
+],
+  "geometry": {"coordinates":[-95.892583,41.261812],"type":"Point"}
+}

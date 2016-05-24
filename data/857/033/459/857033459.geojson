@@ -1,0 +1,75 @@
+{
+  "id": 857033459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.606443,41.621339,-93.606443,41.621339",
+    "geom:latitude":41.621339,
+    "geom:longitude":-93.606443,
+    "iso:country":"US",
+    "sg:address":"2803 E 9th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 263 2881",
+    "sg:postcode":"50316",
+    "sg:province":"IA",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f9DB0h0ftdejWafd6kB4H_41.621339_-93.606443@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113800,
+    "wof:geomhash":"cbde56a75a1fdc9d38866c56234b4ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":857033459
+        }
+    ],
+    "wof:id":857033459,
+    "wof:lastmodified":1464113800,
+    "wof:name":"Grand View College Student Lng",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -93.606443,
+    41.621339,
+    -93.606443,
+    41.621339
+],
+  "geometry": {"coordinates":[-93.606443,41.621339],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857011093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.385532,41.189478,-93.385532,41.189478",
+    "geom:latitude":41.189478,
+    "geom:longitude":-93.385532,
+    "iso:country":"US",
+    "sg:address":"116 W Main St",
+    "sg:city":"Lacona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 534 3702",
+    "sg:postcode":"50139",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SHXXs1jRHiw8aLvMfurfz_41.189478_-93.385532@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112821,
+    "wof:geomhash":"e997da404443afa20a9761fc0c4cc27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857011093
+        }
+    ],
+    "wof:id":857011093,
+    "wof:lastmodified":1464112821,
+    "wof:name":"Seuferers Body Shop",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.385532,
+    41.189478,
+    -93.385532,
+    41.189478
+],
+  "geometry": {"coordinates":[-93.385532,41.189478],"type":"Point"}
+}

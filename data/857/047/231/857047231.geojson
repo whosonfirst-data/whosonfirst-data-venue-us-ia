@@ -1,0 +1,74 @@
+{
+  "id": 857047231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.842903,41.265099,-95.842903,41.265099",
+    "geom:latitude":41.265099,
+    "geom:longitude":-95.842903,
+    "iso:country":"US",
+    "sg:address":"38 Benton St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 1010",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "house"
+    ],
+    "sg:website":"www.merrymaids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B0E6WAfRFcsUVCmzg5mUt_41.265344_-95.843206@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114372,
+    "wof:geomhash":"0c818b502c121718283795aa50dbd0a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857047231
+        }
+    ],
+    "wof:id":857047231,
+    "wof:lastmodified":1464114372,
+    "wof:name":"Merry Maids",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "house"
+    ]
+},
+  "bbox": [
+    -95.842903,
+    41.265099,
+    -95.842903,
+    41.265099
+],
+  "geometry": {"coordinates":[-95.84290300000001,41.265099],"type":"Point"}
+}

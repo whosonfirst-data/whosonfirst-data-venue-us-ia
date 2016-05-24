@@ -1,0 +1,73 @@
+{
+  "id": 857063389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.827002,41.243793,-95.827002,41.243793",
+    "geom:latitude":41.243793,
+    "geom:longitude":-95.827002,
+    "iso:country":"US",
+    "sg:address":"1840 Madison Ave Ste 2",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1100",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aZI9zdqAhJZ6DIVs31WK8_41.243793_-95.827002@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115035,
+    "wof:geomhash":"231ee71c354bb5d1785abfc1a70d9746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063389
+        }
+    ],
+    "wof:id":857063389,
+    "wof:lastmodified":1464115035,
+    "wof:name":"Warner Richard Dr DDS",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -95.827002,
+    41.243793,
+    -95.827002,
+    41.243793
+],
+  "geometry": {"coordinates":[-95.82700199999999,41.243793],"type":"Point"}
+}

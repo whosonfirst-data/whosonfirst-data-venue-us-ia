@@ -1,0 +1,74 @@
+{
+  "id": 857025327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.429084,41.916286,-91.429084,41.916286",
+    "geom:latitude":41.916286,
+    "geom:longitude":-91.429084,
+    "iso:country":"US",
+    "sg:address":"410 US Hwy 30 W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8500",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.lynchfordonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y0f1hQbweHh2gwLvmOrzx_41.916286_-91.429084@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113431,
+    "wof:geomhash":"8e8266f72678113719b2ca04206336e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857025327
+        }
+    ],
+    "wof:id":857025327,
+    "wof:lastmodified":1464113431,
+    "wof:name":"Lynch Ford",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.429084,
+    41.916286,
+    -91.429084,
+    41.916286
+],
+  "geometry": {"coordinates":[-91.429084,41.916286],"type":"Point"}
+}

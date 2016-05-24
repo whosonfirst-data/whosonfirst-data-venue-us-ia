@@ -1,0 +1,78 @@
+{
+  "id": 856852243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679636,41.972042,-91.679636,41.972042",
+    "geom:latitude":41.972042,
+    "geom:longitude":-91.679636,
+    "iso:country":"US",
+    "sg:address":"214 7th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 4294",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rLa72HDDENkIDR4ClNHkU_41.972042_-91.679636@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105638,
+    "wof:geomhash":"aa0279e5855cca098912f893265dbd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856852243
+        }
+    ],
+    "wof:id":856852243,
+    "wof:lastmodified":1464105638,
+    "wof:name":"J C's Cycle Shop",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -91.679636,
+    41.972042,
+    -91.679636,
+    41.972042
+],
+  "geometry": {"coordinates":[-91.679636,41.972042],"type":"Point"}
+}

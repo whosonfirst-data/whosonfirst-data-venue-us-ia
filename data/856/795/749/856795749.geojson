@@ -1,0 +1,73 @@
+{
+  "id": 856795749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.788484,42.194084,-91.788484,42.194084",
+    "geom:latitude":42.194084,
+    "geom:longitude":-91.788484,
+    "iso:country":"US",
+    "sg:address":"1335 Main St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 1108",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plastering",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WLqtnOb8ZOujqN72dEJ2n_42.194084_-91.788484@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103003,
+    "wof:geomhash":"66e2c0105f08c954ae1c9895968956a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856795749
+        }
+    ],
+    "wof:id":856795749,
+    "wof:lastmodified":1464103003,
+    "wof:name":"Wall Brothers",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastering",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.788484,
+    42.194084,
+    -91.788484,
+    42.194084
+],
+  "geometry": {"coordinates":[-91.788484,42.194084],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856984323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.660533,41.203651,-95.660533,41.203651",
+    "geom:latitude":41.203651,
+    "geom:longitude":-95.660533,
+    "iso:country":"US",
+    "sg:address":"28498 Beechnut Rd",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3403",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DFBQq98jTJwy7515cOuUv_41.203651_-95.660533@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111707,
+    "wof:geomhash":"9ee05af71652422cb47ca199087e3cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856984323
+        }
+    ],
+    "wof:id":856984323,
+    "wof:lastmodified":1464111707,
+    "wof:name":"US Agricultural Research Svc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -95.660533,
+    41.203651,
+    -95.660533,
+    41.203651
+],
+  "geometry": {"coordinates":[-95.660533,41.203651],"type":"Point"}
+}

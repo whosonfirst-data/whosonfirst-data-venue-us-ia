@@ -1,0 +1,71 @@
+{
+  "id": 856897741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.90144,41.259736,-95.90144,41.259736",
+    "geom:latitude":41.259736,
+    "geom:longitude":-95.90144,
+    "iso:country":"US",
+    "sg:address":"3431 2nd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0013",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r9fosBaw8UV6SO31X7nLQ_41.259736_-95.901440@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107972,
+    "wof:geomhash":"3578f6483a2c0a5e668b1f56572894bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856897741
+        }
+    ],
+    "wof:id":856897741,
+    "wof:lastmodified":1464107972,
+    "wof:name":"Tanner's Choice",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -95.90144,
+    41.259736,
+    -95.90144,
+    41.259736
+],
+  "geometry": {"coordinates":[-95.90143999999999,41.259736],"type":"Point"}
+}

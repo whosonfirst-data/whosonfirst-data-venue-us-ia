@@ -1,0 +1,68 @@
+{
+  "id": 856927297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.406999,42.454123,-92.406999,42.454123",
+    "geom:latitude":42.454123,
+    "geom:longitude":-92.406999,
+    "iso:country":"US",
+    "sg:address":"2424 Ranchero Rd",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 234 2424",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vKrMGBLxjGvJAHwf7VVju_42.454123_-92.406999@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109137,
+    "wof:geomhash":"f343229d11429bd93dc73fd2119376d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856927297
+        }
+    ],
+    "wof:id":856927297,
+    "wof:lastmodified":1464109137,
+    "wof:name":"All Stop Convenience Stores",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.406999,
+    42.454123,
+    -92.406999,
+    42.454123
+],
+  "geometry": {"coordinates":[-92.406999,42.454123],"type":"Point"}
+}

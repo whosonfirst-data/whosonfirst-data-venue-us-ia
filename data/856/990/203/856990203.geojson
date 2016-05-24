@@ -1,0 +1,71 @@
+{
+  "id": 856990203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623883,41.97689,-91.623883,41.97689",
+    "geom:latitude":41.97689,
+    "geom:longitude":-91.623883,
+    "iso:country":"US",
+    "sg:address":"700 30th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5905",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56yDIDoA9zqOtXJxKd4N6O_41.976890_-91.623883@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111982,
+    "wof:geomhash":"64afe0be3cca67d1fb5714e57360fa09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856990203
+        }
+    ],
+    "wof:id":856990203,
+    "wof:lastmodified":1464111982,
+    "wof:name":"Choice Builders",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.623883,
+    41.97689,
+    -91.623883,
+    41.97689
+],
+  "geometry": {"coordinates":[-91.62388300000001,41.97689],"type":"Point"}
+}

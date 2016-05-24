@@ -1,0 +1,73 @@
+{
+  "id": 856905673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.178559,43.021952,-91.178559,43.021952",
+    "geom:latitude":43.021952,
+    "geom:longitude":-91.178559,
+    "iso:country":"US",
+    "sg:address":"406 US Hwy 18 Bus",
+    "sg:city":"Luana",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 539 8030",
+    "sg:postcode":"52141",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hk9ERvgqGXv8yTFAdIte6_43.021952_-91.178559@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108255,
+    "wof:geomhash":"539bb63d07efcafc3b113852fd9f985a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":856905673
+        }
+    ],
+    "wof:id":856905673,
+    "wof:lastmodified":1464108255,
+    "wof:name":"Buerger Repair",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.178559,
+    43.021952,
+    -91.178559,
+    43.021952
+],
+  "geometry": {"coordinates":[-91.17855900000001,43.021952],"type":"Point"}
+}

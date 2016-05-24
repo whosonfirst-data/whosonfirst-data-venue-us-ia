@@ -1,0 +1,73 @@
+{
+  "id": 856933177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.582604,42.009345,-91.582604,42.009345",
+    "geom:latitude":42.009345,
+    "geom:longitude":-91.582604,
+    "iso:country":"US",
+    "sg:address":"2331 S 22nd St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0564",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "industry",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G1ncgYJpJ6AGmJmo77Sw2_42.009345_-91.582604@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109364,
+    "wof:geomhash":"ba8baea14cba37404dc866168ffd91cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856933177
+        }
+    ],
+    "wof:id":856933177,
+    "wof:lastmodified":1464109364,
+    "wof:name":"Douglas Systems Inc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "special"
+    ]
+},
+  "bbox": [
+    -91.582604,
+    42.009345,
+    -91.582604,
+    42.009345
+],
+  "geometry": {"coordinates":[-91.582604,42.009345],"type":"Point"}
+}

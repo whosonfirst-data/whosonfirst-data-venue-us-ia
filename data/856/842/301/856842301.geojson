@@ -1,0 +1,66 @@
+{
+  "id": 856842301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.495308,41.634066,-91.495308,41.634066",
+    "geom:latitude":41.634066,
+    "geom:longitude":-91.495308,
+    "iso:country":"US",
+    "sg:address":"2601 US Hwy 6",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 7755",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J5b1D7zTKT3tVj8VZkoVp_41.634066_-91.495308@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105103,
+    "wof:geomhash":"6757525f6beb710f120968554aff0531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856842301
+        }
+    ],
+    "wof:id":856842301,
+    "wof:lastmodified":1464105103,
+    "wof:name":"T & M Mini Mart LTD",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.495308,
+    41.634066,
+    -91.495308,
+    41.634066
+],
+  "geometry": {"coordinates":[-91.49530799999999,41.634066],"type":"Point"}
+}

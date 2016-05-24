@@ -1,0 +1,73 @@
+{
+  "id": 856951635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.445781,42.062627,-91.445781,42.062627",
+    "geom:latitude":42.062627,
+    "geom:longitude":-91.445781,
+    "iso:country":"US",
+    "sg:address":"606 5th St N",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 6370",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_299sU07ETXpoVkQsDuRdat_42.062627_-91.445781@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110150,
+    "wof:geomhash":"71685b84f7b55f8cbfde88001374d90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856951635
+        }
+    ],
+    "wof:id":856951635,
+    "wof:lastmodified":1464110150,
+    "wof:name":"John's Electrical Svc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.445781,
+    42.062627,
+    -91.445781,
+    42.062627
+],
+  "geometry": {"coordinates":[-91.445781,42.062627],"type":"Point"}
+}

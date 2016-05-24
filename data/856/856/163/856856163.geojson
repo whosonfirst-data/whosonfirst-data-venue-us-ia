@@ -1,0 +1,73 @@
+{
+  "id": 856856163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.490702,41.63234,-91.490702,41.63234",
+    "geom:latitude":41.63234,
+    "geom:longitude":-91.490702,
+    "iso:country":"US",
+    "sg:address":"2222 Heinz Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 3666",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b1vytOvM0SskKGkxiB3HS_41.632340_-91.490702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105804,
+    "wof:geomhash":"0fe59decedee74269287203a8e7a104a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856856163
+        }
+    ],
+    "wof:id":856856163,
+    "wof:lastmodified":1464105804,
+    "wof:name":"Selzer Werderitsch Assoc",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.490702,
+    41.63234,
+    -91.490702,
+    41.63234
+],
+  "geometry": {"coordinates":[-91.490702,41.63234],"type":"Point"}
+}

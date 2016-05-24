@@ -1,0 +1,77 @@
+{
+  "id": 856844753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.598053,41.633087,-93.598053,41.633087",
+    "geom:latitude":41.633087,
+    "geom:longitude":-93.598053,
+    "iso:country":"US",
+    "sg:address":"1529 E Madison Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 0323",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xq3vM46ICU2YHV4pmZVom_41.633087_-93.598053@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105219,
+    "wof:geomhash":"c2d291ca9a562f4b7da31df718345e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856844753
+        }
+    ],
+    "wof:id":856844753,
+    "wof:lastmodified":1464105219,
+    "wof:name":"Snyder Custom Auto Body Shop",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.598053,
+    41.633087,
+    -93.598053,
+    41.633087
+],
+  "geometry": {"coordinates":[-93.59805299999999,41.633087],"type":"Point"}
+}

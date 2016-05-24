@@ -1,0 +1,71 @@
+{
+  "id": 856801157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.745732,41.96774,-91.745732,41.96774",
+    "geom:latitude":41.96774,
+    "geom:longitude":-91.745732,
+    "iso:country":"US",
+    "sg:address":"243 Drexel Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 4672",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hbEa51tpS12eQDGGr8cXj_41.967740_-91.745732@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103241,
+    "wof:geomhash":"b5186b4c85d54772f376a2ceb10b8f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856801157
+        }
+    ],
+    "wof:id":856801157,
+    "wof:lastmodified":1464103241,
+    "wof:name":"Encounter Christian Church",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.745732,
+    41.96774,
+    -91.745732,
+    41.96774
+],
+  "geometry": {"coordinates":[-91.745732,41.96774],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856978763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.614874,41.606721,-93.614874,41.606721",
+    "geom:latitude":41.606721,
+    "geom:longitude":-93.614874,
+    "iso:country":"US",
+    "sg:address":"1545 Vermont St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 1565",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "filter",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oda5pwMpAEBB97C73E1Rn_41.606721_-93.614874@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111405,
+    "wof:geomhash":"0e37ed64b585723862428369a70ea915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":856978763
+        }
+    ],
+    "wof:id":856978763,
+    "wof:lastmodified":1464111405,
+    "wof:name":"Daniels Filter Svc",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "gas"
+    ]
+},
+  "bbox": [
+    -93.614874,
+    41.606721,
+    -93.614874,
+    41.606721
+],
+  "geometry": {"coordinates":[-93.614874,41.606721],"type":"Point"}
+}

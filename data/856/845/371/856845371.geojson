@@ -1,0 +1,77 @@
+{
+  "id": 856845371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.560061,41.684031,-91.560061,41.684031",
+    "geom:latitude":41.684031,
+    "geom:longitude":-91.560061,
+    "iso:country":"US",
+    "sg:address":"216 E 10th St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 0991",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_109vO18GhQVm0olkRc4rMb_41.684031_-91.560061@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105249,
+    "wof:geomhash":"c2b4998f90fdcb41817f6442501906c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896363,
+            "region_id":85688713,
+            "venue_id":856845371
+        }
+    ],
+    "wof:id":856845371,
+    "wof:lastmodified":1464105249,
+    "wof:name":"Midwest Frame & Axle",
+    "wof:parent_id":85896363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -91.560061,
+    41.684031,
+    -91.560061,
+    41.684031
+],
+  "geometry": {"coordinates":[-91.560061,41.684031],"type":"Point"}
+}

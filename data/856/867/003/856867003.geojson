@@ -1,0 +1,73 @@
+{
+  "id": 856867003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.82039,41.760809,-93.82039,41.760809",
+    "geom:latitude":41.760809,
+    "geom:longitude":-93.82039,
+    "iso:country":"US",
+    "sg:address":"1903 Main St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2500",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "top",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Idv52MIDIoWI93ROYR4vP_41.760809_-93.820390@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106314,
+    "wof:geomhash":"b4bd0f5dd4df2a0ec7b080964e6c0b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856867003
+        }
+    ],
+    "wof:id":856867003,
+    "wof:lastmodified":1464106314,
+    "wof:name":"Iowa Countertops",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "top",
+        "counter"
+    ]
+},
+  "bbox": [
+    -93.82039,
+    41.760809,
+    -93.82039,
+    41.760809
+],
+  "geometry": {"coordinates":[-93.82039,41.760809],"type":"Point"}
+}

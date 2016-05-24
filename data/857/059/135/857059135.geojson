@@ -1,0 +1,74 @@
+{
+  "id": 857059135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534386,41.66008,-91.534386,41.66008",
+    "geom:latitude":41.66008,
+    "geom:longitude":-91.534386,
+    "iso:country":"US",
+    "sg:address":"115 E Washington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/iowa-city/246123-the-brown-bottle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 6704",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DFJWGJMKqGV7Fho0MYx75_41.660080_-91.534386@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114867,
+    "wof:geomhash":"fbec4c8451918b56f088234259b3a278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857059135
+        }
+    ],
+    "wof:id":857059135,
+    "wof:lastmodified":1464114867,
+    "wof:name":"The Brown Bottle",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -91.534386,
+    41.66008,
+    -91.534386,
+    41.66008
+],
+  "geometry": {"coordinates":[-91.534386,41.66008],"type":"Point"}
+}

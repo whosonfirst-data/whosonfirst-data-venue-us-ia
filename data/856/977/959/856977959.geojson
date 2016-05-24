@@ -1,0 +1,75 @@
+{
+  "id": 856977959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.542085,41.666945,-91.542085,41.666945",
+    "geom:latitude":41.666945,
+    "geom:longitude":-91.542085,
+    "iso:country":"US",
+    "sg:address":"303 Ellis Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 3946",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05d4FxW76yaiKJMnsv66Qv_41.666945_-91.542085@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111354,
+    "wof:geomhash":"6237e144a0f6c7860f0bbc15159e65ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856977959
+        }
+    ],
+    "wof:id":856977959,
+    "wof:lastmodified":1464111354,
+    "wof:name":"Phi Gamma Delta Fraternity",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -91.542085,
+    41.666945,
+    -91.542085,
+    41.666945
+],
+  "geometry": {"coordinates":[-91.542085,41.666945],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857004115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.420062,41.923964,-91.420062,41.923964",
+    "geom:latitude":41.923964,
+    "geom:longitude":-91.420062,
+    "iso:country":"US",
+    "sg:address":"301 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6060",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uGJgcqt2xe8A5cs36AbdW_41.923964_-91.420062@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112526,
+    "wof:geomhash":"9ae78028cf3bfe79bab0bc00b0c18eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857004115
+        }
+    ],
+    "wof:id":857004115,
+    "wof:lastmodified":1464112526,
+    "wof:name":"First Presbyterian Church",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.420062,
+    41.923964,
+    -91.420062,
+    41.923964
+],
+  "geometry": {"coordinates":[-91.420062,41.923964],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856933293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.417625,42.238396,-91.417625,42.238396",
+    "geom:latitude":42.238396,
+    "geom:longitude":-91.417625,
+    "iso:country":"US",
+    "sg:address":"117 Main St",
+    "sg:city":"Prairieburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 437 4591",
+    "sg:postcode":"52205",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oFQ2AFK3fOEXvcTcmquRi_42.238396_-91.417625@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109369,
+    "wof:geomhash":"880a6493155d56db9f02d42259707054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856933293
+        }
+    ],
+    "wof:id":856933293,
+    "wof:lastmodified":1464109369,
+    "wof:name":"Denco Bird Dog Breeding",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -91.417625,
+    42.238396,
+    -91.417625,
+    42.238396
+],
+  "geometry": {"coordinates":[-91.417625,42.238396],"type":"Point"}
+}

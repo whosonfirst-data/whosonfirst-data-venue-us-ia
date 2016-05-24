@@ -1,0 +1,66 @@
+{
+  "id": 857062349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854638,41.246619,-95.854638,41.246619",
+    "geom:latitude":41.246619,
+    "geom:longitude":-95.854638,
+    "iso:country":"US",
+    "sg:address":"1601 S 7th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 355 1335",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bKG9E4HdWrtbCH8B5op9N_41.246619_-95.854638@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115000,
+    "wof:geomhash":"a691282076abe3469f61227dc5b4e5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062349
+        }
+    ],
+    "wof:id":857062349,
+    "wof:lastmodified":1464115000,
+    "wof:name":"Performance Auto Repair & Racing",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.854638,
+    41.246619,
+    -95.854638,
+    41.246619
+],
+  "geometry": {"coordinates":[-95.85463799999999,41.246619],"type":"Point"}
+}

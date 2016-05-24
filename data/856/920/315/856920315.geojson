@@ -1,0 +1,73 @@
+{
+  "id": 856920315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535458,41.634162,-91.535458,41.634162",
+    "geom:latitude":41.634162,
+    "geom:longitude":-91.535458,
+    "iso:country":"US",
+    "sg:address":"67 Commercial Ct",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 2372",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mfg",
+        "wood",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wyyhGLjY0TCYvoBSnmpJz_41.634162_-91.535458@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108824,
+    "wof:geomhash":"99ebf045af16e297c96f267615367e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856920315
+        }
+    ],
+    "wof:id":856920315,
+    "wof:lastmodified":1464108824,
+    "wof:name":"Iowa City Cabinet Shop",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wood",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -91.535458,
+    41.634162,
+    -91.535458,
+    41.634162
+],
+  "geometry": {"coordinates":[-91.53545800000001,41.634162],"type":"Point"}
+}

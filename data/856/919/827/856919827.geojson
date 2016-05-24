@@ -1,0 +1,75 @@
+{
+  "id": 856919827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.60806,41.591347,-93.60806,41.591347",
+    "geom:latitude":41.591347,
+    "geom:longitude":-93.60806,
+    "iso:country":"US",
+    "sg:address":"600 E Grand Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 9775",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kdvc3GxogNVdmFvagXUvY_41.591347_-93.608060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108803,
+    "wof:geomhash":"0b10cf7bc8a1ffdf911deb674f8ba661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896391,
+            "region_id":85688713,
+            "venue_id":856919827
+        }
+    ],
+    "wof:id":856919827,
+    "wof:lastmodified":1464108803,
+    "wof:name":"Hammer Medical Supply",
+    "wof:parent_id":85896391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.60806,
+    41.591347,
+    -93.60806,
+    41.591347
+],
+  "geometry": {"coordinates":[-93.60805999999999,41.591347],"type":"Point"}
+}

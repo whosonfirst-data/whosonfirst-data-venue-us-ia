@@ -1,0 +1,78 @@
+{
+  "id": 857071403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660078,41.975596,-91.660078,41.975596",
+    "geom:latitude":41.975596,
+    "geom:longitude":-91.660078,
+    "iso:country":"US",
+    "sg:address":"501 7th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2556",
+    "sg:postcode":"52410",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.benzbeveragedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eDnvjSA3vQVy7mK9ozpuQ_41.975596_-91.660078@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115393,
+    "wof:geomhash":"db193f4fb7f6f22034d7a26df48ec479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857071403
+        }
+    ],
+    "wof:id":857071403,
+    "wof:lastmodified":1464115393,
+    "wof:name":"Benz Beverage Depot",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -91.660078,
+    41.975596,
+    -91.660078,
+    41.975596
+],
+  "geometry": {"coordinates":[-91.660078,41.975596],"type":"Point"}
+}

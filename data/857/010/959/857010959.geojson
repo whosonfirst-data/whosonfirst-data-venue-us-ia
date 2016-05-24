@@ -1,0 +1,73 @@
+{
+  "id": 857010959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608406,41.984619,-91.608406,41.984619",
+    "geom:latitude":41.984619,
+    "geom:longitude":-91.608406,
+    "iso:country":"US",
+    "sg:address":"451 Parkland Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0403",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "information",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_790Fnk7pZsNFImz0APxAvA_41.984619_-91.608406@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112816,
+    "wof:geomhash":"3ce56d982a919904b8e73ec9a6eb8e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857010959
+        }
+    ],
+    "wof:id":857010959,
+    "wof:lastmodified":1464112816,
+    "wof:name":"Snowbird Inc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "referral"
+    ]
+},
+  "bbox": [
+    -91.608406,
+    41.984619,
+    -91.608406,
+    41.984619
+],
+  "geometry": {"coordinates":[-91.608406,41.984619],"type":"Point"}
+}

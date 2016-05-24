@@ -1,0 +1,68 @@
+{
+  "id": 857070623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672501,41.945,-91.672501,41.945",
+    "geom:latitude":41.945,
+    "geom:longitude":-91.672501,
+    "iso:country":"US",
+    "sg:address":"448 33rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5550",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n2cAhdvL67bNDm50OMbqN_41.945000_-91.672501@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115363,
+    "wof:geomhash":"09a09b264d016a095be5b55094ce6f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070623
+        }
+    ],
+    "wof:id":857070623,
+    "wof:lastmodified":1464115363,
+    "wof:name":"Metro Buffet Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.672501,
+    41.945,
+    -91.672501,
+    41.945
+],
+  "geometry": {"coordinates":[-91.672501,41.945],"type":"Point"}
+}

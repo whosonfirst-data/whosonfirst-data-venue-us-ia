@@ -1,0 +1,73 @@
+{
+  "id": 856889479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.862468,42.388605,-95.862468,42.388605",
+    "geom:latitude":42.388605,
+    "geom:longitude":-95.862468,
+    "iso:country":"US",
+    "sg:address":"110 N 5th Ave",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 5344",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q4fu4N9f1KJBT3wvEdGbR_42.388605_-95.862468@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107665,
+    "wof:geomhash":"c94ad2ed7e16db9b268613dd2405d66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856889479
+        }
+    ],
+    "wof:id":856889479,
+    "wof:lastmodified":1464107665,
+    "wof:name":"Anthon Community Ctr",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -95.862468,
+    42.388605,
+    -95.862468,
+    42.388605
+],
+  "geometry": {"coordinates":[-95.86246800000001,42.388605],"type":"Point"}
+}

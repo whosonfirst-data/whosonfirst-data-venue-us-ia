@@ -1,0 +1,78 @@
+{
+  "id": 857062751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891423,41.236556,-95.891423,41.236556",
+    "geom:latitude":41.236556,
+    "geom:longitude":-95.891423,
+    "iso:country":"US",
+    "sg:address":"40 Arena Way Ste 1",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 1863",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medicine",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69HM9r0WgKnpPsifhjOnT0_41.236556_-95.891423@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115013,
+    "wof:geomhash":"069408d261c8817e003bc7ee3708529b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857062751
+        }
+    ],
+    "wof:id":857062751,
+    "wof:lastmodified":1464115013,
+    "wof:name":"Total Care Chiropractic",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport"
+    ]
+},
+  "bbox": [
+    -95.891423,
+    41.236556,
+    -95.891423,
+    41.236556
+],
+  "geometry": {"coordinates":[-95.891423,41.236556],"type":"Point"}
+}

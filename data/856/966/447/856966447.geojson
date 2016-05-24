@@ -1,0 +1,71 @@
+{
+  "id": 856966447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.941098,41.688161,-93.941098,41.688161",
+    "geom:latitude":41.688161,
+    "geom:longitude":-93.941098,
+    "iso:country":"US",
+    "sg:address":"2746 240th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 4973",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EWGsd7FjZc8J3lyaDjDFK_41.688161_-93.941098@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110807,
+    "wof:geomhash":"1b9bf7d36e3e9621d4e1ce9cf10e9748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856966447
+        }
+    ],
+    "wof:id":856966447,
+    "wof:lastmodified":1464110807,
+    "wof:name":"Rod Henricksen Trucking Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.941098,
+    41.688161,
+    -93.941098,
+    41.688161
+],
+  "geometry": {"coordinates":[-93.941098,41.688161],"type":"Point"}
+}

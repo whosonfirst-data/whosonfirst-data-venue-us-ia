@@ -1,0 +1,68 @@
+{
+  "id": 857035045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533236,41.658744,-91.533236,41.658744",
+    "geom:latitude":41.658744,
+    "geom:longitude":-91.533236,
+    "iso:country":"US",
+    "sg:address":"115 E College St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 688 0002",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LE8SiNOq1QcwtFx4bKFSw_41.658744_-91.533236@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113885,
+    "wof:geomhash":"21897041da298e887f8b384ba068663d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857035045
+        }
+    ],
+    "wof:id":857035045,
+    "wof:lastmodified":1464113885,
+    "wof:name":"Venuto's World Bistro",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.533236,
+    41.658744,
+    -91.533236,
+    41.658744
+],
+  "geometry": {"coordinates":[-91.533236,41.658744],"type":"Point"}
+}

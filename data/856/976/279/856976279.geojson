@@ -1,0 +1,71 @@
+{
+  "id": 856976279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.34871,42.400616,-96.34871,42.400616",
+    "geom:latitude":42.400616,
+    "geom:longitude":-96.34871,
+    "iso:country":"US",
+    "sg:address":"1466 Vandenberg Cir W",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 5230",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GNo2dV8A5KKSayzvInt1T_42.400616_-96.348710@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111278,
+    "wof:geomhash":"cdb2cc373afc659db74ca968633f8313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856976279
+        }
+    ],
+    "wof:id":856976279,
+    "wof:lastmodified":1464111278,
+    "wof:name":"Oak Hills Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -96.34871,
+    42.400616,
+    -96.34871,
+    42.400616
+],
+  "geometry": {"coordinates":[-96.34871,42.400616],"type":"Point"}
+}

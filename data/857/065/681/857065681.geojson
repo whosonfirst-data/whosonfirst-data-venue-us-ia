@@ -1,0 +1,72 @@
+{
+  "id": 857065681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623825,42.029309,-91.623825,42.029309",
+    "geom:latitude":42.029309,
+    "geom:longitude":-91.623825,
+    "iso:country":"US",
+    "sg:address":"1400 Twixt Town Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 4982",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.halfpricebooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NDiOWZEl82xQaTDZmt4xT_42.029309_-91.623825@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115122,
+    "wof:geomhash":"b96a282fb3efd78c84a42cc48d3f5ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065681
+        }
+    ],
+    "wof:id":857065681,
+    "wof:lastmodified":1464115122,
+    "wof:name":"Half Price Books Records Magazines",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -91.623825,
+    42.029309,
+    -91.623825,
+    42.029309
+],
+  "geometry": {"coordinates":[-91.623825,42.029309],"type":"Point"}
+}

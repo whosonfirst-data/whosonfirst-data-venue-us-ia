@@ -1,0 +1,75 @@
+{
+  "id": 856829517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661829,41.978621,-91.661829,41.978621",
+    "geom:latitude":41.978621,
+    "geom:longitude":-91.661829,
+    "iso:country":"US",
+    "sg:address":"520 4th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7999",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LTtb7grgivz2QrsSyIocn_41.978621_-91.661829@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104495,
+    "wof:geomhash":"cd5eb44e8927439c11adde7801c31465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856829517
+        }
+    ],
+    "wof:id":856829517,
+    "wof:lastmodified":1464104495,
+    "wof:name":"Madge Phillips Ctr-Waypoint",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -91.661829,
+    41.978621,
+    -91.661829,
+    41.978621
+],
+  "geometry": {"coordinates":[-91.661829,41.978621],"type":"Point"}
+}

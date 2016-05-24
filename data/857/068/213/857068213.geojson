@@ -1,0 +1,66 @@
+{
+  "id": 857068213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664615,42.01861,-91.664615,42.01861",
+    "geom:latitude":42.01861,
+    "geom:longitude":-91.664615,
+    "iso:country":"US",
+    "sg:address":"3915 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 743 0081",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nFVfHPC6mqg6v5cwGjdmn_42.018610_-91.664615@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115249,
+    "wof:geomhash":"609a5c4274f3852250bef2e20bac42da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857068213
+        }
+    ],
+    "wof:id":857068213,
+    "wof:lastmodified":1464115249,
+    "wof:name":"La Guanajuato",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.664615,
+    42.01861,
+    -91.664615,
+    42.01861
+],
+  "geometry": {"coordinates":[-91.664615,42.01861],"type":"Point"}
+}

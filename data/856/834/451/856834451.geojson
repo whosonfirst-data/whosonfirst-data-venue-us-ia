@@ -1,0 +1,71 @@
+{
+  "id": 856834451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.68099,42.01594,-91.68099,42.01594",
+    "geom:latitude":42.01594,
+    "geom:longitude":-91.68099,
+    "iso:country":"US",
+    "sg:address":"2539 Amber Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 1790",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T5eiIeigGIw0vUlWj6GjR_42.015940_-91.680990@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104727,
+    "wof:geomhash":"3c435dd77b484f4c18d50550bc2d6364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856834451
+        }
+    ],
+    "wof:id":856834451,
+    "wof:lastmodified":1464104727,
+    "wof:name":"Paul Jensen Photography",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -91.68099,
+    42.01594,
+    -91.68099,
+    42.01594
+],
+  "geometry": {"coordinates":[-91.68098999999999,42.01594],"type":"Point"}
+}

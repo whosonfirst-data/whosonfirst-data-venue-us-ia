@@ -1,0 +1,73 @@
+{
+  "id": 857016229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.585834,42.033268,-91.585834,42.033268",
+    "geom:latitude":42.033268,
+    "geom:longitude":-91.585834,
+    "iso:country":"US",
+    "sg:address":"2200 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 0385",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nCVFUKsI1ikEXCuVkyPle_42.033268_-91.585834@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113046,
+    "wof:geomhash":"5492ebdcbf76158240fed80327bb5e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857016229
+        }
+    ],
+    "wof:id":857016229,
+    "wof:lastmodified":1464113046,
+    "wof:name":"Neal Motors",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.585834,
+    42.033268,
+    -91.585834,
+    42.033268
+],
+  "geometry": {"coordinates":[-91.58583400000001,42.033268],"type":"Point"}
+}

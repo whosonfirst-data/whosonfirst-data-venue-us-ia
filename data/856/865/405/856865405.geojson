@@ -1,0 +1,68 @@
+{
+  "id": 856865405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.180019,43.045055,-91.180019,43.045055",
+    "geom:latitude":43.045055,
+    "geom:longitude":-91.180019,
+    "iso:country":"US",
+    "sg:address":"112 North St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 2338",
+    "sg:postcode":"52158",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PIwdGt7EeXQL9daUKQNEo_43.045055_-91.180019@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106228,
+    "wof:geomhash":"f7f0ddf3d29c6548a64c25039da2bc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":856865405
+        }
+    ],
+    "wof:id":856865405,
+    "wof:lastmodified":1464106228,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.180019,
+    43.045055,
+    -91.180019,
+    43.045055
+],
+  "geometry": {"coordinates":[-91.180019,43.045055],"type":"Point"}
+}

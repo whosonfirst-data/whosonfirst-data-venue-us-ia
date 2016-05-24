@@ -1,0 +1,75 @@
+{
+  "id": 857023025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.685814,41.997173,-91.685814,41.997173",
+    "geom:latitude":41.997173,
+    "geom:longitude":-91.685814,
+    "iso:country":"US",
+    "sg:address":"2000 Ellis Blvd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5793",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S4h4uynD3XV06z5b4Rzhj_41.997173_-91.685814@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113316,
+    "wof:geomhash":"49967891f0c20541afbf3be319cd7d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857023025
+        }
+    ],
+    "wof:id":857023025,
+    "wof:lastmodified":1464113316,
+    "wof:name":"Ellis Pool",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -91.685814,
+    41.997173,
+    -91.685814,
+    41.997173
+],
+  "geometry": {"coordinates":[-91.68581399999999,41.997173],"type":"Point"}
+}

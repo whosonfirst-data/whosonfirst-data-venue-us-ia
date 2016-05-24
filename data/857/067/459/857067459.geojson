@@ -1,0 +1,73 @@
+{
+  "id": 857067459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.700104,42.016499,-91.700104,42.016499",
+    "geom:latitude":42.016499,
+    "geom:longitude":-91.700104,
+    "iso:country":"US",
+    "sg:address":"4141 Glass Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7931",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3owodvzVKrQVqFTsDJQ49w_42.016499_-91.700104@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115202,
+    "wof:geomhash":"b2f4d6c1433d837c326dca3586d2d527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857067459
+        }
+    ],
+    "wof:id":857067459,
+    "wof:lastmodified":1464115202,
+    "wof:name":"Michels Timothy L DDS",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.700104,
+    42.016499,
+    -91.700104,
+    42.016499
+],
+  "geometry": {"coordinates":[-91.700104,42.016499],"type":"Point"}
+}

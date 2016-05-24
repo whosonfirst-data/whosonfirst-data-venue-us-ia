@@ -1,0 +1,71 @@
+{
+  "id": 856989525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439598,41.283219,-93.439598,41.283219",
+    "geom:latitude":41.283219,
+    "geom:longitude":-93.439598,
+    "iso:country":"US",
+    "sg:address":"404 S 2nd St",
+    "sg:city":"Milo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 942 6300",
+    "sg:postcode":"50166",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OiY2roZlkX7XCuRP8y9GU_41.283219_-93.439598@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111946,
+    "wof:geomhash":"5b78a626f06dedf124c17416e46e9e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856989525
+        }
+    ],
+    "wof:id":856989525,
+    "wof:lastmodified":1464111946,
+    "wof:name":"Matthew Hansen",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.439598,
+    41.283219,
+    -93.439598,
+    41.283219
+],
+  "geometry": {"coordinates":[-93.439598,41.283219],"type":"Point"}
+}

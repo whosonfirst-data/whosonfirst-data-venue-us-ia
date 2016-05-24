@@ -1,0 +1,68 @@
+{
+  "id": 856922557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716205,41.955573,-91.716205,41.955573",
+    "geom:latitude":41.955573,
+    "geom:longitude":-91.716205,
+    "iso:country":"US",
+    "sg:address":"2342 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9513",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nmvUsKnheDRhKnwFz21fO_41.955573_-91.716205@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108934,
+    "wof:geomhash":"9a15f6ba1c112926f46269a92ce54caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856922557
+        }
+    ],
+    "wof:id":856922557,
+    "wof:lastmodified":1464108934,
+    "wof:name":"Westdale Laundromat",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.716205,
+    41.955573,
+    -91.716205,
+    41.955573
+],
+  "geometry": {"coordinates":[-91.716205,41.955573],"type":"Point"}
+}

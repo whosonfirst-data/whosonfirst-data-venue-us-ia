@@ -1,0 +1,75 @@
+{
+  "id": 857001907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.635125,42.013302,-91.635125,42.013302",
+    "geom:latitude":42.013302,
+    "geom:longitude":-91.635125,
+    "iso:country":"US",
+    "sg:address":"3412 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 7856",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xvVsvoTh9BWpbV7rqr9bS_42.013302_-91.635125@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112437,
+    "wof:geomhash":"c2da8d9e5108fcc26fd7eef771ed957b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857001907
+        }
+    ],
+    "wof:id":857001907,
+    "wof:lastmodified":1464112437,
+    "wof:name":"Ron Weber Urethane Insulation",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.635125,
+    42.013302,
+    -91.635125,
+    42.013302
+],
+  "geometry": {"coordinates":[-91.635125,42.013302],"type":"Point"}
+}

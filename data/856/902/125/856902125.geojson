@@ -1,0 +1,66 @@
+{
+  "id": 856902125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.359197,42.403778,-96.359197,42.403778",
+    "geom:latitude":42.403778,
+    "geom:longitude":-96.359197,
+    "iso:country":"US",
+    "sg:address":"410 4th St",
+    "sg:city":"Sergeant Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 943 5560",
+    "sg:postcode":"51054",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UfturYVwE9EoPVbcl23LY_42.403778_-96.359197@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108129,
+    "wof:geomhash":"79ab036faaad19d04e33eb1087f27946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856902125
+        }
+    ],
+    "wof:id":856902125,
+    "wof:lastmodified":1464108129,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.359197,
+    42.403778,
+    -96.359197,
+    42.403778
+],
+  "geometry": {"coordinates":[-96.35919699999999,42.403778],"type":"Point"}
+}

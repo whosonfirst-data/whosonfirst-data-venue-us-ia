@@ -1,0 +1,75 @@
+{
+  "id": 856872451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531588,41.656612,-91.531588,41.656612",
+    "geom:latitude":41.656612,
+    "geom:longitude":-91.531588,
+    "iso:country":"US",
+    "sg:address":"302 S Linn St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 324 1711",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lzxvHEOM1aSGdbfo4jfVu_41.656612_-91.531588@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106782,
+    "wof:geomhash":"f1e5211227b60b8bbf9f736bb1276b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856872451
+        }
+    ],
+    "wof:id":856872451,
+    "wof:lastmodified":1464106782,
+    "wof:name":"Dave's Roofing",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.531588,
+    41.656612,
+    -91.531588,
+    41.656612
+],
+  "geometry": {"coordinates":[-91.531588,41.656612],"type":"Point"}
+}

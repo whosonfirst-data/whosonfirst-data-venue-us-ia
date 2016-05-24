@@ -1,0 +1,73 @@
+{
+  "id": 856980415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.679548,41.984996,-91.679548,41.984996",
+    "geom:latitude":41.984996,
+    "geom:longitude":-91.679548,
+    "iso:country":"US",
+    "sg:address":"1231 5th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7312",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cs9jRBYEc33pruxJOPkMR_41.984996_-91.679548@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111480,
+    "wof:geomhash":"4f116d4e169318a42a81c4fce8cf3449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856980415
+        }
+    ],
+    "wof:id":856980415,
+    "wof:lastmodified":1464111480,
+    "wof:name":"A L B Vending",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -91.679548,
+    41.984996,
+    -91.679548,
+    41.984996
+],
+  "geometry": {"coordinates":[-91.679548,41.984996],"type":"Point"}
+}

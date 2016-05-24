@@ -1,0 +1,71 @@
+{
+  "id": 857007525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.824984,41.227048,-95.824984,41.227048",
+    "geom:latitude":41.227048,
+    "geom:longitude":-95.824984,
+    "iso:country":"US",
+    "sg:address":"3434 Harry Langdon Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 0052",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Tb7v1FmNNvIAv9xWedEy_41.227048_-95.824984@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112668,
+    "wof:geomhash":"6ef79621ff663d1c3d19be96afc8240c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857007525
+        }
+    ],
+    "wof:id":857007525,
+    "wof:lastmodified":1464112668,
+    "wof:name":"Empire Storage",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -95.824984,
+    41.227048,
+    -95.824984,
+    41.227048
+],
+  "geometry": {"coordinates":[-95.824984,41.227048],"type":"Point"}
+}

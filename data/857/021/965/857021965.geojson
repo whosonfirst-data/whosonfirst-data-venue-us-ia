@@ -1,0 +1,73 @@
+{
+  "id": 857021965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533319,41.653387,-91.533319,41.653387",
+    "geom:latitude":41.653387,
+    "geom:longitude":-91.533319,
+    "iso:country":"US",
+    "sg:address":"111 Wright St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 339 1698",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61t4TVOCcSKptioUDzD7Es_41.653387_-91.533319@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113276,
+    "wof:geomhash":"ede4d9b336769b205fa9b3c066f8897a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":857021965
+        }
+    ],
+    "wof:id":857021965,
+    "wof:lastmodified":1464113276,
+    "wof:name":"Great Pictures",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -91.533319,
+    41.653387,
+    -91.533319,
+    41.653387
+],
+  "geometry": {"coordinates":[-91.53331900000001,41.653387],"type":"Point"}
+}

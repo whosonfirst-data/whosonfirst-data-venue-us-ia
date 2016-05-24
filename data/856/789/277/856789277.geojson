@@ -1,0 +1,71 @@
+{
+  "id": 856789277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.339336,41.477054,-95.339336,41.477054",
+    "geom:latitude":41.477054,
+    "geom:longitude":-95.339336,
+    "iso:country":"US",
+    "sg:address":"112 N Elm St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2184",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iUHMqnGI3aUyQsL1qoksW_41.477054_-95.339336@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102753,
+    "wof:geomhash":"3500f7f774b6609bb59ee2e5b6498e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856789277
+        }
+    ],
+    "wof:id":856789277,
+    "wof:lastmodified":1464102753,
+    "wof:name":"American Legion",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -95.339336,
+    41.477054,
+    -95.339336,
+    41.477054
+],
+  "geometry": {"coordinates":[-95.339336,41.477054],"type":"Point"}
+}

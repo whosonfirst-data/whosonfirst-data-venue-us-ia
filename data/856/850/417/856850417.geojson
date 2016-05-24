@@ -1,0 +1,73 @@
+{
+  "id": 856850417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.5315,41.665643,-91.5315,41.665643",
+    "geom:latitude":41.665643,
+    "geom:longitude":-91.5315,
+    "iso:country":"US",
+    "sg:address":"312 N Linn St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 7204",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x76sKY9LoHzy0nMEmFM55_41.665643_-91.531500@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105543,
+    "wof:geomhash":"e57af3b5c56a6b79951818f0e7fd5a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856850417
+        }
+    ],
+    "wof:id":856850417,
+    "wof:lastmodified":1464105543,
+    "wof:name":"Holub Apartments",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.5315,
+    41.665643,
+    -91.5315,
+    41.665643
+],
+  "geometry": {"coordinates":[-91.53149999999999,41.665643],"type":"Point"}
+}

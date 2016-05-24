@@ -1,0 +1,71 @@
+{
+  "id": 857023307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905443,41.253621,-95.905443,41.253621",
+    "geom:latitude":41.253621,
+    "geom:longitude":-95.905443,
+    "iso:country":"US",
+    "sg:address":"3621 9th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0333",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bssJRTimC69Bi387iN51V_41.253621_-95.905443@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113324,
+    "wof:geomhash":"8d308f3dd41384698b8eeaeb6e8de870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857023307
+        }
+    ],
+    "wof:id":857023307,
+    "wof:lastmodified":1464113324,
+    "wof:name":"Club Fuel",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.905443,
+    41.253621,
+    -95.905443,
+    41.253621
+],
+  "geometry": {"coordinates":[-95.90544300000001,41.253621],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856862133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.71204,41.298341,-93.71204,41.298341",
+    "geom:latitude":41.298341,
+    "geom:longitude":-93.71204,
+    "iso:country":"US",
+    "sg:address":"1595 50th Ave",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 396 2381",
+    "sg:postcode":"50240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BwXICR5sbOIqZu3oEJ0CW_41.298341_-93.712040@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106080,
+    "wof:geomhash":"d1213eb745afaf89d776d6bd353ab9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856862133
+        }
+    ],
+    "wof:id":856862133,
+    "wof:lastmodified":1464106080,
+    "wof:name":"Ro-Banks Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -93.71204,
+    41.298341,
+    -93.71204,
+    41.298341
+],
+  "geometry": {"coordinates":[-93.71204,41.298341],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856814811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.222526,42.231173,-96.222526,42.231173",
+    "geom:latitude":42.231173,
+    "geom:longitude":-96.222526,
+    "iso:country":"US",
+    "sg:address":"209 Buckley St",
+    "sg:city":"Sloan",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 428 6193",
+    "sg:postcode":"51055",
+    "sg:province":"IA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BAfCQZ28nNWTj0HkwXjsY_42.231173_-96.222526@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103823,
+    "wof:geomhash":"e8a88b9574de6120a355c16c027da2e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856814811
+        }
+    ],
+    "wof:id":856814811,
+    "wof:lastmodified":1464103823,
+    "wof:name":"Jims Tax Service",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -96.222526,
+    42.231173,
+    -96.222526,
+    42.231173
+],
+  "geometry": {"coordinates":[-96.222526,42.231173],"type":"Point"}
+}

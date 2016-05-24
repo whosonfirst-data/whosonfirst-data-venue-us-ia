@@ -1,0 +1,73 @@
+{
+  "id": 856810351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.81132,41.253341,-95.81132,41.253341",
+    "geom:latitude":41.253341,
+    "geom:longitude":-95.81132,
+    "iso:country":"US",
+    "sg:address":"720 Valley View Dr",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 8439",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dWlqhVRncbLFBSpj6XXnG_41.253341_-95.811320@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103650,
+    "wof:geomhash":"8f2f36204f36b86cf8dde75f1f01eb03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856810351
+        }
+    ],
+    "wof:id":856810351,
+    "wof:lastmodified":1464103650,
+    "wof:name":"Valley View Estates",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.81132,
+    41.253341,
+    -95.81132,
+    41.253341
+],
+  "geometry": {"coordinates":[-95.81131999999999,41.253341],"type":"Point"}
+}

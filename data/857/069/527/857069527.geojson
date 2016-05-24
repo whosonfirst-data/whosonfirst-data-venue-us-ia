@@ -1,0 +1,73 @@
+{
+  "id": 857069527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652944,41.978174,-91.652944,41.978174",
+    "geom:latitude":41.978174,
+    "geom:longitude":-91.652944,
+    "iso:country":"US",
+    "sg:address":"1050 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1089",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AJ1WssNYAq7TEcOx401gR_41.978174_-91.652944@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115306,
+    "wof:geomhash":"606a23c42106432cc4aa9f2e98f89e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857069527
+        }
+    ],
+    "wof:id":857069527,
+    "wof:lastmodified":1464115306,
+    "wof:name":"Pandy's Beauty Supply",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.652944,
+    41.978174,
+    -91.652944,
+    41.978174
+],
+  "geometry": {"coordinates":[-91.65294400000001,41.978174],"type":"Point"}
+}

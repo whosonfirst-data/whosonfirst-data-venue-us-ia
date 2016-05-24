@@ -1,0 +1,75 @@
+{
+  "id": 857010061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.631047,42.032001,-91.631047,42.032001",
+    "geom:latitude":42.032001,
+    "geom:longitude":-91.631047,
+    "iso:country":"US",
+    "sg:address":"228 Northland Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 0075",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eynOgWiFETLHcc47UjDRP_42.032001_-91.631047@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112787,
+    "wof:geomhash":"8f0bc309e00097b8b0ac4bed579ae33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857010061
+        }
+    ],
+    "wof:id":857010061,
+    "wof:lastmodified":1464112787,
+    "wof:name":"Koch Brothers",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -91.631047,
+    42.032001,
+    -91.631047,
+    42.032001
+],
+  "geometry": {"coordinates":[-91.631047,42.032001],"type":"Point"}
+}

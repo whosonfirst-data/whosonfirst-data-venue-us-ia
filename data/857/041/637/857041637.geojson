@@ -1,0 +1,71 @@
+{
+  "id": 857041637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.844398,41.2631,-95.844398,41.2631",
+    "geom:latitude":41.2631,
+    "geom:longitude":-95.844398,
+    "iso:country":"US",
+    "sg:address":"120 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0767",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29LwhtHc31qONap0R7JTMO_41.263169_-95.844302@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114142,
+    "wof:geomhash":"5cc548813f279d4b6703e033c6346339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857041637
+        }
+    ],
+    "wof:id":857041637,
+    "wof:lastmodified":1464114142,
+    "wof:name":"True Wheel Bicycle Company",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -95.844398,
+    41.2631,
+    -95.844398,
+    41.2631
+],
+  "geometry": {"coordinates":[-95.844398,41.2631],"type":"Point"}
+}

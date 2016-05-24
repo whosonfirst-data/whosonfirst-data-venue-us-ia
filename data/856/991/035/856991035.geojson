@@ -1,0 +1,73 @@
+{
+  "id": 856991035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.424573,42.531645,-96.424573,42.531645",
+    "geom:latitude":42.531645,
+    "geom:longitude":-96.424573,
+    "iso:country":"US",
+    "sg:address":"3615 Rebecca St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 4299",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44WxEuLUYXXx4wZFCQHUHe_42.531645_-96.424573@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112017,
+    "wof:geomhash":"62b4b3d35ad66beb3de53823c169ef0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856991035
+        }
+    ],
+    "wof:id":856991035,
+    "wof:lastmodified":1464112017,
+    "wof:name":"Erv's Catering",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.424573,
+    42.531645,
+    -96.424573,
+    42.531645
+],
+  "geometry": {"coordinates":[-96.424573,42.531645],"type":"Point"}
+}

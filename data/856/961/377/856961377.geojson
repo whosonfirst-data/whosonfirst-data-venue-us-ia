@@ -1,0 +1,71 @@
+{
+  "id": 856961377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.986409,41.849569,-93.986409,41.849569",
+    "geom:latitude":41.849569,
+    "geom:longitude":-93.986409,
+    "iso:country":"US",
+    "sg:address":"2498 130th St",
+    "sg:city":"Bouton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 676 2213",
+    "sg:postcode":"50039",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ec2GBjGbpYXSKIXqzpSdR_41.849569_-93.986409@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110604,
+    "wof:geomhash":"ebf32f8c0f1ff16f2144cb9134313f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856961377
+        }
+    ],
+    "wof:id":856961377,
+    "wof:lastmodified":1464110604,
+    "wof:name":"Weyers Sales Service",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -93.986409,
+    41.849569,
+    -93.986409,
+    41.849569
+],
+  "geometry": {"coordinates":[-93.98640899999999,41.849569],"type":"Point"}
+}

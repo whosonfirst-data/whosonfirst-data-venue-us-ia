@@ -1,0 +1,75 @@
+{
+  "id": 856864815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740319,41.963864,-91.740319,41.963864",
+    "geom:latitude":41.963864,
+    "geom:longitude":-91.740319,
+    "iso:country":"US",
+    "sg:address":"1620 W Post Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 9274",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sdeS9PEIay1oen3b8BDjK_41.963864_-91.740319@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106193,
+    "wof:geomhash":"cf1846f4f89931a944c274edc50b06bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856864815
+        }
+    ],
+    "wof:id":856864815,
+    "wof:lastmodified":1464106193,
+    "wof:name":"C & R Auto Clean",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -91.740319,
+    41.963864,
+    -91.740319,
+    41.963864
+],
+  "geometry": {"coordinates":[-91.740319,41.963864],"type":"Point"}
+}

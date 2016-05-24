@@ -1,0 +1,79 @@
+{
+  "id": 856783633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.334106,41.487016,-95.334106,41.487016",
+    "geom:latitude":41.487016,
+    "geom:longitude":-95.334106,
+    "iso:country":"US",
+    "sg:address":"1203 N Willow St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2382",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feedlot",
+        "corn",
+        "soybean",
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kKQpMmuWtW3wxGWWUH6Hq_41.487016_-95.334106@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102513,
+    "wof:geomhash":"d44ee7427435522e72bdafe403dbd10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856783633
+        }
+    ],
+    "wof:id":856783633,
+    "wof:lastmodified":1464102513,
+    "wof:name":"Wayne Krohn",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "corn",
+        "soybean",
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -95.334106,
+    41.487016,
+    -95.334106,
+    41.487016
+],
+  "geometry": {"coordinates":[-95.33410600000001,41.487016],"type":"Point"}
+}

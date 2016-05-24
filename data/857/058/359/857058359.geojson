@@ -1,0 +1,74 @@
+{
+  "id": 857058359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.352696,42.456772,-92.352696,42.456772",
+    "geom:latitude":42.456772,
+    "geom:longitude":-92.352696,
+    "iso:country":"US",
+    "sg:address":"209 E Tower Park Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/waterloo/182793-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 291 6640",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rmCjTMP8ow4CBmKZCXZyn_42.456772_-92.352696@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114836,
+    "wof:geomhash":"fb07187c4db070f83d9578f9547ee817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":857058359
+        }
+    ],
+    "wof:id":857058359,
+    "wof:lastmodified":1464114836,
+    "wof:name":"Culver's",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.352696,
+    42.456772,
+    -92.352696,
+    42.456772
+],
+  "geometry": {"coordinates":[-92.35269599999999,42.456772],"type":"Point"}
+}

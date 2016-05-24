@@ -1,0 +1,71 @@
+{
+  "id": 856787887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.963724,41.684285,-93.963724,41.684285",
+    "geom:latitude":41.684285,
+    "geom:longitude":-93.963724,
+    "iso:country":"US",
+    "sg:address":"1502 Walnut St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3725",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wdIlNnMUtQlyCLzIG2i2P_41.684285_-93.963724@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102703,
+    "wof:geomhash":"107a77da15ef02f40b6a1068cc3b27df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856787887
+        }
+    ],
+    "wof:id":856787887,
+    "wof:lastmodified":1464102703,
+    "wof:name":"Dallas Center City Hall",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -93.963724,
+    41.684285,
+    -93.963724,
+    41.684285
+],
+  "geometry": {"coordinates":[-93.963724,41.684285],"type":"Point"}
+}

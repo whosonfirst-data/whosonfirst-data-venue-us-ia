@@ -1,0 +1,73 @@
+{
+  "id": 857065561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7836,41.9216,-91.7836,41.9216",
+    "geom:latitude":41.9216,
+    "geom:longitude":-91.7836,
+    "iso:country":"US",
+    "sg:address":"101 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2890",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lacnY7fmxnoXrqT90pIry_41.921600_-91.783600@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115118,
+    "wof:geomhash":"be937a9f7e9ea225f23b5452d23d8c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857065561
+        }
+    ],
+    "wof:id":857065561,
+    "wof:lastmodified":1464115118,
+    "wof:name":"Crosscreek Body Shop",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.7836,
+    41.9216,
+    -91.7836,
+    41.9216
+],
+  "geometry": {"coordinates":[-91.78360000000001,41.9216],"type":"Point"}
+}

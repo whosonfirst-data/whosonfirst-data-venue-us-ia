@@ -1,0 +1,71 @@
+{
+  "id": 856859735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.82478,41.250808,-95.82478,41.250808",
+    "geom:latitude":41.250808,
+    "geom:longitude":-95.82478,
+    "iso:country":"US",
+    "sg:address":"308 Wendy Heights Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 9008",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hC3Gl3JARtkBVFQzqTbpd_41.250808_-95.824780@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105982,
+    "wof:geomhash":"068e5edda058f1d4231a567e04d43e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856859735
+        }
+    ],
+    "wof:id":856859735,
+    "wof:lastmodified":1464105982,
+    "wof:name":"Jodys Beauty Salon",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.82478,
+    41.250808,
+    -95.82478,
+    41.250808
+],
+  "geometry": {"coordinates":[-95.82478,41.250808],"type":"Point"}
+}

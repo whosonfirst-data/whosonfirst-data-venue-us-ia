@@ -1,0 +1,74 @@
+{
+  "id": 857056909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6614,41.971802,-91.6614,41.971802",
+    "geom:latitude":41.971802,
+    "geom:longitude":-91.6614,
+    "iso:country":"US",
+    "sg:address":"925 2nd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5179",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.winifredscatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZTyJ5sL2DlskHhvcFJxZr_41.971318_-91.661160@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114780,
+    "wof:geomhash":"b64ff530f1732d15fc2a5bcce82540cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857056909
+        }
+    ],
+    "wof:id":857056909,
+    "wof:lastmodified":1464114780,
+    "wof:name":"Winifreds",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.6614,
+    41.971802,
+    -91.6614,
+    41.971802
+],
+  "geometry": {"coordinates":[-91.6614,41.971802],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856773627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.73925,41.599026,-93.73925,41.599026",
+    "geom:latitude":41.599026,
+    "geom:longitude":-93.73925,
+    "iso:country":"US",
+    "sg:address":"1720 25th St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 221 2317",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ufRxu6vLYOk97NpUBzMBK_41.599026_-93.739250@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102292,
+    "wof:geomhash":"262a7330c8061e43105cb6cbfa8fc22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856773627
+        }
+    ],
+    "wof:id":856773627,
+    "wof:lastmodified":1464102292,
+    "wof:name":"Vieux Carre",
+    "wof:parent_id":85896355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -93.73925,
+    41.599026,
+    -93.73925,
+    41.599026
+],
+  "geometry": {"coordinates":[-93.73925,41.599026],"type":"Point"}
+}

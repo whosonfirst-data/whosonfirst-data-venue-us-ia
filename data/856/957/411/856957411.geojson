@@ -1,0 +1,73 @@
+{
+  "id": 856957411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673585,42.073882,-91.673585,42.073882",
+    "geom:latitude":42.073882,
+    "geom:longitude":-91.673585,
+    "iso:country":"US",
+    "sg:address":"780 W Main St",
+    "sg:city":"Robins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 378 9888",
+    "sg:postcode":"52328",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x0wVZ30Th3SAXuxvWfv12_42.073882_-91.673585@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110440,
+    "wof:geomhash":"676e12704e53a013b13dfa85eaff9749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856957411
+        }
+    ],
+    "wof:id":856957411,
+    "wof:lastmodified":1464110440,
+    "wof:name":"Parker Plumbing & Heating",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.673585,
+    42.073882,
+    -91.673585,
+    42.073882
+],
+  "geometry": {"coordinates":[-91.673585,42.073882],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857070359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.675652,41.973435,-91.675652,41.973435",
+    "geom:latitude":41.973435,
+    "geom:longitude":-91.675652,
+    "iso:country":"US",
+    "sg:address":"350 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7717",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iD8bgdUnr8r4yba1BG2r3_41.973435_-91.675652@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115349,
+    "wof:geomhash":"7903ce72996892ae51759aac812bdad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857070359
+        }
+    ],
+    "wof:id":857070359,
+    "wof:lastmodified":1464115349,
+    "wof:name":"Building Blocks Child Care and Learning Center",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -91.675652,
+    41.973435,
+    -91.675652,
+    41.973435
+],
+  "geometry": {"coordinates":[-91.675652,41.973435],"type":"Point"}
+}

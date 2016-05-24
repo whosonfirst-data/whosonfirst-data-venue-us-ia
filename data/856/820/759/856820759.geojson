@@ -1,0 +1,73 @@
+{
+  "id": 856820759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.646586,41.615498,-93.646586,41.615498",
+    "geom:latitude":41.615498,
+    "geom:longitude":-93.646586,
+    "iso:country":"US",
+    "sg:address":"2717 Martin Luther King Jr Pkwy",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 277 1606",
+    "sg:postcode":"50310",
+    "sg:province":"IA",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53o81928uSUGqx7RR8UUiL_41.615498_-93.646586@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104144,
+    "wof:geomhash":"e6339a945d0f5fa04255d51125edc2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896399,
+            "region_id":85688713,
+            "venue_id":856820759
+        }
+    ],
+    "wof:id":856820759,
+    "wof:lastmodified":1464104144,
+    "wof:name":"Gus Farms",
+    "wof:parent_id":85896399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -93.646586,
+    41.615498,
+    -93.646586,
+    41.615498
+],
+  "geometry": {"coordinates":[-93.646586,41.615498],"type":"Point"}
+}

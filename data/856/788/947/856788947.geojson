@@ -1,0 +1,71 @@
+{
+  "id": 856788947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105241,41.841349,-94.105241,41.841349",
+    "geom:latitude":41.841349,
+    "geom:longitude":-94.105241,
+    "iso:country":"US",
+    "sg:address":"1323 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4666",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1173tE7h6ej0UcEbBTfBqR_41.841349_-94.105241@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102742,
+    "wof:geomhash":"9e5a464cc12042b5dd2e5f549d2909d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856788947
+        }
+    ],
+    "wof:id":856788947,
+    "wof:lastmodified":1464102742,
+    "wof:name":"Chief Printing Co",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -94.105241,
+    41.841349,
+    -94.105241,
+    41.841349
+],
+  "geometry": {"coordinates":[-94.10524100000001,41.841349],"type":"Point"}
+}

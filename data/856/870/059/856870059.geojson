@@ -1,0 +1,73 @@
+{
+  "id": 856870059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.56658,41.976388,-91.56658,41.976388",
+    "geom:latitude":41.976388,
+    "geom:longitude":-91.56658,
+    "iso:country":"US",
+    "sg:address":"6900 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9211",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bfNcpP3PPxTU7HUIVAwKa_41.976388_-91.566580@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106514,
+    "wof:geomhash":"e048ef6ff90833d1a6173f5a754e1225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856870059
+        }
+    ],
+    "wof:id":856870059,
+    "wof:lastmodified":1464106514,
+    "wof:name":"Don & Teri's Lounge",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -91.56658,
+    41.976388,
+    -91.56658,
+    41.976388
+],
+  "geometry": {"coordinates":[-91.56658,41.976388],"type":"Point"}
+}

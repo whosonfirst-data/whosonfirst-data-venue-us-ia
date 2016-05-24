@@ -1,0 +1,89 @@
+{
+  "id": 856817533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.670531,41.976425,-91.670531,41.976425",
+    "geom:latitude":41.976425,
+    "geom:longitude":-91.670531,
+    "iso:country":"US",
+    "sg:address":"50 2nd Avenue Brg",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5074",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20lgAbvicqT4ZivWK1jykY_41.976425_-91.670531@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103946,
+    "wof:geomhash":"498b8aab3fd82cfb0dfa44ed9de37d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856817533
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856817533
+        }
+    ],
+    "wof:id":856817533,
+    "wof:lastmodified":1464103946,
+    "wof:name":"Cedar Rapids Fitness Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -91.670531,
+    41.976425,
+    -91.670531,
+    41.976425
+],
+  "geometry": {"coordinates":[-91.670531,41.976425],"type":"Point"}
+}

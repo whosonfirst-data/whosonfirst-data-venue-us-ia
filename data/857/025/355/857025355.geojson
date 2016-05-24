@@ -1,0 +1,73 @@
+{
+  "id": 857025355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677686,41.918255,-91.677686,41.918255",
+    "geom:latitude":41.918255,
+    "geom:longitude":-91.677686,
+    "iso:country":"US",
+    "sg:address":"6425 7th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0545",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71db3AJr008Juoh3PFU8kP_41.918255_-91.677686@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113432,
+    "wof:geomhash":"096214455841ed28a57f6b04839394e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857025355
+        }
+    ],
+    "wof:id":857025355,
+    "wof:lastmodified":1464113432,
+    "wof:name":"J & J Farm Trucking",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.677686,
+    41.918255,
+    -91.677686,
+    41.918255
+],
+  "geometry": {"coordinates":[-91.67768599999999,41.918255],"type":"Point"}
+}

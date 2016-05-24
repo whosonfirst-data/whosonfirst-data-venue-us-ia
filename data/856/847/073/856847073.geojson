@@ -1,0 +1,71 @@
+{
+  "id": 856847073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.424511,41.921138,-91.424511,41.921138",
+    "geom:latitude":41.921138,
+    "geom:longitude":-91.424511,
+    "iso:country":"US",
+    "sg:address":"511 5th Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 6828",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XJZkXVS5r6Uz66AtcuBxq_41.921138_-91.424511@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105341,
+    "wof:geomhash":"96b53129af6ab091776207b1a4e92311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856847073
+        }
+    ],
+    "wof:id":856847073,
+    "wof:lastmodified":1464105341,
+    "wof:name":"Annie's Attic Antiques",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -91.424511,
+    41.921138,
+    -91.424511,
+    41.921138
+],
+  "geometry": {"coordinates":[-91.424511,41.921138],"type":"Point"}
+}

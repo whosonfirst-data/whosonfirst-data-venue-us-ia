@@ -1,0 +1,72 @@
+{
+  "id": 856814611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725763,41.954901,-91.725763,41.954901",
+    "geom:latitude":41.954901,
+    "geom:longitude":-91.725763,
+    "iso:country":"US",
+    "sg:address":"2439 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0782",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.familychristian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MePAHdIul7SfXNH4Dk9Jn_41.954901_-91.725763@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103816,
+    "wof:geomhash":"cefce0e88d0e488d1a27d9d9fbf6c38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856814611
+        }
+    ],
+    "wof:id":856814611,
+    "wof:lastmodified":1464103816,
+    "wof:name":"Family Christian Book Store",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.725763,
+    41.954901,
+    -91.725763,
+    41.954901
+],
+  "geometry": {"coordinates":[-91.725763,41.954901],"type":"Point"}
+}

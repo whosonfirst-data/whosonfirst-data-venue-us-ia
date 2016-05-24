@@ -1,0 +1,73 @@
+{
+  "id": 856931437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858248,41.364259,-95.858248,41.364259",
+    "geom:latitude":41.364259,
+    "geom:longitude":-95.858248,
+    "iso:country":"US",
+    "sg:address":"735 Old Lincoln Hwy",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3919",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63u6LgR72oQxiAznMA88Em_41.364259_-95.858248@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109299,
+    "wof:geomhash":"e8b72535dfd4d9aec11e3237a562cf25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856931437
+        }
+    ],
+    "wof:id":856931437,
+    "wof:lastmodified":1464109299,
+    "wof:name":"Denny's",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -95.858248,
+    41.364259,
+    -95.858248,
+    41.364259
+],
+  "geometry": {"coordinates":[-95.858248,41.364259],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857011021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.696192,41.994259,-91.696192,41.994259",
+    "geom:latitude":41.994259,
+    "geom:longitude":-91.696192,
+    "iso:country":"US",
+    "sg:address":"1520 Whitters Way NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2750",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CtJQjBWm3JtGb0nDwEyP2_41.994259_-91.696192@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112819,
+    "wof:geomhash":"2db73edf9d27509137e921e1bc0989b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857011021
+        }
+    ],
+    "wof:id":857011021,
+    "wof:lastmodified":1464112819,
+    "wof:name":"Whitters Home Builders Inc",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.696192,
+    41.994259,
+    -91.696192,
+    41.994259
+],
+  "geometry": {"coordinates":[-91.696192,41.994259],"type":"Point"}
+}

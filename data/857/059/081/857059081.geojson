@@ -1,0 +1,73 @@
+{
+  "id": 857059081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.775963,42.172755,-91.775963,42.172755",
+    "geom:latitude":42.172755,
+    "geom:longitude":-91.775963,
+    "iso:country":"US",
+    "sg:address":"698 Grain Ln",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/washington/202649-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2619HBlErQUoo0Zec9U2Xs_42.172755_-91.775963@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114865,
+    "wof:geomhash":"bad45ec59ab483da28c3c1af8a2a631a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857059081
+        }
+    ],
+    "wof:id":857059081,
+    "wof:lastmodified":1464114865,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.775963,
+    42.172755,
+    -91.775963,
+    42.172755
+],
+  "geometry": {"coordinates":[-91.775963,42.172755],"type":"Point"}
+}

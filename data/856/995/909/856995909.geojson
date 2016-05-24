@@ -1,0 +1,78 @@
+{
+  "id": 856995909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.356841,42.439805,-92.356841,42.439805",
+    "geom:latitude":42.439805,
+    "geom:longitude":-92.356841,
+    "iso:country":"US",
+    "sg:address":"5640 Kimball Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 233 1644",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "refrigerating",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z7exWp4tjRMxoD0wZFd2S_42.439805_-92.356841@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112213,
+    "wof:geomhash":"64e681354265478159ce76045cd6a7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856995909
+        }
+    ],
+    "wof:id":856995909,
+    "wof:lastmodified":1464112213,
+    "wof:name":"Quality Maintenance Services",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerating",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -92.356841,
+    42.439805,
+    -92.356841,
+    42.439805
+],
+  "geometry": {"coordinates":[-92.356841,42.439805],"type":"Point"}
+}

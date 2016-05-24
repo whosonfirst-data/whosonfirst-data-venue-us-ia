@@ -1,0 +1,68 @@
+{
+  "id": 857070107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.721,41.947292,-91.721,41.947292",
+    "geom:latitude":41.947292,
+    "geom:longitude":-91.721,
+    "iso:country":"US",
+    "sg:address":"3135 Willey Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 4655",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KyP7URxaFOjjQ2tZkIfJp_41.947292_-91.721000@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115340,
+    "wof:geomhash":"df902b6b248a0b0bef751fc459cdbd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857070107
+        }
+    ],
+    "wof:id":857070107,
+    "wof:lastmodified":1464115340,
+    "wof:name":"Papa's Pita",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.721,
+    41.947292,
+    -91.721,
+    41.947292
+],
+  "geometry": {"coordinates":[-91.721,41.947292],"type":"Point"}
+}

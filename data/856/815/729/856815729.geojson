@@ -1,0 +1,73 @@
+{
+  "id": 856815729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.869713,41.571089,-93.869713,41.571089",
+    "geom:latitude":41.571089,
+    "geom:longitude":-93.869713,
+    "iso:country":"US",
+    "sg:address":"3170 Oakwood Ln",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 1880",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TpmpUoeWCK3uERZgMqr0k_41.571089_-93.869713@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103863,
+    "wof:geomhash":"89decd0c1621535c86826683f8b04d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856815729
+        }
+    ],
+    "wof:id":856815729,
+    "wof:lastmodified":1464103863,
+    "wof:name":"Boyden Farm Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.869713,
+    41.571089,
+    -93.869713,
+    41.571089
+],
+  "geometry": {"coordinates":[-93.869713,41.571089],"type":"Point"}
+}

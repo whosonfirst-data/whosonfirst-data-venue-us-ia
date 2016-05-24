@@ -1,0 +1,75 @@
+{
+  "id": 857002277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.414399,42.510663,-96.414399,42.510663",
+    "geom:latitude":42.510663,
+    "geom:longitude":-96.414399,
+    "iso:country":"US",
+    "sg:address":"105 W Gilman Ter",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 5215",
+    "sg:postcode":"51104",
+    "sg:province":"IA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1njgjzCkfKHjMmFNIwjYQb_42.510663_-96.414399@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112459,
+    "wof:geomhash":"b6667ff37aaf69492d29674586272d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857002277
+        }
+    ],
+    "wof:id":857002277,
+    "wof:lastmodified":1464112459,
+    "wof:name":"Shaklee Distributor",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -96.414399,
+    42.510663,
+    -96.414399,
+    42.510663
+],
+  "geometry": {"coordinates":[-96.414399,42.510663],"type":"Point"}
+}

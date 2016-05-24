@@ -1,0 +1,71 @@
+{
+  "id": 856913341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.07922,41.838406,-94.07922,41.838406",
+    "geom:latitude":41.838406,
+    "geom:longitude":-94.07922,
+    "iso:country":"US",
+    "sg:address":"2821 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 3581",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_219O1zT8z9hp4h2MuzLtJm_41.838406_-94.079220@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108553,
+    "wof:geomhash":"051c6f2db5e3748f7f057ca92a86c695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856913341
+        }
+    ],
+    "wof:id":856913341,
+    "wof:lastmodified":1464108553,
+    "wof:name":"Veterinary Medical Assoc-Perry",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.07922,
+    41.838406,
+    -94.07922,
+    41.838406
+],
+  "geometry": {"coordinates":[-94.07922000000001,41.838406],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856953775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.55653,41.720811,-91.55653,41.720811",
+    "geom:latitude":41.720811,
+    "geom:longitude":-91.55653,
+    "iso:country":"US",
+    "sg:address":"2918 Dubuque St NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 7680",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896473,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KJO8hk3u0PSbTCVPjVBTI_41.720811_-91.556530@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110265,
+    "wof:geomhash":"783e6f734ef5e319862f1ab0b01f5ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896473,
+            "region_id":85688713,
+            "venue_id":856953775
+        }
+    ],
+    "wof:id":856953775,
+    "wof:lastmodified":1464110265,
+    "wof:name":"Eli Lilly and Company",
+    "wof:parent_id":85896473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    -91.55653,
+    41.720811,
+    -91.55653,
+    41.720811
+],
+  "geometry": {"coordinates":[-91.55653,41.720811],"type":"Point"}
+}

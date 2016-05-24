@@ -1,0 +1,73 @@
+{
+  "id": 856828763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.586101,42.040004,-91.586101,42.040004",
+    "geom:latitude":42.040004,
+    "geom:longitude":-91.586101,
+    "iso:country":"US",
+    "sg:address":"1410 25th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 0387",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T888MampVvlzCH9LmG3oX_42.040004_-91.586101@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104461,
+    "wof:geomhash":"1af70f9e21beeea5a2d485f7f4dfc10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856828763
+        }
+    ],
+    "wof:id":856828763,
+    "wof:lastmodified":1464104461,
+    "wof:name":"Rc-1 Drywall",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.586101,
+    42.040004,
+    -91.586101,
+    42.040004
+],
+  "geometry": {"coordinates":[-91.586101,42.040004],"type":"Point"}
+}

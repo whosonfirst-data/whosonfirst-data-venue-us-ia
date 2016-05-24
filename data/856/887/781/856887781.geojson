@@ -1,0 +1,71 @@
+{
+  "id": 856887781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.775275,41.816652,-93.775275,41.816652",
+    "geom:latitude":41.816652,
+    "geom:longitude":-93.775275,
+    "iso:country":"US",
+    "sg:address":"14150 NW Madrid Dr",
+    "sg:city":"Polk City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 795 2179",
+    "sg:postcode":"50226",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential",
+        "drywall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896433,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_713PiOT1PBzc1jUCvPdJAx_41.816652_-93.775275@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107593,
+    "wof:geomhash":"51d478b603b6059e98a5fd3813888502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896433,
+            "region_id":85688713,
+            "venue_id":856887781
+        }
+    ],
+    "wof:id":856887781,
+    "wof:lastmodified":1464107593,
+    "wof:name":"Medici Construction",
+    "wof:parent_id":85896433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "drywall"
+    ]
+},
+  "bbox": [
+    -93.775275,
+    41.816652,
+    -93.775275,
+    41.816652
+],
+  "geometry": {"coordinates":[-93.77527499999999,41.816652],"type":"Point"}
+}

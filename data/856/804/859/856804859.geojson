@@ -1,0 +1,71 @@
+{
+  "id": 856804859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.077472,41.517568,-94.077472,41.517568",
+    "geom:latitude":41.517568,
+    "geom:longitude":-94.077472,
+    "iso:country":"US",
+    "sg:address":"2055 360th Pl",
+    "sg:city":"Earlham",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2534",
+    "sg:postcode":"50072",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19vjcQMKairl0j8z4TXOpS_41.517568_-94.077472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103396,
+    "wof:geomhash":"4a66e4a67e447d4e572a94b2b8a05bb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856804859
+        }
+    ],
+    "wof:id":856804859,
+    "wof:lastmodified":1464103396,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -94.077472,
+    41.517568,
+    -94.077472,
+    41.517568
+],
+  "geometry": {"coordinates":[-94.077472,41.517568],"type":"Point"}
+}

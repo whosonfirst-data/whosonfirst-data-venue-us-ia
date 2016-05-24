@@ -1,0 +1,71 @@
+{
+  "id": 857063991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.827423,41.244549,-95.827423,41.244549",
+    "geom:latitude":41.244549,
+    "geom:longitude":-95.827423,
+    "iso:country":"US",
+    "sg:address":"1751 Madison Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 5198",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FT8msJoBG9kQ0wQP1Pax1_41.244549_-95.827423@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115062,
+    "wof:geomhash":"79c893a331eedd20942fe57697f31ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063991
+        }
+    ],
+    "wof:id":857063991,
+    "wof:lastmodified":1464115062,
+    "wof:name":"Alegent Health Heart & Vascular Institute",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -95.827423,
+    41.244549,
+    -95.827423,
+    41.244549
+],
+  "geometry": {"coordinates":[-95.827423,41.244549],"type":"Point"}
+}

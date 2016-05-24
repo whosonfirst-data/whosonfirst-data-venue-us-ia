@@ -1,0 +1,80 @@
+{
+  "id": 856880453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.38332,41.484337,-95.38332,41.484337",
+    "geom:latitude":41.484337,
+    "geom:longitude":-95.38332,
+    "iso:country":"US",
+    "sg:address":"32543 420th St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 2715",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electronic",
+        "radio",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26O6PYvql5oHmsTRsNpSzR_41.484337_-95.383320@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107174,
+    "wof:geomhash":"a42d34c67770102622b7d88c1531c88f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856880453
+        }
+    ],
+    "wof:id":856880453,
+    "wof:lastmodified":1464107174,
+    "wof:name":"Bob's Electronics",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "radio",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -95.38332,
+    41.484337,
+    -95.38332,
+    41.484337
+],
+  "geometry": {"coordinates":[-95.38332,41.484337],"type":"Point"}
+}

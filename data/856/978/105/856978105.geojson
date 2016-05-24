@@ -1,0 +1,73 @@
+{
+  "id": 856978105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.118065,41.518198,-94.118065,41.518198",
+    "geom:latitude":41.518198,
+    "geom:longitude":-94.118065,
+    "iso:country":"US",
+    "sg:address":"1970 Jewell Cir",
+    "sg:city":"Earlham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 834 2364",
+    "sg:postcode":"50072",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gQqbTcS7AdU3AmAdGCzcx_41.518198_-94.118065@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111370,
+    "wof:geomhash":"85ee2669e37a9807b762fbb1307bb5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856978105
+        }
+    ],
+    "wof:id":856978105,
+    "wof:lastmodified":1464111370,
+    "wof:name":"Ron Nederhoff Construction Co",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.118065,
+    41.518198,
+    -94.118065,
+    41.518198
+],
+  "geometry": {"coordinates":[-94.118065,41.518198],"type":"Point"}
+}

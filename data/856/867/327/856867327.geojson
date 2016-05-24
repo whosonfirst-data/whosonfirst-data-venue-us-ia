@@ -1,0 +1,71 @@
+{
+  "id": 856867327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715903,41.97724,-91.715903,41.97724",
+    "geom:latitude":41.97724,
+    "geom:longitude":-91.715903,
+    "iso:country":"US",
+    "sg:address":"415 Edgewood Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2318",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24N9fpDgRqVm6M11zqt5h1_41.977240_-91.715903@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106328,
+    "wof:geomhash":"f7a521086a92b2cc8192a95de6a369f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856867327
+        }
+    ],
+    "wof:id":856867327,
+    "wof:lastmodified":1464106328,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -91.715903,
+    41.97724,
+    -91.715903,
+    41.97724
+],
+  "geometry": {"coordinates":[-91.715903,41.97724],"type":"Point"}
+}

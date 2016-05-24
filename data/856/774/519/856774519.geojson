@@ -1,0 +1,73 @@
+{
+  "id": 856774519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.685122,41.387041,-95.685122,41.387041",
+    "geom:latitude":41.387041,
+    "geom:longitude":-95.685122,
+    "iso:country":"US",
+    "sg:address":"612 3rd St",
+    "sg:city":"Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 566 2087",
+    "sg:postcode":"51576",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GKfs8T2BxQqZ9DZPBb5UU_41.387041_-95.685122@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102317,
+    "wof:geomhash":"aa9e2c37c311b8b9732e731767a2d4a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856774519
+        }
+    ],
+    "wof:id":856774519,
+    "wof:lastmodified":1464102317,
+    "wof:name":"KERR Plumbing & Heating",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.685122,
+    41.387041,
+    -95.685122,
+    41.387041
+],
+  "geometry": {"coordinates":[-95.68512200000001,41.387041],"type":"Point"}
+}

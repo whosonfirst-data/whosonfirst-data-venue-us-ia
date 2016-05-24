@@ -1,0 +1,73 @@
+{
+  "id": 857017299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.710029,41.989278,-91.710029,41.989278",
+    "geom:latitude":41.989278,
+    "geom:longitude":-91.710029,
+    "iso:country":"US",
+    "sg:address":"2714 O Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 1985",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nmm6dzZofMKkBwcaA6RGG_41.989278_-91.710029@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113086,
+    "wof:geomhash":"f30666267bd41d003e43ef5ffa3053c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857017299
+        }
+    ],
+    "wof:id":857017299,
+    "wof:lastmodified":1464113086,
+    "wof:name":"Nedderman Farms Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.710029,
+    41.989278,
+    -91.710029,
+    41.989278
+],
+  "geometry": {"coordinates":[-91.71002900000001,41.989278],"type":"Point"}
+}

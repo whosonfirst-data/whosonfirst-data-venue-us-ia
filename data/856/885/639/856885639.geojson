@@ -1,0 +1,71 @@
+{
+  "id": 856885639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645256,42.022372,-91.645256,42.022372",
+    "geom:latitude":42.022372,
+    "geom:longitude":-91.645256,
+    "iso:country":"US",
+    "sg:address":"730 43rd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5941",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tUQlmsuNAfP58jLiXgseR_42.022372_-91.645256@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107498,
+    "wof:geomhash":"bba22a2b9779cf3eb84058a0a6b7df76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856885639
+        }
+    ],
+    "wof:id":856885639,
+    "wof:lastmodified":1464107498,
+    "wof:name":"Metro Builders",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.645256,
+    42.022372,
+    -91.645256,
+    42.022372
+],
+  "geometry": {"coordinates":[-91.645256,42.022372],"type":"Point"}
+}

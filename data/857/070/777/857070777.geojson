@@ -1,0 +1,71 @@
+{
+  "id": 857070777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.716003,41.961201,-91.716003,41.961201",
+    "geom:latitude":41.961201,
+    "geom:longitude":-91.716003,
+    "iso:country":"US",
+    "sg:address":"1919 Edgewood Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 4576",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06AakfSBpgZ34Bx2VYIMH7_41.961201_-91.716003@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115368,
+    "wof:geomhash":"9d64934905028499826355b002044ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070777
+        }
+    ],
+    "wof:id":857070777,
+    "wof:lastmodified":1464115368,
+    "wof:name":"Firestone Truck & Farm Tire Centers",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.716003,
+    41.961201,
+    -91.716003,
+    41.961201
+],
+  "geometry": {"coordinates":[-91.716003,41.961201],"type":"Point"}
+}

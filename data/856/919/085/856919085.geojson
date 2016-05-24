@@ -1,0 +1,71 @@
+{
+  "id": 856919085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.35732,42.471293,-96.35732,42.471293",
+    "geom:latitude":42.471293,
+    "geom:longitude":-96.35732,
+    "iso:country":"US",
+    "sg:address":"3900 Orleans Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 2588",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C6tD452kUTBfenvuCgJCw_42.471293_-96.357320@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108778,
+    "wof:geomhash":"847736bcc7fcd207778e0214d3fff6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856919085
+        }
+    ],
+    "wof:id":856919085,
+    "wof:lastmodified":1464108778,
+    "wof:name":"Vend It",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.35732,
+    42.471293,
+    -96.35732,
+    42.471293
+],
+  "geometry": {"coordinates":[-96.35732,42.471293],"type":"Point"}
+}

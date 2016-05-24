@@ -1,0 +1,71 @@
+{
+  "id": 857028449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.734026,41.969016,-91.734026,41.969016",
+    "geom:latitude":41.969016,
+    "geom:longitude":-91.734026,
+    "iso:country":"US",
+    "sg:address":"111 Rich Mar Ct NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3910",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E20yNzDrrgNncUJqHdYoe_41.969016_-91.734026@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113565,
+    "wof:geomhash":"4bacca03d7452d3e28a29f3af2280637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857028449
+        }
+    ],
+    "wof:id":857028449,
+    "wof:lastmodified":1464113565,
+    "wof:name":"Iowa Inspection Technologies",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.734026,
+    41.969016,
+    -91.734026,
+    41.969016
+],
+  "geometry": {"coordinates":[-91.734026,41.969016],"type":"Point"}
+}

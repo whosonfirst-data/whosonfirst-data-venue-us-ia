@@ -1,0 +1,83 @@
+{
+  "id": 856864797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673224,41.974282,-91.673224,41.974282",
+    "geom:latitude":41.974282,
+    "geom:longitude":-91.673224,
+    "iso:country":"US",
+    "sg:address":"102 3rd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 5550",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oqd4AoXfGQrSUHINKUiWS_41.974282_-91.673224@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106192,
+    "wof:geomhash":"23af9bf15ddf5df779604621bbd6a59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856864797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856864797
+        }
+    ],
+    "wof:id":856864797,
+    "wof:lastmodified":1464106192,
+    "wof:name":"River City Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -91.673224,
+    41.974282,
+    -91.673224,
+    41.974282
+],
+  "geometry": {"coordinates":[-91.673224,41.974282],"type":"Point"}
+}

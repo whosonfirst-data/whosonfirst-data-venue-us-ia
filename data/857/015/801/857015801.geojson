@@ -1,0 +1,71 @@
+{
+  "id": 857015801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.554204,41.418409,-93.554204,41.418409",
+    "geom:latitude":41.418409,
+    "geom:longitude":-93.554204,
+    "iso:country":"US",
+    "sg:address":"737 133rd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 979 4143",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VnxWpBBqkBHEWCczBd8E0_41.418409_-93.554204@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113020,
+    "wof:geomhash":"fa568fdd8ef9a04d2925df1a0a6ef99d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857015801
+        }
+    ],
+    "wof:id":857015801,
+    "wof:lastmodified":1464113020,
+    "wof:name":"Paplow Roofing",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.554204,
+    41.418409,
+    -93.554204,
+    41.418409
+],
+  "geometry": {"coordinates":[-93.554204,41.418409],"type":"Point"}
+}

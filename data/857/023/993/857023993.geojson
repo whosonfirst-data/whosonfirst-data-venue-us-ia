@@ -1,0 +1,74 @@
+{
+  "id": 857023993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867341,41.270594,-95.867341,41.270594",
+    "geom:latitude":41.270594,
+    "geom:longitude":-95.867341,
+    "iso:country":"US",
+    "sg:address":"915 N 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4017",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.loesshills.redcross.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s8Aga7EHEwEU5ik9r8dAL_41.270594_-95.867341@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113364,
+    "wof:geomhash":"780218dd9e04846c286fe86e02466e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857023993
+        }
+    ],
+    "wof:id":857023993,
+    "wof:lastmodified":1464113364,
+    "wof:name":"American Red Cross",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -95.867341,
+    41.270594,
+    -95.867341,
+    41.270594
+],
+  "geometry": {"coordinates":[-95.867341,41.270594],"type":"Point"}
+}

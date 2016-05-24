@@ -1,0 +1,85 @@
+{
+  "id": 857029195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.674948,41.971052,-91.674948,41.971052",
+    "geom:latitude":41.971052,
+    "geom:longitude":-91.674948,
+    "iso:country":"US",
+    "sg:address":"431 5th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 6586",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56PkwrMlwzvzF3vl3sUsha_41.971052_-91.674948@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113623,
+    "wof:geomhash":"c02cd8699200a973415408f02ab7a05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857029195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857029195
+        }
+    ],
+    "wof:id":857029195,
+    "wof:lastmodified":1464113623,
+    "wof:name":"H & H Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.674948,
+    41.971052,
+    -91.674948,
+    41.971052
+],
+  "geometry": {"coordinates":[-91.674948,41.971052],"type":"Point"}
+}

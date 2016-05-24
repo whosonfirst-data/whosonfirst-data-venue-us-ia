@@ -1,0 +1,71 @@
+{
+  "id": 856859167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.833769,41.593934,-93.833769,41.593934",
+    "geom:latitude":41.593934,
+    "geom:longitude":-93.833769,
+    "iso:country":"US",
+    "sg:address":"1628 92nd Pl",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 3182",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VWM6MSiM1RnkFXEHwqbTs_41.593934_-93.833769@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105958,
+    "wof:geomhash":"6170ae0af91d0a2cb344150fa3613da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856859167
+        }
+    ],
+    "wof:id":856859167,
+    "wof:lastmodified":1464105958,
+    "wof:name":"Jorgensen Contracting Co",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.833769,
+    41.593934,
+    -93.833769,
+    41.593934
+],
+  "geometry": {"coordinates":[-93.833769,41.593934],"type":"Point"}
+}

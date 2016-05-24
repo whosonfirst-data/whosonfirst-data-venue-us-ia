@@ -1,0 +1,77 @@
+{
+  "id": 856890645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881402,41.261863,-95.881402,41.261863",
+    "geom:latitude":41.261863,
+    "geom:longitude":-95.881402,
+    "iso:country":"US",
+    "sg:address":"2427 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 690 9748",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "installation",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64MgflJSKU1RT6xKB6afR9_41.261863_-95.881402@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107714,
+    "wof:geomhash":"975d21eb42eb047ad4f9a40647aaa31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856890645
+        }
+    ],
+    "wof:id":856890645,
+    "wof:lastmodified":1464107714,
+    "wof:name":"Harmon Glass Doctors",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial",
+        "installation",
+        "glass"
+    ]
+},
+  "bbox": [
+    -95.881402,
+    41.261863,
+    -95.881402,
+    41.261863
+],
+  "geometry": {"coordinates":[-95.88140199999999,41.261863],"type":"Point"}
+}

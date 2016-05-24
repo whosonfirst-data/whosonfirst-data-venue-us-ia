@@ -1,0 +1,71 @@
+{
+  "id": 856965023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.715819,41.958315,-91.715819,41.958315",
+    "geom:latitude":41.958315,
+    "geom:longitude":-91.715819,
+    "iso:country":"US",
+    "sg:address":"3245 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 2223",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dv0dYlxCtassiyEo7HPod_41.958315_-91.715819@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110747,
+    "wof:geomhash":"5df72206491508169ee1839d891d24c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856965023
+        }
+    ],
+    "wof:id":856965023,
+    "wof:lastmodified":1464110747,
+    "wof:name":"Wooden Rainbow",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.715819,
+    41.958315,
+    -91.715819,
+    41.958315
+],
+  "geometry": {"coordinates":[-91.715819,41.958315],"type":"Point"}
+}

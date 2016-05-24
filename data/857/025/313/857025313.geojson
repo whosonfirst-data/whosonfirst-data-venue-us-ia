@@ -1,0 +1,71 @@
+{
+  "id": 857025313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.227792,41.518165,-94.227792,41.518165",
+    "geom:latitude":41.518165,
+    "geom:longitude":-94.227792,
+    "iso:country":"US",
+    "sg:address":"823 State St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4445",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39xxFQCKXRChR5lyrnyHR4_41.518165_-94.227792@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113430,
+    "wof:geomhash":"629ae7bcbe22ab982bbc3c082b5651ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857025313
+        }
+    ],
+    "wof:id":857025313,
+    "wof:lastmodified":1464113430,
+    "wof:name":"First Presbyterian Church",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.227792,
+    41.518165,
+    -94.227792,
+    41.518165
+],
+  "geometry": {"coordinates":[-94.22779199999999,41.518165],"type":"Point"}
+}

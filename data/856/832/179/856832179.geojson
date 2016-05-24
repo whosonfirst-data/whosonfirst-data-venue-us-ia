@@ -1,0 +1,71 @@
+{
+  "id": 856832179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.834175,41.614879,-93.834175,41.614879",
+    "geom:latitude":41.614879,
+    "geom:longitude":-93.834175,
+    "iso:country":"US",
+    "sg:address":"305 US Hwy 6",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 9596",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CIhwr4JfoSAXZP6CHUqYC_41.614879_-93.834175@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104613,
+    "wof:geomhash":"f31661cd18c6b011c9020042c99285be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856832179
+        }
+    ],
+    "wof:id":856832179,
+    "wof:lastmodified":1464104613,
+    "wof:name":"Heartland Tire & Auto Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -93.834175,
+    41.614879,
+    -93.834175,
+    41.614879
+],
+  "geometry": {"coordinates":[-93.834175,41.614879],"type":"Point"}
+}

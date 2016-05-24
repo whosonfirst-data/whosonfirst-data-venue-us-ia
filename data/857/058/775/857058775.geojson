@@ -1,0 +1,74 @@
+{
+  "id": 857058775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.869135,41.261849,-95.869135,41.261849",
+    "geom:latitude":41.261849,
+    "geom:longitude":-95.869135,
+    "iso:country":"US",
+    "sg:address":"1702 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/77369-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 7000",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fYF1RGhqakKzzedCmKcB0_41.261849_-95.869135@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114856,
+    "wof:geomhash":"4a2af79db6a227f952e7f5e8cc5e369e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857058775
+        }
+    ],
+    "wof:id":857058775,
+    "wof:lastmodified":1464114856,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.869135,
+    41.261849,
+    -95.869135,
+    41.261849
+],
+  "geometry": {"coordinates":[-95.869135,41.261849],"type":"Point"}
+}

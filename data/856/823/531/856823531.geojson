@@ -1,0 +1,73 @@
+{
+  "id": 856823531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.787017,42.228614,-95.787017,42.228614",
+    "geom:latitude":42.228614,
+    "geom:longitude":-95.787017,
+    "iso:country":"US",
+    "sg:address":"3267 Osceola Ave",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 883 2227",
+    "sg:postcode":"51034",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uG09PBlyhF5pgwr1De4Ln_42.228614_-95.787017@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104244,
+    "wof:geomhash":"46de6fa90269813779a8f96d23d2e8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856823531
+        }
+    ],
+    "wof:id":856823531,
+    "wof:lastmodified":1464104244,
+    "wof:name":"Nielsen Electric Motor Repair",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.787017,
+    42.228614,
+    -95.787017,
+    42.228614
+],
+  "geometry": {"coordinates":[-95.78701700000001,42.228614],"type":"Point"}
+}

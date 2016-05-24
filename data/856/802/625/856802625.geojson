@@ -1,0 +1,73 @@
+{
+  "id": 856802625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.65318,41.983392,-91.65318,41.983392",
+    "geom:latitude":41.983392,
+    "geom:longitude":-91.65318,
+    "iso:country":"US",
+    "sg:address":"1247 4th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 862 2313",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KMFvkskty6riEWvzyXKjV_41.983392_-91.653180@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103305,
+    "wof:geomhash":"878613871a9e1e528a787abcb90b14df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":856802625
+        }
+    ],
+    "wof:id":856802625,
+    "wof:lastmodified":1464103305,
+    "wof:name":"LEAF",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -91.65318,
+    41.983392,
+    -91.65318,
+    41.983392
+],
+  "geometry": {"coordinates":[-91.65318000000001,41.983392],"type":"Point"}
+}

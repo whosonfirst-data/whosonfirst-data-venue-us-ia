@@ -1,0 +1,71 @@
+{
+  "id": 856968041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.742392,41.971624,-91.742392,41.971624",
+    "geom:latitude":41.971624,
+    "geom:longitude":-91.742392,
+    "iso:country":"US",
+    "sg:address":"5411 Gordon Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 0012",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61VFK9hUce6CPfassNaS9m_41.971624_-91.742392@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110867,
+    "wof:geomhash":"d81fb38431ccfa0cfea42dbcc5b035d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856968041
+        }
+    ],
+    "wof:id":856968041,
+    "wof:lastmodified":1464110867,
+    "wof:name":"Schmidt Enterprises",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.742392,
+    41.971624,
+    -91.742392,
+    41.971624
+],
+  "geometry": {"coordinates":[-91.742392,41.971624],"type":"Point"}
+}

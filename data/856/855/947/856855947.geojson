@@ -1,0 +1,69 @@
+{
+  "id": 856855947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.563651,41.361357,-93.563651,41.361357",
+    "geom:latitude":41.361357,
+    "geom:longitude":-93.563651,
+    "iso:country":"US",
+    "sg:address":"200 N B St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 8411",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Fi9qEC5VCOwNOzco37mR_41.361357_-93.563651@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105796,
+    "wof:geomhash":"2ad943e93d532c1a5fea181167b924fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856855947
+        }
+    ],
+    "wof:id":856855947,
+    "wof:lastmodified":1464105796,
+    "wof:name":"Dental Professional Office",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.563651,
+    41.361357,
+    -93.563651,
+    41.361357
+],
+  "geometry": {"coordinates":[-93.56365099999999,41.361357],"type":"Point"}
+}

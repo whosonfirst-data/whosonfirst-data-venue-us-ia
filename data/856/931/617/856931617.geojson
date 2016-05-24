@@ -1,0 +1,71 @@
+{
+  "id": 856931617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.01989,41.61717,-94.01989,41.61717",
+    "geom:latitude":41.61717,
+    "geom:longitude":-94.01989,
+    "iso:country":"US",
+    "sg:address":"905 Main St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 1800",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SwCDxYqHcJvD9NaJxk6BT_41.617170_-94.019890@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109305,
+    "wof:geomhash":"f678ff0d0eb948967e134a8c80a316cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856931617
+        }
+    ],
+    "wof:id":856931617,
+    "wof:lastmodified":1464109305,
+    "wof:name":"Family Psychological Svc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -94.01989,
+    41.61717,
+    -94.01989,
+    41.61717
+],
+  "geometry": {"coordinates":[-94.01989,41.61717],"type":"Point"}
+}

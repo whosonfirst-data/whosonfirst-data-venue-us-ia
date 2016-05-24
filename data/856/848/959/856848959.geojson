@@ -1,0 +1,71 @@
+{
+  "id": 856848959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.604756,42.020502,-91.604756,42.020502",
+    "geom:latitude":42.020502,
+    "geom:longitude":-91.604756,
+    "iso:country":"US",
+    "sg:address":"245 Grand Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 6415",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20rvqbPMjuHqU8AwTkkbpv_42.020502_-91.604756@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105466,
+    "wof:geomhash":"eef9bbadeec97af3185ee0e295d58a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856848959
+        }
+    ],
+    "wof:id":856848959,
+    "wof:lastmodified":1464105466,
+    "wof:name":"M & S O'Connell Painting",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.604756,
+    42.020502,
+    -91.604756,
+    42.020502
+],
+  "geometry": {"coordinates":[-91.60475599999999,42.020502],"type":"Point"}
+}

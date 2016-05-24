@@ -1,0 +1,73 @@
+{
+  "id": 856796343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.816581,41.582149,-93.816581,41.582149",
+    "geom:latitude":41.582149,
+    "geom:longitude":-93.816581,
+    "iso:country":"US",
+    "sg:address":"7929 Ashworth Rd",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 327 8664",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tour",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LkUKao81o2igQ1kCMT5Uo_41.582149_-93.816581@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103034,
+    "wof:geomhash":"dc95184492b01d20e3e0b2e49ea66bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856796343
+        }
+    ],
+    "wof:id":856796343,
+    "wof:lastmodified":1464103034,
+    "wof:name":"Burt Marketing Inc",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "package"
+    ]
+},
+  "bbox": [
+    -93.816581,
+    41.582149,
+    -93.816581,
+    41.582149
+],
+  "geometry": {"coordinates":[-93.816581,41.582149],"type":"Point"}
+}

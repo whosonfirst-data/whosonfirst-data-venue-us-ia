@@ -1,0 +1,73 @@
+{
+  "id": 856948503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105077,41.838566,-94.105077,41.838566",
+    "geom:latitude":41.838566,
+    "geom:longitude":-94.105077,
+    "iso:country":"US",
+    "sg:address":"1208 Willis Ave",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 7883",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53XbTuSDcASFkKfjZvKMPd_41.838566_-94.105077@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110016,
+    "wof:geomhash":"a8683a9b15800d78055f45611021daef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856948503
+        }
+    ],
+    "wof:id":856948503,
+    "wof:lastmodified":1464110016,
+    "wof:name":"Cellular Connect",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -94.105077,
+    41.838566,
+    -94.105077,
+    41.838566
+],
+  "geometry": {"coordinates":[-94.10507699999999,41.838566],"type":"Point"}
+}

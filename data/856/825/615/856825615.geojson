@@ -1,0 +1,68 @@
+{
+  "id": 856825615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.625688,41.525461,-93.625688,41.525461",
+    "geom:latitude":41.525461,
+    "geom:longitude":-93.625688,
+    "iso:country":"US",
+    "sg:address":"6410 SW 9th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 287 3750",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d7WTFvOj1YVD7DQ3mDbVV_41.525461_-93.625688@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104331,
+    "wof:geomhash":"5107b5d95026a7fbc46319e82bf74d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896419,
+            "region_id":85688713,
+            "venue_id":856825615
+        }
+    ],
+    "wof:id":856825615,
+    "wof:lastmodified":1464104331,
+    "wof:name":"Iowa State Bank",
+    "wof:parent_id":85896419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.625688,
+    41.525461,
+    -93.625688,
+    41.525461
+],
+  "geometry": {"coordinates":[-93.625688,41.525461],"type":"Point"}
+}

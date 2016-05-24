@@ -1,0 +1,68 @@
+{
+  "id": 857067293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.668062,41.978426,-91.668062,41.978426",
+    "geom:latitude":41.978426,
+    "geom:longitude":-91.668062,
+    "iso:country":"US",
+    "sg:address":"112 Second St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0275",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NveY4YQAe08IdANAfJ1QP_41.978426_-91.668062@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115197,
+    "wof:geomhash":"8738cf9c5462a5cbd580995bcaa3ef61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857067293
+        }
+    ],
+    "wof:id":857067293,
+    "wof:lastmodified":1464115197,
+    "wof:name":"Red's Public House",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.668062,
+    41.978426,
+    -91.668062,
+    41.978426
+],
+  "geometry": {"coordinates":[-91.66806200000001,41.978426],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856906027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.702983,41.962666,-91.702983,41.962666",
+    "geom:latitude":41.962666,
+    "geom:longitude":-91.702983,
+    "iso:country":"US",
+    "sg:address":"2029 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 247 2886",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vK2MXephWKtWdkIlZ6hyc_41.962666_-91.702983@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108268,
+    "wof:geomhash":"782c33d13c0b3b88c3ac9e7a80486bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856906027
+        }
+    ],
+    "wof:id":856906027,
+    "wof:lastmodified":1464108268,
+    "wof:name":"Auto Max",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.702983,
+    41.962666,
+    -91.702983,
+    41.962666
+],
+  "geometry": {"coordinates":[-91.702983,41.962666],"type":"Point"}
+}

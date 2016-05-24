@@ -1,0 +1,71 @@
+{
+  "id": 856991001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.561005,41.358389,-93.561005,41.358389",
+    "geom:latitude":41.358389,
+    "geom:longitude":-93.561005,
+    "iso:country":"US",
+    "sg:address":"106 W 2nd Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 7010",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Brs76MnYZUlrz5tfeROm7_41.358389_-93.561005@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112016,
+    "wof:geomhash":"8f7d0cb1aa9e51ca28ab61e04cbedc66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856991001
+        }
+    ],
+    "wof:id":856991001,
+    "wof:lastmodified":1464112016,
+    "wof:name":"Champion Motors",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.561005,
+    41.358389,
+    -93.561005,
+    41.358389
+],
+  "geometry": {"coordinates":[-93.56100499999999,41.358389],"type":"Point"}
+}

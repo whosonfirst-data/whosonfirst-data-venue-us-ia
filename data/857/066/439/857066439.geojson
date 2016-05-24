@@ -1,0 +1,73 @@
+{
+  "id": 857066439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662598,41.980701,-91.662598,41.980701",
+    "geom:latitude":41.980701,
+    "geom:longitude":-91.662598,
+    "iso:country":"US",
+    "sg:address":"616 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 9439",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TvrVwWx3QIsf6dNNtbThC_41.980701_-91.662598@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115151,
+    "wof:geomhash":"e447d011edb3649dc7936189fead3858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066439
+        }
+    ],
+    "wof:id":857066439,
+    "wof:lastmodified":1464115151,
+    "wof:name":"Cognac Club",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -91.662598,
+    41.980701,
+    -91.662598,
+    41.980701
+],
+  "geometry": {"coordinates":[-91.662598,41.980701],"type":"Point"}
+}

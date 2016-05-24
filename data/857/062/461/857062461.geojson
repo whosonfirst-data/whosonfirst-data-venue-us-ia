@@ -1,0 +1,71 @@
+{
+  "id": 857062461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.861298,41.2654,-95.861298,41.2654",
+    "geom:latitude":41.2654,
+    "geom:longitude":-95.861298,
+    "iso:country":"US",
+    "sg:address":"1110 Avenue D",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0654",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AnWBksOZYjOL0JM8e547Y_41.265400_-95.861298@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115004,
+    "wof:geomhash":"fa1302ce725860308230ace3db694aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062461
+        }
+    ],
+    "wof:id":857062461,
+    "wof:lastmodified":1464115004,
+    "wof:name":"Alan's Carpet & Floors",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -95.861298,
+    41.2654,
+    -95.861298,
+    41.2654
+],
+  "geometry": {"coordinates":[-95.86129800000001,41.2654],"type":"Point"}
+}

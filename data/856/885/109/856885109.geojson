@@ -1,0 +1,73 @@
+{
+  "id": 856885109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.612265,41.23248,-95.612265,41.23248",
+    "geom:latitude":41.23248,
+    "geom:longitude":-95.612265,
+    "iso:country":"US",
+    "sg:address":"31 E Main St",
+    "sg:city":"Treynor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 487 3636",
+    "sg:postcode":"51575",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bdD6DmuJukxD4MaX6OAqz_41.232480_-95.612265@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107473,
+    "wof:geomhash":"bb58c4fc1ce9d2e1cc2d93f27c1feb98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856885109
+        }
+    ],
+    "wof:id":856885109,
+    "wof:lastmodified":1464107473,
+    "wof:name":"Ridge Family Practice",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.612265,
+    41.23248,
+    -95.612265,
+    41.23248
+],
+  "geometry": {"coordinates":[-95.61226499999999,41.23248],"type":"Point"}
+}

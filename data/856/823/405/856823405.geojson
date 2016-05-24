@@ -1,0 +1,75 @@
+{
+  "id": 856823405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.284199,42.533029,-96.284199,42.533029",
+    "geom:latitude":42.533029,
+    "geom:longitude":-96.284199,
+    "iso:country":"US",
+    "sg:address":"1612 120th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 2721",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_142yVLX1CxnoAXhBrJn3yA_42.533029_-96.284199@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104239,
+    "wof:geomhash":"f46a00b1c4562b62144732ce21d3e36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856823405
+        }
+    ],
+    "wof:id":856823405,
+    "wof:lastmodified":1464104239,
+    "wof:name":"Caveat Emptor Inc",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -96.284199,
+    42.533029,
+    -96.284199,
+    42.533029
+],
+  "geometry": {"coordinates":[-96.284199,42.533029],"type":"Point"}
+}

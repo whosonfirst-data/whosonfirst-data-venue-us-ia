@@ -1,0 +1,67 @@
+{
+  "id": 856844381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.3736,42.489721,-96.3736,42.489721",
+    "geom:latitude":42.489721,
+    "geom:longitude":-96.3736,
+    "iso:country":"US",
+    "sg:address":"2800 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 276 1451",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:website":"www.dot.state.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rEZxUXNUNiONLLF7Ad6j9_42.489721_-96.373600@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105203,
+    "wof:geomhash":"47de7a54eaf0614059dc3cbc1c5b4012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856844381
+        }
+    ],
+    "wof:id":856844381,
+    "wof:lastmodified":1464105203,
+    "wof:name":"Ia Dept Of Transportation",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.3736,
+    42.489721,
+    -96.3736,
+    42.489721
+],
+  "geometry": {"coordinates":[-96.3736,42.489721],"type":"Point"}
+}

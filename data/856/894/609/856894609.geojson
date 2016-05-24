@@ -1,0 +1,75 @@
+{
+  "id": 856894609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.503217,41.562496,-91.503217,41.562496",
+    "geom:latitude":41.562496,
+    "geom:longitude":-91.503217,
+    "iso:country":"US",
+    "sg:address":"5096 Sand Rd SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 2036",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "conference",
+        "consultant",
+        "meeting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lbrr6AFQtRPZQ1ObPmDLa_41.562496_-91.503217@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107853,
+    "wof:geomhash":"25518414e6d644a3db071456209767be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856894609
+        }
+    ],
+    "wof:id":856894609,
+    "wof:lastmodified":1464107853,
+    "wof:name":"Barnes Management",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conference",
+        "consultant",
+        "meeting"
+    ]
+},
+  "bbox": [
+    -91.503217,
+    41.562496,
+    -91.503217,
+    41.562496
+],
+  "geometry": {"coordinates":[-91.50321700000001,41.562496],"type":"Point"}
+}

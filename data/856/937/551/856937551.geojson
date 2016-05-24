@@ -1,0 +1,71 @@
+{
+  "id": 856937551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.339412,41.476988,-95.339412,41.476988",
+    "geom:latitude":41.476988,
+    "geom:longitude":-95.339412,
+    "iso:country":"US",
+    "sg:address":"101 N Elm St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 5433",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HnxlRKyEHWRlyDWjWh3hk_41.476988_-95.339412@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109540,
+    "wof:geomhash":"47760337198dfc0117db4f3de13afafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856937551
+        }
+    ],
+    "wof:id":856937551,
+    "wof:lastmodified":1464109540,
+    "wof:name":"Crossroads Church",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.339412,
+    41.476988,
+    -95.339412,
+    41.476988
+],
+  "geometry": {"coordinates":[-95.339412,41.476988],"type":"Point"}
+}

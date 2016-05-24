@@ -1,0 +1,71 @@
+{
+  "id": 856849495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.462857,42.105794,-91.462857,42.105794",
+    "geom:latitude":42.105794,
+    "geom:longitude":-91.462857,
+    "iso:country":"US",
+    "sg:address":"3224 Whittier Rd",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7529",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uOwFisnlNwRZVw3RbKJYI_42.105794_-91.462857@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105496,
+    "wof:geomhash":"3f9f7fdc03c0ebd2f247d28bc643f1d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856849495
+        }
+    ],
+    "wof:id":856849495,
+    "wof:lastmodified":1464105496,
+    "wof:name":"Ross Merchandise Exchange",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -91.462857,
+    42.105794,
+    -91.462857,
+    42.105794
+],
+  "geometry": {"coordinates":[-91.462857,42.105794],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857063103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.869198,41.232923,-95.869198,41.232923",
+    "geom:latitude":41.232923,
+    "geom:longitude":-95.869198,
+    "iso:country":"US",
+    "sg:address":"1705 S 29th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 1500",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JK5VG2C8FVz7JnXZh4et5_41.232923_-95.869198@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115025,
+    "wof:geomhash":"7d3a400d196525b5f3b38dac954c988f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063103
+        }
+    ],
+    "wof:id":857063103,
+    "wof:lastmodified":1464115025,
+    "wof:name":"Leazenby Construction",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.869198,
+    41.232923,
+    -95.869198,
+    41.232923
+],
+  "geometry": {"coordinates":[-95.869198,41.232923],"type":"Point"}
+}

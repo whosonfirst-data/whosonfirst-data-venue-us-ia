@@ -1,0 +1,77 @@
+{
+  "id": 856811803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528692,41.655514,-91.528692,41.655514",
+    "geom:latitude":41.655514,
+    "geom:longitude":-91.528692,
+    "iso:country":"US",
+    "sg:address":"412 S Van Buren St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 7671",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kwPOvZszd1Ofn1bcehW4k_41.655514_-91.528692@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103707,
+    "wof:geomhash":"4e39fea5cd93932fe6ca406f3765a5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856811803
+        }
+    ],
+    "wof:id":856811803,
+    "wof:lastmodified":1464103707,
+    "wof:name":"Nick's Body Shop",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.528692,
+    41.655514,
+    -91.528692,
+    41.655514
+],
+  "geometry": {"coordinates":[-91.52869200000001,41.655514],"type":"Point"}
+}

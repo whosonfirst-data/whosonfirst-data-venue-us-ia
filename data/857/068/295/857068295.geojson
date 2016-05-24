@@ -1,0 +1,85 @@
+{
+  "id": 857068295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.625397,42.027802,-91.625397,42.027802",
+    "geom:latitude":42.027802,
+    "geom:longitude":-91.625397,
+    "iso:country":"US",
+    "sg:address":"200 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 1111",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "party",
+        "planning",
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rD7pE3smNrXLfHTQ7HrEw_42.027802_-91.625397@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115252,
+    "wof:geomhash":"9e0c8c7c0ce3187de11e6e9d91313957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068295
+        }
+    ],
+    "wof:id":857068295,
+    "wof:lastmodified":1464115252,
+    "wof:name":"Play Station the",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -91.625397,
+    42.027802,
+    -91.625397,
+    42.027802
+],
+  "geometry": {"coordinates":[-91.62539700000001,42.027802],"type":"Point"}
+}

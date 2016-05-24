@@ -1,0 +1,71 @@
+{
+  "id": 857068705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645443,41.991839,-91.645443,41.991839",
+    "geom:latitude":41.991839,
+    "geom:longitude":-91.645443,
+    "iso:country":"US",
+    "sg:address":"1847 1st Ave SE Apt 3",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 981 7606",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4481gG21Q8SiZkFd0j7r0E_41.991839_-91.645443@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115277,
+    "wof:geomhash":"48d04e4ee75271ff99b5e4d2ffcb5251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068705
+        }
+    ],
+    "wof:id":857068705,
+    "wof:lastmodified":1464115277,
+    "wof:name":"Andrew's Construction",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.645443,
+    41.991839,
+    -91.645443,
+    41.991839
+],
+  "geometry": {"coordinates":[-91.645443,41.991839],"type":"Point"}
+}

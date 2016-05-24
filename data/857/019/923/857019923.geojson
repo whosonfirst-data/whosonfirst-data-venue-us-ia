@@ -1,0 +1,71 @@
+{
+  "id": 857019923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858395,41.363676,-95.858395,41.363676",
+    "geom:latitude":41.363676,
+    "geom:longitude":-95.858395,
+    "iso:country":"US",
+    "sg:address":"730 Old Lincoln Hwy",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3501",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UcaStcuTSIcD7Rn5KcuiX_41.363676_-95.858395@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113191,
+    "wof:geomhash":"34ec5f25f40bbdf537f9c1ef2cf2319c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857019923
+        }
+    ],
+    "wof:id":857019923,
+    "wof:lastmodified":1464113191,
+    "wof:name":"Transplace",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -95.858395,
+    41.363676,
+    -95.858395,
+    41.363676
+],
+  "geometry": {"coordinates":[-95.858395,41.363676],"type":"Point"}
+}

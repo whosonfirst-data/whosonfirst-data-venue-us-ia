@@ -1,0 +1,67 @@
+{
+  "id": 857071167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7342,41.968201,-91.7342,41.968201",
+    "geom:latitude":41.968201,
+    "geom:longitude":-91.7342,
+    "iso:country":"US",
+    "sg:address":"4910 Johnson Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 4206",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:website":"www.johnsautomotiveservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NZywshpQ0CYga9zvVmQk4_41.968201_-91.734200@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115381,
+    "wof:geomhash":"e7e96628a871f5054444f9a7badb05ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071167
+        }
+    ],
+    "wof:id":857071167,
+    "wof:lastmodified":1464115381,
+    "wof:name":"John's Automotive Service",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7342,
+    41.968201,
+    -91.7342,
+    41.968201
+],
+  "geometry": {"coordinates":[-91.7342,41.968201],"type":"Point"}
+}

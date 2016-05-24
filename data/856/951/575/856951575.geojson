@@ -1,0 +1,71 @@
+{
+  "id": 856951575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.421171,41.234547,-95.421171,41.234547",
+    "geom:latitude":41.234547,
+    "geom:longitude":-95.421171,
+    "iso:country":"US",
+    "sg:address":"202 S Central St",
+    "sg:city":"Carson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 484 2208",
+    "sg:postcode":"51525",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B7R9JZU7CxqAR35Qq76Vp_41.234547_-95.421171@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110147,
+    "wof:geomhash":"4b7e6eda459f284c5999b2a0156495f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856951575
+        }
+    ],
+    "wof:id":856951575,
+    "wof:lastmodified":1464110147,
+    "wof:name":"Carson Presbyterian Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.421171,
+    41.234547,
+    -95.421171,
+    41.234547
+],
+  "geometry": {"coordinates":[-95.421171,41.234547],"type":"Point"}
+}

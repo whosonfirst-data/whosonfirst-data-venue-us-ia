@@ -1,0 +1,73 @@
+{
+  "id": 857071393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.704803,41.974499,-91.704803,41.974499",
+    "geom:latitude":41.974499,
+    "geom:longitude":-91.704803,
+    "iso:country":"US",
+    "sg:address":"PO Box 8024",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 6959",
+    "sg:postcode":"52408",
+    "sg:province":"IA",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v40rkSihG3HFQKC3aBPXX_41.974499_-91.704803@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115393,
+    "wof:geomhash":"801db5233a49e6e3075266e5ca9cfeaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857071393
+        }
+    ],
+    "wof:id":857071393,
+    "wof:lastmodified":1464115393,
+    "wof:name":"Bankers Bonded Services Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -91.704803,
+    41.974499,
+    -91.704803,
+    41.974499
+],
+  "geometry": {"coordinates":[-91.704803,41.974499],"type":"Point"}
+}

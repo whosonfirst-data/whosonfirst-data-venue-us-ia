@@ -1,0 +1,73 @@
+{
+  "id": 856963531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860452,41.259013,-95.860452,41.259013",
+    "geom:latitude":41.259013,
+    "geom:longitude":-95.860452,
+    "iso:country":"US",
+    "sg:address":"230 S 11th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3131",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "fabricated",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dfBQHrV2YljLijXy42Dz6_41.259013_-95.860452@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110685,
+    "wof:geomhash":"dbd6857dcb32c5de05d1cb5db47cf908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856963531
+        }
+    ],
+    "wof:id":856963531,
+    "wof:lastmodified":1464110685,
+    "wof:name":"Katelman Foundry Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricated",
+        "structural"
+    ]
+},
+  "bbox": [
+    -95.860452,
+    41.259013,
+    -95.860452,
+    41.259013
+],
+  "geometry": {"coordinates":[-95.860452,41.259013],"type":"Point"}
+}

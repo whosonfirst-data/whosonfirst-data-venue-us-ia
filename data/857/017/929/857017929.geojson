@@ -1,0 +1,83 @@
+{
+  "id": 857017929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.675063,41.974914,-91.675063,41.974914",
+    "geom:latitude":41.974914,
+    "geom:longitude":-91.675063,
+    "iso:country":"US",
+    "sg:address":"121 3rd St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 0294",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6StNeKmFN7yVwh78wDEL3r_41.974914_-91.675063@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113116,
+    "wof:geomhash":"fd9651136e56875c6cc2cda08f39ee47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857017929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857017929
+        }
+    ],
+    "wof:id":857017929,
+    "wof:lastmodified":1464113116,
+    "wof:name":"King Smith & Boresi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.675063,
+    41.974914,
+    -91.675063,
+    41.974914
+],
+  "geometry": {"coordinates":[-91.67506299999999,41.974914],"type":"Point"}
+}

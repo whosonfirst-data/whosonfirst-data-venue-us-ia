@@ -1,0 +1,71 @@
+{
+  "id": 856799065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623658,42.068236,-91.623658,42.068236",
+    "geom:latitude":42.068236,
+    "geom:longitude":-91.623658,
+    "iso:country":"US",
+    "sg:address":"4505 Lyons Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1409",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "soccer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ogh8haaokTeq5HWazEYZ1_42.068236_-91.623658@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103163,
+    "wof:geomhash":"d8c6e0e924fa9196c187ad16b2879695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856799065
+        }
+    ],
+    "wof:id":856799065,
+    "wof:lastmodified":1464103163,
+    "wof:name":"American Youth Soccer Orgnztn",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer"
+    ]
+},
+  "bbox": [
+    -91.623658,
+    42.068236,
+    -91.623658,
+    42.068236
+],
+  "geometry": {"coordinates":[-91.62365800000001,42.068236],"type":"Point"}
+}

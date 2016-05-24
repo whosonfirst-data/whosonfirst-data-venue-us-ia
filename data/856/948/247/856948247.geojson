@@ -1,0 +1,71 @@
+{
+  "id": 856948247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.105089,41.840314,-94.105089,41.840314",
+    "geom:latitude":41.840314,
+    "geom:longitude":-94.105089,
+    "iso:country":"US",
+    "sg:address":"1224 2nd St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 9545",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fxhmHw6aQRjUoSV5v6Z72_41.840314_-94.105089@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110007,
+    "wof:geomhash":"ede5e2019f6d8cddbaf6c502c35bc3ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856948247
+        }
+    ],
+    "wof:id":856948247,
+    "wof:lastmodified":1464110007,
+    "wof:name":"Juli's Beauty Salon",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.105089,
+    41.840314,
+    -94.105089,
+    41.840314
+],
+  "geometry": {"coordinates":[-94.10508900000001,41.840314],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856923887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.867465,41.276494,-95.867465,41.276494",
+    "geom:latitude":41.276494,
+    "geom:longitude":-95.867465,
+    "iso:country":"US",
+    "sg:address":"1700 N 16th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 2280",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bg7OijtskPjEwnlysTpxW_41.276494_-95.867465@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108997,
+    "wof:geomhash":"cc64786d60833c65ab18ab47318db253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856923887
+        }
+    ],
+    "wof:id":856923887,
+    "wof:lastmodified":1464108997,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.867465,
+    41.276494,
+    -95.867465,
+    41.276494
+],
+  "geometry": {"coordinates":[-95.867465,41.276494],"type":"Point"}
+}

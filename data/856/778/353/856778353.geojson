@@ -1,0 +1,75 @@
+{
+  "id": 856778353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667721,42.034709,-91.667721,42.034709",
+    "geom:latitude":42.034709,
+    "geom:longitude":-91.667721,
+    "iso:country":"US",
+    "sg:address":"1961 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 3304",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0atEXbKIY5cfj9zZPC7qxi_42.034709_-91.667721@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102397,
+    "wof:geomhash":"af11abbcf44e921adfc4fc73af5056a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856778353
+        }
+    ],
+    "wof:id":856778353,
+    "wof:lastmodified":1464102397,
+    "wof:name":"Nevada Bob's",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.667721,
+    42.034709,
+    -91.667721,
+    42.034709
+],
+  "geometry": {"coordinates":[-91.667721,42.034709],"type":"Point"}
+}

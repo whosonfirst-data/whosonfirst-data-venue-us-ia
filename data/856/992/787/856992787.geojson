@@ -1,0 +1,71 @@
+{
+  "id": 856992787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.733504,42.080752,-91.733504,42.080752",
+    "geom:latitude":42.080752,
+    "geom:longitude":-91.733504,
+    "iso:country":"US",
+    "sg:address":"10304 Hawks Haven Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 9234",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O9AgJnvf9hW1GgEm8ciAH_42.080752_-91.733504@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112098,
+    "wof:geomhash":"ca1b382db9d28c55494ea31503b00837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856992787
+        }
+    ],
+    "wof:id":856992787,
+    "wof:lastmodified":1464112098,
+    "wof:name":"Schneider Construction",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.733504,
+    42.080752,
+    -91.733504,
+    42.080752
+],
+  "geometry": {"coordinates":[-91.733504,42.080752],"type":"Point"}
+}

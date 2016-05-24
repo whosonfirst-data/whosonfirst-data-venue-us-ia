@@ -1,0 +1,73 @@
+{
+  "id": 856819673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.489303,41.641544,-93.489303,41.641544",
+    "geom:latitude":41.641544,
+    "geom:longitude":-93.489303,
+    "iso:country":"US",
+    "sg:address":"1011 Waterbury Cir",
+    "sg:city":"Altoona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 967 7963",
+    "sg:postcode":"50009",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944133,
+        102086603,
+        85896311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JIsWylNhnCVEJUmg6odAX_41.641544_-93.489303@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104048,
+    "wof:geomhash":"d851ae9611029911fee888f2a475d0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944133,
+            "neighbourhood_id":85896311,
+            "region_id":85688713,
+            "venue_id":856819673
+        }
+    ],
+    "wof:id":856819673,
+    "wof:lastmodified":1464104048,
+    "wof:name":"Michaels Maintenance",
+    "wof:parent_id":85896311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -93.489303,
+    41.641544,
+    -93.489303,
+    41.641544
+],
+  "geometry": {"coordinates":[-93.48930300000001,41.641544],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856838969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.135305,42.457871,-96.135305,42.457871",
+    "geom:latitude":42.457871,
+    "geom:longitude":-96.135305,
+    "iso:country":"US",
+    "sg:address":"2430 170th St",
+    "sg:city":"Lawton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 5518",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RacoXUqen3jjQqDtA3RhZ_42.457871_-96.135305@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104960,
+    "wof:geomhash":"d4b122c85f2107a6d86fb20155b03098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856838969
+        }
+    ],
+    "wof:id":856838969,
+    "wof:lastmodified":1464104960,
+    "wof:name":"Evernham Farms",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.135305,
+    42.457871,
+    -96.135305,
+    42.457871
+],
+  "geometry": {"coordinates":[-96.135305,42.457871],"type":"Point"}
+}

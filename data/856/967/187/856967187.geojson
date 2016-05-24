@@ -1,0 +1,73 @@
+{
+  "id": 856967187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.403529,42.508392,-96.403529,42.508392",
+    "geom:latitude":42.508392,
+    "geom:longitude":-96.403529,
+    "iso:country":"US",
+    "sg:address":"1716 Nebraska St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 1972",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mkQw8CcJEOIC5YWsHLTR3_42.508392_-96.403529@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110832,
+    "wof:geomhash":"66e347d955c90bbe4f3de4d56a1df106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856967187
+        }
+    ],
+    "wof:id":856967187,
+    "wof:lastmodified":1464110832,
+    "wof:name":"Smith Apartments",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.403529,
+    42.508392,
+    -96.403529,
+    42.508392
+],
+  "geometry": {"coordinates":[-96.40352900000001,42.508392],"type":"Point"}
+}

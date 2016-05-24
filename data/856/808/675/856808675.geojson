@@ -1,0 +1,71 @@
+{
+  "id": 856808675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.366933,42.42577,-96.366933,42.42577",
+    "geom:latitude":42.42577,
+    "geom:longitude":-96.366933,
+    "iso:country":"US",
+    "sg:address":"4700 S Lewis Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 8814",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vW35Dn8qDMpqt2TvDtGCq_42.425770_-96.366933@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103572,
+    "wof:geomhash":"f13fce2d1d5ba80474d4ff60761c8575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856808675
+        }
+    ],
+    "wof:id":856808675,
+    "wof:lastmodified":1464103572,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -96.366933,
+    42.42577,
+    -96.366933,
+    42.42577
+],
+  "geometry": {"coordinates":[-96.366933,42.42577],"type":"Point"}
+}

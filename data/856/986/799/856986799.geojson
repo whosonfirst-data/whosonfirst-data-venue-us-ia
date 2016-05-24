@@ -1,0 +1,68 @@
+{
+  "id": 856986799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.404871,42.495084,-96.404871,42.495084",
+    "geom:latitude":42.495084,
+    "geom:longitude":-96.404871,
+    "iso:country":"US",
+    "sg:address":"414 Pierce St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 0125",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CSH8uspWoztO2UFLOg6sE_42.495084_-96.404871@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111823,
+    "wof:geomhash":"fda6cb8eb25d7736560b98c32d2e82af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856986799
+        }
+    ],
+    "wof:id":856986799,
+    "wof:lastmodified":1464111823,
+    "wof:name":"Sportsman's Inc Sporting Goods",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.404871,
+    42.495084,
+    -96.404871,
+    42.495084
+],
+  "geometry": {"coordinates":[-96.404871,42.495084],"type":"Point"}
+}

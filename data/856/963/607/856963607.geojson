@@ -1,0 +1,71 @@
+{
+  "id": 856963607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.529689,42.199232,-91.529689,42.199232",
+    "geom:latitude":42.199232,
+    "geom:longitude":-91.529689,
+    "iso:country":"US",
+    "sg:address":"9 South Ave",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 6617",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tw6v6eFp8TSbUH7xfz7eC_42.199232_-91.529689@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110688,
+    "wof:geomhash":"5aac110a2a34308c138cf0d6a3c17254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856963607
+        }
+    ],
+    "wof:id":856963607,
+    "wof:lastmodified":1464110688,
+    "wof:name":"Country Store Jack & Jill",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.529689,
+    42.199232,
+    -91.529689,
+    42.199232
+],
+  "geometry": {"coordinates":[-91.529689,42.199232],"type":"Point"}
+}

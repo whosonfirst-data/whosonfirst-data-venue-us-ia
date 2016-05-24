@@ -1,0 +1,73 @@
+{
+  "id": 856810105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.823544,41.861143,-93.823544,41.861143",
+    "geom:latitude":41.861143,
+    "geom:longitude":-93.823544,
+    "iso:country":"US",
+    "sg:address":"1253 Zook Spur Rd",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 795 2750",
+    "sg:postcode":"50156",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PV9jHUsITvFU7bDo1Fetx_41.861143_-93.823544@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103641,
+    "wof:geomhash":"7cfd42734ebb2d8d90950f8be72c6bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856810105
+        }
+    ],
+    "wof:id":856810105,
+    "wof:lastmodified":1464103641,
+    "wof:name":"Henry's Building & Remodeling",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "designer"
+    ]
+},
+  "bbox": [
+    -93.823544,
+    41.861143,
+    -93.823544,
+    41.861143
+],
+  "geometry": {"coordinates":[-93.823544,41.861143],"type":"Point"}
+}

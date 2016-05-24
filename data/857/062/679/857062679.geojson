@@ -1,0 +1,66 @@
+{
+  "id": 857062679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902031,41.262947,-95.902031,41.262947",
+    "geom:latitude":41.262947,
+    "geom:longitude":-95.902031,
+    "iso:country":"US",
+    "sg:address":"3500 Avenue A",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 7338",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BTDH6fRbp4nmn6paH5C36_41.262947_-95.902031@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115011,
+    "wof:geomhash":"6f53584d900620fe8da7648d3a173bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062679
+        }
+    ],
+    "wof:id":857062679,
+    "wof:lastmodified":1464115011,
+    "wof:name":"G's 66",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.902031,
+    41.262947,
+    -95.902031,
+    41.262947
+],
+  "geometry": {"coordinates":[-95.90203099999999,41.262947],"type":"Point"}
+}

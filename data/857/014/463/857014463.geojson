@@ -1,0 +1,71 @@
+{
+  "id": 857014463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.865945,41.261789,-95.865945,41.261789",
+    "geom:latitude":41.261789,
+    "geom:longitude":-95.865945,
+    "iso:country":"US",
+    "sg:address":"1409 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 0952",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4huaEiuTOOrwTFF357EICG_41.261789_-95.865945@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112962,
+    "wof:geomhash":"1d680bb602207602683d296fbac6f14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857014463
+        }
+    ],
+    "wof:id":857014463,
+    "wof:lastmodified":1464112962,
+    "wof:name":"Midwest Drop Auction",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -95.865945,
+    41.261789,
+    -95.865945,
+    41.261789
+],
+  "geometry": {"coordinates":[-95.865945,41.261789],"type":"Point"}
+}

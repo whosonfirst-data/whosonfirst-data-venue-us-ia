@@ -1,0 +1,68 @@
+{
+  "id": 857066191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654099,41.977699,-91.654099,41.977699",
+    "geom:latitude":41.977699,
+    "geom:longitude":-91.654099,
+    "iso:country":"US",
+    "sg:address":"931 8th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8695",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AhMbW10AaP9dj93uuJb9x_41.977699_-91.654099@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115142,
+    "wof:geomhash":"5fa31c4295e3317ee2d64013bfc7f113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857066191
+        }
+    ],
+    "wof:id":857066191,
+    "wof:lastmodified":1464115142,
+    "wof:name":"Abramson Dean A MD",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.654099,
+    41.977699,
+    -91.654099,
+    41.977699
+],
+  "geometry": {"coordinates":[-91.654099,41.977699],"type":"Point"}
+}

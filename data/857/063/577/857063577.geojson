@@ -1,0 +1,85 @@
+{
+  "id": 857063577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.851524,41.254255,-95.851524,41.254255",
+    "geom:latitude":41.254255,
+    "geom:longitude":-95.851524,
+    "iso:country":"US",
+    "sg:address":"805 S Main St Ste 2",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 352 2022",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "beer",
+        "kitchen",
+        "wine",
+        "spirit",
+        "bath"
+    ],
+    "sg:website":"www.kitchenemporiumandwineshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nngMZhtPshosONIXbACXi_41.254255_-95.851524@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115042,
+    "wof:geomhash":"44993894209d677bb6070aadae9afc84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063577
+        }
+    ],
+    "wof:id":857063577,
+    "wof:lastmodified":1464115042,
+    "wof:name":"Kitchen Emporium and Wine Shop",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "kitchen",
+        "wine",
+        "spirit",
+        "bath"
+    ]
+},
+  "bbox": [
+    -95.851524,
+    41.254255,
+    -95.851524,
+    41.254255
+],
+  "geometry": {"coordinates":[-95.851524,41.254255],"type":"Point"}
+}

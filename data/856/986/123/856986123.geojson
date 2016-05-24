@@ -1,0 +1,77 @@
+{
+  "id": 856986123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.546673,41.648929,-91.546673,41.648929",
+    "geom:latitude":41.648929,
+    "geom:longitude":-91.546673,
+    "iso:country":"US",
+    "sg:address":"951 Miller Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 7017",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g4H1MWDk885MqdmzGES7C_41.648929_-91.546673@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111801,
+    "wof:geomhash":"cae2d6fb5853511b19aa340004c617ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":856986123
+        }
+    ],
+    "wof:id":856986123,
+    "wof:lastmodified":1464111801,
+    "wof:name":"Mc Fall's Auto Trim",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -91.546673,
+    41.648929,
+    -91.546673,
+    41.648929
+],
+  "geometry": {"coordinates":[-91.546673,41.648929],"type":"Point"}
+}

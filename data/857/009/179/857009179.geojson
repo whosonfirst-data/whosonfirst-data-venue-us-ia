@@ -1,0 +1,68 @@
+{
+  "id": 857009179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.571339,41.670753,-91.571339,41.670753",
+    "geom:latitude":41.670753,
+    "geom:longitude":-91.571339,
+    "iso:country":"US",
+    "sg:address":"405 2nd St",
+    "sg:city":"Coralville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 8826",
+    "sg:postcode":"52241",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944183,
+        102086417,
+        85896359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oDxOVVLEsCh8xco9epdYY_41.670753_-91.571339@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112746,
+    "wof:geomhash":"d975d62c7d5c585ce09c1d6f18384953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944183,
+            "neighbourhood_id":85896359,
+            "region_id":85688713,
+            "venue_id":857009179
+        }
+    ],
+    "wof:id":857009179,
+    "wof:lastmodified":1464112746,
+    "wof:name":"Beach-Comber's Hair Salon",
+    "wof:parent_id":85896359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.571339,
+    41.670753,
+    -91.571339,
+    41.670753
+],
+  "geometry": {"coordinates":[-91.57133899999999,41.670753],"type":"Point"}
+}

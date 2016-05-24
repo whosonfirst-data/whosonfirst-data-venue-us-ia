@@ -1,0 +1,68 @@
+{
+  "id": 857031611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.598364,41.526251,-93.598364,41.526251",
+    "geom:latitude":41.526251,
+    "geom:longitude":-93.598364,
+    "iso:country":"US",
+    "sg:address":"1211 E Army Post Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 5488",
+    "sg:postcode":"50315",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R7Gdp25fTXT3hMxDveS5q_41.526251_-93.598364@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113730,
+    "wof:geomhash":"70da0e9531613a1559c970a4d6ae7757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":857031611
+        }
+    ],
+    "wof:id":857031611,
+    "wof:lastmodified":1464113730,
+    "wof:name":"Toys R Us",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.598364,
+    41.526251,
+    -93.598364,
+    41.526251
+],
+  "geometry": {"coordinates":[-93.598364,41.526251],"type":"Point"}
+}

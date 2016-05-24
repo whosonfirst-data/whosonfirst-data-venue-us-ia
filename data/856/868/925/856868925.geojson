@@ -1,0 +1,71 @@
+{
+  "id": 856868925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.60886,41.971899,-91.60886,41.971899",
+    "geom:latitude":41.971899,
+    "geom:longitude":-91.60886,
+    "iso:country":"US",
+    "sg:address":"3912 14th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3360",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BTjNAUH9b501is7wOzHNP_41.971899_-91.608860@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106452,
+    "wof:geomhash":"5bd7491c6de3a69f479c0ee68a14cc70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856868925
+        }
+    ],
+    "wof:id":856868925,
+    "wof:lastmodified":1464106452,
+    "wof:name":"Deburn Drywall Systems",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.60886,
+    41.971899,
+    -91.60886,
+    41.971899
+],
+  "geometry": {"coordinates":[-91.60886000000001,41.971899],"type":"Point"}
+}

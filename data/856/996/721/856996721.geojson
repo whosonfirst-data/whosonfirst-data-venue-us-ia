@@ -1,0 +1,71 @@
+{
+  "id": 856996721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684896,42.048968,-91.684896,42.048968",
+    "geom:latitude":42.048968,
+    "geom:longitude":-91.684896,
+    "iso:country":"US",
+    "sg:address":"1055 N Center Point Rd",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 8521",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24xzmswZwiY09jvZBR1QfD_42.048968_-91.684896@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112248,
+    "wof:geomhash":"689e881cc6d5d0bfac555be856cbe191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856996721
+        }
+    ],
+    "wof:id":856996721,
+    "wof:lastmodified":1464112248,
+    "wof:name":"Stephen Broad DDS",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.684896,
+    42.048968,
+    -91.684896,
+    42.048968
+],
+  "geometry": {"coordinates":[-91.68489599999999,42.048968],"type":"Point"}
+}

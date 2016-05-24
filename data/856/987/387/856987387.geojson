@@ -1,0 +1,73 @@
+{
+  "id": 856987387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.03506,41.612322,-94.03506,41.612322",
+    "geom:latitude":41.612322,
+    "geom:longitude":-94.03506,
+    "iso:country":"US",
+    "sg:address":"2300 Greene St",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4558",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "railroad",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QgHkQ1eUrEzrFzEf65imp_41.612322_-94.035060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111850,
+    "wof:geomhash":"de6bb2b4b2b98713ae9d7ec1bb60df47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856987387
+        }
+    ],
+    "wof:id":856987387,
+    "wof:lastmodified":1464111850,
+    "wof:name":"Railroad Contracting & Equip",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.03506,
+    41.612322,
+    -94.03506,
+    41.612322
+],
+  "geometry": {"coordinates":[-94.03506,41.612322],"type":"Point"}
+}

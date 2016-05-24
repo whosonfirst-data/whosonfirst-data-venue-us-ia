@@ -1,0 +1,73 @@
+{
+  "id": 856884209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.866258,42.388197,-95.866258,42.388197",
+    "geom:latitude":42.388197,
+    "geom:longitude":-95.866258,
+    "iso:country":"US",
+    "sg:address":"218 E Main St",
+    "sg:city":"Anthon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 373 5626",
+    "sg:postcode":"51004",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FlEU9gKSDV1GPjec4gFKU_42.388197_-95.866258@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107435,
+    "wof:geomhash":"1330d8023307c2e465681613769b962d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856884209
+        }
+    ],
+    "wof:id":856884209,
+    "wof:lastmodified":1464107435,
+    "wof:name":"Umbach Seed & Feed",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -95.866258,
+    42.388197,
+    -95.866258,
+    42.388197
+],
+  "geometry": {"coordinates":[-95.866258,42.388197],"type":"Point"}
+}

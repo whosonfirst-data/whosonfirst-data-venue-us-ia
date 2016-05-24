@@ -1,0 +1,73 @@
+{
+  "id": 857065971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608803,42.035999,-91.608803,42.035999",
+    "geom:latitude":42.035999,
+    "geom:longitude":-91.608803,
+    "iso:country":"US",
+    "sg:address":"995 2nd St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 7731",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ox0xHuUUbbUnBQfjIciTx_42.035999_-91.608803@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115135,
+    "wof:geomhash":"124baf2c801b5accb2aa97b9406aff38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065971
+        }
+    ],
+    "wof:id":857065971,
+    "wof:lastmodified":1464115135,
+    "wof:name":"Custom Auto Rebuilders",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.608803,
+    42.035999,
+    -91.608803,
+    42.035999
+],
+  "geometry": {"coordinates":[-91.60880299999999,42.035999],"type":"Point"}
+}

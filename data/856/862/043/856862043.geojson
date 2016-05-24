@@ -1,0 +1,73 @@
+{
+  "id": 856862043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.584223,41.359645,-93.584223,41.359645",
+    "geom:latitude":41.359645,
+    "geom:longitude":-93.584223,
+    "iso:country":"US",
+    "sg:address":"305 S Kenwood Blvd",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4287",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KoAsWhPZAERz9FJjoUAlK_41.359645_-93.584223@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106077,
+    "wof:geomhash":"d47ab9ea8b0e61e7a5625366f85af46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856862043
+        }
+    ],
+    "wof:id":856862043,
+    "wof:lastmodified":1464106077,
+    "wof:name":"D&D Flooring Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.584223,
+    41.359645,
+    -93.584223,
+    41.359645
+],
+  "geometry": {"coordinates":[-93.58422299999999,41.359645],"type":"Point"}
+}

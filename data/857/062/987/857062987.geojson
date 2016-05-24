@@ -1,0 +1,84 @@
+{
+  "id": 857062987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854417,41.265036,-95.854417,41.265036",
+    "geom:latitude":41.265036,
+    "geom:longitude":-95.854417,
+    "iso:country":"US",
+    "sg:address":"Curtis St & Ave D",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 1662",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.childrenscentercb.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kwrcMUxy7u5pgZkJ0G5n1_41.265036_-95.854417@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115022,
+    "wof:geomhash":"d0f1fded94f2aad48ff785fffa9a4f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062987
+        }
+    ],
+    "wof:id":857062987,
+    "wof:lastmodified":1464115022,
+    "wof:name":"Children's Center Educare",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -95.854417,
+    41.265036,
+    -95.854417,
+    41.265036
+],
+  "geometry": {"coordinates":[-95.854417,41.265036],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857031565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672479,41.999252,-91.672479,41.999252",
+    "geom:latitude":41.999252,
+    "geom:longitude":-91.672479,
+    "iso:country":"US",
+    "sg:address":"1111 Shaver Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5910",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SjXu8bAwMBp8ErhIBvMIf_41.999252_-91.672479@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113729,
+    "wof:geomhash":"25c58dbf59f73fa2285be489bcd2a878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857031565
+        }
+    ],
+    "wof:id":857031565,
+    "wof:lastmodified":1464113729,
+    "wof:name":"Cedar Rapids Water Dept",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.672479,
+    41.999252,
+    -91.672479,
+    41.999252
+],
+  "geometry": {"coordinates":[-91.672479,41.999252],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856880407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638627,42.049432,-91.638627,42.049432",
+    "geom:latitude":42.049432,
+    "geom:longitude":-91.638627,
+    "iso:country":"US",
+    "sg:address":"6905 C Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 743 0425",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.familyvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40WzhkXKeb7I5rVcLINoNN_42.049432_-91.638627@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107173,
+    "wof:geomhash":"dea226abf4dc811a6ce7f23f97bdb8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856880407
+        }
+    ],
+    "wof:id":856880407,
+    "wof:lastmodified":1464107173,
+    "wof:name":"Family Video",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.638627,
+    42.049432,
+    -91.638627,
+    42.049432
+],
+  "geometry": {"coordinates":[-91.638627,42.049432],"type":"Point"}
+}

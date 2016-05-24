@@ -1,0 +1,74 @@
+{
+  "id": 856896033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.68663,41.948941,-91.68663,41.948941",
+    "geom:latitude":41.948941,
+    "geom:longitude":-91.68663,
+    "iso:country":"US",
+    "sg:address":"1139 29th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 6513",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.con-way.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BxJRgMIXTBn1zW4BRH9Jp_41.948941_-91.686630@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107903,
+    "wof:geomhash":"60d4ce70e94b3a52dcf807ad7e4cbb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856896033
+        }
+    ],
+    "wof:id":856896033,
+    "wof:lastmodified":1464107903,
+    "wof:name":"Con-Way Central Express",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.68663,
+    41.948941,
+    -91.68663,
+    41.948941
+],
+  "geometry": {"coordinates":[-91.68662999999999,41.948941],"type":"Point"}
+}

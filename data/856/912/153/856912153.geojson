@@ -1,0 +1,71 @@
+{
+  "id": 856912153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.735812,42.050411,-91.735812,42.050411",
+    "geom:latitude":42.050411,
+    "geom:longitude":-91.735812,
+    "iso:country":"US",
+    "sg:address":"6101 Blairs Ferry Rd",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0051",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FuUiqbo3Ez3byLyxLR3Ql_42.050411_-91.735812@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108510,
+    "wof:geomhash":"b4fb510caa1628d0a9be3c5c179c5479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856912153
+        }
+    ],
+    "wof:id":856912153,
+    "wof:lastmodified":1464108510,
+    "wof:name":"Clearvue Home & Well Owne",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.735812,
+    42.050411,
+    -91.735812,
+    42.050411
+],
+  "geometry": {"coordinates":[-91.735812,42.050411],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856885543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660684,41.979408,-91.660684,41.979408",
+    "geom:latitude":41.979408,
+    "geom:longitude":-91.660684,
+    "iso:country":"US",
+    "sg:address":"315 7th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2325",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rezB62refslv2aAbRnMoY_41.979408_-91.660684@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107494,
+    "wof:geomhash":"c15752318596ec9d0e03c1672e2d110d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856885543
+        }
+    ],
+    "wof:id":856885543,
+    "wof:lastmodified":1464107494,
+    "wof:name":"Fifth Avenue Medical",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.660684,
+    41.979408,
+    -91.660684,
+    41.979408
+],
+  "geometry": {"coordinates":[-91.660684,41.979408],"type":"Point"}
+}

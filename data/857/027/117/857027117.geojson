@@ -1,0 +1,74 @@
+{
+  "id": 857027117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.824663,41.791455,-93.824663,41.791455",
+    "geom:latitude":41.791455,
+    "geom:longitude":-93.824663,
+    "iso:country":"US",
+    "sg:address":"1708 Sycamore St",
+    "sg:city":"Granger",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 999 2224",
+    "sg:postcode":"50109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.grangermotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GKJFVafeKnntdroBMojmw_41.791455_-93.824663@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113507,
+    "wof:geomhash":"6ac61af82666143e90e41e9d28a91529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857027117
+        }
+    ],
+    "wof:id":857027117,
+    "wof:lastmodified":1464113507,
+    "wof:name":"Granger Motors",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.824663,
+    41.791455,
+    -93.824663,
+    41.791455
+],
+  "geometry": {"coordinates":[-93.824663,41.791455],"type":"Point"}
+}

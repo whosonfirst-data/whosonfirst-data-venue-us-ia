@@ -1,0 +1,76 @@
+{
+  "id": 856985739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.375975,42.486808,-96.375975,42.486808",
+    "geom:latitude":42.486808,
+    "geom:longitude":-96.375975,
+    "iso:country":"US",
+    "sg:address":"417 S Linn St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 266 0329",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W1gUgQD0o9LxHMBkCw4SS_42.486808_-96.375975@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111777,
+    "wof:geomhash":"c54a381c059e4488de729da6e94349b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856985739
+        }
+    ],
+    "wof:id":856985739,
+    "wof:lastmodified":1464111777,
+    "wof:name":"Individual Tattoos By Britt",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -96.375975,
+    42.486808,
+    -96.375975,
+    42.486808
+],
+  "geometry": {"coordinates":[-96.375975,42.486808],"type":"Point"}
+}

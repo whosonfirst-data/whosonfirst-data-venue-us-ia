@@ -1,0 +1,75 @@
+{
+  "id": 856788677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.827866,41.304374,-95.827866,41.304374",
+    "geom:latitude":41.304374,
+    "geom:longitude":-95.827866,
+    "iso:country":"US",
+    "sg:address":"20004 Mudhollow Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7387",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dysYls4ON6cAOks0uYoc8_41.304374_-95.827866@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102732,
+    "wof:geomhash":"f2c272aea3bfa27e0f4c8f1a7a92b048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856788677
+        }
+    ],
+    "wof:id":856788677,
+    "wof:lastmodified":1464102732,
+    "wof:name":"Darkenwald Kennels",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -95.827866,
+    41.304374,
+    -95.827866,
+    41.304374
+],
+  "geometry": {"coordinates":[-95.827866,41.304374],"type":"Point"}
+}

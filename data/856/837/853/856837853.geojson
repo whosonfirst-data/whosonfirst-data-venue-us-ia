@@ -1,0 +1,75 @@
+{
+  "id": 856837853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531251,41.652388,-91.531251,41.652388",
+    "geom:latitude":41.652388,
+    "geom:longitude":-91.531251,
+    "iso:country":"US",
+    "sg:address":"711 S Gilbert St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 2233",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DFXmYas9jiLU8alLZJOtE_41.652388_-91.531251@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104908,
+    "wof:geomhash":"4c751451a205787dae8fb4b89f30d860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856837853
+        }
+    ],
+    "wof:id":856837853,
+    "wof:lastmodified":1464104908,
+    "wof:name":"Hodge Construction",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.531251,
+    41.652388,
+    -91.531251,
+    41.652388
+],
+  "geometry": {"coordinates":[-91.531251,41.652388],"type":"Point"}
+}

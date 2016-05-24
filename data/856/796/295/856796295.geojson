@@ -1,0 +1,73 @@
+{
+  "id": 856796295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.838747,41.306,-95.838747,41.306",
+    "geom:latitude":41.306,
+    "geom:longitude":-95.838747,
+    "iso:country":"US",
+    "sg:address":"20140 Mynster Springs Rd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1320",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aVHoSaY55kDdo23wedXD2_41.306000_-95.838747@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103033,
+    "wof:geomhash":"7bd4ed899b4d5ca1329428a7c1fdd810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856796295
+        }
+    ],
+    "wof:id":856796295,
+    "wof:lastmodified":1464103033,
+    "wof:name":"Bristol Farm",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.838747,
+    41.306,
+    -95.838747,
+    41.306
+],
+  "geometry": {"coordinates":[-95.838747,41.306],"type":"Point"}
+}

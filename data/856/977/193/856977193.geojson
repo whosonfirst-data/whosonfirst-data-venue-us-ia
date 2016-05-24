@@ -1,0 +1,77 @@
+{
+  "id": 856977193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.490057,42.519635,-96.490057,42.519635",
+    "geom:latitude":42.519635,
+    "geom:longitude":-96.490057,
+    "iso:country":"US",
+    "sg:address":"2359 Dacotah Ave",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 233 1957",
+    "sg:postcode":"51109",
+    "sg:province":"IA",
+    "sg:tags":[
+        "glass",
+        "replacement",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85844951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OBzhudUdt7xQqqRCcmG0c_42.519635_-96.490057@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111316,
+    "wof:geomhash":"1f776921bcaf27fac43bb8c789dfc851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85844951,
+            "region_id":85688713,
+            "venue_id":856977193
+        }
+    ],
+    "wof:id":856977193,
+    "wof:lastmodified":1464111316,
+    "wof:name":"Raymond Hassing",
+    "wof:parent_id":85844951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.490057,
+    42.519635,
+    -96.490057,
+    42.519635
+],
+  "geometry": {"coordinates":[-96.49005699999999,42.519635],"type":"Point"}
+}

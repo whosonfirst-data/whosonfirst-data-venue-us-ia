@@ -1,0 +1,73 @@
+{
+  "id": 856819631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676316,41.925813,-91.676316,41.925813",
+    "geom:latitude":41.925813,
+    "geom:longitude":-91.676316,
+    "iso:country":"US",
+    "sg:address":"5549 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9415",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g9kmbmFzFRYbCHT7TJ8tW_41.925813_-91.676316@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104045,
+    "wof:geomhash":"fee1fe13654d9db87db4201d45d3e41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856819631
+        }
+    ],
+    "wof:id":856819631,
+    "wof:lastmodified":1464104045,
+    "wof:name":"Cedar Rapids Mack Inc",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.676316,
+    41.925813,
+    -91.676316,
+    41.925813
+],
+  "geometry": {"coordinates":[-91.676316,41.925813],"type":"Point"}
+}

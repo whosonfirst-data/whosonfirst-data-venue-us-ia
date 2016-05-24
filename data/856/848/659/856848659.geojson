@@ -1,0 +1,73 @@
+{
+  "id": 856848659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.399477,42.489876,-96.399477,42.489876",
+    "geom:latitude":42.489876,
+    "geom:longitude":-96.399477,
+    "iso:country":"US",
+    "sg:address":"835 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 224 2727",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74j1AWgdJUqrl16Z6RgGJA_42.489876_-96.399477@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105435,
+    "wof:geomhash":"a7685ae52d5c88f1aab192ba6d2bd177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856848659
+        }
+    ],
+    "wof:id":856848659,
+    "wof:lastmodified":1464105435,
+    "wof:name":"Salem Commercial Real Estate",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -96.399477,
+    42.489876,
+    -96.399477,
+    42.489876
+],
+  "geometry": {"coordinates":[-96.399477,42.489876],"type":"Point"}
+}

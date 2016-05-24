@@ -1,0 +1,68 @@
+{
+  "id": 856809175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.710275,41.575483,-93.710275,41.575483",
+    "geom:latitude":41.575483,
+    "geom:longitude":-93.710275,
+    "iso:country":"US",
+    "sg:address":"501 Locust St",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 2395",
+    "sg:postcode":"50265",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85853427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kwEctjgnJMUOmRHWtxo8R_41.575483_-93.710275@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103592,
+    "wof:geomhash":"440c0039a7876defb68360ab6728ce69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85853427,
+            "region_id":85688713,
+            "venue_id":856809175
+        }
+    ],
+    "wof:id":856809175,
+    "wof:lastmodified":1464103592,
+    "wof:name":"West Bank",
+    "wof:parent_id":85853427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.710275,
+    41.575483,
+    -93.710275,
+    41.575483
+],
+  "geometry": {"coordinates":[-93.710275,41.575483],"type":"Point"}
+}

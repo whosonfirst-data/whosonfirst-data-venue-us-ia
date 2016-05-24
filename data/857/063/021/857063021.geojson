@@ -1,0 +1,71 @@
+{
+  "id": 857063021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.854797,41.256001,-95.854797,41.256001",
+    "geom:latitude":41.256001,
+    "geom:longitude":-95.854797,
+    "iso:country":"US",
+    "sg:address":"705 6th Ave Apt 1",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 6020",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sKee8uCI78xeirRKDtAPs_41.256001_-95.854797@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115023,
+    "wof:geomhash":"858c6be338fcefa83cc4023837e92f2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063021
+        }
+    ],
+    "wof:id":857063021,
+    "wof:lastmodified":1464115023,
+    "wof:name":"Great Expectations Remodeling",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.854797,
+    41.256001,
+    -95.854797,
+    41.256001
+],
+  "geometry": {"coordinates":[-95.854797,41.256001],"type":"Point"}
+}

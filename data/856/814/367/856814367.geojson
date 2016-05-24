@@ -1,0 +1,75 @@
+{
+  "id": 856814367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.64837,41.566369,-93.64837,41.566369",
+    "geom:latitude":41.566369,
+    "geom:longitude":-93.64837,
+    "iso:country":"US",
+    "sg:address":"2205 Sunset Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 5517",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "layer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gRfWNiINvh3k1acsaAVHE_41.566369_-93.648370@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103805,
+    "wof:geomhash":"ac9936e0c86fb33b8549abcb86da7800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896379,
+            "region_id":85688713,
+            "venue_id":856814367
+        }
+    ],
+    "wof:id":856814367,
+    "wof:lastmodified":1464103805,
+    "wof:name":"CTM Svc",
+    "wof:parent_id":85896379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "layer",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -93.64837,
+    41.566369,
+    -93.64837,
+    41.566369
+],
+  "geometry": {"coordinates":[-93.64837,41.566369],"type":"Point"}
+}

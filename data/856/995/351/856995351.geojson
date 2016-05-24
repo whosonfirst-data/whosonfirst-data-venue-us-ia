@@ -1,0 +1,71 @@
+{
+  "id": 856995351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89751,41.254487,-95.89751,41.254487",
+    "geom:latitude":41.254487,
+    "geom:longitude":-95.89751,
+    "iso:country":"US",
+    "sg:address":"3207 8th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1091",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OwvOtwJcuCoUibTKbbIEd_41.254487_-95.897510@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112189,
+    "wof:geomhash":"c74da77315205b00384ccf215b013240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856995351
+        }
+    ],
+    "wof:id":856995351,
+    "wof:lastmodified":1464112189,
+    "wof:name":"First Choice Vending",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -95.89751,
+    41.254487,
+    -95.89751,
+    41.254487
+],
+  "geometry": {"coordinates":[-95.89751,41.254487],"type":"Point"}
+}

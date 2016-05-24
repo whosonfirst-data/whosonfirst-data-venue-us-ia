@@ -1,0 +1,73 @@
+{
+  "id": 856782885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.963707,41.688158,-93.963707,41.688158",
+    "geom:latitude":41.688158,
+    "geom:longitude":-93.963707,
+    "iso:country":"US",
+    "sg:address":"1504 Sugar Grove Ave",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3700",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VGKLF9LO56mmbXvXr4y1Z_41.688158_-93.963707@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102497,
+    "wof:geomhash":"448de069d4f829097c82720438c3fb38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856782885
+        }
+    ],
+    "wof:id":856782885,
+    "wof:lastmodified":1464102497,
+    "wof:name":"Route 44 Auto Sales",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.963707,
+    41.688158,
+    -93.963707,
+    41.688158
+],
+  "geometry": {"coordinates":[-93.963707,41.688158],"type":"Point"}
+}

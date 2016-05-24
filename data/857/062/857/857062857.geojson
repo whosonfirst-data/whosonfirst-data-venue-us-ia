@@ -1,0 +1,71 @@
+{
+  "id": 857062857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.860526,41.265361,-95.860526,41.265361",
+    "geom:latitude":41.265361,
+    "geom:longitude":-95.860526,
+    "iso:country":"US",
+    "sg:address":"1110 Avenue D",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 7000",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sO8tR9idqKLRTPArHobQG_41.265361_-95.860526@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115017,
+    "wof:geomhash":"f2acbb06190a61317bc640b7077b9823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062857
+        }
+    ],
+    "wof:id":857062857,
+    "wof:lastmodified":1464115017,
+    "wof:name":"Nutech Crete",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -95.860526,
+    41.265361,
+    -95.860526,
+    41.265361
+],
+  "geometry": {"coordinates":[-95.86052599999999,41.265361],"type":"Point"}
+}

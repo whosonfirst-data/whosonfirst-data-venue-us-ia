@@ -1,0 +1,73 @@
+{
+  "id": 857069441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.602273,41.976713,-91.602273,41.976713",
+    "geom:latitude":41.976713,
+    "geom:longitude":-91.602273,
+    "iso:country":"US",
+    "sg:address":"3933 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 8148",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lVX4UR5j1Tj23Go1wtnu9_41.976713_-91.602273@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115303,
+    "wof:geomhash":"315008697a3c91053a586e48b439c0b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857069441
+        }
+    ],
+    "wof:id":857069441,
+    "wof:lastmodified":1464115303,
+    "wof:name":"Mercycare Community Physicians",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -91.602273,
+    41.976713,
+    -91.602273,
+    41.976713
+],
+  "geometry": {"coordinates":[-91.602273,41.976713],"type":"Point"}
+}

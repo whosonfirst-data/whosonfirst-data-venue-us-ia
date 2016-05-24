@@ -1,0 +1,67 @@
+{
+  "id": 857068791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.622299,42.026299,-91.622299,42.026299",
+    "geom:latitude":42.026299,
+    "geom:longitude":-91.622299,
+    "iso:country":"US",
+    "sg:address":"4545 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9648",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:website":"www.lonestarsteakhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tSTUaSxOS29j2W4k6iknz_42.026299_-91.622299@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115281,
+    "wof:geomhash":"85fc032535926aca1767e3ca172408ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068791
+        }
+    ],
+    "wof:id":857068791,
+    "wof:lastmodified":1464115281,
+    "wof:name":"Lone Star Steakhouse & Saloon",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.622299,
+    42.026299,
+    -91.622299,
+    42.026299
+],
+  "geometry": {"coordinates":[-91.622299,42.026299],"type":"Point"}
+}

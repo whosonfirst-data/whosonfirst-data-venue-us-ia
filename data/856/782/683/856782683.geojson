@@ -1,0 +1,71 @@
+{
+  "id": 856782683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.728853,41.983179,-91.728853,41.983179",
+    "geom:latitude":41.983179,
+    "geom:longitude":-91.728853,
+    "iso:country":"US",
+    "sg:address":"733 Westland Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8669",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p1g4OAipG7tLSxkFfFW5x_41.983179_-91.728853@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102493,
+    "wof:geomhash":"c9c6bfb936338bd6e6e9d4c415a7aec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856782683
+        }
+    ],
+    "wof:id":856782683,
+    "wof:lastmodified":1464102493,
+    "wof:name":"Stokes Construction",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.728853,
+    41.983179,
+    -91.728853,
+    41.983179
+],
+  "geometry": {"coordinates":[-91.728853,41.983179],"type":"Point"}
+}

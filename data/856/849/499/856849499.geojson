@@ -1,0 +1,71 @@
+{
+  "id": 856849499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.618957,41.664176,-93.618957,41.664176",
+    "geom:latitude":41.664176,
+    "geom:longitude":-93.618957,
+    "iso:country":"US",
+    "sg:address":"5435 NW 1st St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 1452",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PjxE4cLBwpBoi7KWKWOr7_41.664176_-93.618957@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105496,
+    "wof:geomhash":"26f4ea0f5dc92dd281f23eff1f3e9a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856849499
+        }
+    ],
+    "wof:id":856849499,
+    "wof:lastmodified":1464105496,
+    "wof:name":"John's Auto Sales Inc",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.618957,
+    41.664176,
+    -93.618957,
+    41.664176
+],
+  "geometry": {"coordinates":[-93.61895699999999,41.664176],"type":"Point"}
+}

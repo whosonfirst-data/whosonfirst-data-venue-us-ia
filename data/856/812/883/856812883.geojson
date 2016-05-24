@@ -1,0 +1,73 @@
+{
+  "id": 856812883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.779167,41.929099,-91.779167,41.929099",
+    "geom:latitude":41.929099,
+    "geom:longitude":-91.779167,
+    "iso:country":"US",
+    "sg:address":"70 Williams Blvd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 3149",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yVdOGx604m6PeU0jADtYA_41.929099_-91.779167@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103746,
+    "wof:geomhash":"4bef4ddbed8bde5f6ff7508bb5fcfd45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856812883
+        }
+    ],
+    "wof:id":856812883,
+    "wof:lastmodified":1464103746,
+    "wof:name":"Fairfax Storage",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -91.779167,
+    41.929099,
+    -91.779167,
+    41.929099
+],
+  "geometry": {"coordinates":[-91.779167,41.929099],"type":"Point"}
+}

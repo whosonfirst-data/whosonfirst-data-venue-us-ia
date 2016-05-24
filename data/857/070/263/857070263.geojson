@@ -1,0 +1,71 @@
+{
+  "id": 857070263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7257,41.965401,-91.7257,41.965401",
+    "geom:latitude":41.965401,
+    "geom:longitude":-91.7257,
+    "iso:country":"US",
+    "sg:address":"1211 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 6304",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahPqoXZQFuGx6q9qUVuVi_41.965401_-91.725700@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115345,
+    "wof:geomhash":"333287038555c4e243e311ac7711d13a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070263
+        }
+    ],
+    "wof:id":857070263,
+    "wof:lastmodified":1464115345,
+    "wof:name":"Plus Five",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.7257,
+    41.965401,
+    -91.7257,
+    41.965401
+],
+  "geometry": {"coordinates":[-91.7257,41.965401],"type":"Point"}
+}

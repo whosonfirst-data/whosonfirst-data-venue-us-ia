@@ -1,0 +1,71 @@
+{
+  "id": 856963263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.402121,41.300779,-95.402121,41.300779",
+    "geom:latitude":41.300779,
+    "geom:longitude":-95.402121,
+    "iso:country":"US",
+    "sg:address":"601 Pioneer Ave",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 3022",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jFlilYbXSceZkg3nbfheB_41.300779_-95.402121@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110677,
+    "wof:geomhash":"f307c28acc9f0c912614a80c273adc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856963263
+        }
+    ],
+    "wof:id":856963263,
+    "wof:lastmodified":1464110677,
+    "wof:name":"Oakland TV Ctr",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -95.402121,
+    41.300779,
+    -95.402121,
+    41.300779
+],
+  "geometry": {"coordinates":[-95.40212099999999,41.300779],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856866089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.853229,41.699296,-93.853229,41.699296",
+    "geom:latitude":41.699296,
+    "geom:longitude":-93.853229,
+    "iso:country":"US",
+    "sg:address":"2345 W Ave",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 986 3964",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73785VymrKROK6vuckyLF3_41.699296_-93.853229@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106266,
+    "wof:geomhash":"de96548b83be6e8aa05c0069940b0587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856866089
+        }
+    ],
+    "wof:id":856866089,
+    "wof:lastmodified":1464106266,
+    "wof:name":"Melvin Marsh",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -93.853229,
+    41.699296,
+    -93.853229,
+    41.699296
+],
+  "geometry": {"coordinates":[-93.853229,41.699296],"type":"Point"}
+}

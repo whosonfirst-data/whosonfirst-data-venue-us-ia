@@ -1,0 +1,75 @@
+{
+  "id": 857069743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.633499,41.996899,-91.633499,41.996899",
+    "geom:latitude":41.996899,
+    "geom:longitude":-91.633499,
+    "iso:country":"US",
+    "sg:address":"2205 Forest Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2161",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qh6QYusFPHyXQJMhP7FFN_41.996899_-91.633499@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115318,
+    "wof:geomhash":"9e46d82ec327b0fd1dd3fdea28a5bf2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069743
+        }
+    ],
+    "wof:id":857069743,
+    "wof:lastmodified":1464115318,
+    "wof:name":"Cedar Rapids School District",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.633499,
+    41.996899,
+    -91.633499,
+    41.996899
+],
+  "geometry": {"coordinates":[-91.633499,41.996899],"type":"Point"}
+}

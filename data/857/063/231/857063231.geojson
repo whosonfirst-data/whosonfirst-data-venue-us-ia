@@ -1,0 +1,66 @@
+{
+  "id": 857063231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.846603,41.245701,-95.846603,41.245701",
+    "geom:latitude":41.245701,
+    "geom:longitude":-95.846603,
+    "iso:country":"US",
+    "sg:address":"220 17th Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 388 3772",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XoQ51t3ufcK08vWByC1Z4_41.245701_-95.846603@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115030,
+    "wof:geomhash":"faf694d30f84e4a808212efaead99476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063231
+        }
+    ],
+    "wof:id":857063231,
+    "wof:lastmodified":1464115030,
+    "wof:name":"Terry's Auto Repair Inc",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.846603,
+    41.245701,
+    -95.846603,
+    41.245701
+],
+  "geometry": {"coordinates":[-95.846603,41.245701],"type":"Point"}
+}

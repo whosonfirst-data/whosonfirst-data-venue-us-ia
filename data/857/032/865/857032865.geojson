@@ -1,0 +1,77 @@
+{
+  "id": 857032865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682002,41.948909,-91.682002,41.948909",
+    "geom:latitude":41.948909,
+    "geom:longitude":-91.682002,
+    "iso:country":"US",
+    "sg:address":"1051 29th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 3668",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LoN9VfEqDAV8gl2SsYadT_41.948909_-91.682002@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113774,
+    "wof:geomhash":"646d4ed0bc330b7d9f642e23cb4fa206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":857032865
+        }
+    ],
+    "wof:id":857032865,
+    "wof:lastmodified":1464113774,
+    "wof:name":"Linn County Corrections Ctr",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -91.682002,
+    41.948909,
+    -91.682002,
+    41.948909
+],
+  "geometry": {"coordinates":[-91.682002,41.948909],"type":"Point"}
+}

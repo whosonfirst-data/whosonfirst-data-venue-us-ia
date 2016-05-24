@@ -1,0 +1,73 @@
+{
+  "id": 856852431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.020317,41.629725,-94.020317,41.629725",
+    "geom:latitude":41.629725,
+    "geom:longitude":-94.020317,
+    "iso:country":"US",
+    "sg:address":"2790 Fairgrounds Rd",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4735",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KYsQMyJHeNEyuCTBjOm6D_41.629725_-94.020317@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105645,
+    "wof:geomhash":"f5f08003d5dd6ec8869f8e488535b2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856852431
+        }
+    ],
+    "wof:id":856852431,
+    "wof:lastmodified":1464105645,
+    "wof:name":"Fairground Motors",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.020317,
+    41.629725,
+    -94.020317,
+    41.629725
+],
+  "geometry": {"coordinates":[-94.02031700000001,41.629725],"type":"Point"}
+}

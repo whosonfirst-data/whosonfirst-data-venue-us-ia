@@ -1,0 +1,75 @@
+{
+  "id": 857003215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.835144,41.617589,-93.835144,41.617589",
+    "geom:latitude":41.617589,
+    "geom:longitude":-93.835144,
+    "iso:country":"US",
+    "sg:address":"15762 Sheridan Ave",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 3385",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Eb0kZSHLNBDca4yJJPw3G_41.617589_-93.835144@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112498,
+    "wof:geomhash":"4f1cd77c4858f3b08906435d37f894e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857003215
+        }
+    ],
+    "wof:id":857003215,
+    "wof:lastmodified":1464112498,
+    "wof:name":"A Reliable Friend",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -93.835144,
+    41.617589,
+    -93.835144,
+    41.617589
+],
+  "geometry": {"coordinates":[-93.835144,41.617589],"type":"Point"}
+}

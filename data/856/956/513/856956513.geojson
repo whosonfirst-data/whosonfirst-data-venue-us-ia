@@ -1,0 +1,74 @@
+{
+  "id": 856956513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.176563,43.024774,-91.176563,43.024774",
+    "geom:latitude":43.024774,
+    "geom:longitude":-91.176563,
+    "iso:country":"US",
+    "sg:address":"206 A St",
+    "sg:city":"Mc Gregor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 3357",
+    "sg:postcode":"52157",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.papermoonbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GE9yxKmKurwy4kB3rBjjs_43.024774_-91.176563@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110409,
+    "wof:geomhash":"368bbef0e8378dbdec39204c89590ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":856956513
+        }
+    ],
+    "wof:id":856956513,
+    "wof:lastmodified":1464110409,
+    "wof:name":"Paper Moon",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.176563,
+    43.024774,
+    -91.176563,
+    43.024774
+],
+  "geometry": {"coordinates":[-91.176563,43.024774],"type":"Point"}
+}

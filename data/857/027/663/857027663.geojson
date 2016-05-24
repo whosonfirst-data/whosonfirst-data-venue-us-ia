@@ -1,0 +1,72 @@
+{
+  "id": 857027663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.810391,41.586616,-93.810391,41.586616",
+    "geom:latitude":41.586616,
+    "geom:longitude":-93.810391,
+    "iso:country":"US",
+    "sg:address":"7601 Office Plaza Dr N",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 0550",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.nydic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qpv94tPjoPInsPDd3UAqu_41.586616_-93.810391@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113529,
+    "wof:geomhash":"41120d8784fe877ef1bcd49c7132a342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857027663
+        }
+    ],
+    "wof:id":857027663,
+    "wof:lastmodified":1464113529,
+    "wof:name":"Open Mri Iowa At Des Moines",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.810391,
+    41.586616,
+    -93.810391,
+    41.586616
+],
+  "geometry": {"coordinates":[-93.810391,41.586616],"type":"Point"}
+}

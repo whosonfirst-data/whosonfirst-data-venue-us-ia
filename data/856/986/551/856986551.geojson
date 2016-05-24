@@ -1,0 +1,71 @@
+{
+  "id": 856986551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533771,42.280226,-91.533771,42.280226",
+    "geom:latitude":42.280226,
+    "geom:longitude":-91.533771,
+    "iso:country":"US",
+    "sg:address":"108 S Railroad St",
+    "sg:city":"Coggon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 435 2163",
+    "sg:postcode":"52218",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77SDxYbUQw6j1rQXI0P9m7_42.280226_-91.533771@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111815,
+    "wof:geomhash":"9c3d575d49846514f4043ec22d0b64e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856986551
+        }
+    ],
+    "wof:id":856986551,
+    "wof:lastmodified":1464111815,
+    "wof:name":"Buffalo Bay Grain",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -91.533771,
+    42.280226,
+    -91.533771,
+    42.280226
+],
+  "geometry": {"coordinates":[-91.533771,42.280226],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857061867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.376251,42.459049,-92.376251,42.459049",
+    "geom:latitude":42.459049,
+    "geom:longitude":-92.376251,
+    "iso:country":"US",
+    "sg:address":"999 Home Plaza",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 429 1462",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "party",
+        "consultant",
+        "planning",
+        "wedding"
+    ],
+    "sg:website":"http://www.ipartywebsite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ud1IQozR6HsQCrlL3Mam0_42.459049_-92.376251@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464114973,
+    "wof:geomhash":"e1f0afa98b4cfabee710b244a0929a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":857061867
+        }
+    ],
+    "wof:id":857061867,
+    "wof:lastmodified":1464114973,
+    "wof:name":"iparty",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "consultant",
+        "planning",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -92.376251,
+    42.459049,
+    -92.376251,
+    42.459049
+],
+  "geometry": {"coordinates":[-92.376251,42.459049],"type":"Point"}
+}

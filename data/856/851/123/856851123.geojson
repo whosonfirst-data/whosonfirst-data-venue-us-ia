@@ -1,0 +1,66 @@
+{
+  "id": 856851123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.725816,41.96378,-91.725816,41.96378",
+    "geom:latitude":41.96378,
+    "geom:longitude":-91.725816,
+    "iso:country":"US",
+    "sg:address":"1211 Wiley Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 8461",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nDuN3NgI7vSgZG8j0u4Xk_41.963780_-91.725816@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105586,
+    "wof:geomhash":"b00c331ff116a6c3d1d5c862e18a83d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856851123
+        }
+    ],
+    "wof:id":856851123,
+    "wof:lastmodified":1464105586,
+    "wof:name":"Hawkeye Labor Council AFL-CIO",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.725816,
+    41.96378,
+    -91.725816,
+    41.96378
+],
+  "geometry": {"coordinates":[-91.72581599999999,41.96378],"type":"Point"}
+}

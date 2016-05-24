@@ -1,0 +1,72 @@
+{
+  "id": 857005087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.49213,41.688155,-91.49213,41.688155",
+    "geom:latitude":41.688155,
+    "geom:longitude":-91.49213,
+    "iso:country":"US",
+    "sg:address":"2751 Northgate Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 358 0707",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "athletic"
+    ],
+    "sg:website":"www.diamond-dreams.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w89GevclFyjZD0snEdV4E_41.688155_-91.492130@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112574,
+    "wof:geomhash":"f4bea5edabbc3def00a0cf3d868cb5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896449,
+            "region_id":85688713,
+            "venue_id":857005087
+        }
+    ],
+    "wof:id":857005087,
+    "wof:lastmodified":1464112574,
+    "wof:name":"Diamond Dreams Baseball",
+    "wof:parent_id":85896449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -91.49213,
+    41.688155,
+    -91.49213,
+    41.688155
+],
+  "geometry": {"coordinates":[-91.49213,41.688155],"type":"Point"}
+}

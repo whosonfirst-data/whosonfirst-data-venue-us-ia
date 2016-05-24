@@ -1,0 +1,75 @@
+{
+  "id": 856829893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858598,41.392365,-95.858598,41.392365",
+    "geom:latitude":41.392365,
+    "geom:longitude":-95.858598,
+    "iso:country":"US",
+    "sg:address":"17026 Snowhill Ln",
+    "sg:city":"Honey Creek",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 545 3850",
+    "sg:postcode":"51542",
+    "sg:province":"IA",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ulGISHyzbhaQYOeyaRloa_41.392365_-95.858598@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104508,
+    "wof:geomhash":"19cf15706b34e9e5c486ffe1c00afb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856829893
+        }
+    ],
+    "wof:id":856829893,
+    "wof:lastmodified":1464104508,
+    "wof:name":"Mt Crescent Ski Area",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -95.858598,
+    41.392365,
+    -95.858598,
+    41.392365
+],
+  "geometry": {"coordinates":[-95.858598,41.392365],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857015809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.37638,42.430915,-96.37638,42.430915",
+    "geom:latitude":42.430915,
+    "geom:longitude":-96.37638,
+    "iso:country":"US",
+    "sg:address":"2600 Bridgeport Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 252 3601",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "sg:website":"www.midwesttechnology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vf8jN8EzRsm1JI4TIPOVi_42.430915_-96.376380@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113022,
+    "wof:geomhash":"f49d2c540aec3003cea7e99257ae3e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857015809
+        }
+    ],
+    "wof:id":857015809,
+    "wof:lastmodified":1464113022,
+    "wof:name":"Midwest Shop Supplies",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -96.37638,
+    42.430915,
+    -96.37638,
+    42.430915
+],
+  "geometry": {"coordinates":[-96.37638,42.430915],"type":"Point"}
+}

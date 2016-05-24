@@ -1,0 +1,73 @@
+{
+  "id": 856785229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.748011,41.635559,-93.748011,41.635559",
+    "geom:latitude":41.635559,
+    "geom:longitude":-93.748011,
+    "iso:country":"US",
+    "sg:address":"9401 Winston Ave",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 3877",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09qyTIYcm1L5ihtUlQ75jX_41.635559_-93.748011@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102583,
+    "wof:geomhash":"345221dee47a8788483f6c8439412f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896509,
+            "region_id":85688713,
+            "venue_id":856785229
+        }
+    ],
+    "wof:id":856785229,
+    "wof:lastmodified":1464102583,
+    "wof:name":"Accurate Appraisals",
+    "wof:parent_id":85896509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -93.748011,
+    41.635559,
+    -93.748011,
+    41.635559
+],
+  "geometry": {"coordinates":[-93.74801100000001,41.635559],"type":"Point"}
+}

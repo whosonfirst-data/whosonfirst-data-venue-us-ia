@@ -1,0 +1,74 @@
+{
+  "id": 857064301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.913101,41.286098,-95.913101,41.286098",
+    "geom:latitude":41.286098,
+    "geom:longitude":-95.913101,
+    "iso:country":"US",
+    "sg:address":"3004 N 13th St",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 6151",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "sg:website":"www.tricitydental.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25abXNcPZd5MDM2SGYoiF2_41.286098_-95.913101@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115072,
+    "wof:geomhash":"d4f943e673072a21b9037f3c15c600e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064301
+        }
+    ],
+    "wof:id":857064301,
+    "wof:lastmodified":1464115072,
+    "wof:name":"Hurley Robert DDS",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -95.913101,
+    41.286098,
+    -95.913101,
+    41.286098
+],
+  "geometry": {"coordinates":[-95.913101,41.286098],"type":"Point"}
+}

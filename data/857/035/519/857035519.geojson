@@ -1,0 +1,68 @@
+{
+  "id": 857035519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.408131,42.496228,-96.408131,42.496228",
+    "geom:latitude":42.496228,
+    "geom:longitude":-96.408131,
+    "iso:country":"US",
+    "sg:address":"220 6th St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 5548",
+    "sg:postcode":"51101",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0taAX1vB98wRslDfp9rY11_42.496228_-96.408131@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113912,
+    "wof:geomhash":"3c379326643e11f5286d2ac440f7e22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":857035519
+        }
+    ],
+    "wof:id":857035519,
+    "wof:lastmodified":1464113912,
+    "wof:name":"Engleson Abstract Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.408131,
+    42.496228,
+    -96.408131,
+    42.496228
+],
+  "geometry": {"coordinates":[-96.408131,42.496228],"type":"Point"}
+}

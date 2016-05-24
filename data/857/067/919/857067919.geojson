@@ -1,0 +1,79 @@
+{
+  "id": 857067919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.655403,42.0028,-91.655403,42.0028",
+    "geom:latitude":42.0028,
+    "geom:longitude":-91.655403,
+    "iso:country":"US",
+    "sg:address":"1330 Elmhurst Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 1323",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "college",
+        "caterer"
+    ],
+    "sg:website":"www.mtmercy.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LlaUy82n7xcl2fGgoqezM_42.002800_-91.655403@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115232,
+    "wof:geomhash":"ba3fc74b810458b14d65adad96548427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067919
+        }
+    ],
+    "wof:id":857067919,
+    "wof:lastmodified":1464115232,
+    "wof:name":"Mount Mercy College",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.655403,
+    42.0028,
+    -91.655403,
+    42.0028
+],
+  "geometry": {"coordinates":[-91.65540300000001,42.0028],"type":"Point"}
+}

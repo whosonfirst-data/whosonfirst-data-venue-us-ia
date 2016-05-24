@@ -1,0 +1,68 @@
+{
+  "id": 856855523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.532329,41.651182,-91.532329,41.651182",
+    "geom:latitude":41.651182,
+    "geom:longitude":-91.532329,
+    "iso:country":"US",
+    "sg:address":"206 E Benton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 7766",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ERcBEn96QEh3mIz88YJMB_41.651182_-91.532329@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105779,
+    "wof:geomhash":"85271bc5a23232cd7f022e2ec18f2ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856855523
+        }
+    ],
+    "wof:id":856855523,
+    "wof:lastmodified":1464105779,
+    "wof:name":"Deli Mart",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.532329,
+    41.651182,
+    -91.532329,
+    41.651182
+],
+  "geometry": {"coordinates":[-91.532329,41.651182],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856884905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.769847,41.641122,-93.769847,41.641122",
+    "geom:latitude":41.641122,
+    "geom:longitude":-93.769847,
+    "iso:country":"US",
+    "sg:address":"4488 112th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 276 0206",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85844485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MB6lXhxGOXWiK21CI4DdT_41.641122_-93.769847@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107461,
+    "wof:geomhash":"e17ad4ea7df75b85d34d3884a3dab844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85844485,
+            "region_id":85688713,
+            "venue_id":856884905
+        }
+    ],
+    "wof:id":856884905,
+    "wof:lastmodified":1464107461,
+    "wof:name":"Owens & Minor Inc",
+    "wof:parent_id":85844485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.769847,
+    41.641122,
+    -93.769847,
+    41.641122
+],
+  "geometry": {"coordinates":[-93.769847,41.641122],"type":"Point"}
+}

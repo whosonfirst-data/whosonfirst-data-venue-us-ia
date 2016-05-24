@@ -1,0 +1,73 @@
+{
+  "id": 856923527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.357643,42.459353,-92.357643,42.459353",
+    "geom:latitude":42.459353,
+    "geom:longitude":-92.357643,
+    "iso:country":"US",
+    "sg:address":"40 Brookeridge Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 274 3062",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xRNEw3l56IGxByQfnySKR_42.459353_-92.357643@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108984,
+    "wof:geomhash":"afda7fc991503acb3229704e38dde691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856923527
+        }
+    ],
+    "wof:id":856923527,
+    "wof:lastmodified":1464108984,
+    "wof:name":"Mortgage One Inc",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -92.357643,
+    42.459353,
+    -92.357643,
+    42.459353
+],
+  "geometry": {"coordinates":[-92.357643,42.459353],"type":"Point"}
+}

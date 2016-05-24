@@ -1,0 +1,68 @@
+{
+  "id": 857033125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.461527,42.472821,-92.461527,42.472821",
+    "geom:latitude":42.472821,
+    "geom:longitude":-92.461527,
+    "iso:country":"US",
+    "sg:address":"1521 Technology Pkwy",
+    "sg:city":"Cedar Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 859 3220",
+    "sg:postcode":"50613",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ulcjf7Ln1xmR40aDG4xOV_42.472821_-92.461527@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113785,
+    "wof:geomhash":"05d3474397862a29fa7dba1375eb75a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":857033125
+        }
+    ],
+    "wof:id":857033125,
+    "wof:lastmodified":1464113785,
+    "wof:name":"Stems",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.461527,
+    42.472821,
+    -92.461527,
+    42.472821
+],
+  "geometry": {"coordinates":[-92.461527,42.472821],"type":"Point"}
+}

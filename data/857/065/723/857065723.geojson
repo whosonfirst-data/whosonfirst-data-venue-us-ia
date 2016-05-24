@@ -1,0 +1,71 @@
+{
+  "id": 857065723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.597141,42.020436,-91.597141,42.020436",
+    "geom:latitude":42.020436,
+    "geom:longitude":-91.597141,
+    "iso:country":"US",
+    "sg:address":"1175 Grand Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 0955",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_172LjnOWzPkevJSJEe0BzL_42.020436_-91.597141@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115123,
+    "wof:geomhash":"e1baaae58b534a21cf4738ae7a375e17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065723
+        }
+    ],
+    "wof:id":857065723,
+    "wof:lastmodified":1464115123,
+    "wof:name":"Whole Health",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -91.597141,
+    42.020436,
+    -91.597141,
+    42.020436
+],
+  "geometry": {"coordinates":[-91.59714099999999,42.020436],"type":"Point"}
+}

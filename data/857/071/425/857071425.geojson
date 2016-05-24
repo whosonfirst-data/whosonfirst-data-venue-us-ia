@@ -1,0 +1,71 @@
+{
+  "id": 857071425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.706299,42.0219,-91.706299,42.0219",
+    "geom:latitude":42.0219,
+    "geom:longitude":-91.706299,
+    "iso:country":"US",
+    "sg:address":"4750 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8383",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_786zx9GB9WIF3kLFMJNMm0_42.021900_-91.706299@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115394,
+    "wof:geomhash":"6a2120458d279ad9704cdb311913afca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":857071425
+        }
+    ],
+    "wof:id":857071425,
+    "wof:lastmodified":1464115394,
+    "wof:name":"Children's Corner",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -91.706299,
+    42.0219,
+    -91.706299,
+    42.0219
+],
+  "geometry": {"coordinates":[-91.706299,42.0219],"type":"Point"}
+}

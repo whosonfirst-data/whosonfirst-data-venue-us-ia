@@ -1,0 +1,75 @@
+{
+  "id": 856905153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892432,41.261956,-95.892432,41.261956",
+    "geom:latitude":41.261956,
+    "geom:longitude":-95.892432,
+    "iso:country":"US",
+    "sg:address":"2900 W Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 0255",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73MQwu3wAkaXhfRkLslHnh_41.261956_-95.892432@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108237,
+    "wof:geomhash":"4008f90e5a3d1be4e9ca58b0ec204c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856905153
+        }
+    ],
+    "wof:id":856905153,
+    "wof:lastmodified":1464108237,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -95.892432,
+    41.261956,
+    -95.892432,
+    41.261956
+],
+  "geometry": {"coordinates":[-95.892432,41.261956],"type":"Point"}
+}

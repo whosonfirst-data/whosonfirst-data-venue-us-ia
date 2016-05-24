@@ -1,0 +1,73 @@
+{
+  "id": 856940561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.919363,41.856599,-93.919363,41.856599",
+    "geom:latitude":41.856599,
+    "geom:longitude":-93.919363,
+    "iso:country":"US",
+    "sg:address":"208 Birch Ave",
+    "sg:city":"Woodward",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 438 2188",
+    "sg:postcode":"50276",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ryCfJ3TEGm4qwAOGBRRA0_41.856599_-93.919363@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109702,
+    "wof:geomhash":"f37095f476d7c41676e264cd409a3a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856940561
+        }
+    ],
+    "wof:id":856940561,
+    "wof:lastmodified":1464109702,
+    "wof:name":"Blaser Electric",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.919363,
+    41.856599,
+    -93.919363,
+    41.856599
+],
+  "geometry": {"coordinates":[-93.919363,41.856599],"type":"Point"}
+}

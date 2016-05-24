@@ -1,0 +1,73 @@
+{
+  "id": 856957201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.75492,41.975219,-91.75492,41.975219",
+    "geom:latitude":41.975219,
+    "geom:longitude":-91.75492,
+    "iso:country":"US",
+    "sg:address":"341 Stoney Point Rd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5792",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67kAwbzRliMldkWnq68uT0_41.975219_-91.754920@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110434,
+    "wof:geomhash":"6dc00e1c3f7d1c90ad4aa5497099e6ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856957201
+        }
+    ],
+    "wof:id":856957201,
+    "wof:lastmodified":1464110434,
+    "wof:name":"Cherry Hill Pool",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -91.75492,
+    41.975219,
+    -91.75492,
+    41.975219
+],
+  "geometry": {"coordinates":[-91.75492,41.975219],"type":"Point"}
+}

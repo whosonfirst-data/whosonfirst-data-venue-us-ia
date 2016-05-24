@@ -1,0 +1,71 @@
+{
+  "id": 856947577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.69683,42.030127,-91.69683,42.030127",
+    "geom:latitude":42.030127,
+    "geom:longitude":-91.69683,
+    "iso:country":"US",
+    "sg:address":"3808 Silver Springs Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 9664",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QB7nVfB7nWnlGeEbn7N01_42.030127_-91.696830@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109978,
+    "wof:geomhash":"1d8ad87ea5363b97929ad9a768fd3168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856947577
+        }
+    ],
+    "wof:id":856947577,
+    "wof:lastmodified":1464109978,
+    "wof:name":"Photo Memories",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.69683,
+    42.030127,
+    -91.69683,
+    42.030127
+],
+  "geometry": {"coordinates":[-91.69683000000001,42.030127],"type":"Point"}
+}

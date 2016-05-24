@@ -1,0 +1,73 @@
+{
+  "id": 856807633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676443,41.945525,-91.676443,41.945525",
+    "geom:latitude":41.945525,
+    "geom:longitude":-91.676443,
+    "iso:country":"US",
+    "sg:address":"3243 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2631",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dvp8mTop8kpckENzR5ilJ_41.945525_-91.676443@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103517,
+    "wof:geomhash":"1c9f37d2fcb4876838e49a61cfef93bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856807633
+        }
+    ],
+    "wof:id":856807633,
+    "wof:lastmodified":1464103517,
+    "wof:name":"Metz Baking Co",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -91.676443,
+    41.945525,
+    -91.676443,
+    41.945525
+],
+  "geometry": {"coordinates":[-91.67644300000001,41.945525],"type":"Point"}
+}

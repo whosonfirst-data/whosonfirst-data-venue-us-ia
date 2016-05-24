@@ -1,0 +1,66 @@
+{
+  "id": 857065955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.595046,42.033417,-91.595046,42.033417",
+    "geom:latitude":42.033417,
+    "geom:longitude":-91.595046,
+    "iso:country":"US",
+    "sg:address":"1360 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 261 0000",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QkKA2x9dWlxzkgua20e6A_42.033417_-91.595046@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115134,
+    "wof:geomhash":"fec81a4804879e8580c87144938b588b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065955
+        }
+    ],
+    "wof:id":857065955,
+    "wof:lastmodified":1464115134,
+    "wof:name":"Economy Auto Repair",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.595046,
+    42.033417,
+    -91.595046,
+    42.033417
+],
+  "geometry": {"coordinates":[-91.595046,42.033417],"type":"Point"}
+}

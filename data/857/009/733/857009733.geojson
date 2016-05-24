@@ -1,0 +1,73 @@
+{
+  "id": 857009733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.624766,41.61571,-93.624766,41.61571",
+    "geom:latitude":41.61571,
+    "geom:longitude":-93.624766,
+    "iso:country":"US",
+    "sg:address":"600 Birdland Dr",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 244 8414",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z2tWwEbR0j8oAk19OsRvD_41.615710_-93.624766@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112777,
+    "wof:geomhash":"6b018eb35937d5bc253f1e5de7b593f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":857009733
+        }
+    ],
+    "wof:id":857009733,
+    "wof:lastmodified":1464112777,
+    "wof:name":"Des Moines Power Boat Club",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -93.624766,
+    41.61571,
+    -93.624766,
+    41.61571
+],
+  "geometry": {"coordinates":[-93.62476599999999,41.61571],"type":"Point"}
+}

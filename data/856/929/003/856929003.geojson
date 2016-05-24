@@ -1,0 +1,71 @@
+{
+  "id": 856929003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.581507,41.355871,-93.581507,41.355871",
+    "geom:latitude":41.355871,
+    "geom:longitude":-93.581507,
+    "iso:country":"US",
+    "sg:address":"601 S O St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 5956",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nmHGzOyr2a4JqYVmg1qN7_41.355871_-93.581507@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109202,
+    "wof:geomhash":"9204dccfbaea4c7c73dd587905b157b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856929003
+        }
+    ],
+    "wof:id":856929003,
+    "wof:lastmodified":1464109202,
+    "wof:name":"Stalter Construction",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.581507,
+    41.355871,
+    -93.581507,
+    41.355871
+],
+  "geometry": {"coordinates":[-93.581507,41.355871],"type":"Point"}
+}

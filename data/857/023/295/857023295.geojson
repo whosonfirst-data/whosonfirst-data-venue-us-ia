@@ -1,0 +1,68 @@
+{
+  "id": 857023295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.65815,41.955934,-91.65815,41.955934",
+    "geom:latitude":41.955934,
+    "geom:longitude":-91.65815,
+    "iso:country":"US",
+    "sg:address":"24 Wilson Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 9606",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hqnm1Ctkji7174oQvQ8c0_41.955934_-91.658150@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113324,
+    "wof:geomhash":"a449b9ed5686b2029995963b4850466d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857023295
+        }
+    ],
+    "wof:id":857023295,
+    "wof:lastmodified":1464113324,
+    "wof:name":"Drug Town",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65815,
+    41.955934,
+    -91.65815,
+    41.955934
+],
+  "geometry": {"coordinates":[-91.65815000000001,41.955934],"type":"Point"}
+}

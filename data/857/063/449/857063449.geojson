@@ -1,0 +1,74 @@
+{
+  "id": 857063449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8255,41.240002,-95.8255,41.240002",
+    "geom:latitude":41.240002,
+    "geom:longitude":-95.8255,
+    "iso:country":"US",
+    "sg:address":"1022 Woodbury Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3755",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gXDFBkMwXJvbv6LQkJ1B7_41.240002_-95.825500@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115037,
+    "wof:geomhash":"5d65eb704d0687b91fbd3480e2cc86b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063449
+        }
+    ],
+    "wof:id":857063449,
+    "wof:lastmodified":1464115037,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -95.8255,
+    41.240002,
+    -95.8255,
+    41.240002
+],
+  "geometry": {"coordinates":[-95.82550000000001,41.240002],"type":"Point"}
+}

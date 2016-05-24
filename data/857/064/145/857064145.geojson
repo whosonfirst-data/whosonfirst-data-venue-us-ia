@@ -1,0 +1,73 @@
+{
+  "id": 857064145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.836906,41.267103,-95.836906,41.267103",
+    "geom:latitude":41.267103,
+    "geom:longitude":-95.836906,
+    "iso:country":"US",
+    "sg:address":"1 Edmundson Pl Ste 310",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 396 4300",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ynhrUq5tc7TTppvLYCCGH_41.267103_-95.836906@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115067,
+    "wof:geomhash":"dce93ebf96d7c616fc2c4cb4457464fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857064145
+        }
+    ],
+    "wof:id":857064145,
+    "wof:lastmodified":1464115067,
+    "wof:name":"Crowley Kevin P MD",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -95.836906,
+    41.267103,
+    -95.836906,
+    41.267103
+],
+  "geometry": {"coordinates":[-95.836906,41.267103],"type":"Point"}
+}

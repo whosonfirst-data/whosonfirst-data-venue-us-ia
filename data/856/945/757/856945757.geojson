@@ -1,0 +1,71 @@
+{
+  "id": 856945757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.727705,41.986295,-91.727705,41.986295",
+    "geom:latitude":41.986295,
+    "geom:longitude":-91.727705,
+    "iso:country":"US",
+    "sg:address":"4241 Beecher Ct NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 3074",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17QRWTtvBL02JLaC5JUCqC_41.986295_-91.727705@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109912,
+    "wof:geomhash":"fc50adead464b297bff7761d05e46dd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856945757
+        }
+    ],
+    "wof:id":856945757,
+    "wof:lastmodified":1464109912,
+    "wof:name":"Wirth More Siding",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.727705,
+    41.986295,
+    -91.727705,
+    41.986295
+],
+  "geometry": {"coordinates":[-91.727705,41.986295],"type":"Point"}
+}

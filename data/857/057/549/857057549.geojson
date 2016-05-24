@@ -1,0 +1,82 @@
+{
+  "id": 857057549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.809119,41.587271,-93.809119,41.587271",
+    "geom:latitude":41.587271,
+    "geom:longitude":-93.809119,
+    "iso:country":"US",
+    "sg:address":"1224 Jordan Creek Pkwy",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/boone/102026-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 233 5716",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KTUTkdwLjGxGGo8G06VZy_41.587271_-93.809119@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114807,
+    "wof:geomhash":"502deb81003b4690be48a31c0bbdd7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":857057549
+        }
+    ],
+    "wof:id":857057549,
+    "wof:lastmodified":1464114807,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -93.809119,
+    41.587271,
+    -93.809119,
+    41.587271
+],
+  "geometry": {"coordinates":[-93.809119,41.587271],"type":"Point"}
+}

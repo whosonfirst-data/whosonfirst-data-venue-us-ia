@@ -1,0 +1,75 @@
+{
+  "id": 856839907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.676147,41.929611,-91.676147,41.929611",
+    "geom:latitude":41.929611,
+    "geom:longitude":-91.676147,
+    "iso:country":"US",
+    "sg:address":"420 50th Avenue Ct SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 2322",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cartage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63BfUmmzspRrxBfdTtYt65_41.929611_-91.676147@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105001,
+    "wof:geomhash":"c992ba020f4cffe624247b94dea3f90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876635,
+            "region_id":85688713,
+            "venue_id":856839907
+        }
+    ],
+    "wof:id":856839907,
+    "wof:lastmodified":1464105001,
+    "wof:name":"Iowa Distribution Svc Inc",
+    "wof:parent_id":85876635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cartage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.676147,
+    41.929611,
+    -91.676147,
+    41.929611
+],
+  "geometry": {"coordinates":[-91.676147,41.929611],"type":"Point"}
+}

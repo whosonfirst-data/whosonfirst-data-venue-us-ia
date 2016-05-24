@@ -1,0 +1,71 @@
+{
+  "id": 856788645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.585829,41.87318,-91.585829,41.87318",
+    "geom:latitude":41.87318,
+    "geom:longitude":-91.585829,
+    "iso:country":"US",
+    "sg:address":"1695 Dows St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 4963",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05DvkXIehntK7tiUJt65Tg_41.873180_-91.585829@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102731,
+    "wof:geomhash":"611e31d4990822101ed19c90e74ccab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856788645
+        }
+    ],
+    "wof:id":856788645,
+    "wof:lastmodified":1464102731,
+    "wof:name":"Clary Illian",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -91.585829,
+    41.87318,
+    -91.585829,
+    41.87318
+],
+  "geometry": {"coordinates":[-91.585829,41.87318],"type":"Point"}
+}

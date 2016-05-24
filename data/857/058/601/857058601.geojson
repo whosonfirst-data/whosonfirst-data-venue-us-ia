@@ -1,0 +1,72 @@
+{
+  "id": 857058601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.345786,42.447003,-96.345786,42.447003",
+    "geom:latitude":42.447003,
+    "geom:longitude":-96.345786,
+    "iso:country":"US",
+    "sg:address":"4735 Sergeant Rd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/118838-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 274 6863",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yjzHK6DFpnjIM9A0SY5k2_42.447003_-96.345786@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114850,
+    "wof:geomhash":"af9fb4e00626243a038796040944bc77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857058601
+        }
+    ],
+    "wof:id":857058601,
+    "wof:lastmodified":1464114850,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.345786,
+    42.447003,
+    -96.345786,
+    42.447003
+],
+  "geometry": {"coordinates":[-96.345786,42.447003],"type":"Point"}
+}

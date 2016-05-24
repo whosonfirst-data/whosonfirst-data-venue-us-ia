@@ -1,0 +1,71 @@
+{
+  "id": 857068133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.626222,42.023215,-91.626222,42.023215",
+    "geom:latitude":42.023215,
+    "geom:longitude":-91.626222,
+    "iso:country":"US",
+    "sg:address":"4501 1st Ave SE #2108",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 0480",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VqoiDFm2KSGrL8JkUtMH_42.023215_-91.626222@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115246,
+    "wof:geomhash":"ed1366415698c8d06411786e3a49c9bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857068133
+        }
+    ],
+    "wof:id":857068133,
+    "wof:lastmodified":1464115246,
+    "wof:name":"The Home Depot",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.626222,
+    42.023215,
+    -91.626222,
+    42.023215
+],
+  "geometry": {"coordinates":[-91.626222,42.023215],"type":"Point"}
+}

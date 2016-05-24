@@ -1,0 +1,72 @@
+{
+  "id": 857070303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645006,41.925487,-91.645006,41.925487",
+    "geom:latitude":41.925487,
+    "geom:longitude":-91.645006,
+    "iso:country":"US",
+    "sg:address":"700 Bell Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 8488",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.uiu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QDyO9hgdKNEzGyb8iutQY_41.925487_-91.645006@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115347,
+    "wof:geomhash":"d3cbc3270046e55efaa51966222b9afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":857070303
+        }
+    ],
+    "wof:id":857070303,
+    "wof:lastmodified":1464115347,
+    "wof:name":"Upper Iowa University Cedar Rapids Center",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -91.645006,
+    41.925487,
+    -91.645006,
+    41.925487
+],
+  "geometry": {"coordinates":[-91.645006,41.925487],"type":"Point"}
+}

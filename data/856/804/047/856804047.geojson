@@ -1,0 +1,71 @@
+{
+  "id": 856804047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.223472,41.475947,-95.223472,41.475947",
+    "geom:latitude":41.475947,
+    "geom:longitude":-95.223472,
+    "iso:country":"US",
+    "sg:address":"513 Pearl St",
+    "sg:city":"Walnut",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 784 3322",
+    "sg:postcode":"51577",
+    "sg:province":"IA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s0n63sN7YIKgtXMrMCqmL_41.475947_-95.223472@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103364,
+    "wof:geomhash":"308a95d15a98815cd1322b8304b97663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856804047
+        }
+    ],
+    "wof:id":856804047,
+    "wof:lastmodified":1464103364,
+    "wof:name":"Walnut Antique Mall",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -95.223472,
+    41.475947,
+    -95.223472,
+    41.475947
+],
+  "geometry": {"coordinates":[-95.223472,41.475947],"type":"Point"}
+}

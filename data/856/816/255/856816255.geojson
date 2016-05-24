@@ -1,0 +1,77 @@
+{
+  "id": 856816255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.527293,41.659934,-91.527293,41.659934",
+    "geom:latitude":41.659934,
+    "geom:longitude":-91.527293,
+    "iso:country":"US",
+    "sg:address":"505 E Washington St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 6238",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gcKqJ3KKCAPqa1MmexiUy_41.659934_-91.527293@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103881,
+    "wof:geomhash":"437da412517d8b6f693965d93964f4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896455,
+            "region_id":85688713,
+            "venue_id":856816255
+        }
+    ],
+    "wof:id":856816255,
+    "wof:lastmodified":1464103881,
+    "wof:name":"Counseling Clinic",
+    "wof:parent_id":85896455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -91.527293,
+    41.659934,
+    -91.527293,
+    41.659934
+],
+  "geometry": {"coordinates":[-91.527293,41.659934],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856922477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.747379,41.955209,-91.747379,41.955209",
+    "geom:latitude":41.955209,
+    "geom:longitude":-91.747379,
+    "iso:country":"US",
+    "sg:address":"2419 Roemig St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 265 4212",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tf5WBNlVG3BazMafdzXPK_41.955209_-91.747379@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108931,
+    "wof:geomhash":"fb28aeef1125b8e4f24087db823e1f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856922477
+        }
+    ],
+    "wof:id":856922477,
+    "wof:lastmodified":1464108931,
+    "wof:name":"R & J Enterprises Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.747379,
+    41.955209,
+    -91.747379,
+    41.955209
+],
+  "geometry": {"coordinates":[-91.747379,41.955209],"type":"Point"}
+}

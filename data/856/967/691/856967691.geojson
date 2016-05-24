@@ -1,0 +1,71 @@
+{
+  "id": 856967691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.09767,41.849357,-94.09767,41.849357",
+    "geom:latitude":41.849357,
+    "geom:longitude":-94.09767,
+    "iso:country":"US",
+    "sg:address":"1700 Park St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 2755",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50hFZDPe5G1SZFA1lAfs0l_41.849357_-94.097670@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110856,
+    "wof:geomhash":"fc7a27e510c07e65df77330166c4d060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856967691
+        }
+    ],
+    "wof:id":856967691,
+    "wof:lastmodified":1464110856,
+    "wof:name":"Perry City Cemetery",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -94.09767,
+    41.849357,
+    -94.09767,
+    41.849357
+],
+  "geometry": {"coordinates":[-94.09766999999999,41.849357],"type":"Point"}
+}

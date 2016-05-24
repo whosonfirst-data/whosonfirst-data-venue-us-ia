@@ -1,0 +1,72 @@
+{
+  "id": 857069481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.626364,42.023152,-91.626364,42.023152",
+    "geom:latitude":42.023152,
+    "geom:longitude":-91.626364,
+    "iso:country":"US",
+    "sg:address":"3635 1st Ave",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 1955",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "thai"
+    ],
+    "sg:website":"www.siamville.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dJzrQF0MVv0a6VGLHsF45_42.023152_-91.626364@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115305,
+    "wof:geomhash":"4fe84a5e0af0953b0e0411c63af5e632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857069481
+        }
+    ],
+    "wof:id":857069481,
+    "wof:lastmodified":1464115305,
+    "wof:name":"Siamville Thai Cuisine",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thai"
+    ]
+},
+  "bbox": [
+    -91.626364,
+    42.023152,
+    -91.626364,
+    42.023152
+],
+  "geometry": {"coordinates":[-91.626364,42.023152],"type":"Point"}
+}

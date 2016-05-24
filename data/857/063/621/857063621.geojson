@@ -1,0 +1,74 @@
+{
+  "id": 857063621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.844123,41.265656,-95.844123,41.265656",
+    "geom:latitude":41.265656,
+    "geom:longitude":-95.844123,
+    "iso:country":"US",
+    "sg:address":"123 Harrison St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 256 4933",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "sg:website":"www.janovichroofing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OULNvD43pYdeR7vSsWt0z_41.265656_-95.844123@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115043,
+    "wof:geomhash":"04e73dd7110fe679770f0869694eb0c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063621
+        }
+    ],
+    "wof:id":857063621,
+    "wof:lastmodified":1464115043,
+    "wof:name":"Janovich Roofing and Construction",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.844123,
+    41.265656,
+    -95.844123,
+    41.265656
+],
+  "geometry": {"coordinates":[-95.844123,41.265656],"type":"Point"}
+}

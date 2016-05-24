@@ -1,0 +1,75 @@
+{
+  "id": 856998651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.649044,42.021989,-91.649044,42.021989",
+    "geom:latitude":42.021989,
+    "geom:longitude":-91.649044,
+    "iso:country":"US",
+    "sg:address":"1000 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 4927",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house",
+        "bird",
+        "feeder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fGckON3yuMvi132iREXSp_42.021989_-91.649044@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112315,
+    "wof:geomhash":"1b9842079e4d5d2bfd3f9ad12d9f93a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856998651
+        }
+    ],
+    "wof:id":856998651,
+    "wof:lastmodified":1464112315,
+    "wof:name":"Wildlife Habitat",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "bird",
+        "feeder"
+    ]
+},
+  "bbox": [
+    -91.649044,
+    42.021989,
+    -91.649044,
+    42.021989
+],
+  "geometry": {"coordinates":[-91.649044,42.021989],"type":"Point"}
+}

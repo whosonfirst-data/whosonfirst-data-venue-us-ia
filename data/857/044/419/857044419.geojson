@@ -1,0 +1,85 @@
+{
+  "id": 857044419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673103,41.973801,-91.673103,41.973801",
+    "geom:latitude":41.973801,
+    "geom:longitude":-91.673103,
+    "iso:country":"US",
+    "sg:address":"322 2nd St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 5566",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "management",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A1uQ6x6IeFLndfC9e1Mlc_41.973431_-91.672782@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114252,
+    "wof:geomhash":"a5ef7e057768038c2acf2442b5e6573a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857044419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857044419
+        }
+    ],
+    "wof:id":857044419,
+    "wof:lastmodified":1464114252,
+    "wof:name":"Eagle Property Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "property"
+    ]
+},
+  "bbox": [
+    -91.673103,
+    41.973801,
+    -91.673103,
+    41.973801
+],
+  "geometry": {"coordinates":[-91.673103,41.973801],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856969435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.663767,42.011624,-91.663767,42.011624",
+    "geom:latitude":42.011624,
+    "geom:longitude":-91.663767,
+    "iso:country":"US",
+    "sg:address":"3326 Center Point Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 2676",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eIL5xZyZIZJyVXerpabfz_42.011624_-91.663767@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110942,
+    "wof:geomhash":"0771e44e57fb133f2b2df6e27b037713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856969435
+        }
+    ],
+    "wof:id":856969435,
+    "wof:lastmodified":1464110942,
+    "wof:name":"Angela Food Mart",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.663767,
+    42.011624,
+    -91.663767,
+    42.011624
+],
+  "geometry": {"coordinates":[-91.66376700000001,42.011624],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856783275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.385363,41.314336,-95.385363,41.314336",
+    "geom:latitude":41.314336,
+    "geom:longitude":-95.385363,
+    "iso:country":"US",
+    "sg:address":"901 Palmer St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6273",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59UAhQToqWzKKgcXtcqNqx_41.314336_-95.385363@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102503,
+    "wof:geomhash":"45a694ee0f414546ffce45e54415c37d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856783275
+        }
+    ],
+    "wof:id":856783275,
+    "wof:lastmodified":1464102503,
+    "wof:name":"Melvin Feigenbutz Farm",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.385363,
+    41.314336,
+    -95.385363,
+    41.314336
+],
+  "geometry": {"coordinates":[-95.385363,41.314336],"type":"Point"}
+}

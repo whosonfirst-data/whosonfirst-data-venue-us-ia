@@ -1,0 +1,79 @@
+{
+  "id": 857022313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.642516,41.593418,-93.642516,41.593418",
+    "geom:latitude":41.593418,
+    "geom:longitude":-93.642516,
+    "iso:country":"US",
+    "sg:address":"851 19th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 7000",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "information",
+        "planning",
+        "center",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bLTYzCvUtS2MfTWZTZ45q_41.593418_-93.642516@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113288,
+    "wof:geomhash":"2458a2d2a8b9c1852cef4a928b0f3487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":857022313
+        }
+    ],
+    "wof:id":857022313,
+    "wof:lastmodified":1464113288,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "planning",
+        "center",
+        "family"
+    ]
+},
+  "bbox": [
+    -93.642516,
+    41.593418,
+    -93.642516,
+    41.593418
+],
+  "geometry": {"coordinates":[-93.642516,41.593418],"type":"Point"}
+}

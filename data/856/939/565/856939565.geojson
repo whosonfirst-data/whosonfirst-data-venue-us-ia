@@ -1,0 +1,73 @@
+{
+  "id": 856939565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.678443,41.877828,-93.678443,41.877828",
+    "geom:latitude":41.877828,
+    "geom:longitude":-93.678443,
+    "iso:country":"US",
+    "sg:address":"600 S Linn St",
+    "sg:city":"Slater",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 228 3553",
+    "sg:postcode":"50244",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T11b8Sy4h7hnMxEYBeDgr_41.877828_-93.678443@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109647,
+    "wof:geomhash":"9c6b6c68efb897b0c832b4eb3feca7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":856939565
+        }
+    ],
+    "wof:id":856939565,
+    "wof:lastmodified":1464109647,
+    "wof:name":"Slater Dental Office",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.678443,
+    41.877828,
+    -93.678443,
+    41.877828
+],
+  "geometry": {"coordinates":[-93.678443,41.877828],"type":"Point"}
+}

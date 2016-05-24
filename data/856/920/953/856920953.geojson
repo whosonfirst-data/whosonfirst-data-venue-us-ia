@@ -1,0 +1,71 @@
+{
+  "id": 856920953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.781004,41.917826,-91.781004,41.917826",
+    "geom:latitude":41.917826,
+    "geom:longitude":-91.781004,
+    "iso:country":"US",
+    "sg:address":"525 Vanderbilt St",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 846 2204",
+    "sg:postcode":"52228",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gl05z9xKAwQu9kPBghZfn_41.917826_-91.781004@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108862,
+    "wof:geomhash":"4bf528b52306387029f144497f5366e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856920953
+        }
+    ],
+    "wof:id":856920953,
+    "wof:lastmodified":1464108862,
+    "wof:name":"Fairfax City Hall",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.781004,
+    41.917826,
+    -91.781004,
+    41.917826
+],
+  "geometry": {"coordinates":[-91.781004,41.917826],"type":"Point"}
+}

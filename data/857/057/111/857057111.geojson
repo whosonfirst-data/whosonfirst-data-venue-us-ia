@@ -1,0 +1,78 @@
+{
+  "id": 857057111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.580635,41.705174,-93.580635,41.705174",
+    "geom:latitude":41.705174,
+    "geom:longitude":-93.580635,
+    "iso:country":"US",
+    "sg:address":"2421 SE Delaware Ave",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/douglas/180865-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 2002",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jnZ1a2ktbUH4phci0xHUF_41.705174_-93.580635@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114788,
+    "wof:geomhash":"3501862ed059c1650733708d5c95fafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896319,
+            "region_id":85688713,
+            "venue_id":857057111
+        }
+    ],
+    "wof:id":857057111,
+    "wof:lastmodified":1464114788,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85896319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -93.580635,
+    41.705174,
+    -93.580635,
+    41.705174
+],
+  "geometry": {"coordinates":[-93.580635,41.705174],"type":"Point"}
+}

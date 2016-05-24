@@ -1,0 +1,74 @@
+{
+  "id": 857066531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.6661,41.980301,-91.6661,41.980301",
+    "geom:latitude":41.980301,
+    "geom:longitude":-91.6661,
+    "iso:country":"US",
+    "sg:address":"421 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 7120",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"subcity.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UaSrUxs0K6tje0zhOzW48_41.980301_-91.666100@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115153,
+    "wof:geomhash":"0e03872d13a29b49d0c9b0b901e13a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066531
+        }
+    ],
+    "wof:id":857066531,
+    "wof:lastmodified":1464115153,
+    "wof:name":"Sub City",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.6661,
+    41.980301,
+    -91.6661,
+    41.980301
+],
+  "geometry": {"coordinates":[-91.6661,41.980301],"type":"Point"}
+}

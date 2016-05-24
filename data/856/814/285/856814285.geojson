@@ -1,0 +1,75 @@
+{
+  "id": 856814285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.748615,41.627732,-93.748615,41.627732",
+    "geom:latitude":41.627732,
+    "geom:longitude":-93.748615,
+    "iso:country":"US",
+    "sg:address":"3305 Melanie Dr",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 276 6112",
+    "sg:postcode":"50322",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZPN9kPsoriPpJtHUCQ3yO_41.627732_-93.748615@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103800,
+    "wof:geomhash":"8bb15c9156f747318c7c6d3cf107834d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896507,
+            "region_id":85688713,
+            "venue_id":856814285
+        }
+    ],
+    "wof:id":856814285,
+    "wof:lastmodified":1464103800,
+    "wof:name":"Knuth Properties",
+    "wof:parent_id":85896507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.748615,
+    41.627732,
+    -93.748615,
+    41.627732
+],
+  "geometry": {"coordinates":[-93.748615,41.627732],"type":"Point"}
+}

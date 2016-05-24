@@ -1,0 +1,71 @@
+{
+  "id": 857029875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.020576,41.629961,-94.020576,41.629961",
+    "geom:latitude":41.629961,
+    "geom:longitude":-94.020576,
+    "iso:country":"US",
+    "sg:address":"2786 Fairgrounds Rd",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 4053",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ybPtBC8lEN6YUt6NKvhtL_41.629961_-94.020576@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113656,
+    "wof:geomhash":"d8ea9833c2c492eaf513c12a201bcc67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857029875
+        }
+    ],
+    "wof:id":857029875,
+    "wof:lastmodified":1464113656,
+    "wof:name":"Greenslade Towing",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.020576,
+    41.629961,
+    -94.020576,
+    41.629961
+],
+  "geometry": {"coordinates":[-94.02057600000001,41.629961],"type":"Point"}
+}

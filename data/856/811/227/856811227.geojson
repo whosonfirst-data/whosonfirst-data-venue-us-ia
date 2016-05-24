@@ -1,0 +1,75 @@
+{
+  "id": 856811227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.636543,41.589934,-93.636543,41.589934",
+    "geom:latitude":41.589934,
+    "geom:longitude":-93.636543,
+    "iso:country":"US",
+    "sg:address":"1215 Pleasant St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 241 8383",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28QUei9v6fouLzcJ6CXWfN_41.589934_-93.636543@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103681,
+    "wof:geomhash":"a72f4202548f375cb5baf9c55de4ef0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856811227
+        }
+    ],
+    "wof:id":856811227,
+    "wof:lastmodified":1464103681,
+    "wof:name":"Perinatal Services",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.636543,
+    41.589934,
+    -93.636543,
+    41.589934
+],
+  "geometry": {"coordinates":[-93.636543,41.589934],"type":"Point"}
+}

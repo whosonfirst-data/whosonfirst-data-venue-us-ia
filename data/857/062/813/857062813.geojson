@@ -1,0 +1,84 @@
+{
+  "id": 857062813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.886588,41.259752,-95.886588,41.259752",
+    "geom:latitude":41.259752,
+    "geom:longitude":-95.886588,
+    "iso:country":"US",
+    "sg:address":"205 S 27th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 325 5530",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.lhwp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t5QsEdexUo8Y779Yc3RG5_41.259752_-95.886588@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115015,
+    "wof:geomhash":"108f8c4b1b12a58f7d7d80c6e53928a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857062813
+        }
+    ],
+    "wof:id":857062813,
+    "wof:lastmodified":1464115015,
+    "wof:name":"Little Hands At Work & Play",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -95.886588,
+    41.259752,
+    -95.886588,
+    41.259752
+],
+  "geometry": {"coordinates":[-95.886588,41.259752],"type":"Point"}
+}

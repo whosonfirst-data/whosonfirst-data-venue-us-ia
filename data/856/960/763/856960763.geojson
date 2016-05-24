@@ -1,0 +1,71 @@
+{
+  "id": 856960763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.713958,42.016569,-91.713958,42.016569",
+    "geom:latitude":42.016569,
+    "geom:longitude":-91.713958,
+    "iso:country":"US",
+    "sg:address":"5320 Bent Tree Ct NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 5360",
+    "sg:postcode":"52411",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HbdRSpe5iYCy9xpMhnP7K_42.016569_-91.713958@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110569,
+    "wof:geomhash":"0d3839b77f0f8391e6fadd330c7f2c7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856960763
+        }
+    ],
+    "wof:id":856960763,
+    "wof:lastmodified":1464110569,
+    "wof:name":"Iben Builders",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -91.713958,
+    42.016569,
+    -91.713958,
+    42.016569
+],
+  "geometry": {"coordinates":[-91.71395800000001,42.016569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856810805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524468,42.203818,-91.524468,42.203818",
+    "geom:latitude":42.203818,
+    "geom:longitude":-91.524468,
+    "iso:country":"US",
+    "sg:address":"22 S 4th St",
+    "sg:city":"Central City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 438 1831",
+    "sg:postcode":"52214",
+    "sg:province":"IA",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f6CjEFvg2uwkzB3YJKEbJ_42.203818_-91.524468@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103666,
+    "wof:geomhash":"20c522746be185113cefe9c04342c7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856810805
+        }
+    ],
+    "wof:id":856810805,
+    "wof:lastmodified":1464103666,
+    "wof:name":"Jones & Koontz Inc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -91.524468,
+    42.203818,
+    -91.524468,
+    42.203818
+],
+  "geometry": {"coordinates":[-91.524468,42.203818],"type":"Point"}
+}

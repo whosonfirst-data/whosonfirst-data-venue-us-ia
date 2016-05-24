@@ -1,0 +1,73 @@
+{
+  "id": 856800013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916701,41.294429,-95.916701,41.294429",
+    "geom:latitude":41.294429,
+    "geom:longitude":-95.916701,
+    "iso:country":"US",
+    "sg:address":"1014 Ave O",
+    "sg:city":"Carter Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 347 5591",
+    "sg:postcode":"51510",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WGBXcGKuOIs5DTaeO7l7s_41.294429_-95.916701@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103196,
+    "wof:geomhash":"0cef976bba7584bc581b0f546d865dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856800013
+        }
+    ],
+    "wof:id":856800013,
+    "wof:lastmodified":1464103196,
+    "wof:name":"Midwest Dreams Inc",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.916701,
+    41.294429,
+    -95.916701,
+    41.294429
+],
+  "geometry": {"coordinates":[-95.916701,41.294429],"type":"Point"}
+}

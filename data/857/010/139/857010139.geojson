@@ -1,0 +1,75 @@
+{
+  "id": 857010139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.955378,41.60673,-93.955378,41.60673",
+    "geom:latitude":41.60673,
+    "geom:longitude":-93.955378,
+    "iso:country":"US",
+    "sg:address":"2955 R Ave",
+    "sg:city":"Adel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 993 3912",
+    "sg:postcode":"50003",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29XpWRBTVa54TfVIjiVG0y_41.606730_-93.955378@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112789,
+    "wof:geomhash":"71238043621daa1783b6134284705c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857010139
+        }
+    ],
+    "wof:id":857010139,
+    "wof:lastmodified":1464112789,
+    "wof:name":"Seelah Kennel & Training Ctr",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -93.955378,
+    41.60673,
+    -93.955378,
+    41.60673
+],
+  "geometry": {"coordinates":[-93.955378,41.60673],"type":"Point"}
+}

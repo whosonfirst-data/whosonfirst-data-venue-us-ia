@@ -1,0 +1,69 @@
+{
+  "id": 856974989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.538585,41.630771,-91.538585,41.630771",
+    "geom:latitude":41.630771,
+    "geom:longitude":-91.538585,
+    "iso:country":"US",
+    "sg:address":"2456 S Riverside Dr",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 6438",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_315jp94QMj30vzlOZKH74I_41.630771_-91.538585@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111204,
+    "wof:geomhash":"03859c22330946ab1385b9f986307dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856974989
+        }
+    ],
+    "wof:id":856974989,
+    "wof:lastmodified":1464111204,
+    "wof:name":"Mediq PRN",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -91.538585,
+    41.630771,
+    -91.538585,
+    41.630771
+],
+  "geometry": {"coordinates":[-91.538585,41.630771],"type":"Point"}
+}

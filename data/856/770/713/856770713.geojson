@@ -1,0 +1,73 @@
+{
+  "id": 856770713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618483,42.148061,-91.618483,42.148061",
+    "geom:latitude":42.148061,
+    "geom:longitude":-91.618483,
+    "iso:country":"US",
+    "sg:address":"121 S Main Ave",
+    "sg:city":"Alburnett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 842 2589",
+    "sg:postcode":"52202",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lXZOkVL39ivvpWQvBytz0_42.148061_-91.618483@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102224,
+    "wof:geomhash":"9d4e802cdd3de9d26831fa48c6505b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856770713
+        }
+    ],
+    "wof:id":856770713,
+    "wof:lastmodified":1464102224,
+    "wof:name":"Dave's Service",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.618483,
+    42.148061,
+    -91.618483,
+    42.148061
+],
+  "geometry": {"coordinates":[-91.618483,42.148061],"type":"Point"}
+}

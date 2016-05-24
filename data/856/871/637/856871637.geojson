@@ -1,0 +1,73 @@
+{
+  "id": 856871637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648772,41.936063,-91.648772,41.936063",
+    "geom:latitude":41.936063,
+    "geom:longitude":-91.648772,
+    "iso:country":"US",
+    "sg:address":"4110 Thomas Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 399 1818",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21M9JtkTaA1L8yDvV1FQYo_41.936063_-91.648772@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106721,
+    "wof:geomhash":"74b59ff7deaf83fe55b81de0e3284f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856871637
+        }
+    ],
+    "wof:id":856871637,
+    "wof:lastmodified":1464106721,
+    "wof:name":"Cliff Viessman Tank Wash",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -91.648772,
+    41.936063,
+    -91.648772,
+    41.936063
+],
+  "geometry": {"coordinates":[-91.64877199999999,41.936063],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856855047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.858951,41.24286,-95.858951,41.24286",
+    "geom:latitude":41.24286,
+    "geom:longitude":-95.858951,
+    "iso:country":"US",
+    "sg:address":"1919 S 10th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7326",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B3Tm50T70bRUNAuiMvLRB_41.242860_-95.858951@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105762,
+    "wof:geomhash":"581de4e6024f3463fd3ea642fb17b09a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856855047
+        }
+    ],
+    "wof:id":856855047,
+    "wof:lastmodified":1464105762,
+    "wof:name":"Southside Christian Chr",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.858951,
+    41.24286,
+    -95.858951,
+    41.24286
+],
+  "geometry": {"coordinates":[-95.858951,41.24286],"type":"Point"}
+}

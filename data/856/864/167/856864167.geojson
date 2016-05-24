@@ -1,0 +1,71 @@
+{
+  "id": 856864167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.19473,41.596182,-94.19473,41.596182",
+    "geom:latitude":41.596182,
+    "geom:longitude":-94.19473,
+    "iso:country":"US",
+    "sg:address":"1300 Grant St",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4712",
+    "sg:postcode":"50233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wxv3ZOz3UZTf5FpTumYRs_41.596182_-94.194730@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106163,
+    "wof:geomhash":"ce6813fb342cb97ff6ad98d4d2c3dc5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856864167
+        }
+    ],
+    "wof:id":856864167,
+    "wof:lastmodified":1464106163,
+    "wof:name":"Waukee Fire Dept",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.19473,
+    41.596182,
+    -94.19473,
+    41.596182
+],
+  "geometry": {"coordinates":[-94.19473000000001,41.596182],"type":"Point"}
+}

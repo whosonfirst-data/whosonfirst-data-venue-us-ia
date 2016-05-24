@@ -1,0 +1,71 @@
+{
+  "id": 856809973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.561207,41.361417,-93.561207,41.361417",
+    "geom:latitude":41.361417,
+    "geom:longitude":-93.561207,
+    "iso:country":"US",
+    "sg:address":"126 W Ashland Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 4874",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nNhWWP3aQhI9tGHUKIIsd_41.361417_-93.561207@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103637,
+    "wof:geomhash":"0efd63e74a0be7913120a80177140a32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856809973
+        }
+    ],
+    "wof:id":856809973,
+    "wof:lastmodified":1464103637,
+    "wof:name":"Home Town Health Foods",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -93.561207,
+    41.361417,
+    -93.561207,
+    41.361417
+],
+  "geometry": {"coordinates":[-93.561207,41.361417],"type":"Point"}
+}

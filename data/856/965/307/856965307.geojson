@@ -1,0 +1,71 @@
+{
+  "id": 856965307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614484,41.995057,-91.614484,41.995057",
+    "geom:latitude":41.995057,
+    "geom:longitude":-91.614484,
+    "iso:country":"US",
+    "sg:address":"3635 Cottage Grove Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8601",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IX3KQVqfDareS4dE8f6NS_41.995057_-91.614484@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110761,
+    "wof:geomhash":"4c51a46ff78b5baf6e8723322800367e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856965307
+        }
+    ],
+    "wof:id":856965307,
+    "wof:lastmodified":1464110761,
+    "wof:name":"St John The Baptist Orthodox",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.614484,
+    41.995057,
+    -91.614484,
+    41.995057
+],
+  "geometry": {"coordinates":[-91.614484,41.995057],"type":"Point"}
+}

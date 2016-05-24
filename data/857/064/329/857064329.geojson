@@ -1,0 +1,71 @@
+{
+  "id": 857064329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.868401,41.312099,-95.868401,41.312099",
+    "geom:latitude":41.312099,
+    "geom:longitude":-95.868401,
+    "iso:country":"US",
+    "sg:address":"20474 Monument Rd",
+    "sg:city":"Crescent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 0068",
+    "sg:postcode":"51526",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OJHWvrbVBrhXdAvkz5oST_41.312099_-95.868401@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115073,
+    "wof:geomhash":"e54c3d0a19f9deac0051635862f02842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857064329
+        }
+    ],
+    "wof:id":857064329,
+    "wof:lastmodified":1464115073,
+    "wof:name":"Bluffs Paving & Utility Inc",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.868401,
+    41.312099,
+    -95.868401,
+    41.312099
+],
+  "geometry": {"coordinates":[-95.86840100000001,41.312099],"type":"Point"}
+}

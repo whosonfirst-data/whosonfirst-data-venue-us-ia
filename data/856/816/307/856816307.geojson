@@ -1,0 +1,72 @@
+{
+  "id": 856816307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.849937,41.259949,-95.849937,41.259949",
+    "geom:latitude":41.259949,
+    "geom:longitude":-95.849937,
+    "iso:country":"US",
+    "sg:address":"29 S Main St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 2222",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "management"
+    ],
+    "sg:website":"www.knudsoncompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K8tUBT1TqQ1HLfm6W4YYH_41.259949_-95.849937@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103883,
+    "wof:geomhash":"ec2570c2e537c14e5e9e612436258840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856816307
+        }
+    ],
+    "wof:id":856816307,
+    "wof:lastmodified":1464103883,
+    "wof:name":"Knudson Management Co",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -95.849937,
+    41.259949,
+    -95.849937,
+    41.259949
+],
+  "geometry": {"coordinates":[-95.849937,41.259949],"type":"Point"}
+}

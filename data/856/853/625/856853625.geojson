@@ -1,0 +1,71 @@
+{
+  "id": 856853625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.221269,41.834445,-94.221269,41.834445",
+    "geom:latitude":41.834445,
+    "geom:longitude":-94.221269,
+    "iso:country":"US",
+    "sg:address":"1305 141st St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 5271",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ldCafJqZeSQZKEefElhN_41.834445_-94.221269@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105706,
+    "wof:geomhash":"f82fca8d7cc47e362f06eee41082cd43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856853625
+        }
+    ],
+    "wof:id":856853625,
+    "wof:lastmodified":1464105706,
+    "wof:name":"Pamida",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.221269,
+    41.834445,
+    -94.221269,
+    41.834445
+],
+  "geometry": {"coordinates":[-94.22126900000001,41.834445],"type":"Point"}
+}

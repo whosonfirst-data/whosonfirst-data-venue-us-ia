@@ -1,0 +1,77 @@
+{
+  "id": 857003099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.686556,41.642104,-93.686556,41.642104",
+    "geom:latitude":41.642104,
+    "geom:longitude":-93.686556,
+    "iso:country":"US",
+    "sg:address":"4520 50th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 331 0871",
+    "sg:postcode":"50310",
+    "sg:province":"IA",
+    "sg:tags":[
+        "outdoor",
+        "lighting",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jRaydM3asQ2PbZ8U5lcJG_41.642104_-93.686556@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112489,
+    "wof:geomhash":"d4583cca3d614e0ce12cb660dbc5244a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896375,
+            "region_id":85688713,
+            "venue_id":857003099
+        }
+    ],
+    "wof:id":857003099,
+    "wof:lastmodified":1464112489,
+    "wof:name":"Wayne Manufacturing",
+    "wof:parent_id":85896375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor",
+        "lighting",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -93.686556,
+    41.642104,
+    -93.686556,
+    41.642104
+],
+  "geometry": {"coordinates":[-93.686556,41.642104],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856896051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.60125,42.033386,-91.60125,42.033386",
+    "geom:latitude":42.033386,
+    "geom:longitude":-91.60125,
+    "iso:country":"US",
+    "sg:address":"890 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 2334",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.affordableautosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JgafvPOOxPHySe4iCASQt_42.033386_-91.601250@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107904,
+    "wof:geomhash":"005d03ae8a6b2348a5946a392e38f538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856896051
+        }
+    ],
+    "wof:id":856896051,
+    "wof:lastmodified":1464107904,
+    "wof:name":"Affordable Auto Sales",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.60125,
+    42.033386,
+    -91.60125,
+    42.033386
+],
+  "geometry": {"coordinates":[-91.60124999999999,42.033386],"type":"Point"}
+}

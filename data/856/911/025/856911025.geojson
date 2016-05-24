@@ -1,0 +1,75 @@
+{
+  "id": 856911025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.734538,41.95457,-91.734538,41.95457",
+    "geom:latitude":41.95457,
+    "geom:longitude":-91.734538,
+    "iso:country":"US",
+    "sg:address":"123 Elizabeth St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 923 4485",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SUYu0ZFexg8dEdVjv28jS_41.954570_-91.734538@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108467,
+    "wof:geomhash":"5f7da1c1d1e9fd661c697979b66d9b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856911025
+        }
+    ],
+    "wof:id":856911025,
+    "wof:lastmodified":1464108467,
+    "wof:name":"Salow Mechanical Insulation",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.734538,
+    41.95457,
+    -91.734538,
+    41.95457
+],
+  "geometry": {"coordinates":[-91.734538,41.95457],"type":"Point"}
+}

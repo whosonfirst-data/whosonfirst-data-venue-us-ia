@@ -1,0 +1,73 @@
+{
+  "id": 856841687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.774836,42.170699,-91.774836,42.170699",
+    "geom:latitude":42.170699,
+    "geom:longitude":-91.774836,
+    "iso:country":"US",
+    "sg:address":"4207 Grain Ln",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 1157",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6Z5RxswXPQ5XRVmj1zbQ_42.170699_-91.774836@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105072,
+    "wof:geomhash":"dd39697425a5dc2e288df00eb251202e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856841687
+        }
+    ],
+    "wof:id":856841687,
+    "wof:lastmodified":1464105072,
+    "wof:name":"Interstate Grain Svc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -91.774836,
+    42.170699,
+    -91.774836,
+    42.170699
+],
+  "geometry": {"coordinates":[-91.77483599999999,42.170699],"type":"Point"}
+}

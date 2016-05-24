@@ -1,0 +1,74 @@
+{
+  "id": 856861771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531768,41.662536,-91.531768,41.662536",
+    "geom:latitude":41.662536,
+    "geom:longitude":-91.531768,
+    "iso:country":"US",
+    "sg:address":"214 E Jefferson St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 2857",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.icfirstchurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LBchkegJJJr5VYPis8l9m_41.662536_-91.531768@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106065,
+    "wof:geomhash":"13ffe481e713cfe87d0629bbb425d71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896435,
+            "region_id":85688713,
+            "venue_id":856861771
+        }
+    ],
+    "wof:id":856861771,
+    "wof:lastmodified":1464106065,
+    "wof:name":"First United Methodist Church",
+    "wof:parent_id":85896435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.531768,
+    41.662536,
+    -91.531768,
+    41.662536
+],
+  "geometry": {"coordinates":[-91.531768,41.662536],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857057763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.62588,41.600895,-93.62588,41.600895",
+    "geom:latitude":41.600895,
+    "geom:longitude":-93.62588,
+    "iso:country":"US",
+    "sg:address":"601 University Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/des-moines/202685-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"50314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eqIT6lhYY6jRn3JrfZJpy_41.600895_-93.625880@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114815,
+    "wof:geomhash":"6ee266429dab45396a3b529cda95edf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877101,
+            "region_id":85688713,
+            "venue_id":857057763
+        }
+    ],
+    "wof:id":857057763,
+    "wof:lastmodified":1464114815,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85877101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.62588,
+    41.600895,
+    -93.62588,
+    41.600895
+],
+  "geometry": {"coordinates":[-93.62588,41.600895],"type":"Point"}
+}

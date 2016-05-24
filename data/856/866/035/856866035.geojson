@@ -1,0 +1,73 @@
+{
+  "id": 856866035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.723062,41.972398,-91.723062,41.972398",
+    "geom:latitude":41.972398,
+    "geom:longitude":-91.723062,
+    "iso:country":"US",
+    "sg:address":"3945 Rollingwood Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7692",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65TuRx8sIceq3B0sYFn9b0_41.972398_-91.723062@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106263,
+    "wof:geomhash":"6a5a08ded3d2da130e23366a77e67688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856866035
+        }
+    ],
+    "wof:id":856866035,
+    "wof:lastmodified":1464106263,
+    "wof:name":"Bob's Reel Svc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -91.723062,
+    41.972398,
+    -91.723062,
+    41.972398
+],
+  "geometry": {"coordinates":[-91.723062,41.972398],"type":"Point"}
+}

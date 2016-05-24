@@ -1,0 +1,71 @@
+{
+  "id": 856925551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89436,42.281898,-95.89436,42.281898",
+    "geom:latitude":42.281898,
+    "geom:longitude":-95.89436,
+    "iso:country":"US",
+    "sg:address":"508 State St",
+    "sg:city":"Neptune",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 732 988 6676",
+    "sg:postcode":"51044",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XPi56BloLlASLaVBDACWu_42.281898_-95.894360@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109064,
+    "wof:geomhash":"130f47592ca7f14cb44754c095697d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856925551
+        }
+    ],
+    "wof:id":856925551,
+    "wof:lastmodified":1464109064,
+    "wof:name":"Bennett's Auto Recovery Inc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -95.89436,
+    42.281898,
+    -95.89436,
+    42.281898
+],
+  "geometry": {"coordinates":[-95.89436000000001,42.281898],"type":"Point"}
+}

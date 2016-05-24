@@ -1,0 +1,73 @@
+{
+  "id": 856989989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.857562,41.234043,-95.857562,41.234043",
+    "geom:latitude":41.234043,
+    "geom:longitude":-95.857562,
+    "iso:country":"US",
+    "sg:address":"2713 S 9th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 7614",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pucgY4XxvTrhmLdW0j6kP_41.234043_-95.857562@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111969,
+    "wof:geomhash":"2aa963a375bc69e36824774dfe3fb148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856989989
+        }
+    ],
+    "wof:id":856989989,
+    "wof:lastmodified":1464111969,
+    "wof:name":"Richard Cody",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.857562,
+    41.234043,
+    -95.857562,
+    41.234043
+],
+  "geometry": {"coordinates":[-95.857562,41.234043],"type":"Point"}
+}

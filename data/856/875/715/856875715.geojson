@@ -1,0 +1,75 @@
+{
+  "id": 856875715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.43446,42.469497,-92.43446,42.469497",
+    "geom:latitude":42.469497,
+    "geom:longitude":-92.43446,
+    "iso:country":"US",
+    "sg:address":"3801 W Ridgeway Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 292 4137",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1El97hVLBvN1Bh1ZVh5QoX_42.469497_-92.434460@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106972,
+    "wof:geomhash":"8da95f03a0e19c79e185994cfa5e2e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856875715
+        }
+    ],
+    "wof:id":856875715,
+    "wof:lastmodified":1464106972,
+    "wof:name":"John Deere Power Systems",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -92.43446,
+    42.469497,
+    -92.43446,
+    42.469497
+],
+  "geometry": {"coordinates":[-92.43446,42.469497],"type":"Point"}
+}

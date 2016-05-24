@@ -1,0 +1,74 @@
+{
+  "id": 856927735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.577288,41.6534,-91.577288,41.6534",
+    "geom:latitude":41.6534,
+    "geom:longitude":-91.577288,
+    "iso:country":"US",
+    "sg:address":"2651 Roberts Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 2886",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.ncjc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JjjZ1oaZrZMyyhfYgmRC3_41.653400_-91.577288@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109158,
+    "wof:geomhash":"e26dc8e110f3de4caa0e0cfa41d6b3f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896469,
+            "region_id":85688713,
+            "venue_id":856927735
+        }
+    ],
+    "wof:id":856927735,
+    "wof:lastmodified":1464109158,
+    "wof:name":"Neighborhood Centers-Johnson",
+    "wof:parent_id":85896469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -91.577288,
+    41.6534,
+    -91.577288,
+    41.6534
+],
+  "geometry": {"coordinates":[-91.577288,41.6534],"type":"Point"}
+}

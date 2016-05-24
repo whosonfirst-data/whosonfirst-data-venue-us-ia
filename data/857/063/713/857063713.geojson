@@ -1,0 +1,67 @@
+{
+  "id": 857063713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.827118,41.244263,-95.827118,41.244263",
+    "geom:latitude":41.244263,
+    "geom:longitude":-95.827118,
+    "iso:country":"US",
+    "sg:address":"1745 Madison Ave Ste 1002",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 2000",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:website":"www.tsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P4jzC0GVUaw4DZvRTUTWj_41.244263_-95.827118@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115047,
+    "wof:geomhash":"594862bb1fc2485150a0e26f503e10ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":857063713
+        }
+    ],
+    "wof:id":857063713,
+    "wof:lastmodified":1464115047,
+    "wof:name":"Ts Bank",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.827118,
+    41.244263,
+    -95.827118,
+    41.244263
+],
+  "geometry": {"coordinates":[-95.827118,41.244263],"type":"Point"}
+}

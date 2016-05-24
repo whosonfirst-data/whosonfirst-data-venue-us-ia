@@ -1,0 +1,73 @@
+{
+  "id": 856994713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.030302,41.754453,-94.030302,41.754453",
+    "geom:latitude":41.754453,
+    "geom:longitude":-94.030302,
+    "iso:country":"US",
+    "sg:address":"513 Locust St",
+    "sg:city":"Minburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 677 2171",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KfsUcFlAgCnGj465Jvc9S_41.754453_-94.030302@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112168,
+    "wof:geomhash":"8d9297eb319e8d0a1ea7d4fe83fbf921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856994713
+        }
+    ],
+    "wof:id":856994713,
+    "wof:lastmodified":1464112168,
+    "wof:name":"Huss Plumbing",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.030302,
+    41.754453,
+    -94.030302,
+    41.754453
+],
+  "geometry": {"coordinates":[-94.03030200000001,41.754453],"type":"Point"}
+}

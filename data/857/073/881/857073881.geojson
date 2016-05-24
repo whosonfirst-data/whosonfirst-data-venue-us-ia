@@ -1,0 +1,85 @@
+{
+  "id": 857073881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.489028,41.513814,-90.489028,41.513814",
+    "geom:latitude":41.513814,
+    "geom:longitude":-90.489028,
+    "iso:country":"US",
+    "sg:address":"120 34th St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 391 1729",
+    "sg:postcode":"52801",
+    "sg:province":"IA",
+    "sg:tags":[
+        "training",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.contentedk9sdogtraining.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820791,
+        102191575,
+        404499723,
+        85633793,
+        85939667,
+        102082281,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YuRlez12jddWuuka2yVzQ_41.513814_-90.489028@1303262804"
+    },
+    "wof:country":"US",
+    "wof:created":1464115513,
+    "wof:geomhash":"219749fe74efadd2e2c8454df5aaae5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082281,
+            "localadmin_id":404499723,
+            "locality_id":85939667,
+            "neighbourhood_id":85820791,
+            "region_id":85688697,
+            "venue_id":857073881
+        }
+    ],
+    "wof:id":857073881,
+    "wof:lastmodified":1464115513,
+    "wof:name":"Contented Canines",
+    "wof:parent_id":85820791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -90.489028,
+    41.513814,
+    -90.489028,
+    41.513814
+],
+  "geometry": {"coordinates":[-90.489028,41.513814],"type":"Point"}
+}

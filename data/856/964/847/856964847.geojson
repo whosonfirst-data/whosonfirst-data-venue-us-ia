@@ -1,0 +1,73 @@
+{
+  "id": 856964847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.41919,41.919824,-91.41919,41.919824",
+    "geom:latitude":41.919824,
+    "geom:longitude":-91.41919,
+    "iso:country":"US",
+    "sg:address":"410 1st Ave S",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8801",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08XtUDDlPaLpN9IV1JKYFF_41.919824_-91.419190@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110742,
+    "wof:geomhash":"a47b71e05599922310df15a16c4dd858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856964847
+        }
+    ],
+    "wof:id":856964847,
+    "wof:lastmodified":1464110742,
+    "wof:name":"Hawkeye Ready Mix",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -91.41919,
+    41.919824,
+    -91.41919,
+    41.919824
+],
+  "geometry": {"coordinates":[-91.41919,41.919824],"type":"Point"}
+}

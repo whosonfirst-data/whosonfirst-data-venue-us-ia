@@ -1,0 +1,68 @@
+{
+  "id": 856947053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.556912,41.65351,-91.556912,41.65351",
+    "geom:latitude":41.65351,
+    "geom:longitude":-91.556912,
+    "iso:country":"US",
+    "sg:address":"220 George St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 7897",
+    "sg:postcode":"52246",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nLAFzyXP7mVet64gxbDsV_41.653510_-91.556912@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109955,
+    "wof:geomhash":"fb73ff8a3f25af0000668bc0e6eb006e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896437,
+            "region_id":85688713,
+            "venue_id":856947053
+        }
+    ],
+    "wof:id":856947053,
+    "wof:lastmodified":1464109955,
+    "wof:name":"K2 Rentals LLC",
+    "wof:parent_id":85896437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.556912,
+    41.65351,
+    -91.556912,
+    41.65351
+],
+  "geometry": {"coordinates":[-91.556912,41.65351],"type":"Point"}
+}

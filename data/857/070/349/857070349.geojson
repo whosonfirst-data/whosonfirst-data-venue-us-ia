@@ -1,0 +1,73 @@
+{
+  "id": 857070349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682999,41.9716,-91.682999,41.9716",
+    "geom:latitude":41.9716,
+    "geom:longitude":-91.682999,
+    "iso:country":"US",
+    "sg:address":"901 2nd Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 1393",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qjpC4Rh2FPtz7rKGMnKOf_41.971600_-91.682999@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115348,
+    "wof:geomhash":"c39cc00c5aacb088166e9f5c33ffb6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857070349
+        }
+    ],
+    "wof:id":857070349,
+    "wof:lastmodified":1464115348,
+    "wof:name":"Duball Electric",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -91.682999,
+    41.9716,
+    -91.682999,
+    41.9716
+],
+  "geometry": {"coordinates":[-91.682999,41.9716],"type":"Point"}
+}

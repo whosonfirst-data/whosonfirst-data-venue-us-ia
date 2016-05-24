@@ -1,0 +1,69 @@
+{
+  "id": 856858461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.620105,41.652542,-93.620105,41.652542",
+    "geom:latitude":41.652542,
+    "geom:longitude":-93.620105,
+    "iso:country":"US",
+    "sg:address":"350 NW 50th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 1521",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zkyH7zgwUODTPTIimUdDz_41.652542_-93.620105@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105904,
+    "wof:geomhash":"42a028ecc48780288125e3af31f9f19f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856858461
+        }
+    ],
+    "wof:id":856858461,
+    "wof:lastmodified":1464105904,
+    "wof:name":"Big H Realty Partners",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -93.620105,
+    41.652542,
+    -93.620105,
+    41.652542
+],
+  "geometry": {"coordinates":[-93.620105,41.652542],"type":"Point"}
+}

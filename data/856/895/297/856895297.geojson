@@ -1,0 +1,71 @@
+{
+  "id": 856895297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.712591,41.983069,-91.712591,41.983069",
+    "geom:latitude":41.983069,
+    "geom:longitude":-91.712591,
+    "iso:country":"US",
+    "sg:address":"3217 Waveland Dr NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0858",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rdoCzOumHVxmg6i0bKFbr_41.983069_-91.712591@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107875,
+    "wof:geomhash":"6bdae9e11e6e887e2714bfe32ec026f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856895297
+        }
+    ],
+    "wof:id":856895297,
+    "wof:lastmodified":1464107875,
+    "wof:name":"Clark Window Cleaning",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.712591,
+    41.983069,
+    -91.712591,
+    41.983069
+],
+  "geometry": {"coordinates":[-91.712591,41.983069],"type":"Point"}
+}

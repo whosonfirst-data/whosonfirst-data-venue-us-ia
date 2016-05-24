@@ -1,0 +1,75 @@
+{
+  "id": 856865015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.428604,42.508757,-96.428604,42.508757",
+    "geom:latitude":42.508757,
+    "geom:longitude":-96.428604,
+    "iso:country":"US",
+    "sg:address":"1705 Ross St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 2737",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "accountant",
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SFT8fX0P8fymog2PCsbEX_42.508757_-96.428604@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106202,
+    "wof:geomhash":"0051da307ac429403b74bca374166b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856865015
+        }
+    ],
+    "wof:id":856865015,
+    "wof:lastmodified":1464106202,
+    "wof:name":"Associated Business Service",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant",
+        "return"
+    ]
+},
+  "bbox": [
+    -96.428604,
+    42.508757,
+    -96.428604,
+    42.508757
+],
+  "geometry": {"coordinates":[-96.42860400000001,42.508757],"type":"Point"}
+}

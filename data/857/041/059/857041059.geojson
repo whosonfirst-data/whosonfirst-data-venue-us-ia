@@ -1,0 +1,76 @@
+{
+  "id": 857041059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.659203,41.9711,-91.659203,41.9711",
+    "geom:latitude":41.9711,
+    "geom:longitude":-91.659203,
+    "iso:country":"US",
+    "sg:address":"1028 3rd St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 8837",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "director",
+        "cemetery"
+    ],
+    "sg:website":"www.broshchapel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xxPmvO7I9Z4jd3DlsGhwB_41.971302_-91.659118@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114120,
+    "wof:geomhash":"5c74161d6b6d020e40c2e3480eb47a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857041059
+        }
+    ],
+    "wof:id":857041059,
+    "wof:lastmodified":1464114120,
+    "wof:name":"Brosh Chapel",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -91.659203,
+    41.9711,
+    -91.659203,
+    41.9711
+],
+  "geometry": {"coordinates":[-91.65920300000001,41.9711],"type":"Point"}
+}

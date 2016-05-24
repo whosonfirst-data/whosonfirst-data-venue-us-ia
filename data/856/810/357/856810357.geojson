@@ -1,0 +1,73 @@
+{
+  "id": 856810357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909329,41.269391,-95.909329,41.269391",
+    "geom:latitude":41.269391,
+    "geom:longitude":-95.909329,
+    "iso:country":"US",
+    "sg:address":"773 Benson St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 5516",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v3o8EctAI6zGbXjlDt0sf_41.269391_-95.909329@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103650,
+    "wof:geomhash":"b5973a62bb9267f29d977f6ac3d19bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856810357
+        }
+    ],
+    "wof:id":856810357,
+    "wof:lastmodified":1464103650,
+    "wof:name":"Ace Construction",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.909329,
+    41.269391,
+    -95.909329,
+    41.269391
+],
+  "geometry": {"coordinates":[-95.909329,41.269391],"type":"Point"}
+}

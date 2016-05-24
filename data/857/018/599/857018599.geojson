@@ -1,0 +1,73 @@
+{
+  "id": 857018599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.658262,41.588131,-93.658262,41.588131",
+    "geom:latitude":41.588131,
+    "geom:longitude":-93.658262,
+    "iso:country":"US",
+    "sg:address":"3003 Woodland Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 274 3351",
+    "sg:postcode":"50312",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x40sjucUJZJAzpOIj5fxl_41.588131_-93.658262@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113137,
+    "wof:geomhash":"676f64ef91975f63ecf2005f46e05850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896403,
+            "region_id":85688713,
+            "venue_id":857018599
+        }
+    ],
+    "wof:id":857018599,
+    "wof:lastmodified":1464113137,
+    "wof:name":"Four Seasons Apartments",
+    "wof:parent_id":85896403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.658262,
+    41.588131,
+    -93.658262,
+    41.588131
+],
+  "geometry": {"coordinates":[-93.65826199999999,41.588131],"type":"Point"}
+}

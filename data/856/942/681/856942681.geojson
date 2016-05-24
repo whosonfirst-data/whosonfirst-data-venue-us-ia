@@ -1,0 +1,86 @@
+{
+  "id": 856942681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67397,41.976451,-91.67397,41.976451",
+    "geom:latitude":41.976451,
+    "geom:longitude":-91.67397,
+    "iso:country":"US",
+    "sg:address":"150 1st Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 1126",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mJufgxAS1eWy8hZHdRQ7R_41.976451_-91.673970@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109793,
+    "wof:geomhash":"73d315350b41b195414f83a5beb1dae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":856942681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856942681
+        }
+    ],
+    "wof:id":856942681,
+    "wof:lastmodified":1464109793,
+    "wof:name":"Wells Fargo Trust Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -91.67397,
+    41.976451,
+    -91.67397,
+    41.976451
+],
+  "geometry": {"coordinates":[-91.67397,41.976451],"type":"Point"}
+}

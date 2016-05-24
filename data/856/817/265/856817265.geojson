@@ -1,0 +1,71 @@
+{
+  "id": 856817265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.711388,41.975287,-91.711388,41.975287",
+    "geom:latitude":41.975287,
+    "geom:longitude":-91.711388,
+    "iso:country":"US",
+    "sg:address":"2909 B Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 0127",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CH1bXBlPU1rN51H98kmQS_41.975287_-91.711388@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103927,
+    "wof:geomhash":"0a35db75db619665922690cdc03c21db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856817265
+        }
+    ],
+    "wof:id":856817265,
+    "wof:lastmodified":1464103927,
+    "wof:name":"Ageless Designs Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.711388,
+    41.975287,
+    -91.711388,
+    41.975287
+],
+  "geometry": {"coordinates":[-91.711388,41.975287],"type":"Point"}
+}

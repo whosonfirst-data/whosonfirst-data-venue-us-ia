@@ -1,0 +1,71 @@
+{
+  "id": 857022791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.337941,41.481476,-95.337941,41.481476",
+    "geom:latitude":41.481476,
+    "geom:longitude":-95.337941,
+    "iso:country":"US",
+    "sg:address":"614 N Walnut St",
+    "sg:city":"Avoca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 343 6475",
+    "sg:postcode":"51521",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iBOli0LcpcGd5omqGuccZ_41.481476_-95.337941@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113308,
+    "wof:geomhash":"47f9d3a1ead3d816d6e51748da73a76f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857022791
+        }
+    ],
+    "wof:id":857022791,
+    "wof:lastmodified":1464113308,
+    "wof:name":"Paulsens Photography",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -95.337941,
+    41.481476,
+    -95.337941,
+    41.481476
+],
+  "geometry": {"coordinates":[-95.337941,41.481476],"type":"Point"}
+}

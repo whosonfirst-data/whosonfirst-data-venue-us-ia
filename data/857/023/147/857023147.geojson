@@ -1,0 +1,71 @@
+{
+  "id": 857023147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.559591,41.36029,-93.559591,41.36029",
+    "geom:latitude":41.36029,
+    "geom:longitude":-93.559591,
+    "iso:country":"US",
+    "sg:address":"101 E Salem Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 9681",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69QxGH9Rf4vtbZYdL5fFdH_41.360290_-93.559591@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113319,
+    "wof:geomhash":"d300dc608aa05743f4ef844783c3ed8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857023147
+        }
+    ],
+    "wof:id":857023147,
+    "wof:lastmodified":1464113319,
+    "wof:name":"Uncommon Grounds",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -93.559591,
+    41.36029,
+    -93.559591,
+    41.36029
+],
+  "geometry": {"coordinates":[-93.559591,41.36029],"type":"Point"}
+}

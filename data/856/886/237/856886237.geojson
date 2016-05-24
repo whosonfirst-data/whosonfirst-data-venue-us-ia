@@ -1,0 +1,71 @@
+{
+  "id": 856886237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.768678,41.19107,-95.768678,41.19107",
+    "geom:latitude":41.19107,
+    "geom:longitude":-95.768678,
+    "iso:country":"US",
+    "sg:address":"11866 Woodland Trl",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 366 2532",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46XbZUXcBGFK6E23CPsC0A_41.191070_-95.768678@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107529,
+    "wof:geomhash":"4c3ec301f40f94e985269e43a4575106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856886237
+        }
+    ],
+    "wof:id":856886237,
+    "wof:lastmodified":1464107529,
+    "wof:name":"Daves Auto Repair",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.768678,
+    41.19107,
+    -95.768678,
+    41.19107
+],
+  "geometry": {"coordinates":[-95.76867799999999,41.19107],"type":"Point"}
+}

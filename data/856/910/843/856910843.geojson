@@ -1,0 +1,73 @@
+{
+  "id": 856910843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.692266,42.107362,-91.692266,42.107362",
+    "geom:latitude":42.107362,
+    "geom:longitude":-91.692266,
+    "iso:country":"US",
+    "sg:address":"3343 Midway Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 0165",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OrWi6eLMzfTimiSFVnRJM_42.107362_-91.692266@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108461,
+    "wof:geomhash":"ae7acd4944ee8f5cd79bfd9116b50deb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856910843
+        }
+    ],
+    "wof:id":856910843,
+    "wof:lastmodified":1464108461,
+    "wof:name":"Midway Well Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.692266,
+    42.107362,
+    -91.692266,
+    42.107362
+],
+  "geometry": {"coordinates":[-91.692266,42.107362],"type":"Point"}
+}

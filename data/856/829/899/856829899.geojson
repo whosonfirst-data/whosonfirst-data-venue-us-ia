@@ -1,0 +1,73 @@
+{
+  "id": 856829899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543856,42.038843,-91.543856,42.038843",
+    "geom:latitude":42.038843,
+    "geom:longitude":-91.543856,
+    "iso:country":"US",
+    "sg:address":"1884 Mary Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 1490",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ur2zzGHpb0W7d9MYTw69N_42.038843_-91.543856@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104508,
+    "wof:geomhash":"defb55c4991c56e037d2e13cb16053e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856829899
+        }
+    ],
+    "wof:id":856829899,
+    "wof:lastmodified":1464104508,
+    "wof:name":"Taylor Painting",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.543856,
+    42.038843,
+    -91.543856,
+    42.038843
+],
+  "geometry": {"coordinates":[-91.54385600000001,42.038843],"type":"Point"}
+}

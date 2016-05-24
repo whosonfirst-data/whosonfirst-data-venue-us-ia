@@ -1,0 +1,70 @@
+{
+  "id": 856871375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543281,41.597332,-91.543281,41.597332",
+    "geom:latitude":41.597332,
+    "geom:longitude":-91.543281,
+    "iso:country":"US",
+    "sg:address":"3980 Poweshiek St SE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 9907",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.gfcic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896481,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ebvGP8BSLikZ3t5TOS2ma_41.597332_-91.543281@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106693,
+    "wof:geomhash":"05f8ddd236c519d9f3ca6a144eb01857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896481,
+            "region_id":85688713,
+            "venue_id":856871375
+        }
+    ],
+    "wof:id":856871375,
+    "wof:lastmodified":1464106693,
+    "wof:name":"Grace Fellowship",
+    "wof:parent_id":85896481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.543281,
+    41.597332,
+    -91.543281,
+    41.597332
+],
+  "geometry": {"coordinates":[-91.54328099999999,41.597332],"type":"Point"}
+}

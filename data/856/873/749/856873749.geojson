@@ -1,0 +1,71 @@
+{
+  "id": 856873749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.513312,41.732685,-91.513312,41.732685",
+    "geom:latitude":41.732685,
+    "geom:longitude":-91.513312,
+    "iso:country":"US",
+    "sg:address":"2755 Turkey Creek Ln NE",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3584",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896479,
+        102086417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ckCCdZ8jl40Y2pvn5eETf_41.732685_-91.513312@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106875,
+    "wof:geomhash":"4522749782ee878e637ed2def13ee3a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "neighbourhood_id":85896479,
+            "region_id":85688713,
+            "venue_id":856873749
+        }
+    ],
+    "wof:id":856873749,
+    "wof:lastmodified":1464106875,
+    "wof:name":"Hemann Construction Co",
+    "wof:parent_id":85896479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.513312,
+    41.732685,
+    -91.513312,
+    41.732685
+],
+  "geometry": {"coordinates":[-91.513312,41.732685],"type":"Point"}
+}

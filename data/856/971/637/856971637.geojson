@@ -1,0 +1,73 @@
+{
+  "id": 856971637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656691,41.958975,-91.656691,41.958975",
+    "geom:latitude":41.958975,
+    "geom:longitude":-91.656691,
+    "iso:country":"US",
+    "sg:address":"26 Aossey Ln SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 5340",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DYcI720AdjHniFFIC4vvc_41.958975_-91.656691@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111047,
+    "wof:geomhash":"b9461ee2ae2c11a09ec63514f9f144ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":856971637
+        }
+    ],
+    "wof:id":856971637,
+    "wof:lastmodified":1464111047,
+    "wof:name":"Village Southwest",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.656691,
+    41.958975,
+    -91.656691,
+    41.958975
+],
+  "geometry": {"coordinates":[-91.656691,41.958975],"type":"Point"}
+}

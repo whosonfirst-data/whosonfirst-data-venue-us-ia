@@ -1,0 +1,73 @@
+{
+  "id": 857069413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.66045,41.984968,-91.66045,41.984968",
+    "geom:latitude":41.984968,
+    "geom:longitude":-91.66045,
+    "iso:country":"US",
+    "sg:address":"1026 A Ave NE Ste 5000",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 368 5757",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iGTJzgy666Lv6ccorxBjC_41.984968_-91.660450@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115303,
+    "wof:geomhash":"518a91cafca4cdaf3d1a9998954a00ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876633,
+            "region_id":85688713,
+            "venue_id":857069413
+        }
+    ],
+    "wof:id":857069413,
+    "wof:lastmodified":1464115303,
+    "wof:name":"St Luke's Pediatric Cardiology",
+    "wof:parent_id":85876633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -91.66045,
+    41.984968,
+    -91.66045,
+    41.984968
+],
+  "geometry": {"coordinates":[-91.66045,41.984968],"type":"Point"}
+}

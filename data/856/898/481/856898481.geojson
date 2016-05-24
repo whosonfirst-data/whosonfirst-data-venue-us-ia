@@ -1,0 +1,73 @@
+{
+  "id": 856898481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.75506,41.967869,-91.75506,41.967869",
+    "geom:latitude":41.967869,
+    "geom:longitude":-91.75506,
+    "iso:country":"US",
+    "sg:address":"300 Stoney Point Rd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3488",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KPCUPXmrOY1WHATRppxSi_41.967869_-91.755060@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107998,
+    "wof:geomhash":"b6e0c913f03f86fce26e7db6879f25f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856898481
+        }
+    ],
+    "wof:id":856898481,
+    "wof:lastmodified":1464107998,
+    "wof:name":"YMCA",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -91.75506,
+    41.967869,
+    -91.75506,
+    41.967869
+],
+  "geometry": {"coordinates":[-91.75506,41.967869],"type":"Point"}
+}

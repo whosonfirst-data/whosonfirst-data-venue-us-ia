@@ -1,0 +1,73 @@
+{
+  "id": 857026525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.602923,41.515361,-90.602923,41.515361",
+    "geom:latitude":41.515361,
+    "geom:longitude":-90.602923,
+    "iso:country":"US",
+    "sg:address":"530 S Howell St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 323 2297",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dDyIcip6ZnDCRBHBTVRWi_41.515361_-90.602923@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113485,
+    "wof:geomhash":"2f1c21be817aac673d222496e9cb61ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":857026525
+        }
+    ],
+    "wof:id":857026525,
+    "wof:lastmodified":1464113485,
+    "wof:name":"Midwest Recyclers",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal"
+    ]
+},
+  "bbox": [
+    -90.602923,
+    41.515361,
+    -90.602923,
+    41.515361
+],
+  "geometry": {"coordinates":[-90.602923,41.515361],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856977585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.660414,41.980881,-91.660414,41.980881",
+    "geom:latitude":41.980881,
+    "geom:longitude":-91.660414,
+    "iso:country":"US",
+    "sg:address":"211 8th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2328",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r7sntXiYqmdvTBvAUWGUI_41.980881_-91.660414@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111330,
+    "wof:geomhash":"2049e7119894cc25b49938e0f43350ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856977585
+        }
+    ],
+    "wof:id":856977585,
+    "wof:lastmodified":1464111330,
+    "wof:name":"Classic Concrete Raising Inc",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.660414,
+    41.980881,
+    -91.660414,
+    41.980881
+],
+  "geometry": {"coordinates":[-91.660414,41.980881],"type":"Point"}
+}

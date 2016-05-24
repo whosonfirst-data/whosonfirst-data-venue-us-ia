@@ -1,0 +1,71 @@
+{
+  "id": 857067803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.622704,42.025101,-91.622704,42.025101",
+    "geom:latitude":42.025101,
+    "geom:longitude":-91.622704,
+    "iso:country":"US",
+    "sg:address":"4801 1st Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 2477",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67nUcvV730nVN3iZA8o1gN_42.025101_-91.622704@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115226,
+    "wof:geomhash":"aaa8f0d3231662352f622115e581df9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067803
+        }
+    ],
+    "wof:id":857067803,
+    "wof:lastmodified":1464115226,
+    "wof:name":"Fiesta Del Sol",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.622704,
+    42.025101,
+    -91.622704,
+    42.025101
+],
+  "geometry": {"coordinates":[-91.622704,42.025101],"type":"Point"}
+}

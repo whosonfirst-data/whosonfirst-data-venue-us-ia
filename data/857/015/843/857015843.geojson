@@ -1,0 +1,75 @@
+{
+  "id": 857015843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.227914,41.51602,-94.227914,41.51602",
+    "geom:latitude":41.51602,
+    "geom:longitude":-94.227914,
+    "iso:country":"US",
+    "sg:address":"817 Polk St",
+    "sg:city":"Dexter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 789 4477",
+    "sg:postcode":"50070",
+    "sg:province":"IA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21pEBX16QQPY5uByYebh3n_41.516020_-94.227914@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113023,
+    "wof:geomhash":"9da8e8316f8c2fe725e117d421bbca67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857015843
+        }
+    ],
+    "wof:id":857015843,
+    "wof:lastmodified":1464113023,
+    "wof:name":"Mike's Body & Paint",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.227914,
+    41.51602,
+    -94.227914,
+    41.51602
+],
+  "geometry": {"coordinates":[-94.227914,41.51602],"type":"Point"}
+}

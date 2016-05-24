@@ -1,0 +1,73 @@
+{
+  "id": 857063507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.841945,41.313025,-95.841945,41.313025",
+    "geom:latitude":41.313025,
+    "geom:longitude":-95.841945,
+    "iso:country":"US",
+    "sg:address":"20493 Old Lincoln Hwy",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 3199",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "interior",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V7eyiheSAwUNAzZNzlARt_41.313025_-95.841945@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115039,
+    "wof:geomhash":"882da085303fd5d395e5360332744b4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857063507
+        }
+    ],
+    "wof:id":857063507,
+    "wof:lastmodified":1464115039,
+    "wof:name":"Signature Interiors",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design"
+    ]
+},
+  "bbox": [
+    -95.841945,
+    41.313025,
+    -95.841945,
+    41.313025
+],
+  "geometry": {"coordinates":[-95.841945,41.313025],"type":"Point"}
+}

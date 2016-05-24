@@ -1,0 +1,71 @@
+{
+  "id": 856907353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899431,41.264576,-95.899431,41.264576",
+    "geom:latitude":41.264576,
+    "geom:longitude":-95.899431,
+    "iso:country":"US",
+    "sg:address":"3200 Ave C",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 8725",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DOqo2avpSS7CB9xoSUiTS_41.264576_-95.899431@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108315,
+    "wof:geomhash":"0b1143a6c887c25229993d774632c842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856907353
+        }
+    ],
+    "wof:id":856907353,
+    "wof:lastmodified":1464108315,
+    "wof:name":"Dodge Memorial Church",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.899431,
+    41.264576,
+    -95.899431,
+    41.264576
+],
+  "geometry": {"coordinates":[-95.89943100000001,41.264576],"type":"Point"}
+}

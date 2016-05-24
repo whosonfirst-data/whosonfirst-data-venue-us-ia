@@ -1,0 +1,74 @@
+{
+  "id": 857060619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.365333,42.436065,-96.365333,42.436065",
+    "geom:latitude":42.436065,
+    "geom:longitude":-96.365333,
+    "iso:country":"US",
+    "sg:address":"3327 Singing Hills Blvd",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/sioux-city/67083-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 255 9100",
+    "sg:postcode":"51106",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DCkANxIza2toQNBqavP8o_42.436261_-96.364572@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464114920,
+    "wof:geomhash":"fa0e3c303c4e84c1a77778f2ea0fec0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":857060619
+        }
+    ],
+    "wof:id":857060619,
+    "wof:lastmodified":1464114920,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.365333,
+    42.436065,
+    -96.365333,
+    42.436065
+],
+  "geometry": {"coordinates":[-96.36533300000001,42.436065],"type":"Point"}
+}

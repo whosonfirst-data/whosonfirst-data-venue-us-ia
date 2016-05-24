@@ -1,0 +1,75 @@
+{
+  "id": 857063663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.830972,41.270825,-95.830972,41.270825",
+    "geom:latitude":41.270825,
+    "geom:longitude":-95.830972,
+    "iso:country":"US",
+    "sg:address":"100 North Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 6454",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Voww8pua3tEWj4jiGKGuW_41.270825_-95.830972@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115045,
+    "wof:geomhash":"107d0f279290a0dc30c0a2c9f62b0f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857063663
+        }
+    ],
+    "wof:id":857063663,
+    "wof:lastmodified":1464115045,
+    "wof:name":"Council Bluffs Community School District",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.830972,
+    41.270825,
+    -95.830972,
+    41.270825
+],
+  "geometry": {"coordinates":[-95.830972,41.270825],"type":"Point"}
+}

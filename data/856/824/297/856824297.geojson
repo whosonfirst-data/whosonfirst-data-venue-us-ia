@@ -1,0 +1,71 @@
+{
+  "id": 856824297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.384034,41.189625,-93.384034,41.189625",
+    "geom:latitude":41.189625,
+    "geom:longitude":-93.384034,
+    "iso:country":"US",
+    "sg:address":"103 E Main St",
+    "sg:city":"Lacona",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 641 534 3401",
+    "sg:postcode":"50139",
+    "sg:province":"IA",
+    "sg:tags":[
+        "city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PhonMbtrLfvTmiBJvXz4c_41.189625_-93.384034@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104277,
+    "wof:geomhash":"97d6a586640dfa3651f079272f8537ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856824297
+        }
+    ],
+    "wof:id":856824297,
+    "wof:lastmodified":1464104277,
+    "wof:name":"Lacona Community Hall",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "village"
+    ]
+},
+  "bbox": [
+    -93.384034,
+    41.189625,
+    -93.384034,
+    41.189625
+],
+  "geometry": {"coordinates":[-93.384034,41.189625],"type":"Point"}
+}

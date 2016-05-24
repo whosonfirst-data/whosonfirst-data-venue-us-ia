@@ -1,0 +1,75 @@
+{
+  "id": 856812687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.752071,41.596133,-93.752071,41.596133",
+    "geom:latitude":41.596133,
+    "geom:longitude":-93.752071,
+    "iso:country":"US",
+    "sg:address":"1551 Valley West Dr",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 223 9580",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lceMkiYdGPRcfgUxr4vFt_41.596133_-93.752071@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103739,
+    "wof:geomhash":"a06f6339b22da0690f6cca411b9645e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896539,
+            "region_id":85688713,
+            "venue_id":856812687
+        }
+    ],
+    "wof:id":856812687,
+    "wof:lastmodified":1464103739,
+    "wof:name":"Shoe Fixers",
+    "wof:parent_id":85896539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -93.752071,
+    41.596133,
+    -93.752071,
+    41.596133
+],
+  "geometry": {"coordinates":[-93.752071,41.596133],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856806675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629603,41.963395,-91.629603,41.963395",
+    "geom:latitude":41.963395,
+    "geom:longitude":-91.629603,
+    "iso:country":"US",
+    "sg:address":"1761 Memorial Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1290",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "sg:website":"www.pennebakerconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rs4PsJ29fR1VlfwSmmZuQ_41.963395_-91.629603@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103481,
+    "wof:geomhash":"01afed553bbcfb84895c7df6fe7e2001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856806675
+        }
+    ],
+    "wof:id":856806675,
+    "wof:lastmodified":1464103481,
+    "wof:name":"Pennebaker Construction Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.629603,
+    41.963395,
+    -91.629603,
+    41.963395
+],
+  "geometry": {"coordinates":[-91.629603,41.963395],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856806233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.539791,41.366982,-93.539791,41.366982",
+    "geom:latitude":41.366982,
+    "geom:longitude":-93.539791,
+    "iso:country":"US",
+    "sg:address":"807 N 15th St",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 7154",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Do89U6TIxg87g5ZqOVShJ_41.366982_-93.539791@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103464,
+    "wof:geomhash":"62b573e06903b7460cc6f442bb50b815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856806233
+        }
+    ],
+    "wof:id":856806233,
+    "wof:lastmodified":1464103464,
+    "wof:name":"Merit Construction",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.539791,
+    41.366982,
+    -93.539791,
+    41.366982
+],
+  "geometry": {"coordinates":[-93.53979099999999,41.366982],"type":"Point"}
+}

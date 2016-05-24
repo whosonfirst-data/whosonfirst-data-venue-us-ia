@@ -1,0 +1,68 @@
+{
+  "id": 857066465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.666397,41.974998,-91.666397,41.974998",
+    "geom:latitude":41.974998,
+    "geom:longitude":-91.666397,
+    "iso:country":"US",
+    "sg:address":"427 1st St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0968",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zm3GwDKMC1X5l0hsJiZu1_41.974998_-91.666397@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115151,
+    "wof:geomhash":"4a93914bbdb43e3bf72b142ce7b02d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857066465
+        }
+    ],
+    "wof:id":857066465,
+    "wof:lastmodified":1464115151,
+    "wof:name":"Cedar Rapids Science Station",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.666397,
+    41.974998,
+    -91.666397,
+    41.974998
+],
+  "geometry": {"coordinates":[-91.666397,41.974998],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856894749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.965703,41.724671,-93.965703,41.724671",
+    "geom:latitude":41.724671,
+    "geom:longitude":-93.965703,
+    "iso:country":"US",
+    "sg:address":"2627 215th St",
+    "sg:city":"Dallas Center",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 992 3609",
+    "sg:postcode":"50063",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RKUg15Dn6lSWwDeeKZM0_41.724671_-93.965703@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107857,
+    "wof:geomhash":"1a6095d0532b36ab9e6444d7cf51f0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856894749
+        }
+    ],
+    "wof:id":856894749,
+    "wof:lastmodified":1464107857,
+    "wof:name":"General Sport Service Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -93.965703,
+    41.724671,
+    -93.965703,
+    41.724671
+],
+  "geometry": {"coordinates":[-93.965703,41.724671],"type":"Point"}
+}

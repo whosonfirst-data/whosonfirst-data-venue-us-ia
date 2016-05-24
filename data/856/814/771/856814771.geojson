@@ -1,0 +1,75 @@
+{
+  "id": 856814771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.771107,41.655608,-93.771107,41.655608",
+    "geom:latitude":41.655608,
+    "geom:longitude":-93.771107,
+    "iso:country":"US",
+    "sg:address":"5372 NW 111th Dr",
+    "sg:city":"Grimes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 986 4103",
+    "sg:postcode":"50111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944147,
+        102086603,
+        85896483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JLyMkjrzqB31yF8iPhAHd_41.655608_-93.771107@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103822,
+    "wof:geomhash":"1bdb02ff93bcf85be5629250e1c944a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944147,
+            "neighbourhood_id":85896483,
+            "region_id":85688713,
+            "venue_id":856814771
+        }
+    ],
+    "wof:id":856814771,
+    "wof:lastmodified":1464103822,
+    "wof:name":"Liberty Ready Mix",
+    "wof:parent_id":85896483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.771107,
+    41.655608,
+    -93.771107,
+    41.655608
+],
+  "geometry": {"coordinates":[-93.771107,41.655608],"type":"Point"}
+}

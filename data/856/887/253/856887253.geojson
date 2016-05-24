@@ -1,0 +1,73 @@
+{
+  "id": 856887253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.654385,42.021303,-91.654385,42.021303",
+    "geom:latitude":42.021303,
+    "geom:longitude":-91.654385,
+    "iso:country":"US",
+    "sg:address":"1248 42nd St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5795",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zxk38vevWrL1GUePUn4Qk_42.021303_-91.654385@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107568,
+    "wof:geomhash":"45a7e44ef8269c4275585ae93a3d7fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856887253
+        }
+    ],
+    "wof:id":856887253,
+    "wof:lastmodified":1464107568,
+    "wof:name":"Noelridge Pool",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -91.654385,
+    42.021303,
+    -91.654385,
+    42.021303
+],
+  "geometry": {"coordinates":[-91.654385,42.021303],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857028675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.179613,43.045056,-91.179613,43.045056",
+    "geom:latitude":43.045056,
+    "geom:longitude":-91.179613,
+    "iso:country":"US",
+    "sg:address":"130 North St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 873 3521",
+    "sg:postcode":"52158",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944731,
+        102086275,
+        85833255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70HEl8RSCWpczS4fpOa3J6_43.045056_-91.179613@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113588,
+    "wof:geomhash":"816fd743438fbe8f6af68dea410cd78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086275,
+            "locality_id":85944731,
+            "neighbourhood_id":85833255,
+            "region_id":85688713,
+            "venue_id":857028675
+        }
+    ],
+    "wof:id":857028675,
+    "wof:lastmodified":1464113588,
+    "wof:name":"Marquette Hardware",
+    "wof:parent_id":85833255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.179613,
+    43.045056,
+    -91.179613,
+    43.045056
+],
+  "geometry": {"coordinates":[-91.179613,43.045056],"type":"Point"}
+}

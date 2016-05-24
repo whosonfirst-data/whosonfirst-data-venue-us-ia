@@ -1,0 +1,68 @@
+{
+  "id": 856956013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.684552,41.974761,-91.684552,41.974761",
+    "geom:latitude":41.974761,
+    "geom:longitude":-91.684552,
+    "iso:country":"US",
+    "sg:address":"212 9th St NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6427",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27oI3qX6NMQ9jqYSmHh3WH_41.974761_-91.684552@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110378,
+    "wof:geomhash":"40a715e65a52a8401b664bcada820452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856956013
+        }
+    ],
+    "wof:id":856956013,
+    "wof:lastmodified":1464110378,
+    "wof:name":"Northwest Neighborhood Assn",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.684552,
+    41.974761,
+    -91.684552,
+    41.974761
+],
+  "geometry": {"coordinates":[-91.684552,41.974761],"type":"Point"}
+}

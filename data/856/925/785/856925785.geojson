@@ -1,0 +1,73 @@
+{
+  "id": 856925785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.609608,42.03288,-91.609608,42.03288",
+    "geom:latitude":42.03288,
+    "geom:longitude":-91.609608,
+    "iso:country":"US",
+    "sg:address":"150 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 6355",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CSgGfyEzsJYOccstSw9Cg_42.032880_-91.609608@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109077,
+    "wof:geomhash":"bba70668e8887b5f32b7826219c4e7a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856925785
+        }
+    ],
+    "wof:id":856925785,
+    "wof:lastmodified":1464109077,
+    "wof:name":"Zimmerman-Houdek Credit Cars",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.609608,
+    42.03288,
+    -91.609608,
+    42.03288
+],
+  "geometry": {"coordinates":[-91.60960799999999,42.03288],"type":"Point"}
+}

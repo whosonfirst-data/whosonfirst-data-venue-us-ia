@@ -1,0 +1,90 @@
+{
+  "id": 857070317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.699849,41.889245,-91.699849,41.889245",
+    "geom:latitude":41.889245,
+    "geom:longitude":-91.699849,
+    "iso:country":"US",
+    "sg:address":"2121 Arthur Collins Pkwy SW Ste 22",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 337 2340",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "public"
+    ],
+    "sg:website":"www.crshuttle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531369,
+        85828809,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85688713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rzisrvJSPi5aBN3S5Dctj_41.889245_-91.699849@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115347,
+    "wof:geomhash":"553345f76277d3cf330d1f1d0b489917",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531369,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":857070317
+        }
+    ],
+    "wof:id":857070317,
+    "wof:lastmodified":1464115347,
+    "wof:name":"Airport Shuttle Service",
+    "wof:parent_id":102531369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "public"
+    ]
+},
+  "bbox": [
+    -91.699849,
+    41.889245,
+    -91.699849,
+    41.889245
+],
+  "geometry": {"coordinates":[-91.699849,41.889245],"type":"Point"}
+}

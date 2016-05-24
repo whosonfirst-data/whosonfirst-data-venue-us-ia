@@ -1,0 +1,75 @@
+{
+  "id": 856923387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.870806,41.262781,-95.870806,41.262781",
+    "geom:latitude":41.262781,
+    "geom:longitude":-95.870806,
+    "iso:country":"US",
+    "sg:address":"1801 Ave A",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 1653",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06FIwwI4W35aeEUyU2a1Sb_41.262781_-95.870806@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108979,
+    "wof:geomhash":"8e02cdc035e082b4f5e25bbceed3471f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856923387
+        }
+    ],
+    "wof:id":856923387,
+    "wof:lastmodified":1464108979,
+    "wof:name":"Grants Machine and Auto Repair",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.870806,
+    41.262781,
+    -95.870806,
+    41.262781
+],
+  "geometry": {"coordinates":[-95.870806,41.262781],"type":"Point"}
+}

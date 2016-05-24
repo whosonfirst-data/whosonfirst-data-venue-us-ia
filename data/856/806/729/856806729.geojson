@@ -1,0 +1,71 @@
+{
+  "id": 856806729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.63165,42.033098,-91.63165,42.033098",
+    "geom:latitude":42.033098,
+    "geom:longitude":-91.63165,
+    "iso:country":"US",
+    "sg:address":"465 Northland Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 447 9425",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ryhZ8I7Gd7VYNwonPoP0_42.033098_-91.631650@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103483,
+    "wof:geomhash":"d64b81d1e5e11297e12f71118a7bc544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856806729
+        }
+    ],
+    "wof:id":856806729,
+    "wof:lastmodified":1464103483,
+    "wof:name":"ADT Security Svc",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -91.63165,
+    42.033098,
+    -91.63165,
+    42.033098
+],
+  "geometry": {"coordinates":[-91.63164999999999,42.033098],"type":"Point"}
+}

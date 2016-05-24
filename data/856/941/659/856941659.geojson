@@ -1,0 +1,75 @@
+{
+  "id": 856941659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.52062,41.675495,-91.52062,41.675495",
+    "geom:latitude":41.675495,
+    "geom:longitude":-91.52062,
+    "iso:country":"US",
+    "sg:address":"1123 N Dodge St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 351 3129",
+    "sg:postcode":"52245",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N76HmOLng4sM3gJ0tJ5Vo_41.675495_-91.520620@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109746,
+    "wof:geomhash":"490d53fb3119c007383cada4c2b1674a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896447,
+            "region_id":85688713,
+            "venue_id":856941659
+        }
+    ],
+    "wof:id":856941659,
+    "wof:lastmodified":1464109746,
+    "wof:name":"Hilltop Car Wash & Svc Ctr",
+    "wof:parent_id":85896447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.52062,
+    41.675495,
+    -91.52062,
+    41.675495
+],
+  "geometry": {"coordinates":[-91.52061999999999,41.675495],"type":"Point"}
+}

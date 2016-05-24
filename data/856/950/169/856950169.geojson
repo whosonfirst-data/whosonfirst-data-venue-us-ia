@@ -1,0 +1,73 @@
+{
+  "id": 856950169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.631399,42.020607,-91.631399,42.020607",
+    "geom:latitude":42.020607,
+    "geom:longitude":-91.631399,
+    "iso:country":"US",
+    "sg:address":"4000 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 3800",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yGBVemjqeseu6QWyUHOow_42.020607_-91.631399@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110091,
+    "wof:geomhash":"215b00baeafe7b3f48ee29727d84303c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856950169
+        }
+    ],
+    "wof:id":856950169,
+    "wof:lastmodified":1464110091,
+    "wof:name":"Wealth Management Ctr",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -91.631399,
+    42.020607,
+    -91.631399,
+    42.020607
+],
+  "geometry": {"coordinates":[-91.631399,42.020607],"type":"Point"}
+}

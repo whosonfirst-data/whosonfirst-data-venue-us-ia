@@ -1,0 +1,73 @@
+{
+  "id": 857070199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.662102,41.9646,-91.662102,41.9646",
+    "geom:latitude":41.9646,
+    "geom:longitude":-91.662102,
+    "iso:country":"US",
+    "sg:address":"77 15th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 261 0345",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "venue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wJVdmGiVFR52guNlGtOqa_41.964600_-91.662102@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115343,
+    "wof:geomhash":"8e213674d4e62b557db40a1d0090cf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876617,
+            "region_id":85688713,
+            "venue_id":857070199
+        }
+    ],
+    "wof:id":857070199,
+    "wof:lastmodified":1464115343,
+    "wof:name":"Dostal Catering",
+    "wof:parent_id":85876617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -91.662102,
+    41.9646,
+    -91.662102,
+    41.9646
+],
+  "geometry": {"coordinates":[-91.662102,41.9646],"type":"Point"}
+}

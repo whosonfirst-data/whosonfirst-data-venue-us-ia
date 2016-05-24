@@ -1,0 +1,76 @@
+{
+  "id": 857069309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.648014,42.034971,-91.648014,42.034971",
+    "geom:latitude":42.034971,
+    "geom:longitude":-91.648014,
+    "iso:country":"US",
+    "sg:address":"931 Blairs Ferry Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 558 2200",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.cr.k12.ia.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_396lgVLLHXBZLBQ5Qr26ij_42.034971_-91.648014@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115299,
+    "wof:geomhash":"834429101e4b41abdac185046a6449ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857069309
+        }
+    ],
+    "wof:id":857069309,
+    "wof:lastmodified":1464115299,
+    "wof:name":"Cedar Rapids Community School District",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.648014,
+    42.034971,
+    -91.648014,
+    42.034971
+],
+  "geometry": {"coordinates":[-91.648014,42.034971],"type":"Point"}
+}

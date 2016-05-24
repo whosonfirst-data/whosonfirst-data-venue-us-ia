@@ -1,0 +1,73 @@
+{
+  "id": 856877309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.596619,41.976769,-91.596619,41.976769",
+    "geom:latitude":41.976769,
+    "geom:longitude":-91.596619,
+    "iso:country":"US",
+    "sg:address":"4801 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7174",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10hVpdINU1vlPphHa07mev_41.976769_-91.596619@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107043,
+    "wof:geomhash":"2370c400a749dd798c280f039181f33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856877309
+        }
+    ],
+    "wof:id":856877309,
+    "wof:lastmodified":1464107043,
+    "wof:name":"Lang-Way Contracting Inc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.596619,
+    41.976769,
+    -91.596619,
+    41.976769
+],
+  "geometry": {"coordinates":[-91.596619,41.976769],"type":"Point"}
+}

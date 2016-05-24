@@ -1,0 +1,71 @@
+{
+  "id": 856963353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.643985,41.991256,-91.643985,41.991256",
+    "geom:latitude":41.991256,
+    "geom:longitude":-91.643985,
+    "iso:country":"US",
+    "sg:address":"1845 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5155",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ay2WoHt5qVsOnQqB9m0N_41.991256_-91.643985@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110679,
+    "wof:geomhash":"299be6cbc4fec9ae8eb42b2a074afab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856963353
+        }
+    ],
+    "wof:id":856963353,
+    "wof:lastmodified":1464110679,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.643985,
+    41.991256,
+    -91.643985,
+    41.991256
+],
+  "geometry": {"coordinates":[-91.643985,41.991256],"type":"Point"}
+}

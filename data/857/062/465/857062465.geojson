@@ -1,0 +1,73 @@
+{
+  "id": 857062465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.915083,41.252157,-95.915083,41.252157",
+    "geom:latitude":41.252157,
+    "geom:longitude":-95.915083,
+    "iso:country":"US",
+    "sg:address":"1 Harrah's Blvd",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 329 6000",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944293,
+        102086657,
+        85867053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ueUguU1N06LLEKwdY7tu_41.252157_-95.915083@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1464115004,
+    "wof:geomhash":"f39778777e8daefecf77eae77b6d4f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85867053,
+            "region_id":85688713,
+            "venue_id":857062465
+        }
+    ],
+    "wof:id":857062465,
+    "wof:lastmodified":1464115004,
+    "wof:name":"360 Steakhouse",
+    "wof:parent_id":85867053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -95.915083,
+    41.252157,
+    -95.915083,
+    41.252157
+],
+  "geometry": {"coordinates":[-95.915083,41.252157],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 857004101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677103,41.97906,-91.677103,41.97906",
+    "geom:latitude":41.97906,
+    "geom:longitude":-91.677103,
+    "iso:country":"US",
+    "sg:address":"202 F Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 7831",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "pencil",
+        "pen",
+        "parts"
+    ],
+    "sg:website":"www.norwood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876621,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MDWAPP52ZFMRKGep1553f_41.979060_-91.677103@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112526,
+    "wof:geomhash":"7c8d014125bbfe1d142877b21d462eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876621,
+            "region_id":85688713,
+            "venue_id":857004101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857004101
+        }
+    ],
+    "wof:id":857004101,
+    "wof:lastmodified":1464112526,
+    "wof:name":"Norwood-Souvenir",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pencil",
+        "pen",
+        "parts"
+    ]
+},
+  "bbox": [
+    -91.677103,
+    41.97906,
+    -91.677103,
+    41.97906
+],
+  "geometry": {"coordinates":[-91.677103,41.97906],"type":"Point"}
+}

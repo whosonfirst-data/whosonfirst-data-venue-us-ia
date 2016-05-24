@@ -1,0 +1,73 @@
+{
+  "id": 856874353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.426765,42.467527,-92.426765,42.467527",
+    "geom:latitude":42.467527,
+    "geom:longitude":-92.426765,
+    "iso:country":"US",
+    "sg:address":"3265 Dewitt Rd",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 233 4202",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944317,
+        102086513,
+        85809929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cZSYSRYcJ4kpWZ0b2cJ3g_42.467527_-92.426765@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106903,
+    "wof:geomhash":"946db68977233d0b7fb0c052262941cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944317,
+            "neighbourhood_id":85809929,
+            "region_id":85688713,
+            "venue_id":856874353
+        }
+    ],
+    "wof:id":856874353,
+    "wof:lastmodified":1464106903,
+    "wof:name":"Supervisors Club",
+    "wof:parent_id":85809929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -92.426765,
+    42.467527,
+    -92.426765,
+    42.467527
+],
+  "geometry": {"coordinates":[-92.426765,42.467527],"type":"Point"}
+}

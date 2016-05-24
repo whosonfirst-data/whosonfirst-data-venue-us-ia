@@ -1,0 +1,73 @@
+{
+  "id": 856870393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.365885,42.540907,-96.365885,42.540907",
+    "geom:latitude":42.540907,
+    "geom:longitude":-96.365885,
+    "iso:country":"US",
+    "sg:address":"3505 41st St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 239 3891",
+    "sg:postcode":"51108",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85830139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sOH43br4wsAZAhKQOAogq_42.540907_-96.365885@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106557,
+    "wof:geomhash":"061dfa3f828c08cbe38aea9f5c07f656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85830139,
+            "region_id":85688713,
+            "venue_id":856870393
+        }
+    ],
+    "wof:id":856870393,
+    "wof:lastmodified":1464106557,
+    "wof:name":"Hartman Farm",
+    "wof:parent_id":85830139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.365885,
+    42.540907,
+    -96.365885,
+    42.540907
+],
+  "geometry": {"coordinates":[-96.36588500000001,42.540907],"type":"Point"}
+}

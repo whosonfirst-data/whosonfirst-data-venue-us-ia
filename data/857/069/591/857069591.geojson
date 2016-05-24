@@ -1,0 +1,71 @@
+{
+  "id": 857069591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627381,41.976887,-91.627381,41.976887",
+    "geom:latitude":41.976887,
+    "geom:longitude":-91.627381,
+    "iso:country":"US",
+    "sg:address":"2743 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Piercing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 2993",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pUj1bYz3niUUREX9Pxjj3_41.976887_-91.627381@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115308,
+    "wof:geomhash":"bbec6fcb34ed1133e375685538f56e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069591
+        }
+    ],
+    "wof:id":857069591,
+    "wof:lastmodified":1464115308,
+    "wof:name":"Ink Addiction Tattoo & Piercing",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.627381,
+    41.976887,
+    -91.627381,
+    41.976887
+],
+  "geometry": {"coordinates":[-91.627381,41.976887],"type":"Point"}
+}

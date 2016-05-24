@@ -1,0 +1,73 @@
+{
+  "id": 856927113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.699347,41.861435,-93.699347,41.861435",
+    "geom:latitude":41.861435,
+    "geom:longitude":-93.699347,
+    "iso:country":"US",
+    "sg:address":"1001 6th St",
+    "sg:city":"Sheldahl",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 685 3275",
+    "sg:postcode":"50156",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943363,
+        102086653,
+        85848167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yuBsJMEAb83kj1diqV42b_41.861435_-93.699347@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109131,
+    "wof:geomhash":"64367642390e51b625a3e756c22eda9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086653,
+            "locality_id":85943363,
+            "neighbourhood_id":85848167,
+            "region_id":85688713,
+            "venue_id":856927113
+        }
+    ],
+    "wof:id":856927113,
+    "wof:lastmodified":1464109131,
+    "wof:name":"Area Professional Painting",
+    "wof:parent_id":85848167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -93.699347,
+    41.861435,
+    -93.699347,
+    41.861435
+],
+  "geometry": {"coordinates":[-93.699347,41.861435],"type":"Point"}
+}

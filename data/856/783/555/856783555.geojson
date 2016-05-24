@@ -1,0 +1,73 @@
+{
+  "id": 856783555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.565013,41.360336,-93.565013,41.360336",
+    "geom:latitude":41.360336,
+    "geom:longitude":-93.565013,
+    "iso:country":"US",
+    "sg:address":"401 W Salem Ave",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2556",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mx0HX9YBJCP23VdyFwWUD_41.360336_-93.565013@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102510,
+    "wof:geomhash":"455c8b54ce0382c2c827081e86d145b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856783555
+        }
+    ],
+    "wof:id":856783555,
+    "wof:lastmodified":1464102510,
+    "wof:name":"Salem Manor",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -93.565013,
+    41.360336,
+    -93.565013,
+    41.360336
+],
+  "geometry": {"coordinates":[-93.56501299999999,41.360336],"type":"Point"}
+}

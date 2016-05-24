@@ -1,0 +1,73 @@
+{
+  "id": 856789621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.686662,42.023808,-91.686662,42.023808",
+    "geom:latitude":42.023808,
+    "geom:longitude":-91.686662,
+    "iso:country":"US",
+    "sg:address":"4301 Westchester Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 832 2326",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n1ztWOC7myzoP51GA2K6H_42.023808_-91.686662@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102766,
+    "wof:geomhash":"2eb58fae193c8a572d2bbdc5f30b8382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856789621
+        }
+    ],
+    "wof:id":856789621,
+    "wof:lastmodified":1464102766,
+    "wof:name":"Cybernetic Wizardry Inc",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -91.686662,
+    42.023808,
+    -91.686662,
+    42.023808
+],
+  "geometry": {"coordinates":[-91.686662,42.023808],"type":"Point"}
+}

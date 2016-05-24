@@ -1,0 +1,68 @@
+{
+  "id": 856806515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.520338,41.58725,-93.520338,41.58725",
+    "geom:latitude":41.58725,
+    "geom:longitude":-93.520338,
+    "iso:country":"US",
+    "sg:address":"4599 E Oakwood Dr",
+    "sg:city":"Pleasant Hill",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 237 8697",
+    "sg:postcode":"50327",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79oaYsGPTTBb55LjNFWiIf_41.587250_-93.520338@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103475,
+    "wof:geomhash":"f825993d85783cb697910e3f27af4dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856806515
+        }
+    ],
+    "wof:id":856806515,
+    "wof:lastmodified":1464103475,
+    "wof:name":"Dad's Toy Box",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.520338,
+    41.58725,
+    -93.520338,
+    41.58725
+],
+  "geometry": {"coordinates":[-93.520338,41.58725],"type":"Point"}
+}

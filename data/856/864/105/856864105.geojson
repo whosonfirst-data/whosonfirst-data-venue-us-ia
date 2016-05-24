@@ -1,0 +1,73 @@
+{
+  "id": 856864105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.555303,41.604185,-93.555303,41.604185",
+    "geom:latitude":41.604185,
+    "geom:longitude":-93.555303,
+    "iso:country":"US",
+    "sg:address":"1302 E 32nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 265 5637",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x8XZcxJU8Elic3pvdIRdN_41.604185_-93.555303@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106160,
+    "wof:geomhash":"27ae8d6d07dce73722ea9c71363f3d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896393,
+            "region_id":85688713,
+            "venue_id":856864105
+        }
+    ],
+    "wof:id":856864105,
+    "wof:lastmodified":1464106160,
+    "wof:name":"Phong Upholstery",
+    "wof:parent_id":85896393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -93.555303,
+    41.604185,
+    -93.555303,
+    41.604185
+],
+  "geometry": {"coordinates":[-93.55530299999999,41.604185],"type":"Point"}
+}

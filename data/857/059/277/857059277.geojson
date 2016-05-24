@@ -1,0 +1,74 @@
+{
+  "id": 857059277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.602795,42.033303,-91.602795,42.033303",
+    "geom:latitude":42.033303,
+    "geom:longitude":-91.602795,
+    "iso:country":"US",
+    "sg:address":"699 7th Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/marion/222163-country-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 8627",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R75Ddwr4g2vXHfP47QS2f_42.033303_-91.602795@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114872,
+    "wof:geomhash":"0e8c4543fc7b93fd0478fe47b71afc2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059277
+        }
+    ],
+    "wof:id":857059277,
+    "wof:lastmodified":1464114872,
+    "wof:name":"Country Kitchen",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -91.602795,
+    42.033303,
+    -91.602795,
+    42.033303
+],
+  "geometry": {"coordinates":[-91.602795,42.033303],"type":"Point"}
+}

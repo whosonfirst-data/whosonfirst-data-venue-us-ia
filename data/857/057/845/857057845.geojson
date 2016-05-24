@@ -1,0 +1,76 @@
+{
+  "id": 857057845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.597005,41.528319,-93.597005,41.528319",
+    "geom:latitude":41.528319,
+    "geom:longitude":-93.597005,
+    "iso:country":"US",
+    "sg:address":"6230 SE 14th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/bloomfield/174887-popeyes-chicken--biscuits/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 285 1900",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HiarUcl5pF7Ga1X5Owo0E_41.528319_-93.597005@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114817,
+    "wof:geomhash":"3fbe701978e6278050fdc2488f44f89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":857057845
+        }
+    ],
+    "wof:id":857057845,
+    "wof:lastmodified":1464114817,
+    "wof:name":"Popeyes Chicken & Biscuits",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -93.597005,
+    41.528319,
+    -93.597005,
+    41.528319
+],
+  "geometry": {"coordinates":[-93.597005,41.528319],"type":"Point"}
+}

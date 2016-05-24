@@ -1,0 +1,71 @@
+{
+  "id": 857065927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.594597,42.032501,-91.594597,42.032501",
+    "geom:latitude":42.032501,
+    "geom:longitude":-91.594597,
+    "iso:country":"US",
+    "sg:address":"640 14th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 1966",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37m1BrxlZcUvoiSyjZWJq8_42.032501_-91.594597@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115133,
+    "wof:geomhash":"34b2e9931c792ab045c920d0aa9b6d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857065927
+        }
+    ],
+    "wof:id":857065927,
+    "wof:lastmodified":1464115133,
+    "wof:name":"Double M Electric",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -91.594597,
+    42.032501,
+    -91.594597,
+    42.032501
+],
+  "geometry": {"coordinates":[-91.59459699999999,42.032501],"type":"Point"}
+}

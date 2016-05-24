@@ -1,0 +1,72 @@
+{
+  "id": 856884581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.631608,42.020418,-91.631608,42.020418",
+    "geom:latitude":42.020418,
+    "geom:longitude":-91.631608,
+    "iso:country":"US",
+    "sg:address":"4040 1st Ave NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 4040",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.trlf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wi4kpd7scaGEyYQCTwfBu_42.020418_-91.631608@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107449,
+    "wof:geomhash":"1d64dc119a7a200bf18d532e7e3125c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856884581
+        }
+    ],
+    "wof:id":856884581,
+    "wof:lastmodified":1464107449,
+    "wof:name":"Tom Riley Law Firm",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.631608,
+    42.020418,
+    -91.631608,
+    42.020418
+],
+  "geometry": {"coordinates":[-91.631608,42.020418],"type":"Point"}
+}

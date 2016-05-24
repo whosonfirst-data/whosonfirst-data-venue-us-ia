@@ -1,0 +1,73 @@
+{
+  "id": 856810455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.685942,41.994415,-91.685942,41.994415",
+    "geom:latitude":41.994415,
+    "geom:longitude":-91.685942,
+    "iso:country":"US",
+    "sg:address":"916 Ellis Ln NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 286 5757",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68yQAYYR9CxYbIq1N3vZpp_41.994415_-91.685942@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103653,
+    "wof:geomhash":"a5dc08b8f4edec65cbe73ca919b96dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":856810455
+        }
+    ],
+    "wof:id":856810455,
+    "wof:lastmodified":1464103653,
+    "wof:name":"Ellis Park Maintenance Bldg",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -91.685942,
+    41.994415,
+    -91.685942,
+    41.994415
+],
+  "geometry": {"coordinates":[-91.685942,41.994415],"type":"Point"}
+}

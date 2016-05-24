@@ -1,0 +1,74 @@
+{
+  "id": 856897667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673971,41.924642,-91.673971,41.924642",
+    "geom:latitude":41.924642,
+    "geom:longitude":-91.673971,
+    "iso:country":"US",
+    "sg:address":"5735 4th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 2045",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.rentalservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ezoOUNutDYHfnyAWtm27K_41.924642_-91.673971@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107968,
+    "wof:geomhash":"4cbdc3142c786919f398dfe832cde149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856897667
+        }
+    ],
+    "wof:id":856897667,
+    "wof:lastmodified":1464107968,
+    "wof:name":"Atlas Copco Rental Svc Corp",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.673971,
+    41.924642,
+    -91.673971,
+    41.924642
+],
+  "geometry": {"coordinates":[-91.67397099999999,41.924642],"type":"Point"}
+}

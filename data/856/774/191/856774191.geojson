@@ -1,0 +1,71 @@
+{
+  "id": 856774191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.682304,41.47536,-93.682304,41.47536",
+    "geom:latitude":41.47536,
+    "geom:longitude":-93.682304,
+    "iso:country":"US",
+    "sg:address":"802 Sunset Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0649",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FMAjaScmUQRhzIaKpOLEh_41.475360_-93.682304@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102309,
+    "wof:geomhash":"77818fb24a46f16c3339bec45bf2e46c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856774191
+        }
+    ],
+    "wof:id":856774191,
+    "wof:lastmodified":1464102309,
+    "wof:name":"Ted's Used Cars",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.682304,
+    41.47536,
+    -93.682304,
+    41.47536
+],
+  "geometry": {"coordinates":[-93.682304,41.47536],"type":"Point"}
+}

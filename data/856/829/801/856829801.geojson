@@ -1,0 +1,71 @@
+{
+  "id": 856829801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.357467,42.397549,-92.357467,42.397549",
+    "geom:latitude":42.397549,
+    "geom:longitude":-92.357467,
+    "iso:country":"US",
+    "sg:address":"8100 Kimball Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 296 3096",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qlhm0BoYbK7Ehvy6zsO7x_42.397549_-92.357467@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104505,
+    "wof:geomhash":"b4602793d64b46e6d93a4ec376ce0c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856829801
+        }
+    ],
+    "wof:id":856829801,
+    "wof:lastmodified":1464104505,
+    "wof:name":"ASPIRE Therapeutic Horse",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -92.357467,
+    42.397549,
+    -92.357467,
+    42.397549
+],
+  "geometry": {"coordinates":[-92.357467,42.397549],"type":"Point"}
+}

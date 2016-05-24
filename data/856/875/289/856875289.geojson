@@ -1,0 +1,71 @@
+{
+  "id": 856875289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.656736,42.02991,-91.656736,42.02991",
+    "geom:latitude":42.02991,
+    "geom:longitude":-91.656736,
+    "iso:country":"US",
+    "sg:address":"5021 Duffy Dr NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8600",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BD8dDDamH2tU2jwfda1EN_42.029910_-91.656736@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106956,
+    "wof:geomhash":"fd479795d0259257375533aa753e0aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856875289
+        }
+    ],
+    "wof:id":856875289,
+    "wof:lastmodified":1464106956,
+    "wof:name":"Jeffrey P Berg",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.656736,
+    42.02991,
+    -91.656736,
+    42.02991
+],
+  "geometry": {"coordinates":[-91.656736,42.02991],"type":"Point"}
+}

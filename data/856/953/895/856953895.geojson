@@ -1,0 +1,73 @@
+{
+  "id": 856953895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.735242,41.609362,-93.735242,41.609362",
+    "geom:latitude":41.609362,
+    "geom:longitude":-93.735242,
+    "iso:country":"US",
+    "sg:address":"8560 Alice Ave",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 270 0123",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944139,
+        102086603,
+        85896357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lONOBK4dAJrm8iAkrN9ae_41.609362_-93.735242@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110279,
+    "wof:geomhash":"2da7b69afd00fde4b02c7dc89813de53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":85896357,
+            "region_id":85688713,
+            "venue_id":856953895
+        }
+    ],
+    "wof:id":856953895,
+    "wof:lastmodified":1464110279,
+    "wof:name":"Learning Connection",
+    "wof:parent_id":85896357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -93.735242,
+    41.609362,
+    -93.735242,
+    41.609362
+],
+  "geometry": {"coordinates":[-93.735242,41.609362],"type":"Point"}
+}

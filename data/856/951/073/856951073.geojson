@@ -1,0 +1,73 @@
+{
+  "id": 856951073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.489604,41.634578,-91.489604,41.634578",
+    "geom:latitude":41.634578,
+    "geom:longitude":-91.489604,
+    "iso:country":"US",
+    "sg:address":"2309 Heinz Rd",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 354 0769",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944185,
+        102086417,
+        85896475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GWDdkOhHzG56BTxeCdt7W_41.634578_-91.489604@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110124,
+    "wof:geomhash":"a2616ac13c84254dcc9a583d66746639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896475,
+            "region_id":85688713,
+            "venue_id":856951073
+        }
+    ],
+    "wof:id":856951073,
+    "wof:lastmodified":1464110124,
+    "wof:name":"General Mill Inc",
+    "wof:parent_id":85896475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -91.489604,
+    41.634578,
+    -91.489604,
+    41.634578
+],
+  "geometry": {"coordinates":[-91.489604,41.634578],"type":"Point"}
+}

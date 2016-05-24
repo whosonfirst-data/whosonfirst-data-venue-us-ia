@@ -1,0 +1,73 @@
+{
+  "id": 856985827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.697269,41.55569,-93.697269,41.55569",
+    "geom:latitude":41.55569,
+    "geom:longitude":-93.697269,
+    "iso:country":"US",
+    "sg:address":"5701 Park Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 243 2629",
+    "sg:postcode":"50321",
+    "sg:province":"IA",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hYcBru2ycFfYF41RzPs92_41.555690_-93.697269@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111780,
+    "wof:geomhash":"29c3b0c48c498aebe420e8e933527c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877107,
+            "region_id":85688713,
+            "venue_id":856985827
+        }
+    ],
+    "wof:id":856985827,
+    "wof:lastmodified":1464111780,
+    "wof:name":"Three D Industries",
+    "wof:parent_id":85877107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -93.697269,
+    41.55569,
+    -93.697269,
+    41.55569
+],
+  "geometry": {"coordinates":[-93.69726900000001,41.55569],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856990253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.621387,41.648568,-93.621387,41.648568",
+    "geom:latitude":41.648568,
+    "geom:longitude":-93.621387,
+    "iso:country":"US",
+    "sg:address":"260 NW 48th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 725 0010",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63yCHihdXl28oBmGhT0Rpj_41.648568_-93.621387@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111989,
+    "wof:geomhash":"63e7371ab9ac38d8041ea31d09ce287e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856990253
+        }
+    ],
+    "wof:id":856990253,
+    "wof:lastmodified":1464111989,
+    "wof:name":"Iowa State Patrol District 1",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -93.621387,
+    41.648568,
+    -93.621387,
+    41.648568
+],
+  "geometry": {"coordinates":[-93.621387,41.648568],"type":"Point"}
+}

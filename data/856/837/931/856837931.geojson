@@ -1,0 +1,71 @@
+{
+  "id": 856837931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.495513,41.502825,-93.495513,41.502825",
+    "geom:latitude":41.502825,
+    "geom:longitude":-93.495513,
+    "iso:country":"US",
+    "sg:address":"450 N 9th St",
+    "sg:city":"Carlisle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 0560",
+    "sg:postcode":"50047",
+    "sg:province":"IA",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vD0badxcA9mrmqsJMSqJt_41.502825_-93.495513@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104911,
+    "wof:geomhash":"37d7d0e6a76624a2ccabddaa10295e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856837931
+        }
+    ],
+    "wof:id":856837931,
+    "wof:lastmodified":1464104911,
+    "wof:name":"Peterson Excavating Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.495513,
+    41.502825,
+    -93.495513,
+    41.502825
+],
+  "geometry": {"coordinates":[-93.495513,41.502825],"type":"Point"}
+}

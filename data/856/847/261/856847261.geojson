@@ -1,0 +1,73 @@
+{
+  "id": 856847261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.889062,41.259823,-95.889062,41.259823",
+    "geom:latitude":41.259823,
+    "geom:longitude":-95.889062,
+    "iso:country":"US",
+    "sg:address":"2700 2nd Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 328 1344",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HMalqqbcD7if3DNbKBkQQ_41.259823_-95.889062@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105349,
+    "wof:geomhash":"6db92ae372f6cb407d8a578dbbf76ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856847261
+        }
+    ],
+    "wof:id":856847261,
+    "wof:lastmodified":1464105349,
+    "wof:name":"Kirby Co",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -95.889062,
+    41.259823,
+    -95.889062,
+    41.259823
+],
+  "geometry": {"coordinates":[-95.889062,41.259823],"type":"Point"}
+}

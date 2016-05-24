@@ -1,0 +1,78 @@
+{
+  "id": 856994657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534554,41.659069,-91.534554,41.659069",
+    "geom:latitude":41.659069,
+    "geom:longitude":-91.534554,
+    "iso:country":"US",
+    "sg:address":"118 S Clinton St",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 338 0832",
+    "sg:postcode":"52240",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944185,
+        102086417,
+        85896439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u8g9YsFMQu99VkLeWqP4O_41.659069_-91.534554@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112166,
+    "wof:geomhash":"cd93c221691b8756a5b3726e55045565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086417,
+            "locality_id":85944185,
+            "neighbourhood_id":85896439,
+            "region_id":85688713,
+            "venue_id":856994657
+        }
+    ],
+    "wof:id":856994657,
+    "wof:lastmodified":1464112166,
+    "wof:name":"Tailors",
+    "wof:parent_id":85896439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -91.534554,
+    41.659069,
+    -91.534554,
+    41.659069
+],
+  "geometry": {"coordinates":[-91.534554,41.659069],"type":"Point"}
+}

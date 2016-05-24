@@ -1,0 +1,67 @@
+{
+  "id": 857042645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638901,41.990898,-91.638901,41.990898",
+    "geom:latitude":41.990898,
+    "geom:longitude":-91.638901,
+    "iso:country":"US",
+    "sg:address":"2160 Linden Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7375",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:website":"www.brucemore.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LYwPWH3DdMAvvG2B8oLwy_41.991217_-91.639667@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114180,
+    "wof:geomhash":"e90b00963cca33ff8d8a699be75b5c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857042645
+        }
+    ],
+    "wof:id":857042645,
+    "wof:lastmodified":1464114180,
+    "wof:name":"Brucemore",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.638901,
+    41.990898,
+    -91.638901,
+    41.990898
+],
+  "geometry": {"coordinates":[-91.638901,41.990898],"type":"Point"}
+}

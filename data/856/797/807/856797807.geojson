@@ -1,0 +1,77 @@
+{
+  "id": 856797807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653516,41.980948,-91.653516,41.980948",
+    "geom:latitude":41.980948,
+    "geom:longitude":-91.653516,
+    "iso:country":"US",
+    "sg:address":"519 12th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 9517",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A4RpHQvx6s0dOgZqwThxs_41.980948_-91.653516@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103097,
+    "wof:geomhash":"25abe61f613d1778e4921b639d703625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856797807
+        }
+    ],
+    "wof:id":856797807,
+    "wof:lastmodified":1464103097,
+    "wof:name":"Bemers Hauling",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.653516,
+    41.980948,
+    -91.653516,
+    41.980948
+],
+  "geometry": {"coordinates":[-91.653516,41.980948],"type":"Point"}
+}

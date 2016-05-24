@@ -1,0 +1,71 @@
+{
+  "id": 857070887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645798,41.954767,-91.645798,41.954767",
+    "geom:latitude":41.954767,
+    "geom:longitude":-91.645798,
+    "iso:country":"US",
+    "sg:address":"1015 Summit Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 265 7880",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zGB8dNydG1c0GnGCiBgi3_41.954767_-91.645798@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115371,
+    "wof:geomhash":"ca2d85c663cdd299afd2027c22393d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857070887
+        }
+    ],
+    "wof:id":857070887,
+    "wof:lastmodified":1464115371,
+    "wof:name":"B & J Cleaning Service",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.645798,
+    41.954767,
+    -91.645798,
+    41.954767
+],
+  "geometry": {"coordinates":[-91.645798,41.954767],"type":"Point"}
+}

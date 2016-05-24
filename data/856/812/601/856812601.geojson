@@ -1,0 +1,71 @@
+{
+  "id": 856812601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.377028,42.404278,-92.377028,42.404278",
+    "geom:latitude":42.404278,
+    "geom:longitude":-92.377028,
+    "iso:country":"US",
+    "sg:address":"7830 Ansborough Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 290 0874",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21RC2GLB2D33gjFcGeT5vF_42.404278_-92.377028@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103735,
+    "wof:geomhash":"a56a1403c68727c54f97ca58c991084d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856812601
+        }
+    ],
+    "wof:id":856812601,
+    "wof:lastmodified":1464103735,
+    "wof:name":"Ford Fabrication LLC",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalworking"
+    ]
+},
+  "bbox": [
+    -92.377028,
+    42.404278,
+    -92.377028,
+    42.404278
+],
+  "geometry": {"coordinates":[-92.377028,42.404278],"type":"Point"}
+}

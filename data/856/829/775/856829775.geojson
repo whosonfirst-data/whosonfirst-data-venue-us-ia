@@ -1,0 +1,73 @@
+{
+  "id": 856829775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.673061,41.468071,-93.673061,41.468071",
+    "geom:latitude":41.468071,
+    "geom:longitude":-93.673061,
+    "iso:country":"US",
+    "sg:address":"1313 Wright Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 989 3201",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65RwKDRTgPCGOpZPv2sCSZ_41.468071_-93.673061@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104504,
+    "wof:geomhash":"e81b026178223036f346d5f0ef008d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856829775
+        }
+    ],
+    "wof:id":856829775,
+    "wof:lastmodified":1464104504,
+    "wof:name":"Good Life Retirement Apts",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -93.673061,
+    41.468071,
+    -93.673061,
+    41.468071
+],
+  "geometry": {"coordinates":[-93.673061,41.468071],"type":"Point"}
+}

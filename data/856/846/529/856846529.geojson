@@ -1,0 +1,75 @@
+{
+  "id": 856846529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.879221,41.237149,-95.879221,41.237149",
+    "geom:latitude":41.237149,
+    "geom:longitude":-95.879221,
+    "iso:country":"US",
+    "sg:address":"2520 S 24th St",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 7818",
+    "sg:postcode":"51501",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w4wsVoisaV44McN8e0eti_41.237149_-95.879221@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105315,
+    "wof:geomhash":"5433942e36db5a69341be7e05649d0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856846529
+        }
+    ],
+    "wof:id":856846529,
+    "wof:lastmodified":1464105315,
+    "wof:name":"Sapp Bros Truck Stops",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -95.879221,
+    41.237149,
+    -95.879221,
+    41.237149
+],
+  "geometry": {"coordinates":[-95.879221,41.237149],"type":"Point"}
+}

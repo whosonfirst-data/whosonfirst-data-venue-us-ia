@@ -1,0 +1,74 @@
+{
+  "id": 856944687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.3769,42.402876,-92.3769,42.402876",
+    "geom:latitude":42.402876,
+    "geom:longitude":-92.3769,
+    "iso:country":"US",
+    "sg:address":"7735 Ansborough Ave",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 296 2994",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.lichty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tyeITigNe79v8wxHqcZPF_42.402876_-92.376900@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109876,
+    "wof:geomhash":"3ad78afd0dee29d228bff24a0b242521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856944687
+        }
+    ],
+    "wof:id":856944687,
+    "wof:lastmodified":1464109876,
+    "wof:name":"Lichty Automotive",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.3769,
+    42.402876,
+    -92.3769,
+    42.402876
+],
+  "geometry": {"coordinates":[-92.37690000000001,42.402876],"type":"Point"}
+}

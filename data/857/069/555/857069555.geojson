@@ -1,0 +1,66 @@
+{
+  "id": 857069555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616997,41.976799,-91.616997,41.976799",
+    "geom:latitude":41.976799,
+    "geom:longitude":-91.616997,
+    "iso:country":"US",
+    "sg:address":"3102 Mount Vernon Rd SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 1408",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0adYEjRVk3izloCvJ3UXD4_41.976799_-91.616997@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115307,
+    "wof:geomhash":"a444a29d07f7a39114b5d07339448146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069555
+        }
+    ],
+    "wof:id":857069555,
+    "wof:lastmodified":1464115307,
+    "wof:name":"Carriage Cleaners",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.616997,
+    41.976799,
+    -91.616997,
+    41.976799
+],
+  "geometry": {"coordinates":[-91.616997,41.976799],"type":"Point"}
+}

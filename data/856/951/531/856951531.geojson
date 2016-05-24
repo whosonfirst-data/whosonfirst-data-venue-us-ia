@@ -1,0 +1,69 @@
+{
+  "id": 856951531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.619816,41.645579,-93.619816,41.645579",
+    "geom:latitude":41.645579,
+    "geom:longitude":-93.619816,
+    "iso:country":"US",
+    "sg:address":"4745 NW 2nd St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 9569",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdIbTPdTV956HtIjOgl6G_41.645579_-93.619816@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110145,
+    "wof:geomhash":"f2fade77ce36e4cda70ee27853b2847a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856951531
+        }
+    ],
+    "wof:id":856951531,
+    "wof:lastmodified":1464110145,
+    "wof:name":"Big Earls Gold Mine/4745 SEC",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -93.619816,
+    41.645579,
+    -93.619816,
+    41.645579
+],
+  "geometry": {"coordinates":[-93.619816,41.645579],"type":"Point"}
+}

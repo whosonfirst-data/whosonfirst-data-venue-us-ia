@@ -1,0 +1,71 @@
+{
+  "id": 856890507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.397335,41.308266,-95.397335,41.308266",
+    "geom:latitude":41.308266,
+    "geom:longitude":-95.397335,
+    "iso:country":"US",
+    "sg:address":"109 S Main St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6999",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70K8a2XVBW3INVs4WBKcUo_41.308266_-95.397335@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107710,
+    "wof:geomhash":"a72c383243507d49a05afe673f1175cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":856890507
+        }
+    ],
+    "wof:id":856890507,
+    "wof:lastmodified":1464107710,
+    "wof:name":"Wilson & Pechacek",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -95.397335,
+    41.308266,
+    -95.397335,
+    41.308266
+],
+  "geometry": {"coordinates":[-95.397335,41.308266],"type":"Point"}
+}

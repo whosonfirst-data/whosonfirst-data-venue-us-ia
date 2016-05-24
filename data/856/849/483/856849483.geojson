@@ -1,0 +1,71 @@
+{
+  "id": 856849483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.843877,41.241816,-95.843877,41.241816",
+    "geom:latitude":41.241816,
+    "geom:longitude":-95.843877,
+    "iso:country":"US",
+    "sg:address":"2715 South Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 6082",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944293,
+        102086657,
+        85872529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jcL45BoMEEZY7izlmAqPQ_41.241816_-95.843877@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105495,
+    "wof:geomhash":"6c26166c90400340f643ca22b749b6ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086657,
+            "locality_id":85944293,
+            "neighbourhood_id":85872529,
+            "region_id":85688713,
+            "venue_id":856849483
+        }
+    ],
+    "wof:id":856849483,
+    "wof:lastmodified":1464105495,
+    "wof:name":"Multimodal Engineering Corp",
+    "wof:parent_id":85872529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -95.843877,
+    41.241816,
+    -95.843877,
+    41.241816
+],
+  "geometry": {"coordinates":[-95.84387700000001,41.241816],"type":"Point"}
+}

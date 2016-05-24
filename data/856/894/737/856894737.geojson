@@ -1,0 +1,71 @@
+{
+  "id": 856894737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.242396,42.474993,-96.242396,42.474993",
+    "geom:latitude":42.474993,
+    "geom:longitude":-96.242396,
+    "iso:country":"US",
+    "sg:address":"1820 US Hwy 20",
+    "sg:city":"Lawton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 944 5285",
+    "sg:postcode":"51030",
+    "sg:province":"IA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42qXakfCUJKn4shYUqdmOV_42.474993_-96.242396@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107857,
+    "wof:geomhash":"78d12cab98a03d09fecd982b07b5b6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856894737
+        }
+    ],
+    "wof:id":856894737,
+    "wof:lastmodified":1464107857,
+    "wof:name":"Hobart Sales & Svc",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -96.242396,
+    42.474993,
+    -96.242396,
+    42.474993
+],
+  "geometry": {"coordinates":[-96.242396,42.474993],"type":"Point"}
+}

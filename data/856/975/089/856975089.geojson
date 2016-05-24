@@ -1,0 +1,73 @@
+{
+  "id": 856975089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.661061,42.046941,-91.661061,42.046941",
+    "geom:latitude":42.046941,
+    "geom:longitude":-91.661061,
+    "iso:country":"US",
+    "sg:address":"6604 Inwood Ln NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 9512",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "small",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ipIWIi116tVsOT1EF5iMo_42.046941_-91.661061@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111213,
+    "wof:geomhash":"c752b10f5ce6620b2e76c72c1901b224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856975089
+        }
+    ],
+    "wof:id":856975089,
+    "wof:lastmodified":1464111213,
+    "wof:name":"Jerrys Small Engine Repair",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "engine"
+    ]
+},
+  "bbox": [
+    -91.661061,
+    42.046941,
+    -91.661061,
+    42.046941
+],
+  "geometry": {"coordinates":[-91.661061,42.046941],"type":"Point"}
+}

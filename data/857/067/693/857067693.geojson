@@ -1,0 +1,72 @@
+{
+  "id": 857067693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629097,42.027699,-91.629097,42.027699",
+    "geom:latitude":42.027699,
+    "geom:longitude":-91.629097,
+    "iso:country":"US",
+    "sg:address":"351 Collins Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 294 8614",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.famousfootwear.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76QpUz2nlIRszTdIRPFuzF_42.027699_-91.629097@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115211,
+    "wof:geomhash":"104306ca0507b7d2ebe3e1ff50c7e094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857067693
+        }
+    ],
+    "wof:id":857067693,
+    "wof:lastmodified":1464115211,
+    "wof:name":"Famous Footwear",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -91.629097,
+    42.027699,
+    -91.629097,
+    42.027699
+],
+  "geometry": {"coordinates":[-91.629097,42.027699],"type":"Point"}
+}

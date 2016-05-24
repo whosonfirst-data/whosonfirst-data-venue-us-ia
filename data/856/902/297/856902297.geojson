@@ -1,0 +1,73 @@
+{
+  "id": 856902297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.651518,41.974202,-91.651518,41.974202",
+    "geom:latitude":41.974202,
+    "geom:longitude":-91.651518,
+    "iso:country":"US",
+    "sg:address":"1134 9th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 5301",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rw5KTF58PQuNeBVWI082f_41.974202_-91.651518@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108134,
+    "wof:geomhash":"9fa63d23b31542b2e35baa89248c9969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":856902297
+        }
+    ],
+    "wof:id":856902297,
+    "wof:lastmodified":1464108134,
+    "wof:name":"Baker's Oven",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.651518,
+    41.974202,
+    -91.651518,
+    41.974202
+],
+  "geometry": {"coordinates":[-91.651518,41.974202],"type":"Point"}
+}

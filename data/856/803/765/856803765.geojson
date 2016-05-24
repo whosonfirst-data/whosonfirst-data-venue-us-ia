@@ -1,0 +1,68 @@
+{
+  "id": 856803765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.664842,41.978304,-91.664842,41.978304",
+    "geom:latitude":41.978304,
+    "geom:longitude":-91.664842,
+    "iso:country":"US",
+    "sg:address":"310 3rd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 364 7077",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dP9LTyrirFWZtlE23k3RW_41.978304_-91.664842@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103350,
+    "wof:geomhash":"6010e740020db6cbe1177759debc7b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":856803765
+        }
+    ],
+    "wof:id":856803765,
+    "wof:lastmodified":1464103350,
+    "wof:name":"Funaro's Pizza & Pasta",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.664842,
+    41.978304,
+    -91.664842,
+    41.978304
+],
+  "geometry": {"coordinates":[-91.66484199999999,41.978304],"type":"Point"}
+}

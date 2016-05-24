@@ -1,0 +1,75 @@
+{
+  "id": 857039281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.649101,41.9725,-91.649101,41.9725",
+    "geom:latitude":41.9725,
+    "geom:longitude":-91.649101,
+    "iso:country":"US",
+    "sg:address":"1350 15th St SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 7759",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e8w8jhYAnMT5Qa6NkK2MQ_41.972270_-91.648967@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114056,
+    "wof:geomhash":"15f641ea68dac681a94182afce351938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876629,
+            "region_id":85688713,
+            "venue_id":857039281
+        }
+    ],
+    "wof:id":857039281,
+    "wof:lastmodified":1464114056,
+    "wof:name":"Oak Park of Cedar Rapids",
+    "wof:parent_id":85876629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.649101,
+    41.9725,
+    -91.649101,
+    41.9725
+],
+  "geometry": {"coordinates":[-91.649101,41.9725],"type":"Point"}
+}

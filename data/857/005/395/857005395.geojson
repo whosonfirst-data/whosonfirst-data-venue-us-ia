@@ -1,0 +1,73 @@
+{
+  "id": 857005395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.794223,41.249468,-95.794223,41.249468",
+    "geom:latitude":41.249468,
+    "geom:longitude":-95.794223,
+    "iso:country":"US",
+    "sg:address":"20 Norwood Ct",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 322 4207",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Afm6JBc2yhtZmV8Dd6XPy_41.249468_-95.794223@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112583,
+    "wof:geomhash":"63481884eeeb388f50ecd824046e0473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857005395
+        }
+    ],
+    "wof:id":857005395,
+    "wof:lastmodified":1464112583,
+    "wof:name":"HDR Holdings",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -95.794223,
+    41.249468,
+    -95.794223,
+    41.249468
+],
+  "geometry": {"coordinates":[-95.794223,41.249468],"type":"Point"}
+}

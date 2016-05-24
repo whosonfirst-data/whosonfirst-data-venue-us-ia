@@ -1,0 +1,73 @@
+{
+  "id": 857022267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.071949,41.842152,-94.071949,41.842152",
+    "geom:latitude":41.842152,
+    "geom:longitude":-94.071949,
+    "iso:country":"US",
+    "sg:address":"1102 30th St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 465 4207",
+    "sg:postcode":"50220",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZpZgiTSS10k89tDk62BDT_41.842152_-94.071949@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464113287,
+    "wof:geomhash":"6142a9df7969c7b1edae44b4d49564ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":857022267
+        }
+    ],
+    "wof:id":857022267,
+    "wof:lastmodified":1464113287,
+    "wof:name":"Griffin Grain Inc",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.071949,
+    41.842152,
+    -94.071949,
+    41.842152
+],
+  "geometry": {"coordinates":[-94.071949,41.842152],"type":"Point"}
+}

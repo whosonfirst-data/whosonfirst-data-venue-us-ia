@@ -1,0 +1,73 @@
+{
+  "id": 856783703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.785439,42.1906,-91.785439,42.1906",
+    "geom:latitude":42.1906,
+    "geom:longitude":-91.785439,
+    "iso:country":"US",
+    "sg:address":"717 Main St",
+    "sg:city":"Center Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 849 1004",
+    "sg:postcode":"52213",
+    "sg:province":"IA",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85830785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34IaMKCM4bVfzyt8XMaseW_42.190600_-91.785439@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102515,
+    "wof:geomhash":"ea886954030bbb82a5f9ca3f757519a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85830785,
+            "region_id":85688713,
+            "venue_id":856783703
+        }
+    ],
+    "wof:id":856783703,
+    "wof:lastmodified":1464102515,
+    "wof:name":"Mingo Masonry",
+    "wof:parent_id":85830785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.785439,
+    42.1906,
+    -91.785439,
+    42.1906
+],
+  "geometry": {"coordinates":[-91.785439,42.1906],"type":"Point"}
+}

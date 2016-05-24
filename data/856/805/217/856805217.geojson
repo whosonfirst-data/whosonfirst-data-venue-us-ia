@@ -1,0 +1,69 @@
+{
+  "id": 856805217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.558249,41.359358,-93.558249,41.359358",
+    "geom:latitude":41.359358,
+    "geom:longitude":-93.558249,
+    "iso:country":"US",
+    "sg:address":"110 S Jefferson Way",
+    "sg:city":"Indianola",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 961 2594",
+    "sg:postcode":"50125",
+    "sg:province":"IA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QmreK7JI6HcKzLRsmxVWk_41.359358_-93.558249@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103416,
+    "wof:geomhash":"c7fbba82089ce8239850956a5d38bdf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856805217
+        }
+    ],
+    "wof:id":856805217,
+    "wof:lastmodified":1464103416,
+    "wof:name":"Chumbley & Jones Oil Co",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -93.558249,
+    41.359358,
+    -93.558249,
+    41.359358
+],
+  "geometry": {"coordinates":[-93.558249,41.359358],"type":"Point"}
+}

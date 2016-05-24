@@ -1,0 +1,73 @@
+{
+  "id": 856851607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.599217,42.033798,-91.599217,42.033798",
+    "geom:latitude":42.033798,
+    "geom:longitude":-91.599217,
+    "iso:country":"US",
+    "sg:address":"743 10th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 377 0934",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wT7K0inUqU2n9oRRb80iF_42.033798_-91.599217@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105606,
+    "wof:geomhash":"cc2d317889c2b73fb8020f55959b756c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856851607
+        }
+    ],
+    "wof:id":856851607,
+    "wof:lastmodified":1464105606,
+    "wof:name":"Raymond James Financial Svc",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -91.599217,
+    42.033798,
+    -91.599217,
+    42.033798
+],
+  "geometry": {"coordinates":[-91.599217,42.033798],"type":"Point"}
+}

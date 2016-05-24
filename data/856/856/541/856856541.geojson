@@ -1,0 +1,71 @@
+{
+  "id": 856856541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.623852,41.972405,-91.623852,41.972405",
+    "geom:latitude":41.972405,
+    "geom:longitude":-91.623852,
+    "iso:country":"US",
+    "sg:address":"2856 14th Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9284",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42qqqM7p4IdmuBLD7o5ePm_41.972405_-91.623852@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105820,
+    "wof:geomhash":"41a92d82b540c1aae52ca458a2bfd664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856856541
+        }
+    ],
+    "wof:id":856856541,
+    "wof:lastmodified":1464105820,
+    "wof:name":"Judy's Janitorial Svc",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.623852,
+    41.972405,
+    -91.623852,
+    41.972405
+],
+  "geometry": {"coordinates":[-91.623852,41.972405],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857058791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.841052,41.264964,-95.841052,41.264964",
+    "geom:latitude":41.264964,
+    "geom:longitude":-95.841052,
+    "iso:country":"US",
+    "sg:address":"417 E Broadway",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/kane/127086-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 8233",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27BDhOLrOTMPDVxd6VPzkH_41.264964_-95.841052@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114856,
+    "wof:geomhash":"4f5d5819e76ac8672d07b866824864b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":857058791
+        }
+    ],
+    "wof:id":857058791,
+    "wof:lastmodified":1464114856,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.841052,
+    41.264964,
+    -95.841052,
+    41.264964
+],
+  "geometry": {"coordinates":[-95.841052,41.264964],"type":"Point"}
+}

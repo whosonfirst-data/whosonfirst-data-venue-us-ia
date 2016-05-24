@@ -1,0 +1,73 @@
+{
+  "id": 856980307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.630968,41.935411,-91.630968,41.935411",
+    "geom:latitude":41.935411,
+    "geom:longitude":-91.630968,
+    "iso:country":"US",
+    "sg:address":"2600 Kenway Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 6474",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AxSKapexxquopY3NgzgOG_41.935411_-91.630968@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111471,
+    "wof:geomhash":"683fc148ae1f56dd153a765151d5ca88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856980307
+        }
+    ],
+    "wof:id":856980307,
+    "wof:lastmodified":1464111471,
+    "wof:name":"Earl's Backhoe & Sewer Svc",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.630968,
+    41.935411,
+    -91.630968,
+    41.935411
+],
+  "geometry": {"coordinates":[-91.630968,41.935411],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856792463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.673148,41.924052,-91.673148,41.924052",
+    "geom:latitude":41.924052,
+    "geom:longitude":-91.673148,
+    "iso:country":"US",
+    "sg:address":"405 58th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 0463",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.ryder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85828809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1unlQ5jFWIb9h2wAuljuv8_41.924052_-91.673148@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102877,
+    "wof:geomhash":"aba185dddae193f080f14ee48066cf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85828809,
+            "region_id":85688713,
+            "venue_id":856792463
+        }
+    ],
+    "wof:id":856792463,
+    "wof:lastmodified":1464102877,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85828809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -91.673148,
+    41.924052,
+    -91.673148,
+    41.924052
+],
+  "geometry": {"coordinates":[-91.673148,41.924052],"type":"Point"}
+}

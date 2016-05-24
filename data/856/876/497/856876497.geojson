@@ -1,0 +1,71 @@
+{
+  "id": 856876497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.384026,41.917712,-91.384026,41.917712",
+    "geom:latitude":41.917712,
+    "geom:longitude":-91.384026,
+    "iso:country":"US",
+    "sg:address":"419 S Jackson St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 455 2085",
+    "sg:postcode":"52253",
+    "sg:province":"IA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PRMrC5fM8ObaAJs998ytm_41.917712_-91.384026@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107007,
+    "wof:geomhash":"d061109f53ec2c7c9bfd27288c481688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856876497
+        }
+    ],
+    "wof:id":856876497,
+    "wof:lastmodified":1464107007,
+    "wof:name":"Phelps Painting & Decorating",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.384026,
+    41.917712,
+    -91.384026,
+    41.917712
+],
+  "geometry": {"coordinates":[-91.38402600000001,41.917712],"type":"Point"}
+}

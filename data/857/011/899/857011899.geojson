@@ -1,0 +1,71 @@
+{
+  "id": 857011899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.761208,42.007006,-91.761208,42.007006",
+    "geom:latitude":42.007006,
+    "geom:longitude":-91.761208,
+    "iso:country":"US",
+    "sg:address":"7004 N Glen Dr",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 2893",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TKUdGegsKpTFiZP9CWuH0_42.007006_-91.761208@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112856,
+    "wof:geomhash":"7d486f5df61c6c9c9f6ffc515883163f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857011899
+        }
+    ],
+    "wof:id":857011899,
+    "wof:lastmodified":1464112856,
+    "wof:name":"Covington Welding & Repair",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -91.761208,
+    42.007006,
+    -91.761208,
+    42.007006
+],
+  "geometry": {"coordinates":[-91.761208,42.007006],"type":"Point"}
+}

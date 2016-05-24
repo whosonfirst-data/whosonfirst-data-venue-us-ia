@@ -1,0 +1,74 @@
+{
+  "id": 857059395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.653782,41.992688,-91.653782,41.992688",
+    "geom:latitude":41.992688,
+    "geom:longitude":-91.653782,
+    "iso:country":"US",
+    "sg:address":"501 16th St NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/cedar-rapids/172723-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 365 0680",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74YtQ5mKaOgxENaqHCjJ7A_41.992688_-91.653782@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114876,
+    "wof:geomhash":"c05cdab822e28e6bab95db98705f5a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":857059395
+        }
+    ],
+    "wof:id":857059395,
+    "wof:lastmodified":1464114876,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.653782,
+    41.992688,
+    -91.653782,
+    41.992688
+],
+  "geometry": {"coordinates":[-91.65378200000001,41.992688],"type":"Point"}
+}

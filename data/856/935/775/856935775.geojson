@@ -1,0 +1,71 @@
+{
+  "id": 856935775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677981,42.051357,-91.677981,42.051357",
+    "geom:latitude":42.051357,
+    "geom:longitude":-91.677981,
+    "iso:country":"US",
+    "sg:address":"1005 Hawkeye Dr",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 0136",
+    "sg:postcode":"52233",
+    "sg:province":"IA",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z4rmCdQTdyiXkh3ouu7iv_42.051357_-91.677981@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109467,
+    "wof:geomhash":"1635cb874561804d5b2893f25b03acde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856935775
+        }
+    ],
+    "wof:id":856935775,
+    "wof:lastmodified":1464109467,
+    "wof:name":"Professional Chemists",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -91.677981,
+    42.051357,
+    -91.677981,
+    42.051357
+],
+  "geometry": {"coordinates":[-91.677981,42.051357],"type":"Point"}
+}

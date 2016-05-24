@@ -1,0 +1,71 @@
+{
+  "id": 857050473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.652496,42.020599,-91.652496,42.020599",
+    "geom:latitude":42.020599,
+    "geom:longitude":-91.652496,
+    "iso:country":"US",
+    "sg:address":"1140 Old Marion Rd NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 393 8161",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HvoYUW5aF8xxuhOTpZ0lu_42.020603_-91.652454@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114526,
+    "wof:geomhash":"ce33863ff31f37d1840d45dfeedd66e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":857050473
+        }
+    ],
+    "wof:id":857050473,
+    "wof:lastmodified":1464114526,
+    "wof:name":"Nelson's Meat Market",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.652496,
+    42.020599,
+    -91.652496,
+    42.020599
+],
+  "geometry": {"coordinates":[-91.652496,42.020599],"type":"Point"}
+}

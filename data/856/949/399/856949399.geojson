@@ -1,0 +1,71 @@
+{
+  "id": 856949399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.364979,42.487973,-96.364979,42.487973",
+    "geom:latitude":42.487973,
+    "geom:longitude":-96.364979,
+    "iso:country":"US",
+    "sg:address":"3201 Gordon Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 234 2757",
+    "sg:postcode":"51105",
+    "sg:province":"IA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76VLWRskZcBOxHCqGd5CgM_42.487973_-96.364979@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110048,
+    "wof:geomhash":"1f44901d2e0da068fca65fa999285669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856949399
+        }
+    ],
+    "wof:id":856949399,
+    "wof:lastmodified":1464110048,
+    "wof:name":"Sioux City Steak Company LLC",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.364979,
+    42.487973,
+    -96.364979,
+    42.487973
+],
+  "geometry": {"coordinates":[-96.36497900000001,42.487973],"type":"Point"}
+}

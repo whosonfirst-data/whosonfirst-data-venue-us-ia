@@ -1,0 +1,73 @@
+{
+  "id": 856961159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.638322,41.585186,-93.638322,41.585186",
+    "geom:latitude":41.585186,
+    "geom:longitude":-93.638322,
+    "iso:country":"US",
+    "sg:address":"515 16th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 280 3365",
+    "sg:postcode":"50309",
+    "sg:province":"IA",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LMIvA3VklgEtQ12Taof0T_41.585186_-93.638322@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110587,
+    "wof:geomhash":"46c5a9d918f3906fe90d233bcead4e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877105,
+            "region_id":85688713,
+            "venue_id":856961159
+        }
+    ],
+    "wof:id":856961159,
+    "wof:lastmodified":1464110587,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85877105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -93.638322,
+    41.585186,
+    -93.638322,
+    41.585186
+],
+  "geometry": {"coordinates":[-93.638322,41.585186],"type":"Point"}
+}

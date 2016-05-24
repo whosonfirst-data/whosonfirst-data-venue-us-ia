@@ -1,0 +1,73 @@
+{
+  "id": 857069617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.609001,41.976799,-91.609001,41.976799",
+    "geom:latitude":41.976799,
+    "geom:longitude":-91.609001,
+    "iso:country":"US",
+    "sg:address":"1000 42nd St SE # B",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 0043",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z9xc852No0YLgUZ1JWXD0_41.976799_-91.609001@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115309,
+    "wof:geomhash":"b85263f9b4f2297b2f7b352da67817ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":857069617
+        }
+    ],
+    "wof:id":857069617,
+    "wof:lastmodified":1464115309,
+    "wof:name":"Schuller James P DDS",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -91.609001,
+    41.976799,
+    -91.609001,
+    41.976799
+],
+  "geometry": {"coordinates":[-91.60900100000001,41.976799],"type":"Point"}
+}

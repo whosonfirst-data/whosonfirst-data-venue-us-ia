@@ -1,0 +1,73 @@
+{
+  "id": 856874525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.598004,42.033975,-91.598004,42.033975",
+    "geom:latitude":42.033975,
+    "geom:longitude":-91.598004,
+    "iso:country":"US",
+    "sg:address":"725 11th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 5566",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pGvxFo1xQSrOqQ9XOELrT_42.033975_-91.598004@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106911,
+    "wof:geomhash":"04aa8caf37a1cc281636ca2371b3cc21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856874525
+        }
+    ],
+    "wof:id":856874525,
+    "wof:lastmodified":1464106911,
+    "wof:name":"Center For Health & Harmony",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -91.598004,
+    42.033975,
+    -91.598004,
+    42.033975
+],
+  "geometry": {"coordinates":[-91.598004,42.033975],"type":"Point"}
+}

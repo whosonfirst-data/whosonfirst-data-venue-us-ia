@@ -1,0 +1,68 @@
+{
+  "id": 856955163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.596941,41.526386,-93.596941,41.526386",
+    "geom:latitude":41.526386,
+    "geom:longitude":-93.596941,
+    "iso:country":"US",
+    "sg:address":"5914 SE 14th St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 287 4347",
+    "sg:postcode":"50320",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ykQ1bEya2rwBLsAz5zUeC_41.526386_-93.596941@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110328,
+    "wof:geomhash":"a7a2ad7d116db4a71ddc9a9309f9893e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
+            "region_id":85688713,
+            "venue_id":856955163
+        }
+    ],
+    "wof:id":856955163,
+    "wof:lastmodified":1464110328,
+    "wof:name":"Hot Box",
+    "wof:parent_id":85896421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.596941,
+    41.526386,
+    -93.596941,
+    41.526386
+],
+  "geometry": {"coordinates":[-93.596941,41.526386],"type":"Point"}
+}

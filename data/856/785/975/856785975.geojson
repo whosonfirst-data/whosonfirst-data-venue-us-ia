@@ -1,0 +1,74 @@
+{
+  "id": 856785975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.621755,41.650397,-93.621755,41.650397",
+    "geom:latitude":41.650397,
+    "geom:longitude":-93.621755,
+    "iso:country":"US",
+    "sg:address":"309 NW 49th Pl",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 288 2200",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.ryder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85896395,
+        102086603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2piW2IF8r3RtrXCQPkZvqL_41.650397_-93.621755@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102612,
+    "wof:geomhash":"d6c070d67bf6fbc4e620ed8d0f8d5f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086603,
+            "neighbourhood_id":85896395,
+            "region_id":85688713,
+            "venue_id":856785975
+        }
+    ],
+    "wof:id":856785975,
+    "wof:lastmodified":1464102612,
+    "wof:name":"Ryder Truck Rental",
+    "wof:parent_id":85896395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.621755,
+    41.650397,
+    -93.621755,
+    41.650397
+],
+  "geometry": {"coordinates":[-93.62175499999999,41.650397],"type":"Point"}
+}

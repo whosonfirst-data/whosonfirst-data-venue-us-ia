@@ -1,0 +1,71 @@
+{
+  "id": 856821813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.418917,41.923172,-91.418917,41.923172",
+    "geom:latitude":41.923172,
+    "geom:longitude":-91.418917,
+    "iso:country":"US",
+    "sg:address":"224 1st St W",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 895 8150",
+    "sg:postcode":"52314",
+    "sg:province":"IA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bU2FIRTWc9kj8k3j1cdzA_41.923172_-91.418917@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104180,
+    "wof:geomhash":"50c11922c3642cfdba98144021e6e6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":856821813
+        }
+    ],
+    "wof:id":856821813,
+    "wof:lastmodified":1464104180,
+    "wof:name":"Guy P Booth",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.418917,
+    41.923172,
+    -91.418917,
+    41.923172
+],
+  "geometry": {"coordinates":[-91.41891699999999,41.923172],"type":"Point"}
+}

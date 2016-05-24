@@ -1,0 +1,71 @@
+{
+  "id": 856868377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.378447,42.433347,-96.378447,42.433347",
+    "geom:latitude":42.433347,
+    "geom:longitude":-96.378447,
+    "iso:country":"US",
+    "sg:address":"4101 Harbor Dr",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 258 0537",
+    "sg:postcode":"51111",
+    "sg:province":"IA",
+    "sg:tags":[
+        "barge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85943555,
+        102086309,
+        85835267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S02iaPAeK4cJk83xbrpcL_42.433347_-96.378447@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106411,
+    "wof:geomhash":"f425d5a499e72dfe2f92297706718710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85835267,
+            "region_id":85688713,
+            "venue_id":856868377
+        }
+    ],
+    "wof:id":856868377,
+    "wof:lastmodified":1464106411,
+    "wof:name":"Big Soo Terminal",
+    "wof:parent_id":85835267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barge"
+    ]
+},
+  "bbox": [
+    -96.378447,
+    42.433347,
+    -96.378447,
+    42.433347
+],
+  "geometry": {"coordinates":[-96.37844699999999,42.433347],"type":"Point"}
+}

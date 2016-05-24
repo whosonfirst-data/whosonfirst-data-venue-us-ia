@@ -1,0 +1,73 @@
+{
+  "id": 856877009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.610292,41.627706,-93.610292,41.627706",
+    "geom:latitude":41.627706,
+    "geom:longitude":-93.610292,
+    "iso:country":"US",
+    "sg:address":"600 E Euclid Ave",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 282 7074",
+    "sg:postcode":"50313",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F7YyoPJfRhIWCtMeDqYGr_41.627706_-93.610292@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107032,
+    "wof:geomhash":"31e6ffea5997e4884a91d24b96e3d14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896431,
+            "region_id":85688713,
+            "venue_id":856877009
+        }
+    ],
+    "wof:id":856877009,
+    "wof:lastmodified":1464107032,
+    "wof:name":"Kent Kaplan DDS",
+    "wof:parent_id":85896431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.610292,
+    41.627706,
+    -93.610292,
+    41.627706
+],
+  "geometry": {"coordinates":[-93.610292,41.627706],"type":"Point"}
+}

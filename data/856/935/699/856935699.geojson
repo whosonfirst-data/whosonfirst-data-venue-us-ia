@@ -1,0 +1,71 @@
+{
+  "id": 856935699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.814339,41.608321,-93.814339,41.608321",
+    "geom:latitude":41.608321,
+    "geom:longitude":-93.814339,
+    "iso:country":"US",
+    "sg:address":"1250 NW 142nd St",
+    "sg:city":"Clive",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 222 0505",
+    "sg:postcode":"50325",
+    "sg:province":"IA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RjJyCmW4mHqacYtxE5ncd_41.608321_-93.814339@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109465,
+    "wof:geomhash":"786b4460c5aaa8d2f22d69202ba76bc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856935699
+        }
+    ],
+    "wof:id":856935699,
+    "wof:lastmodified":1464109465,
+    "wof:name":"Douglas R Pick DDS",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.814339,
+    41.608321,
+    -93.814339,
+    41.608321
+],
+  "geometry": {"coordinates":[-93.814339,41.608321],"type":"Point"}
+}

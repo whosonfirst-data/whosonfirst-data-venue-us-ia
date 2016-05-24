@@ -1,0 +1,73 @@
+{
+  "id": 856956205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.401225,41.300713,-95.401225,41.300713",
+    "geom:latitude":41.300713,
+    "geom:longitude":-95.401225,
+    "iso:country":"US",
+    "sg:address":"129 Harrison St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 482 6607",
+    "sg:postcode":"51560",
+    "sg:province":"IA",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85816645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37uPfOwARdLrRRjPnflGb7_41.300713_-95.401225@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110394,
+    "wof:geomhash":"2e73e81976d511a2ecc7ac3a99d33d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85816645,
+            "region_id":85688563,
+            "venue_id":856956205
+        }
+    ],
+    "wof:id":856956205,
+    "wof:lastmodified":1464110394,
+    "wof:name":"Oakland Community Ctr",
+    "wof:parent_id":85816645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -95.401225,
+    41.300713,
+    -95.401225,
+    41.300713
+],
+  "geometry": {"coordinates":[-95.401225,41.300713],"type":"Point"}
+}

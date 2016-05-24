@@ -1,0 +1,77 @@
+{
+  "id": 857070493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724899,41.952099,-91.724899,41.952099",
+    "geom:latitude":41.952099,
+    "geom:longitude":-91.724899,
+    "iso:country":"US",
+    "sg:address":"3760 Williams Blvd SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 7971",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"www.tiresplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GaN8PaIayNojq7TDbITKv_41.952099_-91.724899@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115358,
+    "wof:geomhash":"6c0d272f768a67d86d9eedf90822bd7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":857070493
+        }
+    ],
+    "wof:id":857070493,
+    "wof:lastmodified":1464115358,
+    "wof:name":"Tires Plus",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.724899,
+    41.952099,
+    -91.724899,
+    41.952099
+],
+  "geometry": {"coordinates":[-91.72489899999999,41.952099],"type":"Point"}
+}

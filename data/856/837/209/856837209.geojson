@@ -1,0 +1,74 @@
+{
+  "id": 856837209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.885314,41.611879,-93.885314,41.611879",
+    "geom:latitude":41.611879,
+    "geom:longitude":-93.885314,
+    "iso:country":"US",
+    "sg:address":"529 Ashworth Dr",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4511",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "chemical",
+        "agricultural"
+    ],
+    "sg:website":"www.heartlandcoop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BRfVhUS7Xyo4fMsp6WHEv_41.611879_-93.885314@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104874,
+    "wof:geomhash":"a9362575b50983f56c526429fdfdcf31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856837209
+        }
+    ],
+    "wof:id":856837209,
+    "wof:lastmodified":1464104874,
+    "wof:name":"Heartland Co-Op",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "agricultural"
+    ]
+},
+  "bbox": [
+    -93.885314,
+    41.611879,
+    -93.885314,
+    41.611879
+],
+  "geometry": {"coordinates":[-93.88531399999999,41.611879],"type":"Point"}
+}

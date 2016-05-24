@@ -1,0 +1,73 @@
+{
+  "id": 856794569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.628252,41.505995,-90.628252,41.505995",
+    "geom:latitude":41.505995,
+    "geom:longitude":-90.628252,
+    "iso:country":"US",
+    "sg:address":"1227 Nevada St",
+    "sg:city":"Davenport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 563 322 8999",
+    "sg:postcode":"52802",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944193,
+        102086517,
+        85885349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_021Ll4OEZOHkD89QVbu3Nf_41.505995_-90.628252@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102959,
+    "wof:geomhash":"03783a62378d24f608ac3096fa8d3082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086517,
+            "locality_id":85944193,
+            "neighbourhood_id":85885349,
+            "region_id":85688713,
+            "venue_id":856794569
+        }
+    ],
+    "wof:id":856794569,
+    "wof:lastmodified":1464102959,
+    "wof:name":"Dent Man Tools",
+    "wof:parent_id":85885349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.628252,
+    41.505995,
+    -90.628252,
+    41.505995
+],
+  "geometry": {"coordinates":[-90.628252,41.505995],"type":"Point"}
+}

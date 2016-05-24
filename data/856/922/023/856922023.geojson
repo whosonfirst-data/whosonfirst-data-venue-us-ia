@@ -1,0 +1,68 @@
+{
+  "id": 856922023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.541955,41.569131,-93.541955,41.569131",
+    "geom:latitude":41.569131,
+    "geom:longitude":-93.541955,
+    "iso:country":"US",
+    "sg:address":"3608 Vandalia Rd",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 262 4411",
+    "sg:postcode":"50317",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XUJInYdEiEojf705gxQ1X_41.569131_-93.541955@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108913,
+    "wof:geomhash":"626ddf724bcd1ac6d20544eebb4c2dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896385,
+            "region_id":85688713,
+            "venue_id":856922023
+        }
+    ],
+    "wof:id":856922023,
+    "wof:lastmodified":1464108913,
+    "wof:name":"Cycle One LLC",
+    "wof:parent_id":85896385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.541955,
+    41.569131,
+    -93.541955,
+    41.569131
+],
+  "geometry": {"coordinates":[-93.541955,41.569131],"type":"Point"}
+}

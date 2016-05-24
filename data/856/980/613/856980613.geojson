@@ -1,0 +1,74 @@
+{
+  "id": 856980613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.412578,42.495855,-96.412578,42.495855",
+    "geom:latitude":42.495855,
+    "geom:longitude":-96.412578,
+    "iso:country":"US",
+    "sg:address":"313 Perry St",
+    "sg:city":"Sioux City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 277 1170",
+    "sg:postcode":"51103",
+    "sg:province":"IA",
+    "sg:tags":[
+        "boiler"
+    ],
+    "sg:website":"www.wigman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943555,
+        102086309,
+        85850679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yt5fWBv58SkkljD2O6TlJ_42.495855_-96.412578@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111487,
+    "wof:geomhash":"1cb3f35ccd442e8e3c0d5659c602a689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086309,
+            "locality_id":85943555,
+            "neighbourhood_id":85850679,
+            "region_id":85688713,
+            "venue_id":856980613
+        }
+    ],
+    "wof:id":856980613,
+    "wof:lastmodified":1464111487,
+    "wof:name":"Wigman Co",
+    "wof:parent_id":85850679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler"
+    ]
+},
+  "bbox": [
+    -96.412578,
+    42.495855,
+    -96.412578,
+    42.495855
+],
+  "geometry": {"coordinates":[-96.412578,42.495855],"type":"Point"}
+}

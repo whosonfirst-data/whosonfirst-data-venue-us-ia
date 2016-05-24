@@ -1,0 +1,73 @@
+{
+  "id": 856808567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.557011,42.034826,-91.557011,42.034826",
+    "geom:latitude":42.034826,
+    "geom:longitude":-91.557011,
+    "iso:country":"US",
+    "sg:address":"900 50th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 373 4114",
+    "sg:postcode":"52302",
+    "sg:province":"IA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uOF6rt6ZvGiGjr5zRgLrn_42.034826_-91.557011@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103567,
+    "wof:geomhash":"6ea38eccfe145e419e15cf1c595e18d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856808567
+        }
+    ],
+    "wof:id":856808567,
+    "wof:lastmodified":1464103567,
+    "wof:name":"Quality Plumbing",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.557011,
+    42.034826,
+    -91.557011,
+    42.034826
+],
+  "geometry": {"coordinates":[-91.557011,42.034826],"type":"Point"}
+}

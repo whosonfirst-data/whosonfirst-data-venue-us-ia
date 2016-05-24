@@ -1,0 +1,75 @@
+{
+  "id": 856876351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.67887,41.973568,-91.67887,41.973568",
+    "geom:latitude":41.973568,
+    "geom:longitude":-91.67887,
+    "iso:country":"US",
+    "sg:address":"121 6th St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 3950",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nraxlM0nUkJBuP4vzzNeT_41.973568_-91.678870@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464106998,
+    "wof:geomhash":"2741422734ddd9fba2f20146797e353d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":856876351
+        }
+    ],
+    "wof:id":856876351,
+    "wof:lastmodified":1464106998,
+    "wof:name":"DJR Motors",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.67887,
+    41.973568,
+    -91.67887,
+    41.973568
+],
+  "geometry": {"coordinates":[-91.67887,41.973568],"type":"Point"}
+}

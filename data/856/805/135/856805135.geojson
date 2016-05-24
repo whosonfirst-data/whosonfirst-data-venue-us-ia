@@ -1,0 +1,71 @@
+{
+  "id": 856805135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.768782,41.989668,-91.768782,41.989668",
+    "geom:latitude":41.989668,
+    "geom:longitude":-91.768782,
+    "iso:country":"US",
+    "sg:address":"7414 Worcester Rd",
+    "sg:city":"Palo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 396 5108",
+    "sg:postcode":"52324",
+    "sg:province":"IA",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AwXWBTx0Jmb6h5kxMr4gV_41.989668_-91.768782@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103413,
+    "wof:geomhash":"50690bc890717eecd9b3c81df27264d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856805135
+        }
+    ],
+    "wof:id":856805135,
+    "wof:lastmodified":1464103413,
+    "wof:name":"Morgan Creek Enterprises",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -91.768782,
+    41.989668,
+    -91.768782,
+    41.989668
+],
+  "geometry": {"coordinates":[-91.768782,41.989668],"type":"Point"}
+}

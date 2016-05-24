@@ -1,0 +1,69 @@
+{
+  "id": 856815999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.678767,41.469287,-93.678767,41.469287",
+    "geom:latitude":41.469287,
+    "geom:longitude":-93.678767,
+    "iso:country":"US",
+    "sg:address":"112 Main St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 981 0038",
+    "sg:postcode":"50211",
+    "sg:province":"IA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85820071,
+        102086537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OWumt62PisZIWBN82xfGQ_41.469287_-93.678767@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103872,
+    "wof:geomhash":"7416d85017728344f0384c420d8bdbcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086537,
+            "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":856815999
+        }
+    ],
+    "wof:id":856815999,
+    "wof:lastmodified":1464103872,
+    "wof:name":"Seymours Quick Lube Inc",
+    "wof:parent_id":85820071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.678767,
+    41.469287,
+    -93.678767,
+    41.469287
+],
+  "geometry": {"coordinates":[-93.67876699999999,41.469287],"type":"Point"}
+}

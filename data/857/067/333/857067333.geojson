@@ -1,0 +1,74 @@
+{
+  "id": 857067333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.667503,41.978199,-91.667503,41.978199",
+    "geom:latitude":41.978199,
+    "geom:longitude":-91.667503,
+    "iso:country":"US",
+    "sg:address":"207 2nd Ave SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 6220",
+    "sg:postcode":"52401",
+    "sg:province":"IA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.savon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u6b4y5wWVJSkDGH9VtLh8_41.978199_-91.667503@1303262802"
+    },
+    "wof:country":"US",
+    "wof:created":1464115198,
+    "wof:geomhash":"1f921abfd86c2b431f1acee15b29f87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876619,
+            "region_id":85688713,
+            "venue_id":857067333
+        }
+    ],
+    "wof:id":857067333,
+    "wof:lastmodified":1464115198,
+    "wof:name":"Osco Drug",
+    "wof:parent_id":85876619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -91.667503,
+    41.978199,
+    -91.667503,
+    41.978199
+],
+  "geometry": {"coordinates":[-91.667503,41.978199],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856897221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.643306,41.737699,-93.643306,41.737699",
+    "geom:latitude":41.737699,
+    "geom:longitude":-93.643306,
+    "iso:country":"US",
+    "sg:address":"710 NW Boulder Brook Pl",
+    "sg:city":"Ankeny",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 964 1699",
+    "sg:postcode":"50021",
+    "sg:province":"IA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944135,
+        102086603,
+        85896321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35iyWG1y4xiGvZsLx4t25T_41.737699_-93.643306@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107948,
+    "wof:geomhash":"f6883de97eaaff597d9a6dc51760addc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944135,
+            "neighbourhood_id":85896321,
+            "region_id":85688713,
+            "venue_id":856897221
+        }
+    ],
+    "wof:id":856897221,
+    "wof:lastmodified":1464107948,
+    "wof:name":"B&L Building LC",
+    "wof:parent_id":85896321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -93.643306,
+    41.737699,
+    -93.643306,
+    41.737699
+],
+  "geometry": {"coordinates":[-93.643306,41.737699],"type":"Point"}
+}

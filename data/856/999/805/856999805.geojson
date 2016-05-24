@@ -1,0 +1,71 @@
+{
+  "id": 856999805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621525,41.987412,-91.621525,41.987412",
+    "geom:latitude":41.987412,
+    "geom:longitude":-91.621525,
+    "iso:country":"US",
+    "sg:address":"3102 Terry Dr SE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 366 1289",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85873775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V2LsOsf31qEwPhKOAFzhg_41.987412_-91.621525@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112362,
+    "wof:geomhash":"8691b59a53ab550cb5dd48a1413a1d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85873775,
+            "region_id":85688713,
+            "venue_id":856999805
+        }
+    ],
+    "wof:id":856999805,
+    "wof:lastmodified":1464112362,
+    "wof:name":"Dave Bader",
+    "wof:parent_id":85873775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -91.621525,
+    41.987412,
+    -91.621525,
+    41.987412
+],
+  "geometry": {"coordinates":[-91.62152500000001,41.987412],"type":"Point"}
+}

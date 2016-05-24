@@ -1,0 +1,75 @@
+{
+  "id": 857055179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.669296,41.967899,-91.669296,41.967899",
+    "geom:latitude":41.967899,
+    "geom:longitude":-91.669296,
+    "iso:country":"US",
+    "sg:address":"924 2nd St SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 362 9445",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79WjhJ4pcroXHYm79FEQQw_41.967918_-91.669178@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464114710,
+    "wof:geomhash":"04770071054df35f821791c7d556da03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876631,
+            "region_id":85688713,
+            "venue_id":857055179
+        }
+    ],
+    "wof:id":857055179,
+    "wof:lastmodified":1464114710,
+    "wof:name":"Davidson's Auto Shop",
+    "wof:parent_id":85876631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.669296,
+    41.967899,
+    -91.669296,
+    41.967899
+],
+  "geometry": {"coordinates":[-91.669296,41.967899],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856821353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.815031,41.581157,-93.815031,41.581157",
+    "geom:latitude":41.581157,
+    "geom:longitude":-93.815031,
+    "iso:country":"US",
+    "sg:address":"962 78th Pl",
+    "sg:city":"West Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 267 0221",
+    "sg:postcode":"50266",
+    "sg:province":"IA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944027,
+        102086525,
+        85896347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FUxGfSr9OGOXkm0b8oCu0_41.581157_-93.815031@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104164,
+    "wof:geomhash":"6ee009715d96f8d69eb330bae04b98c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944027,
+            "neighbourhood_id":85896347,
+            "region_id":85688713,
+            "venue_id":856821353
+        }
+    ],
+    "wof:id":856821353,
+    "wof:lastmodified":1464104164,
+    "wof:name":"Cornerstone Homes Ltd",
+    "wof:parent_id":85896347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -93.815031,
+    41.581157,
+    -93.815031,
+    41.581157
+],
+  "geometry": {"coordinates":[-93.815031,41.581157],"type":"Point"}
+}

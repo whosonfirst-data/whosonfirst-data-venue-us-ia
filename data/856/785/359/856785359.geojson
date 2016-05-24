@@ -1,0 +1,71 @@
+{
+  "id": 856785359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.385306,42.091995,-91.385306,42.091995",
+    "geom:latitude":42.091995,
+    "geom:longitude":-91.385306,
+    "iso:country":"US",
+    "sg:address":"221 Center St",
+    "sg:city":"Viola",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 7219",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DA2KgNoqFA3bc5GluB7AV_42.091995_-91.385306@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464102589,
+    "wof:geomhash":"7af9fb84c0579278758c227104d5d06c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856785359
+        }
+    ],
+    "wof:id":856785359,
+    "wof:lastmodified":1464102589,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.385306,
+    42.091995,
+    -91.385306,
+    42.091995
+],
+  "geometry": {"coordinates":[-91.385306,42.091995],"type":"Point"}
+}

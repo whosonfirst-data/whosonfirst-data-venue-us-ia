@@ -1,0 +1,77 @@
+{
+  "id": 856835455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.779267,41.633593,-93.779267,41.633593",
+    "geom:latitude":41.633593,
+    "geom:longitude":-93.779267,
+    "iso:country":"US",
+    "sg:address":"4137 120th St",
+    "sg:city":"Urbandale",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 278 1070",
+    "sg:postcode":"50323",
+    "sg:province":"IA",
+    "sg:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        85896517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jH8lR10KP63WwlGezaohB_41.633593_-93.779267@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104776,
+    "wof:geomhash":"80621dc4247f0617a20941d64b624219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896517,
+            "region_id":85688713,
+            "venue_id":856835455
+        }
+    ],
+    "wof:id":856835455,
+    "wof:lastmodified":1464104776,
+    "wof:name":"Grand Slam USA",
+    "wof:parent_id":85896517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ]
+},
+  "bbox": [
+    -93.779267,
+    41.633593,
+    -93.779267,
+    41.633593
+],
+  "geometry": {"coordinates":[-93.779267,41.633593],"type":"Point"}
+}

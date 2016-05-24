@@ -1,0 +1,71 @@
+{
+  "id": 856801897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.759564,41.970216,-91.759564,41.970216",
+    "geom:latitude":41.970216,
+    "geom:longitude":-91.759564,
+    "iso:country":"US",
+    "sg:address":"6914 Rockingham Dr SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 6979",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B1MwNTXkDGRLInJgmhpoQ_41.970216_-91.759564@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464103269,
+    "wof:geomhash":"c38d47e5529e78bc3e0e8a7db8b617eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856801897
+        }
+    ],
+    "wof:id":856801897,
+    "wof:lastmodified":1464103269,
+    "wof:name":"Jumpshot Inc",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.759564,
+    41.970216,
+    -91.759564,
+    41.970216
+],
+  "geometry": {"coordinates":[-91.759564,41.970216],"type":"Point"}
+}

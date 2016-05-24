@@ -1,0 +1,71 @@
+{
+  "id": 856979933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531702,42.281109,-91.531702,42.281109",
+    "geom:latitude":42.281109,
+    "geom:longitude":-91.531702,
+    "iso:country":"US",
+    "sg:address":"118 E Main St",
+    "sg:city":"Coggon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 398 3911",
+    "sg:postcode":"52218",
+    "sg:province":"IA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39DPubnEQF0xGVdkX7tyRB_42.281109_-91.531702@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111457,
+    "wof:geomhash":"cf2c74a76b47ffe3765c1da4c3ccb4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856979933
+        }
+    ],
+    "wof:id":856979933,
+    "wof:lastmodified":1464111457,
+    "wof:name":"Police Dept",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.531702,
+    42.281109,
+    -91.531702,
+    42.281109
+],
+  "geometry": {"coordinates":[-91.531702,42.281109],"type":"Point"}
+}

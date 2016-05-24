@@ -1,0 +1,73 @@
+{
+  "id": 856848889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.710389,41.982222,-91.710389,41.982222",
+    "geom:latitude":41.982222,
+    "geom:longitude":-91.710389,
+    "iso:country":"US",
+    "sg:address":"2833 Iris Ave NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 1553",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bLTAcgAOLlqcX2i8X5XCL_41.982222_-91.710389@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464105460,
+    "wof:geomhash":"f0d8046cfebc96d12caed828fa4e5f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856848889
+        }
+    ],
+    "wof:id":856848889,
+    "wof:lastmodified":1464105460,
+    "wof:name":"Geeks",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.710389,
+    41.982222,
+    -91.710389,
+    41.982222
+],
+  "geometry": {"coordinates":[-91.71038900000001,41.982222],"type":"Point"}
+}

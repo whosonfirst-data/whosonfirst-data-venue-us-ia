@@ -1,0 +1,73 @@
+{
+  "id": 856950323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.746607,41.963875,-91.746607,41.963875",
+    "geom:latitude":41.963875,
+    "geom:longitude":-91.746607,
+    "iso:country":"US",
+    "sg:address":"5725 16th Ave SW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 390 3311",
+    "sg:postcode":"52404",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85809971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38NqGjZTLajF8wp0WMYDub_41.963875_-91.746607@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464110100,
+    "wof:geomhash":"e79fd477397196042e51ba9f79039900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85809971,
+            "region_id":85688713,
+            "venue_id":856950323
+        }
+    ],
+    "wof:id":856950323,
+    "wof:lastmodified":1464110100,
+    "wof:name":"Sixteenth Ave Auto Sales",
+    "wof:parent_id":85809971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.746607,
+    41.963875,
+    -91.746607,
+    41.963875
+],
+  "geometry": {"coordinates":[-91.746607,41.963875],"type":"Point"}
+}

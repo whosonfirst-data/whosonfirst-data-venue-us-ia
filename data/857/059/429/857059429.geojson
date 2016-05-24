@@ -1,0 +1,73 @@
+{
+  "id": 857059429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.55398,41.976542,-91.55398,41.976542",
+    "geom:latitude":41.976542,
+    "geom:longitude":-91.55398,
+    "iso:country":"US",
+    "sg:address":"888 Vernon Valley Dr",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ia/bertram/225814-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52403",
+    "sg:province":"IA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85839927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hYO2PEJcij6z4vkfsx4sx_41.976542_-91.553980@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464114877,
+    "wof:geomhash":"08b626c1dd0cd9adf66cfb5321d5fc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85839927,
+            "region_id":85688713,
+            "venue_id":857059429
+        }
+    ],
+    "wof:id":857059429,
+    "wof:lastmodified":1464114877,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85839927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.55398,
+    41.976542,
+    -91.55398,
+    41.976542
+],
+  "geometry": {"coordinates":[-91.55398,41.976542],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857071055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.682098,41.984299,-91.682098,41.984299",
+    "geom:latitude":41.984299,
+    "geom:longitude":-91.682098,
+    "iso:country":"US",
+    "sg:address":"1200 Ellis Blvd NW",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 363 3561",
+    "sg:postcode":"52405",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944253,
+        102086551,
+        85876627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cB4nY9vMDkzCAQSk8hCHx_41.984299_-91.682098@1303262803"
+    },
+    "wof:country":"US",
+    "wof:created":1464115377,
+    "wof:geomhash":"75f4b948a5f4968c6ca1fb542bc5ebe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876627,
+            "region_id":85688713,
+            "venue_id":857071055
+        }
+    ],
+    "wof:id":857071055,
+    "wof:lastmodified":1464115377,
+    "wof:name":"Chirp's Brake & Alignment Service",
+    "wof:parent_id":85876627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.682098,
+    41.984299,
+    -91.682098,
+    41.984299
+],
+  "geometry": {"coordinates":[-91.682098,41.984299],"type":"Point"}
+}

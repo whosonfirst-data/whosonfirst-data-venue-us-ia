@@ -1,0 +1,75 @@
+{
+  "id": 856832979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.411367,42.060883,-91.411367,42.060883",
+    "geom:latitude":42.060883,
+    "geom:longitude":-91.411367,
+    "iso:country":"US",
+    "sg:address":"473 Dubuque Rd",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 854 6903",
+    "sg:postcode":"52336",
+    "sg:province":"IA",
+    "sg:tags":[
+        "crop",
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85876625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HkwzksCXJygY9U5AUIvhh_42.060883_-91.411367@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104659,
+    "wof:geomhash":"854bebd6f744ba6efee92f95602bca73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85876625,
+            "region_id":85688713,
+            "venue_id":856832979
+        }
+    ],
+    "wof:id":856832979,
+    "wof:lastmodified":1464104659,
+    "wof:name":"Gillmore Tire Recycling",
+    "wof:parent_id":85876625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.411367,
+    42.060883,
+    -91.411367,
+    42.060883
+],
+  "geometry": {"coordinates":[-91.411367,42.060883],"type":"Point"}
+}

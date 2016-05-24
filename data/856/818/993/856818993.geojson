@@ -1,0 +1,73 @@
+{
+  "id": 856818993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.672523,42.03296,-91.672523,42.03296",
+    "geom:latitude":42.03296,
+    "geom:longitude":-91.672523,
+    "iso:country":"US",
+    "sg:address":"2121 N Towne Ln NE",
+    "sg:city":"Cedar Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 395 9559",
+    "sg:postcode":"52402",
+    "sg:province":"IA",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aZRKPekmpUddVTdrc250D_42.032960_-91.672523@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464104002,
+    "wof:geomhash":"9a5ac2654a7ede67e42699a2c332e85d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856818993
+        }
+    ],
+    "wof:id":856818993,
+    "wof:lastmodified":1464104002,
+    "wof:name":"Bi State Furniture Rental",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -91.672523,
+    42.03296,
+    -91.672523,
+    42.03296
+],
+  "geometry": {"coordinates":[-91.672523,42.03296],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856974633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.87784,41.605357,-93.87784,41.605357",
+    "geom:latitude":41.605357,
+    "geom:longitude":-93.87784,
+    "iso:country":"US",
+    "sg:address":"110 Waukee Ave",
+    "sg:city":"Waukee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 515 987 4957",
+    "sg:postcode":"50263",
+    "sg:province":"IA",
+    "sg:tags":[
+        "building",
+        "house",
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944157,
+        102086525,
+        85896503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2odiAkaRbe6aaCyVjgYEIT_41.605357_-93.877840@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464111188,
+    "wof:geomhash":"0daabd5b772bac16d676a6c0dc149d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086525,
+            "locality_id":85944157,
+            "neighbourhood_id":85896503,
+            "region_id":85688713,
+            "venue_id":856974633
+        }
+    ],
+    "wof:id":856974633,
+    "wof:lastmodified":1464111188,
+    "wof:name":"Harold Bissell House Moving",
+    "wof:parent_id":85896503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "mover"
+    ]
+},
+  "bbox": [
+    -93.87784,
+    41.605357,
+    -93.87784,
+    41.605357
+],
+  "geometry": {"coordinates":[-93.87784000000001,41.605357],"type":"Point"}
+}

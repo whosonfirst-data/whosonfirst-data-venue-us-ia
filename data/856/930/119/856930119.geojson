@@ -1,0 +1,74 @@
+{
+  "id": 856930119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.349452,42.456342,-92.349452,42.456342",
+    "geom:latitude":42.456342,
+    "geom:longitude":-92.349452,
+    "iso:country":"US",
+    "sg:address":"4030 Lowes Blvd",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 234 5800",
+    "sg:postcode":"50701",
+    "sg:province":"IA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.communityautoplaza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944325,
+        102086513,
+        85839671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QOdbcyaZbKutO61pM8xQJ_42.456342_-92.349452@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464109250,
+    "wof:geomhash":"b8e7c99e1dfc952f5dd209b97da0c223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086513,
+            "locality_id":85944325,
+            "neighbourhood_id":85839671,
+            "region_id":85688713,
+            "venue_id":856930119
+        }
+    ],
+    "wof:id":856930119,
+    "wof:lastmodified":1464109250,
+    "wof:name":"Community Honda",
+    "wof:parent_id":85839671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.349452,
+    42.456342,
+    -92.349452,
+    42.456342
+],
+  "geometry": {"coordinates":[-92.349452,42.456342],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 856913945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.61856,42.150979,-91.61856,42.150979",
+    "geom:latitude":42.150979,
+    "geom:longitude":-91.61856,
+    "iso:country":"US",
+    "sg:address":"100 Main Ave",
+    "sg:city":"Iowa City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 335 5867",
+    "sg:postcode":"52202",
+    "sg:province":"IA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85831501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C0ItEsxys74SNG9Bh8vwY_42.150979_-91.618560@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464108587,
+    "wof:geomhash":"fd41b3fa7c4e7c2c12608416e8ee497a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85831501,
+            "region_id":85688713,
+            "venue_id":856913945
+        }
+    ],
+    "wof:id":856913945,
+    "wof:lastmodified":1464108587,
+    "wof:name":"University Of Iowa Libraries",
+    "wof:parent_id":85831501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61856,
+    42.150979,
+    -91.61856,
+    42.150979
+],
+  "geometry": {"coordinates":[-91.61856,42.150979],"type":"Point"}
+}

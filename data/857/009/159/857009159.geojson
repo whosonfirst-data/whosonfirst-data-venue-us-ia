@@ -1,0 +1,71 @@
+{
+  "id": 857009159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.776453,41.309938,-95.776453,41.309938",
+    "geom:latitude":41.309938,
+    "geom:longitude":-95.776453,
+    "iso:country":"US",
+    "sg:address":"21264 Homestead Ave",
+    "sg:city":"Council Bluffs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 712 323 0212",
+    "sg:postcode":"51503",
+    "sg:province":"IA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wGcwcBIWZhJ5SUogV3LGZ_41.309938_-95.776453@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464112746,
+    "wof:geomhash":"7fd3c7db4693efe33f2cb107782b6607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872521,
+            "region_id":85688563,
+            "venue_id":857009159
+        }
+    ],
+    "wof:id":857009159,
+    "wof:lastmodified":1464112746,
+    "wof:name":"DJA Studio Of Photography",
+    "wof:parent_id":85872521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -95.776453,
+    41.309938,
+    -95.776453,
+    41.309938
+],
+  "geometry": {"coordinates":[-95.776453,41.309938],"type":"Point"}
+}

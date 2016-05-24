@@ -1,0 +1,71 @@
+{
+  "id": 856876539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.585368,41.873346,-91.585368,41.873346",
+    "geom:latitude":41.873346,
+    "geom:longitude":-91.585368,
+    "iso:country":"US",
+    "sg:address":"1648 Dows St",
+    "sg:city":"Ely",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 319 848 2310",
+    "sg:postcode":"52227",
+    "sg:province":"IA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688713,
+        85633793,
+        85944253,
+        102086551,
+        85859131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FzTH9ZN94j23URgWM0cBb_41.873346_-91.585368@1294088824"
+    },
+    "wof:country":"US",
+    "wof:created":1464107009,
+    "wof:geomhash":"38a6ff2db0bdd44f2949f79d2b96e663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086551,
+            "locality_id":85944253,
+            "neighbourhood_id":85859131,
+            "region_id":85688713,
+            "venue_id":856876539
+        }
+    ],
+    "wof:id":856876539,
+    "wof:lastmodified":1464107009,
+    "wof:name":"Lindemann Looks",
+    "wof:parent_id":85859131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.585368,
+    41.873346,
+    -91.585368,
+    41.873346
+],
+  "geometry": {"coordinates":[-91.585368,41.873346],"type":"Point"}
+}
