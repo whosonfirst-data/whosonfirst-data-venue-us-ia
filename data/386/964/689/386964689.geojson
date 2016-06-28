@@ -2,13 +2,14 @@
   "id": 386964689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.489418,43.030572,-96.489418,43.030572",
     "geom:latitude":43.030572,
     "geom:longitude":-96.489418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4264 Birch Ave",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386964689,
-    "wof:lastmodified":1449028876,
+    "wof:lastmodified":1466484502,
     "wof:name":"Zoeller Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.489418,43.030572,-96.489418,43.030572],
+  "bbox": [
+    -96.489418,
+    43.030572,
+    -96.489418,
+    43.030572
+],
   "geometry": {"coordinates":[-96.489418,43.030572],"type":"Point"}
 }

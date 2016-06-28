@@ -2,13 +2,14 @@
   "id": 387289333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.371595,42.486889,-96.371595,42.486889",
     "geom:latitude":42.486889,
     "geom:longitude":-96.371595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 S Rustin St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387289333,
-    "wof:lastmodified":1449059293,
+    "wof:lastmodified":1466486720,
     "wof:name":"Becky's Portaits Inc",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-96.371595,42.486889,-96.371595,42.486889],
+  "bbox": [
+    -96.371595,
+    42.486889,
+    -96.371595,
+    42.486889
+],
   "geometry": {"coordinates":[-96.371595,42.486889],"type":"Point"}
 }

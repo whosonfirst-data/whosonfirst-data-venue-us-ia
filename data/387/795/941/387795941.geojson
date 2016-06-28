@@ -2,13 +2,14 @@
   "id": 387795941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.47608,43.005176,-96.47608,43.005176",
     "geom:latitude":43.005176,
     "geom:longitude":-96.47608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 16th St",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387795941,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1466486737,
     "wof:name":"Christian Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.47608,43.005176,-96.47608,43.005176],
+  "bbox": [
+    -96.47608,
+    43.005176,
+    -96.47608,
+    43.005176
+],
   "geometry": {"coordinates":[-96.47608,43.005176],"type":"Point"}
 }

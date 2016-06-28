@@ -2,13 +2,14 @@
   "id": 387067523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.338005,42.465811,-96.338005,42.465811",
     "geom:latitude":42.465811,
     "geom:longitude":-96.338005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 S Olive St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387067523,
-    "wof:lastmodified":1449056362,
+    "wof:lastmodified":1466486704,
     "wof:name":"Catholic Daughters of America",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.338005,42.465811,-96.338005,42.465811],
+  "bbox": [
+    -96.338005,
+    42.465811,
+    -96.338005,
+    42.465811
+],
   "geometry": {"coordinates":[-96.338005,42.465811],"type":"Point"}
 }

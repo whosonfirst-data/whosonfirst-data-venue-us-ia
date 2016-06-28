@@ -2,13 +2,14 @@
   "id": 387891853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.359815,42.456431,-96.359815,42.456431",
     "geom:latitude":42.456431,
     "geom:longitude":-96.359815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 Lincoln Way",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387891853,
-    "wof:lastmodified":1449058398,
+    "wof:lastmodified":1466486739,
     "wof:name":"Siouxland Hog Chapter Inc",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.359815,42.456431,-96.359815,42.456431],
+  "bbox": [
+    -96.359815,
+    42.456431,
+    -96.359815,
+    42.456431
+],
   "geometry": {"coordinates":[-96.359815,42.456431],"type":"Point"}
 }

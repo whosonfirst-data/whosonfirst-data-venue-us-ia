@@ -2,13 +2,14 @@
   "id": 387860581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.48803,43.00486,-96.48803,43.00486",
     "geom:latitude":43.00486,
     "geom:longitude":-96.48803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Avenue E",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387860581,
-    "wof:lastmodified":1449057795,
+    "wof:lastmodified":1466486738,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-96.48803,43.00486,-96.48803,43.00486],
-  "geometry": {"coordinates":[-96.48803,43.00486],"type":"Point"}
+  "bbox": [
+    -96.48803,
+    43.00486,
+    -96.48803,
+    43.00486
+],
+  "geometry": {"coordinates":[-96.48802999999999,43.00486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387965515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.480228,43.010101,-96.480228,43.010101",
     "geom:latitude":43.010101,
     "geom:longitude":-96.480228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Ave L",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387965515,
-    "wof:lastmodified":1449058767,
+    "wof:lastmodified":1466486741,
     "wof:name":"Hillcrest Health Care Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.480228,43.010101,-96.480228,43.010101],
+  "bbox": [
+    -96.480228,
+    43.010101,
+    -96.480228,
+    43.010101
+],
   "geometry": {"coordinates":[-96.480228,43.010101],"type":"Point"}
 }

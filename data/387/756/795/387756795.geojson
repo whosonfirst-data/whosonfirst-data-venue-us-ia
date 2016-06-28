@@ -2,13 +2,14 @@
   "id": 387756795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.352454,42.470603,-96.352454,42.470603",
     "geom:latitude":42.470603,
     "geom:longitude":-96.352454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Morningside Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387756795,
-    "wof:lastmodified":1449058386,
+    "wof:lastmodified":1466486735,
     "wof:name":"Susan Kae's Salon",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.352454,42.470603,-96.352454,42.470603],
-  "geometry": {"coordinates":[-96.352454,42.470603],"type":"Point"}
+  "bbox": [
+    -96.352454,
+    42.470603,
+    -96.352454,
+    42.470603
+],
+  "geometry": {"coordinates":[-96.35245399999999,42.470603],"type":"Point"}
 }

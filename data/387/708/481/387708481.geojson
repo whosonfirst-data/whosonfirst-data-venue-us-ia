@@ -2,13 +2,14 @@
   "id": 387708481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.488902,43.046059,-96.488902,43.046059",
     "geom:latitude":43.046059,
     "geom:longitude":-96.488902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4149 Birch Ave",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387708481,
-    "wof:lastmodified":1449056700,
+    "wof:lastmodified":1466486733,
     "wof:name":"Kaneb Pipeline Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-96.488902,43.046059,-96.488902,43.046059],
+  "bbox": [
+    -96.488902,
+    43.046059,
+    -96.488902,
+    43.046059
+],
   "geometry": {"coordinates":[-96.488902,43.046059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387786363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.369873,42.433307,-96.369873,42.433307",
     "geom:latitude":42.433307,
     "geom:longitude":-96.369873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 S York St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387786363,
-    "wof:lastmodified":1449056604,
+    "wof:lastmodified":1466486736,
     "wof:name":"Kum & Go",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.369873,42.433307,-96.369873,42.433307],
+  "bbox": [
+    -96.369873,
+    42.433307,
+    -96.369873,
+    42.433307
+],
   "geometry": {"coordinates":[-96.369873,42.433307],"type":"Point"}
 }

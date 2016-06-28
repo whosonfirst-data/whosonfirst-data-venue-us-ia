@@ -2,13 +2,14 @@
   "id": 219619419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.597521,41.494308,-90.597521,41.494308",
     "geom:latitude":41.494308,
     "geom:longitude":-90.597521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Mill St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219619419,
-    "wof:lastmodified":1449071028,
+    "wof:lastmodified":1466481773,
     "wof:name":"DSP-Monoxivent Inc",
     "wof:parent_id":85885349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air"
     ]
 },
-  "bbox": [-90.597521,41.494308,-90.597521,41.494308],
+  "bbox": [
+    -90.597521,
+    41.494308,
+    -90.597521,
+    41.494308
+],
   "geometry": {"coordinates":[-90.597521,41.494308],"type":"Point"}
 }

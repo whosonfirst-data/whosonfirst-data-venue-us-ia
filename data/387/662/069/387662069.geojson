@@ -2,13 +2,14 @@
   "id": 387662069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.392639,43.01153,-96.392639,43.01153",
     "geom:latitude":43.01153,
     "geom:longitude":-96.392639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 440th St",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387662069,
-    "wof:lastmodified":1449058677,
+    "wof:lastmodified":1466486731,
     "wof:name":"Anthony Dekkers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.392639,43.01153,-96.392639,43.01153],
+  "bbox": [
+    -96.392639,
+    43.01153,
+    -96.392639,
+    43.01153
+],
   "geometry": {"coordinates":[-96.392639,43.01153],"type":"Point"}
 }

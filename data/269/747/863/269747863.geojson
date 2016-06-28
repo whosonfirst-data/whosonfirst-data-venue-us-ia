@@ -2,13 +2,14 @@
   "id": 269747863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.168177,41.866197,-90.168177,41.866197",
     "geom:latitude":41.866197,
     "geom:longitude":-90.168177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 11th Ave",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269747863,
-    "wof:lastmodified":1449036571,
+    "wof:lastmodified":1466481773,
     "wof:name":"Fulton River Terminal",
     "wof:parent_id":85831815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-90.168177,41.866197,-90.168177,41.866197],
+  "bbox": [
+    -90.168177,
+    41.866197,
+    -90.168177,
+    41.866197
+],
   "geometry": {"coordinates":[-90.168177,41.866197],"type":"Point"}
 }

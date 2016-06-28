@@ -2,13 +2,14 @@
   "id": 387358925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.365618,42.481761,-96.365618,42.481761",
     "geom:latitude":42.481761,
     "geom:longitude":-96.365618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Morningside Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387358925,
-    "wof:lastmodified":1449057704,
+    "wof:lastmodified":1466486721,
     "wof:name":"Bailey's Inc",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.365618,42.481761,-96.365618,42.481761],
+  "bbox": [
+    -96.365618,
+    42.481761,
+    -96.365618,
+    42.481761
+],
   "geometry": {"coordinates":[-96.365618,42.481761],"type":"Point"}
 }

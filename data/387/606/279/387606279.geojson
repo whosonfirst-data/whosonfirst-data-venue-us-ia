@@ -2,13 +2,14 @@
   "id": 387606279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.376106,42.490317,-96.376106,42.490317",
     "geom:latitude":42.490317,
     "geom:longitude":-96.376106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2519 Correctionville Rd",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387606279,
-    "wof:lastmodified":1449056689,
+    "wof:lastmodified":1466486730,
     "wof:name":"Rocket Auto Wash & Detail Ctr",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-96.376106,42.490317,-96.376106,42.490317],
-  "geometry": {"coordinates":[-96.376106,42.490317],"type":"Point"}
+  "bbox": [
+    -96.376106,
+    42.490317,
+    -96.376106,
+    42.490317
+],
+  "geometry": {"coordinates":[-96.37610599999999,42.490317],"type":"Point"}
 }

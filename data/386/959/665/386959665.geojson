@@ -2,13 +2,14 @@
   "id": 386959665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.482077,43.004112,-96.482077,43.004112",
     "geom:latitude":43.004112,
     "geom:longitude":-96.482077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 15th St",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386959665,
-    "wof:lastmodified":1449028946,
+    "wof:lastmodified":1466484501,
     "wof:name":"Winterfeld Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.482077,43.004112,-96.482077,43.004112],
+  "bbox": [
+    -96.482077,
+    43.004112,
+    -96.482077,
+    43.004112
+],
   "geometry": {"coordinates":[-96.482077,43.004112],"type":"Point"}
 }

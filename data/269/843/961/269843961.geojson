@@ -2,13 +2,14 @@
   "id": 269843961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.59593,41.490731,-90.59593,41.490731",
     "geom:latitude":41.490731,
     "geom:longitude":-90.59593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 1st St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269843961,
-    "wof:lastmodified":1449036358,
+    "wof:lastmodified":1466481773,
     "wof:name":"Rick's Towing",
     "wof:parent_id":85885349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-90.59593,41.490731,-90.59593,41.490731],
+  "bbox": [
+    -90.59593,
+    41.490731,
+    -90.59593,
+    41.490731
+],
   "geometry": {"coordinates":[-90.59593,41.490731],"type":"Point"}
 }

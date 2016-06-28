@@ -2,13 +2,14 @@
   "id": 387039115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.35828,42.451889,-96.35828,42.451889",
     "geom:latitude":42.451889,
     "geom:longitude":-96.35828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4157 Casteel Ct",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387039115,
-    "wof:lastmodified":1449059441,
+    "wof:lastmodified":1466486704,
     "wof:name":"Microweld Technologies",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [-96.35828,42.451889,-96.35828,42.451889],
-  "geometry": {"coordinates":[-96.35828,42.451889],"type":"Point"}
+  "bbox": [
+    -96.35828,
+    42.451889,
+    -96.35828,
+    42.451889
+],
+  "geometry": {"coordinates":[-96.35827999999999,42.451889],"type":"Point"}
 }

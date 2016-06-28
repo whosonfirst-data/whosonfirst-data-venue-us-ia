@@ -2,13 +2,14 @@
   "id": 387900563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.36733,42.427099,-96.36733,42.427099",
     "geom:latitude":42.427099,
     "geom:longitude":-96.36733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4623 S Lewis Blvd",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387900563,
-    "wof:lastmodified":1449057746,
+    "wof:lastmodified":1466486739,
     "wof:name":"Transportation Dept-Mechanic",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-96.36733,42.427099,-96.36733,42.427099],
+  "bbox": [
+    -96.36733,
+    42.427099,
+    -96.36733,
+    42.427099
+],
   "geometry": {"coordinates":[-96.36733,42.427099],"type":"Point"}
 }

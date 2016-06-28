@@ -2,13 +2,14 @@
   "id": 387220623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.354903,42.470626,-96.354903,42.470626",
     "geom:latitude":42.470626,
     "geom:longitude":-96.354903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 Morningside Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387220623,
-    "wof:lastmodified":1449059784,
+    "wof:lastmodified":1466486716,
     "wof:name":"Drilling Morningside Pharmacy",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.354903,42.470626,-96.354903,42.470626],
-  "geometry": {"coordinates":[-96.354903,42.470626],"type":"Point"}
+  "bbox": [
+    -96.354903,
+    42.470626,
+    -96.354903,
+    42.470626
+],
+  "geometry": {"coordinates":[-96.35490299999999,42.470626],"type":"Point"}
 }

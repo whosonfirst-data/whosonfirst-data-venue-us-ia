@@ -2,13 +2,14 @@
   "id": 202936765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.595114,41.479527,-90.595114,41.479527",
     "geom:latitude":41.479527,
     "geom:longitude":-90.595114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 31st Ave",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202936765,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466481773,
     "wof:name":"Estes Express Lines",
     "wof:parent_id":85885349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-90.595114,41.479527,-90.595114,41.479527],
+  "bbox": [
+    -90.595114,
+    41.479527,
+    -90.595114,
+    41.479527
+],
   "geometry": {"coordinates":[-90.595114,41.479527],"type":"Point"}
 }

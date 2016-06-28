@@ -2,13 +2,14 @@
   "id": 403740311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.387389,42.488839,-96.387389,42.488839",
     "geom:latitude":42.488839,
     "geom:longitude":-96.387389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1711 Dace Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403740311,
-    "wof:lastmodified":1449055242,
+    "wof:lastmodified":1466486707,
     "wof:name":"Dean's Fleet Svc",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-96.387389,42.488839,-96.387389,42.488839],
+  "bbox": [
+    -96.387389,
+    42.488839,
+    -96.387389,
+    42.488839
+],
   "geometry": {"coordinates":[-96.387389,42.488839],"type":"Point"}
 }

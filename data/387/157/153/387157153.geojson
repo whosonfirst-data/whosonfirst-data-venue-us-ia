@@ -2,13 +2,14 @@
   "id": 387157153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.317288,43.069882,-96.317288,43.069882",
     "geom:latitude":43.069882,
     "geom:longitude":-96.317288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 400th St",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387157153,
-    "wof:lastmodified":1449059385,
+    "wof:lastmodified":1466486713,
     "wof:name":"Willard Haverhals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.317288,43.069882,-96.317288,43.069882],
+  "bbox": [
+    -96.317288,
+    43.069882,
+    -96.317288,
+    43.069882
+],
   "geometry": {"coordinates":[-96.317288,43.069882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386937393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.368684,42.479498,-96.368684,42.479498",
     "geom:latitude":42.479498,
     "geom:longitude":-96.368684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 S Alice St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386937393,
-    "wof:lastmodified":1449028678,
+    "wof:lastmodified":1466484497,
     "wof:name":"American Gutter Cleaning Svc",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-96.368684,42.479498,-96.368684,42.479498],
+  "bbox": [
+    -96.368684,
+    42.479498,
+    -96.368684,
+    42.479498
+],
   "geometry": {"coordinates":[-96.368684,42.479498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219599607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.595935,41.490599,-90.595935,41.490599",
     "geom:latitude":41.490599,
     "geom:longitude":-90.595935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 1st St",
     "sg:city":"Rock Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219599607,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466481774,
     "wof:name":"Ricks Towing",
     "wof:parent_id":85885349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-90.595935,41.490599,-90.595935,41.490599],
+  "bbox": [
+    -90.595935,
+    41.490599,
+    -90.595935,
+    41.490599
+],
   "geometry": {"coordinates":[-90.595935,41.490599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387703347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.356923,42.467128,-96.356923,42.467128",
     "geom:latitude":42.467128,
     "geom:longitude":-96.356923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3822 6th Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387703347,
-    "wof:lastmodified":1449057255,
+    "wof:lastmodified":1466486733,
     "wof:name":"Jarvis Janitorial Svc",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-96.356923,42.467128,-96.356923,42.467128],
-  "geometry": {"coordinates":[-96.356923,42.467128],"type":"Point"}
+  "bbox": [
+    -96.356923,
+    42.467128,
+    -96.356923,
+    42.467128
+],
+  "geometry": {"coordinates":[-96.35692299999999,42.467128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387268591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.489998,43.010427,-96.489998,43.010427",
     "geom:latitude":43.010427,
     "geom:longitude":-96.489998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Ave D",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387268591,
-    "wof:lastmodified":1449058271,
+    "wof:lastmodified":1466486718,
     "wof:name":"HSG Of Iowa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.489998,43.010427,-96.489998,43.010427],
+  "bbox": [
+    -96.489998,
+    43.010427,
+    -96.489998,
+    43.010427
+],
   "geometry": {"coordinates":[-96.489998,43.010427],"type":"Point"}
 }

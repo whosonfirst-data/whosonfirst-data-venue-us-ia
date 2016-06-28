@@ -2,13 +2,14 @@
   "id": 403824181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.369568,42.483069,-96.369568,42.483069",
     "geom:latitude":42.483069,
     "geom:longitude":-96.369568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Helen St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403824181,
-    "wof:lastmodified":1449055100,
+    "wof:lastmodified":1466486710,
     "wof:name":"Balloons Galore & More",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-96.369568,42.483069,-96.369568,42.483069],
+  "bbox": [
+    -96.369568,
+    42.483069,
+    -96.369568,
+    42.483069
+],
   "geometry": {"coordinates":[-96.369568,42.483069],"type":"Point"}
 }
