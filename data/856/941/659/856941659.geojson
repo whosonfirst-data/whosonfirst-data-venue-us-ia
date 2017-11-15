@@ -2,6 +2,10 @@
   "id": 856941659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1123 N Dodge St Iowa City IA 52245",
+    "addr:housenumber":"1123",
+    "addr:postcode":"52245",
+    "addr:street":"N Dodge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856941659,
-    "wof:lastmodified":1466485827,
+    "wof:lastmodified":1472620385,
     "wof:name":"Hilltop Car Wash & Svc Ctr",
     "wof:parent_id":85896447,
     "wof:placetype":"venue",

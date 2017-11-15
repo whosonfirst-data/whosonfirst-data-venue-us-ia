@@ -2,6 +2,10 @@
   "id": 856822583,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Main St Mc Clelland IA 51548",
+    "addr:housenumber":"321",
+    "addr:postcode":"51548",
+    "addr:street":"Main St Mc Clelland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":856822583,
-    "wof:lastmodified":1466483402,
+    "wof:lastmodified":1472620108,
     "wof:name":"Home Detailers",
     "wof:parent_id":85872521,
     "wof:placetype":"venue",

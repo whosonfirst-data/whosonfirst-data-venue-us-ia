@@ -2,9 +2,14 @@
   "id": 857031833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Mulberry St Des Moines IA 50309",
+    "addr:housenumber":"1206",
+    "addr:postcode":"50309",
+    "addr:street":"Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.632759,41.583113,-93.632759,41.583113",
     "geom:latitude":41.583113,
     "geom:longitude":-93.632759,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Fy03rqzBtf9InY1c9xx6Y_41.583113_-93.632759@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464113737,
     "wof:geomhash":"b494077cec2d925542dec15d1ae6fd85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":857031833
+        }
+    ],
     "wof:id":857031833,
-    "wof:lastmodified":1466482855,
+    "wof:lastmodified":1491903890,
     "wof:name":"Iowa Health Home Care-Instrust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

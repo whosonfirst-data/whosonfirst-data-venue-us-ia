@@ -2,6 +2,10 @@
   "id": 856777639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 S Pleasant Hill Blvd Des Moines IA 50327",
+    "addr:housenumber":"1100",
+    "addr:postcode":"50327",
+    "addr:street":"S Pleasant Hill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856777639,
-    "wof:lastmodified":1466482045,
+    "wof:lastmodified":1472619969,
     "wof:name":"Peters Lawn & Landscaping",
     "wof:parent_id":85896385,
     "wof:placetype":"venue",

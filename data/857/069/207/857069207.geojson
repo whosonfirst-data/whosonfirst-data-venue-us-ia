@@ -2,6 +2,10 @@
   "id": 857069207,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 1st Ave SE Ste 3 Cedar Rapids IA 52402",
+    "addr:housenumber":"4601",
+    "addr:postcode":"52402",
+    "addr:street":"1St Ave Se Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857069207,
-    "wof:lastmodified":1466484003,
+    "wof:lastmodified":1472620174,
     "wof:name":"Staples",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

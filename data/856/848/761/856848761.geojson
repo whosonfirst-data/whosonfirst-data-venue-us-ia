@@ -2,9 +2,14 @@
   "id": 856848761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1009 S Jefferson Way Indianola IA 50125",
+    "addr:housenumber":"1009",
+    "addr:postcode":"50125",
+    "addr:street":"S Jefferson Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.558275,41.350487,-93.558275,41.350487",
     "geom:latitude":41.350487,
     "geom:longitude":-93.558275,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"ea36c4be39fffca91a72baac8b338f1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856848761
         }
     ],
     "wof:id":856848761,
-    "wof:lastmodified":1466484249,
+    "wof:lastmodified":1491892977,
     "wof:name":"Hornaday Plumbing & Heating",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

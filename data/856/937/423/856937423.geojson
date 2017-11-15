@@ -2,9 +2,14 @@
   "id": 856937423,
   "type": "Feature",
   "properties": {
+    "addr:full":"3407 Grand Ave Des Moines IA 50312",
+    "addr:housenumber":"3407",
+    "addr:postcode":"50312",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.66417,41.584466,-93.66417,41.584466",
     "geom:latitude":41.584466,
     "geom:longitude":-93.66417,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877097,
+        85877099
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46kKAv0KX3kpMa8a9GfleK_41.584466_-93.664170@1294088824"
@@ -35,11 +48,30 @@
     "wof:country":"US",
     "wof:created":1464109534,
     "wof:geomhash":"2081e661a049db093be4621edf018652",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877097,
+            "region_id":85688713,
+            "venue_id":856937423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877099,
+            "region_id":85688713,
+            "venue_id":856937423
+        }
+    ],
     "wof:id":856937423,
-    "wof:lastmodified":1466485772,
+    "wof:lastmodified":1491902173,
     "wof:name":"Imperial Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

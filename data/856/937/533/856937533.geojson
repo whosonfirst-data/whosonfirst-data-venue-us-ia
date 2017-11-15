@@ -2,9 +2,14 @@
   "id": 856937533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1140 24th St Des Moines IA 50311",
+    "addr:housenumber":"1140",
+    "addr:postcode":"50311",
+    "addr:street":"24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64978,41.59945,-93.64978,41.59945",
     "geom:latitude":41.59945,
     "geom:longitude":-93.64978,
@@ -25,7 +30,14 @@
     "sg:province":"IA",
     "sg:website":"www.hiexpress.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wFFaGSNT5U8dCH5si6vLb_41.599450_-93.649780@1294088824"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1464109539,
     "wof:geomhash":"076b1ccbc992105bad61a7af174c56e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":856937533
+        }
+    ],
     "wof:id":856937533,
-    "wof:lastmodified":1466485794,
+    "wof:lastmodified":1491937972,
     "wof:name":"Holiday Inn Express Des Moines",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 856902577,
   "type": "Feature",
   "properties": {
+    "addr:full":"1073 Rockford Rd SW Cedar Rapids IA 52404",
+    "addr:housenumber":"1073",
+    "addr:postcode":"52404",
+    "addr:street":"Rockford Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.690768,41.962374,-91.690768,41.962374",
     "geom:latitude":41.962374,
     "geom:longitude":-91.690768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1073 Rockford Rd SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125154169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XhGyUkbGkGJQqhWd6KPa0_41.962374_-91.690768@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108143,
-    "wof:geomhash":"1b9468010f402e807b020cdc0337581d",
+    "wof:geomhash":"9fff1c4320faab3dc30bb71299518188",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856902577,
-    "wof:lastmodified":1466485203,
+    "wof:lastmodified":1510697581,
     "wof:name":"AFSCME",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

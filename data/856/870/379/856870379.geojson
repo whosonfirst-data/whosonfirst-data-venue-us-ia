@@ -2,6 +2,10 @@
   "id": 856870379,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 S Floyd Blvd Sioux City IA 51101",
+    "addr:housenumber":"222",
+    "addr:postcode":"51101",
+    "addr:street":"S Floyd Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856870379,
-    "wof:lastmodified":1466484567,
+    "wof:lastmodified":1472620244,
     "wof:name":"Schools Public Food Svc",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

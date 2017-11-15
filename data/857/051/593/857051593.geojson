@@ -2,14 +2,20 @@
   "id": 857051593,
   "type": "Feature",
   "properties": {
+    "addr:full":"3326 Johnson Ave NW Cedar Rapids IA 52405",
+    "addr:housenumber":"3326",
+    "addr:postcode":"52405",
+    "addr:street":"Johnson Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.7155,41.974701,-91.7155,41.974701",
     "geom:latitude":41.974701,
     "geom:longitude":-91.7155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3326 Johnson Ave NW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85809971
     ],
+    "wof:brand_id":1125156755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uz5R11wGXttfupwGKXnX2_41.974680_-91.715778@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464114567,
-    "wof:geomhash":"5a45ce04841ab32050029ffbade6eb33",
+    "wof:geomhash":"3dc828ded711f75cb0464b14db3e7938",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857051593,
-    "wof:lastmodified":1466483412,
+    "wof:lastmodified":1510694896,
     "wof:name":"Flowerama",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

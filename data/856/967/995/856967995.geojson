@@ -2,9 +2,14 @@
   "id": 856967995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1051 North Ave Norwalk IA 50211",
+    "addr:housenumber":"1051",
+    "addr:postcode":"50211",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.676145,41.475337,-93.676145,41.475337",
     "geom:latitude":41.475337,
     "geom:longitude":-93.676145,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"467ba9fadf43de66b8f3b4c3c67e31b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856967995
         }
     ],
     "wof:id":856967995,
-    "wof:lastmodified":1466486303,
+    "wof:lastmodified":1491893061,
     "wof:name":"Norwalk Public Library",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

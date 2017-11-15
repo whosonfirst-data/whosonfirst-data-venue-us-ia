@@ -2,14 +2,20 @@
   "id": 856960885,
   "type": "Feature",
   "properties": {
+    "addr:full":"5335 Merle Hay Rd Johnston IA 50131",
+    "addr:housenumber":"5335",
+    "addr:postcode":"50131",
+    "addr:street":"Merle Hay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.697583,41.656371,-93.697583,41.656371",
     "geom:latitude":41.656371,
     "geom:longitude":-93.697583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5335 Merle Hay Rd",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85896485
     ],
+    "wof:brand_id":1125155587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nu77MZOWufLOkzv7KbboS_41.656371_-93.697583@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464110573,
-    "wof:geomhash":"ca609e08e4455f464bc0facd63b94e83",
+    "wof:geomhash":"37166de2af34f706760398647c04cf99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856960885,
-    "wof:lastmodified":1466486265,
+    "wof:lastmodified":1510694029,
     "wof:name":"Contech Construction Prods Inc",
     "wof:parent_id":85896485,
     "wof:placetype":"venue",

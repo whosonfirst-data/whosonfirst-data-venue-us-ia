@@ -2,9 +2,14 @@
   "id": 857018207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 E Henderson Pl Indianola IA 50125",
+    "addr:housenumber":"1013 e",
+    "addr:postcode":"50125",
+    "addr:street":"Henderson Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.54753,41.368106,-93.54753,41.368106",
     "geom:latitude":41.368106,
     "geom:longitude":-93.54753,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"a9fa7b415b954cb8c98fa5e0779dac99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857018207
         }
     ],
     "wof:id":857018207,
-    "wof:lastmodified":1466482327,
+    "wof:lastmodified":1491893019,
     "wof:name":"Olive Sutherland",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

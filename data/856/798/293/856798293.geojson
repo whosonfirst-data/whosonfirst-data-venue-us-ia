@@ -2,9 +2,14 @@
   "id": 856798293,
   "type": "Feature",
   "properties": {
+    "addr:full":"574 Gepke Pkwy Des Moines IA 50320",
+    "addr:housenumber":"574",
+    "addr:postcode":"50320",
+    "addr:street":"Gepke Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.604511,41.50654,-93.604511,41.50654",
     "geom:latitude":41.50654,
     "geom:longitude":-93.604511,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"10fe142040d3b40e0ee2e621dfbf9a50",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856798293
         }
     ],
     "wof:id":856798293,
-    "wof:lastmodified":1466482540,
+    "wof:lastmodified":1491893010,
     "wof:name":"C & M Upholstery",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

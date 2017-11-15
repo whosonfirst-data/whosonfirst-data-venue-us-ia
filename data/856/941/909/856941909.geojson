@@ -2,14 +2,20 @@
   "id": 856941909,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Locust St Des Moines IA 50309",
+    "addr:housenumber":"801",
+    "addr:postcode":"50309",
+    "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.628642,41.586048,-93.628642,41.586048",
     "geom:latitude":41.586048,
     "geom:longitude":-93.628642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 Locust St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -28,19 +34,37 @@
     ],
     "sg:website":"www.keckparking.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J8MCZ8bFqpbj8Bk2sCoOR_41.586048_-93.628642@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109755,
-    "wof:geomhash":"cf45651f6890b32c47e1e45754502118",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76d7f1a93acb174166541edb24ca9652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856941909
+        }
+    ],
     "wof:id":856941909,
-    "wof:lastmodified":1466485878,
+    "wof:lastmodified":1510607665,
     "wof:name":"Central Parking System",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

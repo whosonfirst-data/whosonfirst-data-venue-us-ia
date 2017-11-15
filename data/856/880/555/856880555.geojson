@@ -2,14 +2,20 @@
   "id": 856880555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 28th St West Des Moines IA 50266",
+    "addr:housenumber":"1730",
+    "addr:postcode":"50266",
+    "addr:street":"28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.742341,41.60038,-93.742341,41.60038",
     "geom:latitude":41.60038,
     "geom:longitude":-93.742341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1730 28th St",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -32,32 +38,54 @@
         85688713,
         102191575,
         85633793,
-        85944139,
+        85944027,
         102086603,
-        85896355
+        420520551,
+        85896355,
+        85944139,
+        420520809
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_145jv1VBwQI54EZcAQFT2h_41.600380_-93.742341@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107178,
-    "wof:geomhash":"fd50dc742b247f89ea521eb8cc17c152",
+    "wof:geomhash":"82e784b6fc1aed77896ee26aedf5fc2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086603,
-            "locality_id":85944139,
+            "locality_id":85944027,
+            "neighbourhood_id":420520551,
+            "region_id":85688713,
+            "venue_id":856880555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
             "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856880555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944139,
+            "neighbourhood_id":420520809,
             "region_id":85688713,
             "venue_id":856880555
         }
     ],
     "wof:id":856880555,
-    "wof:lastmodified":1466484799,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
-    "wof:parent_id":85896355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

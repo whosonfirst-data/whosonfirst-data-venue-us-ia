@@ -2,14 +2,20 @@
   "id": 857045937,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 14th Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"802",
+    "addr:postcode":"52404",
+    "addr:street":"14Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.679401,41.963875,-91.679401,41.963875",
     "geom:latitude":41.963875,
     "geom:longitude":-91.679401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 14th Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[],
@@ -30,13 +36,14 @@
         102086551,
         85876631
     ],
+    "wof:brand_id":420575555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rMlbrUn5Zfd37u0SH9hYl_41.963875_-91.679401@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464114308,
-    "wof:geomhash":"d6dabfb57dd032527bae33fd871ba6b3",
+    "wof:geomhash":"0a576ac2722307df9c4ad9e1d38f52c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857045937,
-    "wof:lastmodified":1466483279,
+    "wof:lastmodified":1510602867,
     "wof:name":"Ameri Gas Inc",
     "wof:parent_id":85876631,
     "wof:placetype":"venue",

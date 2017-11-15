@@ -2,14 +2,20 @@
   "id": 856881875,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 Greene St Adel IA 50003",
+    "addr:housenumber":"816",
+    "addr:postcode":"50003",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.017633,41.614458,-94.017633,41.614458",
     "geom:latitude":41.614458,
     "geom:longitude":-94.017633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 Greene St",
     "sg:city":"Adel",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":420575225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3671rlKK7w8xTjjYuhFEHB_41.614458_-94.017633@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107266,
-    "wof:geomhash":"928ad8e488a0cc91baac4d9835409f81",
+    "wof:geomhash":"dbc015211460ef97725514d9479fde53",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856881875,
-    "wof:lastmodified":1466484865,
+    "wof:lastmodified":1510601921,
     "wof:name":"Godfather's Pizza",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

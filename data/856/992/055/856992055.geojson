@@ -2,14 +2,20 @@
   "id": 856992055,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 3rd St NE Cedar Rapids IA 52401",
+    "addr:housenumber":"119",
+    "addr:postcode":"52401",
+    "addr:street":"3Rd St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.668425,41.979997,-91.668425,41.979997",
     "geom:latitude":41.979997,
     "geom:longitude":-91.668425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 3rd St NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876619
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aE1VvxTv3Zh69nA0uugN3_41.979997_-91.668425@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112055,
-    "wof:geomhash":"97b9d27ec13f26b0bba223d9295c031d",
+    "wof:geomhash":"f25b958c8b47923a1b52be2e5ac62b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856992055,
-    "wof:lastmodified":1466486530,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",

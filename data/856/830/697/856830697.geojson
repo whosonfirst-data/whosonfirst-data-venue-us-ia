@@ -2,14 +2,20 @@
   "id": 856830697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1090 7th Ave Marion IA 52302",
+    "addr:housenumber":"1090",
+    "addr:postcode":"52302",
+    "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.598937,42.033369,-91.598937,42.033369",
     "geom:latitude":42.033369,
     "geom:longitude":-91.598937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1090 7th Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t29WNd1pGa5BYsyK8CPWM_42.033369_-91.598937@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104538,
-    "wof:geomhash":"3e7ef66505b55c6b57d41bb9934d6551",
+    "wof:geomhash":"59d7b95e406856099267c2bb3a0ff830",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856830697,
-    "wof:lastmodified":1466483701,
+    "wof:lastmodified":1510696871,
     "wof:name":"Mane Attraction",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

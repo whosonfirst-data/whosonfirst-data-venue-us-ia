@@ -2,6 +2,10 @@
   "id": 856778597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Lewis Blvd Sioux City IA 51105",
+    "addr:housenumber":"1101",
+    "addr:postcode":"51105",
+    "addr:street":"Lewis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856778597,
-    "wof:lastmodified":1466482043,
+    "wof:lastmodified":1472619973,
     "wof:name":"Car Lot",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

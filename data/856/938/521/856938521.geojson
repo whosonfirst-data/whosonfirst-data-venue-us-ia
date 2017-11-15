@@ -2,14 +2,20 @@
   "id": 856938521,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Pierce St Sioux City IA 51101",
+    "addr:housenumber":"606",
+    "addr:postcode":"51101",
+    "addr:street":"Pierce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.404878,42.497357,-96.404878,42.497357",
     "geom:latitude":42.497357,
     "geom:longitude":-96.404878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 Pierce St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086309,
         85850679
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MJTvTPykwwpbXebcNs5Ck_42.497357_-96.404878@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109601,
-    "wof:geomhash":"a3f850bcf56d962f2dc9724909920f8d",
+    "wof:geomhash":"d839162ce2b6c8cf36e177a3344621a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856938521,
-    "wof:lastmodified":1466485793,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

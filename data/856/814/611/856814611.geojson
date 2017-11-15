@@ -2,14 +2,20 @@
   "id": 856814611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2439 Wiley Blvd SW Cedar Rapids IA 52404",
+    "addr:housenumber":"2439",
+    "addr:postcode":"52404",
+    "addr:street":"Wiley Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.725763,41.954901,-91.725763,41.954901",
     "geom:latitude":41.954901,
     "geom:longitude":-91.725763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2439 Wiley Blvd SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85809971
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MePAHdIul7SfXNH4Dk9Jn_41.954901_-91.725763@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103816,
-    "wof:geomhash":"cefce0e88d0e488d1a27d9d9fbf6c38b",
+    "wof:geomhash":"e1bd0f307a8255132dc93ff17d735b7a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856814611,
-    "wof:lastmodified":1466483207,
+    "wof:lastmodified":1510694572,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

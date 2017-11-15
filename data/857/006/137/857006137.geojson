@@ -2,14 +2,20 @@
   "id": 857006137,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 E Kirkwood Blvd Lisbon IA 52253",
+    "addr:housenumber":"150",
+    "addr:postcode":"52253",
+    "addr:street":"E Kirkwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.384921,41.918001,-91.384921,41.918001",
     "geom:latitude":41.918001,
     "geom:longitude":-91.384921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 E Kirkwood Blvd",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086551,
         85839927
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5awuQghGGK9h9cRT9jB6Pf_41.918001_-91.384921@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112611,
-    "wof:geomhash":"2523f04e62a24d8de067766f712c3ba0",
+    "wof:geomhash":"5e9c008664696fe745fe39624ccccec6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857006137,
-    "wof:lastmodified":1466481844,
+    "wof:lastmodified":1510693957,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85839927,
     "wof:placetype":"venue",

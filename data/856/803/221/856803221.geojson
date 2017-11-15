@@ -2,14 +2,20 @@
   "id": 856803221,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 Lucinda St Perry IA 50220",
+    "addr:housenumber":"1209",
+    "addr:postcode":"50220",
+    "addr:street":"Lucinda St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.105082,41.840487,-94.105082,41.840487",
     "geom:latitude":41.840487,
     "geom:longitude":-94.105082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1209 Lucinda St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125152579,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bKWuDi22i4fOMh0ysHbmy_41.840487_-94.105082@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103330,
-    "wof:geomhash":"31d5d03d53a72a19da7f1330aeec026d",
+    "wof:geomhash":"a4d3f7b61611cc2223ce4881f17b852b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856803221,
-    "wof:lastmodified":1466482718,
+    "wof:lastmodified":1510698844,
     "wof:name":"Breadeaux Pizza",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

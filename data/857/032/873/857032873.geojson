@@ -2,14 +2,20 @@
   "id": 857032873,
   "type": "Feature",
   "properties": {
+    "addr:full":"916 State St Dexter IA 50070",
+    "addr:housenumber":"916",
+    "addr:postcode":"50070",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.225962,41.517999,-94.225962,41.517999",
     "geom:latitude":41.517999,
     "geom:longitude":-94.225962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"916 State St",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125154401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v27cH6iPKAAQD5o7abXK8_41.517999_-94.225962@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113774,
-    "wof:geomhash":"dcd4946a706a3fabda989635a8cbf274",
+    "wof:geomhash":"2957d9a8b33f7dd4040912cdcb6715b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857032873,
-    "wof:lastmodified":1466482933,
+    "wof:lastmodified":1510697805,
     "wof:name":"Calvary Assembly Of God",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

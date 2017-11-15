@@ -2,14 +2,20 @@
   "id": 857054731,
   "type": "Feature",
   "properties": {
+    "addr:full":"3939 16th Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"3939",
+    "addr:postcode":"52404",
+    "addr:street":"16Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.723099,41.963501,-91.723099,41.963501",
     "geom:latitude":41.963501,
     "geom:longitude":-91.723099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3939 16th Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85809971
     ],
+    "wof:brand_id":1125150619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zBrzd7asccYJOjS9qg6PX_41.963639_-91.723717@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464114684,
-    "wof:geomhash":"6d3e45be6fcbd04ae3e64584d5c61df0",
+    "wof:geomhash":"b3431fddbe93f4428f03306de18e79d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857054731,
-    "wof:lastmodified":1466483630,
+    "wof:lastmodified":1510604907,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

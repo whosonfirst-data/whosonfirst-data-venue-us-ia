@@ -2,14 +2,20 @@
   "id": 856854357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Thomas Beck Rd Des Moines IA 50315",
+    "addr:housenumber":"1000",
+    "addr:postcode":"50315",
+    "addr:street":"Thomas Beck Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.625263,41.570883,-93.625263,41.570883",
     "geom:latitude":41.570883,
     "geom:longitude":-93.625263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Thomas Beck Rd",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85896401
     ],
+    "wof:brand_id":1125150619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_162MCvugHYvYh6jBiqclEI_41.570883_-93.625263@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105731,
-    "wof:geomhash":"36af3cb8a6082c07d88005add850fab4",
+    "wof:geomhash":"5ced32afffc200114eb761e43c461d48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856854357,
-    "wof:lastmodified":1466484358,
+    "wof:lastmodified":1510604907,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":85896401,
     "wof:placetype":"venue",

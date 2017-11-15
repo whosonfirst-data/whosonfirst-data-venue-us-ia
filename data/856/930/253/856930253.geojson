@@ -2,6 +2,10 @@
   "id": 856930253,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Main St Sioux City IA 51103",
+    "addr:housenumber":"608",
+    "addr:postcode":"51103",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":856930253,
-    "wof:lastmodified":1466485546,
+    "wof:lastmodified":1472620339,
     "wof:name":"Service Construction",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857020199,
   "type": "Feature",
   "properties": {
+    "addr:full":"8144 Dema Dr Des Moines IA 50320",
+    "addr:housenumber":"8144",
+    "addr:postcode":"50320",
+    "addr:street":"Dema Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.609501,41.506941,-93.609501,41.506941",
     "geom:latitude":41.506941,
     "geom:longitude":-93.609501,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"b7b5735d74276ad710142d621a95b070",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857020199
         }
     ],
     "wof:id":857020199,
-    "wof:lastmodified":1466482407,
+    "wof:lastmodified":1491892999,
     "wof:name":"Kellers Auto Service",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

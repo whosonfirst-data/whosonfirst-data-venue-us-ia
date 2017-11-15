@@ -2,9 +2,14 @@
   "id": 856954857,
   "type": "Feature",
   "properties": {
+    "addr:full":"2615 Morton Ave Des Moines IA 50317",
+    "addr:housenumber":"2615",
+    "addr:postcode":"50317",
+    "addr:street":"Morton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.566747,41.619483,-93.566747,41.619483",
     "geom:latitude":41.619483,
     "geom:longitude":-93.566747,
@@ -24,7 +29,14 @@
     "sg:postcode":"50317",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dUs1YzUfNTUFVYq0zrIW5_41.619483_-93.566747@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464110318,
     "wof:geomhash":"7b1d690c3f6f054592f9f53ca6cdce99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856954857
+        }
+    ],
     "wof:id":856954857,
-    "wof:lastmodified":1466486070,
+    "wof:lastmodified":1491905908,
     "wof:name":"Aquatic Expressions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

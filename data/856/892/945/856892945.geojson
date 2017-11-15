@@ -2,9 +2,14 @@
   "id": 856892945,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 SW 9th St Des Moines IA 50309",
+    "addr:housenumber":"1",
+    "addr:postcode":"50309",
+    "addr:street":"Sw 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.626823,41.581185,-93.626823,41.581185",
     "geom:latitude":41.581185,
     "geom:longitude":-93.626823,
@@ -24,7 +29,14 @@
     "sg:postcode":"50309",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_596AhWB8PQAZJHWiQk2iXz_41.581185_-93.626823@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464107791,
     "wof:geomhash":"fba190915547583c013d251cafb59bb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856892945
+        }
+    ],
     "wof:id":856892945,
-    "wof:lastmodified":1466485079,
+    "wof:lastmodified":1491903889,
     "wof:name":"Universal Insurance Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 856812575,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 N Clinton St Iowa City IA 52245",
+    "addr:housenumber":"500",
+    "addr:postcode":"52245",
+    "addr:street":"N Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856812575,
-    "wof:lastmodified":1466483006,
+    "wof:lastmodified":1472620106,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85896435,
     "wof:placetype":"venue",

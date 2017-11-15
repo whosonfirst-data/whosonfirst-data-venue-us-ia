@@ -2,14 +2,20 @@
   "id": 857015503,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 Ashton Pl NE Cedar Rapids IA 52402",
+    "addr:housenumber":"427",
+    "addr:postcode":"52402",
+    "addr:street":"Ashton Pl Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.641141,42.043243,-91.641141,42.043243",
     "geom:latitude":42.043243,
     "geom:longitude":-91.641141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"427 Ashton Pl NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":1125157531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TvLI6b1rNn2Zok37exEmX_42.043243_-91.641141@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113007,
-    "wof:geomhash":"b43dde8a7b9477a917ac09339987e00f",
+    "wof:geomhash":"4ed0d878d0d3c5575ceeee5f6373cf36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857015503,
-    "wof:lastmodified":1466482322,
+    "wof:lastmodified":1510695841,
     "wof:name":"Valley View Apartments",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

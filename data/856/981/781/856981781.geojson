@@ -2,14 +2,20 @@
   "id": 856981781,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Gleason Ave Council Bluffs IA 51503",
+    "addr:housenumber":"323",
+    "addr:postcode":"51503",
+    "addr:street":"Gleason Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.82305,41.26086,-95.82305,41.26086",
     "geom:latitude":41.26086,
     "geom:longitude":-95.82305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"323 Gleason Ave",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082789,
         85816645
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25V3FJM9VTiJFPGUiAZxMy_41.260860_-95.823050@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111543,
-    "wof:geomhash":"6198787962011b0514ecf07bc3e6b10c",
+    "wof:geomhash":"580ce9d6cad9db5f03229598e6d82654",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856981781,
-    "wof:lastmodified":1466486526,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

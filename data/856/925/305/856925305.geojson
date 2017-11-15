@@ -2,9 +2,14 @@
   "id": 856925305,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 5th Ave Des Moines IA 50309",
+    "addr:housenumber":"840",
+    "addr:postcode":"50309",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.624515,41.592123,-93.624515,41.592123",
     "geom:latitude":41.592123,
     "geom:longitude":-93.624515,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rI6oGYd6esXeWfn1BU8cD_41.592123_-93.624515@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109055,
     "wof:geomhash":"5e9fea6f7c3785fadace2c4f98931c4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856925305
+        }
+    ],
     "wof:id":856925305,
-    "wof:lastmodified":1466485548,
+    "wof:lastmodified":1491924276,
     "wof:name":"Hedberg Owens & Hedberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

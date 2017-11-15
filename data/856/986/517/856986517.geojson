@@ -2,14 +2,20 @@
   "id": 856986517,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 1st Ave SW Cedar Rapids IA 52405",
+    "addr:housenumber":"225",
+    "addr:postcode":"52405",
+    "addr:street":"1St Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.675431,41.975719,-91.675431,41.975719",
     "geom:latitude":41.975719,
     "geom:longitude":-91.675431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 1st Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85876621,
         85876619
     ],
+    "wof:brand_id":1125154081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ABWI1VGwfEBPy4nhDPFkJ_41.975719_-91.675431@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111814,
-    "wof:geomhash":"11b63e89bffe033be2581e925eeb4ebb",
+    "wof:geomhash":"7c95bfef497d1801adbbcff4e8e77573",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":856986517,
-    "wof:lastmodified":1466486595,
+    "wof:lastmodified":1510613293,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

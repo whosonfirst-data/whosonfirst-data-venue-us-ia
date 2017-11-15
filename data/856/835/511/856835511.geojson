@@ -2,14 +2,20 @@
   "id": 856835511,
   "type": "Feature",
   "properties": {
+    "addr:full":"4344 Corporate Dr West Des Moines IA 50266",
+    "addr:housenumber":"4344",
+    "addr:postcode":"50266",
+    "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.762038,41.598068,-93.762038,41.598068",
     "geom:latitude":41.598068,
     "geom:longitude":-93.762038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4344 Corporate Dr",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896537
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A9IKtKPI8SOA90P6NjoRi_41.598068_-93.762038@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104778,
-    "wof:geomhash":"e99da5e0b9461beff3189ff3b61ae071",
+    "wof:geomhash":"e4129c6e76cf3ed4daa6f42701979632",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856835511,
-    "wof:lastmodified":1466483791,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85896537,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856807453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 F Ave NW Cedar Rapids IA 52405",
+    "addr:housenumber":"1900",
+    "addr:postcode":"52405",
+    "addr:street":"F Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.698154,41.980104,-91.698154,41.980104",
     "geom:latitude":41.980104,
     "geom:longitude":-91.698154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 F Ave NW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876627
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bKrY77TmVcqxIRc9HJLXI_41.980104_-91.698154@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103510,
-    "wof:geomhash":"4b6767c2120fdbb749ad8809fabba46d",
+    "wof:geomhash":"cfd533f35e96424f20521a29fac1ee32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856807453,
-    "wof:lastmodified":1466482780,
+    "wof:lastmodified":1510695387,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85876627,
     "wof:placetype":"venue",

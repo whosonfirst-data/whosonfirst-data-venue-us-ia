@@ -2,9 +2,14 @@
   "id": 856959125,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 5th Ave Des Moines IA 50309",
+    "addr:housenumber":"701",
+    "addr:postcode":"50309",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.624443,41.591587,-93.624443,41.591587",
     "geom:latitude":41.591587,
     "geom:longitude":-93.624443,
@@ -33,7 +38,8 @@
         85633793,
         85944061,
         102086603,
-        85896409
+        85896409,
+        85877061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,21 @@
             "neighbourhood_id":85896409,
             "region_id":85688713,
             "venue_id":856959125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856959125
         }
     ],
     "wof:id":856959125,
-    "wof:lastmodified":1466486067,
+    "wof:lastmodified":1491924300,
     "wof:name":"Allied",
-    "wof:parent_id":85896409,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

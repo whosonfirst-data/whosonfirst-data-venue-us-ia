@@ -2,9 +2,14 @@
   "id": 856784199,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Hubbell Ave Des Moines IA 50317",
+    "addr:housenumber":"2701",
+    "addr:postcode":"50317",
+    "addr:street":"Hubbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.563969,41.61862,-93.563969,41.61862",
     "geom:latitude":41.61862,
     "geom:longitude":-93.563969,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059,
+        85877069
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SOx8xAyLaIfwkQ7ys5wLg_41.618620_-93.563969@1294088824"
@@ -35,11 +48,30 @@
     "wof:country":"US",
     "wof:created":1464102532,
     "wof:geomhash":"beb76bbffde1796bd72ba67f4d9e20fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856784199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877069,
+            "region_id":85688713,
+            "venue_id":856784199
+        }
+    ],
     "wof:id":856784199,
-    "wof:lastmodified":1466482062,
+    "wof:lastmodified":1491905913,
     "wof:name":"Redwood Terrace Apartment",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

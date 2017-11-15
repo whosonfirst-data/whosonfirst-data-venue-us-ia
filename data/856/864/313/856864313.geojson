@@ -2,14 +2,20 @@
   "id": 856864313,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 8th Ave SE Cedar Rapids IA 52401",
+    "addr:housenumber":"515",
+    "addr:postcode":"52401",
+    "addr:street":"8Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.658266,41.97526,-91.658266,41.97526",
     "geom:latitude":41.97526,
     "geom:longitude":-91.658266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 8th Ave SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876629
     ],
+    "wof:brand_id":1125156821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42VogPLbbFQ7UeB98mGSUw_41.975260_-91.658266@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106169,
-    "wof:geomhash":"96f3e7656bd54ee46ed3d6fa3a38236d",
+    "wof:geomhash":"eeb159dd7ae910e384ad59faa88c72d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856864313,
-    "wof:lastmodified":1466484537,
+    "wof:lastmodified":1510613405,
     "wof:name":"R E Michel Co",
     "wof:parent_id":85876629,
     "wof:placetype":"venue",

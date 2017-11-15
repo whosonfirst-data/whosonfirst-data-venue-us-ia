@@ -2,14 +2,20 @@
   "id": 856843121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1751 Madison Ave Council Bluffs IA 51503",
+    "addr:housenumber":"1751",
+    "addr:postcode":"51503",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.827419,41.2447,-95.827419,41.2447",
     "geom:latitude":41.2447,
     "geom:longitude":-95.827419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1751 Madison Ave",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":420575549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ubo9jeV6pL1rgjbWBO9CA_41.244700_-95.827419@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105138,
-    "wof:geomhash":"179e328f0a49602d4ffb4b383dcee3b1",
+    "wof:geomhash":"61f7dfecb30ac3c9c935851bc14ac3d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856843121,
-    "wof:lastmodified":1466483995,
+    "wof:lastmodified":1510602391,
     "wof:name":"Vitamin World",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

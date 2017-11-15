@@ -2,14 +2,20 @@
   "id": 856950085,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 E Jefferson St Iowa City IA 52245",
+    "addr:housenumber":"540",
+    "addr:postcode":"52245",
+    "addr:street":"E Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.527665,41.662495,-91.527665,41.662495",
     "geom:latitude":41.662495,
     "geom:longitude":-91.527665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"540 E Jefferson St",
     "sg:city":"Iowa City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086417,
         85896463
     ],
+    "wof:brand_id":1125154309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6icd32aFrBbQei1qcVNYc9_41.662495_-91.527665@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464110088,
-    "wof:geomhash":"f0960316b46d69aaac34362f8e56b419",
+    "wof:geomhash":"1d22b7292dbf3ceed4c20244fc0a4868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856950085,
-    "wof:lastmodified":1466485906,
+    "wof:lastmodified":1510698641,
     "wof:name":"Gastroenterology Associates",
     "wof:parent_id":85896463,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856979387,
   "type": "Feature",
   "properties": {
+    "addr:full":"859 17th St Des Moines IA 50314",
+    "addr:housenumber":"859",
+    "addr:postcode":"50314",
+    "addr:street":"17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.640071,41.592409,-93.640071,41.592409",
     "geom:latitude":41.592409,
     "geom:longitude":-93.640071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"859 17th St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85877105
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rjtGCEOg2rDVQaxzESDbK_41.592409_-93.640071@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111427,
-    "wof:geomhash":"b4e2f46d129200c1600461e91144d77d",
+    "wof:geomhash":"d317b90dd8f9fc49292c0b465cc64d81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856979387,
-    "wof:lastmodified":1466486382,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85877105,
     "wof:placetype":"venue",

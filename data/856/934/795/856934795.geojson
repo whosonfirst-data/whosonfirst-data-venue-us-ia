@@ -2,14 +2,20 @@
   "id": 856934795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 SE Delaware Ave Ankeny IA 50021",
+    "addr:housenumber":"1725",
+    "addr:postcode":"50021",
+    "addr:street":"Se Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581096,41.715697,-93.581096,41.715697",
     "geom:latitude":41.715697,
     "geom:longitude":-93.581096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1725 SE Delaware Ave",
     "sg:city":"Ankeny",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85896319
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pDIsFFN7duEo8hbmmFlGj_41.715697_-93.581096@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109424,
-    "wof:geomhash":"fbff8229b92e486cb1d09f31b164154f",
+    "wof:geomhash":"17be31f10e6998bde622e3ea1536ca1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856934795,
-    "wof:lastmodified":1466485736,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85896319,
     "wof:placetype":"venue",

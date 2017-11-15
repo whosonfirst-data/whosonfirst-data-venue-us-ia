@@ -2,9 +2,14 @@
   "id": 856907509,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S 3rd St Milo IA 50166",
+    "addr:housenumber":"112",
+    "addr:postcode":"50166",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.440942,41.286428,-93.440942,41.286428",
     "geom:latitude":41.286428,
     "geom:longitude":-93.440942,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"eb113228513c46aa5d4ebae8ec79f609",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856907509
         }
     ],
     "wof:id":856907509,
-    "wof:lastmodified":1466485200,
+    "wof:lastmodified":1491893016,
     "wof:name":"Christian Union Church",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

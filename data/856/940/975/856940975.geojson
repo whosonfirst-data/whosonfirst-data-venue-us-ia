@@ -2,9 +2,14 @@
   "id": 856940975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3824 Douglas Ave Des Moines IA 50310",
+    "addr:housenumber":"3824",
+    "addr:postcode":"50310",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.669393,41.629446,-93.669393,41.629446",
     "geom:latitude":41.629446,
     "geom:longitude":-93.669393,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CCV3lzQl9OpU7TAAMn8nu_41.629446_-93.669393@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109721,
     "wof:geomhash":"3513edce30ac5d35fe01cad96ddf5f17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856940975
+        }
+    ],
     "wof:id":856940975,
-    "wof:lastmodified":1466485889,
+    "wof:lastmodified":1491920765,
     "wof:name":"Artists Hair Design Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

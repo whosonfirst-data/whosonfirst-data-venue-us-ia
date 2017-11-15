@@ -2,14 +2,20 @@
   "id": 857057415,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 2nd St Perry IA 50220",
+    "addr:housenumber":"1117",
+    "addr:postcode":"50220",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.105217,41.838756,-94.105217,41.838756",
     "geom:latitude":41.838756,
     "geom:longitude":-94.105217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1117 2nd St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125152579,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gdus2rVp7ofcb2FHGwcz6_41.838756_-94.105217@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464114803,
-    "wof:geomhash":"3d646aa1c35435ca85ddfbbe719f441a",
+    "wof:geomhash":"6d07f015857015f9c947c0feb0cef49c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857057415,
-    "wof:lastmodified":1466483578,
+    "wof:lastmodified":1510698843,
     "wof:name":"Breadeaux Pizza",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

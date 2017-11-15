@@ -2,9 +2,14 @@
   "id": 856883207,
   "type": "Feature",
   "properties": {
+    "addr:full":"8057 Crestview Dr Des Moines IA 50320",
+    "addr:housenumber":"8057",
+    "addr:postcode":"50320",
+    "addr:street":"Crestview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.615181,41.509858,-93.615181,41.509858",
     "geom:latitude":41.509858,
     "geom:longitude":-93.615181,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"f116f06096873a1f3e840a44a3808bb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856883207
         }
     ],
     "wof:id":856883207,
-    "wof:lastmodified":1466484738,
+    "wof:lastmodified":1491893055,
     "wof:name":"Sanders Home Improvement",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

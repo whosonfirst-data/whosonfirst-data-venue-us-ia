@@ -2,9 +2,14 @@
   "id": 856774191,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Sunset Dr Norwalk IA 50211",
+    "addr:housenumber":"802",
+    "addr:postcode":"50211",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.682304,41.47536,-93.682304,41.47536",
     "geom:latitude":41.47536,
     "geom:longitude":-93.682304,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"77818fb24a46f16c3339bec45bf2e46c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856774191
         }
     ],
     "wof:id":856774191,
-    "wof:lastmodified":1466481902,
+    "wof:lastmodified":1491892976,
     "wof:name":"Ted's Used Cars",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856938077,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Valley Dr Carlisle IA 50047",
+    "addr:housenumber":"705",
+    "addr:postcode":"50047",
+    "addr:street":"Valley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.493399,41.502529,-93.493399,41.502529",
     "geom:latitude":41.502529,
     "geom:longitude":-93.493399,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"4fda4e00022ed4c2d4d101236cf3a527",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856938077
         }
     ],
     "wof:id":856938077,
-    "wof:lastmodified":1466485705,
+    "wof:lastmodified":1491893015,
     "wof:name":"A T & T Corp",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856881399,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Fleur Dr Des Moines IA 50321",
+    "addr:housenumber":"2301",
+    "addr:postcode":"50321",
+    "addr:street":"Fleur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.644939,41.563004,-93.644939,41.563004",
     "geom:latitude":41.563004,
     "geom:longitude":-93.644939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Fleur Dr",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086603,
         85877103
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jgzDMXYKryTCGMcAF3zsp_41.563004_-93.644939@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107222,
-    "wof:geomhash":"8252cb3911aacfa6fa4e74f8fd780534",
+    "wof:geomhash":"23d88308c76179c73d6f824578fa389c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856881399,
-    "wof:lastmodified":1466484769,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85877103,
     "wof:placetype":"venue",

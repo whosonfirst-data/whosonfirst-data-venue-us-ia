@@ -2,9 +2,14 @@
   "id": 856889741,
   "type": "Feature",
   "properties": {
+    "addr:full":"4844 Urbandale Ave Des Moines IA 50310",
+    "addr:housenumber":"4844",
+    "addr:postcode":"50310",
+    "addr:street":"Urbandale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.684991,41.62202,-93.684991,41.62202",
     "geom:latitude":41.62202,
     "geom:longitude":-93.684991,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.munroconstruction.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TYf8EIrhkENVhw8rgp7yC_41.622020_-93.684991@1294088824"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1464107674,
     "wof:geomhash":"81ce8a5cfe31e7f78989fc55539a6c50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856889741
+        }
+    ],
     "wof:id":856889741,
-    "wof:lastmodified":1466485034,
+    "wof:lastmodified":1491920763,
     "wof:name":"Munro Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

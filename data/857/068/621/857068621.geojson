@@ -2,14 +2,20 @@
   "id": 857068621,
   "type": "Feature",
   "properties": {
+    "addr:full":"3717 1st Ave SE Cedar Rapids IA 52402",
+    "addr:housenumber":"3717",
+    "addr:postcode":"52402",
+    "addr:street":"1St Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.634853,42.016093,-91.634853,42.016093",
     "geom:latitude":42.016093,
     "geom:longitude":-91.634853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3717 1st Ave SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":1125150843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iQdhkVlWInAPAFQC6hzRw_42.016093_-91.634853@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115273,
-    "wof:geomhash":"b87702b9c6f8a2257569fca235298683",
+    "wof:geomhash":"fe86817ecf1b5168de9ad6cbe3db1a9d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857068621,
-    "wof:lastmodified":1466484019,
+    "wof:lastmodified":1510693807,
     "wof:name":"Tuesday Morning Inc",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

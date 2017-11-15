@@ -2,9 +2,14 @@
   "id": 856841061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1418 E Grand Ave Des Moines IA 50316",
+    "addr:housenumber":"1418",
+    "addr:postcode":"50316",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.597968,41.593391,-93.597968,41.593391",
     "geom:latitude":41.593391,
     "geom:longitude":-93.597968,
@@ -24,7 +29,15 @@
     "sg:postcode":"50316",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053,
+        420520267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DHtmksdw8YSdiaA2TEqRS_41.593391_-93.597968@1294088824"
@@ -32,11 +45,30 @@
     "wof:country":"US",
     "wof:created":1464105042,
     "wof:geomhash":"80687359e0bc6a4a7acfe2d10f1d2cbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856841061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520267,
+            "region_id":85688713,
+            "venue_id":856841061
+        }
+    ],
     "wof:id":856841061,
-    "wof:lastmodified":1466483902,
+    "wof:lastmodified":1491909173,
     "wof:name":"Tasty Tacos",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

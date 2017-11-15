@@ -2,9 +2,14 @@
   "id": 856796429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 McCormick St Des Moines IA 50316",
+    "addr:housenumber":"1200",
+    "addr:postcode":"50316",
+    "addr:street":"Mccormick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.593921,41.602908,-93.593921,41.602908",
     "geom:latitude":41.602908,
     "geom:longitude":-93.593921,
@@ -28,7 +33,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74SlvuTWlQFxgKMsmcRIEd_41.602908_-93.593921@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464103041,
     "wof:geomhash":"a6a37f9ae1ac22f5174f8f90c488c553",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856796429
+        }
+    ],
     "wof:id":856796429,
-    "wof:lastmodified":1466482439,
+    "wof:lastmodified":1491909168,
     "wof:name":"Union Bapt Ch of Des Moines IA",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

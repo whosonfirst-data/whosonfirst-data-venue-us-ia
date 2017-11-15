@@ -2,9 +2,14 @@
   "id": 856789971,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 W Ashland Ave Indianola IA 50125",
+    "addr:housenumber":"112",
+    "addr:postcode":"50125",
+    "addr:street":"W Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.561061,41.361415,-93.561061,41.361415",
     "geom:latitude":41.361415,
     "geom:longitude":-93.561061,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"f8a9bc74a0f5af48aab1e325f6131024",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856789971
         }
     ],
     "wof:id":856789971,
-    "wof:lastmodified":1466482284,
+    "wof:lastmodified":1491892995,
     "wof:name":"One Stop Sandwich Shop",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

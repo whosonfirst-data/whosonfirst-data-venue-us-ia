@@ -2,9 +2,14 @@
   "id": 856959865,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 N Buxton St Indianola IA 50125",
+    "addr:housenumber":"206",
+    "addr:postcode":"50125",
+    "addr:street":"N Buxton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.56222,41.361417,-93.56222,41.361417",
     "geom:latitude":41.361417,
     "geom:longitude":-93.56222,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"ad556a21ffa19b8e4b0273d93a307b27",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856959865
         }
     ],
     "wof:id":856959865,
-    "wof:lastmodified":1466486217,
+    "wof:lastmodified":1491893031,
     "wof:name":"Mary Donaghy Insurance",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

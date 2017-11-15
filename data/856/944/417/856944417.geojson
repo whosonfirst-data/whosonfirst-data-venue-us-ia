@@ -2,14 +2,20 @@
   "id": 856944417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 W Broadway Council Bluffs IA 51501",
+    "addr:housenumber":"2700",
+    "addr:postcode":"51501",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.889044,41.261966,-95.889044,41.261966",
     "geom:latitude":41.261966,
     "geom:longitude":-95.889044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 W Broadway",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082789,
         85816645
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5elrhKufCkTr5BItllaKOt_41.261966_-95.889044@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109866,
-    "wof:geomhash":"42ae811e7ae419c4219662afab25eb24",
+    "wof:geomhash":"bb3f951648403c88d424ac041bef731b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856944417,
-    "wof:lastmodified":1466485798,
+    "wof:lastmodified":1510696771,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

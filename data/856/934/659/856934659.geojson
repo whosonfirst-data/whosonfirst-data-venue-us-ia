@@ -2,14 +2,20 @@
   "id": 856934659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 Tri View Ave Sioux City IA 51103",
+    "addr:housenumber":"1540",
+    "addr:postcode":"51103",
+    "addr:street":"Tri View Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.427787,42.494194,-96.427787,42.494194",
     "geom:latitude":42.494194,
     "geom:longitude":-96.427787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1540 Tri View Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086309,
         85850679
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vE40SiBgR1ua8mt5QVOVj_42.494194_-96.427787@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109419,
-    "wof:geomhash":"2cfd598967ab9ddf8263c68eb1b4f83e",
+    "wof:geomhash":"31175307995439dfc549b3470dc3513a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856934659,
-    "wof:lastmodified":1466485710,
+    "wof:lastmodified":1510695894,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857034883,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 2nd St Coralville IA 52241",
+    "addr:housenumber":"59",
+    "addr:postcode":"52241",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.563997,41.668298,-91.563997,41.668298",
     "geom:latitude":41.668298,
     "geom:longitude":-91.563997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"59 2nd St",
     "sg:city":"Coralville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086417,
         85896465
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u2lFpSLcOpjh2jrpjf8E9_41.668298_-91.563997@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113874,
-    "wof:geomhash":"115e532deeed86fd1736a46d85af0959",
+    "wof:geomhash":"0323d82e48920cc690625003809094df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857034883,
-    "wof:lastmodified":1466483054,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85896465,
     "wof:placetype":"venue",

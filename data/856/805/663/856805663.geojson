@@ -2,9 +2,14 @@
   "id": 856805663,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 SW 63rd St Des Moines IA 50321",
+    "addr:housenumber":"111",
+    "addr:postcode":"50321",
+    "addr:street":"Sw 63Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.703379,41.576298,-93.703379,41.576298",
     "geom:latitude":41.576298,
     "geom:longitude":-93.703379,
@@ -35,7 +40,9 @@
         85633793,
         85944027,
         102086603,
-        85853427
+        85853427,
+        85944061,
+        420520271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,21 @@
             "neighbourhood_id":85853427,
             "region_id":85688713,
             "venue_id":856805663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520271,
+            "region_id":85688713,
+            "venue_id":856805663
         }
     ],
     "wof:id":856805663,
-    "wof:lastmodified":1466482817,
+    "wof:lastmodified":1491917776,
     "wof:name":"Property Care Lawn & Landscpg",
-    "wof:parent_id":85853427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

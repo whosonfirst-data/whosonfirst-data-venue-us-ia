@@ -2,14 +2,20 @@
   "id": 856866761,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 3rd St SE Cedar Rapids IA 52401",
+    "addr:housenumber":"324",
+    "addr:postcode":"52401",
+    "addr:street":"3Rd St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.665048,41.97708,-91.665048,41.97708",
     "geom:latitude":41.97708,
     "geom:longitude":-91.665048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"324 3rd St SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85876619
     ],
+    "wof:brand_id":1125150063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WKK604h81CyWaskpC8geZ_41.977080_-91.665048@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106302,
-    "wof:geomhash":"719f21a2fcabab3b9382d64daa63fcf9",
+    "wof:geomhash":"8df233a440227fdf824e5e7799174662",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856866761,
-    "wof:lastmodified":1466484638,
+    "wof:lastmodified":1510695807,
     "wof:name":"Axa Advisors",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",

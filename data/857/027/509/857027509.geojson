@@ -2,14 +2,20 @@
   "id": 857027509,
   "type": "Feature",
   "properties": {
+    "addr:full":"10861 Douglas Ave Urbandale IA 50322",
+    "addr:housenumber":"10861",
+    "addr:postcode":"50322",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.766683,41.629572,-93.766683,41.629572",
     "geom:latitude":41.629572,
     "geom:longitude":-93.766683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10861 Douglas Ave",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85896507
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wfGJn5dAJManPSv4xmecu_41.629572_-93.766683@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113524,
-    "wof:geomhash":"3c9e7b3b981a24b0fad6a870188120d2",
+    "wof:geomhash":"ed2f6ac61f492f9f8f97e062d9cdf6a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857027509,
-    "wof:lastmodified":1466482724,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":85896507,
     "wof:placetype":"venue",

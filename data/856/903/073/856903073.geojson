@@ -2,14 +2,20 @@
   "id": 856903073,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 Collins Rd NE Cedar Rapids IA 52402",
+    "addr:housenumber":"166",
+    "addr:postcode":"52402",
+    "addr:street":"Collins Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.627033,42.027829,-91.627033,42.027829",
     "geom:latitude":42.027829,
     "geom:longitude":-91.627033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"166 Collins Rd NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FbEAIYwF2tvUv7hLwoOr6_42.027829_-91.627033@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108158,
-    "wof:geomhash":"65c3cab5fd461047d2b82ed2ff713f26",
+    "wof:geomhash":"3050099c54012776548cce4043ee7e7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856903073,
-    "wof:lastmodified":1466485104,
+    "wof:lastmodified":1510694572,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

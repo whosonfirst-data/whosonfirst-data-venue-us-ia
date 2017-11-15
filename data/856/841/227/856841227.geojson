@@ -2,14 +2,20 @@
   "id": 856841227,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 8th St Des Moines IA 50309",
+    "addr:housenumber":"927",
+    "addr:postcode":"50309",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.627993,41.594762,-93.627993,41.594762",
     "geom:latitude":41.594762,
     "geom:longitude":-93.627993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"927 8th St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896427
     ],
+    "wof:brand_id":1125156821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Nw5WJd8V4dfVnbjnsfAmP_41.594762_-93.627993@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105048,
-    "wof:geomhash":"446d547021a6be962cb4c2aed4a24593",
+    "wof:geomhash":"e4805b92704db9e0714d8e263bb6a16a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856841227,
-    "wof:lastmodified":1466483934,
+    "wof:lastmodified":1510613405,
     "wof:name":"R E Michel Co",
     "wof:parent_id":85896427,
     "wof:placetype":"venue",

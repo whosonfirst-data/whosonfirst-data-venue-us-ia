@@ -2,9 +2,14 @@
   "id": 856844999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3216 40th Pl Des Moines IA 50310",
+    "addr:housenumber":"3216",
+    "addr:postcode":"50310",
+    "addr:street":"40Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.672058,41.625288,-93.672058,41.625288",
     "geom:latitude":41.625288,
     "geom:longitude":-93.672058,
@@ -24,7 +29,14 @@
     "sg:postcode":"50310",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lDJTRfHaKIuiEr6OmI7ql_41.625288_-93.672058@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464105232,
     "wof:geomhash":"3c1ff15861adf39378d5b112ba4474b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856844999
+        }
+    ],
     "wof:id":856844999,
-    "wof:lastmodified":1466484274,
+    "wof:lastmodified":1491920762,
     "wof:name":"Ascension Capital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

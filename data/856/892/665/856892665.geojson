@@ -2,9 +2,14 @@
   "id": 856892665,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 E Main St Lacona IA 50139",
+    "addr:housenumber":"108",
+    "addr:postcode":"50139",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384098,41.189475,-93.384098,41.189475",
     "geom:latitude":41.189475,
     "geom:longitude":-93.384098,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"80c90f79caf926cac46a78cc997631b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856892665
         }
     ],
     "wof:id":856892665,
-    "wof:lastmodified":1466485022,
+    "wof:lastmodified":1491893081,
     "wof:name":"Lacona Bible Baptist Church",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

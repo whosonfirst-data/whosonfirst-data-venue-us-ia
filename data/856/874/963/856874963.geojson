@@ -2,9 +2,14 @@
   "id": 856874963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 E Grand Ave Des Moines IA 50316",
+    "addr:housenumber":"1605",
+    "addr:postcode":"50316",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.589993,41.594923,-93.589993,41.594923",
     "geom:latitude":41.594923,
     "geom:longitude":-93.589993,
@@ -27,7 +32,14 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ek0LRMgTLz5oHOdpBLDx0_41.594923_-93.589993@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464106934,
     "wof:geomhash":"71f27fb28bdf9ed0eda1fe7ba4ee605c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856874963
+        }
+    ],
     "wof:id":856874963,
-    "wof:lastmodified":1466484767,
+    "wof:lastmodified":1491909174,
     "wof:name":"Giselle Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

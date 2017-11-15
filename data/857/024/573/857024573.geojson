@@ -2,9 +2,14 @@
   "id": 857024573,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 E Grand Ave Des Moines IA 50316",
+    "addr:housenumber":"1451",
+    "addr:postcode":"50316",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.595674,41.59375,-93.595674,41.59375",
     "geom:latitude":41.59375,
     "geom:longitude":-93.595674,
@@ -27,7 +32,14 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hfhQg16vztrbmc2EsAqNU_41.593750_-93.595674@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464113393,
     "wof:geomhash":"f2cdcb22fda65db0879e13b2d72ba525",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":857024573
+        }
+    ],
     "wof:id":857024573,
-    "wof:lastmodified":1466482601,
+    "wof:lastmodified":1491909171,
     "wof:name":"Nichols & Son Funeral Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

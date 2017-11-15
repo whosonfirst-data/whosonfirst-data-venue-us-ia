@@ -2,14 +2,20 @@
   "id": 856921017,
   "type": "Feature",
   "properties": {
+    "addr:full":"2857 Mount Vernon Rd SE Cedar Rapids IA 52403",
+    "addr:housenumber":"2857",
+    "addr:postcode":"52403",
+    "addr:street":"Mount Vernon Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.623307,41.976795,-91.623307,41.976795",
     "geom:latitude":41.976795,
     "geom:longitude":-91.623307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2857 Mount Vernon Rd SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85873775
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OEJD29Gsq12PDOMFX8g4J_41.976795_-91.623307@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108865,
-    "wof:geomhash":"b31869c43b5a8c87c6c41ecc704c223e",
+    "wof:geomhash":"6d4565f5142c881001e44bb64723ac25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856921017,
-    "wof:lastmodified":1466485365,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":85873775,
     "wof:placetype":"venue",

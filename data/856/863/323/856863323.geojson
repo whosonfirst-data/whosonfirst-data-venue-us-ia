@@ -2,9 +2,14 @@
   "id": 856863323,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 E 12th St Des Moines IA 50316",
+    "addr:housenumber":"800",
+    "addr:postcode":"50316",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.603509,41.596813,-93.603509,41.596813",
     "geom:latitude":41.596813,
     "geom:longitude":-93.603509,
@@ -24,7 +29,14 @@
     "sg:postcode":"50316",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fja0kr8nAAK6Yl9fgfZKK_41.596813_-93.603509@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464106128,
     "wof:geomhash":"f51adb9d54a3fdebe716929763cd8b6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":856863323
+        }
+    ],
     "wof:id":856863323,
-    "wof:lastmodified":1466484497,
+    "wof:lastmodified":1491919023,
     "wof:name":"Capitol Park Early Learning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

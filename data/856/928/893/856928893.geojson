@@ -2,14 +2,20 @@
   "id": 856928893,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 S Main St Council Bluffs IA 51503",
+    "addr:housenumber":"219",
+    "addr:postcode":"51503",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.850683,41.25714,-95.850683,41.25714",
     "geom:latitude":41.25714,
     "geom:longitude":-95.850683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 S Main St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082789,
         85816645
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iOASWZJyX99Zvfjdf8qXa_41.257140_-95.850683@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109198,
-    "wof:geomhash":"729803b4c1172e3ab830d60505db7a47",
+    "wof:geomhash":"f7695f404ef146f356552e2cea3e2e7a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856928893,
-    "wof:lastmodified":1466485671,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

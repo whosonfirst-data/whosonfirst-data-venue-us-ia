@@ -2,9 +2,14 @@
   "id": 856999445,
   "type": "Feature",
   "properties": {
+    "addr:full":"1242 E 14th St Des Moines IA 50316",
+    "addr:housenumber":"1242",
+    "addr:postcode":"50316",
+    "addr:street":"E 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.600629,41.600791,-93.600629,41.600791",
     "geom:latitude":41.600791,
     "geom:longitude":-93.600629,
@@ -24,7 +29,14 @@
     "sg:postcode":"50316",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B6BqESf4FE7x3chJlxscE_41.600791_-93.600629@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464112345,
     "wof:geomhash":"dfc9a14323e74aab2aa1781fd67883db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":856999445
+        }
+    ],
     "wof:id":856999445,
-    "wof:lastmodified":1466486749,
+    "wof:lastmodified":1491919022,
     "wof:name":"Whylie Eye Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

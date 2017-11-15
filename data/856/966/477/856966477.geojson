@@ -2,9 +2,14 @@
   "id": 856966477,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 E Livingston Ave Des Moines IA 50315",
+    "addr:housenumber":"245",
+    "addr:postcode":"50315",
+    "addr:street":"E Livingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.610389,41.575788,-93.610389,41.575788",
     "geom:latitude":41.575788,
     "geom:longitude":-93.610389,
@@ -24,7 +29,14 @@
     "sg:postcode":"50315",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QV5V7g4U2MV5b22xTFzzU_41.575788_-93.610389@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464110808,
     "wof:geomhash":"2f69c2232976a5bd884635c83ce41194",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856966477
+        }
+    ],
     "wof:id":856966477,
-    "wof:lastmodified":1466486194,
+    "wof:lastmodified":1491903902,
     "wof:name":"Around The Clock Child Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

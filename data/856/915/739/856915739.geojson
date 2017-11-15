@@ -2,14 +2,20 @@
   "id": 856915739,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 3rd Ave Slater IA 50244",
+    "addr:housenumber":"411",
+    "addr:postcode":"50244",
+    "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.682745,41.88067,-93.682745,41.88067",
     "geom:latitude":41.88067,
     "geom:longitude":-93.682745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 3rd Ave",
     "sg:city":"Slater",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086653,
         85848167
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NqagNdH0fRvcChhIab0NK_41.880670_-93.682745@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108648,
-    "wof:geomhash":"a982bd2b34c85e15fcbace86a633ed64",
+    "wof:geomhash":"8814c4c3d75afa374b6a9452e1aeb391",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856915739,
-    "wof:lastmodified":1466485437,
+    "wof:lastmodified":1510693698,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85848167,
     "wof:placetype":"venue",

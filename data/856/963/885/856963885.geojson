@@ -2,14 +2,20 @@
   "id": 856963885,
   "type": "Feature",
   "properties": {
+    "addr:full":"4410 Central St Sioux City IA 51108",
+    "addr:housenumber":"4410",
+    "addr:postcode":"51108",
+    "addr:street":"Central St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.361403,42.546432,-96.361403,42.546432",
     "geom:latitude":42.546432,
     "geom:longitude":-96.361403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4410 Central St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086309,
         85830139
     ],
+    "wof:brand_id":1125155577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WLiUKq7OemjLPi5jk2OdH_42.546432_-96.361403@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464110703,
-    "wof:geomhash":"4da4a989523a3d8061aca4789e43f842",
+    "wof:geomhash":"dc6dfed01fcca72c6b3b366af5d1c3c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856963885,
-    "wof:lastmodified":1466486274,
+    "wof:lastmodified":1510699534,
     "wof:name":"Calvary Lutheran Church",
     "wof:parent_id":85830139,
     "wof:placetype":"venue",

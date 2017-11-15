@@ -2,14 +2,20 @@
   "id": 856841521,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 E 6th St Des Moines IA 50309",
+    "addr:housenumber":"513",
+    "addr:postcode":"50309",
+    "addr:street":"E 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.610465,41.591844,-93.610465,41.591844",
     "geom:latitude":41.591844,
     "geom:longitude":-93.610465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"513 E 6th St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896391
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KOobCP8NEp9xMCkQu7jmh_41.591844_-93.610465@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105060,
-    "wof:geomhash":"110294847e5aa38cf737867514a0d515",
+    "wof:geomhash":"1e7e666e4a00b2482c5c3117f9c0ee3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856841521,
-    "wof:lastmodified":1466483993,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85896391,
     "wof:placetype":"venue",

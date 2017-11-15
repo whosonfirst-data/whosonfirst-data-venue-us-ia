@@ -2,9 +2,14 @@
   "id": 856873921,
   "type": "Feature",
   "properties": {
+    "addr:full":"3523 E 26th St Des Moines IA 50317",
+    "addr:housenumber":"3523",
+    "addr:postcode":"50317",
+    "addr:street":"E 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.566503,41.627434,-93.566503,41.627434",
     "geom:latitude":41.627434,
     "geom:longitude":-93.566503,
@@ -24,7 +29,14 @@
     "sg:postcode":"50317",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y4a8SjyFidKnVepD7Vnt0_41.627434_-93.566503@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464106882,
     "wof:geomhash":"a10e05746a86e3bd13457b845238dd34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856873921
+        }
+    ],
     "wof:id":856873921,
-    "wof:lastmodified":1466484742,
+    "wof:lastmodified":1491905907,
     "wof:name":"Hairz & Hiz",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

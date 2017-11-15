@@ -2,9 +2,14 @@
   "id": 856992967,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 2nd Ave Des Moines IA 50314",
+    "addr:housenumber":"101",
+    "addr:postcode":"50314",
+    "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.618578,41.584037,-93.618578,41.584037",
     "geom:latitude":41.584037,
     "geom:longitude":-93.618578,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gWGdANkdkVOu2GhhCGqFq_41.584037_-93.618578@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464112109,
     "wof:geomhash":"5bb7114f755016a10b2dbab6293c9a05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877065,
+            "region_id":85688713,
+            "venue_id":856992967
+        }
+    ],
     "wof:id":856992967,
-    "wof:lastmodified":1466486787,
+    "wof:lastmodified":1491886370,
     "wof:name":"Vine Street Loft",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

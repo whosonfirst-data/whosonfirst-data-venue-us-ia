@@ -2,9 +2,14 @@
   "id": 857000201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 E County Line Rd Des Moines IA 50320",
+    "addr:housenumber":"1100",
+    "addr:postcode":"50320",
+    "addr:street":"E County Line Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.596699,41.511838,-93.596699,41.511838",
     "geom:latitude":41.511838,
     "geom:longitude":-93.596699,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
+        85944061,
+        102086603,
         85820071,
-        102086537
+        85896421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +50,28 @@
     "wof:geomhash":"a2d3ee19d78ebcc74048f6f18a1429a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
+            "region_id":85688713,
+            "venue_id":857000201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896421,
             "region_id":85688713,
             "venue_id":857000201
         }
     ],
     "wof:id":857000201,
-    "wof:lastmodified":1466481818,
+    "wof:lastmodified":1491892992,
     "wof:name":"Mark A Knudsen",
-    "wof:parent_id":85820071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

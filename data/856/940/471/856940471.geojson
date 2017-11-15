@@ -2,9 +2,14 @@
   "id": 856940471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 University Ave Des Moines IA 50311",
+    "addr:housenumber":"2124",
+    "addr:postcode":"50311",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64644,41.600339,-93.64644,41.600339",
     "geom:latitude":41.600339,
     "geom:longitude":-93.64644,
@@ -27,7 +32,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q9vToX4AUrsgQWYQgv8WI_41.600339_-93.646440@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109698,
     "wof:geomhash":"94981014bdc48e227a0187b93e8089d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":856940471
+        }
+    ],
     "wof:id":856940471,
-    "wof:lastmodified":1466485788,
+    "wof:lastmodified":1491937971,
     "wof:name":"Des Moines Data Base Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

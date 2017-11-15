@@ -2,14 +2,20 @@
   "id": 856805865,
   "type": "Feature",
   "properties": {
+    "addr:full":"11820 Hickman Rd Clive IA 50325",
+    "addr:housenumber":"11820",
+    "addr:postcode":"50325",
+    "addr:street":"Hickman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.782003,41.614871,-93.782003,41.614871",
     "geom:latitude":41.614871,
     "geom:longitude":-93.782003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11820 Hickman Rd",
     "sg:city":"Clive",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086603,
         85896343
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GYCaeiI8NMFTerW1ESBtc_41.614871_-93.782003@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103451,
-    "wof:geomhash":"b787f3d168506b1b3df3a518171720c8",
+    "wof:geomhash":"625cb2b39a02f495a53cef10a2e2c42c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856805865,
-    "wof:lastmodified":1466482857,
+    "wof:lastmodified":1510695717,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":85896343,
     "wof:placetype":"venue",

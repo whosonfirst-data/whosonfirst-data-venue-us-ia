@@ -2,6 +2,10 @@
   "id": 856898535,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Floyd Blvd Sioux City IA 51108",
+    "addr:housenumber":"4001",
+    "addr:postcode":"51108",
+    "addr:street":"Floyd Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":856898535,
-    "wof:lastmodified":1466485085,
+    "wof:lastmodified":1472620306,
     "wof:name":"IND Supply",
     "wof:parent_id":85830139,
     "wof:placetype":"venue",

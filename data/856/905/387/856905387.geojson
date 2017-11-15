@@ -2,9 +2,14 @@
   "id": 856905387,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Hubbell Ave Des Moines IA 50317",
+    "addr:housenumber":"2727",
+    "addr:postcode":"50317",
+    "addr:street":"Hubbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.564856,41.617163,-93.564856,41.617163",
     "geom:latitude":41.617163,
     "geom:longitude":-93.564856,
@@ -28,7 +33,14 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47YCMLV63zqvgKE9KErAjB_41.617163_-93.564856@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464108245,
     "wof:geomhash":"7081a5bdda521906d0b7b31f4b83131e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856905387
+        }
+    ],
     "wof:id":856905387,
-    "wof:lastmodified":1466485168,
+    "wof:lastmodified":1491905918,
     "wof:name":"Tax Doctor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 856851847,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 NW Urbandale Dr Urbandale IA 50322",
+    "addr:housenumber":"4200",
+    "addr:postcode":"50322",
+    "addr:street":"Nw Urbandale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.760987,41.637213,-93.760987,41.637213",
     "geom:latitude":41.637213,
     "geom:longitude":-93.760987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 NW Urbandale Dr",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086603,
         85896507
     ],
+    "wof:brand_id":1125156721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zH9WD9iLkdHgtmlr6VTgB_41.637213_-93.760987@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105619,
-    "wof:geomhash":"8752d02f7d15626d3dfdf4c721594413",
+    "wof:geomhash":"174e3cc4173ddd9fe20c15ad8a7aa729",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856851847,
-    "wof:lastmodified":1466484401,
+    "wof:lastmodified":1510699520,
     "wof:name":"Computer Sciences Corp",
     "wof:parent_id":85896507,
     "wof:placetype":"venue",

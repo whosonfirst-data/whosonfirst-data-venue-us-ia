@@ -2,9 +2,14 @@
   "id": 856936461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 Carpenter Ave Des Moines IA 50314",
+    "addr:housenumber":"1914",
+    "addr:postcode":"50314",
+    "addr:street":"Carpenter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.643706,41.602166,-93.643706,41.602166",
     "geom:latitude":41.602166,
     "geom:longitude":-93.643706,
@@ -27,7 +32,14 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Xx5J50TdGdbalDh3Uyp1I_41.602166_-93.643706@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109494,
     "wof:geomhash":"e3d6011ad9c80fd046a999050ea4d6df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":856936461
+        }
+    ],
     "wof:id":856936461,
-    "wof:lastmodified":1466485777,
+    "wof:lastmodified":1491937975,
     "wof:name":"Community Family & Youth Serv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

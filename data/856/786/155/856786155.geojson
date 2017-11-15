@@ -2,9 +2,14 @@
   "id": 856786155,
   "type": "Feature",
   "properties": {
+    "addr:full":"1116 22nd St Des Moines IA 50311",
+    "addr:housenumber":"1116",
+    "addr:postcode":"50311",
+    "addr:street":"22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.646804,41.600032,-93.646804,41.600032",
     "geom:latitude":41.600032,
     "geom:longitude":-93.646804,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wkw4QQtYICD1A4M5cpR9M_41.600032_-93.646804@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464102622,
     "wof:geomhash":"ee0e9bbc5475a9013ca78e9a239f855f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":856786155
+        }
+    ],
     "wof:id":856786155,
-    "wof:lastmodified":1466482110,
+    "wof:lastmodified":1491937966,
     "wof:name":"Drake Park Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

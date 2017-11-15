@@ -2,9 +2,14 @@
   "id": 856852259,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Grand Ave Des Moines IA 50309",
+    "addr:housenumber":"801",
+    "addr:postcode":"50309",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.62898,41.586969,-93.62898,41.586969",
     "geom:latitude":41.586969,
     "geom:longitude":-93.62898,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.smithbarney.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kPjaoNrV4TzTwRcMEn8T1_41.586969_-93.628980@1294088824"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1464105638,
     "wof:geomhash":"6684ab7ce3005bf3d6914de654d65dc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856852259
+        }
+    ],
     "wof:id":856852259,
-    "wof:lastmodified":1466484326,
+    "wof:lastmodified":1491924295,
     "wof:name":"Smith Barney",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 856810173,
   "type": "Feature",
   "properties": {
+    "addr:full":"8564 Alice Ave Des Moines IA 50325",
+    "addr:housenumber":"8564",
+    "addr:postcode":"50325",
+    "addr:street":"Alice Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856810173,
-    "wof:lastmodified":1466482914,
+    "wof:lastmodified":1472620045,
     "wof:name":"Mechanical Sales Inc",
     "wof:parent_id":85896357,
     "wof:placetype":"venue",

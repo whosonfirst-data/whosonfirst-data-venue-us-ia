@@ -2,6 +2,10 @@
   "id": 856788647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3005 Hamilton Blvd Sioux City IA 51104",
+    "addr:housenumber":"3005",
+    "addr:postcode":"51104",
+    "addr:street":"Hamilton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856788647,
-    "wof:lastmodified":1466482217,
+    "wof:lastmodified":1472620016,
     "wof:name":"Motor Vehicle-Drivers License",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

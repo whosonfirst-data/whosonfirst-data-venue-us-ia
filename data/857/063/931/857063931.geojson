@@ -2,14 +2,20 @@
   "id": 857063931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 Woodbury Ave Council Bluffs IA 51503",
+    "addr:housenumber":"1110",
+    "addr:postcode":"51503",
+    "addr:street":"Woodbury Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.8255,41.240799,-95.8255,41.240799",
     "geom:latitude":41.240799,
     "geom:longitude":-95.8255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 Woodbury Ave",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":1125159963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YZEsKvvk7ucEq0cyzRjT2_41.240799_-95.825500@1303262802"
     },
     "wof:country":"US",
     "wof:created":1464115060,
-    "wof:geomhash":"0e00ff435f67d04d8c150fb704189858",
+    "wof:geomhash":"d283b3871dc90572ea3678f14a9007a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857063931,
-    "wof:lastmodified":1466483947,
+    "wof:lastmodified":1510693850,
     "wof:name":"Ntb-National Tire & Battery",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

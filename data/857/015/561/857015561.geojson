@@ -2,14 +2,20 @@
   "id": 857015561,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 25th St Des Moines IA 50312",
+    "addr:housenumber":"826",
+    "addr:postcode":"50312",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.650966,41.592556,-93.650966,41.592556",
     "geom:latitude":41.592556,
     "geom:longitude":-93.650966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"826 25th St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896429
     ],
+    "wof:brand_id":1125152057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f1DksHKeKYmKGYpHhHuLB_41.592556_-93.650966@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113009,
-    "wof:geomhash":"0d12669d2bce81987ad80ea7e8a8a7f4",
+    "wof:geomhash":"7c22402132cfa35ee7a27247d392e2ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857015561,
-    "wof:lastmodified":1466482333,
+    "wof:lastmodified":1510697075,
     "wof:name":"Morning Star Baptist Church",
     "wof:parent_id":85896429,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857070085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 16th Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"2727",
+    "addr:postcode":"52404",
+    "addr:street":"16Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.708199,41.962898,-91.708199,41.962898",
     "geom:latitude":41.962898,
     "geom:longitude":-91.708199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2727 16th Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125150159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lwKpWdMiQtEGGimsgAXoq_41.962898_-91.708199@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115334,
-    "wof:geomhash":"6b677bff1d30d46d4ed7f463c12ae1ea",
+    "wof:geomhash":"977e8f39d8d0c137eb3e7fa734d50920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857070085,
-    "wof:lastmodified":1466484046,
+    "wof:lastmodified":1510604959,
     "wof:name":"Kmart Stores",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

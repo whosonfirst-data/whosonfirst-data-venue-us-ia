@@ -2,14 +2,20 @@
   "id": 856979569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2829 12th St SW Cedar Rapids IA 52404",
+    "addr:housenumber":"2829",
+    "addr:postcode":"52404",
+    "addr:street":"12Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.686744,41.950406,-91.686744,41.950406",
     "geom:latitude":41.950406,
     "geom:longitude":-91.686744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2829 12th St SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EcLgkgf41V8uhDSDGT7uZ_41.950406_-91.686744@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111438,
-    "wof:geomhash":"314406bbc5b877c7f4ce131cc39f8c69",
+    "wof:geomhash":"c76fbbaa787177a66c0fd4cfeb9877e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856979569,
-    "wof:lastmodified":1466486418,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

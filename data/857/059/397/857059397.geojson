@@ -2,14 +2,20 @@
   "id": 857059397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4444 1st Ave NE Cedar Rapids IA 52402",
+    "addr:housenumber":"4444",
+    "addr:postcode":"52402",
+    "addr:street":"1St Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.627116,42.023095,-91.627116,42.023095",
     "geom:latitude":42.023095,
     "geom:longitude":-91.627116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4444 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":1125155831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KiQXqv2iiBmOS3pJFiydM_42.023095_-91.627116@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464114876,
-    "wof:geomhash":"8b0e5e70b97c26d1ce934c778e8a0fe3",
+    "wof:geomhash":"b281c8fcf1b589c81e15e782137e1630",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857059397,
-    "wof:lastmodified":1466483760,
+    "wof:lastmodified":1510613549,
     "wof:name":"Pretzel Maker",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

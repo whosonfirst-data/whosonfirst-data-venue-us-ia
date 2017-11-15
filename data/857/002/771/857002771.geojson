@@ -2,14 +2,20 @@
   "id": 857002771,
   "type": "Feature",
   "properties": {
+    "addr:full":"3038 S Lakeport St Sioux City IA 51106",
+    "addr:housenumber":"3038",
+    "addr:postcode":"51106",
+    "addr:street":"S Lakeport St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.345581,42.455607,-96.345581,42.455607",
     "geom:latitude":42.455607,
     "geom:longitude":-96.345581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3038 S Lakeport St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086309,
         85835267
     ],
+    "wof:brand_id":1125153257,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wGd8aI97mwfN2B8ybd1B5_42.455607_-96.345581@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112479,
-    "wof:geomhash":"0831ec0ba8b31f92badfe2ccbfb43825",
+    "wof:geomhash":"78f12ab9c81cc2a6a8544bc8320d70d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857002771,
-    "wof:lastmodified":1466481933,
+    "wof:lastmodified":1510697119,
     "wof:name":"United Food & Commercial Wrkrs",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",

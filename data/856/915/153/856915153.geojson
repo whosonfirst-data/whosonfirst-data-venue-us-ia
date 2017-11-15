@@ -2,9 +2,14 @@
   "id": 856915153,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Garfield St Carlisle IA 50047",
+    "addr:housenumber":"235",
+    "addr:postcode":"50047",
+    "addr:street":"Garfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.485473,41.499961,-93.485473,41.499961",
     "geom:latitude":41.499961,
     "geom:longitude":-93.485473,
@@ -32,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
     "wof:geomhash":"22b88ac447ac17ae5684dcda6882125c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856915153
         }
     ],
     "wof:id":856915153,
-    "wof:lastmodified":1466485320,
+    "wof:lastmodified":1491893056,
     "wof:name":"Superior HVAC Corp",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

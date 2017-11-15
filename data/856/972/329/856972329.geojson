@@ -2,9 +2,14 @@
   "id": 856972329,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Westown Pkwy West Des Moines IA 50266",
+    "addr:housenumber":"2401",
+    "addr:postcode":"50266",
+    "addr:street":"Westown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.736145,41.596989,-93.736145,41.596989",
     "geom:latitude":41.596989,
     "geom:longitude":-93.736145,
@@ -28,7 +33,15 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896355,
+        420520547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h6ZNzffXnMV3oK4Rox9tH_41.596989_-93.736145@1294088824"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1464111076,
     "wof:geomhash":"b244a942a6307bca877deeeab0be6a3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856972329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":420520547,
+            "region_id":85688713,
+            "venue_id":856972329
+        }
+    ],
     "wof:id":856972329,
-    "wof:lastmodified":1466486353,
+    "wof:lastmodified":1491899795,
     "wof:name":"Freedom Tire",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

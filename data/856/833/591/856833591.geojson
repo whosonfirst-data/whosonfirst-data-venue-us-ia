@@ -2,9 +2,14 @@
   "id": 856833591,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Hickman Rd Des Moines IA 50310",
+    "addr:housenumber":"4401",
+    "addr:postcode":"50310",
+    "addr:street":"Hickman Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.679113,41.614883,-93.679113,41.614883",
     "geom:latitude":41.614883,
     "geom:longitude":-93.679113,
@@ -29,7 +34,15 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051,
+        420520369
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KyxelrOwjAF40I33ZcwSx_41.614883_-93.679113@1294088824"
@@ -37,11 +50,30 @@
     "wof:country":"US",
     "wof:created":1464104681,
     "wof:geomhash":"a7af5dcd7062d30f80d25718a1bd9afc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856833591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520369,
+            "region_id":85688713,
+            "venue_id":856833591
+        }
+    ],
     "wof:id":856833591,
-    "wof:lastmodified":1466483801,
+    "wof:lastmodified":1491920763,
     "wof:name":"Budget Truck Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

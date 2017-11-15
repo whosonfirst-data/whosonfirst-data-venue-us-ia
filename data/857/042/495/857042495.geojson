@@ -2,14 +2,20 @@
   "id": 857042495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 W Broadway Council Bluffs IA 51501",
+    "addr:housenumber":"1600",
+    "addr:postcode":"51501",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.868103,41.262001,-95.868103,41.262001",
     "geom:latitude":41.262001,
     "geom:longitude":-95.868103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 W Broadway",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082789,
         85816645
     ],
+    "wof:brand_id":1125158839,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k71YWAB12lZGDTPfOQFDG_41.261863_-95.868060@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464114175,
-    "wof:geomhash":"cb4c40febe1b769df6a3a43bfa81197a",
+    "wof:geomhash":"99628af03959c2ebbae90a86e484b01d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857042495,
-    "wof:lastmodified":1466483174,
+    "wof:lastmodified":1510695709,
     "wof:name":"Peoples National Bank",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

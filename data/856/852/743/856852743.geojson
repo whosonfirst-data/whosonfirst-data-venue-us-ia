@@ -2,9 +2,14 @@
   "id": 856852743,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 N Jefferson Way Indianola IA 50125",
+    "addr:housenumber":"1710",
+    "addr:postcode":"50125",
+    "addr:street":"N Jefferson Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.55839,41.376557,-93.55839,41.376557",
     "geom:latitude":41.376557,
     "geom:longitude":-93.55839,
@@ -32,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
     "wof:geomhash":"dcc327c265adbe63a36e14987dd41ec6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856852743
         }
     ],
     "wof:id":856852743,
-    "wof:lastmodified":1466484424,
+    "wof:lastmodified":1491893049,
     "wof:name":"Glascock Hardwood Floor Svc",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

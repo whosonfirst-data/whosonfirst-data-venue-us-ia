@@ -2,14 +2,20 @@
   "id": 857067333,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 2nd Ave SE Cedar Rapids IA 52401",
+    "addr:housenumber":"207",
+    "addr:postcode":"52401",
+    "addr:street":"2Nd Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.667503,41.978199,-91.667503,41.978199",
     "geom:latitude":41.978199,
     "geom:longitude":-91.667503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 2nd Ave SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85876619
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u6b4y5wWVJSkDGH9VtLh8_41.978199_-91.667503@1303262802"
     },
     "wof:country":"US",
     "wof:created":1464115198,
-    "wof:geomhash":"1f921abfd86c2b431f1acee15b29f87e",
+    "wof:geomhash":"2aaa31e2ddccc5260f650cccf5d8baf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857067333,
-    "wof:lastmodified":1466483955,
+    "wof:lastmodified":1510602836,
     "wof:name":"Osco Drug",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",

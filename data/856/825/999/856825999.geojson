@@ -2,6 +2,10 @@
   "id": 856825999,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Arthur Ave Des Moines IA 50313",
+    "addr:housenumber":"135",
+    "addr:postcode":"50313",
+    "addr:street":"Arthur Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856825999,
-    "wof:lastmodified":1466483625,
+    "wof:lastmodified":1472620134,
     "wof:name":"Beeler City-Wide Plumbing Svc",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

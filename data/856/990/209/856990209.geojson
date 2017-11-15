@@ -2,6 +2,10 @@
   "id": 856990209,
   "type": "Feature",
   "properties": {
+    "addr:full":"6123 Crabapple Ln Johnston IA 50131",
+    "addr:housenumber":"6123",
+    "addr:postcode":"50131",
+    "addr:street":"Crabapple Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856990209,
-    "wof:lastmodified":1466486542,
+    "wof:lastmodified":1472620468,
     "wof:name":"C T Freight Svc",
     "wof:parent_id":85896487,
     "wof:placetype":"venue",

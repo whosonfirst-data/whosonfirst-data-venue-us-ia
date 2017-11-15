@@ -2,14 +2,20 @@
   "id": 856835157,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Edgewood Rd NW Cedar Rapids IA 52405",
+    "addr:housenumber":"212",
+    "addr:postcode":"52405",
+    "addr:street":"Edgewood Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.716075,41.973237,-91.716075,41.973237",
     "geom:latitude":41.973237,
     "geom:longitude":-91.716075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 Edgewood Rd NW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086551,
         85809971
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LvtvlxPVDSrO78Cmu0WYK_41.973237_-91.716075@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104762,
-    "wof:geomhash":"cec32f2e9187b1c3b05fd65ebdb212a4",
+    "wof:geomhash":"3d13d6108b4799b39626c027ff2ade78",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856835157,
-    "wof:lastmodified":1466483721,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

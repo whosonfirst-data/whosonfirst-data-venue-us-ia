@@ -2,14 +2,20 @@
   "id": 856823385,
   "type": "Feature",
   "properties": {
+    "addr:full":"775 Kacena Rd Hiawatha IA 52233",
+    "addr:housenumber":"775",
+    "addr:postcode":"52233",
+    "addr:street":"Kacena Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.679561,42.054109,-91.679561,42.054109",
     "geom:latitude":42.054109,
     "geom:longitude":-91.679561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"775 Kacena Rd",
     "sg:city":"Hiawatha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F7fa5C1KIMUGopYPNB3kp_42.054109_-91.679561@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104239,
-    "wof:geomhash":"3504f305fe24350be704eb18ea49f1da",
+    "wof:geomhash":"4ef874c49f32ef0e97ff4c064773dcb5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856823385,
-    "wof:lastmodified":1466483369,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

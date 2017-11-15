@@ -2,9 +2,14 @@
   "id": 856937227,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 8th St Des Moines IA 50309",
+    "addr:housenumber":"312",
+    "addr:postcode":"50309",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.627452,41.586179,-93.627452,41.586179",
     "geom:latitude":41.586179,
     "geom:longitude":-93.627452,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7drXRgi4FzBn8ni1zpVAlM_41.586179_-93.627452@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464109524,
     "wof:geomhash":"fc5842ff4c08ca7e56cb420a287c0830",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856937227
+        }
+    ],
     "wof:id":856937227,
-    "wof:lastmodified":1466485732,
+    "wof:lastmodified":1491924309,
     "wof:name":"M A Mortenson Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 856963007,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 W South Omaha Bridge Rd Council Bluffs IA 51501",
+    "addr:housenumber":"602",
+    "addr:postcode":"51501",
+    "addr:street":"W South;Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":856963007,
-    "wof:lastmodified":1466486097,
+    "wof:lastmodified":1472620394,
     "wof:name":"275 Truck Svc",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

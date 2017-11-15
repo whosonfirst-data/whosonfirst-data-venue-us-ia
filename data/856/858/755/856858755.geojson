@@ -2,14 +2,20 @@
   "id": 856858755,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Main St Cushing IA 51018",
+    "addr:housenumber":"107",
+    "addr:postcode":"51018",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.675084,42.466305,-95.675084,42.466305",
     "geom:latitude":42.466305,
     "geom:longitude":-95.675084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086309,
         85835267
     ],
+    "wof:brand_id":1125153609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SgjgsgDMwNueXS4AuaP6l_42.466305_-95.675084@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105925,
-    "wof:geomhash":"c0883640da45d8e96db3511a882dd7c6",
+    "wof:geomhash":"bb306593e040f729b1aca0c41531001c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856858755,
-    "wof:lastmodified":1466484444,
+    "wof:lastmodified":1510696056,
     "wof:name":"Heritage Bank",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",

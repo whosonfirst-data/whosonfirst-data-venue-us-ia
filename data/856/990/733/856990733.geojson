@@ -2,14 +2,20 @@
   "id": 856990733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 48th St West Des Moines IA 50266",
+    "addr:housenumber":"1701",
+    "addr:postcode":"50266",
+    "addr:street":"48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.768671,41.596764,-93.768671,41.596764",
     "geom:latitude":41.596764,
     "geom:longitude":-93.768671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1701 48th St",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896537
     ],
+    "wof:brand_id":1125158961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WVr2AbD6LA7xb1vONC2cs_41.596764_-93.768671@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112008,
-    "wof:geomhash":"612ffd1930cdd4f6bbdb177364bf65b9",
+    "wof:geomhash":"a99a20e347ff3e7bc97899895aefe373",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856990733,
-    "wof:lastmodified":1466486647,
+    "wof:lastmodified":1510695357,
     "wof:name":"Cor Vel Corp",
     "wof:parent_id":85896537,
     "wof:placetype":"venue",

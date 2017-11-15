@@ -2,14 +2,20 @@
   "id": 857070997,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 Edgewood Rd SW Ste 1 Cedar Rapids IA 52404",
+    "addr:housenumber":"2315",
+    "addr:postcode":"52404",
+    "addr:street":"Edgewood Rd Sw Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.716135,41.956305,-91.716135,41.956305",
     "geom:latitude":41.956305,
     "geom:longitude":-91.716135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2315 Edgewood Rd SW Ste 1",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":420574513,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RWNCmH8VuhvxR4aes94c6_41.956305_-91.716135@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115375,
-    "wof:geomhash":"6334454d152df428886cf274378b2ab7",
+    "wof:geomhash":"d15d69f7a556f59004c66b2b49d1982a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":857070997,
-    "wof:lastmodified":1466484229,
+    "wof:lastmodified":1510604612,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856981489,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Dean Ave Des Moines IA 50316",
+    "addr:housenumber":"1400",
+    "addr:postcode":"50316",
+    "addr:street":"Dean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.594344,41.591178,-93.594344,41.591178",
     "geom:latitude":41.591178,
     "geom:longitude":-93.594344,
@@ -24,7 +29,14 @@
     "sg:postcode":"50316",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vhFtqK0pGhq8yljOkSl5S_41.591178_-93.594344@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464111528,
     "wof:geomhash":"568585d6c79fcd38fc547db07a466d1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856981489
+        }
+    ],
     "wof:id":856981489,
-    "wof:lastmodified":1466486468,
+    "wof:lastmodified":1491909169,
     "wof:name":"Iowa Manufactured Housing Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

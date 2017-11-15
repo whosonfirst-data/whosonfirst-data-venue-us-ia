@@ -2,14 +2,20 @@
   "id": 856830341,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Iowa St Hills IA 52327",
+    "addr:housenumber":"208",
+    "addr:postcode":"52327",
+    "addr:street":"Iowa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.532147,41.552476,-91.532147,41.552476",
     "geom:latitude":41.552476,
     "geom:longitude":-91.532147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"208 Iowa St",
     "sg:city":"Hills",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85896481,
         102086417
     ],
+    "wof:brand_id":1125151237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qfzfa0xil8WWOPH4d9P7w_41.552476_-91.532147@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104524,
-    "wof:geomhash":"41e6b381ca630beaea7474d81a745f0e",
+    "wof:geomhash":"ed939c979c59f69320c4b651727ca190",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":856830341,
-    "wof:lastmodified":1466483629,
+    "wof:lastmodified":1510694068,
     "wof:name":"St Joseph's Church",
     "wof:parent_id":85896481,
     "wof:placetype":"venue",

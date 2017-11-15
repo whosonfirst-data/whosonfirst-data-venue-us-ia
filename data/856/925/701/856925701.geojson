@@ -2,14 +2,20 @@
   "id": 856925701,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 13th Ave SE Cedar Rapids IA 52403",
+    "addr:housenumber":"4025",
+    "addr:postcode":"52403",
+    "addr:street":"13Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.609715,41.972793,-91.609715,41.972793",
     "geom:latitude":41.972793,
     "geom:longitude":-91.609715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4025 13th Ave SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85839927
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fUncPUxYPXRYuRyfYa507_41.972793_-91.609715@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109074,
-    "wof:geomhash":"561d1e634b95ce64bb2f430aec8ea636",
+    "wof:geomhash":"2edf87657fba35cd36a167574356646c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856925701,
-    "wof:lastmodified":1466485627,
+    "wof:lastmodified":1510677753,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85839927,
     "wof:placetype":"venue",

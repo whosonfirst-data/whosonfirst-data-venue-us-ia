@@ -2,14 +2,20 @@
   "id": 856823417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Indian Hills Dr Sioux City IA 51104",
+    "addr:housenumber":"3700",
+    "addr:postcode":"51104",
+    "addr:street":"Indian Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.374771,42.536421,-96.374771,42.536421",
     "geom:latitude":42.536421,
     "geom:longitude":-96.374771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3700 Indian Hills Dr",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086309,
         85850679
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OQhOjtRkWR5Y6IlDRLEdT_42.536421_-96.374771@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104240,
-    "wof:geomhash":"2fad5265b01dee468d2bf9516710f6bd",
+    "wof:geomhash":"dc94e4bb7b41412c36263edf9ce76c65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856823417,
-    "wof:lastmodified":1466483375,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

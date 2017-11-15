@@ -2,14 +2,20 @@
   "id": 387830831,
   "type": "Feature",
   "properties": {
+    "addr:full":"4647 Stone Ave Sioux City SD 51106",
+    "addr:housenumber":"4647",
+    "addr:postcode":"51106",
+    "addr:street":"Stone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.347501,42.479247,-96.347501,42.479247",
     "geom:latitude":42.479247,
     "geom:longitude":-96.347501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4647 Stone Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086309,
         85835267
     ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ivLv9HgiWkXeaXV1enQ0P_42.479247_-96.347501@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"186650b1d6abdcda00839641ee5319ac",
+    "wof:geomhash":"b6f80bf76e52d7feffd3093c9464c173",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387830831,
-    "wof:lastmodified":1466486737,
+    "wof:lastmodified":1510699351,
     "wof:name":"US Commerce Dept",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",

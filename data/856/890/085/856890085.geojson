@@ -2,6 +2,10 @@
   "id": 856890085,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Locust St Des Moines IA 50309",
+    "addr:housenumber":"300",
+    "addr:postcode":"50309",
+    "addr:street":"E Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856890085,
-    "wof:lastmodified":1466484903,
+    "wof:lastmodified":1472620258,
     "wof:name":"Pulley Chiropractic Health Ctr",
     "wof:parent_id":85896383,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856932071,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Antique City Dr Walnut IA 51577",
+    "addr:housenumber":"903",
+    "addr:postcode":"51577",
+    "addr:street":"Antique City Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.22203,41.485406,-95.22203,41.485406",
     "geom:latitude":41.485406,
     "geom:longitude":-95.22203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"903 Antique City Dr",
     "sg:city":"Walnut",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082789,
         85872521
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EQGFhhtyyakVVE0l1nRgS_41.485406_-95.222030@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109319,
-    "wof:geomhash":"ec40ba07dc28ddd9ed75f9d45b92bf90",
+    "wof:geomhash":"6bb085f474548cb6ed972e4d2ffad811",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856932071,
-    "wof:lastmodified":1466485528,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":85872521,
     "wof:placetype":"venue",

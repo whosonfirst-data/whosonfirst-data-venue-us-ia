@@ -2,9 +2,14 @@
   "id": 856897549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Walker St Des Moines IA 50316",
+    "addr:housenumber":"1200",
+    "addr:postcode":"50316",
+    "addr:street":"Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.602184,41.597077,-93.602184,41.597077",
     "geom:latitude":41.597077,
     "geom:longitude":-93.602184,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Zkx4L1P5y2irMHjq6AgIP_41.597077_-93.602184@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464107964,
     "wof:geomhash":"f62266ca9d78fe3dd731e5501867952d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":856897549
+        }
+    ],
     "wof:id":856897549,
-    "wof:lastmodified":1466485067,
+    "wof:lastmodified":1491919027,
     "wof:name":"St Paul Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

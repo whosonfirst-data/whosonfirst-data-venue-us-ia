@@ -2,14 +2,20 @@
   "id": 857017893,
   "type": "Feature",
   "properties": {
+    "addr:full":"3029 W Broadway Council Bluffs IA 51501",
+    "addr:housenumber":"3029",
+    "addr:postcode":"51501",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.893764,41.261878,-95.893764,41.261878",
     "geom:latitude":41.261878,
     "geom:longitude":-95.893764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3029 W Broadway",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082789,
         85816645
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mEcB4bI74KM3kzUZdjvb0_41.261878_-95.893764@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113115,
-    "wof:geomhash":"272129d3a5328179d16bb98ce12bf0f8",
+    "wof:geomhash":"e9f62479ff972ef6c5a92bccb7499b01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857017893,
-    "wof:lastmodified":1466482460,
+    "wof:lastmodified":1510613088,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

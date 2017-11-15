@@ -2,14 +2,20 @@
   "id": 856882975,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 2nd St NE Cedar Rapids IA 52401",
+    "addr:housenumber":"118",
+    "addr:postcode":"52401",
+    "addr:street":"2Nd St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.669459,41.979509,-91.669459,41.979509",
     "geom:latitude":41.979509,
     "geom:longitude":-91.669459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"118 2nd St NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85876619
     ],
+    "wof:brand_id":420575705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vusf08YXSZovk6ft7Euua_41.979509_-91.669459@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107348,
-    "wof:geomhash":"5f3c5edf084b46cfa72b9d8231dcc6f6",
+    "wof:geomhash":"e10c0ee2f87fdf6cc5e8f552f24beda8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856882975,
-    "wof:lastmodified":1466484886,
+    "wof:lastmodified":1510601955,
     "wof:name":"Westaff",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",

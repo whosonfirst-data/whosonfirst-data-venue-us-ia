@@ -2,9 +2,14 @@
   "id": 856951873,
   "type": "Feature",
   "properties": {
+    "addr:full":"567 Beardsley St Norwalk IA 50211",
+    "addr:housenumber":"567",
+    "addr:postcode":"50211",
+    "addr:street":"Beardsley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.697455,41.497625,-93.697455,41.497625",
     "geom:latitude":41.497625,
     "geom:longitude":-93.697455,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"7db9b888b2bbe6d63bb1c15f536371fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856951873
         }
     ],
     "wof:id":856951873,
-    "wof:lastmodified":1466486070,
+    "wof:lastmodified":1491893024,
     "wof:name":"Custom Homes By Smith Lc",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857024741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1526 5th St Coralville IA 52241",
+    "addr:housenumber":"1526",
+    "addr:postcode":"52241",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.581774,41.676373,-91.581774,41.676373",
     "geom:latitude":41.676373,
     "geom:longitude":-91.581774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1526 5th St",
     "sg:city":"Coralville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086417,
         85896371
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cWPtxoM952Y0nKSFbmjlP_41.676373_-91.581774@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113402,
-    "wof:geomhash":"b4f1024ff983fa8da33e3550c381366b",
+    "wof:geomhash":"3c4c9e19a2a681303c75ecb988ff7440",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857024741,
-    "wof:lastmodified":1466482633,
+    "wof:lastmodified":1510694885,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85896371,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856920017,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 High St Des Moines IA 50309",
+    "addr:housenumber":"925",
+    "addr:postcode":"50309",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.630267,41.587529,-93.630267,41.587529",
     "geom:latitude":41.587529,
     "geom:longitude":-93.630267,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dSLXcPx5uvythci5b6XNC_41.587529_-93.630267@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464108811,
     "wof:geomhash":"330dbfa341df03b37ae8b3cbe36f7fe4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856920017
+        }
+    ],
     "wof:id":856920017,
-    "wof:lastmodified":1466485317,
+    "wof:lastmodified":1491924309,
     "wof:name":"Us West Interact",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

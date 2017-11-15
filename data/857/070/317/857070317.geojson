@@ -2,6 +2,10 @@
   "id": 857070317,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 Arthur Collins Pkwy SW Ste 22 Cedar Rapids IA 52404",
+    "addr:housenumber":"2121;22",
+    "addr:postcode":"52404",
+    "addr:street":"Arthur Collins Pkwy Sw Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":857070317,
-    "wof:lastmodified":1466484092,
+    "wof:lastmodified":1472620230,
     "wof:name":"Airport Shuttle Service",
     "wof:parent_id":102531369,
     "wof:placetype":"venue",

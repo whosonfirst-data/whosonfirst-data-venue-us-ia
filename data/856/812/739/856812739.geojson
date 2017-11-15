@@ -2,9 +2,14 @@
   "id": 856812739,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 E University Ave Des Moines IA 50316",
+    "addr:housenumber":"901",
+    "addr:postcode":"50316",
+    "addr:street":"E University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.604794,41.600381,-93.604794,41.600381",
     "geom:latitude":41.600381,
     "geom:longitude":-93.604794,
@@ -24,7 +29,14 @@
     "sg:postcode":"50316",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FG6SOYMifNl663m0SfjVY_41.600381_-93.604794@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464103741,
     "wof:geomhash":"439766895175064c4e9add9193605fe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":856812739
+        }
+    ],
     "wof:id":856812739,
-    "wof:lastmodified":1466483039,
+    "wof:lastmodified":1491919023,
     "wof:name":"Wash N Dry Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

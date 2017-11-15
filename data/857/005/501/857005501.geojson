@@ -2,9 +2,14 @@
   "id": 857005501,
   "type": "Feature",
   "properties": {
+    "addr:full":"8062 Warren Dr Des Moines IA 50320",
+    "addr:housenumber":"8062",
+    "addr:postcode":"50320",
+    "addr:street":"Warren Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.614168,41.510462,-93.614168,41.510462",
     "geom:latitude":41.510462,
     "geom:longitude":-93.614168,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"c30ff594575143e3bdd74d2a37ebfbdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857005501
         }
     ],
     "wof:id":857005501,
-    "wof:lastmodified":1466481879,
+    "wof:lastmodified":1491893024,
     "wof:name":"Santa & Friends",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

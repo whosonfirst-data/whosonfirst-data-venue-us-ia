@@ -2,14 +2,20 @@
   "id": 856826093,
   "type": "Feature",
   "properties": {
+    "addr:full":"6855 Woodland Ave West Des Moines IA 50266",
+    "addr:housenumber":"6855",
+    "addr:postcode":"50266",
+    "addr:street":"Woodland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.802974,41.585173,-93.802974,41.585173",
     "geom:latitude":41.585173,
     "geom:longitude":-93.802974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6855 Woodland Ave",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086525,
         85896347
     ],
+    "wof:brand_id":1125159193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uYVX9ZErIhcYu3uKOR66T_41.585173_-93.802974@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104350,
-    "wof:geomhash":"f7a31b25c037ae4085154d322cf55301",
+    "wof:geomhash":"80d47e1331be8811cabdb9bf9ddd9df1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856826093,
-    "wof:lastmodified":1466483497,
+    "wof:lastmodified":1510694591,
     "wof:name":"Checkmate",
     "wof:parent_id":85896347,
     "wof:placetype":"venue",

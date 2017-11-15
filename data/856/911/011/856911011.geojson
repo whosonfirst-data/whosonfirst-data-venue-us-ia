@@ -2,14 +2,20 @@
   "id": 856911011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 SE Delaware Ave Ankeny IA 50021",
+    "addr:housenumber":"2005",
+    "addr:postcode":"50021",
+    "addr:street":"Se Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581136,41.708838,-93.581136,41.708838",
     "geom:latitude":41.708838,
     "geom:longitude":-93.581136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 SE Delaware Ave",
     "sg:city":"Ankeny",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896319
     ],
+    "wof:brand_id":1125156781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KRxXtyjoe9yWcl7pR1JoQ_41.708838_-93.581136@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108466,
-    "wof:geomhash":"66b5615a5c86165ce4f4818546215e03",
+    "wof:geomhash":"f1c85b91b82e7f7831f342a83fa31dae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856911011,
-    "wof:lastmodified":1466485237,
+    "wof:lastmodified":1510696934,
     "wof:name":"Mattress Outlet",
     "wof:parent_id":85896319,
     "wof:placetype":"venue",

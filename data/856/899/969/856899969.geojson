@@ -2,9 +2,14 @@
   "id": 856899969,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 W Ashland Ave Indianola IA 50125",
+    "addr:housenumber":"215",
+    "addr:postcode":"50125",
+    "addr:street":"W Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.56244,41.361279,-93.56244,41.361279",
     "geom:latitude":41.361279,
     "geom:longitude":-93.56244,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"0b6add355176b9a6b497ccc869e2d277",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856899969
         }
     ],
     "wof:id":856899969,
-    "wof:lastmodified":1466485229,
+    "wof:lastmodified":1491893029,
     "wof:name":"C Charles Collins DDS",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

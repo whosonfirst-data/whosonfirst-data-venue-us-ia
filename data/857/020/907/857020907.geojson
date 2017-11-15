@@ -2,14 +2,20 @@
   "id": 857020907,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Locust St Des Moines IA 50309",
+    "addr:housenumber":"700",
+    "addr:postcode":"50309",
+    "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.627411,41.586312,-93.627411,41.586312",
     "geom:latitude":41.586312,
     "geom:longitude":-93.627411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Locust St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -29,19 +35,37 @@
         "adm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KUGXx0MOVRiZtGbxUVjLu_41.586312_-93.627411@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113225,
-    "wof:geomhash":"44a83fce6233e70d72c916e0b440db3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28f6d60f4a26a19e141177e9f6ac1c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":857020907
+        }
+    ],
     "wof:id":857020907,
-    "wof:lastmodified":1466482549,
+    "wof:lastmodified":1510699351,
     "wof:name":"US Commerce Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

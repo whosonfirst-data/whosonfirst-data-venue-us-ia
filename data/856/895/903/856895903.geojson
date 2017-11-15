@@ -2,14 +2,20 @@
   "id": 856895903,
   "type": "Feature",
   "properties": {
+    "addr:full":"429 5th St Correctionville IA 51016",
+    "addr:housenumber":"429",
+    "addr:postcode":"51016",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.786172,42.474934,-95.786172,42.474934",
     "geom:latitude":42.474934,
     "geom:longitude":-95.786172,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"429 5th St",
     "sg:city":"Correctionville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086309,
         85835267
     ],
+    "wof:brand_id":420575759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PCZN6QGF8CbB4dTyXxNNK_42.474934_-95.786172@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107898,
-    "wof:geomhash":"81cb27a675ca88030ce6082197070cec",
+    "wof:geomhash":"c2932eaf40a9b79cf791a174ffe57903",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856895903,
-    "wof:lastmodified":1466485079,
+    "wof:lastmodified":1510602450,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",

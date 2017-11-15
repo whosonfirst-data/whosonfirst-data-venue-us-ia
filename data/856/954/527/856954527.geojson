@@ -2,9 +2,14 @@
   "id": 856954527,
   "type": "Feature",
   "properties": {
+    "addr:full":"1554 E Grand Ave Des Moines IA 50316",
+    "addr:housenumber":"1554",
+    "addr:postcode":"50316",
+    "addr:street":"E Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.593723,41.594252,-93.593723,41.594252",
     "geom:latitude":41.594252,
     "geom:longitude":-93.593723,
@@ -28,7 +33,14 @@
         "transfer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SXGSCRv8TECksca0ILw1b_41.594252_-93.593723@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464110303,
     "wof:geomhash":"935295b39543759098eccd6cfc585b59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856954527
+        }
+    ],
     "wof:id":856954527,
-    "wof:lastmodified":1466486004,
+    "wof:lastmodified":1491909169,
     "wof:name":"Order Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

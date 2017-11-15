@@ -2,9 +2,14 @@
   "id": 856780925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1180 Hoover St Indianola IA 50125",
+    "addr:housenumber":"1180",
+    "addr:postcode":"50125",
+    "addr:street":"Hoover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580306,41.387726,-93.580306,41.387726",
     "geom:latitude":41.387726,
     "geom:longitude":-93.580306,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"25e50fa5f91b68e55dcf62020b35f2b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856780925
         }
     ],
     "wof:id":856780925,
-    "wof:lastmodified":1466482080,
+    "wof:lastmodified":1491892977,
     "wof:name":"Indianola Waste Water",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

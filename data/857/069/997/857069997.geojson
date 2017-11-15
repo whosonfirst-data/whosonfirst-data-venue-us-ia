@@ -2,14 +2,20 @@
   "id": 857069997,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 16th Ave SW Ste C Cedar Rapids IA 52404",
+    "addr:housenumber":"3200",
+    "addr:postcode":"52404",
+    "addr:street":"16Th Ave Sw Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.713799,41.963299,-91.713799,41.963299",
     "geom:latitude":41.963299,
     "geom:longitude":-91.713799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 16th Ave SW Ste C",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85809971
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gaWTn5jmUDQvwX6nmMOJj_41.963299_-91.713799@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115331,
-    "wof:geomhash":"f2f2a96afec2ff5ca218ae9c9d5134d9",
+    "wof:geomhash":"f930fa7d56d41d12d758abcb9b88ddb2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857069997,
-    "wof:lastmodified":1466484163,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

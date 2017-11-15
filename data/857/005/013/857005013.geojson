@@ -2,6 +2,10 @@
   "id": 857005013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2606 S Concord St Davenport IA 52802",
+    "addr:housenumber":"2606",
+    "addr:postcode":"52802",
+    "addr:street":"S Concord St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857005013,
-    "wof:lastmodified":1466481779,
+    "wof:lastmodified":1472619937,
     "wof:name":"Davenport Waste Water Trtmnt",
     "wof:parent_id":85885349,
     "wof:placetype":"venue",

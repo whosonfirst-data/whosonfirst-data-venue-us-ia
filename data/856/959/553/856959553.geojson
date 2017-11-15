@@ -2,9 +2,14 @@
   "id": 856959553,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 N 5th St Indianola IA 50125",
+    "addr:housenumber":"500",
+    "addr:postcode":"50125",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.554909,41.36398,-93.554909,41.36398",
     "geom:latitude":41.36398,
     "geom:longitude":-93.554909,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"3515f66589033dbdd1ad21db36790f70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856959553
         }
     ],
     "wof:id":856959553,
-    "wof:lastmodified":1466486153,
+    "wof:lastmodified":1491892980,
     "wof:name":"Iowa Donkey & Mule Society",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

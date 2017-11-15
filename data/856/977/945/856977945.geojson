@@ -2,9 +2,14 @@
   "id": 856977945,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 E 16th St Des Moines IA 50316",
+    "addr:housenumber":"220",
+    "addr:postcode":"50316",
+    "addr:street":"E 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.591597,41.590719,-93.591597,41.590719",
     "geom:latitude":41.590719,
     "geom:longitude":-93.591597,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60iDfLLKHJPdrxry6N1QqV_41.590719_-93.591597@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464111354,
     "wof:geomhash":"ba954aca6c1e192a7572f796c5a61c56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856977945
+        }
+    ],
     "wof:id":856977945,
-    "wof:lastmodified":1466486489,
+    "wof:lastmodified":1491909168,
     "wof:name":"Brewer Electech",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

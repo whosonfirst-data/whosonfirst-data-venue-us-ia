@@ -2,9 +2,14 @@
   "id": 856897793,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 E 14th Ave Des Moines IA 50316",
+    "addr:housenumber":"400",
+    "addr:postcode":"50316",
+    "addr:street":"E 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.59674,41.59364,-93.59674,41.59364",
     "geom:latitude":41.59364,
     "geom:longitude":-93.59674,
@@ -32,7 +37,15 @@
         "as"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053,
+        420520267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OGe4vQFH1go0Cfi6sMl4P_41.593640_-93.596740@1294088824"
@@ -40,11 +53,30 @@
     "wof:country":"US",
     "wof:created":1464107973,
     "wof:geomhash":"2bf7cb579ec95488ce05109d1b54eb3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856897793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520267,
+            "region_id":85688713,
+            "venue_id":856897793
+        }
+    ],
     "wof:id":856897793,
-    "wof:lastmodified":1466485116,
+    "wof:lastmodified":1491909175,
     "wof:name":"Div of Financial and Info Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

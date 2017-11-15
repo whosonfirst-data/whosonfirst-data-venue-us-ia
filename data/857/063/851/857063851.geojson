@@ -2,14 +2,20 @@
   "id": 857063851,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 Rue St Council Bluffs IA 51503",
+    "addr:housenumber":"1920",
+    "addr:postcode":"51503",
+    "addr:street":"Rue St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.822197,41.241001,-95.822197,41.241001",
     "geom:latitude":41.241001,
     "geom:longitude":-95.822197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1920 Rue St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":1125157739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jQnfAfwNVyehSujlK05eL_41.241001_-95.822197@1303262802"
     },
     "wof:country":"US",
     "wof:created":1464115057,
-    "wof:geomhash":"74a913579b5f52b33d76974fa3da9a38",
+    "wof:geomhash":"fcbec7c68bae65951f8908b971873beb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857063851,
-    "wof:lastmodified":1466483931,
+    "wof:lastmodified":1510604915,
     "wof:name":"USA Nails",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

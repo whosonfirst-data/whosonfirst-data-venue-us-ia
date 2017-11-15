@@ -2,14 +2,20 @@
   "id": 856821001,
   "type": "Feature",
   "properties": {
+    "addr:full":"4011 Shopper's Blvd Waterloo IA 50701",
+    "addr:housenumber":"4011",
+    "addr:postcode":"50701",
+    "addr:street":"Shopper'S Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.351779,42.456453,-92.351779,42.456453",
     "geom:latitude":42.456453,
     "geom:longitude":-92.351779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4011 Shopper's Blvd",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086513,
         85839671
     ],
+    "wof:brand_id":1125156471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jq6EQI9HrMwq7fnB99Ue5_42.456453_-92.351779@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104152,
-    "wof:geomhash":"71d38bed4f4fa63d3c012304e25a71ea",
+    "wof:geomhash":"3978bc5d39e6562594a518ae30d35361",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856821001,
-    "wof:lastmodified":1466486767,
+    "wof:lastmodified":1510696795,
     "wof:name":"Rex TV & Appliances",
     "wof:parent_id":85839671,
     "wof:placetype":"venue",

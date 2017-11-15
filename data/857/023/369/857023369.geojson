@@ -2,14 +2,20 @@
   "id": 857023369,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 Cherry Ave Woodward IA 50276",
+    "addr:housenumber":"406",
+    "addr:postcode":"50276",
+    "addr:street":"Cherry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.926177,41.854694,-93.926177,41.854694",
     "geom:latitude":41.854694,
     "geom:longitude":-93.926177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"406 Cherry Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125150447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00OaoXkK99PqNw4Bn8UCWb_41.854694_-93.926177@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113327,
-    "wof:geomhash":"09e937f29aa3c19d260c6716ac63b3d4",
+    "wof:geomhash":"3f71a7e791612db294196049c9d899a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857023369,
-    "wof:lastmodified":1466482555,
+    "wof:lastmodified":1510697660,
     "wof:name":"Watkins Products",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857034485,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 35th St Des Moines IA 50312",
+    "addr:housenumber":"535",
+    "addr:postcode":"50312",
+    "addr:street":"35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.664101,41.585669,-93.664101,41.585669",
     "geom:latitude":41.585669,
     "geom:longitude":-93.664101,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3et3EDoyKSi587CimIcKGn_41.585669_-93.664101@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464113851,
     "wof:geomhash":"40801af03df1be9655a00847667f6684",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877097,
+            "region_id":85688713,
+            "venue_id":857034485
+        }
+    ],
     "wof:id":857034485,
-    "wof:lastmodified":1466482973,
+    "wof:lastmodified":1491902170,
     "wof:name":"Grand Stratford Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

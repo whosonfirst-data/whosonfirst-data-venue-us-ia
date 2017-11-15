@@ -2,9 +2,14 @@
   "id": 856941989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 S Union St Des Moines IA 50315",
+    "addr:housenumber":"1701",
+    "addr:postcode":"50315",
+    "addr:street":"S Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.615601,41.574237,-93.615601,41.574237",
     "geom:latitude":41.574237,
     "geom:longitude":-93.615601,
@@ -27,7 +32,15 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        420520861,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GDM0Akv8FKudGr1xLVHMp_41.574237_-93.615601@1294088824"
@@ -35,11 +48,30 @@
     "wof:country":"US",
     "wof:created":1464109762,
     "wof:geomhash":"07307b4e4128577f750f7fad941623fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520861,
+            "region_id":85688713,
+            "venue_id":856941989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856941989
+        }
+    ],
     "wof:id":856941989,
-    "wof:lastmodified":1466485894,
+    "wof:lastmodified":1491903894,
     "wof:name":"South Union Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

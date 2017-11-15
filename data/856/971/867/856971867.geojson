@@ -2,14 +2,20 @@
   "id": 856971867,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 US Hwy 6 Waukee IA 50263",
+    "addr:housenumber":"306",
+    "addr:postcode":"50263",
+    "addr:street":"Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.8722,41.614936,-93.8722,41.614936",
     "geom:latitude":41.614936,
     "geom:longitude":-93.8722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 US Hwy 6",
     "sg:city":"Waukee",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125156639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D9D2A5pJtf9FnRcsnleJ4_41.614936_-93.872200@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111054,
-    "wof:geomhash":"3ec9e8247968bc21cbb7babf4d01b617",
+    "wof:geomhash":"fa73519279308206f4851fed5ac3735a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856971867,
-    "wof:lastmodified":1466486421,
+    "wof:lastmodified":1510697174,
     "wof:name":"Remember When",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

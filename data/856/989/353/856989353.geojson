@@ -2,14 +2,20 @@
   "id": 856989353,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 S Dubuque St Iowa City IA 52240",
+    "addr:housenumber":"17",
+    "addr:postcode":"52240",
+    "addr:street":"S Dubuque St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.533184,41.660309,-91.533184,41.660309",
     "geom:latitude":41.660309,
     "geom:longitude":-91.533184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 S Dubuque St",
     "sg:city":"Iowa City",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086417,
         85896439
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r7Kvr9IEhwE67AQFq2EwK_41.660309_-91.533184@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111935,
-    "wof:geomhash":"ad24840fdd3e239cda9c456cf257d959",
+    "wof:geomhash":"8be3109d83ed6be38b097ce941f00e93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856989353,
-    "wof:lastmodified":1466486570,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":85896439,
     "wof:placetype":"venue",

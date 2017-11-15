@@ -2,14 +2,20 @@
   "id": 857062587,
   "type": "Feature",
   "properties": {
+    "addr:full":"3512 Metro Dr Council Bluffs IA 51501",
+    "addr:housenumber":"",
+    "addr:postcode":"3512;51501",
+    "addr:street":"Metro Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.838244,41.223125,-95.838244,41.223125",
     "geom:latitude":41.223125,
     "geom:longitude":-95.838244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3512 Metro Dr",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63rH7JTxzHpzBO766toI6z_41.223125_-95.838244@1303262801"
     },
     "wof:country":"US",
     "wof:created":1464115008,
-    "wof:geomhash":"0b5b38f1439cae362624fc3e2455f1c8",
+    "wof:geomhash":"491aea941fa7629844f62cf9327e1e1d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857062587,
-    "wof:lastmodified":1466483813,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

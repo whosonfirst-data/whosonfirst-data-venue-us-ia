@@ -2,9 +2,14 @@
   "id": 857012287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 Keosauqua Way Des Moines IA 50309",
+    "addr:housenumber":"1107",
+    "addr:postcode":"50309",
+    "addr:street":"Keosauqua Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.631351,41.592219,-93.631351,41.592219",
     "geom:latitude":41.592219,
     "geom:longitude":-93.631351,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.greyhound.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        420520345,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WzSXTYf1dr8poRyHaoKsB_41.592219_-93.631351@1294088824"
@@ -37,11 +50,30 @@
     "wof:country":"US",
     "wof:created":1464112872,
     "wof:geomhash":"f2b5ef8096db0f64121b964a4ea0cfb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520345,
+            "region_id":85688713,
+            "venue_id":857012287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":857012287
+        }
+    ],
     "wof:id":857012287,
-    "wof:lastmodified":1466482143,
+    "wof:lastmodified":1491924311,
     "wof:name":"Greyhound Bus Lines",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

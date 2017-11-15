@@ -2,14 +2,20 @@
   "id": 857069623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1073 Rockford Rd SW Cedar Rapids IA 52403",
+    "addr:housenumber":"1073",
+    "addr:postcode":"52403",
+    "addr:street":"Rockford Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.690218,41.962902,-91.690218,41.962902",
     "geom:latitude":41.962902,
     "geom:longitude":-91.690218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1073 Rockford Rd SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -47,13 +53,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125151949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZzPsQzhrZ6MHLh94hN7JW_41.962902_-91.690218@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115309,
-    "wof:geomhash":"2cd5893e01260d192e43f9cbe4a8c6bf",
+    "wof:geomhash":"fc4186991ea0b645bd049b801031cbf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":857069623,
-    "wof:lastmodified":1466484088,
+    "wof:lastmodified":1510698675,
     "wof:name":"JK Harris & Company",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856858289,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 New York Ave Des Moines IA 50313",
+    "addr:housenumber":"303",
+    "addr:postcode":"50313",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856858289,
-    "wof:lastmodified":1466484351,
+    "wof:lastmodified":1472620183,
     "wof:name":"Mercy Properties",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

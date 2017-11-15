@@ -2,9 +2,14 @@
   "id": 856833683,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 W Boston Ave Indianola IA 50125",
+    "addr:housenumber":"109",
+    "addr:postcode":"50125",
+    "addr:street":"W Boston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.561007,41.362282,-93.561007,41.362282",
     "geom:latitude":41.362282,
     "geom:longitude":-93.561007,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"8ba771cd6da85d128855d9e42d46a6a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856833683
         }
     ],
     "wof:id":856833683,
-    "wof:lastmodified":1466483820,
+    "wof:lastmodified":1491893043,
     "wof:name":"Indianola Friends Church",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857063063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Veterans Memorial Hwy Council Bluffs IA 51501",
+    "addr:housenumber":"1030",
+    "addr:postcode":"51501",
+    "addr:street":"Veterans Memorial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.859513,41.219598,-95.859513,41.219598",
     "geom:latitude":41.219598,
     "geom:longitude":-95.859513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1030 Veterans Memorial Hwy",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48aFQfiq1Ac7paLCwFshmA_41.219598_-95.859513@1303262801"
     },
     "wof:country":"US",
     "wof:created":1464115024,
-    "wof:geomhash":"1df212b6bfe818417ae90d8c8f0652e0",
+    "wof:geomhash":"9db038fc54fa8d8282d0d18160cdf2aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857063063,
-    "wof:lastmodified":1466483774,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

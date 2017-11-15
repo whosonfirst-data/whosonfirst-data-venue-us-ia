@@ -2,14 +2,20 @@
   "id": 856918835,
   "type": "Feature",
   "properties": {
+    "addr:full":"5610 Enterprise Dr Grimes IA 50111",
+    "addr:housenumber":"5610",
+    "addr:postcode":"50111",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.782614,41.662216,-93.782614,41.662216",
     "geom:latitude":41.662216,
     "geom:longitude":-93.782614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5610 Enterprise Dr",
     "sg:city":"Grimes",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896483
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yYHp3ZXthZxeo8IqOt9gq_41.662216_-93.782614@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108765,
-    "wof:geomhash":"8465f6640af35ca813e87f9eec67c2dc",
+    "wof:geomhash":"3d9a0353c771920a9092170d75aeca63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856918835,
-    "wof:lastmodified":1466485462,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85896483,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856836721,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 27th Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"1150",
+    "addr:postcode":"52404",
+    "addr:street":"27Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.686051,41.951286,-91.686051,41.951286",
     "geom:latitude":41.951286,
     "geom:longitude":-91.686051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1150 27th Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125153323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kkxsC2ZsruXgoemkm7VlL_41.951286_-91.686051@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104857,
-    "wof:geomhash":"29b8f6c027b729a9b702f10b2801dc7f",
+    "wof:geomhash":"c1f2b0e30134c85beab9c248003954ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856836721,
-    "wof:lastmodified":1466483838,
+    "wof:lastmodified":1510693791,
     "wof:name":"Nabisco",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

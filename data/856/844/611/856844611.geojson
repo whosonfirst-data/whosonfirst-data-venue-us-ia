@@ -2,14 +2,20 @@
   "id": 856844611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 3rd St Perry IA 50220",
+    "addr:housenumber":"1312",
+    "addr:postcode":"50220",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.103733,41.841448,-94.103733,41.841448",
     "geom:latitude":41.841448,
     "geom:longitude":-94.103733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1312 3rd St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125159375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58flE7RZb8MIJmZZ4oYlu7_41.841448_-94.103733@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105213,
-    "wof:geomhash":"d1254666bb50113e3e8bdff56fb6a0d3",
+    "wof:geomhash":"881d879680c05f2952091e098aceef9e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856844611,
-    "wof:lastmodified":1466484197,
+    "wof:lastmodified":1510695815,
     "wof:name":"St Patrick's Catholic Church",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

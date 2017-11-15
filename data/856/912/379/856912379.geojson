@@ -2,14 +2,20 @@
   "id": 856912379,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 4th Ave SE Cedar Rapids IA 52401",
+    "addr:housenumber":"215",
+    "addr:postcode":"52401",
+    "addr:street":"4Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.665021,41.976675,-91.665021,41.976675",
     "geom:latitude":41.976675,
     "geom:longitude":-91.665021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 4th Ave SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85876619
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NbbLQ228u8bfb4LDKsSgj_41.976675_-91.665021@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108518,
-    "wof:geomhash":"e6866d8df3cd113d3e64b571200e47ab",
+    "wof:geomhash":"305d9100832cd7c9a4ca139bd6a44b29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856912379,
-    "wof:lastmodified":1466485357,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",

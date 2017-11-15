@@ -2,9 +2,14 @@
   "id": 856788931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 Main St Norwalk IA 50211",
+    "addr:housenumber":"1016",
+    "addr:postcode":"50211",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.678737,41.476295,-93.678737,41.476295",
     "geom:latitude":41.476295,
     "geom:longitude":-93.678737,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"c595bd2c0bd996837c0a844d6145368e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856788931
         }
     ],
     "wof:id":856788931,
-    "wof:lastmodified":1466482274,
+    "wof:lastmodified":1491892993,
     "wof:name":"Haskin Chiropractic Clinic",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

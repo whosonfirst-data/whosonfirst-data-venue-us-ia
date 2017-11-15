@@ -2,9 +2,14 @@
   "id": 857001237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1433 E 14th St Des Moines IA 50316",
+    "addr:housenumber":"1433",
+    "addr:postcode":"50316",
+    "addr:street":"E 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.600461,41.607294,-93.600461,41.607294",
     "geom:latitude":41.607294,
     "geom:longitude":-93.600461,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2237wshP43gjcl0QrBWVnG_41.607294_-93.600461@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464112410,
     "wof:geomhash":"330e48f38b60fb41f71ed4dc9f77ccc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":857001237
+        }
+    ],
     "wof:id":857001237,
-    "wof:lastmodified":1466481824,
+    "wof:lastmodified":1491919024,
     "wof:name":"Hawkeye Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 856915671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Industrial Ave Hiawatha IA 52233",
+    "addr:housenumber":"1220",
+    "addr:postcode":"52233",
+    "addr:street":"Industrial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.680052,42.050289,-91.680052,42.050289",
     "geom:latitude":42.050289,
     "geom:longitude":-91.680052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1220 Industrial Ave",
     "sg:city":"Hiawatha",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":1125152051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tqd3t8nXlO0EkUxRVHSFZ_42.050289_-91.680052@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108646,
-    "wof:geomhash":"44c52ee1cf1f8b8670e6fda23131a95c",
+    "wof:geomhash":"d226453f11a16b11b7b9ce46d40ba888",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856915671,
-    "wof:lastmodified":1466485424,
+    "wof:lastmodified":1510697077,
     "wof:name":"Manpower Inc",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

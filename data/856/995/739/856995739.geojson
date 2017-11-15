@@ -2,9 +2,14 @@
   "id": 856995739,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 33rd St Des Moines IA 50311",
+    "addr:housenumber":"1523",
+    "addr:postcode":"50311",
+    "addr:street":"33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.662079,41.607025,-93.662079,41.607025",
     "geom:latitude":41.607025,
     "geom:longitude":-93.662079,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877067
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62AZFKZDzcJlUSCcFNk3QM_41.607025_-93.662079@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464112202,
     "wof:geomhash":"d2b5aa2a91d953da1eaeb0ed59fa6864",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877067,
+            "region_id":85688713,
+            "venue_id":856995739
+        }
+    ],
     "wof:id":856995739,
-    "wof:lastmodified":1466486810,
+    "wof:lastmodified":1491930859,
     "wof:name":"Helping Hands",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

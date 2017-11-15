@@ -2,9 +2,14 @@
   "id": 856809827,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 4th St Des Moines IA 50309",
+    "addr:housenumber":"200",
+    "addr:postcode":"50309",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.622155,41.586408,-93.622155,41.586408",
     "geom:latitude":41.586408,
     "geom:longitude":-93.622155,
@@ -27,7 +32,14 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EckKLyDZE3Aiw1C3CdiOR_41.586408_-93.622155@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464103629,
     "wof:geomhash":"b06f2b56fc07888ecd01d3b13736ced2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877065,
+            "region_id":85688713,
+            "venue_id":856809827
+        }
+    ],
     "wof:id":856809827,
-    "wof:lastmodified":1466483041,
+    "wof:lastmodified":1491886374,
     "wof:name":"Iowa Bail Bonds",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

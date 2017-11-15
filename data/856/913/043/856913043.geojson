@@ -2,9 +2,14 @@
   "id": 856913043,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 S 5th St Milo IA 50166",
+    "addr:housenumber":"316",
+    "addr:postcode":"50166",
+    "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.444892,41.28555,-93.444892,41.28555",
     "geom:latitude":41.28555,
     "geom:longitude":-93.444892,
@@ -27,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +47,17 @@
     "wof:geomhash":"46d5f984d75e2a42d0fa14cc02e6ba05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856913043
         }
     ],
     "wof:id":856913043,
-    "wof:lastmodified":1466485295,
+    "wof:lastmodified":1491893053,
     "wof:name":"Milo Elementary School",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

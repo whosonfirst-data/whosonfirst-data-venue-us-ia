@@ -2,14 +2,20 @@
   "id": 856923483,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 36th Ave SW Altoona IA 50009",
+    "addr:housenumber":"370",
+    "addr:postcode":"50009",
+    "addr:street":"36Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.5077,41.647684,-93.5077,41.647684",
     "geom:latitude":41.647684,
     "geom:longitude":-93.5077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"370 36th Ave SW",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896311
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CJEfaNMzswQxLZ5pxo4ki_41.647684_-93.507700@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108983,
-    "wof:geomhash":"2db326d3a8bebe0c856830301d2cc00f",
+    "wof:geomhash":"cd3ed1219fe379b0af021c701fea6601",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856923483,
-    "wof:lastmodified":1466485535,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85896311,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857041399,
   "type": "Feature",
   "properties": {
+    "addr:full":"3529 Alice Rd Toddville IA 52341",
+    "addr:housenumber":"3529",
+    "addr:postcode":"52341",
+    "addr:street":"Alice Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":857041399,
-    "wof:lastmodified":1466483104,
+    "wof:lastmodified":1472620081,
     "wof:name":"Gary Kaufman",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

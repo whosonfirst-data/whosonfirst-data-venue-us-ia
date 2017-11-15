@@ -2,9 +2,14 @@
   "id": 857015535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1139 24th St Des Moines IA 50311",
+    "addr:housenumber":"1139",
+    "addr:postcode":"50311",
+    "addr:street":"24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64963,41.599498,-93.64963,41.599498",
     "geom:latitude":41.599498,
     "geom:longitude":-93.64963,
@@ -27,7 +32,14 @@
         "windows"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4B3xnYk0ebUwPi2DRvIRqi_41.599498_-93.649630@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464113008,
     "wof:geomhash":"060d7a267bd5036f6d5ee0e8609e9b62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":857015535
+        }
+    ],
     "wof:id":857015535,
-    "wof:lastmodified":1466482328,
+    "wof:lastmodified":1491937968,
     "wof:name":"Ballard's Glass & Screen Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

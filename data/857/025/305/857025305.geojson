@@ -2,6 +2,10 @@
   "id": 857025305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Lewis Blvd Sioux City IA 51105",
+    "addr:housenumber":"1321",
+    "addr:postcode":"51105",
+    "addr:street":"Lewis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857025305,
-    "wof:lastmodified":1466482549,
+    "wof:lastmodified":1472619991,
     "wof:name":"ADM Growmark",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

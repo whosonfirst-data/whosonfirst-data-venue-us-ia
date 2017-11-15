@@ -2,9 +2,14 @@
   "id": 856828635,
   "type": "Feature",
   "properties": {
+    "addr:full":"3621 Ingersoll Ave Des Moines IA 50312",
+    "addr:housenumber":"3621",
+    "addr:postcode":"50312",
+    "addr:street":"Ingersoll Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.66657,41.586399,-93.66657,41.586399",
     "geom:latitude":41.586399,
     "geom:longitude":-93.66657,
@@ -27,7 +32,14 @@
         "tailor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yHY3xW9AFHNrU9WlsE1WE_41.586399_-93.666570@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464104456,
     "wof:geomhash":"4965366e355b7912d2dce08e3ef492b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877097,
+            "region_id":85688713,
+            "venue_id":856828635
+        }
+    ],
     "wof:id":856828635,
-    "wof:lastmodified":1466483615,
+    "wof:lastmodified":1491902169,
     "wof:name":"Andreano's Tailoring",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

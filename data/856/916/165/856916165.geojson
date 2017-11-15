@@ -2,6 +2,10 @@
   "id": 856916165,
   "type": "Feature",
   "properties": {
+    "addr:full":"9001 Boston Ave Urbandale IA 50322",
+    "addr:housenumber":"9001",
+    "addr:postcode":"50322",
+    "addr:street":"Boston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856916165,
-    "wof:lastmodified":1466485322,
+    "wof:lastmodified":1472620326,
     "wof:name":"K V Inc",
     "wof:parent_id":85896509,
     "wof:placetype":"venue",

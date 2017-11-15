@@ -2,9 +2,14 @@
   "id": 856934185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3814 Douglas Ave Des Moines IA 50310",
+    "addr:housenumber":"3814",
+    "addr:postcode":"50310",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.669485,41.629446,-93.669485,41.629446",
     "geom:latitude":41.629446,
     "geom:longitude":-93.669485,
@@ -24,7 +29,14 @@
     "sg:postcode":"50310",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cthjv9NZTYl2JTx0u75jz_41.629446_-93.669485@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464109397,
     "wof:geomhash":"26da96313b399b978e45a27e183878a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856934185
+        }
+    ],
     "wof:id":856934185,
-    "wof:lastmodified":1466485614,
+    "wof:lastmodified":1491920770,
     "wof:name":"Vicky's Salon Hair & Nail Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

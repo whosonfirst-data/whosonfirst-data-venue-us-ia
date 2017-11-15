@@ -2,14 +2,20 @@
   "id": 856803809,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 33rd Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"820",
+    "addr:postcode":"52404",
+    "addr:street":"33Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.682961,41.943229,-91.682961,41.943229",
     "geom:latitude":41.943229,
     "geom:longitude":-91.682961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"820 33rd Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Zav8BHQdv3j9E5T43NOym_41.943229_-91.682961@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103352,
-    "wof:geomhash":"0cef53c699f215c46e3f36e17e8dd411",
+    "wof:geomhash":"7d2a1ced9db11d111de045c864c45fda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856803809,
-    "wof:lastmodified":1466482837,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

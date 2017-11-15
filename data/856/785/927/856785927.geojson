@@ -2,9 +2,14 @@
   "id": 856785927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Walnut St Des Moines IA 50309",
+    "addr:housenumber":"1000",
+    "addr:postcode":"50309",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.630744,41.584609,-93.630744,41.584609",
     "geom:latitude":41.584609,
     "geom:longitude":-93.630744,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.hotelfortdesmoines.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c78evloW1hPdfP5C3Yane_41.584609_-93.630744@1294088824"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1464102610,
     "wof:geomhash":"a4a9b30270f540aac42274023a8e2dca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856785927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856785927
+        }
+    ],
     "wof:id":856785927,
-    "wof:lastmodified":1466482260,
+    "wof:lastmodified":1491903899,
     "wof:name":"Forty Three Restaurant and Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

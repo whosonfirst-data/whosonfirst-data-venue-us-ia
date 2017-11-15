@@ -2,14 +2,20 @@
   "id": 856800193,
   "type": "Feature",
   "properties": {
+    "addr:full":"640 63rd Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"640",
+    "addr:postcode":"52404",
+    "addr:street":"63Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.677646,41.918058,-91.677646,41.918058",
     "geom:latitude":41.918058,
     "geom:longitude":-91.677646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"640 63rd Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85828809
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HIA3HJyO88YF5txNHYBdn_41.918058_-91.677646@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103204,
-    "wof:geomhash":"cf90a90e41a82538362a4f882218de3c",
+    "wof:geomhash":"34fd3cb493d5c0d9f692e94091418db3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856800193,
-    "wof:lastmodified":1466482525,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85828809,
     "wof:placetype":"venue",

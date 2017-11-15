@@ -2,14 +2,20 @@
   "id": 856787367,
   "type": "Feature",
   "properties": {
+    "addr:full":"713 1st Ave S Mt Vernon IA 52314",
+    "addr:housenumber":"713",
+    "addr:postcode":"52314",
+    "addr:street":"1St Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.421471,41.917621,-91.421471,41.917621",
     "geom:latitude":41.917621,
     "geom:longitude":-91.421471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"713 1st Ave S",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086551,
         85839927
     ],
+    "wof:brand_id":1125157625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fdm8iBQRcPOsdmLeIWX5z_41.917621_-91.421471@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102675,
-    "wof:geomhash":"25e274fc36a6ee305c3c89101571d598",
+    "wof:geomhash":"e99ce67a42522e392f1cdaedd2158444",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856787367,
-    "wof:lastmodified":1466482156,
+    "wof:lastmodified":1510694694,
     "wof:name":"Hair Solutions",
     "wof:parent_id":85839927,
     "wof:placetype":"venue",

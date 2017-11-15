@@ -2,6 +2,10 @@
   "id": 856980695,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Clark St Des Moines IA 50314",
+    "addr:housenumber":"111",
+    "addr:postcode":"50314",
+    "addr:street":"Clark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856980695,
-    "wof:lastmodified":1466486458,
+    "wof:lastmodified":1472620463,
     "wof:name":"A C Murphy Heating Cooling",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

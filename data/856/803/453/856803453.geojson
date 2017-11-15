@@ -2,14 +2,20 @@
   "id": 856803453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1351 60th St NE Cedar Rapids IA 52402",
+    "addr:housenumber":"1351",
+    "addr:postcode":"52402",
+    "addr:street":"60Th St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.656765,42.038049,-91.656765,42.038049",
     "geom:latitude":42.038049,
     "geom:longitude":-91.656765,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1351 60th St NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20VPbXxthBEVTwg46zebxb_42.038049_-91.656765@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103340,
-    "wof:geomhash":"cbf4587c78836831cc213b6152dab3ee",
+    "wof:geomhash":"ed5d31408e67f02d08ff4a3b9fce43d3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856803453,
-    "wof:lastmodified":1466482765,
+    "wof:lastmodified":1510695201,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

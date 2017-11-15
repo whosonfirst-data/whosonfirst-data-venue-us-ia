@@ -2,14 +2,20 @@
   "id": 856884135,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 University Ave Des Moines IA 50314",
+    "addr:housenumber":"89",
+    "addr:postcode":"50314",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.61822,41.600389,-93.61822,41.600389",
     "geom:latitude":41.600389,
     "geom:longitude":-93.61822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"89 University Ave",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896413
     ],
+    "wof:brand_id":1125157687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xVvXsgGcxwptxNKq4fZV6_41.600389_-93.618220@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107433,
-    "wof:geomhash":"f88f93286f58c7e2b9136ebe0724efa1",
+    "wof:geomhash":"d96d04ad1c920add1b56423d2b3d5235",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856884135,
-    "wof:lastmodified":1466484738,
+    "wof:lastmodified":1510699514,
     "wof:name":"Novus Auto Glass Repair",
     "wof:parent_id":85896413,
     "wof:placetype":"venue",

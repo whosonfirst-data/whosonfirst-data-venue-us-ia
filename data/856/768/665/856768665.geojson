@@ -2,14 +2,20 @@
   "id": 856768665,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 4th St Sioux City IA 51101",
+    "addr:housenumber":"523",
+    "addr:postcode":"51101",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.40446,42.494212,-96.40446,42.494212",
     "geom:latitude":42.494212,
     "geom:longitude":-96.40446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"523 4th St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086309,
         85850679
     ],
+    "wof:brand_id":420574963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z1OCVruLE5QenWDHFSIGX_42.494212_-96.404460@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102174,
-    "wof:geomhash":"f018e1c599ff4b448693af61b178d795",
+    "wof:geomhash":"ff16deb63ec53751a782e6ed0e969049",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856768665,
-    "wof:lastmodified":1466481846,
+    "wof:lastmodified":1510604160,
     "wof:name":"Wells Fargo Financial Accptnce",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857041903,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 S 2nd St Carlisle IA 50047",
+    "addr:housenumber":"550",
+    "addr:postcode":"50047",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.488197,41.494301,-93.488197,41.494301",
     "geom:latitude":41.494301,
     "geom:longitude":-93.488197,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"8290e534ab314842edec4bbf3e244087",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857041903
         }
     ],
     "wof:id":857041903,
-    "wof:lastmodified":1466483204,
+    "wof:lastmodified":1491893058,
     "wof:name":"Carlisle Veterinary Clinic",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

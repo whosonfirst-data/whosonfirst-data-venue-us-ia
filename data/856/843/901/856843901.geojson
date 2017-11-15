@@ -2,14 +2,20 @@
   "id": 856843901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 E Army Post Rd Des Moines IA 50315",
+    "addr:housenumber":"1300",
+    "addr:postcode":"50315",
+    "addr:street":"E Army Post Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.598677,41.526404,-93.598677,41.526404",
     "geom:latitude":41.526404,
     "geom:longitude":-93.598677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 E Army Post Rd",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896421
     ],
+    "wof:brand_id":420575789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07E2jNJYn55g1HVf2goGTV_41.526404_-93.598677@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105167,
-    "wof:geomhash":"8db33b5a170a230596347ac2f5c1a30c",
+    "wof:geomhash":"1df68d15d43161e55389765958cf1ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856843901,
-    "wof:lastmodified":1466484153,
+    "wof:lastmodified":1510602089,
     "wof:name":"Catherines Plus Sizes",
     "wof:parent_id":85896421,
     "wof:placetype":"venue",

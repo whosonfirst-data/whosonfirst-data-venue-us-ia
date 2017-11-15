@@ -2,9 +2,14 @@
   "id": 856969361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2822 E 29th St Des Moines IA 50317",
+    "addr:housenumber":"2822",
+    "addr:postcode":"50317",
+    "addr:street":"E 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.561333,41.621127,-93.561333,41.621127",
     "geom:latitude":41.621127,
     "geom:longitude":-93.561333,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AeK6lETbZSNVJDdnfRPDg_41.621127_-93.561333@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464110939,
     "wof:geomhash":"dbf2256bd48d19af8ae88b4cc36db4df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856969361
+        }
+    ],
     "wof:id":856969361,
-    "wof:lastmodified":1466486241,
+    "wof:lastmodified":1491905909,
     "wof:name":"Fuller Associates Family Dent",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

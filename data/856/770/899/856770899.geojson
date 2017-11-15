@@ -2,9 +2,14 @@
   "id": 856770899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2724 46th St Des Moines IA 50310",
+    "addr:housenumber":"2724",
+    "addr:postcode":"50310",
+    "addr:street":"46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.680453,41.61966,-93.680453,41.61966",
     "geom:latitude":41.61966,
     "geom:longitude":-93.680453,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s9U6qY8dWNhPJAzvXqdqJ_41.619660_-93.680453@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464102227,
     "wof:geomhash":"e325482aeb38ce8520d238b7a71a21f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856770899
+        }
+    ],
     "wof:id":856770899,
-    "wof:lastmodified":1466481870,
+    "wof:lastmodified":1491920761,
     "wof:name":"Lowe & Company Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

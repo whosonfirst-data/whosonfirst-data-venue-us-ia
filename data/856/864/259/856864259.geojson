@@ -2,9 +2,14 @@
   "id": 856864259,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 SE 14th St Des Moines IA 50317",
+    "addr:housenumber":"1",
+    "addr:postcode":"50317",
+    "addr:street":"Se 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.596899,41.586917,-93.596899,41.586917",
     "geom:latitude":41.586917,
     "geom:longitude":-93.596899,
@@ -28,7 +33,15 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85896389,
+        420520267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22ef37IbMfp1gRVHO7ULlO_41.586917_-93.596899@1294088824"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1464106167,
     "wof:geomhash":"c2e2890d24096cecc9c350d995371ed6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85896389,
+            "region_id":85688713,
+            "venue_id":856864259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520267,
+            "region_id":85688713,
+            "venue_id":856864259
+        }
+    ],
     "wof:id":856864259,
-    "wof:lastmodified":1466484526,
+    "wof:lastmodified":1491911712,
     "wof:name":"Mobile Auto Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

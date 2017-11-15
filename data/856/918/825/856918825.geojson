@@ -2,6 +2,10 @@
   "id": 856918825,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 S Dubuque St Iowa City IA 52240",
+    "addr:housenumber":"130",
+    "addr:postcode":"52240",
+    "addr:street":"S Dubuque St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856918825,
-    "wof:lastmodified":1466485460,
+    "wof:lastmodified":1472620363,
     "wof:name":"FIT Zone",
     "wof:parent_id":85896439,
     "wof:placetype":"venue",

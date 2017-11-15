@@ -2,9 +2,14 @@
   "id": 856935667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Buchanan St Des Moines IA 50316",
+    "addr:housenumber":"1300",
+    "addr:postcode":"50316",
+    "addr:street":"Buchanan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.599873,41.59867,-93.599873,41.59867",
     "geom:latitude":41.59867,
     "geom:longitude":-93.599873,
@@ -24,7 +29,14 @@
     "sg:postcode":"50316",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YLh9jKVwOmOLywYk6dCKu_41.598670_-93.599873@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464109464,
     "wof:geomhash":"27c400586c1ada0c76577c973511cef9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":856935667
+        }
+    ],
     "wof:id":856935667,
-    "wof:lastmodified":1466485773,
+    "wof:lastmodified":1491919027,
     "wof:name":"Asian Church Of The Open Bible",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

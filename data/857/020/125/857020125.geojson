@@ -2,6 +2,10 @@
   "id": 857020125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 Pleasant St Des Moines IA 50309",
+    "addr:housenumber":"1212",
+    "addr:postcode":"50309",
+    "addr:street":"Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857020125,
-    "wof:lastmodified":1466482392,
+    "wof:lastmodified":1472619969,
     "wof:name":"Associated Opthalmologists",
     "wof:parent_id":85877105,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856784437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 22nd St West Des Moines IA 50266",
+    "addr:housenumber":"1701",
+    "addr:postcode":"50266",
+    "addr:street":"22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.735995,41.596987,-93.735995,41.596987",
     "geom:latitude":41.596987,
     "geom:longitude":-93.735995,
@@ -28,7 +33,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896355,
+        420520547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MX9SwBbF0OcWFq2O28Y18_41.596987_-93.735995@1294088824"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1464102542,
     "wof:geomhash":"6b982902e8bf0ba3c6e9a1e66f43cc28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856784437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":420520547,
+            "region_id":85688713,
+            "venue_id":856784437
+        }
+    ],
     "wof:id":856784437,
-    "wof:lastmodified":1466482109,
+    "wof:lastmodified":1491899794,
     "wof:name":"Barazanji Family Medical Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

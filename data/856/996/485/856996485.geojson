@@ -2,14 +2,20 @@
   "id": 856996485,
   "type": "Feature",
   "properties": {
+    "addr:full":"5340 NW Beaver Dr Johnston IA 50131",
+    "addr:housenumber":"5340",
+    "addr:postcode":"50131",
+    "addr:street":"Nw Beaver Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.682937,41.654377,-93.682937,41.654377",
     "geom:latitude":41.654377,
     "geom:longitude":-93.682937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5340 NW Beaver Dr",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896485
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cyA7MK4ZnfF9XkOzj5AKk_41.654377_-93.682937@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112242,
-    "wof:geomhash":"852efc189d7d8682b30b8ba482e98761",
+    "wof:geomhash":"5a78587160fc287732aaacc982c86c42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856996485,
-    "wof:lastmodified":1466486804,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85896485,
     "wof:placetype":"venue",

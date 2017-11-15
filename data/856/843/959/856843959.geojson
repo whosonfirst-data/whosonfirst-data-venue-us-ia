@@ -2,9 +2,14 @@
   "id": 856843959,
   "type": "Feature",
   "properties": {
+    "addr:full":"2018 E Walnut St Des Moines IA 50317",
+    "addr:housenumber":"2018",
+    "addr:postcode":"50317",
+    "addr:street":"E Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.582423,41.593398,-93.582423,41.593398",
     "geom:latitude":41.593398,
     "geom:longitude":-93.582423,
@@ -28,7 +33,14 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M98cN5AzvCtDBwIk99HiR_41.593398_-93.582423@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464105170,
     "wof:geomhash":"204415e9df311072adb34609babbb5ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856843959
+        }
+    ],
     "wof:id":856843959,
-    "wof:lastmodified":1466484165,
+    "wof:lastmodified":1491909174,
     "wof:name":"Dels Machining",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 856902217,
   "type": "Feature",
   "properties": {
+    "addr:full":"3024 Roblang Ct Des Moines IA 50317",
+    "addr:housenumber":"3024",
+    "addr:postcode":"50317",
+    "addr:street":"Roblang Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.559299,41.623888,-93.559299,41.623888",
     "geom:latitude":41.623888,
     "geom:longitude":-93.559299,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LqB1BMCe5kkAYbhKnkYve_41.623888_-93.559299@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464108132,
     "wof:geomhash":"f98870286a2983b23a3609b8be18b8a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856902217
+        }
+    ],
     "wof:id":856902217,
-    "wof:lastmodified":1466485130,
+    "wof:lastmodified":1491905913,
     "wof:name":"Raccoon Road Gang",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

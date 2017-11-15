@@ -2,9 +2,14 @@
   "id": 856883329,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Walnut St Des Moines IA 50309",
+    "addr:housenumber":"221",
+    "addr:postcode":"50309",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.620767,41.586792,-93.620767,41.586792",
     "geom:latitude":41.586792,
     "geom:longitude":-93.620767,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.civiccenter.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49qA4l9UQaN64ajD7Towim_41.586792_-93.620767@1294088824"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1464107375,
     "wof:geomhash":"8068f6ced66afc115cd33eae7ee99eb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877065,
+            "region_id":85688713,
+            "venue_id":856883329
+        }
+    ],
     "wof:id":856883329,
-    "wof:lastmodified":1466484764,
+    "wof:lastmodified":1491886372,
     "wof:name":"Civic Center-Greater Des Mns",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

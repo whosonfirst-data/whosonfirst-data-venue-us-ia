@@ -2,14 +2,20 @@
   "id": 857045017,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Pearl St Council Bluffs IA 51503",
+    "addr:housenumber":"30",
+    "addr:postcode":"51503",
+    "addr:street":"Pearl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.850601,41.260502,-95.850601,41.260502",
     "geom:latitude":41.260502,
     "geom:longitude":-95.850601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Pearl St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082789,
         85816645
     ],
+    "wof:brand_id":1125159393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3guB1UIbbQx1cFRKkOV5QE_41.259940_-95.850712@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464114271,
-    "wof:geomhash":"0f3842ba5186c7ea4de0aa527b4b961a",
+    "wof:geomhash":"6fe542453daccc64903ae4d4555c6a2b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857045017,
-    "wof:lastmodified":1466483093,
+    "wof:lastmodified":1510604926,
     "wof:name":"Taste of China",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

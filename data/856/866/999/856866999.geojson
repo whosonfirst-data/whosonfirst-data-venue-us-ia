@@ -2,9 +2,14 @@
   "id": 856866999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Easton Blvd Des Moines IA 50316",
+    "addr:housenumber":"1901",
+    "addr:postcode":"50316",
+    "addr:street":"Easton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.58343,41.602941,-93.58343,41.602941",
     "geom:latitude":41.602941,
     "geom:longitude":-93.58343,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        420520217,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VFfdcuL3k2Lg9SoEAfwP2_41.602941_-93.583430@1294088824"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1464106314,
     "wof:geomhash":"7ad620a2d5ddeb59fd32a54cb511f7bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520217,
+            "region_id":85688713,
+            "venue_id":856866999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856866999
+        }
+    ],
     "wof:id":856866999,
-    "wof:lastmodified":1466484686,
+    "wof:lastmodified":1491909174,
     "wof:name":"RJS & Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

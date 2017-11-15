@@ -2,9 +2,14 @@
   "id": 856935591,
   "type": "Feature",
   "properties": {
+    "addr:full":"3621 Beaver Ave Des Moines IA 50310",
+    "addr:housenumber":"3621",
+    "addr:postcode":"50310",
+    "addr:street":"Beaver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.677206,41.627965,-93.677206,41.627965",
     "geom:latitude":41.627965,
     "geom:longitude":-93.677206,
@@ -27,7 +32,14 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7akXl8QpcKnds82ZvRyGs8_41.627965_-93.677206@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109461,
     "wof:geomhash":"73c48170f095fb88e7ae074bc487057b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856935591
+        }
+    ],
     "wof:id":856935591,
-    "wof:lastmodified":1466485758,
+    "wof:lastmodified":1491920769,
     "wof:name":"Tanning Zone",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

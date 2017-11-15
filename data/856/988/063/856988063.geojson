@@ -2,6 +2,10 @@
   "id": 856988063,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 E San Marnan Dr Waterloo IA 50702",
+    "addr:housenumber":"215",
+    "addr:postcode":"50702",
+    "addr:street":"E;Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":856988063,
-    "wof:lastmodified":1466486511,
+    "wof:lastmodified":1472620468,
     "wof:name":"Hertz Appraisal Svc",
     "wof:parent_id":85839671,
     "wof:placetype":"venue",

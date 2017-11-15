@@ -2,9 +2,14 @@
   "id": 857025059,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Sunset Dr Norwalk IA 50211",
+    "addr:housenumber":"1010",
+    "addr:postcode":"50211",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.680105,41.47768,-93.680105,41.47768",
     "geom:latitude":41.47768,
     "geom:longitude":-93.680105,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"9773ab9742ad1778dfe7a05c5551c0c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857025059
         }
     ],
     "wof:id":857025059,
-    "wof:lastmodified":1466482500,
+    "wof:lastmodified":1491893057,
     "wof:name":"Veryls Auto Repair Inc",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

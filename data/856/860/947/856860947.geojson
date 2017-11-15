@@ -2,14 +2,20 @@
   "id": 856860947,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 S 2nd St Milo IA 50166",
+    "addr:housenumber":"204",
+    "addr:postcode":"50166",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.439608,41.285299,-93.439608,41.285299",
     "geom:latitude":41.285299,
     "geom:longitude":-93.439608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 S 2nd St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -29,28 +35,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OQL8ePRDJDngFq17NO0BZ_41.285299_-93.439608@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106035,
-    "wof:geomhash":"515272e6555f7562142adc5e3037a62b",
+    "wof:geomhash":"23b349a88eef0b0a9148767e720c7e56",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856860947
         }
     ],
     "wof:id":856860947,
-    "wof:lastmodified":1466484488,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

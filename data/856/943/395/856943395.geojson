@@ -2,9 +2,14 @@
   "id": 856943395,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 11th St Des Moines IA 50309",
+    "addr:housenumber":"550",
+    "addr:postcode":"50309",
+    "addr:street":"11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.631647,41.586765,-93.631647,41.586765",
     "geom:latitude":41.586765,
     "geom:longitude":-93.631647,
@@ -28,7 +33,14 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gcdxuYZ4uOIrD9Cza72dd_41.586765_-93.631647@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464109824,
     "wof:geomhash":"58a14110da102e5cd29c36a2e6c0a5bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856943395
+        }
+    ],
     "wof:id":856943395,
-    "wof:lastmodified":1466485779,
+    "wof:lastmodified":1491924292,
     "wof:name":"MVP Internet Concepts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

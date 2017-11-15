@@ -2,9 +2,14 @@
   "id": 856827597,
   "type": "Feature",
   "properties": {
+    "addr:full":"4122 Ave B Council Bluffs IA 51501",
+    "addr:housenumber":"4122",
+    "addr:postcode":"51501",
+    "addr:street":"Ave B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.916615,41.26369,-95.916615,41.26369",
     "geom:latitude":41.26369,
     "geom:longitude":-95.916615,
@@ -25,12 +30,13 @@
     "sg:province":"IA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688713,
+        85867053,
         102191575,
+        404518711,
         85633793,
-        85944293,
-        102086657,
-        85867053
+        85973483,
+        102082789,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +49,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086657,
-            "locality_id":85944293,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
             "neighbourhood_id":85867053,
-            "region_id":85688713,
+            "region_id":85688563,
             "venue_id":856827597
         }
     ],
     "wof:id":856827597,
-    "wof:lastmodified":1466483604,
+    "wof:lastmodified":1491929230,
     "wof:name":"After Hours Cleaning",
     "wof:parent_id":85867053,
     "wof:placetype":"venue",

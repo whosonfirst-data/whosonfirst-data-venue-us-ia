@@ -2,6 +2,10 @@
   "id": 856942133,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 New York Ave Des Moines IA 50313",
+    "addr:housenumber":"516",
+    "addr:postcode":"50313",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856942133,
-    "wof:lastmodified":1466485723,
+    "wof:lastmodified":1472620372,
     "wof:name":"American Legion",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

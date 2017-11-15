@@ -2,14 +2,20 @@
   "id": 856999207,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Dace Ave Sioux City IA 51105",
+    "addr:housenumber":"2500",
+    "addr:postcode":"51105",
+    "addr:street":"Dace Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.3759,42.488794,-96.3759,42.488794",
     "geom:latitude":42.488794,
     "geom:longitude":-96.3759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Dace Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086309,
         85835267
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LK15kyx4sfp6YKsMEvu65_42.488794_-96.375900@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112332,
-    "wof:geomhash":"5ab49f72b4ad8d04b48a98916e09fb4f",
+    "wof:geomhash":"372fddd990bec3a5d4ee9174bb08cee3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856999207,
-    "wof:lastmodified":1466486727,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",

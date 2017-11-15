@@ -2,9 +2,14 @@
   "id": 856884895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1555 90th Ave Indianola IA 50125",
+    "addr:housenumber":"1555",
+    "addr:postcode":"50125",
+    "addr:street":"90Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.635693,41.300887,-93.635693,41.300887",
     "geom:latitude":41.300887,
     "geom:longitude":-93.635693,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"667ac57bb460ba6096e4843238b52ed2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856884895
         }
     ],
     "wof:id":856884895,
-    "wof:lastmodified":1466484891,
+    "wof:lastmodified":1491893068,
     "wof:name":"Cedar Crest Farms LTD",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

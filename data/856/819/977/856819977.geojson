@@ -2,9 +2,14 @@
   "id": 856819977,
   "type": "Feature",
   "properties": {
+    "addr:full":"3851 Delaware Ave Des Moines IA 50313",
+    "addr:housenumber":"3851",
+    "addr:postcode":"50313",
+    "addr:street":"Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581255,41.636652,-93.581255,41.636652",
     "geom:latitude":41.636652,
     "geom:longitude":-93.581255,
@@ -24,7 +29,14 @@
     "sg:postcode":"50313",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zKH8q9Xo1Sg9ghG2sPmB2_41.636652_-93.581255@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464104099,
     "wof:geomhash":"8ab05445db6b6997a758e67fc2d896d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856819977
+        }
+    ],
     "wof:id":856819977,
-    "wof:lastmodified":1466483471,
+    "wof:lastmodified":1491905913,
     "wof:name":"Carpenter's Local Union 106",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

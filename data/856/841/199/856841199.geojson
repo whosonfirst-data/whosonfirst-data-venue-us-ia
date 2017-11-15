@@ -2,14 +2,20 @@
   "id": 856841199,
   "type": "Feature",
   "properties": {
+    "addr:full":"3950 Center Point Rd NE Cedar Rapids IA 52402",
+    "addr:housenumber":"3950",
+    "addr:postcode":"52402",
+    "addr:street":"Center Point Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.664632,42.019346,-91.664632,42.019346",
     "geom:latitude":42.019346,
     "geom:longitude":-91.664632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3950 Center Point Rd NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":1125153371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WXudNH9NA2ql6qq2KOgLe_42.019346_-91.664632@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105047,
-    "wof:geomhash":"eade2115d13f023b315f68ae7b945d72",
+    "wof:geomhash":"efdb2bd6743e2d640a9c394ab8af9f84",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856841199,
-    "wof:lastmodified":1466483928,
+    "wof:lastmodified":1510699525,
     "wof:name":"Crown Trophy",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856837411,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 34th St Des Moines IA 50311",
+    "addr:housenumber":"1335",
+    "addr:postcode":"50311",
+    "addr:street":"34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.663183,41.601517,-93.663183,41.601517",
     "geom:latitude":41.601517,
     "geom:longitude":-93.663183,
@@ -27,7 +32,14 @@
         "sorority"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877067
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zH27hi0HCsKV83fcBiflL_41.601517_-93.663183@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464104881,
     "wof:geomhash":"2f3d747fbaf756d67532915482727e91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877067,
+            "region_id":85688713,
+            "venue_id":856837411
+        }
+    ],
     "wof:id":856837411,
-    "wof:lastmodified":1466483855,
+    "wof:lastmodified":1491930862,
     "wof:name":"Kappa Alpha Theta",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

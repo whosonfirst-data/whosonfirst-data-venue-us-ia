@@ -2,14 +2,20 @@
   "id": 857052925,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 1st Ave NE Cedar Rapids IA 52402",
+    "addr:housenumber":"4600",
+    "addr:postcode":"52402",
+    "addr:street":"1St Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.625234,42.023705,-91.625234,42.023705",
     "geom:latitude":42.023705,
     "geom:longitude":-91.625234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4600 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":420574921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eV1hkHTkvvq67TcOFDvYK_42.023947_-91.624543@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464114617,
-    "wof:geomhash":"198c016d6bbe3b22bc4827fee5c67aa6",
+    "wof:geomhash":"c36753d84b7842b036a757a3b0ff68d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857052925,
-    "wof:lastmodified":1466483557,
+    "wof:lastmodified":1510604548,
     "wof:name":"Sears Optical",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856885881,
   "type": "Feature",
   "properties": {
+    "addr:full":"10540 Hickman Rd Clive IA 50325",
+    "addr:housenumber":"10540",
+    "addr:postcode":"50325",
+    "addr:street":"Hickman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.762262,41.61466,-93.762262,41.61466",
     "geom:latitude":41.61466,
     "geom:longitude":-93.762262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10540 Hickman Rd",
     "sg:city":"Clive",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896343
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GttERDeBEgMxDGhn8yk5K_41.614660_-93.762262@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107518,
-    "wof:geomhash":"5ffda95a0070f84788dae7681ff8bbbe",
+    "wof:geomhash":"bd45361afdca6af41b51870d438ad146",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856885881,
-    "wof:lastmodified":1466484933,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":85896343,
     "wof:placetype":"venue",

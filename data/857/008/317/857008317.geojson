@@ -2,14 +2,20 @@
   "id": 857008317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1512 N Ave NW Cedar Rapids IA 52405",
+    "addr:housenumber":"1512",
+    "addr:postcode":"52405",
+    "addr:street":"N Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.689951,41.987717,-91.689951,41.987717",
     "geom:latitude":41.987717,
     "geom:longitude":-91.689951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1512 N Ave NW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876627
     ],
+    "wof:brand_id":1125150447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Wwd9AJK9oaHnzf0ptxkfh_41.987717_-91.689951@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112711,
-    "wof:geomhash":"ec17ee59bfcb0b763fd6ae6497950b25",
+    "wof:geomhash":"92656761f5a87c28fbddb0674a7f6b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857008317,
-    "wof:lastmodified":1466481945,
+    "wof:lastmodified":1510697661,
     "wof:name":"Watkins Products",
     "wof:parent_id":85876627,
     "wof:placetype":"venue",

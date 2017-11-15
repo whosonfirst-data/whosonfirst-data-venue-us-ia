@@ -2,9 +2,14 @@
   "id": 856923871,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Leonard Ave Indianola IA 50125",
+    "addr:housenumber":"22",
+    "addr:postcode":"50125",
+    "addr:street":"Leonard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.560458,41.339711,-93.560458,41.339711",
     "geom:latitude":41.339711,
     "geom:longitude":-93.560458,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"9a60de5e1d42fb6c2b28d8e3a9821a7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856923871
         }
     ],
     "wof:id":856923871,
-    "wof:lastmodified":1466485612,
+    "wof:lastmodified":1491893008,
     "wof:name":"Baptist Mission",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

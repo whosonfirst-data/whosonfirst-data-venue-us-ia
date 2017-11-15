@@ -2,9 +2,14 @@
   "id": 856840645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1521 Briggs St Carlisle IA 50047",
+    "addr:housenumber":"1521",
+    "addr:postcode":"50047",
+    "addr:street":"Briggs St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.518376,41.488354,-93.518376,41.488354",
     "geom:latitude":41.488354,
     "geom:longitude":-93.518376,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"957476245bd83bc8fca36467a93972cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856840645
         }
     ],
     "wof:id":856840645,
-    "wof:lastmodified":1466484018,
+    "wof:lastmodified":1491893039,
     "wof:name":"M J Bead",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

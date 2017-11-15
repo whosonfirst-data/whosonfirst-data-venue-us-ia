@@ -2,14 +2,20 @@
   "id": 856888957,
   "type": "Feature",
   "properties": {
+    "addr:full":"3934 NW Urbandale Dr Urbandale IA 50322",
+    "addr:housenumber":"3934",
+    "addr:postcode":"50322",
+    "addr:street":"Nw Urbandale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.756926,41.63263,-93.756926,41.63263",
     "geom:latitude":41.63263,
     "geom:longitude":-93.756926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3934 NW Urbandale Dr",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896507
     ],
+    "wof:brand_id":1125152915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dBcttuMvIGDLGLkiEQYPP_41.632630_-93.756926@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107641,
-    "wof:geomhash":"dd400fa951dbd51c87de69b600ae99a2",
+    "wof:geomhash":"83ffa730d4fa533635fe177a4f268d77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856888957,
-    "wof:lastmodified":1466485068,
+    "wof:lastmodified":1510697217,
     "wof:name":"Two Men & A Truck",
     "wof:parent_id":85896507,
     "wof:placetype":"venue",

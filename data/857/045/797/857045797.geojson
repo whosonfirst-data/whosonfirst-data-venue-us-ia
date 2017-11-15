@@ -2,9 +2,14 @@
   "id": 857045797,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Lincoln Ave Indianola IA 50125",
+    "addr:housenumber":"53",
+    "addr:postcode":"50125",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.559501,41.33848,-93.559501,41.33848",
     "geom:latitude":41.33848,
     "geom:longitude":-93.559501,
@@ -27,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +47,17 @@
     "wof:geomhash":"240cbad4ecae7dd3705537c31675d89a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857045797
         }
     ],
     "wof:id":857045797,
-    "wof:lastmodified":1466483251,
+    "wof:lastmodified":1491892987,
     "wof:name":"Jeff Ridgway",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

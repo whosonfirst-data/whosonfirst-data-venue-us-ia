@@ -2,9 +2,14 @@
   "id": 856865809,
   "type": "Feature",
   "properties": {
+    "addr:full":"1526 Walnut St Des Moines IA 50309",
+    "addr:housenumber":"1526",
+    "addr:postcode":"50309",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.637293,41.583132,-93.637293,41.583132",
     "geom:latitude":41.583132,
     "geom:longitude":-93.637293,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.multi-media-inc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tjOxYp7AAVf7xrFvR517i_41.583132_-93.637293@1294088824"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1464106247,
     "wof:geomhash":"49daf389b2753554b12d534e13fa86f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856865809
+        }
+    ],
     "wof:id":856865809,
-    "wof:lastmodified":1466484647,
+    "wof:lastmodified":1491903889,
     "wof:name":"Multi Media Imaging/Dean Stds",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

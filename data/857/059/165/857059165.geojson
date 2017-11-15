@@ -2,14 +2,20 @@
   "id": 857059165,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 2nd St Coralville IA 52241",
+    "addr:housenumber":"75",
+    "addr:postcode":"52241",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.563948,41.668317,-91.563948,41.668317",
     "geom:latitude":41.668317,
     "geom:longitude":-91.563948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"75 2nd St",
     "sg:city":"Coralville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086417,
         85896359
     ],
+    "wof:brand_id":1125152363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T7oeHV7mzwcmgxZPaPEiM_41.668317_-91.563948@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464114868,
-    "wof:geomhash":"5653e34e57694b808938f3ed6239a998",
+    "wof:geomhash":"a4b4d1ccfc77f42a2f22b53b5ef2af57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857059165,
-    "wof:lastmodified":1466483713,
+    "wof:lastmodified":1510696799,
     "wof:name":"Old Chicago",
     "wof:parent_id":85896359,
     "wof:placetype":"venue",

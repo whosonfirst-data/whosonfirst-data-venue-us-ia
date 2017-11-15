@@ -2,9 +2,14 @@
   "id": 857042743,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 N Howard St Indianola IA 50125",
+    "addr:housenumber":"215",
+    "addr:postcode":"50125",
+    "addr:street":"N Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.561011,41.361484,-93.561011,41.361484",
     "geom:latitude":41.361484,
     "geom:longitude":-93.561011,
@@ -23,9 +28,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,15 +43,17 @@
     "wof:geomhash":"6acaec68dcd6610fff5f0ffd25c78a17",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857042743
         }
     ],
     "wof:id":857042743,
-    "wof:lastmodified":1466483224,
+    "wof:lastmodified":1491893032,
     "wof:name":"Warren County Oil Co",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

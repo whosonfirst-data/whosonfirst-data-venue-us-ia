@@ -2,9 +2,14 @@
   "id": 856813703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1254 E 13th St Des Moines IA 50316",
+    "addr:housenumber":"1254",
+    "addr:postcode":"50316",
+    "addr:street":"E 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.60344,41.601253,-93.60344,41.601253",
     "geom:latitude":41.601253,
     "geom:longitude":-93.60344,
@@ -27,7 +32,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GIfLqAoSctNVaoWOIwR6D_41.601253_-93.603440@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464103779,
     "wof:geomhash":"0199f1f1f08ee0aaf7998d9811279b37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":856813703
+        }
+    ],
     "wof:id":856813703,
-    "wof:lastmodified":1466483218,
+    "wof:lastmodified":1491919024,
     "wof:name":"Vent Vac Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

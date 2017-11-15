@@ -2,9 +2,14 @@
   "id": 856795561,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Patterson Dr Carlisle IA 50047",
+    "addr:housenumber":"630",
+    "addr:postcode":"50047",
+    "addr:street":"Patterson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.493027,41.485521,-93.493027,41.485521",
     "geom:latitude":41.485521,
     "geom:longitude":-93.493027,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"5eb132bfdb5641c8b8a1111ae09f5805",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856795561
         }
     ],
     "wof:id":856795561,
-    "wof:lastmodified":1466482403,
+    "wof:lastmodified":1491893046,
     "wof:name":"Comfort Keepers",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

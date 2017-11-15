@@ -2,14 +2,20 @@
   "id": 856863177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1636 Marietta Rd Ely IA 52227",
+    "addr:housenumber":"1636",
+    "addr:postcode":"52227",
+    "addr:street":"Marietta Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.545059,41.920304,-91.545059,41.920304",
     "geom:latitude":41.920304,
     "geom:longitude":-91.545059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1636 Marietta Rd",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086551,
         85839927
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TfC0iuoJ1m7HOSREOUXkq_41.920304_-91.545059@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106123,
-    "wof:geomhash":"e1fbc55ee8315406ba9bab3ce5361b27",
+    "wof:geomhash":"ce8d79fb58137ccda3adf5e400c4aa8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856863177,
-    "wof:lastmodified":1466484468,
+    "wof:lastmodified":1510696862,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85839927,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856814531,
   "type": "Feature",
   "properties": {
+    "addr:full":"4112 E 32nd St Des Moines IA 50317",
+    "addr:housenumber":"4112",
+    "addr:postcode":"50317",
+    "addr:street":"E 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.555236,41.636528,-93.555236,41.636528",
     "geom:latitude":41.636528,
     "geom:longitude":-93.555236,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3caG37E7NzaYImASbMEJhz_41.636528_-93.555236@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464103813,
     "wof:geomhash":"5f1de36c72323058e60e3118d4115739",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856814531
+        }
+    ],
     "wof:id":856814531,
-    "wof:lastmodified":1466483191,
+    "wof:lastmodified":1491905917,
     "wof:name":"Lester Homes Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

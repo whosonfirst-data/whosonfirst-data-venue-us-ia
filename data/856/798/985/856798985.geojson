@@ -2,14 +2,20 @@
   "id": 856798985,
   "type": "Feature",
   "properties": {
+    "addr:full":"4811 Army Post Rd Des Moines IA 50321",
+    "addr:housenumber":"4811",
+    "addr:postcode":"50321",
+    "addr:street":"Army Post Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.687161,41.526638,-93.687161,41.526638",
     "geom:latitude":41.526638,
     "geom:longitude":-93.687161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4811 Army Post Rd",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85877107
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11xvJAS42Tl7OmK8D7igE6_41.526638_-93.687161@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103157,
-    "wof:geomhash":"b1d762f52a3ddf3a1377f88325a11342",
+    "wof:geomhash":"c2ac1f0890918081537a89911d29f190",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856798985,
-    "wof:lastmodified":1466482678,
+    "wof:lastmodified":1510696863,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85877107,
     "wof:placetype":"venue",

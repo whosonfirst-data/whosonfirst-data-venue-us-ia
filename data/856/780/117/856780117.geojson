@@ -2,14 +2,20 @@
   "id": 856780117,
   "type": "Feature",
   "properties": {
+    "addr:full":"2550 100th St Urbandale IA 50322",
+    "addr:housenumber":"2550",
+    "addr:postcode":"50322",
+    "addr:street":"100Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.755857,41.617816,-93.755857,41.617816",
     "geom:latitude":41.617816,
     "geom:longitude":-93.755857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2550 100th St",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896519
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UcNwCBt5eTQvHkniO6Aaf_41.617816_-93.755857@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102444,
-    "wof:geomhash":"b2e15575dce51a7bbab2c0b64dc244c1",
+    "wof:geomhash":"1aa29423cc75ab3f4c2f244b568e3f17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856780117,
-    "wof:lastmodified":1466481994,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85896519,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856927679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 Cherry Pkwy Norwalk IA 50211",
+    "addr:housenumber":"1724",
+    "addr:postcode":"50211",
+    "addr:street":"Cherry Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.674313,41.482797,-93.674313,41.482797",
     "geom:latitude":41.482797,
     "geom:longitude":-93.674313,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"5f22f163cd66dcf1ac35092fb8dd89b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856927679
         }
     ],
     "wof:id":856927679,
-    "wof:lastmodified":1466485627,
+    "wof:lastmodified":1491892977,
     "wof:name":"Hughes Farm",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

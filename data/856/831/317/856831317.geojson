@@ -2,14 +2,20 @@
   "id": 856831317,
   "type": "Feature",
   "properties": {
+    "addr:full":"10174 Hickman Ct Clive IA 50325",
+    "addr:housenumber":"10174",
+    "addr:postcode":"50325",
+    "addr:street":"Hickman Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.757452,41.613433,-93.757452,41.613433",
     "geom:latitude":41.613433,
     "geom:longitude":-93.757452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10174 Hickman Ct",
     "sg:city":"Clive",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896343
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iBqOwpUOjzUKus9vJ24uK_41.613433_-93.757452@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104565,
-    "wof:geomhash":"1dfaa7a121705056178fa46325f029de",
+    "wof:geomhash":"4d798dcb86c055ae31a7b0a7de1cec24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856831317,
-    "wof:lastmodified":1466483636,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85896343,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856951559,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 E Main St Coggon IA 52218",
+    "addr:housenumber":"122",
+    "addr:postcode":"52218",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.531664,42.281108,-91.531664,42.281108",
     "geom:latitude":42.281108,
     "geom:longitude":-91.531664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 E Main St",
     "sg:city":"Coggon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xNRYp3B79vyK4ylSE8KHy_42.281108_-91.531664@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464110146,
-    "wof:geomhash":"38aaba8af396dcb06b9753714a776c8b",
+    "wof:geomhash":"a1cd5d8b8250834d6bee7ccbd5cc0858",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856951559,
-    "wof:lastmodified":1466486006,
+    "wof:lastmodified":1510700012,
     "wof:name":"Hair Depot",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

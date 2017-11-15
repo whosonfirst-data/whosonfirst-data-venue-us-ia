@@ -2,9 +2,14 @@
   "id": 856938593,
   "type": "Feature",
   "properties": {
+    "addr:full":"3663 Grand Ave Des Moines IA 50312",
+    "addr:housenumber":"3663",
+    "addr:postcode":"50312",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.665685,41.584547,-93.665685,41.584547",
     "geom:latitude":41.584547,
     "geom:longitude":-93.665685,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hgPs868UVSUYY7QS4XDgZ_41.584547_-93.665685@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109604,
     "wof:geomhash":"2d60569e0aeab9c748eb2ae775ffe516",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877097,
+            "region_id":85688713,
+            "venue_id":856938593
+        }
+    ],
     "wof:id":856938593,
-    "wof:lastmodified":1466485807,
+    "wof:lastmodified":1491902173,
     "wof:name":"Robert C Oberbillig",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

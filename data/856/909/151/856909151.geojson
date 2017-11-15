@@ -2,6 +2,10 @@
   "id": 856909151,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Jones St Sioux City IA 51104",
+    "addr:housenumber":"2600",
+    "addr:postcode":"51104",
+    "addr:street":"Jones St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856909151,
-    "wof:lastmodified":1466485189,
+    "wof:lastmodified":1472620316,
     "wof:name":"American Diabetes Association",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",

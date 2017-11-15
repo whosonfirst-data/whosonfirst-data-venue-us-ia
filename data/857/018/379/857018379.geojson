@@ -2,9 +2,14 @@
   "id": 857018379,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 8th St Des Moines IA 50309",
+    "addr:housenumber":"620",
+    "addr:postcode":"50309",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.62768,41.589576,-93.62768,41.589576",
     "geom:latitude":41.589576,
     "geom:longitude":-93.62768,
@@ -32,7 +37,14 @@
     ],
     "sg:website":"www.orchard.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60rNxGvcA8d2ZIo9QMmd0z_41.589576_-93.627680@1294088824"
@@ -40,11 +52,21 @@
     "wof:country":"US",
     "wof:created":1464113131,
     "wof:geomhash":"8231ca11202c68fb93ef9c9dd26f6582",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":857018379
+        }
+    ],
     "wof:id":857018379,
-    "wof:lastmodified":1466482362,
+    "wof:lastmodified":1491924312,
     "wof:name":"Pace Juvenile Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

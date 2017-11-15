@@ -2,9 +2,14 @@
   "id": 856968449,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 State Hwy 5 Carlisle IA 50047",
+    "addr:housenumber":"615",
+    "addr:postcode":"50047",
+    "addr:street":"State Hwy 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.492906,41.49693,-93.492906,41.49693",
     "geom:latitude":41.49693,
     "geom:longitude":-93.492906,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"12bb795399b08783bdae26edb1c5d0fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856968449
         }
     ],
     "wof:id":856968449,
-    "wof:lastmodified":1466486207,
+    "wof:lastmodified":1491893046,
     "wof:name":"Missionary Baptist Church",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

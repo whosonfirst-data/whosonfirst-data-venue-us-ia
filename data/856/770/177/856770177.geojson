@@ -2,6 +2,10 @@
   "id": 856770177,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Palmer Ave Council Bluffs IA 51503",
+    "addr:housenumber":"123",
+    "addr:postcode":"51503",
+    "addr:street":"W Palmer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":856770177,
-    "wof:lastmodified":1466481793,
+    "wof:lastmodified":1472619931,
     "wof:name":"Condor Signs",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",

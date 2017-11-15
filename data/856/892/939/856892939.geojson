@@ -2,9 +2,14 @@
   "id": 856892939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2106 Forest Ave Des Moines IA 50311",
+    "addr:housenumber":"2106",
+    "addr:postcode":"50311",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.646671,41.603987,-93.646671,41.603987",
     "geom:latitude":41.603987,
     "geom:longitude":-93.646671,
@@ -24,7 +29,14 @@
     "sg:postcode":"50311",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fsu57Z5UEI7qgF7Se4Aqc_41.603987_-93.646671@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464107791,
     "wof:geomhash":"dcd1f89ff397b02b223d0d5fe32ba347",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":856892939
+        }
+    ],
     "wof:id":856892939,
-    "wof:lastmodified":1466485078,
+    "wof:lastmodified":1491937974,
     "wof:name":"Drake Liquor Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

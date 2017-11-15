@@ -2,6 +2,10 @@
   "id": 856917041,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 New York Ave Des Moines IA 50313",
+    "addr:housenumber":"500",
+    "addr:postcode":"50313",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856917041,
-    "wof:lastmodified":1466485298,
+    "wof:lastmodified":1472620320,
     "wof:name":"Iowa Limestone Co",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

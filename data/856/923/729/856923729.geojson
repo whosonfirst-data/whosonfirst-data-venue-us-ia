@@ -2,14 +2,20 @@
   "id": 856923729,
   "type": "Feature",
   "properties": {
+    "addr:full":"2812 Niobrara Ave Sioux City IA 51111",
+    "addr:housenumber":"2812",
+    "addr:postcode":"51111",
+    "addr:street":"Niobrara Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.370609,42.402021,-96.370609,42.402021",
     "geom:latitude":42.402021,
     "geom:longitude":-96.370609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2812 Niobrara Ave",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086309,
         85835267
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fb9lhmc6GyMh5meVLXnw4_42.402021_-96.370609@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108992,
-    "wof:geomhash":"36d0955662967e4f32eaeeea1bbe6c90",
+    "wof:geomhash":"5f434f7053427eec56280bea9571ae32",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856923729,
-    "wof:lastmodified":1466485583,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",

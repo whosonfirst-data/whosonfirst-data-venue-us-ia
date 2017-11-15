@@ -2,14 +2,20 @@
   "id": 857061341,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 School St Carlisle IA 50047",
+    "addr:housenumber":"800",
+    "addr:postcode":"50047",
+    "addr:street":"School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.495412,41.498389,-93.495412,41.498389",
     "geom:latitude":41.498389,
     "geom:longitude":-93.495412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 School St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -36,28 +42,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i8x1k8C0OtIdte3ynqp9c_41.498389_-93.495412@1303262801"
     },
     "wof:country":"US",
     "wof:created":1464114956,
-    "wof:geomhash":"184ec1e97be2f3d43419110b6a08f5f1",
+    "wof:geomhash":"ec483da9cf3719e10598992412ff7a08",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857061341
         }
     ],
     "wof:id":857061341,
-    "wof:lastmodified":1466483756,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

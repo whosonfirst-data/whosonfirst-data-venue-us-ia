@@ -2,9 +2,14 @@
   "id": 856841519,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 SW 9th St Des Moines IA 50309",
+    "addr:housenumber":"601",
+    "addr:postcode":"50309",
+    "addr:street":"Sw 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.624551,41.575221,-93.624551,41.575221",
     "geom:latitude":41.575221,
     "geom:longitude":-93.624551,
@@ -29,7 +34,14 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bt760CcbjUln4nKFZey6Z_41.575221_-93.624551@1294088824"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1464105060,
     "wof:geomhash":"556b8ed95476c7bb691cf6ed6fa15558",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856841519
+        }
+    ],
     "wof:id":856841519,
-    "wof:lastmodified":1466483993,
+    "wof:lastmodified":1491903893,
     "wof:name":"Forman Ford Glass Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

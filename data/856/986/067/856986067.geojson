@@ -2,14 +2,20 @@
   "id": 856986067,
   "type": "Feature",
   "properties": {
+    "addr:full":"3336 6th St SW Cedar Rapids IA 52404",
+    "addr:housenumber":"3336",
+    "addr:postcode":"52404",
+    "addr:street":"6Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.676234,41.940038,-91.676234,41.940038",
     "geom:latitude":41.940038,
     "geom:longitude":-91.676234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3336 6th St SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z1npwbOFeZ3m6aOJVVYWU_41.940038_-91.676234@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111797,
-    "wof:geomhash":"69baae0f7225c26b102b03b64b90be2d",
+    "wof:geomhash":"0a5155a88ce8ff4f9d8f70715a82da4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856986067,
-    "wof:lastmodified":1466486504,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856929615,
   "type": "Feature",
   "properties": {
+    "addr:full":"15949 Hawthorn Cir Clive IA 50325",
+    "addr:housenumber":"15949",
+    "addr:postcode":"50325",
+    "addr:street":"Hawthorn Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.837212,41.611521,-93.837212,41.611521",
     "geom:latitude":41.611521,
     "geom:longitude":-93.837212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15949 Hawthorn Cir",
     "sg:city":"Clive",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":1125158285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eqrqr2QqHs2rH7KdnHqNI_41.611521_-93.837212@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109232,
-    "wof:geomhash":"f98df44cf5c2763e22468d9a65a9847d",
+    "wof:geomhash":"0ebc15df2169d06643368fcd439d9782",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856929615,
-    "wof:lastmodified":1466485617,
+    "wof:lastmodified":1510695159,
     "wof:name":"Estee Lauder",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

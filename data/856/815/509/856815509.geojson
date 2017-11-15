@@ -2,9 +2,14 @@
   "id": 856815509,
   "type": "Feature",
   "properties": {
+    "addr:full":"5025 Grand Ave Des Moines IA 50312",
+    "addr:housenumber":"5025",
+    "addr:postcode":"50312",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.686467,41.584226,-93.686467,41.584226",
     "geom:latitude":41.584226,
     "geom:longitude":-93.686467,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.wdm-ia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k8Y3umScpkyzpFmcyGELI_41.584226_-93.686467@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464103854,
     "wof:geomhash":"408607761cd69536be0e2ec45848d22e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877087,
+            "region_id":85688713,
+            "venue_id":856815509
+        }
+    ],
     "wof:id":856815509,
-    "wof:lastmodified":1466483187,
+    "wof:lastmodified":1491906461,
     "wof:name":"West Des Moines Fire Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

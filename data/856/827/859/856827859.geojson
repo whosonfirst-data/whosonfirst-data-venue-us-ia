@@ -2,14 +2,20 @@
   "id": 856827859,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 5th St Coralville IA 52241",
+    "addr:housenumber":"115",
+    "addr:postcode":"52241",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.567252,41.673768,-91.567252,41.673768",
     "geom:latitude":41.673768,
     "geom:longitude":-91.567252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 5th St",
     "sg:city":"Coralville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086417,
         85896359
     ],
+    "wof:brand_id":1125159857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Kgx8gWM6hX50rm8kw8RQ7_41.673768_-91.567252@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104424,
-    "wof:geomhash":"b917ae1e55a74ac7c5d6f5d20c9893aa",
+    "wof:geomhash":"4c947a483b55a90746f44137b399e29d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856827859,
-    "wof:lastmodified":1466483657,
+    "wof:lastmodified":1510696722,
     "wof:name":"Family Dental Ctr",
     "wof:parent_id":85896359,
     "wof:placetype":"venue",

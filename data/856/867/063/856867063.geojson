@@ -2,14 +2,20 @@
   "id": 856867063,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 32nd Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"610",
+    "addr:postcode":"52404",
+    "addr:street":"32Nd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.678424,41.945348,-91.678424,41.945348",
     "geom:latitude":41.945348,
     "geom:longitude":-91.678424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 32nd Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125156947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s6qm5YrIu06uAIB4Vay7r_41.945348_-91.678424@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106316,
-    "wof:geomhash":"de78c32df47db005b9af578cdc0f90c5",
+    "wof:geomhash":"61c0f5a340f74329d04549fe3eac086a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856867063,
-    "wof:lastmodified":1466484500,
+    "wof:lastmodified":1510628094,
     "wof:name":"Danka",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

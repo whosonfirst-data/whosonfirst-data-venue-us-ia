@@ -2,14 +2,20 @@
   "id": 856805261,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Blairs Ferry Rd NE Cedar Rapids IA 52402",
+    "addr:housenumber":"500",
+    "addr:postcode":"52402",
+    "addr:street":"Blairs Ferry Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.644475,42.034969,-91.644475,42.034969",
     "geom:latitude":42.034969,
     "geom:longitude":-91.644475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Blairs Ferry Rd NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086551,
         85831501
     ],
+    "wof:brand_id":420574881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WjexsH63VzEPFzLcLJ9ft_42.034969_-91.644475@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103418,
-    "wof:geomhash":"ca5e096392b5308d8dd0521ea4f38178",
+    "wof:geomhash":"9e23bec84e84ca63c7d548d7423bdab1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856805261,
-    "wof:lastmodified":1466482736,
+    "wof:lastmodified":1510604423,
     "wof:name":"Cost Cutters Family Hair Care",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",

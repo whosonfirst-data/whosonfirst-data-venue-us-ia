@@ -2,6 +2,10 @@
   "id": 857070953,
   "type": "Feature",
   "properties": {
+    "addr:full":"3750 Williams Blvd SW Ste 100 Cedar Rapids IA 52404",
+    "addr:housenumber":"3750",
+    "addr:postcode":"52404",
+    "addr:street":"Williams Blvd Sw Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857070953,
-    "wof:lastmodified":1466484220,
+    "wof:lastmodified":1472620235,
     "wof:name":"Stuff Etc",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

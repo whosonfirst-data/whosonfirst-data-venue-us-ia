@@ -2,14 +2,20 @@
   "id": 857026425,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 26th St Perry IA 50220",
+    "addr:housenumber":"701",
+    "addr:postcode":"50220",
+    "addr:street":"26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.076051,41.838508,-94.076051,41.838508",
     "geom:latitude":41.838508,
     "geom:longitude":-94.076051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 26th St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086525,
         85896503
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cl4DfW0lzN2OiaGOtlpJT_41.838508_-94.076051@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113477,
-    "wof:geomhash":"d269128baea44a5acd956c13bb2df910",
+    "wof:geomhash":"837eadacf4b0091754a253c3b35a8283",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857026425,
-    "wof:lastmodified":1466482641,
+    "wof:lastmodified":1510603291,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",

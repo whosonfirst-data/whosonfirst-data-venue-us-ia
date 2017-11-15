@@ -2,14 +2,20 @@
   "id": 856911273,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 E 2nd St Des Moines IA 50309",
+    "addr:housenumber":"711",
+    "addr:postcode":"50309",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.615622,41.592451,-93.615622,41.592451",
     "geom:latitude":41.592451,
     "geom:longitude":-93.615622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 E 2nd St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086603,
         85896409
     ],
+    "wof:brand_id":1125157641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55uTHZW6XbZxvpCSwYyebv_41.592451_-93.615622@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108474,
-    "wof:geomhash":"8acf56466b24383f3997c97280897865",
+    "wof:geomhash":"782d4fc5bf31af63c88330aa7c53f36c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856911273,
-    "wof:lastmodified":1466485290,
+    "wof:lastmodified":1510613448,
     "wof:name":"Imagistics International Inc",
     "wof:parent_id":85896409,
     "wof:placetype":"venue",

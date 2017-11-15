@@ -2,6 +2,10 @@
   "id": 856928749,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 University Ave Des Moines IA 50314",
+    "addr:housenumber":"600",
+    "addr:postcode":"50314",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856928749,
-    "wof:lastmodified":1466485642,
+    "wof:lastmodified":1472620365,
     "wof:name":"Remax",
     "wof:parent_id":85896427,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856916623,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 New York Ave Des Moines IA 50313",
+    "addr:housenumber":"100",
+    "addr:postcode":"50313",
+    "addr:street":"New York Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856916623,
-    "wof:lastmodified":1466485416,
+    "wof:lastmodified":1472620352,
     "wof:name":"Hirsch Industries Plant",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

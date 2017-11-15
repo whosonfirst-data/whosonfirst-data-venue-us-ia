@@ -2,9 +2,14 @@
   "id": 856796053,
   "type": "Feature",
   "properties": {
+    "addr:full":"2629 Beaver Ave Des Moines IA 50310",
+    "addr:housenumber":"2629",
+    "addr:postcode":"50310",
+    "addr:street":"Beaver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.673023,41.618977,-93.673023,41.618977",
     "geom:latitude":41.618977,
     "geom:longitude":-93.673023,
@@ -27,7 +32,14 @@
         "upholsterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cdMSphbqctskT9ztBrP3F_41.618977_-93.673023@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464103020,
     "wof:geomhash":"623d4ee885f5ba47b3fae91fb5a4ab2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856796053
+        }
+    ],
     "wof:id":856796053,
-    "wof:lastmodified":1466482363,
+    "wof:lastmodified":1491920759,
     "wof:name":"Custom Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

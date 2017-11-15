@@ -2,6 +2,10 @@
   "id": 857017055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Harding Rd Des Moines IA 50310",
+    "addr:housenumber":"2600",
+    "addr:postcode":"50310",
+    "addr:street":"Harding Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":857017055,
-    "wof:lastmodified":1466482293,
+    "wof:lastmodified":1472619955,
     "wof:name":"US Veterans Ctr",
     "wof:parent_id":85896399,
     "wof:placetype":"venue",

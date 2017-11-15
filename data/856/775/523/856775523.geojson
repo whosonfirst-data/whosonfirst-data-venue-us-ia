@@ -2,9 +2,14 @@
   "id": 856775523,
   "type": "Feature",
   "properties": {
+    "addr:full":"3523 37th St Des Moines IA 50310",
+    "addr:housenumber":"3523",
+    "addr:postcode":"50310",
+    "addr:street":"37Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.667121,41.628723,-93.667121,41.628723",
     "geom:latitude":41.628723,
     "geom:longitude":-93.667121,
@@ -27,7 +32,14 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dh8hA8F93OkvX3jvoTL4d_41.628723_-93.667121@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464102336,
     "wof:geomhash":"66b86947ee7e79f8469555144330b05b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856775523
+        }
+    ],
     "wof:id":856775523,
-    "wof:lastmodified":1466481946,
+    "wof:lastmodified":1491920777,
     "wof:name":"Arch-Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

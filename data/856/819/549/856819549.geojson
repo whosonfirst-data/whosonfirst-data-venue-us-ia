@@ -2,14 +2,20 @@
   "id": 856819549,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 6th St Coralville IA 52241",
+    "addr:housenumber":"200",
+    "addr:postcode":"52241",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.567664,41.676363,-91.567664,41.676363",
     "geom:latitude":41.676363,
     "geom:longitude":-91.567664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 6th St",
     "sg:city":"Coralville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086417,
         85896359
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mnov3XIs63sVOQxg6M1Yo_41.676363_-91.567664@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104038,
-    "wof:geomhash":"7d99726ca5313e50a1969717e976f611",
+    "wof:geomhash":"7ceaea11ee71458e8327d229e17b7d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856819549,
-    "wof:lastmodified":1466483385,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85896359,
     "wof:placetype":"venue",

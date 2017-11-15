@@ -2,14 +2,20 @@
   "id": 856938505,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 3rd St SE Cedar Rapids IA 52401",
+    "addr:housenumber":"411",
+    "addr:postcode":"52401",
+    "addr:street":"3Rd St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.664218,41.976019,-91.664218,41.976019",
     "geom:latitude":41.976019,
     "geom:longitude":-91.664218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 3rd St SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086551,
         85876619
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BAlm3O0K6O747TqFwKXvp_41.976019_-91.664218@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109580,
-    "wof:geomhash":"a33a0304ef011dbfae10cbd2acd130a1",
+    "wof:geomhash":"e672ab3196b768cc15d85211be3522e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856938505,
-    "wof:lastmodified":1466485790,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",

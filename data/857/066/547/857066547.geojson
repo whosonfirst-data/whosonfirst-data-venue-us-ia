@@ -2,6 +2,10 @@
   "id": 857066547,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Guaranty Bldg Cedar Rapids IA 52401",
+    "addr:housenumber":"314;bldg",
+    "addr:postcode":"52401",
+    "addr:street":"Guaranty;Rapids",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857066547,
-    "wof:lastmodified":1466483996,
+    "wof:lastmodified":1472620205,
     "wof:name":"Holmes & Holmes Atty",
     "wof:parent_id":85876629,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387860581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Avenue E Hawarden SD 51023",
+    "addr:housenumber":"1525",
+    "addr:postcode":"51023",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.48803,43.00486,-96.48803,43.00486",
     "geom:latitude":43.00486,
     "geom:longitude":-96.48803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1525 Avenue E",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85944773,
         102086579
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PGSpYILtdozc8DBtVVoUo_43.004860_-96.488030@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebb4fde6e0c50211f113f270b6d7c0d7",
+    "wof:geomhash":"e2ba30d0918d4d7f15139811c76216c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387860581,
-    "wof:lastmodified":1466486738,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

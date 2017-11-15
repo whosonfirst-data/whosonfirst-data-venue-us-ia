@@ -2,14 +2,20 @@
   "id": 856833519,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 Park St Des Moines IA 50309",
+    "addr:housenumber":"615",
+    "addr:postcode":"50309",
+    "addr:street":"Park St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.626712,41.590612,-93.626712,41.590612",
     "geom:latitude":41.590612,
     "geom:longitude":-93.626712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"615 Park St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -27,19 +33,37 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i0rHV2EAU80mrGHqKUuv3_41.590612_-93.626712@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104679,
-    "wof:geomhash":"2fac31006d95435189a964d84e100eab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9cc44459471e825248077b74ed98dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856833519
+        }
+    ],
     "wof:id":856833519,
-    "wof:lastmodified":1466483787,
+    "wof:lastmodified":1510694884,
     "wof:name":"Park Place Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

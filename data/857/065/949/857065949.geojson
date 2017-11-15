@@ -2,14 +2,20 @@
   "id": 857065949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 7th Ave Marion IA 52302",
+    "addr:housenumber":"1125",
+    "addr:postcode":"52302",
+    "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.597198,42.033298,-91.597198,42.033298",
     "geom:latitude":42.033298,
     "geom:longitude":-91.597198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1125 7th Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":420575495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09eUZ7DR5PxXwEIlWJR7o7_42.033298_-91.597198@1303262802"
     },
     "wof:country":"US",
     "wof:created":1464115134,
-    "wof:geomhash":"5ab6d1709e1c244a1bfb41281f5b77da",
+    "wof:geomhash":"bfe33adfa01bbd1a39ebe1595d44bb8d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857065949,
-    "wof:lastmodified":1466484071,
+    "wof:lastmodified":1510602490,
     "wof:name":"Cost Cutters",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

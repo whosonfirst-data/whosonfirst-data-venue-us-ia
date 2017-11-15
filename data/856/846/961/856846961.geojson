@@ -2,9 +2,14 @@
   "id": 856846961,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 5th Ave Des Moines IA 50309",
+    "addr:housenumber":"818",
+    "addr:postcode":"50309",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.624513,41.592543,-93.624513,41.592543",
     "geom:latitude":41.592543,
     "geom:longitude":-93.624513,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gMQcf3nL9R6i6eJFMGeM3_41.592543_-93.624513@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464105336,
     "wof:geomhash":"4a7d904fae6f5ee6adc0f6b71b87c5b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856846961
+        }
+    ],
     "wof:id":856846961,
-    "wof:lastmodified":1466484280,
+    "wof:lastmodified":1491924296,
     "wof:name":"Iowa Kidney Stone Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

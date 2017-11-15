@@ -2,14 +2,20 @@
   "id": 856854075,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Des Moines St Des Moines IA 50309",
+    "addr:housenumber":"610",
+    "addr:postcode":"50309",
+    "addr:street":"Des Moines St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.60821,41.592503,-93.60821,41.592503",
     "geom:latitude":41.592503,
     "geom:longitude":-93.60821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 Des Moines St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086603,
         85896391
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UERJjYFzGzHam0YdrFqft_41.592503_-93.608210@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105722,
-    "wof:geomhash":"18754f41be9320d21b8ecfef8c047be1",
+    "wof:geomhash":"b50770e35a049eaf60253e1e3cca54bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856854075,
-    "wof:lastmodified":1466484301,
+    "wof:lastmodified":1510693823,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":85896391,
     "wof:placetype":"venue",

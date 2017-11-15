@@ -2,6 +2,10 @@
   "id": 857003645,
   "type": "Feature",
   "properties": {
+    "addr:full":"2230 Hickman Rd Des Moines IA 50310",
+    "addr:housenumber":"2230",
+    "addr:postcode":"50310",
+    "addr:street":"Hickman Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857003645,
-    "wof:lastmodified":1466481909,
+    "wof:lastmodified":1472619964,
     "wof:name":"Des Moines Lock Svc",
     "wof:parent_id":85896399,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857042663,
   "type": "Feature",
   "properties": {
+    "addr:full":"1599 65th Ave Saint Charles IA 50240",
+    "addr:housenumber":"1599",
+    "addr:postcode":"50240",
+    "addr:street":"65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.683045,41.30028,-93.683045,41.30028",
     "geom:latitude":41.30028,
     "geom:longitude":-93.683045,
@@ -25,9 +30,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +45,17 @@
     "wof:geomhash":"8e03720e7165058867865d9999e87602",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857042663
         }
     ],
     "wof:id":857042663,
-    "wof:lastmodified":1466483208,
+    "wof:lastmodified":1491893001,
     "wof:name":"Willis Alexander",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

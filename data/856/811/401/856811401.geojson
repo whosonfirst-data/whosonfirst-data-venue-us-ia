@@ -2,9 +2,14 @@
   "id": 856811401,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 N Jefferson Way Indianola IA 50125",
+    "addr:housenumber":"1401",
+    "addr:postcode":"50125",
+    "addr:street":"N Jefferson Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.558424,41.373657,-93.558424,41.373657",
     "geom:latitude":41.373657,
     "geom:longitude":-93.558424,
@@ -27,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +47,17 @@
     "wof:geomhash":"73b7962c361655caf951bf3f29958e8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856811401
         }
     ],
     "wof:id":856811401,
-    "wof:lastmodified":1466482965,
+    "wof:lastmodified":1491893003,
     "wof:name":"Community State Bank",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

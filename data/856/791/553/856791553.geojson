@@ -2,6 +2,10 @@
   "id": 856791553,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 Fleur Dr Des Moines IA 50321",
+    "addr:housenumber":"5555",
+    "addr:postcode":"50321",
+    "addr:street":"Fleur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856791553,
-    "wof:lastmodified":1466482385,
+    "wof:lastmodified":1472620006,
     "wof:name":"Keck Shuttle Parking",
     "wof:parent_id":85896397,
     "wof:placetype":"venue",

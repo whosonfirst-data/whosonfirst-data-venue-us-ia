@@ -2,6 +2,10 @@
   "id": 856907675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 E Army Post Rd Des Moines IA 50315",
+    "addr:housenumber":"1111",
+    "addr:postcode":"50315",
+    "addr:street":"E Army Post Rd Des",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856907675,
-    "wof:lastmodified":1466485233,
+    "wof:lastmodified":1472620324,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85896421,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856841881,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 E Salem Ave Indianola IA 50125",
+    "addr:housenumber":"303",
+    "addr:postcode":"50125",
+    "addr:street":"E Salem Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.556981,41.36019,-93.556981,41.36019",
     "geom:latitude":41.36019,
     "geom:longitude":-93.556981,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +49,17 @@
     "wof:geomhash":"6df1c13a1a16c59ceb2862cf939ee637",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856841881
         }
     ],
     "wof:id":856841881,
-    "wof:lastmodified":1466484065,
+    "wof:lastmodified":1491893062,
     "wof:name":"Grimms Orthopedic Indianola",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

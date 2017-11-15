@@ -2,9 +2,14 @@
   "id": 856890133,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 SW 7th St Des Moines IA 50309",
+    "addr:housenumber":"600",
+    "addr:postcode":"50309",
+    "addr:street":"Sw 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.622512,41.576758,-93.622512,41.576758",
     "geom:latitude":41.576758,
     "geom:longitude":-93.622512,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.safeliteautoglass.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w51ZHXsu0o2nRHcm1DeCU_41.576758_-93.622512@1294088824"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1464107690,
     "wof:geomhash":"8da5123cee0f23df39976fde2ee680fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856890133
+        }
+    ],
     "wof:id":856890133,
-    "wof:lastmodified":1466484913,
+    "wof:lastmodified":1491903897,
     "wof:name":"Safelite Auto Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

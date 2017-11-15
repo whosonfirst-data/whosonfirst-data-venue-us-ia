@@ -2,9 +2,14 @@
   "id": 857012335,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 S G St Indianola IA 50125",
+    "addr:housenumber":"608",
+    "addr:postcode":"50125",
+    "addr:street":"S G St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.572642,41.352404,-93.572642,41.352404",
     "geom:latitude":41.352404,
     "geom:longitude":-93.572642,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
     "wof:geomhash":"a3e56d9df4f176c2d3d947252d919ac8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857012335
         }
     ],
     "wof:id":857012335,
-    "wof:lastmodified":1466482153,
+    "wof:lastmodified":1491893002,
     "wof:name":"Tom Kellar Grading",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

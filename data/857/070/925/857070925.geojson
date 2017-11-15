@@ -2,14 +2,20 @@
   "id": 857070925,
   "type": "Feature",
   "properties": {
+    "addr:full":"2602 Williams Blvd SW Cedar Rapids IA 52404",
+    "addr:housenumber":"2602",
+    "addr:postcode":"52404",
+    "addr:street":"Williams Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.707001,41.964802,-91.707001,41.964802",
     "geom:latitude":41.964802,
     "geom:longitude":-91.707001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2602 Williams Blvd SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086551,
         85876635
     ],
+    "wof:brand_id":1125150181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aMMcL0UeXyhdU0BuLQhqW_41.964802_-91.707001@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115373,
-    "wof:geomhash":"8561afc7c4762523f72b3531d80e4aa4",
+    "wof:geomhash":"f0896c294d162bba43eb3bf93e7558fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":857070925,
-    "wof:lastmodified":1466484214,
+    "wof:lastmodified":1510697301,
     "wof:name":"Midas Auto Service Experts",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

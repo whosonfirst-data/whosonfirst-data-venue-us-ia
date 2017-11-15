@@ -2,9 +2,14 @@
   "id": 857027257,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 E University Ave Des Moines IA 50316",
+    "addr:housenumber":"825",
+    "addr:postcode":"50316",
+    "addr:street":"E University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.606603,41.600303,-93.606603,41.600303",
     "geom:latitude":41.600303,
     "geom:longitude":-93.606603,
@@ -27,7 +32,14 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yAXlkqLFJE9wjN9Ephiv1_41.600303_-93.606603@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464113511,
     "wof:geomhash":"18c99fbc8991698d5346ac2cd0c13007",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877079,
+            "region_id":85688713,
+            "venue_id":857027257
+        }
+    ],
     "wof:id":857027257,
-    "wof:lastmodified":1466482672,
+    "wof:lastmodified":1491919027,
     "wof:name":"Krumm Sales & Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

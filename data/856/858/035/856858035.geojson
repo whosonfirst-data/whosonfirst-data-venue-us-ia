@@ -2,9 +2,14 @@
   "id": 856858035,
   "type": "Feature",
   "properties": {
+    "addr:full":"3660 109th St Urbandale IA 50322",
+    "addr:housenumber":"3660",
+    "addr:postcode":"50322",
+    "addr:street":"109Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.76656,41.625778,-93.76656,41.625778",
     "geom:latitude":41.625778,
     "geom:longitude":-93.76656,
@@ -27,7 +32,15 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944157,
+        102086603,
+        420520501,
+        85896519
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eLy7UtzdLcucYPyVp3fMq_41.625778_-93.766560@1294088824"
@@ -35,11 +48,30 @@
     "wof:country":"US",
     "wof:created":1464105881,
     "wof:geomhash":"2de242bd00bef64fea37635fa25b06c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":420520501,
+            "region_id":85688713,
+            "venue_id":856858035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944157,
+            "neighbourhood_id":85896519,
+            "region_id":85688713,
+            "venue_id":856858035
+        }
+    ],
     "wof:id":856858035,
-    "wof:lastmodified":1466484299,
+    "wof:lastmodified":1491926337,
     "wof:name":"Allender Butzke Engineers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

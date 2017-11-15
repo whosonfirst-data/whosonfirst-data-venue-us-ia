@@ -2,14 +2,20 @@
   "id": 856876147,
   "type": "Feature",
   "properties": {
+    "addr:full":"851 66th Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"851",
+    "addr:postcode":"52404",
+    "addr:street":"66Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.680735,41.914205,-91.680735,41.914205",
     "geom:latitude":41.914205,
     "geom:longitude":-91.680735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"851 66th Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086551,
         85828809
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_696Bp9iDouTLY4ZhfezUnV_41.914205_-91.680735@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106991,
-    "wof:geomhash":"fa40a09b21149d69be660050567dccbd",
+    "wof:geomhash":"9d286f5a9af21bee37913d7044fbcf5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856876147,
-    "wof:lastmodified":1466484704,
+    "wof:lastmodified":1510607562,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85828809,
     "wof:placetype":"venue",

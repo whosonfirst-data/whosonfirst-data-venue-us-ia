@@ -2,14 +2,20 @@
   "id": 857062405,
   "type": "Feature",
   "properties": {
+    "addr:full":"3134 Manawa Centre Dr Ste 5 Council Bluffs IA 51501",
+    "addr:housenumber":"3134",
+    "addr:postcode":"51501",
+    "addr:street":"Manawa Centre Dr Ste 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.847695,41.22932,-95.847695,41.22932",
     "geom:latitude":41.22932,
     "geom:longitude":-95.847695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3134 Manawa Centre Dr Ste 5",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":1125153275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OW4STzHKR0kN5RL5ES1IV_41.229320_-95.847695@1303262801"
     },
     "wof:country":"US",
     "wof:created":1464115002,
-    "wof:geomhash":"2ca83c6130d0289e10e73131e1a8801a",
+    "wof:geomhash":"6dc76217cf8b9f5b89c8effbb8296098",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857062405,
-    "wof:lastmodified":1466483776,
+    "wof:lastmodified":1510698835,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

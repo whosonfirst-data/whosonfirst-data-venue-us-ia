@@ -2,14 +2,20 @@
   "id": 856947209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 Wilson Ave SW Cedar Rapids IA 52404",
+    "addr:housenumber":"3800",
+    "addr:postcode":"52404",
+    "addr:street":"Wilson Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.721554,41.956456,-91.721554,41.956456",
     "geom:latitude":41.956456,
     "geom:longitude":-91.721554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 Wilson Ave SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086551,
         85809971
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ns75ZKC3nh7yauqmFk5oW_41.956456_-91.721554@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109966,
-    "wof:geomhash":"909ec3d234d5926c0d0212db34c0da46",
+    "wof:geomhash":"19ab8a2ccca0879ff27950f200b021d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856947209,
-    "wof:lastmodified":1466485883,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":85809971,
     "wof:placetype":"venue",

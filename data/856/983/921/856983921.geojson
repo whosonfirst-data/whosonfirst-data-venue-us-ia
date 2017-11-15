@@ -2,6 +2,10 @@
   "id": 856983921,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 E University Ave Des Moines IA 50316",
+    "addr:housenumber":"700",
+    "addr:postcode":"50316",
+    "addr:street":"E University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856983921,
-    "wof:lastmodified":1466486632,
+    "wof:lastmodified":1472620490,
     "wof:name":"Iowa Lutheran Hospital",
     "wof:parent_id":85896409,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857002531,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 W Ashland Ave Indianola IA 50125",
+    "addr:housenumber":"124",
+    "addr:postcode":"50125",
+    "addr:street":"W Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.561186,41.361417,-93.561186,41.361417",
     "geom:latitude":41.361417,
     "geom:longitude":-93.561186,
@@ -31,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +51,17 @@
     "wof:geomhash":"c5e73b5207952fd65784353ce9b7a126",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":857002531
         }
     ],
     "wof:id":857002531,
-    "wof:lastmodified":1466481884,
+    "wof:lastmodified":1491893019,
     "wof:name":"Studio K",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

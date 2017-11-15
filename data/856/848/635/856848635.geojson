@@ -2,14 +2,20 @@
   "id": 856848635,
   "type": "Feature",
   "properties": {
+    "addr:full":"2058 8th St Coralville IA 52241",
+    "addr:housenumber":"2058",
+    "addr:postcode":"52241",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.593362,41.682539,-91.593362,41.682539",
     "geom:latitude":41.682539,
     "geom:longitude":-91.593362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2058 8th St",
     "sg:city":"Coralville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086417,
         85896371
     ],
+    "wof:brand_id":1125154033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WGuv32vOgAcmIpprrNuLf_41.682539_-91.593362@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464105433,
-    "wof:geomhash":"5e327f27a813ccbcd6b74a6b2a65f5bc",
+    "wof:geomhash":"a84041551a684ccd42a668d9e1cfb4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856848635,
-    "wof:lastmodified":1466484225,
+    "wof:lastmodified":1510696082,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":85896371,
     "wof:placetype":"venue",

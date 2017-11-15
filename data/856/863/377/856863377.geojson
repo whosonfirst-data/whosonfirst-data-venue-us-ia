@@ -2,9 +2,14 @@
   "id": 856863377,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Locust St Des Moines IA 50309",
+    "addr:housenumber":"800",
+    "addr:postcode":"50309",
+    "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.628642,41.586048,-93.628642,41.586048",
     "geom:latitude":41.586048,
     "geom:longitude":-93.628642,
@@ -25,7 +30,14 @@
     "sg:province":"IA",
     "sg:website":"www.800locust.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EYxeNY6D6nCdxYbhG6Jd4_41.586048_-93.628642@1294088824"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1464106130,
     "wof:geomhash":"cf45651f6890b32c47e1e45754502118",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877061,
+            "region_id":85688713,
+            "venue_id":856863377
+        }
+    ],
     "wof:id":856863377,
-    "wof:lastmodified":1466484506,
+    "wof:lastmodified":1491924307,
     "wof:name":"Suites Of 800 Locust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

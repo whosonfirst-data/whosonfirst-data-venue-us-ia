@@ -2,6 +2,10 @@
   "id": 857070219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Williams Blvd SW Cedar Rapids IA 52404",
+    "addr:housenumber":"2601",
+    "addr:postcode":"52404",
+    "addr:street":"Williams Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857070219,
-    "wof:lastmodified":1466484072,
+    "wof:lastmodified":1472620230,
     "wof:name":"Williams Blvd Amoco",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",

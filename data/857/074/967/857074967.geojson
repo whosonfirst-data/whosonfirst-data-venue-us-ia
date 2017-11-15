@@ -2,9 +2,14 @@
   "id": 857074967,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 Locust, Suite 204 Des Moines IA 50309",
+    "addr:housenumber":"1312;suite 204",
+    "addr:postcode":"50309",
+    "addr:street":"Locust",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.63486,41.584655,-93.63486,41.584655",
     "geom:latitude":41.584655,
     "geom:longitude":-93.63486,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.dwolla.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o8xD5oJLkjhxRfbFJg6u5_41.584655_-93.634860@1308186498"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1464115570,
     "wof:geomhash":"e42386154beebb4779f25aad65f7e492",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":857074967
+        }
+    ],
     "wof:id":857074967,
-    "wof:lastmodified":1466484288,
+    "wof:lastmodified":1491903898,
     "wof:name":"Dwolla",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

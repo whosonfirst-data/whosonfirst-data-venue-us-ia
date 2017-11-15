@@ -2,14 +2,20 @@
   "id": 856997547,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 SE Creekview Dr Ankeny IA 50021",
+    "addr:housenumber":"2205",
+    "addr:postcode":"50021",
+    "addr:street":"Se Creekview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.568606,41.708023,-93.568606,41.708023",
     "geom:latitude":41.708023,
     "geom:longitude":-93.568606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2205 SE Creekview Dr",
     "sg:city":"Ankeny",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086603,
         85896319
     ],
+    "wof:brand_id":1125153551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zq0ejRB0VII9jJRUDmxNu_41.708023_-93.568606@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112274,
-    "wof:geomhash":"d0e8a88c6ddf0a793cdb897c785c0817",
+    "wof:geomhash":"eceae71a0d0eada1082b16f248d763d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856997547,
-    "wof:lastmodified":1466486757,
+    "wof:lastmodified":1510694967,
     "wof:name":"Sara Lee Bakery Group",
     "wof:parent_id":85896319,
     "wof:placetype":"venue",

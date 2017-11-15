@@ -2,9 +2,14 @@
   "id": 856953077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 22nd St West Des Moines IA 50266",
+    "addr:housenumber":"1540",
+    "addr:postcode":"50266",
+    "addr:street":"22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.736145,41.596989,-93.736145,41.596989",
     "geom:latitude":41.596989,
     "geom:longitude":-93.736145,
@@ -29,7 +34,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944027,
+        102086603,
+        85896355,
+        420520547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kdio5Q6YldUOUGsYWqYlJ_41.596989_-93.736145@1294088824"
@@ -37,11 +50,30 @@
     "wof:country":"US",
     "wof:created":1464110211,
     "wof:geomhash":"b244a942a6307bca877deeeab0be6a3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":85896355,
+            "region_id":85688713,
+            "venue_id":856953077
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944027,
+            "neighbourhood_id":420520547,
+            "region_id":85688713,
+            "venue_id":856953077
+        }
+    ],
     "wof:id":856953077,
-    "wof:lastmodified":1466485911,
+    "wof:lastmodified":1491899795,
     "wof:name":"Tobacco Outlet Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

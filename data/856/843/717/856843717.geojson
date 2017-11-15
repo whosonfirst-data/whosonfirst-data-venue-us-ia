@@ -2,9 +2,14 @@
   "id": 856843717,
   "type": "Feature",
   "properties": {
+    "addr:full":"2008 Forest Ave Des Moines IA 50311",
+    "addr:housenumber":"2008",
+    "addr:postcode":"50311",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.645224,41.603992,-93.645224,41.603992",
     "geom:latitude":41.603992,
     "geom:longitude":-93.645224,
@@ -24,7 +29,14 @@
     "sg:postcode":"50311",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R23kq6zHhC8TPvpMWCnSl_41.603992_-93.645224@1294088824"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1464105160,
     "wof:geomhash":"8bf30e1ec2adc279e983bdfbc5af12f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877057,
+            "region_id":85688713,
+            "venue_id":856843717
+        }
+    ],
     "wof:id":856843717,
-    "wof:lastmodified":1466484116,
+    "wof:lastmodified":1491937971,
     "wof:name":"Polk County Central Senior Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

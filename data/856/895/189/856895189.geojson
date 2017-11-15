@@ -2,9 +2,14 @@
   "id": 856895189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Pleasant St Des Moines IA 50309",
+    "addr:housenumber":"1001",
+    "addr:postcode":"50309",
+    "addr:street":"Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.631875,41.588879,-93.631875,41.588879",
     "geom:latitude":41.588879,
     "geom:longitude":-93.631875,
@@ -30,7 +35,7 @@
         85633793,
         85944061,
         102086603,
-        85877105
+        85877061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102086603,
             "locality_id":85944061,
-            "neighbourhood_id":85877105,
+            "neighbourhood_id":85877061,
             "region_id":85688713,
             "venue_id":856895189
         }
     ],
     "wof:id":856895189,
-    "wof:lastmodified":1466484936,
+    "wof:lastmodified":1491924279,
     "wof:name":"Creative Center-Young Childern",
-    "wof:parent_id":85877105,
+    "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

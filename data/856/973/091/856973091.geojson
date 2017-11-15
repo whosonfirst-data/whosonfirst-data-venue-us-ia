@@ -2,9 +2,14 @@
   "id": 856973091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1528 E University Ave Des Moines IA 50316",
+    "addr:housenumber":"1528",
+    "addr:postcode":"50316",
+    "addr:street":"E University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.597622,41.600823,-93.597622,41.600823",
     "geom:latitude":41.600823,
     "geom:longitude":-93.597622,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dbb2rCSj8U03ttc0R2Hsz_41.600823_-93.597622@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464111107,
     "wof:geomhash":"29dcece64ae5315b2f397375ddbb4bab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856973091
+        }
+    ],
     "wof:id":856973091,
-    "wof:lastmodified":1466486307,
+    "wof:lastmodified":1491909169,
     "wof:name":"Bethel African Methodist Churc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

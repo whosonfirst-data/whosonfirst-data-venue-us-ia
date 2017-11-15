@@ -2,9 +2,14 @@
   "id": 856816525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 SE 1st St Des Moines IA 50315",
+    "addr:housenumber":"1712",
+    "addr:postcode":"50315",
+    "addr:street":"Se 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.614437,41.574071,-93.614437,41.574071",
     "geom:latitude":41.574071,
     "geom:longitude":-93.614437,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cUqyG8iBnMKrDkAXK0QeP_41.574071_-93.614437@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464103891,
     "wof:geomhash":"340608c726472cc7c751f79ebb72dd3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877063,
+            "region_id":85688713,
+            "venue_id":856816525
+        }
+    ],
     "wof:id":856816525,
-    "wof:lastmodified":1466483195,
+    "wof:lastmodified":1491903893,
     "wof:name":"R & S Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

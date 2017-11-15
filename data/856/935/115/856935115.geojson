@@ -2,6 +2,10 @@
   "id": 856935115,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 University Ave West Des Moines IA 50266",
+    "addr:housenumber":"6000",
+    "addr:postcode":"50266",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856935115,
-    "wof:lastmodified":1466485661,
+    "wof:lastmodified":1472620384,
     "wof:name":"Lakeview Center-Senior Health",
     "wof:parent_id":85896345,
     "wof:placetype":"venue",

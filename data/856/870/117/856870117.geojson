@@ -2,9 +2,14 @@
   "id": 856870117,
   "type": "Feature",
   "properties": {
+    "addr:full":"1265 S 5th St Carlisle IA 50047",
+    "addr:housenumber":"1265",
+    "addr:postcode":"50047",
+    "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.491371,41.489152,-93.491371,41.489152",
     "geom:latitude":41.489152,
     "geom:longitude":-93.491371,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"d69c833e5c894319cdb9ab8729fe01a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856870117
         }
     ],
     "wof:id":856870117,
-    "wof:lastmodified":1466484516,
+    "wof:lastmodified":1491892977,
     "wof:name":"Rainbow Crafts",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

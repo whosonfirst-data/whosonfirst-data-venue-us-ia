@@ -2,14 +2,20 @@
   "id": 856938125,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 S Gates St Oakland IA 51560",
+    "addr:housenumber":"411",
+    "addr:postcode":"51560",
+    "addr:street":"S Gates St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.397918,41.303529,-95.397918,41.303529",
     "geom:latitude":41.303529,
     "geom:longitude":-95.397918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 S Gates St",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082789,
         85872521
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TeceUYoViYsD6sS0XZQWT_41.303529_-95.397918@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464109567,
-    "wof:geomhash":"1d3cccbdcb6923c907c9c5a7ccd00b05",
+    "wof:geomhash":"2bd83639098cabce1578e5bf2a07ec1a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856938125,
-    "wof:lastmodified":1466485715,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":85872521,
     "wof:placetype":"venue",

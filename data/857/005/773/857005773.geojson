@@ -2,14 +2,20 @@
   "id": 857005773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1071 4th St Des Moines IA 50314",
+    "addr:housenumber":"1071",
+    "addr:postcode":"50314",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.622546,41.596964,-93.622546,41.596964",
     "geom:latitude":41.596964,
     "geom:longitude":-93.622546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1071 4th St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086603,
         85896427
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T8f73mqfiXeb9vl8rpTtj_41.596964_-93.622546@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112600,
-    "wof:geomhash":"5da523caae77b2525f9c2e1ab0342772",
+    "wof:geomhash":"a5fd7467dc585e0b411a2d8adc5fe831",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857005773,
-    "wof:lastmodified":1466481934,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85896427,
     "wof:placetype":"venue",

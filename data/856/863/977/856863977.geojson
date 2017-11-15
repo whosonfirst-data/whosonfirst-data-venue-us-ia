@@ -2,9 +2,14 @@
   "id": 856863977,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Parkview Ln Carlisle IA 50047",
+    "addr:housenumber":"720",
+    "addr:postcode":"50047",
+    "addr:street":"Parkview Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.494004,41.489302,-93.494004,41.489302",
     "geom:latitude":41.489302,
     "geom:longitude":-93.494004,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"a4bacd9b522d86f1f469caa97127e49d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856863977
         }
     ],
     "wof:id":856863977,
-    "wof:lastmodified":1466484626,
+    "wof:lastmodified":1491893073,
     "wof:name":"Cutler Group Inc",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

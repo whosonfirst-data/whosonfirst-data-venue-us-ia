@@ -2,14 +2,20 @@
   "id": 856967171,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Hull Ave Des Moines IA 50316",
+    "addr:housenumber":"910",
+    "addr:postcode":"50316",
+    "addr:street":"Hull Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.604799,41.622329,-93.604799,41.622329",
     "geom:latitude":41.622329,
     "geom:longitude":-93.604799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"910 Hull Ave",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896431
     ],
+    "wof:brand_id":1125156791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d815REzmeCelfd4pPtCAS_41.622329_-93.604799@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464110831,
-    "wof:geomhash":"2f1c297a17a70384dcd791c41b6fae70",
+    "wof:geomhash":"4f143cfc2e7971c942f06fa9958a22f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856967171,
-    "wof:lastmodified":1466486137,
+    "wof:lastmodified":1510695703,
     "wof:name":"My Place",
     "wof:parent_id":85896431,
     "wof:placetype":"venue",

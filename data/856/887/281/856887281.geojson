@@ -2,6 +2,10 @@
   "id": 856887281,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 E College St Iowa City IA 52240",
+    "addr:housenumber":"103",
+    "addr:postcode":"52240",
+    "addr:street":"E College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856887281,
-    "wof:lastmodified":1466484889,
+    "wof:lastmodified":1472620267,
     "wof:name":"Des Moines Register News",
     "wof:parent_id":85896439,
     "wof:placetype":"venue",

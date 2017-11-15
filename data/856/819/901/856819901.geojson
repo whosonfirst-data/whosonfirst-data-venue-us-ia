@@ -2,14 +2,20 @@
   "id": 856819901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Ashby Ave Des Moines IA 50310",
+    "addr:housenumber":"4300",
+    "addr:postcode":"50310",
+    "addr:street":"Ashby Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.676883,41.624016,-93.676883,41.624016",
     "geom:latitude":41.624016,
     "geom:longitude":-93.676883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Ashby Ave",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -24,19 +30,37 @@
     "sg:postcode":"50310",
     "sg:province":"IA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877051
+    ],
+    "wof:brand_id":1125159969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xXWSbK6e8AUIkSh6qvWHE_41.624016_-93.676883@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104096,
-    "wof:geomhash":"8135d4ab8642c6e497a274430ab30f01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbf1c318ed7e5fe1906594b3816e1e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877051,
+            "region_id":85688713,
+            "venue_id":856819901
+        }
+    ],
     "wof:id":856819901,
-    "wof:lastmodified":1466483455,
+    "wof:lastmodified":1510693851,
     "wof:name":"Origins",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

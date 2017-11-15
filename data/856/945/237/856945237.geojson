@@ -2,9 +2,14 @@
   "id": 856945237,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 Forest Ave Des Moines IA 50311",
+    "addr:housenumber":"6111",
+    "addr:postcode":"50311",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.701405,41.603572,-93.701405,41.603572",
     "geom:latitude":41.603572,
     "geom:longitude":-93.701405,
@@ -35,7 +40,8 @@
         85633793,
         85944061,
         102086603,
-        85877115
+        85877115,
+        420520209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,21 @@
             "neighbourhood_id":85877115,
             "region_id":85688713,
             "venue_id":856945237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":420520209,
+            "region_id":85688713,
+            "venue_id":856945237
         }
     ],
     "wof:id":856945237,
-    "wof:lastmodified":1466485812,
+    "wof:lastmodified":1491909451,
     "wof:name":"Alpine Chimney Sweep Inc",
-    "wof:parent_id":85877115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

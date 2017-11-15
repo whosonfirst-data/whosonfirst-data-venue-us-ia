@@ -2,6 +2,10 @@
   "id": 856775631,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Franklin Ave Des Moines IA 50314",
+    "addr:housenumber":"123",
+    "addr:postcode":"50314",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856775631,
-    "wof:lastmodified":1466481957,
+    "wof:lastmodified":1472619950,
     "wof:name":"Catering By John Maher",
     "wof:parent_id":85877101,
     "wof:placetype":"venue",

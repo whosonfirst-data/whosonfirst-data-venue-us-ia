@@ -2,9 +2,14 @@
   "id": 856891783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1833 Hubbell Ave Des Moines IA 50316",
+    "addr:housenumber":"1833",
+    "addr:postcode":"50316",
+    "addr:street":"Hubbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.584926,41.597004,-93.584926,41.597004",
     "geom:latitude":41.597004,
     "geom:longitude":-93.584926,
@@ -27,7 +32,14 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WCuYPZ7UVLAPFY2Gq8NVr_41.597004_-93.584926@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464107753,
     "wof:geomhash":"d2e0667a9eb37cd49c1b90ad732d136e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877053,
+            "region_id":85688713,
+            "venue_id":856891783
+        }
+    ],
     "wof:id":856891783,
-    "wof:lastmodified":1466485048,
+    "wof:lastmodified":1491909174,
     "wof:name":"Elis Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 856772585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 2nd St Cedar Rapids IA 52403",
+    "addr:housenumber":"1234",
+    "addr:postcode":"52403",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":856772585,
-    "wof:lastmodified":1466481822,
+    "wof:lastmodified":1472619935,
     "wof:name":"Darwin Harmening",
     "wof:parent_id":85839927,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 856792277,
   "type": "Feature",
   "properties": {
+    "addr:full":"2661 NE 46th Ave Des Moines IA 50317",
+    "addr:housenumber":"2661",
+    "addr:postcode":"50317",
+    "addr:street":"Ne 46Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.567056,41.643963,-93.567056,41.643963",
     "geom:latitude":41.643963,
     "geom:longitude":-93.567056,
@@ -28,7 +33,14 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YLUXF9X0AEYlDdcGp4bSl_41.643963_-93.567056@1294088824"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1464102871,
     "wof:geomhash":"6b3d4e6fa1e7d28e4265ccb396a52f0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877059,
+            "region_id":85688713,
+            "venue_id":856792277
+        }
+    ],
     "wof:id":856792277,
-    "wof:lastmodified":1466482330,
+    "wof:lastmodified":1491905908,
     "wof:name":"Des Moines Portable Welding",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],

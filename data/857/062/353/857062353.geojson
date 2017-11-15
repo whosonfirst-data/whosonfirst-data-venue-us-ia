@@ -2,14 +2,20 @@
   "id": 857062353,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Dial Dr Council Bluffs IA 51501",
+    "addr:housenumber":"3000",
+    "addr:postcode":"51501",
+    "addr:street":"Dial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.849998,41.229698,-95.849998,41.229698",
     "geom:latitude":41.229698,
     "geom:longitude":-95.849998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3000 Dial Dr",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086657,
         85872529
     ],
+    "wof:brand_id":1125152695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y9e8SViWqn0mvfPRl2Lc1_41.229698_-95.849998@1303262801"
     },
     "wof:country":"US",
     "wof:created":1464115000,
-    "wof:geomhash":"6c63c5c5b40bb0a551b07197e96a1729",
+    "wof:geomhash":"9b86b044a0397ee2351d5c161bb6411f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857062353,
-    "wof:lastmodified":1466483765,
+    "wof:lastmodified":1510696801,
     "wof:name":"Applebee's Neighborhood Grill & Bar",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",

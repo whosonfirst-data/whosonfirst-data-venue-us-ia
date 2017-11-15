@@ -2,14 +2,20 @@
   "id": 857068309,
   "type": "Feature",
   "properties": {
+    "addr:full":"4444 1st Ave NE Ste 210 Cedar Rapids IA 52402",
+    "addr:housenumber":"4444",
+    "addr:postcode":"52402",
+    "addr:street":"1St Ave Ne Ste 210",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.627116,42.023241,-91.627116,42.023241",
     "geom:latitude":42.023241,
     "geom:longitude":-91.627116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4444 1st Ave NE Ste 210",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086551,
         85876625
     ],
+    "wof:brand_id":1125154771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c4mP5gym3Vo27iDV4GO3R_42.023241_-91.627116@1303262803"
     },
     "wof:country":"US",
     "wof:created":1464115253,
-    "wof:geomhash":"17111a7cfcd230a0dec9a96f025df2b8",
+    "wof:geomhash":"b7007bdb8d10b63a5efac03e9da52800",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857068309,
-    "wof:lastmodified":1466483955,
+    "wof:lastmodified":1510699042,
     "wof:name":"Mastercuts",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",

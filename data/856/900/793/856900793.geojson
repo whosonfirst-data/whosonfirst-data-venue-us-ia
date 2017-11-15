@@ -2,6 +2,10 @@
   "id": 856900793,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 State Hwy 1 Iowa City IA 52246",
+    "addr:housenumber":"1001",
+    "addr:postcode":"52246",
+    "addr:street":"State Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856900793,
-    "wof:lastmodified":1466485237,
+    "wof:lastmodified":1472620339,
     "wof:name":"US Cellular",
     "wof:parent_id":85896439,
     "wof:placetype":"venue",

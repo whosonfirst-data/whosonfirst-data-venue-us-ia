@@ -2,9 +2,14 @@
   "id": 856965927,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 S C St Indianola IA 50125",
+    "addr:housenumber":"208",
+    "addr:postcode":"50125",
+    "addr:street":"S C St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.564932,41.358441,-93.564932,41.358441",
     "geom:latitude":41.358441,
     "geom:longitude":-93.564932,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688713,
+        102191575,
         85633793,
-        85820071,
-        102086537
+        85944061,
+        102086603,
+        85820071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
     "wof:geomhash":"14f4ffe3250f83f49eb441f5d6ea05ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086537,
+            "county_id":102086603,
+            "locality_id":85944061,
             "neighbourhood_id":85820071,
             "region_id":85688713,
             "venue_id":856965927
         }
     ],
     "wof:id":856965927,
-    "wof:lastmodified":1466486283,
+    "wof:lastmodified":1491892985,
     "wof:name":"Anp Foot & Ankle Clinic",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",

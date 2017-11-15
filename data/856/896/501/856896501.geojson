@@ -2,14 +2,20 @@
   "id": 856896501,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 NE Delaware Ave Ankeny IA 50021",
+    "addr:housenumber":"107",
+    "addr:postcode":"50021",
+    "addr:street":"Ne Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580983,41.735743,-93.580983,41.735743",
     "geom:latitude":41.735743,
     "geom:longitude":-93.580983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 NE Delaware Ave",
     "sg:city":"Ankeny",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086603,
         85896317
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17kCLdLyKmSnqEXHhPbPXh_41.735743_-93.580983@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107919,
-    "wof:geomhash":"b5580a989e19878adf0137917b021ffe",
+    "wof:geomhash":"5a377576c0b1383a839f1cf4df00c3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856896501,
-    "wof:lastmodified":1466485012,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85896317,
     "wof:placetype":"venue",

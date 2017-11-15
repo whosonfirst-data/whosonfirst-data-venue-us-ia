@@ -2,9 +2,14 @@
   "id": 856928321,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 Kingman Blvd Des Moines IA 50311",
+    "addr:housenumber":"2911",
+    "addr:postcode":"50311",
+    "addr:street":"Kingman Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.659253,41.596662,-93.659253,41.596662",
     "geom:latitude":41.596662,
     "geom:longitude":-93.659253,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944061,
+        102086603,
+        85877067
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pGNjMOAtWnUvGusnm31MD_41.596662_-93.659253@1294088824"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1464109178,
     "wof:geomhash":"1a71ab79a1d693c554ee0280bd7a9081",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086603,
+            "locality_id":85944061,
+            "neighbourhood_id":85877067,
+            "region_id":85688713,
+            "venue_id":856928321
+        }
+    ],
     "wof:id":856928321,
-    "wof:lastmodified":1466485556,
+    "wof:lastmodified":1491930858,
     "wof:name":"Scisco Const",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
