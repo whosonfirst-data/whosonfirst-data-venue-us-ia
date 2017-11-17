@@ -7,13 +7,16 @@
     "addr:postcode":"52402",
     "addr:street":"1St Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.6474,41.993801,-91.6474,41.993801",
     "geom:latitude":41.993801,
     "geom:longitude":-91.6474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1650 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115240,
-    "wof:geomhash":"9d60f143d6da0d96c4485813575db044",
+    "wof:geomhash":"e8d79fac63305a30a07a388fc3dde7c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":857068001,
-    "wof:lastmodified":1472620152,
+    "wof:lastmodified":1510941711,
     "wof:name":"Iowa Eye Center Optical",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856840699
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

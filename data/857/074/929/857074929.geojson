@@ -7,13 +7,16 @@
     "addr:postcode":"50322",
     "addr:street":"Nw Urbandale Drive",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.758549,41.63446,-93.758549,41.63446",
     "geom:latitude":41.63446,
     "geom:longitude":-93.758549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4101 NW Urbandale Drive",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115563,
-    "wof:geomhash":"165c48029a7d71b9e1367f3e1d0db44e",
+    "wof:geomhash":"fcead61d54467a50be13bc981b20627e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":857074929,
-    "wof:lastmodified":1472620276,
+    "wof:lastmodified":1510941247,
     "wof:name":"Dice.com",
     "wof:parent_id":85896507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856886467
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

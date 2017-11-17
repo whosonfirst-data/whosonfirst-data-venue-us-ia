@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.661598,41.9841,-91.661598,41.9841",
     "geom:latitude":41.9841,
     "geom:longitude":-91.661598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"855 A Ave NE Ste 300",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115298,
-    "wof:geomhash":"6d5d673fa467a39cc7411f42d383ccda",
+    "wof:geomhash":"6d278a62cba2b4b3c6cf5af617e56236",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":857069279,
-    "wof:lastmodified":1472620182,
+    "wof:lastmodified":1510943469,
     "wof:name":"Cedar Rapids Pediatrics",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856782067
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"51501",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.901163,41.261999,-95.901163,41.261999",
     "geom:latitude":41.261999,
     "geom:longitude":-95.901163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3434 W Broadway",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464102461,
-    "wof:geomhash":"363e1ae118ce1485c663a5dfc2b89b04",
+    "wof:geomhash":"4785d724f46abdd6cb5151b952d851c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":856781057,
-    "wof:lastmodified":1472619946,
+    "wof:lastmodified":1510941315,
     "wof:name":"Bluffs Family Health Care",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857062409
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

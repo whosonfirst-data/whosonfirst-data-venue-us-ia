@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.837196,41.266201,-95.837196,41.266201",
     "geom:latitude":41.266201,
     "geom:longitude":-95.837196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Edmundson Pl",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115055,
-    "wof:geomhash":"30643348ec902667309a5eebe1d049be",
+    "wof:geomhash":"f80caff37e35811847467dd1610b7239",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":857063791,
-    "wof:lastmodified":1472620209,
+    "wof:lastmodified":1510943966,
     "wof:name":"Hopp Russell J DO",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857063519
+    ],
     "wof:tags":[
         "practice",
         "family"

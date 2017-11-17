@@ -7,13 +7,16 @@
     "addr:postcode":"51503",
     "addr:street":"Mercy Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.83352,41.267421,-95.83352,41.267421",
     "geom:latitude":41.267421,
     "geom:longitude":-95.83352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Mercy Dr",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464102835,
-    "wof:geomhash":"c87baa44691deb3ba606bda28f54b327",
+    "wof:geomhash":"2e7cf62205cc3d380da23d7b4c276f56",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":856791463,
-    "wof:lastmodified":1472620006,
+    "wof:lastmodified":1510943999,
     "wof:name":"Mercy Hospital",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857063301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

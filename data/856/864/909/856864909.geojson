@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.841003,41.269841,-95.841003,41.269841",
     "geom:latitude":41.269841,
     "geom:longitude":-95.841003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 Harmony St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464106198,
-    "wof:geomhash":"8650ada6c7a31c87df1f53ecbcc72cc5",
+    "wof:geomhash":"1d19dc7df729dde71300843be1133180",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":856864909,
-    "wof:lastmodified":1472620260,
+    "wof:lastmodified":1510942072,
     "wof:name":"Alegent Health Clinic",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857063235
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

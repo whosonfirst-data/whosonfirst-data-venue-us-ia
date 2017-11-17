@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.827419,41.2447,-95.827419,41.2447",
     "geom:latitude":41.2447,
     "geom:longitude":-95.827419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1751 Madison Ave",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464112213,
-    "wof:geomhash":"179e328f0a49602d4ffb4b383dcee3b1",
+    "wof:geomhash":"61f7dfecb30ac3c9c935851bc14ac3d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":856995933,
-    "wof:lastmodified":1472620484,
+    "wof:lastmodified":1510942252,
     "wof:name":"Greenberg's Jewelry",
     "wof:parent_id":85872529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857063339
+    ],
     "wof:tags":[
         "jeweler"
     ]

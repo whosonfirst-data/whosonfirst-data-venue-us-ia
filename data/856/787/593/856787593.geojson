@@ -7,13 +7,16 @@
     "addr:postcode":"52402",
     "addr:street":"1St Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.646582,41.991436,-91.646582,41.991436",
     "geom:latitude":41.991436,
     "geom:longitude":-91.646582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1730 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464102683,
-    "wof:geomhash":"2e3946f243be573ac5adcade82b9f39a",
+    "wof:geomhash":"dd8085c188a7a71e6952bcea0d177fc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":856787593,
-    "wof:lastmodified":1472620009,
+    "wof:lastmodified":1510942316,
     "wof:name":"Cedar Centre Psychiatric Group",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857068879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"

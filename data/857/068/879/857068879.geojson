@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.6474,41.993801,-91.6474,41.993801",
     "geom:latitude":41.993801,
     "geom:longitude":-91.6474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1730 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115284,
-    "wof:geomhash":"9d60f143d6da0d96c4485813575db044",
+    "wof:geomhash":"e8d79fac63305a30a07a388fc3dde7c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":857068879,
-    "wof:lastmodified":1472620212,
+    "wof:lastmodified":1510942316,
     "wof:name":"Cedar Centre Psychiatric Group",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856787593
+    ],
     "wof:tags":[
         "counseling",
         "mental",

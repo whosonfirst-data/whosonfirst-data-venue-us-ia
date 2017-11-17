@@ -7,13 +7,16 @@
     "addr:postcode":"51501",
     "addr:street":"W Broadway Ste 102",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.900365,41.26195,-95.900365,41.26195",
     "geom:latitude":41.26195,
     "geom:longitude":-95.900365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3434 W Broadway Ste 102",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115023,
-    "wof:geomhash":"8246940e0a893d6c0a4da6d8e2a121eb",
+    "wof:geomhash":"da7fa6effc86707a1fb1d886a5a2ee2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":857063047,
-    "wof:lastmodified":1472620156,
+    "wof:lastmodified":1510943341,
     "wof:name":"Desouza Euclid J MD",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857062749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

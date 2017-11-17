@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.346902,42.44743,-96.346902,42.44743",
     "geom:latitude":42.44743,
     "geom:longitude":-96.346902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 Sergeant Rd",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_2JT7ug8LaioMeHZcy9gLuZ_42.447430_-96.346902@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd1dc38c54da419bcf74fc4e1c8d8a25",
+    "wof:geomhash":"a27ddf5d7b15425e71b0ee6123d7b1b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":387126197,
-    "wof:lastmodified":1472619946,
+    "wof:lastmodified":1510944110,
     "wof:name":"Claire's Boutique",
     "wof:parent_id":85835267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856812755
+    ],
     "wof:tags":[
         "item",
         "boutique"

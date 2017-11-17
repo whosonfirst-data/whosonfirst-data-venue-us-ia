@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.648432,41.585788,-93.648432,41.585788",
     "geom:latitude":41.585788,
     "geom:longitude":-93.648432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2103 Ingersoll Ave",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":151438407,
         "sg:id":"SG_3AEBzsW4Tm2g5kZfipQLMj_41.585788_-93.648432@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104013,
-    "wof:geomhash":"c8cd581200593fb6fcbca4e24fc3b984",
+    "wof:geomhash":"dd95e5aae1f91802565d1a7870877cfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":856819129,
-    "wof:lastmodified":1472620068,
+    "wof:lastmodified":1510943344,
     "wof:name":"Ingersoll Family Physicians",
     "wof:parent_id":85877105,
     "wof:placetype":"venue",
