@@ -2,18 +2,24 @@
   "id": 856996853,
   "type": "Feature",
   "properties": {
-    "addr:full":"323 S Main St Spillville IA 52168",
+    "addr:city":"Spillville",
+    "addr:full":"323 S Main St Spillville, Ia 52168",
+    "addr:house_number":"323",
     "addr:housenumber":"323",
+    "addr:phone":"+1 563-562-3569",
     "addr:postcode":"52168",
+    "addr:road":"S Main St",
+    "addr:state":"IA",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.951065,43.201911,-91.951065,43.201911",
-    "geom:latitude":43.201911,
-    "geom:longitude":-91.951065,
+    "geom:bbox":"-91.95089,43.20202,-91.95089,43.20202",
+    "geom:latitude":43.20202,
+    "geom:longitude":-91.95089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"323 S Main St",
     "sg:city":"Spillville",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 563 562 3569",
     "sg:postcode":"52168",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525825
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900116,
         "sg:id":"SG_5NiMKScYRHiDhIrS407jmV_43.201911_-91.951065@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112252,
-    "wof:geomhash":"a67536b2a1fd0766aa063d558b84c633",
+    "wof:geomhash":"d5c9f95fe97b3cb40912df956f492146",
     "wof:hierarchy":[],
     "wof:id":856996853,
-    "wof:lastmodified":1472620488,
-    "wof:name":"Bily Clocks/Antonin Dvorak",
+    "wof:lastmodified":1534184697,
+    "wof:name":"Bily Clocks Museum & Antonin Dvorak Exhibit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.951065,
-    43.201911,
-    -91.951065,
-    43.201911
+    -91.95089,
+    43.20202,
+    -91.95089,
+    43.20202
 ],
-  "geometry": {"coordinates":[-91.951065,43.201911],"type":"Point"}
+  "geometry": {"coordinates":[-91.95089,43.20202],"type":"Point"}
 }

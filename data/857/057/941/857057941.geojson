@@ -7,6 +7,7 @@
     "addr:postcode":"50322",
     "addr:street":"86Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-93.736019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"3441 86th St",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"9272b04fd323fb1a58eaa3c771295595",
     "wof:hierarchy":[],
     "wof:id":857057941,
-    "wof:lastmodified":1512142939,
+    "wof:lastmodified":1534184696,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856896113
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

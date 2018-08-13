@@ -2,18 +2,24 @@
   "id": 856819945,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 S 2nd St Winterset IA 50273",
+    "addr:city":"Winterset",
+    "addr:full":"216 S 2Nd St Winterset, Ia 50273-1910",
+    "addr:house_number":"216",
     "addr:housenumber":"216",
-    "addr:postcode":"50273",
+    "addr:phone":"+1 515-462-1044",
+    "addr:postcode":"50273-1910",
+    "addr:road":"S 2Nd St",
+    "addr:state":"IA",
     "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.01224,41.333335,-94.01224,41.333335",
-    "geom:latitude":41.333335,
-    "geom:longitude":-94.01224,
+    "geom:bbox":"-94.01226,41.33324,-94.01226,41.33324",
+    "geom:latitude":41.33324,
+    "geom:longitude":-94.01226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"216 S 2nd St",
     "sg:city":"Winterset",
     "sg:classifiers":[
@@ -28,19 +34,21 @@
     "sg:postcode":"50273",
     "sg:province":"IA",
     "sg:website":"www.johnwaynebirthplace.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900408,
         "sg:id":"SG_7lG0dKc4GCmhSyavqOK4pO_41.333335_-94.012240@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464104098,
-    "wof:geomhash":"69f58bc7e38b61ec5bfd7f522f69462b",
+    "wof:geomhash":"8f6158de01a94f091035098ddd794757",
     "wof:hierarchy":[],
     "wof:id":856819945,
-    "wof:lastmodified":1472620133,
-    "wof:name":"John Wayne Birthplace",
+    "wof:lastmodified":1534184694,
+    "wof:name":"John Wayne Birthplace Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -49,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.01224,
-    41.333335,
-    -94.01224,
-    41.333335
+    -94.01226,
+    41.33324,
+    -94.01226,
+    41.33324
 ],
-  "geometry": {"coordinates":[-94.01224000000001,41.333335],"type":"Point"}
+  "geometry": {"coordinates":[-94.01226,41.33324],"type":"Point"}
 }

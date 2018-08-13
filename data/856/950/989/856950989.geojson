@@ -7,6 +7,7 @@
     "addr:postcode":"50309",
     "addr:street":"6Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.624682,41.585829,-93.624682,41.585829",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.624682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"206 6th Ave",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -36,15 +38,17 @@
     },
     "wof:country":"US",
     "wof:created":1464110122,
-    "wof:geomhash":"b5bea5d1243eb46adcf5f16c9c122209",
+    "wof:geomhash":"d9e2f089ccd754eafc9519e751fb4b69",
     "wof:hierarchy":[],
     "wof:id":856950989,
-    "wof:lastmodified":1472620447,
+    "wof:lastmodified":1534184694,
     "wof:name":"Polk County Restorative Justic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856871763
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

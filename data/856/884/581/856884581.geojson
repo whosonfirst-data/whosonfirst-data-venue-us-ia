@@ -7,6 +7,7 @@
     "addr:postcode":"52402",
     "addr:street":"1St Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.631608,42.020418,-91.631608,42.020418",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.631608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4040 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464107449,
-    "wof:geomhash":"1d64dc119a7a200bf18d532e7e3125c0",
+    "wof:geomhash":"30dc7cd164aaffbc1ab2cd936aeefc34",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":856884581,
-    "wof:lastmodified":1472620282,
+    "wof:lastmodified":1534184696,
     "wof:name":"Tom Riley Law Firm",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857068967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -7,6 +7,7 @@
     "addr:postcode":"51503",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.847099,41.2616,-95.847099,41.2616",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.847099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 W Broadway",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115039,
-    "wof:geomhash":"9b99b19273ed098b6bd609bc38a9e169",
+    "wof:geomhash":"81de51cb2e4470c02077da6b763e5894",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857063513,
-    "wof:lastmodified":1472620194,
+    "wof:lastmodified":1534184697,
     "wof:name":"Sales Consultants of Riverside Inc",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856925545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

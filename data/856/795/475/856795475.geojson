@@ -2,18 +2,23 @@
   "id": 856795475,
   "type": "Feature",
   "properties": {
-    "addr:full":"3603 236th Ave Decorah IA 52101",
+    "addr:city":"Burr Oak",
+    "addr:full":"3603 236Th Ave Burr Oak, Ia 52101-7889",
+    "addr:house_number":"3603",
     "addr:housenumber":"3603",
-    "addr:postcode":"52101",
+    "addr:postcode":"52101-7889",
+    "addr:road":"236Th Ave",
+    "addr:state":"IA",
     "addr:street":"236Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.865037,43.469558,-91.865037,43.469558",
-    "geom:latitude":43.469558,
-    "geom:longitude":-91.865037,
+    "geom:bbox":"-91.86862,43.4718,-91.86862,43.4718",
+    "geom:latitude":43.4718,
+    "geom:longitude":-91.86862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3603 236th Ave",
     "sg:city":"Decorah",
     "sg:classifiers":[
@@ -27,19 +32,23 @@
     "sg:phone":"+1 563 735 5916",
     "sg:postcode":"52101",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525825
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900208,
         "sg:id":"SG_7mq2tAnVnvMPHwfSWr7c8t_43.469558_-91.865037@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102993,
-    "wof:geomhash":"5a3cfdd01a51ceb581ff684d26dd45b3",
+    "wof:geomhash":"7310525613b7b77d509a6cb1b14f30c5",
     "wof:hierarchy":[],
     "wof:id":856795475,
-    "wof:lastmodified":1472620048,
-    "wof:name":"Laura Ingalls Wilder Park",
+    "wof:lastmodified":1534184694,
+    "wof:name":"Laura Ingalls Wilder Park & Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -48,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.865037,
-    43.469558,
-    -91.865037,
-    43.469558
+    -91.86862,
+    43.4718,
+    -91.86862,
+    43.4718
 ],
-  "geometry": {"coordinates":[-91.865037,43.469558],"type":"Point"}
+  "geometry": {"coordinates":[-91.86862000000001,43.4718],"type":"Point"}
 }

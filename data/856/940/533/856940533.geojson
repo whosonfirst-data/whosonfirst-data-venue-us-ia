@@ -7,6 +7,7 @@
     "addr:postcode":"50125",
     "addr:street":"N Buxton St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-93.562305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 N Buxton St",
     "sg:city":"Indianola",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464109701,
-    "wof:geomhash":"624300b0d49e496b56007102879fd57c",
+    "wof:geomhash":"f162ea364bf3cd1879ab34fce7ae883d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":856940533,
-    "wof:lastmodified":1491893075,
+    "wof:lastmodified":1534184697,
     "wof:name":"Zoning",
     "wof:parent_id":85820071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856987541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development"

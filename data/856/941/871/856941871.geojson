@@ -7,6 +7,7 @@
     "addr:postcode":"50309",
     "addr:street":"Mulberry St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.624281,41.584979,-93.624281,41.584979",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.624281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Mulberry St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464109753,
-    "wof:geomhash":"42f5da7647547515ffe417f66ccb8d80",
+    "wof:geomhash":"14d342aae504a69acb7640c66fbbc121",
     "wof:hierarchy":[],
     "wof:id":856941871,
-    "wof:lastmodified":1472620396,
+    "wof:lastmodified":1534184697,
     "wof:name":"Joel Novak Honorable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856970621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

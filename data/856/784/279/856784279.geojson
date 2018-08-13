@@ -2,18 +2,24 @@
   "id": 856784279,
   "type": "Feature",
   "properties": {
-    "addr:full":"2001 Fuller Rd West Des Moines IA 50265",
+    "addr:city":"West Des Moines",
+    "addr:full":"2001 Fuller Rd West Des Moines, Ia 50265",
+    "addr:house_number":"2001",
     "addr:housenumber":"2001",
+    "addr:phone":"+1 515-225-1286",
     "addr:postcode":"50265",
+    "addr:road":"Fuller Rd",
+    "addr:state":"IA",
     "addr:street":"Fuller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.733148,41.560535,-93.733148,41.560535",
-    "geom:latitude":41.560535,
-    "geom:longitude":-93.733148,
+    "geom:bbox":"-93.73286,41.56077,-93.73286,41.56077",
+    "geom:latitude":41.56077,
+    "geom:longitude":-93.73286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2001 Fuller Rd",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "art",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525803
+    ],
     "wof:belongsto":[
         85688713,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900075,
         "sg:id":"SG_6wGGgKCT7kB3ePU9stHoZz_41.560535_-93.733148@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102536,
-    "wof:geomhash":"f2924394dad31a6eae5b3da9f7a91481",
+    "wof:geomhash":"8f12046688345fadcf7f1d27ad7ec466",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":856784279,
-    "wof:lastmodified":1472619979,
-    "wof:name":"The Jordan House",
+    "wof:lastmodified":1534184694,
+    "wof:name":"Jordan House Museum",
     "wof:parent_id":85896521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -93.733148,
-    41.560535,
-    -93.733148,
-    41.560535
+    -93.73286,
+    41.56077,
+    -93.73286,
+    41.56077
 ],
-  "geometry": {"coordinates":[-93.733148,41.560535],"type":"Point"}
+  "geometry": {"coordinates":[-93.73286,41.56077],"type":"Point"}
 }

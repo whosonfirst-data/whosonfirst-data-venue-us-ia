@@ -2,18 +2,24 @@
   "id": 856812513,
   "type": "Feature",
   "properties": {
-    "addr:full":"1507 Sanborn Ave Okoboji IA 51355",
+    "addr:city":"Okoboji",
+    "addr:full":"1507 Sanborn Ave Okoboji, Ia 51355",
+    "addr:house_number":"1507",
     "addr:housenumber":"1507",
+    "addr:phone":"+1 712-332-5859",
     "addr:postcode":"51355",
+    "addr:road":"Sanborn Ave",
+    "addr:state":"IA",
     "addr:street":"Sanborn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.137039,43.382078,-95.137039,43.382078",
-    "geom:latitude":43.382078,
-    "geom:longitude":-95.137039,
+    "geom:bbox":"-95.13831,43.38645,-95.13831,43.38645",
+    "geom:latitude":43.38645,
+    "geom:longitude":-95.13831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1507 Sanborn Ave",
     "sg:city":"Okoboji",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 712 332 5859",
     "sg:postcode":"51355",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533381
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900095,
         "sg:id":"SG_7dWywGn5Wt9ija2xu4nkti_43.382078_-95.137039@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103732,
-    "wof:geomhash":"73d9f80b7d8689b79ea26b519abfb4a6",
+    "wof:geomhash":"c5e6b377f6a3468e99ed066c8d126ad0",
     "wof:hierarchy":[],
     "wof:id":856812513,
-    "wof:lastmodified":1472620097,
+    "wof:lastmodified":1534184694,
     "wof:name":"Higgins Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.137039,
-    43.382078,
-    -95.137039,
-    43.382078
+    -95.13831,
+    43.38645,
+    -95.13831,
+    43.38645
 ],
-  "geometry": {"coordinates":[-95.137039,43.382078],"type":"Point"}
+  "geometry": {"coordinates":[-95.13831,43.38645],"type":"Point"}
 }

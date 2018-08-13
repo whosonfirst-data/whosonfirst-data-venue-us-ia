@@ -7,6 +7,7 @@
     "addr:postcode":"51503",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.845996,41.262141,-95.845996,41.262141",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.845996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 W Broadway",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464111698,
-    "wof:geomhash":"2126e328141ce1b4153931ba24bb819b",
+    "wof:geomhash":"63e6359dd73063456022ffa7df5509ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":856984229,
-    "wof:lastmodified":1472620474,
+    "wof:lastmodified":1534184695,
     "wof:name":"Iowa Workfoce Development Ctr",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857063571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

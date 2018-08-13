@@ -2,18 +2,24 @@
   "id": 856994813,
   "type": "Feature",
   "properties": {
-    "addr:full":"515 E Jefferson St Corydon IA 50060",
+    "addr:city":"Corydon",
+    "addr:full":"515 E Jefferson St Corydon, Ia 50060",
+    "addr:house_number":"515",
     "addr:housenumber":"515",
+    "addr:phone":"+1 641-872-2211",
     "addr:postcode":"50060",
+    "addr:road":"E Jefferson St",
+    "addr:state":"IA",
     "addr:street":"E Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.311958,40.757242,-93.311958,40.757242",
-    "geom:latitude":40.757242,
-    "geom:longitude":-93.311958,
+    "geom:bbox":"-93.31889,40.75791,-93.31889,40.75791",
+    "geom:latitude":40.75791,
+    "geom:longitude":-93.31889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"515 E Jefferson St",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 641 872 2211",
     "sg:postcode":"50060",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900034,
         "sg:id":"SG_6cu0NmtMc7hnuxTTN4UINe_40.757242_-93.311958@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112172,
-    "wof:geomhash":"ca39723024e428c16859f3155b2b1391",
+    "wof:geomhash":"a41ecd04991ad9c14112f6f4dfbd095e",
     "wof:hierarchy":[],
     "wof:id":856994813,
-    "wof:lastmodified":1472620483,
-    "wof:name":"Prairie Trail Museum",
+    "wof:lastmodified":1534184697,
+    "wof:name":"Prairie Trails Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.311958,
-    40.757242,
-    -93.311958,
-    40.757242
+    -93.31889,
+    40.75791,
+    -93.31889,
+    40.75791
 ],
-  "geometry": {"coordinates":[-93.311958,40.757242],"type":"Point"}
+  "geometry": {"coordinates":[-93.31889,40.75791],"type":"Point"}
 }

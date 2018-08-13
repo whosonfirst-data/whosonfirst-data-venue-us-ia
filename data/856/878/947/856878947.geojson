@@ -2,18 +2,24 @@
   "id": 856878947,
   "type": "Feature",
   "properties": {
-    "addr:full":"13838 Edinburgh Rd Scotch Grove IA 52310",
+    "addr:city":"Scotch Grove",
+    "addr:full":"13838 Edinburgh Road Scotch Grove, Ia 52310",
+    "addr:house_number":"13838",
     "addr:housenumber":"13838",
+    "addr:phone":"+1 563-487-3711",
     "addr:postcode":"52310",
+    "addr:road":"Edinburgh Road",
+    "addr:state":"IA",
     "addr:street":"Edinburgh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.134372,42.132943,-91.134372,42.132943",
-    "geom:latitude":42.132943,
-    "geom:longitude":-91.134372,
+    "geom:bbox":"-91.13463,42.13336,-91.13463,42.13336",
+    "geom:latitude":42.13336,
+    "geom:longitude":-91.13463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"13838 Edinburgh Rd",
     "sg:city":"Scotch Grove",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 563 487 3711",
     "sg:postcode":"52310",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900349,
         "sg:id":"SG_2ejYxtDuhIyBnE24Mcqazk_42.132943_-91.134372@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107114,
-    "wof:geomhash":"5f98047f218e54fbe3ed448e24830a23",
+    "wof:geomhash":"8a642c68fee795ead9f206eea3613044",
     "wof:hierarchy":[],
     "wof:id":856878947,
-    "wof:lastmodified":1472620287,
-    "wof:name":"Jones Cnty Historical Society",
+    "wof:lastmodified":1534184695,
+    "wof:name":"Jones County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.134372,
-    42.132943,
-    -91.134372,
-    42.132943
+    -91.13463,
+    42.13336,
+    -91.13463,
+    42.13336
 ],
-  "geometry": {"coordinates":[-91.134372,42.132943],"type":"Point"}
+  "geometry": {"coordinates":[-91.13463,42.13336],"type":"Point"}
 }

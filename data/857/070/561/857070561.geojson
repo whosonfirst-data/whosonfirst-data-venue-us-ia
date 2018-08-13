@@ -14,6 +14,7 @@
     "geom:longitude":-91.716003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Edgewood Rd SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115360,
-    "wof:geomhash":"9f2c121fc76acf8b5638c8968a04ab42",
+    "wof:geomhash":"96a3b9167341d043001b71d4b95d75ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857070561,
-    "wof:lastmodified":1472620231,
+    "wof:lastmodified":1534184696,
     "wof:name":"Davis Craig Rl Est",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857070155
+    ],
     "wof:tags":[]
 },
   "bbox": [

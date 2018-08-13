@@ -7,6 +7,7 @@
     "addr:postcode":"52402",
     "addr:street":"Collins Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.637435,42.027992,-91.637435,42.027992",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.637435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"385 Collins Rd NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464110254,
-    "wof:geomhash":"2e5d399395d13aa7af6a129fd50b30b1",
+    "wof:geomhash":"1b7a6a6d69fd2138d616767c67004c7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":856953645,
-    "wof:lastmodified":1472620437,
+    "wof:lastmodified":1534184696,
     "wof:name":"Amy Arrington",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857068853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"52404",
     "addr:street":"Williams Blvd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-91.708659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2615 Williams Blvd SW",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":856846273,
-    "wof:lastmodified":1512142768,
+    "wof:lastmodified":1534184696,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85876635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857070007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

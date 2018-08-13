@@ -14,6 +14,7 @@
     "geom:longitude":-93.751854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 35th St",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464107708,
-    "wof:geomhash":"03d54dd506636bfa6ce58120717e96a7",
+    "wof:geomhash":"d13395eb9e80aa0599de89a4441ee248",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":856890453,
-    "wof:lastmodified":1472620282,
+    "wof:lastmodified":1534184695,
     "wof:name":"Fred Fernatt Tax & Financial",
     "wof:parent_id":85896523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856842701
+    ],
     "wof:tags":[
         "consultant",
         "planning",

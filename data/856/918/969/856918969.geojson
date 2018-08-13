@@ -14,6 +14,7 @@
     "geom:longitude":-91.637435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"385 Collins Rd NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464108769,
-    "wof:geomhash":"2e5d399395d13aa7af6a129fd50b30b1",
+    "wof:geomhash":"1b7a6a6d69fd2138d616767c67004c7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,16 @@
         }
     ],
     "wof:id":856918969,
-    "wof:lastmodified":1472620366,
+    "wof:lastmodified":1534184697,
     "wof:name":"Teresa Eldridge",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856790315,
+        857067557
+    ],
     "wof:tags":[]
 },
   "bbox": [

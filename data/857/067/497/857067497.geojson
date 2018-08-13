@@ -7,6 +7,7 @@
     "addr:postcode":"52402",
     "addr:street":"Council St Ne Ste 100",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.659599,42.026299,-91.659599,42.026299",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.659599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5264 Council St NE Ste 100",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115204,
-    "wof:geomhash":"7ebb8713d2761211f367b53aad636eb1",
+    "wof:geomhash":"1ffc7d33b413552234b2cf880ce16df5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857067497,
-    "wof:lastmodified":1472620200,
+    "wof:lastmodified":1534184696,
     "wof:name":"Mercycare Community Physicians",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857068235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

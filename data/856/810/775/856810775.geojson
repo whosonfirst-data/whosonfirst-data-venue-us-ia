@@ -7,6 +7,7 @@
     "addr:postcode":"51503",
     "addr:street":"Edmundson Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.835287,41.266836,-95.835287,41.266836",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.835287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Edmundson Pl",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464103665,
-    "wof:geomhash":"07d3b28857a63c119a3ba59cd9d47265",
+    "wof:geomhash":"2727807cf447b6e199fcd0c40edaec73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":856810775,
-    "wof:lastmodified":1472620103,
+    "wof:lastmodified":1534184695,
     "wof:name":"Cleo M Smyth Pa-C",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857063567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

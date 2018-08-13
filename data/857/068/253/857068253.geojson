@@ -14,6 +14,7 @@
     "geom:longitude":-91.636497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2720 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115251,
-    "wof:geomhash":"2dfefec71bbed0c95e00b2d04be05acd",
+    "wof:geomhash":"9a9834f78e525f6c4ae7ebf73116ae28",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857068253,
-    "wof:lastmodified":1472620173,
+    "wof:lastmodified":1534184696,
     "wof:name":"McDonough Michael Lwyr",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857068113
+    ],
     "wof:tags":[
         "personal",
         "injury"

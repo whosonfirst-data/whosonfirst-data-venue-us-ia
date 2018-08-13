@@ -7,6 +7,7 @@
     "addr:postcode":"52806",
     "addr:street":"W Kimberly Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.581055,41.56026,-90.581055,41.56026",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.581055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 W Kimberly Rd",
     "sg:city":"Davenport",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464106282,
-    "wof:geomhash":"4e29af9a80c6c5ada6dc2aa2fe8ad9ab",
+    "wof:geomhash":"98b840afd9d8393987d56207957421b5",
     "wof:hierarchy":[],
     "wof:id":856866207,
-    "wof:lastmodified":1472620242,
+    "wof:lastmodified":1534184696,
     "wof:name":"China Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857074433
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

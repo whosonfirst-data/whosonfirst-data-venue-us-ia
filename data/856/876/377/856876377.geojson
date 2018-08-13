@@ -2,18 +2,24 @@
   "id": 856876377,
   "type": "Feature",
   "properties": {
-    "addr:full":"407 Pearl St Sioux City IA 51101",
+    "addr:city":"Sioux City",
+    "addr:full":"407 Pearl St Sioux City, Ia 51101",
+    "addr:house_number":"407",
     "addr:housenumber":"407",
+    "addr:phone":"+1 712-224-5001",
     "addr:postcode":"51101",
+    "addr:road":"Pearl St",
+    "addr:state":"IA",
     "addr:street":"Pearl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.407902,42.495236,-96.407902,42.495236",
-    "geom:latitude":42.495236,
-    "geom:longitude":-96.407902,
+    "geom:bbox":"-96.40798,42.49428,-96.40798,42.49428",
+    "geom:latitude":42.49428,
+    "geom:longitude":-96.40798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"407 Pearl St",
     "sg:city":"Sioux City",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526703
+    ],
     "wof:belongsto":[
         85688713,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900032,
         "sg:id":"SG_5Yt3d3Yr79mjJspMu73j11_42.495236_-96.407902@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107000,
-    "wof:geomhash":"8fe80f2888d5e514bf0bf3da4ffed988",
+    "wof:geomhash":"43d30cfdac822dde96862960ad1c95b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":856876377,
-    "wof:lastmodified":1472620265,
-    "wof:name":"Pearl Street Research Ctr",
+    "wof:lastmodified":1534184694,
+    "wof:name":"Pearl Street Research Center",
     "wof:parent_id":85850679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -96.407902,
-    42.495236,
-    -96.407902,
-    42.495236
+    -96.40798,
+    42.49428,
+    -96.40798,
+    42.49428
 ],
-  "geometry": {"coordinates":[-96.40790200000001,42.495236],"type":"Point"}
+  "geometry": {"coordinates":[-96.40797999999999,42.49428],"type":"Point"}
 }

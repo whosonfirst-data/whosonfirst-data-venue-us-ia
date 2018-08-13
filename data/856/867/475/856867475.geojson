@@ -2,18 +2,24 @@
   "id": 856867475,
   "type": "Feature",
   "properties": {
-    "addr:full":"1875 Peach Ave Madrid IA 50156",
+    "addr:city":"Madrid",
+    "addr:full":"1875 Peach Ave Madrid, Ia 50156-7571",
+    "addr:house_number":"1875",
     "addr:housenumber":"1875",
-    "addr:postcode":"50156",
+    "addr:phone":"+1 515-795-3216",
+    "addr:postcode":"50156-7571",
+    "addr:road":"Peach Ave",
+    "addr:state":"IA",
     "addr:street":"Peach Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.859248,41.939358,-93.859248,41.939358",
-    "geom:latitude":41.939358,
-    "geom:longitude":-93.859248,
+    "geom:bbox":"-93.8612,41.95041,-93.8612,41.95041",
+    "geom:latitude":41.95041,
+    "geom:longitude":-93.8612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1875 Peach Ave",
     "sg:city":"Madrid",
     "sg:classifiers":[
@@ -27,18 +33,23 @@
     "sg:phone":"+1 515 795 3216",
     "sg:postcode":"50156",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527563,
+        102531839
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900647,
         "sg:id":"SG_0l48iP9umOmPRgHh4Um6yr_41.939358_-93.859248@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464106345,
-    "wof:geomhash":"a5cec75213f35796c72da45ddb9d2587",
+    "wof:geomhash":"747098e4fb45176c3cb4ff80242bd901",
     "wof:hierarchy":[],
     "wof:id":856867475,
-    "wof:lastmodified":1472620251,
+    "wof:lastmodified":1534184694,
     "wof:name":"Iowa Arboretum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.859248,
-    41.939358,
-    -93.859248,
-    41.939358
+    -93.8612,
+    41.95041,
+    -93.8612,
+    41.95041
 ],
-  "geometry": {"coordinates":[-93.85924799999999,41.939358],"type":"Point"}
+  "geometry": {"coordinates":[-93.8612,41.95041],"type":"Point"}
 }

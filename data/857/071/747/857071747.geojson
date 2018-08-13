@@ -14,6 +14,7 @@
     "geom:longitude":-91.151034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1818 W Burlington Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464115405,
-    "wof:geomhash":"5c13e72dcaf8e02c10c65ca6765af6f8",
+    "wof:geomhash":"a479560aea48e2e88ed9fe0886e86eb6",
     "wof:hierarchy":[],
     "wof:id":857071747,
-    "wof:lastmodified":1472620246,
+    "wof:lastmodified":1534184696,
     "wof:name":"County Of Des Moines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856952191
+    ],
     "wof:tags":[
         "parish",
         "government-county"

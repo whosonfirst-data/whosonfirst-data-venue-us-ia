@@ -2,18 +2,24 @@
   "id": 856784257,
   "type": "Feature",
   "properties": {
-    "addr:full":"51 Main Ave S Britt IA 50423",
+    "addr:city":"Britt",
+    "addr:full":"51 Main Ave S Britt, Ia 50423",
+    "addr:house_number":"51",
     "addr:housenumber":"51",
+    "addr:phone":"+1 641-843-9104",
     "addr:postcode":"50423",
+    "addr:road":"Main Ave S",
+    "addr:state":"IA",
     "addr:street":"Main Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.801751,43.096469,-93.801751,43.096469",
-    "geom:latitude":43.096469,
-    "geom:longitude":-93.801751,
+    "geom:bbox":"-93.79985,43.09231,-93.79985,43.09231",
+    "geom:latitude":43.09231,
+    "geom:longitude":-93.79985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"51 Main Ave S",
     "sg:city":"Britt",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 641 843 9104",
     "sg:postcode":"50423",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900066,
         "sg:id":"SG_5xKBLsYjU0U71y9oa1qZrx_43.096469_-93.801751@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102535,
-    "wof:geomhash":"d38780ded2b1a7f8530e4634cb2911f1",
+    "wof:geomhash":"473fa7850502fd79b719525b7f030047",
     "wof:hierarchy":[],
     "wof:id":856784257,
-    "wof:lastmodified":1472619978,
+    "wof:lastmodified":1534184694,
     "wof:name":"Hobo Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.801751,
-    43.096469,
-    -93.801751,
-    43.096469
+    -93.79985,
+    43.09231,
+    -93.79985,
+    43.09231
 ],
-  "geometry": {"coordinates":[-93.801751,43.096469],"type":"Point"}
+  "geometry": {"coordinates":[-93.79985000000001,43.09231],"type":"Point"}
 }

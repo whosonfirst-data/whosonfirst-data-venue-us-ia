@@ -7,6 +7,7 @@
     "addr:postcode":"52402",
     "addr:street":"51St St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.667801,42.029598,-91.667801,42.029598",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.667801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1951 51st St NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115244,
-    "wof:geomhash":"e66154de7aecb9882d7fc419db3f57d5",
+    "wof:geomhash":"ccf64847c48781b69a3b1f0d8cd80c01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,15 @@
         }
     ],
     "wof:id":857068105,
-    "wof:lastmodified":1472620161,
+    "wof:lastmodified":1534184696,
     "wof:name":"Peterson Steve Rl Est",
     "wof:parent_id":85831501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857068249,
+        857067627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

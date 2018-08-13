@@ -14,6 +14,7 @@
     "geom:longitude":-91.624702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4444 1st Ave NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115272,
-    "wof:geomhash":"3b4dc134683841bcfd212179906375ba",
+    "wof:geomhash":"0b16abd094a4323d5d82639ff27c2db8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857068611,
-    "wof:lastmodified":1472620199,
+    "wof:lastmodified":1534184696,
     "wof:name":"Victoria's Secret Inc",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856856951
+    ],
     "wof:tags":[
         "lingerie"
     ]

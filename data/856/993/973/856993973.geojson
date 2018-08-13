@@ -7,6 +7,7 @@
     "addr:postcode":"50158",
     "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.912308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3402 S Center St",
     "sg:city":"Marshalltown",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"429571cf18ede66a93bcc5c6404e9d3f",
     "wof:hierarchy":[],
     "wof:id":856993973,
-    "wof:lastmodified":1512142753,
+    "wof:lastmodified":1534184695,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857057341
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

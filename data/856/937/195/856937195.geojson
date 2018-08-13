@@ -7,6 +7,7 @@
     "addr:postcode":"52801",
     "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.581521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"428 Western Ave",
     "sg:city":"Davenport",
     "sg:classifiers":[
@@ -47,12 +48,14 @@
     "wof:geomhash":"bf362fd7b3c3b6ec887850b659c28ccd",
     "wof:hierarchy":[],
     "wof:id":856937195,
-    "wof:lastmodified":1510875686,
+    "wof:lastmodified":1534184694,
     "wof:name":"Assessors Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856838607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "policy",

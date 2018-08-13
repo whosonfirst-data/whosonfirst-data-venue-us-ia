@@ -2,18 +2,24 @@
   "id": 857009311,
   "type": "Feature",
   "properties": {
-    "addr:full":"214 W 5th St Storm Lake IA 50588",
+    "addr:city":"Storm Lake",
+    "addr:full":"214 W 5Th St Storm Lake, Ia 50588",
+    "addr:house_number":"214",
     "addr:housenumber":"214",
+    "addr:phone":"+1 712-732-4955",
     "addr:postcode":"50588",
+    "addr:road":"W 5Th St",
+    "addr:state":"IA",
     "addr:street":"W 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.203213,42.644368,-95.203213,42.644368",
-    "geom:latitude":42.644368,
-    "geom:longitude":-95.203213,
+    "geom:bbox":"-95.20224,42.64434,-95.20224,42.64434",
+    "geom:latitude":42.64434,
+    "geom:longitude":-95.20224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"214 W 5th St",
     "sg:city":"Storm Lake",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 712 732 4955",
     "sg:postcode":"50588",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533311
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900635,
         "sg:id":"SG_3n4ebIbYTmCoFNLlXKO2L9_42.644368_-95.203213@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112752,
-    "wof:geomhash":"6978bac094c9199b6511a5ea650165c9",
+    "wof:geomhash":"ec2134cd12596d30357d651a4599bde3",
     "wof:hierarchy":[],
     "wof:id":857009311,
-    "wof:lastmodified":1472619953,
-    "wof:name":"Buena Vista County Historical",
+    "wof:lastmodified":1534184694,
+    "wof:name":"Buena Vista County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.203213,
-    42.644368,
-    -95.203213,
-    42.644368
+    -95.20224,
+    42.64434,
+    -95.20224,
+    42.64434
 ],
-  "geometry": {"coordinates":[-95.20321300000001,42.644368],"type":"Point"}
+  "geometry": {"coordinates":[-95.20224,42.64434],"type":"Point"}
 }

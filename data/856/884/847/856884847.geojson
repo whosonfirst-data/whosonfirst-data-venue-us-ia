@@ -7,6 +7,7 @@
     "addr:postcode":"52728",
     "addr:street":"W Front St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.719314,41.455935,-90.719314,41.455935",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.719314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"206 W Front St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464107459,
-    "wof:geomhash":"5f3fce60e1e44d604fb329244f7531ae",
+    "wof:geomhash":"36eaf68c0efba2c01b5d26760c01df69",
     "wof:hierarchy":[],
     "wof:id":856884847,
-    "wof:lastmodified":1472620290,
+    "wof:lastmodified":1534184696,
     "wof:name":"Terry's Riverview Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857073133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 856973743,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 S 14th St Clinton IA 52732",
+    "addr:city":"Clinton",
+    "addr:full":"340 S 14Th St Clinton, Ia 52732-5432",
+    "addr:house_number":"340",
     "addr:housenumber":"340",
-    "addr:postcode":"52732",
+    "addr:phone":"+1 563-242-4771",
+    "addr:postcode":"52732-5432",
+    "addr:road":"S 14Th St",
+    "addr:state":"IA",
     "addr:street":"S 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.218742,41.841247,-90.218742,41.841247",
-    "geom:latitude":41.841247,
-    "geom:longitude":-90.218742,
+    "geom:bbox":"-90.21875,41.84087,-90.21875,41.84087",
+    "geom:latitude":41.84087,
+    "geom:longitude":-90.21875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"340 S 14th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -32,18 +38,22 @@
         "nature"
     ],
     "sg:website":"www.bickarb.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526471
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900335,
         "sg:id":"SG_2TNlmRAOJOm3Tix2lzDXb9_41.841247_-90.218742@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111143,
-    "wof:geomhash":"4765bd3180f44882bbd177a2e3a2786d",
+    "wof:geomhash":"12c6312f91c5a69498c1baf154a2ecc1",
     "wof:hierarchy":[],
     "wof:id":856973743,
-    "wof:lastmodified":1472620454,
+    "wof:lastmodified":1534184697,
     "wof:name":"Bickelhaupt Arboretum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -56,10 +66,10 @@
     ]
 },
   "bbox": [
-    -90.218742,
-    41.841247,
-    -90.218742,
-    41.841247
+    -90.21875,
+    41.84087,
+    -90.21875,
+    41.84087
 ],
-  "geometry": {"coordinates":[-90.21874200000001,41.841247],"type":"Point"}
+  "geometry": {"coordinates":[-90.21875,41.84087],"type":"Point"}
 }

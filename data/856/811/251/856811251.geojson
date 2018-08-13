@@ -7,6 +7,7 @@
     "addr:postcode":"51526",
     "addr:street":"Old Lincoln Hwy Crescent",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-95.858256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"515 Old Lincoln Hwy",
     "sg:city":"Crescent",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":856811251,
-    "wof:lastmodified":1510695709,
+    "wof:lastmodified":1534184696,
     "wof:name":"Peoples National Bank",
     "wof:parent_id":85872521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857064323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

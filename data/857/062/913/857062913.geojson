@@ -14,6 +14,7 @@
     "geom:longitude":-95.8675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2445 N 25th St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115019,
-    "wof:geomhash":"f346b142dac4c4b29a9e30a38d41f741",
+    "wof:geomhash":"fa77c7231118eb57164ac1f6216dd99b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857062913,
-    "wof:lastmodified":1472620226,
+    "wof:lastmodified":1534184695,
     "wof:name":"Abstract Painting & Decorating Inc",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857001655
+    ],
     "wof:tags":[
         "painter"
     ]

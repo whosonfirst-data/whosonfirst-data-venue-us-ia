@@ -7,6 +7,7 @@
     "addr:postcode":"52002",
     "addr:street":"John F Kennedy Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.720793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1915 John F Kennedy Rd",
     "sg:city":"Dubuque",
     "sg:classifiers":[
@@ -42,12 +43,14 @@
     "wof:geomhash":"b38cc51c1aecf9114dff6ed589651b58",
     "wof:hierarchy":[],
     "wof:id":856877299,
-    "wof:lastmodified":1512142750,
+    "wof:lastmodified":1534184695,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857058929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

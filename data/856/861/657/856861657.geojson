@@ -7,6 +7,7 @@
     "addr:postcode":"50501",
     "addr:street":"Ave O W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-94.207944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"107 Ave O W",
     "sg:city":"Fort Dodge",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"9abc80d8de6efc5d19660bd64a3351e7",
     "wof:hierarchy":[],
     "wof:id":856861657,
-    "wof:lastmodified":1512142968,
+    "wof:lastmodified":1534184695,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857058121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

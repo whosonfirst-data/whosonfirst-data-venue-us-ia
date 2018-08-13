@@ -7,6 +7,7 @@
     "addr:postcode":"52601",
     "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.117144,40.789374,-91.117144,40.789374",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.117144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1702 Harrison Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464107151,
-    "wof:geomhash":"cf3affd9e993555bc267805f8e2e2721",
+    "wof:geomhash":"a61ffdad40202a57c01cf37d90b62e37",
     "wof:hierarchy":[],
     "wof:id":856879937,
-    "wof:lastmodified":1472620289,
+    "wof:lastmodified":1534184696,
     "wof:name":"Beat Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857071871
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 856993559,
   "type": "Feature",
   "properties": {
-    "addr:full":"117 W 2nd St Muscatine IA 52761",
+    "addr:city":"Muscatine",
+    "addr:full":"117 W 2Nd St Muscatine, Ia 52761-3714",
+    "addr:house_number":"117",
     "addr:housenumber":"117",
-    "addr:postcode":"52761",
+    "addr:phone":"+1 563-263-1052",
+    "addr:postcode":"52761-3714",
+    "addr:road":"W 2Nd St",
+    "addr:state":"IA",
     "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.045885,41.421268,-91.045885,41.421268",
-    "geom:latitude":41.421268,
-    "geom:longitude":-91.045885,
+    "geom:bbox":"-91.04654,41.42094,-91.04654,41.42094",
+    "geom:latitude":41.42094,
+    "geom:longitude":-91.04654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"117 W 2nd St",
     "sg:city":"Muscatine",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900442,
         "sg:id":"SG_0yDyf2iNuV3osYmyu3lRC3_41.421268_-91.045885@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112127,
-    "wof:geomhash":"1a86baa363a4b2bd05388965b61d5db5",
+    "wof:geomhash":"abb24d7434b4c993daeceb32c45354d6",
     "wof:hierarchy":[],
     "wof:id":856993559,
-    "wof:lastmodified":1472620479,
-    "wof:name":"Historic Muscatine Inc",
+    "wof:lastmodified":1534184697,
+    "wof:name":"Historic Muscatine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -91.045885,
-    41.421268,
-    -91.045885,
-    41.421268
+    -91.04654,
+    41.42094,
+    -91.04654,
+    41.42094
 ],
-  "geometry": {"coordinates":[-91.045885,41.421268],"type":"Point"}
+  "geometry": {"coordinates":[-91.04653999999999,41.42094],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 856883729,
   "type": "Feature",
   "properties": {
-    "addr:full":"4010 70th St Urbandale IA 50322",
+    "addr:city":"Urbandale",
+    "addr:full":"4010 70Th Street Urbandale, Ia 50322-2616",
+    "addr:house_number":"4010",
     "addr:housenumber":"4010",
-    "addr:postcode":"50322",
+    "addr:phone":"+1 515-270-2917",
+    "addr:postcode":"50322-2616",
+    "addr:road":"70Th Street",
+    "addr:state":"IA",
     "addr:street":"70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.712309,41.634618,-93.712309,41.634618",
-    "geom:latitude":41.634618,
-    "geom:longitude":-93.712309,
+    "geom:bbox":"-93.71279,41.63414,-93.71279,41.63414",
+    "geom:latitude":41.63414,
+    "geom:longitude":-93.71279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4010 70th St",
     "sg:city":"Urbandale",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525803
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900357,
         "sg:id":"SG_3taFK7Rza70R6jwKiPUhYw_41.634618_-93.712309@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107414,
-    "wof:geomhash":"28be946529cc9187737dc27acf266b85",
+    "wof:geomhash":"7379407baecfa467d6aa4951e2371936",
     "wof:hierarchy":[],
     "wof:id":856883729,
-    "wof:lastmodified":1472620286,
+    "wof:lastmodified":1534184695,
     "wof:name":"Urbandale Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -93.712309,
-    41.634618,
-    -93.712309,
-    41.634618
+    -93.71279,
+    41.63414,
+    -93.71279,
+    41.63414
 ],
-  "geometry": {"coordinates":[-93.712309,41.634618],"type":"Point"}
+  "geometry": {"coordinates":[-93.71279,41.63414],"type":"Point"}
 }

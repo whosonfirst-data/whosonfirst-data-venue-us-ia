@@ -14,6 +14,7 @@
     "geom:longitude":-95.835403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Mercy Dr",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115032,
-    "wof:geomhash":"6c77accb3020b39c7ca4fd786a458ff0",
+    "wof:geomhash":"73157d61ef05c51d382e88a880817af2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857063307,
-    "wof:lastmodified":1472620180,
+    "wof:lastmodified":1534184695,
     "wof:name":"Alegent Health Orthopaedic Institute",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856996777
+    ],
     "wof:tags":[
         "orthopedist"
     ]

@@ -2,18 +2,24 @@
   "id": 856880313,
   "type": "Feature",
   "properties": {
-    "addr:full":"427 Douglas Ave Ames IA 50010",
+    "addr:city":"Ames",
+    "addr:full":"427 Douglas Ave Ames, Ia 50010-6213",
+    "addr:house_number":"427",
     "addr:housenumber":"427",
-    "addr:postcode":"50010",
+    "addr:phone":"+1 515-232-5331",
+    "addr:postcode":"50010-6213",
+    "addr:road":"Douglas Ave",
+    "addr:state":"IA",
     "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.612169,42.025743,-93.612169,42.025743",
-    "geom:latitude":42.025743,
-    "geom:longitude":-93.612169,
+    "geom:bbox":"-93.61216,42.02535,-93.61216,42.02535",
+    "geom:latitude":42.02535,
+    "geom:longitude":-93.61216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"427 Douglas Ave",
     "sg:city":"Ames",
     "sg:classifiers":[
@@ -32,18 +38,23 @@
         "gallery",
         "dealer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527563,
+        102531839
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900328,
         "sg:id":"SG_7Dog35xnXBwDGUtnrApDYi_42.025743_-93.612169@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107168,
-    "wof:geomhash":"5395ee5d51bea77cddd0599095f6d7ed",
+    "wof:geomhash":"92ccdd38d19ca346daee91d719f8bae1",
     "wof:hierarchy":[],
     "wof:id":856880313,
-    "wof:lastmodified":1472620269,
+    "wof:lastmodified":1534184695,
     "wof:name":"Octagon Center For The Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,10 +68,10 @@
     ]
 },
   "bbox": [
-    -93.612169,
-    42.025743,
-    -93.612169,
-    42.025743
+    -93.61216,
+    42.02535,
+    -93.61216,
+    42.02535
 ],
-  "geometry": {"coordinates":[-93.61216899999999,42.025743],"type":"Point"}
+  "geometry": {"coordinates":[-93.61216,42.02535],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 856775215,
   "type": "Feature",
   "properties": {
-    "addr:full":"701 Locust St Dubuque IA 52001",
+    "addr:city":"Dubuque",
+    "addr:full":"701 Locust St Dubuque, Ia 52001-6817",
+    "addr:house_number":"701",
     "addr:housenumber":"701",
-    "addr:postcode":"52001",
+    "addr:phone":"+1 563-557-1851",
+    "addr:postcode":"52001-6817",
+    "addr:road":"Locust St",
+    "addr:state":"IA",
     "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.668328,42.500543,-90.668328,42.500543",
-    "geom:latitude":42.500543,
-    "geom:longitude":-90.668328,
+    "geom:bbox":"-90.66832,42.50034,-90.66832,42.50034",
+    "geom:latitude":42.50034,
+    "geom:longitude":-90.66832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"701 Locust St",
     "sg:city":"Dubuque",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 563 557 1851",
     "sg:postcode":"52001",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528703
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900358,
         "sg:id":"SG_5isnjy1eXBarCOIGxfHmet_42.500543_-90.668328@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464102330,
-    "wof:geomhash":"f06f93be3ba5c874b466907c97c2c4e5",
+    "wof:geomhash":"fbe7f90bcf5bef169bc056474ddd0b73",
     "wof:hierarchy":[],
     "wof:id":856775215,
-    "wof:lastmodified":1472619939,
+    "wof:lastmodified":1534184694,
     "wof:name":"Dubuque Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.668328,
-    42.500543,
-    -90.668328,
-    42.500543
+    -90.66832,
+    42.50034,
+    -90.66832,
+    42.50034
 ],
-  "geometry": {"coordinates":[-90.668328,42.500543],"type":"Point"}
+  "geometry": {"coordinates":[-90.66831999999999,42.50034],"type":"Point"}
 }

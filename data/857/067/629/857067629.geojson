@@ -7,6 +7,7 @@
     "addr:postcode":"52402",
     "addr:street":"Collins Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.629898,42.027699,-91.629898,42.027699",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.629898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"385 Collins Rd NE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115208,
-    "wof:geomhash":"aba4d71c88a2c47173eb2fd074843250",
+    "wof:geomhash":"6d0d5f3312334497b954377cf6c4f223",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857067629,
-    "wof:lastmodified":1472620211,
+    "wof:lastmodified":1534184697,
     "wof:name":"Dekko Gary Rl Est",
     "wof:parent_id":85876625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856901641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

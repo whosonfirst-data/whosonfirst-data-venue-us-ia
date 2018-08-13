@@ -2,18 +2,24 @@
   "id": 856909955,
   "type": "Feature",
   "properties": {
-    "addr:full":"410 Hilltop Ave Stanton IA 51573",
+    "addr:city":"Stanton",
+    "addr:full":"410 Hilltop Ave Stanton, Ia 51573",
+    "addr:house_number":"410",
     "addr:housenumber":"410",
+    "addr:phone":"+1 712-829-2840",
     "addr:postcode":"51573",
+    "addr:road":"Hilltop Ave",
+    "addr:state":"IA",
     "addr:street":"Hilltop Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.102173,40.982575,-95.102173,40.982575",
-    "geom:latitude":40.982575,
-    "geom:longitude":-95.102173,
+    "geom:bbox":"-95.10218,40.98177,-95.10218,40.98177",
+    "geom:latitude":40.98177,
+    "geom:longitude":-95.10218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"410 Hilltop Ave",
     "sg:city":"Stanton",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 712 829 2840",
     "sg:postcode":"51573",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900491,
         "sg:id":"SG_1EZNRRjQ4qsuYAvExu5YqS_40.982575_-95.102173@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464108420,
-    "wof:geomhash":"f0d28b16bb6882bb21d9cf82ba0af819",
+    "wof:geomhash":"e7c2dafc357dd4863356464a08f9d108",
     "wof:hierarchy":[],
     "wof:id":856909955,
-    "wof:lastmodified":1472620352,
+    "wof:lastmodified":1534184697,
     "wof:name":"Stanton Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.102173,
-    40.982575,
-    -95.102173,
-    40.982575
+    -95.10218,
+    40.98177,
+    -95.10218,
+    40.98177
 ],
-  "geometry": {"coordinates":[-95.10217299999999,40.982575],"type":"Point"}
+  "geometry": {"coordinates":[-95.10218,40.98177],"type":"Point"}
 }

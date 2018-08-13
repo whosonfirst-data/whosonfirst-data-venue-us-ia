@@ -7,6 +7,7 @@
     "addr:postcode":"50702",
     "addr:street":"La Porte Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.313876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1620 la Porte Rd",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -42,12 +43,14 @@
     "wof:geomhash":"26e5664db3e47e33ae08998552aa88ad",
     "wof:hierarchy":[],
     "wof:id":856952503,
-    "wof:lastmodified":1511317946,
+    "wof:lastmodified":1534184695,
     "wof:name":"Taco John's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857058391
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

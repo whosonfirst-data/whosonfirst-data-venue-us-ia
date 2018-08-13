@@ -2,18 +2,24 @@
   "id": 856884667,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 9th St SW Clarion IA 50525",
+    "addr:city":"Clarion",
+    "addr:full":"119 9Th St Sw Clarion, Ia 50525",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
+    "addr:phone":"+1 515-602-6000",
     "addr:postcode":"50525",
+    "addr:road":"9Th St Sw",
+    "addr:state":"IA",
     "addr:street":"9Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.74428,42.731488,-93.74428,42.731488",
-    "geom:latitude":42.731488,
-    "geom:longitude":-93.74428,
+    "geom:bbox":"-93.73284,42.7317,-93.73284,42.7317",
+    "geom:latitude":42.7317,
+    "geom:longitude":-93.73284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 9th St SW",
     "sg:city":"Clarion",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 515 602 6000",
     "sg:postcode":"50525",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900091,
         "sg:id":"SG_2YHZSBwS5O9TaOng2fElOJ_42.731488_-93.744280@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107452,
-    "wof:geomhash":"5c89def7fc242698905769d0acfa9b71",
+    "wof:geomhash":"44c06ff781374a98209ebc5f6820e9de",
     "wof:hierarchy":[],
     "wof:id":856884667,
-    "wof:lastmodified":1472620282,
+    "wof:lastmodified":1534184695,
     "wof:name":"Heartland Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.74428,
-    42.731488,
-    -93.74428,
-    42.731488
+    -93.73284,
+    42.7317,
+    -93.73284,
+    42.7317
 ],
-  "geometry": {"coordinates":[-93.74428,42.731488],"type":"Point"}
+  "geometry": {"coordinates":[-93.73284,42.7317],"type":"Point"}
 }

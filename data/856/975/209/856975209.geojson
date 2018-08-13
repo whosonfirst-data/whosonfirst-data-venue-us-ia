@@ -7,6 +7,7 @@
     "addr:postcode":"50158",
     "addr:street":"N Center St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.913031,42.050109,-92.913031,42.050109",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.913031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24 N Center St",
     "sg:city":"Marshalltown",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464111217,
-    "wof:geomhash":"10b3eafec885ac75503927513cf3a77d",
+    "wof:geomhash":"6358cb280dd291363f11730001aef566",
     "wof:hierarchy":[],
     "wof:id":856975209,
-    "wof:lastmodified":1472620413,
+    "wof:lastmodified":1534184694,
     "wof:name":"Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856845767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personnel",

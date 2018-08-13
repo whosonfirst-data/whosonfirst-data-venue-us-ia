@@ -7,6 +7,7 @@
     "addr:postcode":"52101",
     "addr:street":"State Hwy 9",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.810802,43.291466,-91.810802,43.291466",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.810802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2092 State Hwy 9",
     "sg:city":"Decorah",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464112097,
-    "wof:geomhash":"4fc7d6e933e951a4437086791471d43e",
+    "wof:geomhash":"ddfa2fce2360e2fcaf5b4f6cdfd659cc",
     "wof:hierarchy":[],
     "wof:id":856992761,
-    "wof:lastmodified":1472620480,
+    "wof:lastmodified":1534184696,
     "wof:name":"J B Holland Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857065219
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "excavating",

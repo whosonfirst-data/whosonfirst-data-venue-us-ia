@@ -2,18 +2,24 @@
   "id": 856979241,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 E High St Rockwell City IA 50579",
+    "addr:city":"Rockwell City",
+    "addr:full":"150 High St Rockwell City, Ia 50579",
+    "addr:house_number":"150",
     "addr:housenumber":"150",
+    "addr:phone":"+1 712-297-8139",
     "addr:postcode":"50579",
+    "addr:road":"High St",
+    "addr:state":"IA",
     "addr:street":"E High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.628808,42.398901,-94.628808,42.398901",
-    "geom:latitude":42.398901,
-    "geom:longitude":-94.628808,
+    "geom:bbox":"-94.63391,42.39958,-94.63391,42.39958",
+    "geom:latitude":42.39958,
+    "geom:longitude":-94.63391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"150 E High St",
     "sg:city":"Rockwell City",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900119,
         "sg:id":"SG_52QWRO6vPmlzA0hQQ8KYFd_42.398901_-94.628808@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464111422,
-    "wof:geomhash":"13a0319d58e8313b96fdeac274705e67",
+    "wof:geomhash":"f67e069b0e47652cf488b319fca70ff9",
     "wof:hierarchy":[],
     "wof:id":856979241,
-    "wof:lastmodified":1472620458,
+    "wof:lastmodified":1534184697,
     "wof:name":"Calhoun County Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -94.628808,
-    42.398901,
-    -94.628808,
-    42.398901
+    -94.63391,
+    42.39958,
+    -94.63391,
+    42.39958
 ],
-  "geometry": {"coordinates":[-94.62880800000001,42.398901],"type":"Point"}
+  "geometry": {"coordinates":[-94.63391,42.39958],"type":"Point"}
 }

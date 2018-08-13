@@ -14,6 +14,7 @@
     "geom:longitude":-95.851097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"233 Pearl St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115066,
-    "wof:geomhash":"3364af7534cdf8d807a09372441a9294",
+    "wof:geomhash":"68ca0ca103e0843058227ecab2707bec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857064111,
-    "wof:lastmodified":1472620178,
+    "wof:lastmodified":1534184696,
     "wof:name":"Rogers Scott J Lwyr",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857064057
+    ],
     "wof:tags":[
         "personal",
         "injury"

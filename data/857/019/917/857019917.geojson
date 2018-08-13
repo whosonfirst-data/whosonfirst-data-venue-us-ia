@@ -7,6 +7,7 @@
     "addr:postcode":"52722",
     "addr:street":"Kimberly Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.522344,41.544627,-90.522344,41.544627",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.522344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2435 Kimberly Rd",
     "sg:city":"Bettendorf",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464113191,
-    "wof:geomhash":"6bf0c0821ce517b1cccaa0a93da76f86",
+    "wof:geomhash":"b5dc7485d0a625af9fa562d896fb28e9",
     "wof:hierarchy":[],
     "wof:id":857019917,
-    "wof:lastmodified":1472620024,
+    "wof:lastmodified":1534184697,
     "wof:name":"SLB Group Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856901339
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"

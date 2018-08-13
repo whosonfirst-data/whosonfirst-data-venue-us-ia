@@ -7,6 +7,7 @@
     "addr:postcode":"51501",
     "addr:street":"N 25Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.881666,41.277938,-95.881666,41.277938",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.881666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2445 N 25th St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464112429,
-    "wof:geomhash":"bb6de080e280d8708951ad4e9c49fb0e",
+    "wof:geomhash":"1bfc0a1598d8f086e05c2f7fdbaa4ab2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857001655,
-    "wof:lastmodified":1472619949,
+    "wof:lastmodified":1534184695,
     "wof:name":"Abstract Painting",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857062913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"

@@ -7,6 +7,7 @@
     "addr:postcode":"52401",
     "addr:street":"5Th Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.65871,41.979122,-91.65871,41.979122",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.65871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"712 5th Ave SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464102813,
-    "wof:geomhash":"8a9c244a75e34d5bd6d892d86f7d76b9",
+    "wof:geomhash":"8f4e7b88bcc7fa5b290b240db9a38173",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":856790831,
-    "wof:lastmodified":1472620024,
+    "wof:lastmodified":1534184696,
     "wof:name":"P W Lottes MD",
     "wof:parent_id":85876619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857067403
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

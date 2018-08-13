@@ -2,18 +2,24 @@
   "id": 857033697,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 Indiana St Sidney IA 51652",
+    "addr:city":"Sidney",
+    "addr:full":"801 Indiana St Sidney, Ia 51652",
+    "addr:house_number":"801",
     "addr:housenumber":"801",
+    "addr:phone":"+1 712-374-3248",
     "addr:postcode":"51652",
+    "addr:road":"Indiana St",
+    "addr:state":"IA",
     "addr:street":"Indiana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.646526,40.748028,-95.646526,40.748028",
-    "geom:latitude":40.748028,
-    "geom:longitude":-95.646526,
+    "geom:bbox":"-95.64059,40.75411,-95.64059,40.75411",
+    "geom:latitude":40.75411,
+    "geom:longitude":-95.64059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"801 Indiana St",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 712 374 3248",
     "sg:postcode":"51652",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900080,
         "sg:id":"SG_7n2ULFhC3DXiwCFjJ0xxWs_40.748028_-95.646526@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464113810,
-    "wof:geomhash":"7a8a5ec08d4ca4a82b9b0721da400d80",
+    "wof:geomhash":"3e8608cd55dd8c8c313e1aca8007af93",
     "wof:hierarchy":[],
     "wof:id":857033697,
-    "wof:lastmodified":1472620036,
+    "wof:lastmodified":1534184695,
     "wof:name":"Fremont Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.646526,
-    40.748028,
-    -95.646526,
-    40.748028
+    -95.64059,
+    40.75411,
+    -95.64059,
+    40.75411
 ],
-  "geometry": {"coordinates":[-95.64652599999999,40.748028],"type":"Point"}
+  "geometry": {"coordinates":[-95.64059,40.75411],"type":"Point"}
 }

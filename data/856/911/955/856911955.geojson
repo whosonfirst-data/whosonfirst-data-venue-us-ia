@@ -14,6 +14,7 @@
     "geom:longitude":-93.752071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1551 Valley West Dr",
     "sg:city":"West Des Moines",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464108504,
-    "wof:geomhash":"a06f6339b22da0690f6cca411b9645e0",
+    "wof:geomhash":"50637e5030cb68b0325b162327ab12ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":856911955,
-    "wof:lastmodified":1472620353,
+    "wof:lastmodified":1534184697,
     "wof:name":"Life Touch Portrait Studi",
     "wof:parent_id":85896539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856773129
+    ],
     "wof:tags":[
         "photo"
     ]

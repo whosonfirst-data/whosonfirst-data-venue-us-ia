@@ -7,6 +7,7 @@
     "addr:postcode":"50219",
     "addr:street":"E Oskaloosa St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.901797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"309 E Oskaloosa St",
     "sg:city":"Pella",
     "sg:classifiers":[
@@ -42,12 +43,14 @@
     "wof:geomhash":"9a7218164eaa8be981dc5b0d46d0c2af",
     "wof:hierarchy":[],
     "wof:id":856804111,
-    "wof:lastmodified":1512142968,
+    "wof:lastmodified":1534184695,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857057405
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

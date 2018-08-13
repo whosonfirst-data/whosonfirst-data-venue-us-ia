@@ -2,18 +2,24 @@
   "id": 856801937,
   "type": "Feature",
   "properties": {
-    "addr:full":"6665 Otis Rd SE Cedar Rapids IA 52403",
+    "addr:city":"Cedar Rapids",
+    "addr:full":"6665 Otis Rd Se Cedar Rapids, Ia 52403-7134",
+    "addr:house_number":"6665",
     "addr:housenumber":"6665",
-    "addr:postcode":"52403",
+    "addr:phone":"+1 319-362-0664",
+    "addr:postcode":"52403-7134",
+    "addr:road":"Otis Rd Se",
+    "addr:state":"IA",
     "addr:street":"Otis Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.580558,41.967332,-91.580558,41.967332",
-    "geom:latitude":41.967332,
-    "geom:longitude":-91.580558,
+    "geom:bbox":"-91.58003,41.96744,-91.58003,41.96744",
+    "geom:latitude":41.96744,
+    "geom:longitude":-91.58003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6665 Otis Rd SE",
     "sg:city":"Cedar Rapids",
     "sg:classifiers":[
@@ -32,21 +38,25 @@
         "org"
     ],
     "sg:website":"www.indiancreeknaturecenter.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531369
+    ],
     "wof:belongsto":[
-        85688713,
+        85839927,
         85633793,
         85944253,
         102086551,
-        85839927
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900188,
         "sg:id":"SG_6iMPmJI2LnWWH2RC9f17va_41.967332_-91.580558@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464103270,
-    "wof:geomhash":"2a4f02ae97df1c331bb9e2d1a09b41a1",
+    "wof:geomhash":"ba0fd856660f3a68e04bf455ac2a2ea1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":856801937,
-    "wof:lastmodified":1472620118,
-    "wof:name":"Indian Creek Nature Ctr",
+    "wof:lastmodified":1534184694,
+    "wof:name":"Indian Creek Nature Center",
     "wof:parent_id":85839927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -91.580558,
-    41.967332,
-    -91.580558,
-    41.967332
+    -91.58003,
+    41.96744,
+    -91.58003,
+    41.96744
 ],
-  "geometry": {"coordinates":[-91.580558,41.967332],"type":"Point"}
+  "geometry": {"coordinates":[-91.58002999999999,41.96744],"type":"Point"}
 }

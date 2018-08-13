@@ -14,6 +14,7 @@
     "geom:longitude":-95.840868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 Harmony St",
     "sg:city":"Council Bluffs",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464115038,
-    "wof:geomhash":"9d73547deda4b6914c7a252055610472",
+    "wof:geomhash":"1da50103fb91862ec1f039d8256ce66c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":857063483,
-    "wof:lastmodified":1472620190,
+    "wof:lastmodified":1534184695,
     "wof:name":"Boys Town National Research Hospital",
     "wof:parent_id":85816645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857063377
+    ],
     "wof:tags":[]
 },
   "bbox": [

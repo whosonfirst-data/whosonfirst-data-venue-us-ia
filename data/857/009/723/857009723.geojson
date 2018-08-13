@@ -2,18 +2,24 @@
   "id": 857009723,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 W Main St Wyoming IA 52362",
+    "addr:city":"Wyoming",
+    "addr:full":"121 W Main St Wyoming, Ia 52362",
+    "addr:house_number":"121",
     "addr:housenumber":"121",
+    "addr:phone":"+1 563-488-3198",
     "addr:postcode":"52362",
+    "addr:road":"W Main St",
+    "addr:state":"IA",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.006254,42.058809,-91.006254,42.058809",
-    "geom:latitude":42.058809,
-    "geom:longitude":-91.006254,
+    "geom:bbox":"-91.00624,42.05879,-91.00624,42.05879",
+    "geom:latitude":42.05879,
+    "geom:longitude":-91.00624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"121 W Main St",
     "sg:city":"Wyoming",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 563 488 3198",
     "sg:postcode":"52362",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900015,
         "sg:id":"SG_4cIq8IAAPLdzhnMBHxEUQj_42.058809_-91.006254@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464112777,
-    "wof:geomhash":"8da4e8524dab20bb6a3f6d2dfc284015",
+    "wof:geomhash":"9f6f44632fa454c0e5e3ade7012b9a20",
     "wof:hierarchy":[],
     "wof:id":857009723,
-    "wof:lastmodified":1472619993,
+    "wof:lastmodified":1534184694,
     "wof:name":"Wyoming Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.006254,
-    42.058809,
-    -91.006254,
-    42.058809
+    -91.00624,
+    42.05879,
+    -91.00624,
+    42.05879
 ],
-  "geometry": {"coordinates":[-91.006254,42.058809],"type":"Point"}
+  "geometry": {"coordinates":[-91.00624000000001,42.05879],"type":"Point"}
 }

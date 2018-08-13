@@ -2,19 +2,25 @@
   "id": 856884723,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 Walnut St Des Moines IA 50309",
+    "addr:city":"Des Moines",
+    "addr:full":"800 Walnut St Des Moines, Ia 50309",
+    "addr:house_number":"800",
     "addr:housenumber":"800",
+    "addr:phone":"+1 515-557-6109",
     "addr:postcode":"50309",
+    "addr:road":"Walnut St",
+    "addr:state":"IA",
     "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.628305,41.58513,-93.628305,41.58513",
-    "geom:latitude":41.58513,
-    "geom:longitude":-93.628305,
+    "geom:bbox":"-93.62758,41.58497,-93.62758,41.58497",
+    "geom:latitude":41.58497,
+    "geom:longitude":-93.62758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"800 Walnut St",
     "sg:city":"Des Moines",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 515 557 6109",
     "sg:postcode":"50309",
     "sg:province":"IA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525803
+    ],
     "wof:belongsto":[
         85688713,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401900100,
         "sg:id":"SG_30lryXgMh4SI2ifsjwLxRo_41.585130_-93.628305@1294088824"
     },
     "wof:country":"US",
     "wof:created":1464107454,
-    "wof:geomhash":"02281f6ffc6c3de72e42f01ca1e420f4",
+    "wof:geomhash":"ad22d2711b40688faa68e7a8d2c4a4da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":856884723,
-    "wof:lastmodified":1491924309,
-    "wof:name":"Des Moines Art Ctr Downtown",
+    "wof:lastmodified":1534184695,
+    "wof:name":"Des Moines Art Center Downtown",
     "wof:parent_id":85877061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.628305,
-    41.58513,
-    -93.628305,
-    41.58513
+    -93.62758,
+    41.58497,
+    -93.62758,
+    41.58497
 ],
-  "geometry": {"coordinates":[-93.628305,41.58513],"type":"Point"}
+  "geometry": {"coordinates":[-93.62757999999999,41.58497],"type":"Point"}
 }

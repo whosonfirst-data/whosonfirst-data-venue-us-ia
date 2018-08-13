@@ -7,6 +7,7 @@
     "addr:postcode":"50325",
     "addr:street":"Nw 124Th Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.788334,41.602321,-93.788334,41.602321",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.788334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1444 NW 124th Ct",
     "sg:city":"Clive",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464104946,
-    "wof:geomhash":"2af46c4c429e641b0618a667316cdaca",
+    "wof:geomhash":"319b5d1e5d0b1998df45ecd14c04ceb5",
     "wof:hierarchy":[],
     "wof:id":856838609,
-    "wof:lastmodified":1472620159,
+    "wof:lastmodified":1534184694,
     "wof:name":"Campney & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ia",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856867587
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
